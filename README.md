@@ -67,7 +67,7 @@ substance designer的 c#实现
 - https://github.com/Metric/Materia  
  
 空间划分
-- https://www.cnblogs.com/KillerAery/p/10878367.html --
+- https://www.cnblogs.com/KillerAery/p/10878367.html 
 
 学习opengl
 - https://learnopengl-cn.readthedocs.io/zh/latest/
@@ -80,7 +80,7 @@ shader map总结
 
 js
 ---
-- https://muyiy.cn/blog/ -- 优秀博主
+- https://muyiy.cn/blog/ -- js优秀博主
 - https://github.com/airbnb/javascript JavaScript Style Guide 
 
  命令行
