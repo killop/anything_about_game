@@ -31,6 +31,7 @@ workflow
 ---
 - https://github.com/kosua20/herebedragons
 - https://github.com/bkaradzic/bgfx
+- https://github.com/sinclairzx81/zero
  
 
 ComputerGraphics && shader
@@ -90,7 +91,8 @@ js
 面试
 ---
 - https://github.com/0voice/interview_internal_reference#1
-
+- https://github.com/ZXZxin/ZXBlog
+- https://github.com/awangdev/LintCode
 lua
 ---
 http://cloudwu.github.io/lua53doc/manual.html#lua_newstate
