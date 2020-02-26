@@ -19,6 +19,9 @@ workflow
 ---
 - https://github.com/n8n-io/n8n
 
+思维逻辑
+---
+- http://www.ladouban.com/booklist/listhash/1681586488032661392
 
 游戏服务器
 ---
