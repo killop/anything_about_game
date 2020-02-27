@@ -10,9 +10,11 @@ awesome
 3. https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
 4. https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
  
-
-
-
+程序员的乐园
+--- 
+- https://news.ycombinator.com/news hakernews
+- https://lobste.rs/ lobste
+- https://github.com 
 
 游戏服务器
 ---
