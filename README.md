@@ -2,8 +2,8 @@ awesome
 --- 
 1. https://awesomeopensource.com/
 2. https://github.com/awesome-selfhosted/awesome-selfhosted
-3. https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts 中国集锦
-4. https://www.cnblogs.com/lonelyxmas/p/12204134.html 国外c# 项目集锦 
+3. https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
+4. https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
  
 
 
@@ -100,9 +100,9 @@ https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
 c#
 ---
-1. [git的c#实现](https://github.com/libgit2/libgit2sharp)
-2. [nat打洞](https://github.com/NetchX/Netch);
-3. 异步编程 https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
+1. [git的c#实现] (https://github.com/libgit2/libgit2sharp)
+2. [nat打洞] (https://github.com/NetchX/Netch);
+3. 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
 
 
 程序员装备
@@ -124,14 +124,14 @@ unity
     - https://github.com/Cysharp/UniTask
     - https://github.com/Arvtesh/UnityFx.Async
 -  unity 特色工程
-    -  https://molingyu.github.io/RosettaDocs/ 本地化
-    -  https://github.com/hiroki-o/VoxBlend unity 表情
-    -  https://github.com/huailiang/knead_proj unity 捏脸
-    -  https://github.com/AdultLink/RadialProgressBar 牛逼的雷达进度条
+    -  https://molingyu.github.io/RosettaDocs/  本地化
+    -  https://github.com/hiroki-o/VoxBlend unity  表情
+    -  https://github.com/huailiang/knead_proj unity  捏脸
+    -  https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
     -  https://github.com/JiepengTan/LockstepECS 阵容不
     -  https://github.com/keijiro/KinoBloom 牛逼的bloom
 - TextMesh
-    - https://github.com/chick-soups/TextFilesForTextMeshPro tm的字体库
+    - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 -  资源汇总
     - https://github.com/insthync/awesome-unity3d
 - 个人博客  
@@ -210,3 +210,7 @@ workflow
 思维逻辑
 ---
 - http://www.ladouban.com/booklist/listhash/1681586488032661392
+
+文案排版
+---
+- https://github.com/sparanoid/chinese-copywriting-guidelines 中文文案排版
