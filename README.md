@@ -101,7 +101,8 @@ js
 lua
 ---
 - http://cloudwu.github.io/lua53doc/manual.html
-转lua 最有潜力的：
+
+- 转lua 最有潜力的：
  - https://github.com/roblox-ts/roblox-ts
  - https://github.com/titan-lang/titan
 
