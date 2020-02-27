@@ -236,5 +236,4 @@ workflow (请不要添加丑陋的jenkins)
 文案排版
 ---
 - https://github.com/sparanoid/chinese-copywriting-guidelines 中文文案排版
-
-######## 看完不star，小心没有jj :）
+####### 看完不star，小心没有jj :）
