@@ -12,7 +12,7 @@ awesome
  
 程序员的乐园
 --- 
-- https://news.ycombinator.com/news hakernews
+- https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
 - https://github.com 
 
