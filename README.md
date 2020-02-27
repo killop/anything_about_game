@@ -3,7 +3,7 @@
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
 进群后跟群主申请就好，群主是个很乐意分享的人
 
-awesome 
+Awesome 
 --- 
 1. https://awesomeopensource.com/
 2. https://github.com/awesome-selfhosted/awesome-selfhosted
