@@ -186,6 +186,14 @@ https://zhuanlan.zhihu.com/p/36765725 --
 ###### layout
 - https://gameinstitute.qq.com/community/detail/117690
 
+---
+###### 适合做untiy的脚本语言
+- tolua
+- xlua
+- jsb
+- gravity
+- quickjs
+- wren
 
 知识库软件
 ---
