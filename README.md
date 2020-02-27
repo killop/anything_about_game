@@ -87,6 +87,7 @@ js
 高性能数据结构和算法
 ---
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp
+- https://github.com/Dogwei/Swifter.Core
 
 lua
 ---
