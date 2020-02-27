@@ -98,6 +98,7 @@ js
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - https://github.com/Dogwei/Swifter.Core -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
+- https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
 
 lua
 ---
