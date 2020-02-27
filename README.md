@@ -84,6 +84,10 @@ js
 - https://github.com/awangdev/LintCode
 - https://github.com/apachecn/Interview
 
+高性能数据结构和算法
+---
+- https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp
+
 lua
 ---
 http://cloudwu.github.io/lua53doc/manual.html#lua_newstate
