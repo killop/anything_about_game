@@ -151,14 +151,16 @@ unity
     - https://github.com/modesttree/Unity3dAsyncAwaitUtil
     - https://github.com/Cysharp/UniTask
     - https://github.com/Arvtesh/UnityFx.Async
--  unity 特色工程
+-  unity 特色工程（精粹）
     -  https://molingyu.github.io/RosettaDocs/  本地化
     -  https://github.com/hiroki-o/VoxBlend unity  表情
     -  https://github.com/huailiang/knead_proj unity  捏脸
     -  https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
-    -  https://github.com/JiepengTan/LockstepECS 阵容不
+    -  https://github.com/JiepengTan/LockstepECS 帧同步
     -  https://github.com/keijiro/KinoBloom 牛逼的bloom
     -  https://github.com/OneYoungMean/AutomaticDynamicBone 牛逼的动态骨骼
+    -  https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
+  
 - TextMesh
     - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 -  资源汇总
