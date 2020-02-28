@@ -103,7 +103,7 @@ shader map总结
 非真实渲染
 - https://mp.weixin.qq.com/s/oNjYmta6FFkfhCsOO6ZCWA 
 
-js
+javascript
 ---
 - https://muyiy.cn/blog/ -- js优秀博主
 - https://github.com/airbnb/javascript JavaScript Style Guide 
@@ -120,7 +120,7 @@ lua
     - https://github.com/roblox-ts/roblox-ts
     - https://github.com/titan-lang/titan
 
-typscript
+typescript
 ---
 https://jkchao.github.io/typescript-book-chinese/#how-to-contribute	
 
