@@ -111,10 +111,6 @@ js
 - https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md js的奇技淫巧
 - https://github.com/trekhleb/javascript-algorithms js相关的数据结构
 
- 命令行
----
-- https://github.com/natemcmaster/CommandLineUtils
-
 lua
 ---
 - http://cloudwu.github.io/lua53doc/manual.html
@@ -129,14 +125,10 @@ https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
 c#
 ---
-1. [git的c#实现] (https://github.com/libgit2/libgit2sharp)
-2. [nat打洞] (https://github.com/NetchX/Netch);
-3. 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
-
-
-程序员装备
----
-1. https://github.com/wesbos/awesome-uses
+- [git的c#实现] (https://github.com/libgit2/libgit2sharp)
+- [nat打洞] (https://github.com/NetchX/Netch);
+- 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
+- 命令行 https://github.com/natemcmaster/CommandLineUtils
 
 unity
 ---
@@ -244,6 +236,10 @@ workflow (请不要添加丑陋的jenkins)
 ---
 - https://github.com/n8n-io/n8n
 - https://github.com/fastlane/fastlane
+
+程序员装备
+---
+1. https://github.com/wesbos/awesome-uses
 
 思维逻辑
 ---
