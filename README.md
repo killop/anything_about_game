@@ -56,6 +56,13 @@ Game-Server
 - https://github.com/kosua20/herebedragons
 - https://github.com/bkaradzic/bgfx
 - https://github.com/sinclairzx81/zero
+
+软渲染 C/CPP 
+---
+- https://www.mesa3d.org/ 爸爸级别
+- https://github.com/ssloy/tinyrenderer
+- https://github.com/zauonlok/renderer
+- https://github.com/Angelo1211/SoftwareRenderer
  
 
 ComputerGraphics && shader
