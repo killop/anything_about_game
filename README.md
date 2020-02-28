@@ -9,8 +9,7 @@ Awesome-General
 - https://github.com/sindresorhus/awesome
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
-- c#
-    - https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
+- https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
 
 Awesome-Game
 ---
