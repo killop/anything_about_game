@@ -19,13 +19,13 @@ Awesome-Game
 - https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
 - https://github.com/soruly/awesome-acg 嗯！acg
  
-程序员的乐园
+News
 --- 
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
 - https://github.com 
 
-游戏服务器
+Game-Server
 --- 
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
 - https://github.com/TrinityCore/TrinityCore
