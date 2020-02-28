@@ -264,5 +264,9 @@ workflow (面试考jenkins的，基本上都是菜鸟)
 ---
 - https://github.com/sparanoid/chinese-copywriting-guidelines 中文文案排版
 
+杂项
+---
+- https://www.animatedknots.com 如何系绳子-关键时候救你一命
+
 
 ###### 看完不star，小心没有jj :）
