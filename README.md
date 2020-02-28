@@ -3,12 +3,17 @@
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
 进群后跟群主申请就好，群主是个很乐意分享的人
 
-Awesome 
+Awesome-General
 --- 
 1. https://awesomeopensource.com/
 2. https://github.com/awesome-selfhosted/awesome-selfhosted
 3. https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
 4. https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
+
+Awesome-Game
+---
+- https://github.com/Calinou/awesome-gamedev
+- https://github.com/Kavex/GameDev-Resources
  
 程序员的乐园
 --- 
@@ -17,7 +22,8 @@ Awesome
 - https://github.com 
 
 游戏服务器
----
+--- 
+- https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
 - https://github.com/TrinityCore/TrinityCore
 - https://github.com/azerothcore/azerothcore-wotlk
 - https://github.com/ylmbtm/GameProject3
@@ -80,6 +86,8 @@ js
 - https://muyiy.cn/blog/ -- js优秀博主
 - https://github.com/airbnb/javascript JavaScript Style Guide 
 - https://github.com/ryanmcdermott/clean-code-javascript clean-code-javascript
+- https://github.com/vuejs/vue 不解释，最牛逼的框架
+- https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md js的奇技淫巧
 
  命令行
  ---
@@ -131,7 +139,6 @@ unity
     - https://github.com/Cysharp/MasterMemory
 - 集锦
     - https://github.com/agarcialeon/awesome-unity#awesome-unity 
-    - https://github.com/Kavex/GameDev-Resources
     - https://github.com/baba-s/awesome-unity-open-source-on-github
     - https://lab.uwa4d.com/
     - https://unitylist.com/
