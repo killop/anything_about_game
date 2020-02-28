@@ -15,6 +15,7 @@ Awesome-Game
 ---
 - https://github.com/Calinou/awesome-gamedev
 - https://github.com/Kavex/GameDev-Resources
+- https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自驾
  
 程序员的乐园
 --- 
