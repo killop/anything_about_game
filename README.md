@@ -5,10 +5,12 @@
 
 Awesome-General
 --- 
-1. https://awesomeopensource.com/
-2. https://github.com/awesome-selfhosted/awesome-selfhosted
-3. https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
-4. https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
+- https://awesomeopensource.com/
+- https://github.com/sindresorhus/awesome
+- https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
+- c#
+    - https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
 
 Awesome-Game
 ---
