@@ -72,7 +72,7 @@ ComputerGraphics && shader
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
 - http://www.lsngo.net/
-- http://www.alinenormoyle.com/weblog/?p=726
+- http://www.alinenormoyle.com
 - http://www.iquilezles.org/www/index.htm
 - https://simonschreibt.de/
 - http://aras-p.info/blog/
