@@ -292,5 +292,11 @@ workflow (面试考jenkins的，基本上都是菜鸟)
 ---
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 
+资源
+---
+- https://unitylist.com/ (用于搜索unity相关的开源资源)
+- http://www.3dmodelfree.com/ (免费模型,不能用于商业用途)
+
+
 
 ###### 看完不star，小心没有jj :）
