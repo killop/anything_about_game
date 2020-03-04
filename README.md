@@ -102,6 +102,7 @@ ComputerGraphics && shader
 - https://zhuanlan.zhihu.com/p/84550677
 - https://github.com/FancyVin/fun-with-graphics
 - https://jendrikillner.bitbucket.io/#posts 
+- https://software.intel.com/en-us/gamedev (来自于inter 有优化,图形等等,游戏相关的内容,可搜索)
 
 
 关于gamma 空间和 线性空间
