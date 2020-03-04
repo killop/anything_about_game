@@ -167,7 +167,7 @@ unity
     -  https://github.com/OneYoungMean/AutomaticDynamicBone 牛逼的动态骨骼
     -  https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
     -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
-    -  https://github.com/PixeyeHQ/actors
+    -  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
   
 - TextMesh
     - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
