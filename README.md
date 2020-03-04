@@ -190,6 +190,9 @@ unity
     - [马三小伙儿]-(https://github.com/XINCGer)
     - [彭怀亮]-(https://huailiang.github.io/)
     - [uchart作者]-(http://uchart.club)
+    - [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下]()-(https://jacksondunstan.com/)
+    - [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的]()-(http://baba-s.hatenablog.com/)
+    - [Dalton(国人)]()-(http://www.zhust.com/)
     - https://www.lfzxb.top/
     - http://www.wjgbaby.com/category/3d-math/
     - https://jiepengtan.github.io/
