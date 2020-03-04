@@ -282,6 +282,7 @@ workflow (面试考jenkins的，基本上都是菜鸟)
 思维逻辑
 ---
 - http://www.ladouban.com/booklist/listhash/1681586488032661392
+- (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) - https://machinations.io/
 
 文案排版
 ---
