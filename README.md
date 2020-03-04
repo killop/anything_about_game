@@ -151,6 +151,7 @@ c#
 - [nat打洞] (https://github.com/NetchX/Netch);
 - 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
 - 命令行 https://github.com/natemcmaster/CommandLineUtils
+- C#源码(可以跳转搜搜等,差不多和ide一样) https://referencesource.microsoft.com/
 
 unity
 ---
