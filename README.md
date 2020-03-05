@@ -53,6 +53,7 @@ Serialization
 -  https://github.com/real-logic/simple-binary-encoding  sbe-fastest
 -  https://github.com/neuecc/ZeroFormatter  zero
 -  https://msgpack.org/ messagepack
+-  https://github.com/cloudwu/sproto sproto
 
 面试
 ---
