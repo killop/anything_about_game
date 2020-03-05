@@ -189,6 +189,8 @@ unity
     -  https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
     -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
     -  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
+    -  https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
+    -  https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project toon shader的解决方案
   
 - TextMesh
     - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
