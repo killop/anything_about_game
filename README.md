@@ -65,6 +65,8 @@ Game-Math
 - https://github.com/gradientspace/geometry3Sharp geometry3Sharp
 - https://www.geometrictools.com/ geometrictools
 - http://www.angusj.com/delphi/clipper.php clipper库
+- Math Library for Unity -unity插件
+- https://archive.codeplex.com/?p=triangle triangle-三角形
 
 面试
 ---
@@ -222,8 +224,8 @@ unity
     - https://hdmmy.github.io/page/2/
     - https://www.yomunchan.moe
     - https://www.gabrielgambetta.com/
-- 优秀插件
-    - tile map 解决方案
+- 优秀插件（如何获取：加入www.cgsoso.com 就阔以啦）
+    - tile map 解决方案 
         - Isometric
         - Ultimate Grids Engine
         - KUBIKOS - 3D Cube World
