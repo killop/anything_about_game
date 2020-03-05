@@ -97,7 +97,8 @@ Game-Math
 - https://github.com/kosua20/herebedragons
 - https://github.com/bkaradzic/bgfx
 - https://github.com/sinclairzx81/zero
-
+- http://www.mitsuba-renderer.org/
+- https://github.com/vurtun/nuklear nuklear-A single-header ANSI C gui library
 软渲染 C/CPP 
 ---
 - https://www.mesa3d.org/ 爸爸级别
@@ -300,9 +301,7 @@ unity
 ---
 - https://github.com/ruanyf/free-books
  
-GUI
----
-[nuklear]( https://github.com/vurtun/nuklear) A single-header ANSI C gui library
+
 
 workflow (面试考jenkins的，基本上都是菜鸟)
 ---
