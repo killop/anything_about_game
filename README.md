@@ -58,6 +58,13 @@ Serialization
     - https://github.com/neuecc/Utf8Json
     - https://github.com/Dogwei/Swifter.Json
 
+Game-Math
+---
+- https://github.com/Unity-Technologies/Unity.Mathematics unityMath  
+- https://github.com/zalo/MathUtilities  MathUtilities
+- https://github.com/gradientspace/geometry3Sharp geometry3Sharp
+- https://www.geometrictools.com/ geometrictools
+
 面试
 ---
 - https://github.com/0voice/interview_internal_reference#1
@@ -95,7 +102,6 @@ Serialization
 ComputerGraphics && shader
 ---
 图形学汇总
-- https://www.geometrictools.com/
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
 - http://www.lsngo.net/
