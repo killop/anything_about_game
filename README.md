@@ -43,6 +43,17 @@ Web/Http-fastest
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 
+Serialization
+---
+-  https://github.com/chronoxor/CppSerialization benckmark
+-  https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
+-  https://capnproto.org/ capnproto
+-  https://github.com/google/flatbuffers flatBuffer
+-  https://developers.google.com/protocol-buffers pb
+-  https://github.com/real-logic/simple-binary-encoding  sbe-fastest
+-  https://github.com/neuecc/ZeroFormatter  zero
+-  https://msgpack.org/ messagepack
+
 面试
 ---
 - https://github.com/0voice/interview_internal_reference#1
