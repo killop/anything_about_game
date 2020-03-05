@@ -126,6 +126,13 @@ ComputerGraphics && shader
 - https://github.com/FancyVin/fun-with-graphics
 - https://jendrikillner.bitbucket.io/#posts 
 
+那些你必须认识的图形学大佬
+- https://www.zhihu.com/people/mao-xing-yun 毛星云
+- http://staff.ustc.edu.cn/~lgliu/ 刘利刚
+- https://www.zhihu.com/people/luo-cheng-11-75 洛城
+- https://www.zhihu.com/people/edliu 文刀秋二
+- https://www.zhihu.com/people/minmin.gong 叛逆者
+- http://www.thegibook.com/blog/ 秦春林
 
 关于gamma 空间和 线性空间
 - https://www.gameres.com/811214.html
