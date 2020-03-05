@@ -43,6 +43,10 @@ Web/Http-fastest
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 
+Chinese-GameEngine
+---
+- https://saeruhikari.github.io/SakuraEngine/#/ Sakura
+
 Serialization
 ---
 - https://github.com/chronoxor/CppSerialization benckmark
@@ -251,8 +255,11 @@ unity
     -  万花筒（以前见过 懒得找地址了）
     -  炼金师法阵（以前见过 懒得找地址了）
 --- 
-###### 天涯明月刀资源管理
-https://zhuanlan.zhihu.com/p/36765725 -- 
+
+###### 游戏引擎资源管理
+- https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
+- https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
+- https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
 
 ---
 ###### 动画状态机设计
