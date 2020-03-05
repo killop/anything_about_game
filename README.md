@@ -45,15 +45,18 @@ Web/Http-fastest
 
 Serialization
 ---
--  https://github.com/chronoxor/CppSerialization benckmark
--  https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
--  https://capnproto.org/ capnproto
--  https://github.com/google/flatbuffers flatBuffer
--  https://developers.google.com/protocol-buffers pb
--  https://github.com/real-logic/simple-binary-encoding  sbe-fastest
--  https://github.com/neuecc/ZeroFormatter  zero
--  https://msgpack.org/ messagepack
--  https://github.com/cloudwu/sproto sproto
+- https://github.com/chronoxor/CppSerialization benckmark
+- https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
+- https://capnproto.org/ capnproto
+- https://github.com/google/flatbuffers flatBuffer
+- https://developers.google.com/protocol-buffers pb
+- https://github.com/real-logic/simple-binary-encoding  sbe-fastest
+- https://github.com/neuecc/ZeroFormatter  zero
+- https://msgpack.org/ messagepack
+- https://github.com/cloudwu/sproto sproto
+- json
+    - https://github.com/neuecc/Utf8Json
+    - https://github.com/Dogwei/Swifter.Json
 
 面试
 ---
