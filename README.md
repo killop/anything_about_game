@@ -64,6 +64,7 @@ Game-Math
 - https://github.com/zalo/MathUtilities  MathUtilities
 - https://github.com/gradientspace/geometry3Sharp geometry3Sharp
 - https://www.geometrictools.com/ geometrictools
+- http://www.angusj.com/delphi/clipper.php clipper库
 
 面试
 ---
