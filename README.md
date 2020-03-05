@@ -149,6 +149,7 @@ c#
 - [nat打洞] (https://github.com/NetchX/Netch);
 - 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
 - 命令行 https://github.com/natemcmaster/CommandLineUtils
+- 领域设计驱动 https://github.com/kgrzybek/modular-monolith-with-ddd
 
 unity
 ---
