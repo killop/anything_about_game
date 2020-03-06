@@ -162,6 +162,7 @@ shader map总结
 
 javascript
 ---
+- https://github.com/ljianshu/Blog  -js优秀博主
 - https://muyiy.cn/blog/ -- js优秀博主
 - https://github.com/airbnb/javascript JavaScript Style Guide 
 - https://github.com/ryanmcdermott/clean-code-javascript clean-code-javascript
