@@ -224,6 +224,8 @@ unity
     -  https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
     -  https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project toon shader的解决方案
     -  https://github.com/litefeel/Unity-AlignTools ugui锚点设置
+    -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
+    -  https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 -  Network
    - https://github.com/MidLevel/MLAPI
    - https://github.com/MidLevel/Ruffles UDP
@@ -232,9 +234,7 @@ unity
    - https://github.com/RevenantX/LiteNetLib UDP
    - https://www.darkriftnetworking.com/
    - https://github.com/colyseus/colyseus-unity3d
-   - https://docs.supersocket.net/v1-6/zh-CN 国人的骄傲
-- TextMesh
-    - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
+   - https://docs.supersocket.net/v1-6/zh-CN 国人的骄傲    
 - 个人博客  
     - 云峰 - https://blog.codingnow.com/
     - [大熊]-(http://www.xionggf.com/)
@@ -274,7 +274,6 @@ unity
     -  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
     -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
     -  万花筒（以前见过 懒得找地址了）
-    -  炼金师法阵（以前见过 懒得找地址了）
 ---
 
 ###### 游戏引擎资源管理
