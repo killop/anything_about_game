@@ -43,6 +43,35 @@ Web/Http-fastest
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 
+Chinese-GameEngine
+---
+- https://saeruhikari.github.io/SakuraEngine/#/ Sakura
+
+Serialization
+---
+- https://github.com/chronoxor/CppSerialization benckmark
+- https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
+- https://capnproto.org/ capnproto
+- https://github.com/google/flatbuffers flatBuffer
+- https://developers.google.com/protocol-buffers pb
+- https://github.com/real-logic/simple-binary-encoding  sbe-fastest
+- https://github.com/neuecc/ZeroFormatter  zero
+- https://msgpack.org/ messagepack
+- https://github.com/cloudwu/sproto sproto
+- json
+    - https://github.com/neuecc/Utf8Json
+    - https://github.com/Dogwei/Swifter.Json
+
+Game-Math
+---
+- https://github.com/Unity-Technologies/Unity.Mathematics unityMath  
+- https://github.com/zalo/MathUtilities  MathUtilities
+- https://github.com/gradientspace/geometry3Sharp geometry3Sharp
+- https://www.geometrictools.com/ geometrictools
+- http://www.angusj.com/delphi/clipper.php clipper库
+- Math Library for Unity -unity插件
+- https://archive.codeplex.com/?p=triangle triangle-三角形
+
 面试
 ---
 - https://github.com/0voice/interview_internal_reference#1
@@ -69,6 +98,9 @@ Web/Http-fastest
 - https://github.com/bkaradzic/bgfx
 - https://github.com/sinclairzx81/zero
 - https://github.com/OGRECave/ogre
+- http://www.mitsuba-renderer.org/
+- https://github.com/vurtun/nuklear nuklear-A single-header ANSI C gui library
+
 
 软渲染 C/CPP 
 ---
@@ -76,12 +108,12 @@ Web/Http-fastest
 - https://github.com/ssloy/tinyrenderer
 - https://github.com/zauonlok/renderer
 - https://github.com/Angelo1211/SoftwareRenderer
+- https://github.com/skywind3000/mini3d
  
 
 ComputerGraphics && shader
 ---
 图形学汇总
-- https://www.geometrictools.com/
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
 - http://www.lsngo.net/
@@ -104,6 +136,13 @@ ComputerGraphics && shader
 - https://jendrikillner.bitbucket.io/#posts 
 - https://software.intel.com/en-us/gamedev (来自于inter 有优化,图形等等,游戏相关的内容,可搜索)
 
+那些你必须认识的图形学大佬
+- https://www.zhihu.com/people/mao-xing-yun 毛星云
+- http://staff.ustc.edu.cn/~lgliu/ 刘利刚
+- https://www.zhihu.com/people/luo-cheng-11-75 洛城
+- https://www.zhihu.com/people/edliu 文刀秋二
+- https://www.zhihu.com/people/minmin.gong 叛逆者
+- http://www.thegibook.com/blog/ 秦春林
 
 关于gamma 空间和 线性空间
 - https://www.gameres.com/811214.html
@@ -126,6 +165,7 @@ shader map总结
 
 javascript
 ---
+- https://github.com/ljianshu/Blog  -js优秀博主
 - https://muyiy.cn/blog/ -- js优秀博主
 - https://github.com/airbnb/javascript JavaScript Style Guide 
 - https://github.com/ryanmcdermott/clean-code-javascript clean-code-javascript
@@ -152,6 +192,8 @@ c#
 - 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
 - 命令行 https://github.com/natemcmaster/CommandLineUtils
 - C#源码(可以跳转搜搜等,差不多和ide一样) https://referencesource.microsoft.com/
+- https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
+- https://github.com/gradientspace/geometry3Sharp 3d数学库
 
 unity
 ---
@@ -176,6 +218,8 @@ unity
     -  https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
     -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
     -  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
+    -  https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
+    -  https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project toon shader的解决方案
   
 - TextMesh
     - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
@@ -202,8 +246,8 @@ unity
     - https://hdmmy.github.io/page/2/
     - https://www.yomunchan.moe
     - https://www.gabrielgambetta.com/
-- 优秀插件
-    - tile map 解决方案
+- 优秀插件（如何获取：加入www.cgsoso.com 就阔以啦）
+    - tile map 解决方案 
         - Isometric
         - Ultimate Grids Engine
         - KUBIKOS - 3D Cube World
@@ -222,8 +266,11 @@ unity
     -  万花筒（以前见过 懒得找地址了）
     -  炼金师法阵（以前见过 懒得找地址了）
 --- 
-###### 天涯明月刀资源管理
-https://zhuanlan.zhihu.com/p/36765725 -- 
+
+###### 游戏引擎资源管理
+- https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
+- https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
+- https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
 
 ---
 ###### 动画状态机设计
@@ -265,9 +312,7 @@ https://zhuanlan.zhihu.com/p/36765725 --
 ---
 - https://github.com/ruanyf/free-books
  
-GUI
----
-[nuklear]( https://github.com/vurtun/nuklear) A single-header ANSI C gui library
+
 
 workflow (面试考jenkins的，基本上都是菜鸟)
 ---
