@@ -26,6 +26,9 @@ Game-Asset
 - http://www.3dmodelfree.com/  free model (免费模型,不能用于商业用途)
 - https://www.gamedevmarket.net/
 - https://gametextures.com/
+- https://www.textures.com/
+- http://www.plaintextures.com/
+- https://sketchfab.com/
 - www.cgsoso.com (不解释)
 - https://www.humblebundle.com/
 - 神秘的淘宝
@@ -139,6 +142,7 @@ ComputerGraphics && shader
 - https://shenjun4shader.github.io/shaderhtml/
 - https://catlikecoding.com/
 - http://glslsandbox.com/
+- https://github.com/nidorx/matcaps#matcaps
 - https://www.interactiveshaderformat.com/popular
 - https://thebookofshaders.com/?lan=ch
 - https://github.com/Gforcex/OpenGraphic
