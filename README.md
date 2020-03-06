@@ -19,6 +19,16 @@ Awesome-Game
 - https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
 - https://github.com/soruly/awesome-acg 嗯！acg
 
+Game-Asset
+---
+- https://assetstore.unity.com/ 
+- https://itch.io/ 
+- http://www.3dmodelfree.com/  free model (免费模型,不能用于商业用途)
+- https://www.gamedevmarket.net/
+- https://gametextures.com/
+- www.cgsoso.com (不解释)
+- 神秘的淘宝
+
 News
 --- 
 - https://news.ycombinator.com/news hacker news
@@ -256,7 +266,7 @@ unity
     - https://hdmmy.github.io/page/2/
     - https://www.yomunchan.moe
     - https://www.gabrielgambetta.com/
-- 优秀插件（如何获取：加入www.cgsoso.com 就阔以啦）
+- 优秀插件
     - tile map 解决方案 
         - Isometric
         - Ultimate Grids Engine
@@ -346,11 +356,5 @@ workflow (面试考jenkins的，基本上都是菜鸟)
 ---
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 
-资源
----
-- https://unitylist.com/ (用于搜索unity相关的开源资源)
-- http://www.3dmodelfree.com/ (免费模型,不能用于商业用途)
 
-
-
-###### 看完不star，小心没有jj :）
+###### 看完不star，小心没jj :）
