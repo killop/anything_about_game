@@ -97,8 +97,10 @@ Game-Math
 - https://github.com/kosua20/herebedragons
 - https://github.com/bkaradzic/bgfx
 - https://github.com/sinclairzx81/zero
+- https://github.com/OGRECave/ogre
 - http://www.mitsuba-renderer.org/
 - https://github.com/vurtun/nuklear nuklear-A single-header ANSI C gui library
+
 
 软渲染 C/CPP 
 ---
@@ -132,6 +134,7 @@ ComputerGraphics && shader
 - https://zhuanlan.zhihu.com/p/84550677
 - https://github.com/FancyVin/fun-with-graphics
 - https://jendrikillner.bitbucket.io/#posts 
+- https://software.intel.com/en-us/gamedev (来自于inter 有优化,图形等等,游戏相关的内容,可搜索)
 
 那些你必须认识的图形学大佬
 - https://www.zhihu.com/people/mao-xing-yun 毛星云
@@ -188,6 +191,7 @@ c#
 - [nat打洞] (https://github.com/NetchX/Netch);
 - 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
 - 命令行 https://github.com/natemcmaster/CommandLineUtils
+- C#源码(可以跳转搜搜等,差不多和ide一样) https://referencesource.microsoft.com/
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://github.com/gradientspace/geometry3Sharp 3d数学库
 
@@ -222,14 +226,17 @@ unity
 -  资源汇总
     - https://github.com/insthync/awesome-unity3d
 - 个人博客  
-    - [云风] - https://blog.codingnow.com/
-    - [大熊] -(http://www.xionggf.com/)
-    - [浅墨] -(https://blog.csdn.net/poem_qianmo);
-    - [gameKnife] -(http://gameknife.github.io/)
-    - [渔夫] -(https://blog.csdn.net/tjw02241035621611)
-    - [马三小伙儿] -(https://github.com/XINCGer)
-    - [彭怀亮] -(https://huailiang.github.io/)
-    - [uchart作者] -(http://uchart.club)
+    - 云峰 - https://blog.codingnow.com/
+    - [大熊]-(http://www.xionggf.com/)
+    - [浅墨]-(https://blog.csdn.net/poem_qianmo);
+    - [gameKnife ]-(http://gameknife.github.io/)
+    - [渔夫]-(https://blog.csdn.net/tjw02241035621611)
+    - [马三小伙儿]-(https://github.com/XINCGer)
+    - [彭怀亮]-(https://huailiang.github.io/)
+    - [uchart作者]-(http://uchart.club)
+    - [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下]()-(https://jacksondunstan.com/)
+    - [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的]()-(http://baba-s.hatenablog.com/)
+    - [Dalton(国人)]()-(http://www.zhust.com/)
     - https://www.lfzxb.top/
     - http://www.wjgbaby.com/category/3d-math/
     - https://jiepengtan.github.io/
@@ -298,6 +305,8 @@ unity
 工具库
 ---
 - https://www.toolnb.com  toolnb 
+- http://renderhjs.net/shoebox/
+- [AI 帮你画图标]()-(https://www.autodraw.com/)
 
 互联网上免费的图书
 ---
@@ -318,6 +327,7 @@ workflow (面试考jenkins的，基本上都是菜鸟)
 思维逻辑
 ---
 - http://www.ladouban.com/booklist/listhash/1681586488032661392
+- (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) - https://machinations.io/
 
 文案排版
 ---
@@ -326,6 +336,12 @@ workflow (面试考jenkins的，基本上都是菜鸟)
 杂项
 ---
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
+
+资源
+---
+- https://unitylist.com/ (用于搜索unity相关的开源资源)
+- http://www.3dmodelfree.com/ (免费模型,不能用于商业用途)
+
 
 
 ###### 看完不star，小心没有jj :）
