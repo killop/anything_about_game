@@ -18,7 +18,7 @@ Awesome-Game
 - https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
 - https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
 - https://github.com/soruly/awesome-acg 嗯！acg
- 
+
 News
 --- 
 - https://news.ycombinator.com/news hacker news
@@ -109,7 +109,7 @@ Game-Math
 - https://github.com/zauonlok/renderer
 - https://github.com/Angelo1211/SoftwareRenderer
 - https://github.com/skywind3000/mini3d
- 
+
 
 ComputerGraphics && shader
 ---
@@ -135,6 +135,7 @@ ComputerGraphics && shader
 - https://github.com/FancyVin/fun-with-graphics
 - https://jendrikillner.bitbucket.io/#posts 
 - https://software.intel.com/en-us/gamedev (来自于inter 有优化,图形等等,游戏相关的内容,可搜索)
+- https://github.com/lygyue/Books  （来自味精的图形学入门书籍）
 
 那些你必须认识的图形学大佬
 - https://www.zhihu.com/people/mao-xing-yun 毛星云
@@ -147,10 +148,10 @@ ComputerGraphics && shader
 关于gamma 空间和 线性空间
 - https://www.gameres.com/811214.html
 - http://geekfaner.com/unity/blog1_gamma.html
- 
+
 substance designer的 c#实现
 - https://github.com/Metric/Materia  
- 
+
 空间划分
 - https://www.cnblogs.com/KillerAery/p/10878367.html 
 
@@ -274,7 +275,7 @@ unity
     -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
     -  万花筒（以前见过 懒得找地址了）
     -  炼金师法阵（以前见过 懒得找地址了）
---- 
+---
 
 ###### 游戏引擎资源管理
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
@@ -310,7 +311,7 @@ unity
 - notion https://www.notion.so/
 - diigo https://www.diigo.com/index
 - 微软 onenote https://www.onenote.com
- 
+
 工具库
 ---
 - https://www.toolnb.com  toolnb 
@@ -320,7 +321,7 @@ unity
 互联网上免费的图书
 ---
 - https://github.com/ruanyf/free-books
- 
+
 
 
 workflow (面试考jenkins的，基本上都是菜鸟)
