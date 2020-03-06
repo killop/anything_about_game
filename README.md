@@ -27,6 +27,7 @@ Game-Asset
 - https://www.gamedevmarket.net/
 - https://gametextures.com/
 - www.cgsoso.com (不解释)
+- https://www.humblebundle.com/
 - 神秘的淘宝
 
 News
