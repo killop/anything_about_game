@@ -31,6 +31,7 @@ Game-Asset
 - https://sketchfab.com/
 - www.cgsoso.com (不解释)
 - https://www.humblebundle.com/
+- https://www.mixamo.com/#/
 - 神秘的淘宝
 
 News
@@ -38,6 +39,27 @@ News
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
 - https://github.com 
+
+Game-Design-Tool
+---
+- Animation
+    - http://zh.esotericsoftware.com/ spine
+    - http://www.zingfront.cn/live3d/ live3d
+    - https://www.live2d.com/ live2d
+    - http://dragonbones.effecthub.com/ dragonbones
+- Audio
+    - http://www.fmod.org/ fmod
+    - https://www.audiokinetic.com/zh/products/wwise/ wwise
+ - Modeling
+     - https://www.substance3d.com/ sb
+     - https://www.sidefx.com/ houdini
+     - https://www.blender.org/ blender
+     - https://www.autodesk.com/products/3ds-max/overview max
+     - https://www.autodesk.com/products/maya/overview maya
+     - http://pixologic.com/sculptris/ sculptris
+     - http://pixologic.com/features/about-zbrush.php zbrush
+ - Terrain
+     - http://www.world-machine.com/
 
 Game-Server
 --- 
