@@ -152,6 +152,7 @@ ComputerGraphics && shader
 图形学汇总
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
+- https://docs.krita.org/zh_CN/general_concepts.html
 - http://www.lsngo.net/
 - http://www.alinenormoyle.com
 - http://www.iquilezles.org/www/index.htm
