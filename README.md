@@ -155,14 +155,16 @@ Operating-System
 - https://github.com/skywind3000/mini3d
 
 
-ComputerGraphics && shader
+ComputerGraphics && Shading
 ---
-图形学汇总
 ###### collection
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
 - https://github.com/mattdesl/graphics-resources
 - https://docs.krita.org/zh_CN/general_concepts.html
+- https://github.com/eug/awesome-opengl
+- https://github.com/jbhuang0604/awesome-computer-vision
+- https://github.com/sjfricke/awesome-webgl
 ###### blog
 - http://www.lsngo.net/
 - http://www.alinenormoyle.com
@@ -185,7 +187,7 @@ ComputerGraphics && shader
 - https://software.intel.com/en-us/gamedev (来自于inter 有优化,图形等等,游戏相关的内容,可搜索)
 - https://github.com/lygyue/Books  （来自味精的图形学入门书籍）
 
-那些你必须认识的图形学大佬
+###### famous-person
 - https://www.zhihu.com/people/mao-xing-yun 毛星云
 - http://staff.ustc.edu.cn/~lgliu/ 刘利刚
 - https://www.zhihu.com/people/luo-cheng-11-75 洛城
