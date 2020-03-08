@@ -8,6 +8,7 @@ Awesome-General
 - https://awesomeopensource.com/
 - https://github.com/sindresorhus/awesome
 - https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://github.com/jnv/lists
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
 - https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
 
@@ -61,6 +62,8 @@ Game-Design-Tool
  - Terrain
      - http://www.world-machine.com/
      - https://www.world-creator.com/
+ - Visual-Logic
+     - https://machinations.io/ - (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) 
 
 Game-Server
 --- 
@@ -70,7 +73,7 @@ Game-Server
 - https://github.com/ylmbtm/GameProject3
 - https://github.com/Cysharp/MagicOnion
 - https://github.com/egametang/ET
-- lockstep
+- Lockstep
     - http://netcoding4d.com/
     - http://newtondynamics.com/forum/newton.php
     - https://github.com/JiepengTan/LockstepECS 
@@ -109,7 +112,7 @@ Game-Math
 - Math Library for Unity -unity插件
 - https://archive.codeplex.com/?p=triangle triangle-三角形
 
-面试
+Interview
 ---
 - https://github.com/0voice/interview_internal_reference#1
 - https://github.com/ZXZxin/ZXBlog
@@ -119,6 +122,10 @@ Game-Math
 - https://algorithm.yuanbin.me/zh-hans/?q=
 - https://github.com/labuladong/fucking-algorithm
 - https://github.com/algorithm-visualizer/algorithm-visualizer
+
+Operating-System
+---
+- https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
 
 高性能数据结构和算法
 ---
@@ -151,9 +158,12 @@ Game-Math
 ComputerGraphics && shader
 ---
 图形学汇总
+###### collection
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
+- https://github.com/mattdesl/graphics-resources
 - https://docs.krita.org/zh_CN/general_concepts.html
+###### blog
 - http://www.lsngo.net/
 - http://www.alinenormoyle.com
 - http://www.iquilezles.org/www/index.htm
@@ -169,7 +179,6 @@ ComputerGraphics && shader
 - https://github.com/nidorx/matcaps#matcaps
 - https://www.interactiveshaderformat.com/popular
 - https://thebookofshaders.com/?lan=ch
-- https://github.com/Gforcex/OpenGraphic
 - https://zhuanlan.zhihu.com/p/84550677
 - https://github.com/FancyVin/fun-with-graphics
 - https://jendrikillner.bitbucket.io/#posts 
@@ -375,7 +384,7 @@ workflow (面试考jenkins的，基本上都是菜鸟)
 思维逻辑
 ---
 - http://www.ladouban.com/booklist/listhash/1681586488032661392
-- (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) - https://machinations.io/
+
 
 文案排版
 ---
