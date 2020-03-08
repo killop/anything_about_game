@@ -62,6 +62,8 @@ Game-Design-Tool
  - Terrain
      - http://www.world-machine.com/
      - https://www.world-creator.com/
+ - Texture
+     - http://www.crazybump.com/
  - Visual-Logic
      - https://machinations.io/ - (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) 
 
@@ -166,6 +168,7 @@ ComputerGraphics && Shading
 - https://github.com/jbhuang0604/awesome-computer-vision
 - https://github.com/sjfricke/awesome-webgl
 ###### blog
+- http://www.codinglabs.net/article_floating_point_numbers.aspx
 - http://www.lsngo.net/
 - http://www.alinenormoyle.com
 - http://www.iquilezles.org/www/index.htm
@@ -186,6 +189,14 @@ ComputerGraphics && Shading
 - https://jendrikillner.bitbucket.io/#posts 
 - https://software.intel.com/en-us/gamedev (来自于inter 有优化,图形等等,游戏相关的内容,可搜索)
 - https://github.com/lygyue/Books  （来自味精的图形学入门书籍）
+- http://www.ludicon.com/castano/blog/
+- http://blog.hvidtfeldts.net/
+- http://www.realtimerendering.com/blog/
+- https://colinbarrebrisebois.com/
+- http://www.adriancourreges.com/blog/
+- https://prideout.net/blog/
+- http://filmicworlds.com/
+- http://www.thetenthplanet.de/
 
 ###### famous-person
 - https://www.zhihu.com/people/mao-xing-yun 毛星云
@@ -348,6 +359,10 @@ unity
 - gravity
 - quickjs
 - wren
+
+###### Data
+- https://github.com/alibaba/DataX 数据交换
+
 
 知识库软件
 ---
