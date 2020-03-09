@@ -390,5 +390,6 @@
 - https://www.allhistory.com 人类历史
 - https://www.die.net/earth/ 白天和黑夜实时预览
 - https://humanbenchmark.com/ 脑力benckmark
+- https://chatroulette.com/ 全世界随机聊天
 
 ###### 看完不star，小心没jj :）!
