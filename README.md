@@ -9,6 +9,7 @@
 - https://github.com/sindresorhus/awesome
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/jnv/lists
+- https://github.com/wesbos/awesome-uses
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
 - https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
 
@@ -45,48 +46,46 @@
 - https://www.live2d.com/ live2d
 - http://dragonbones.effecthub.com/ dragonbones
 ### Audio
-    - http://www.fmod.org/ fmod
-    - https://www.audiokinetic.com/zh/products/wwise/ wwise
- - Modeling
-     - https://www.substance3d.com/ sb
-     - https://www.sidefx.com/ houdini
-     - https://www.blender.org/ blender
-     - https://www.autodesk.com/products/3ds-max/overview max
-     - https://www.autodesk.com/products/maya/overview maya
-     - http://pixologic.com/sculptris/ sculptris
-     - http://pixologic.com/features/about-zbrush.php zbrush
- - Terrain
-     - http://www.world-machine.com/
-     - https://www.world-creator.com/
- - Texture
-     - http://www.crazybump.com/
- - Visual-Logic
-     - https://machinations.io/ - (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) 
+- http://www.fmod.org/ fmod
+- https://www.audiokinetic.com/zh/products/wwise/ wwise
+### Modeling
+- https://www.substance3d.com/ sb
+- https://www.sidefx.com/ houdini
+- https://www.blender.org/ blender
+- https://www.autodesk.com/products/3ds-max/overview max
+- https://www.autodesk.com/products/maya/overview maya
+- http://pixologic.com/sculptris/ sculptris
+- http://pixologic.com/features/about-zbrush.php zbrush
+### Terrain
+- http://www.world-machine.com/
+- https://www.world-creator.com/
+### Texture
+- http://www.crazybump.com/
+- http://renderhjs.net/shoebox/
+- https://www.autodraw.com/ AI 帮你画图标
+### Visual-Logic
+- https://machinations.io/ - (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) 
 
-Game-Server
---- 
+## Game-Server
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
 - https://github.com/TrinityCore/TrinityCore
 - https://github.com/azerothcore/azerothcore-wotlk
 - https://github.com/ylmbtm/GameProject3
 - https://github.com/Cysharp/MagicOnion
 - https://github.com/egametang/ET
-- Lockstep
-    - http://netcoding4d.com/
-    - http://newtondynamics.com/forum/newton.php
-    - https://github.com/JiepengTan/LockstepECS 
+### Lockstep
+- http://netcoding4d.com/
+- http://newtondynamics.com/forum/newton.php
+- https://github.com/JiepengTan/LockstepECS 
     
-Web/Http-fastest
----
+## Web/Http-fastest
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 
-Chinese-GameEngine
----
+## Chinese-GameEngine
 - https://saeruhikari.github.io/SakuraEngine/#/ Sakura
 
-Serialization
----
+## Serialization
 - https://github.com/chronoxor/CppSerialization benckmark
 - https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
 - https://capnproto.org/ capnproto
@@ -96,12 +95,11 @@ Serialization
 - https://github.com/neuecc/ZeroFormatter  zero
 - https://msgpack.org/ messagepack
 - https://github.com/cloudwu/sproto sproto
-- json
-    - https://github.com/neuecc/Utf8Json
-    - https://github.com/Dogwei/Swifter.Json
+### Json
+- https://github.com/neuecc/Utf8Json
+- https://github.com/Dogwei/Swifter.Json
 
-Game-Math
----
+## Game-Math
 - https://github.com/Unity-Technologies/Unity.Mathematics unityMath  
 - https://github.com/zalo/MathUtilities  MathUtilities
 - https://github.com/gradientspace/geometry3Sharp geometry3Sharp
@@ -110,8 +108,7 @@ Game-Math
 - Math Library for Unity -unity插件
 - https://archive.codeplex.com/?p=triangle triangle-三角形
 
-Interview
----
+## Interview
 - https://github.com/0voice/interview_internal_reference#1
 - https://github.com/ZXZxin/ZXBlog
 - https://github.com/awangdev/LintCode
@@ -121,12 +118,10 @@ Interview
 - https://github.com/labuladong/fucking-algorithm
 - https://github.com/algorithm-visualizer/algorithm-visualizer
 
-Operating-System
----
+## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
 
-高性能数据结构和算法
----
+##　高性能数据结构和算法
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - https://github.com/Dogwei/Swifter.Core -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
@@ -134,8 +129,7 @@ Operating-System
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 
-渲染框架
----
+## 渲染框架
 - https://github.com/kosua20/herebedragons
 - https://github.com/bkaradzic/bgfx
 - https://github.com/sinclairzx81/zero
@@ -144,8 +138,7 @@ Operating-System
 - https://github.com/vurtun/nuklear nuklear-A single-header ANSI C gui library
 
 
-软渲染 C/CPP 
----
+## 软渲染 C/CPP 
 - https://www.mesa3d.org/ 爸爸级别
 - https://github.com/ssloy/tinyrenderer
 - https://github.com/zauonlok/renderer
@@ -153,9 +146,8 @@ Operating-System
 - https://github.com/skywind3000/mini3d
 
 
-ComputerGraphics && Shading
----
-###### collection
+## ComputerGraphics && Shading
+### collection
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
 - https://github.com/mattdesl/graphics-resources
@@ -163,7 +155,7 @@ ComputerGraphics && Shading
 - https://github.com/eug/awesome-opengl
 - https://github.com/jbhuang0604/awesome-computer-vision
 - https://github.com/sjfricke/awesome-webgl
-###### blog
+### blog
 - http://www.codinglabs.net/article_floating_point_numbers.aspx
 - http://www.lsngo.net/
 - http://www.alinenormoyle.com
@@ -194,7 +186,7 @@ ComputerGraphics && Shading
 - http://filmicworlds.com/
 - http://www.thetenthplanet.de/
 
-###### famous-person
+### famous-person
 - https://www.zhihu.com/people/mao-xing-yun 毛星云
 - http://staff.ustc.edu.cn/~lgliu/ 刘利刚
 - https://www.zhihu.com/people/luo-cheng-11-75 洛城
@@ -202,28 +194,27 @@ ComputerGraphics && Shading
 - https://www.zhihu.com/people/minmin.gong 叛逆者
 - http://www.thegibook.com/blog/ 秦春林
 
-###### Article
-关于gamma 空间和 线性空间
+### Article
+#### 关于gamma 空间和 线性空间
 - https://www.gameres.com/811214.html
 - http://geekfaner.com/unity/blog1_gamma.html
 
 substance designer的 c#实现
 - https://github.com/Metric/Materia  
 
-空间划分
+#### 空间划分
 - https://www.cnblogs.com/KillerAery/p/10878367.html 
 
-学习opengl
+#### 学习opengl
 - https://learnopengl-cn.readthedocs.io/zh/latest/
 
-shader map总结
+#### shader map总结
 - https://zhuanlan.zhihu.com/p/75497647
 
-非真实渲染
+#### 非真实渲染
 - https://mp.weixin.qq.com/s/oNjYmta6FFkfhCsOO6ZCWA 
 
-javascript
----
+## Javascript
 - https://github.com/ljianshu/Blog  -js优秀博主
 - https://muyiy.cn/blog/ -- js优秀博主
 - https://github.com/airbnb/javascript JavaScript Style Guide 
@@ -232,20 +223,16 @@ javascript
 - https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md js的奇技淫巧
 - https://github.com/trekhleb/javascript-algorithms js相关的数据结构
 
-lua
----
+## Lua
 - http://cloudwu.github.io/lua53doc/manual.html
-
-- 转lua 最有潜力的：
+### 转lua 最有潜力的：
     - https://github.com/roblox-ts/roblox-ts
     - https://github.com/titan-lang/titan
 
-typescript
----
-https://jkchao.github.io/typescript-book-chinese/#how-to-contribute	
+## Typescript
+- https://jkchao.github.io/typescript-book-chinese/#how-to-contribute	
 
-c#
----
+##　C#
 - [git的c#实现] (https://github.com/libgit2/libgit2sharp)
 - [nat打洞] (https://github.com/NetchX/Netch);
 - 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
@@ -254,73 +241,79 @@ c#
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://github.com/gradientspace/geometry3Sharp 3d数学库
 
-unity
----
-- 集锦
-    - https://github.com/agarcialeon/awesome-unity#awesome-unity 
-    - https://github.com/baba-s/awesome-unity-open-source-on-github
-    - https://lab.uwa4d.com/
-    - https://unitylist.com/
-    - https://openupm.com/packages/
-    - https://github.com/insthync/awesome-unity3d
-- 内存数据库
-    - https://github.com/Cysharp/MasterMemory
--  异步操作
-    - https://github.com/modesttree/Unity3dAsyncAwaitUtil
-    - https://github.com/Cysharp/UniTask
-    - https://github.com/Arvtesh/UnityFx.Async
--  unity 特色工程（精粹）
-    -  https://molingyu.github.io/RosettaDocs/  本地化
-    -  https://github.com/hiroki-o/VoxBlend unity  表情
-    -  https://github.com/huailiang/knead_proj unity  捏脸
-    -  https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
-    -  https://github.com/keijiro/KinoBloom 牛逼的bloom
-    -  https://github.com/OneYoungMean/AutomaticDynamicBone 牛逼的动态骨骼
-    -  https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
-    -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
-    -  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
-    -  https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
-    -  https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project toon shader的解决方案
-    -  https://github.com/litefeel/Unity-AlignTools ugui锚点设置
-    -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
-    -  https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
--  Network
-   - https://github.com/MidLevel/MLAPI
-   - https://github.com/MidLevel/Ruffles UDP
-   - https://github.com/BeardedManStudios/ForgeNetworkingRemastered
-   - https://github.com/planetarium/libplanet 区域链
-   - https://github.com/RevenantX/LiteNetLib UDP
-   - https://www.darkriftnetworking.com/
-   - https://github.com/colyseus/colyseus-unity3d
-   - https://docs.supersocket.net/v1-6/zh-CN 国人的骄傲    
-- 个人博客  
-    - 云峰 - https://blog.codingnow.com/
-    - [大熊]-(http://www.xionggf.com/)
-    - [浅墨]-(https://blog.csdn.net/poem_qianmo);
-    - [gameKnife ]-(http://gameknife.github.io/)
-    - [渔夫]-(https://blog.csdn.net/tjw02241035621611)
-    - [马三小伙儿]-(https://github.com/XINCGer)
-    - [彭怀亮]-(https://huailiang.github.io/)
-    - [uchart作者]-(http://uchart.club)
-    - [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下]()-(https://jacksondunstan.com/)
-    - [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的]()-(http://baba-s.hatenablog.com/)
-    - [Dalton(国人)]()-(http://www.zhust.com/)
-    - https://www.lfzxb.top/
-    - http://www.wjgbaby.com/category/3d-math/
-    - https://jiepengtan.github.io/
-    - http://staff.ustc.edu.cn/~lgliu/
-    - https://catlikecoding.com/
-    - https://blog.selfshadow.com/
-    - https://hdmmy.github.io/page/2/
-    - https://www.yomunchan.moe
-    - https://www.gabrielgambetta.com/
-- 优秀插件
-    - tile map 解决方案 
-        - Isometric
-        - Ultimate Grids Engine
-        - KUBIKOS - 3D Cube World
----
-###### 移动-追踪 主要分为 
+## unity
+### 集锦
+- https://github.com/agarcialeon/awesome-unity#awesome-unity 
+- https://github.com/baba-s/awesome-unity-open-source-on-github
+- https://lab.uwa4d.com/
+- https://unitylist.com/
+- https://openupm.com/packages/
+- https://github.com/insthync/awesome-unity3d
+### 内存数据库
+- https://github.com/Cysharp/MasterMemory
+### 异步操作
+- https://github.com/modesttree/Unity3dAsyncAwaitUtil
+- https://github.com/Cysharp/UniTask
+- https://github.com/Arvtesh/UnityFx.Async
+###  unity 特色工程（精粹）
+-  https://molingyu.github.io/RosettaDocs/  本地化
+-  https://github.com/hiroki-o/VoxBlend unity  表情
+-  https://github.com/huailiang/knead_proj unity  捏脸
+-  https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
+-  https://github.com/keijiro/KinoBloom 牛逼的bloom
+-  https://github.com/OneYoungMean/AutomaticDynamicBone 牛逼的动态骨骼
+-  https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
+-  https://github.com/Caeden117/ChroMapper -- 地图编辑器
+-  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
+-  https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
+-  https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project toon shader的解决方案
+-  https://github.com/litefeel/Unity-AlignTools ugui锚点设置
+-  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
+-  https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
+###  Network
+- https://github.com/MidLevel/MLAPI
+- https://github.com/MidLevel/Ruffles UDP
+- https://github.com/BeardedManStudios/ForgeNetworkingRemastered
+- https://github.com/planetarium/libplanet 区域链
+- https://github.com/RevenantX/LiteNetLib UDP
+- https://www.darkriftnetworking.com/
+- https://github.com/colyseus/colyseus-unity3d
+- https://docs.supersocket.net/v1-6/zh-CN 国人的骄傲    
+### 个人博客  
+- 云峰 - https://blog.codingnow.com/
+- [大熊]-(http://www.xionggf.com/)
+- [浅墨]-(https://blog.csdn.net/poem_qianmo);
+- [gameKnife ]-(http://gameknife.github.io/)
+- [渔夫]-(https://blog.csdn.net/tjw02241035621611)
+- [马三小伙儿]-(https://github.com/XINCGer)
+- [彭怀亮]-(https://huailiang.github.io/)
+- [uchart作者]-(http://uchart.club)
+- [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下]()-(https://jacksondunstan.com/)
+- [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的]()-(http://baba-s.hatenablog.com/)
+- [Dalton(国人)]()-(http://www.zhust.com/)
+- https://www.lfzxb.top/
+- http://www.wjgbaby.com/category/3d-math/
+- https://jiepengtan.github.io/
+- http://staff.ustc.edu.cn/~lgliu/
+- https://catlikecoding.com/
+- https://blog.selfshadow.com/
+- https://hdmmy.github.io/page/2/
+- https://www.yomunchan.moe
+- https://www.gabrielgambetta.com/
+### Tile map 解决方案 
+ - Isometric
+ - Ultimate Grids Engine
+ - KUBIKOS - 3D Cube World
+ 
+### Untiy-Enmbed-Script
+- tolua
+- xlua
+- jsb
+- gravity
+- quickjs
+- wren
+
+### 移动-追踪 主要分为 
 
 - 追踪逻辑  (这块最有价值的书籍：《数值分析》)
    参考资料 
@@ -349,20 +342,13 @@ unity
 - https://gameinstitute.qq.com/community/detail/117690
 
 ---
-###### 适合做untiy的脚本语言
-- tolua
-- xlua
-- jsb
-- gravity
-- quickjs
-- wren
 
-###### Data
+
+## Data
 - https://github.com/alibaba/DataX 数据交换
 
 
-知识库软件
----
+## 知识库软件
 - 印象笔记 https://www.yinxiang.com/
 - 有道云 http://note.youdao.com/
 - pocket https://app.getpocket.com/
@@ -373,40 +359,19 @@ unity
 - diigo https://www.diigo.com/index
 - 微软 onenote https://www.onenote.com
 
-工具库
----
+## Tool
 - https://www.toolnb.com  toolnb 
-- http://renderhjs.net/shoebox/
-- [AI 帮你画图标]()-(https://www.autodraw.com/)
 
-互联网上免费的图书
----
-- https://github.com/ruanyf/free-books
-
-
-
-workflow (面试考jenkins的，基本上都是菜鸟)
----
+## workflow (面试考jenkins的，基本上都是菜鸟)
 - https://github.com/n8n-io/n8n
 - https://github.com/fastlane/fastlane
 - https://github.com/aelassas/Wexflow
 
-程序员装备
----
-1. https://github.com/wesbos/awesome-uses
-
-思维逻辑
----
-- http://www.ladouban.com/booklist/listhash/1681586488032661392
-
-
-文案排版
----
+## 文案排版
 - https://github.com/sparanoid/chinese-copywriting-guidelines 中文文案排版
 
-杂项
----
+## 杂项
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 
 
-###### 看完不star，小心没jj :）
+###### 看完不star，小心没jj :）!
