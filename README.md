@@ -30,9 +30,10 @@
 - https://www.textures.com/
 - http://www.plaintextures.com/
 - https://sketchfab.com/
-- www.cgsoso.com (不解释)
+- www.cgsoso.com 
 - https://www.humblebundle.com/
 - https://www.mixamo.com/#/
+- https://www.rrcg.cn/
 
 ## News
 - https://news.ycombinator.com/news hacker news
@@ -200,6 +201,7 @@
 - https://prideout.net/blog/
 - http://filmicworlds.com/
 - http://www.thetenthplanet.de/
+- https://www.jordanstevenstechart.com/
 
 ### Famous-Person
 - https://www.zhihu.com/people/mao-xing-yun 毛星云
@@ -247,13 +249,14 @@
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
 ## C#
-- [git的c#实现] (https://github.com/libgit2/libgit2sharp)
-- [nat打洞] (https://github.com/NetchX/Netch);
-- 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
-- 命令行 https://github.com/natemcmaster/CommandLineUtils
-- C#源码(可以跳转搜搜等,差不多和ide一样) https://referencesource.microsoft.com/
+- https://github.com/libgit2/libgit2sharp -git的c#实现
+- https://github.com/NetchX/Netch -nat打洞
+- https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html 异步编程  
+- https://github.com/natemcmaster/CommandLineUtils 命令行
+- https://referencesource.microsoft.com/ C#源码
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
-- https://github.com/gradientspace/geometry3Sharp 3d数学库
+- https://getakka.net/ - Akka.Net
+- https://dotnet.github.io/orleans/ actor
 
 ## Unity
 
@@ -288,6 +291,7 @@
 -  https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
+
 
 ###  Network
 - https://github.com/MidLevel/MLAPI
@@ -348,6 +352,7 @@
 - [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
 - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
 -  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
+-  https://github.com/Unity-Technologies/SuperScience 官方3rd 移动模拟
 
 #### 非追踪 弹道模拟，这块主要是曲线模拟
 -  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
