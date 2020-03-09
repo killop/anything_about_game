@@ -276,7 +276,7 @@
 - https://github.com/Cysharp/UniTask
 - https://github.com/Arvtesh/UnityFx.Async
 
-###  unity 特色工程（精粹）
+### unity 特色工程（精粹）
 -  https://molingyu.github.io/RosettaDocs/  本地化
 -  https://github.com/hiroki-o/VoxBlend unity  表情
 -  https://github.com/huailiang/knead_proj unity  捏脸
@@ -293,7 +293,7 @@
 -  https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 
 
-###  Network
+### Network
 - https://github.com/MidLevel/MLAPI
 - https://github.com/MidLevel/Ruffles UDP
 - https://github.com/BeardedManStudios/ForgeNetworkingRemastered
@@ -303,7 +303,7 @@
 - https://github.com/colyseus/colyseus-unity3d
 - https://docs.supersocket.net/v1-6/zh-CN 国人的骄傲 
 
-### 个人博客  
+### Blog  
 - 云峰 - https://blog.codingnow.com/
 - [大熊]-(http://www.xionggf.com/)
 - [浅墨]-(https://blog.csdn.net/poem_qianmo);
@@ -375,7 +375,7 @@
 ## Tool
 - https://www.toolnb.com  toolnb 
 
-## workflow (面试考jenkins的，基本上都是菜鸟)
+## workflow (do not add jenkins!)
 - https://github.com/n8n-io/n8n
 - https://github.com/fastlane/fastlane
 - https://github.com/aelassas/Wexflow
@@ -383,7 +383,7 @@
 ## 文案排版
 - https://github.com/sparanoid/chinese-copywriting-guidelines 中文文案排版
 
-## Intresting is Best Teacher
+## Interest is the best teacher 
 - https://youquhome.com/ 
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 - http://www.iqsuperman.net/ IQ 超人
