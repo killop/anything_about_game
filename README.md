@@ -32,22 +32,19 @@
 - www.cgsoso.com (不解释)
 - https://www.humblebundle.com/
 - https://www.mixamo.com/#/
-- 神秘的淘宝
 
-News
---- 
+## News
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
 - https://github.com 
 
-Game-Design-Tool
----
-- Animation
-    - http://zh.esotericsoftware.com/ spine
-    - http://www.zingfront.cn/live3d/ live3d
-    - https://www.live2d.com/ live2d
-    - http://dragonbones.effecthub.com/ dragonbones
-- Audio
+## Game-Design-Tool
+### Animation
+- http://zh.esotericsoftware.com/ spine
+- http://www.zingfront.cn/live3d/ live3d
+- https://www.live2d.com/ live2d
+- http://dragonbones.effecthub.com/ dragonbones
+### Audio
     - http://www.fmod.org/ fmod
     - https://www.audiokinetic.com/zh/products/wwise/ wwise
  - Modeling
