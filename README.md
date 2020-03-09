@@ -82,8 +82,12 @@
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 
-## Chinese-GameEngine
+## Game-Engine
 - https://saeruhikari.github.io/SakuraEngine/#/ Sakura
+### Assets
+- https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
+- https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
+- https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
 
 ## Serialization
 - https://github.com/chronoxor/CppSerialization benckmark
@@ -222,17 +226,14 @@ substance designer的 c#实现
 - https://github.com/vuejs/vue 不解释，最牛逼的框架
 - https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md js的奇技淫巧
 - https://github.com/trekhleb/javascript-algorithms js相关的数据结构
-
 ## Lua
 - http://cloudwu.github.io/lua53doc/manual.html
 ### 转lua 最有潜力的：
-    - https://github.com/roblox-ts/roblox-ts
-    - https://github.com/titan-lang/titan
-
+- https://github.com/roblox-ts/roblox-ts
+- https://github.com/titan-lang/titan
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute	
-
-##　C#
+## C#
 - [git的c#实现] (https://github.com/libgit2/libgit2sharp)
 - [nat打洞] (https://github.com/NetchX/Netch);
 - 异步编程  https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
@@ -240,7 +241,6 @@ substance designer的 c#实现
 - C#源码(可以跳转搜搜等,差不多和ide一样) https://referencesource.microsoft.com/
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://github.com/gradientspace/geometry3Sharp 3d数学库
-
 ## unity
 ### 集锦
 - https://github.com/agarcialeon/awesome-unity#awesome-unity 
@@ -304,7 +304,6 @@ substance designer的 c#实现
  - Isometric
  - Ultimate Grids Engine
  - KUBIKOS - 3D Cube World
- 
 ### Untiy-Enmbed-Script
 - tolua
 - xlua
@@ -312,41 +311,23 @@ substance designer的 c#实现
 - gravity
 - quickjs
 - wren
-
-### 移动-追踪 主要分为 
-
-- 追踪逻辑  (这块最有价值的书籍：《数值分析》)
-   参考资料 
-    - [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html)
-    - [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
-    - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
-    -  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
-- 非追踪 弹道模拟，这块主要是曲线模拟
-    -  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
-    -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
-    -  万花筒（以前见过 懒得找地址了）
----
-
-###### 游戏引擎资源管理
-- https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
-- https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
-- https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
-
----
-###### 动画状态机设计
+### 动画状态机设计
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
-- [吃鸡的动画状态机设计](https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group)
-
----
-###### layout
+- https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
+### UGUI
 - https://gameinstitute.qq.com/community/detail/117690
 
----
-
-
+### 移动-追踪-弹幕 
+#### 追踪逻辑  (这块最有价值的书籍：《数值分析》) 
+- [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html)
+- [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
+- ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
+-  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
+#### 非追踪 弹道模拟，这块主要是曲线模拟
+-  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
+-  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 ## Data
 - https://github.com/alibaba/DataX 数据交换
-
 
 ## 知识库软件
 - 印象笔记 https://www.yinxiang.com/
