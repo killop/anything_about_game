@@ -20,8 +20,7 @@
 - https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
 - https://github.com/soruly/awesome-acg 嗯！acg
 
-Game-Asset
----
+## Game-Asset
 - https://assetstore.unity.com/ 
 - https://itch.io/ 
 - http://www.3dmodelfree.com/  free model (免费模型,不能用于商业用途)
