@@ -3,7 +3,7 @@
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
 进群后跟群主申请就好，群主是个很乐意分享的人
 
-Awesome-General
+####Awesome-General
 --- 
 - https://awesomeopensource.com/
 - https://github.com/sindresorhus/awesome
@@ -206,6 +206,7 @@ ComputerGraphics && Shading
 - https://www.zhihu.com/people/minmin.gong 叛逆者
 - http://www.thegibook.com/blog/ 秦春林
 
+###### Article
 关于gamma 空间和 线性空间
 - https://www.gameres.com/811214.html
 - http://geekfaner.com/unity/blog1_gamma.html
