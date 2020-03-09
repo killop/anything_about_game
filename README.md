@@ -383,8 +383,12 @@
 ## 文案排版
 - https://github.com/sparanoid/chinese-copywriting-guidelines 中文文案排版
 
-## 杂项
+## Intresting is Best Teacher
+- https://youquhome.com/ 
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
-
+- http://www.iqsuperman.net/ IQ 超人
+- https://www.allhistory.com 人类历史
+- https://www.die.net/earth/ 白天和黑夜实时预览
+- https://humanbenchmark.com/ 脑力benckmark
 
 ###### 看完不star，小心没jj :）!
