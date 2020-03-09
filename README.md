@@ -40,14 +40,17 @@
 - https://github.com 
 
 ## Game-Design-Tool
+
 ### Animation
 - http://zh.esotericsoftware.com/ spine
 - http://www.zingfront.cn/live3d/ live3d
 - https://www.live2d.com/ live2d
 - http://dragonbones.effecthub.com/ dragonbones
+
 ### Audio
 - http://www.fmod.org/ fmod
 - https://www.audiokinetic.com/zh/products/wwise/ wwise
+
 ### Modeling
 - https://www.substance3d.com/ sb
 - https://www.sidefx.com/ houdini
@@ -56,13 +59,16 @@
 - https://www.autodesk.com/products/maya/overview maya
 - http://pixologic.com/sculptris/ sculptris
 - http://pixologic.com/features/about-zbrush.php zbrush
+
 ### Terrain
 - http://www.world-machine.com/
 - https://www.world-creator.com/
+
 ### Texture
 - http://www.crazybump.com/
 - http://renderhjs.net/shoebox/
 - https://www.autodraw.com/ AI 帮你画图标
+
 ### Visual-Logic
 - https://machinations.io/ - (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) 
 
@@ -84,6 +90,7 @@
 
 ## Game-Engine
 - https://saeruhikari.github.io/SakuraEngine/#/ Sakura
+
 ### Assets
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
@@ -99,6 +106,7 @@
 - https://github.com/neuecc/ZeroFormatter  zero
 - https://msgpack.org/ messagepack
 - https://github.com/cloudwu/sproto sproto
+
 ### Json
 - https://github.com/neuecc/Utf8Json
 - https://github.com/Dogwei/Swifter.Json
@@ -125,7 +133,7 @@
 ## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
 
-##　高性能数据结构和算法
+## 高性能数据结构和算法
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - https://github.com/Dogwei/Swifter.Core -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
@@ -143,7 +151,7 @@
 
 
 ## 软渲染 C/CPP 
-- https://www.mesa3d.org/ 爸爸级别
+- https://www.mesa3d.org/ 
 - https://github.com/ssloy/tinyrenderer
 - https://github.com/zauonlok/renderer
 - https://github.com/Angelo1211/SoftwareRenderer
@@ -151,7 +159,8 @@
 
 
 ## ComputerGraphics && Shading
-### collection
+
+### Collection
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
 - https://github.com/mattdesl/graphics-resources
@@ -159,7 +168,9 @@
 - https://github.com/eug/awesome-opengl
 - https://github.com/jbhuang0604/awesome-computer-vision
 - https://github.com/sjfricke/awesome-webgl
-### blog
+- https://learnopengl-cn.readthedocs.io/zh/latest/
+
+### Blog
 - http://www.codinglabs.net/article_floating_point_numbers.aspx
 - http://www.lsngo.net/
 - http://www.alinenormoyle.com
@@ -190,7 +201,7 @@
 - http://filmicworlds.com/
 - http://www.thetenthplanet.de/
 
-### famous-person
+### Famous-Person
 - https://www.zhihu.com/people/mao-xing-yun 毛星云
 - http://staff.ustc.edu.cn/~lgliu/ 刘利刚
 - https://www.zhihu.com/people/luo-cheng-11-75 洛城
@@ -198,19 +209,17 @@
 - https://www.zhihu.com/people/minmin.gong 叛逆者
 - http://www.thegibook.com/blog/ 秦春林
 
+### Library&&Framework
+- https://github.com/Metric/Materia  substance designer的 c#实现
+
 ### Article
+
 #### 关于gamma 空间和 线性空间
 - https://www.gameres.com/811214.html
 - http://geekfaner.com/unity/blog1_gamma.html
 
-substance designer的 c#实现
-- https://github.com/Metric/Materia  
-
 #### 空间划分
 - https://www.cnblogs.com/KillerAery/p/10878367.html 
-
-#### 学习opengl
-- https://learnopengl-cn.readthedocs.io/zh/latest/
 
 #### shader map总结
 - https://zhuanlan.zhihu.com/p/75497647
@@ -226,13 +235,17 @@ substance designer的 c#实现
 - https://github.com/vuejs/vue 不解释，最牛逼的框架
 - https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md js的奇技淫巧
 - https://github.com/trekhleb/javascript-algorithms js相关的数据结构
+
 ## Lua
 - http://cloudwu.github.io/lua53doc/manual.html
+
 ### 转lua 最有潜力的：
 - https://github.com/roblox-ts/roblox-ts
 - https://github.com/titan-lang/titan
+
 ## Typescript
-- https://jkchao.github.io/typescript-book-chinese/#how-to-contribute	
+- https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
+
 ## C#
 - [git的c#实现] (https://github.com/libgit2/libgit2sharp)
 - [nat打洞] (https://github.com/NetchX/Netch);
@@ -241,7 +254,9 @@ substance designer的 c#实现
 - C#源码(可以跳转搜搜等,差不多和ide一样) https://referencesource.microsoft.com/
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://github.com/gradientspace/geometry3Sharp 3d数学库
-## unity
+
+## Unity
+
 ### 集锦
 - https://github.com/agarcialeon/awesome-unity#awesome-unity 
 - https://github.com/baba-s/awesome-unity-open-source-on-github
@@ -249,12 +264,15 @@ substance designer的 c#实现
 - https://unitylist.com/
 - https://openupm.com/packages/
 - https://github.com/insthync/awesome-unity3d
+
 ### 内存数据库
 - https://github.com/Cysharp/MasterMemory
+
 ### 异步操作
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
 - https://github.com/Cysharp/UniTask
 - https://github.com/Arvtesh/UnityFx.Async
+
 ###  unity 特色工程（精粹）
 -  https://molingyu.github.io/RosettaDocs/  本地化
 -  https://github.com/hiroki-o/VoxBlend unity  表情
@@ -270,6 +288,7 @@ substance designer的 c#实现
 -  https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
+
 ###  Network
 - https://github.com/MidLevel/MLAPI
 - https://github.com/MidLevel/Ruffles UDP
@@ -278,7 +297,8 @@ substance designer的 c#实现
 - https://github.com/RevenantX/LiteNetLib UDP
 - https://www.darkriftnetworking.com/
 - https://github.com/colyseus/colyseus-unity3d
-- https://docs.supersocket.net/v1-6/zh-CN 国人的骄傲    
+- https://docs.supersocket.net/v1-6/zh-CN 国人的骄傲 
+
 ### 个人博客  
 - 云峰 - https://blog.codingnow.com/
 - [大熊]-(http://www.xionggf.com/)
@@ -300,10 +320,12 @@ substance designer的 c#实现
 - https://hdmmy.github.io/page/2/
 - https://www.yomunchan.moe
 - https://www.gabrielgambetta.com/
+
 ### Tile map 解决方案 
  - Isometric
  - Ultimate Grids Engine
  - KUBIKOS - 3D Cube World
+ 
 ### Untiy-Enmbed-Script
 - tolua
 - xlua
@@ -311,21 +333,26 @@ substance designer的 c#实现
 - gravity
 - quickjs
 - wren
+
 ### 动画状态机设计
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
+
 ### UGUI
 - https://gameinstitute.qq.com/community/detail/117690
 
 ### 移动-追踪-弹幕 
+
 #### 追踪逻辑  (这块最有价值的书籍：《数值分析》) 
 - [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html)
 - [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
 - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
 -  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
+
 #### 非追踪 弹道模拟，这块主要是曲线模拟
 -  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
+
 ## Data
 - https://github.com/alibaba/DataX 数据交换
 
