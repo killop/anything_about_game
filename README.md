@@ -4,7 +4,7 @@
 进群后跟群主申请就好，群主是个很乐意分享的人
 
 ## Awesome-General
---- 
+
 - https://awesomeopensource.com/
 - https://github.com/sindresorhus/awesome
 - https://github.com/awesome-selfhosted/awesome-selfhosted
@@ -12,8 +12,8 @@
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
 - https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
 
-Awesome-Game
----
+## Awesome-Game
+
 - https://github.com/Calinou/awesome-gamedev
 - https://github.com/Kavex/GameDev-Resources
 - https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
