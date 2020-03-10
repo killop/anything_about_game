@@ -73,6 +73,10 @@
 ### Visual-Logic
 - https://machinations.io/ - (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) 
 
+### Voxel-Editor
+- https://github.com/guillaumechereau/goxel
+- https://ephtracy.github.io/
+
 ## Game-Server
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
 - https://github.com/TrinityCore/TrinityCore
@@ -80,6 +84,8 @@
 - https://github.com/ylmbtm/GameProject3
 - https://github.com/Cysharp/MagicOnion
 - https://github.com/egametang/ET
+- https://improbable.io/spatialos
+- https://aws.amazon.com/cn/gamelift/
 ### Lockstep
 - http://netcoding4d.com/
 - http://newtondynamics.com/forum/newton.php
@@ -120,6 +126,9 @@
 - http://www.angusj.com/delphi/clipper.php clipper库
 - Math Library for Unity -unity插件
 - https://archive.codeplex.com/?p=triangle triangle-三角形
+
+### Math-Tool
+- https://www.geogebra.org/
 
 ## Interview
 - https://github.com/0voice/interview_internal_reference#1
