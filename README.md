@@ -10,6 +10,7 @@
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/jnv/lists
 - https://github.com/wesbos/awesome-uses
+- http://www.lib4dev.in
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
 - https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
 
