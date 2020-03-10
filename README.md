@@ -15,7 +15,7 @@
 - https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
 
 ## Awesome-Game
-
+- https://github.com/utilForever/game-developer-roadmap 如何成为一个优秀的game程序员
 - https://github.com/Calinou/awesome-gamedev
 - https://github.com/Kavex/GameDev-Resources
 - https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
@@ -118,6 +118,7 @@
 - https://saeruhikari.github.io/SakuraEngine/#/ Sakura
 - https://github.com/urho3d/Urho3D
 - https://github.com/magefree/mage
+- https://github.com/nem0/LumixEngine
 
 ### Assets
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
@@ -287,6 +288,9 @@
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://getakka.net/ - Akka.Net
 - https://dotnet.github.io/orleans/ actor
+
+## C
+- https://github.com/nothings/stb
 
 ## Unity
 
