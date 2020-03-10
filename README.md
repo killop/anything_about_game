@@ -201,6 +201,8 @@
 - https://github.com/jbhuang0604/awesome-computer-vision
 - https://github.com/sjfricke/awesome-webgl
 - https://learnopengl-cn.readthedocs.io/zh/latest/
+- https://github.com/vinjn/awesome-vulkan
+- https://github.com/ericjang/awesome-graphics
 
 ### Blog
 - http://www.codinglabs.net/article_floating_point_numbers.aspx
@@ -325,9 +327,7 @@
 -  https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
-
-
-
+-  https://github.com/Verasl/BoatAttack
 
 ### Blog  
 - 云峰 - https://blog.codingnow.com/
