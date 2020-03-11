@@ -91,7 +91,6 @@
 - https://github.com/cloudwu/skynet
 ### Lockstep
 - http://netcoding4d.com/
-- http://newtondynamics.com/forum/newton.php
 - https://github.com/JiepengTan/LockstepECS 
 
 ## Network
@@ -151,6 +150,16 @@
 
 ### Math-Tool
 - https://www.geogebra.org/
+
+## Physics
+
+### Framework
+- https://github.com/bulletphysics/bullet3 - bullet
+- https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
+- https://github.com/flexible-collision-library/fcl fcl
+- https://github.com/nitrocaster/OPCODE OPCODE
+* https://github.com/kroitor/gjk.c gjk.c
+* https://github.com/wnbittle/dyn4j dyn4j
 
 ## Interview
 - https://github.com/0voice/interview_internal_reference#1
@@ -350,6 +359,9 @@
 - https://hdmmy.github.io/page/2/
 - https://www.yomunchan.moe
 - https://www.gabrielgambetta.com/
+
+### Framework
+- https://tinax.corala.space/#/ tinax
 
 ### Tile map 解决方案 
  - Isometric
