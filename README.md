@@ -158,8 +158,11 @@
 - https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
 - https://github.com/flexible-collision-library/fcl fcl
 - https://github.com/nitrocaster/OPCODE OPCODE
-* https://github.com/kroitor/gjk.c gjk.c
-* https://github.com/wnbittle/dyn4j dyn4j
+- https://github.com/kroitor/gjk.c gjk.c
+- https://github.com/wnbittle/dyn4j dyn4j
+- https://github.com/wellcaffeinated/PhysicsJS
+- https://www.havok.com/products/havok-physics/
+- https://www.geforce.cn/hardware/technology/physx
 
 ## Interview
 - https://github.com/0voice/interview_internal_reference#1
