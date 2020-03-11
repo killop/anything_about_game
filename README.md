@@ -367,6 +367,11 @@
 ### Framework
 - https://tinax.corala.space/#/ tinax
 - https://github.com/gmhevinci/MotionFramework
+- https://github.com/yimengfan/BDFramework.Core
+- https://github.com/liangxiegame/QFramework
+- https://github.com/EllanJiang/GameFramework
+- https://github.com/mr-kelly/KSFramework
+- https://github.com/CatLib/CatLib
 
 ### Tile map 解决方案 
  - Isometric
