@@ -365,6 +365,7 @@
 - https://www.gabrielgambetta.com/
 
 ### Framework
+- https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
 - https://github.com/gmhevinci/MotionFramework
 - https://github.com/yimengfan/BDFramework.Core
