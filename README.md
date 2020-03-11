@@ -302,6 +302,7 @@
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://getakka.net/ - Akka.Net
 - https://dotnet.github.io/orleans/ actor
+- https://github.com/xoofx/zio vfs
 
 ## C
 - https://github.com/nothings/stb
