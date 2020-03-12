@@ -341,7 +341,9 @@
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 -  https://github.com/Verasl/BoatAttack
-
+-  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
+-  https://github.com/Elringus/SpriteDicing 这才叫图集工具
+ 
 ### Blog  
 - 云峰 - https://blog.codingnow.com/
 - [大熊]-(http://www.xionggf.com/)
