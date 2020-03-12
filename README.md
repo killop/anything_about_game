@@ -392,9 +392,10 @@
 - quickjs
 - wren
 
-### 动画状态机设计
+### Animation—Play—Design
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
+- Animancer -unity插件
 
 ### UGUI
 - https://gameinstitute.qq.com/community/detail/117690
