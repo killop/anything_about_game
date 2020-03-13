@@ -39,7 +39,8 @@
 ## News
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
-- https://github.com 
+- http://www.ruanyifeng.com/blog/
+- https://hellogithub.com/
 
 ## Game-Design-Tool
 
@@ -430,6 +431,7 @@
 
 ## Tool
 - https://www.toolnb.com  toolnb 
+- https://github.com/zhaoolee/OnlineToolsBook
 
 ## workflow (do not add jenkins!)
 - https://github.com/n8n-io/n8n
