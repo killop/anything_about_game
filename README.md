@@ -280,9 +280,14 @@
 
 ### Article
 
-#### 关于gamma 空间和 线性空间
+#### Color
+- https://ppt.baomitu.com/d/c887a533#/
 - https://www.gameres.com/811214.html
 - http://geekfaner.com/unity/blog1_gamma.html
+- http://jamie-wong.com/post/color/
+- [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
+- [color vision](https://www.handprint.com/LS/CVS/color.html)
+- [color science](https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/indexe.html)
 
 #### 空间划分
 - https://www.cnblogs.com/KillerAery/p/10878367.html 
