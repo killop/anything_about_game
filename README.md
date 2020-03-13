@@ -41,6 +41,20 @@
 - https://lobste.rs/ lobste
 - http://www.ruanyifeng.com/blog/
 - https://hellogithub.com/
+- https://www.tuicool.com/mags
+- https://github.com/toutiaoio/weekly.manong.io
+### Js/Web
+- https://github.com/dt-fe/weekly
+- https://github.com/gauseen/blog/issues/4
+- https://www.infoq.cn/profile/1277275/publish
+- https://weekly.techbridge.cc/
+- https://github.com/Tnfe/TNFE-Weekly
+- http://fex.baidu.com/
+- https://weekly.75team.com/
+### Java
+- https://github.com/mercyblitz/tech-weekly
+### Go
+- https://github.com/polaris1119/golangweekly
 
 ## Game-Design-Tool
 
@@ -449,5 +463,6 @@
 - https://www.die.net/earth/ 白天和黑夜实时预览
 - https://humanbenchmark.com/ 脑力benckmark
 - https://chatroulette.com/ 全世界随机聊天
+- http://www.cbaigui.com/ 中国妖精合集
 
 ###### 看完不star，小心没jj :）!
