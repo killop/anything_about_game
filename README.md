@@ -43,6 +43,7 @@
 - https://hellogithub.com/
 - https://www.tuicool.com/mags
 - https://github.com/toutiaoio/weekly.manong.io
+- https://geeker-read.com/#/latest
 ### Js/Web
 - https://github.com/dt-fe/weekly
 - https://github.com/gauseen/blog/issues/4
