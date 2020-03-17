@@ -100,6 +100,7 @@
 - https://artomatix.com/
 
 ### 3D-File-Format
+- [Alembic] http://www.alembic.io/
 - [BLEND](https://en.wikipedia.org/wiki/.blend_(file_format))
 - [FBX](https://en.wikipedia.org/wiki/FBX)
 - [glTF 1.0](https://en.wikipedia.org/wiki/GlTF#glTF_1.0) + GLB
@@ -195,6 +196,7 @@
 - https://github.com/wellcaffeinated/PhysicsJS
 - https://www.havok.com/products/havok-physics/
 - https://www.geforce.cn/hardware/technology/physx
+- https://www.sofa-framework.org/
 
 ## Interview
 - https://github.com/0voice/interview_internal_reference#1
