@@ -100,10 +100,10 @@
 - https://artomatix.com/
 
 ### 3D-File-Format
-[3DS] (https://en.wikipedia.org/wiki/.3ds)
-[3MF] (https://en.wikipedia.org/wiki/3D_Manufacturing_Format)
+[3DS](https://en.wikipedia.org/wiki/.3ds)
+[3MF](https://en.wikipedia.org/wiki/3D_Manufacturing_Format)
 AC
-[AC3D] (https://en.wikipedia.org/wiki/AC3D)
+[AC3D](https://en.wikipedia.org/wiki/AC3D)
 ACC
 AMJ
 ASE
