@@ -467,7 +467,6 @@
 -  https://github.com/huailiang/knead_proj unity  捏脸
 -  https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
 -  https://github.com/keijiro/KinoBloom 牛逼的bloom
--  https://github.com/OneYoungMean/AutomaticDynamicBone 牛逼的动态骨骼
 -  https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
 -  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
@@ -512,10 +511,16 @@
 - https://github.com/mr-kelly/KSFramework
 - https://github.com/CatLib/CatLib
 
-### Tile map 解决方案 
+### Tile map 
  - Isometric
  - Ultimate Grids Engine
  - KUBIKOS - 3D Cube World
+ 
+ ### Bone&&Spring
+ - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
+ - [dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
+ - [Boing Kit](https://assetstore.unity.com/packages/tools/particles-effects/boing-kit-dynamic-bouncy-bones-grass-water-and-more-135594)
+ - [AutomaticDynamicBone](https://github.com/OneYoungMean/AutomaticDynamicBone)
  
 ### Untiy-Enmbed-Script
 - tolua
