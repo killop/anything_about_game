@@ -107,15 +107,15 @@
 - https://artomatix.com/
 
 ### 3D-File-Format
-- [Alembic] http://www.alembic.io/
+- [Alembic](http://www.alembic.io/)
 - [BLEND](https://en.wikipedia.org/wiki/.blend_(file_format))
 - [FBX](https://en.wikipedia.org/wiki/FBX)
-- [glTF 1.0](https://en.wikipedia.org/wiki/GlTF#glTF_1.0) + GLB
-- [glTF 2.0](https://en.wikipedia.org/wiki/GlTF#glTF_2.0):
+- [GlTF 1.0](https://en.wikipedia.org/wiki/GlTF#glTF_1.0) + GLB
+- [GlTF 2.0](https://en.wikipedia.org/wiki/GlTF#glTF_2.0):
 - [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 - [OGEX](https://en.wikipedia.org/wiki/Open_Game_Engine_Exchange)
 - [PLY](https://en.wikipedia.org/wiki/PLY_(file_format))
-- [usd](https://graphics.pixar.com/usd/docs/index.html)
+- [USD](https://graphics.pixar.com/usd/docs/index.html)
 
 ## Game-Server-framework
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
