@@ -543,6 +543,10 @@
  - [dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
  - [Boing Kit](https://assetstore.unity.com/packages/tools/particles-effects/boing-kit-dynamic-bouncy-bones-grass-water-and-more-135594)
  - [AutomaticDynamicBone](https://github.com/OneYoungMean/AutomaticDynamicBone)
+ - [uSpringBone](https://github.com/EsProgram/uSpringBone)
+ 
+ ### Burst&&JobSystem
+ - https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation
  
  ### Create Model
  - [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-2-x-111418)
