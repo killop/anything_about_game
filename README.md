@@ -88,6 +88,9 @@
 - http://www.world-machine.com/
 - https://www.world-creator.com/
 
+### List-of-game-middleware
+- https://en.wikipedia.org/wiki/List_of_game_middleware
+
 ### Texture
 - http://www.crazybump.com/
 - http://renderhjs.net/shoebox/
