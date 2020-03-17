@@ -522,6 +522,7 @@
 - https://hdmmy.github.io/page/2/
 - https://www.yomunchan.moe
 - https://www.gabrielgambetta.com/
+- http://qiankanglai.me/
 
 ### Framework
 - https://github.com/cocowolf/loxodon-framework
