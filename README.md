@@ -259,6 +259,10 @@
 - https://learnopengl-cn.readthedocs.io/zh/latest/
 - https://github.com/vinjn/awesome-vulkan
 - https://github.com/ericjang/awesome-graphics
+- https://github.com/IndieVisualLab/UnityGraphicsProgramming 
+
+### Tool
+- https://shadered.org/
 
 ### Blog
 - http://www.codinglabs.net/article_floating_point_numbers.aspx
