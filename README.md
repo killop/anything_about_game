@@ -506,7 +506,10 @@
 -  https://github.com/Verasl/BoatAttack
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
 -  https://github.com/Elringus/SpriteDicing 这才叫图集工具
- 
+
+### Shader
+- https://github.com/ellioman/ShaderProject
+
 ### Blog  
 - 云峰 - https://blog.codingnow.com/
 - [大熊]-(http://www.xionggf.com/)
