@@ -524,8 +524,11 @@
 - https://github.com/Verasl/BoatAttack
 
 ### Animation
--  https://github.com/hiroki-o/VoxBlend unity  表情
--  https://github.com/huailiang/knead_proj unity  捏脸
+- https://github.com/hiroki-o/VoxBlend unity  表情
+- https://github.com/huailiang/knead_proj unity  捏脸
+- https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
+- https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
+- [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
 
 ### Database
 - https://github.com/Cysharp/MasterMemory
@@ -550,6 +553,9 @@
 -  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
+
+### Effect
+- [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
 
 ### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
@@ -601,10 +607,11 @@
 - quickjs
 - wren
 
+### Audio
+- [native-audio](https://assetstore.unity.com/packages/tools/audio/native-audio-107067)
+
 ### Animation—Play—Design
-- https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
-- https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
-- Animancer -unity插件
+
 
 
 
