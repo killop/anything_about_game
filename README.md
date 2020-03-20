@@ -613,21 +613,14 @@
 ### Audio
 - [native-audio](https://assetstore.unity.com/packages/tools/audio/native-audio-107067)
 
-### Animation—Play—Design
-
-
-
-
-### 移动-追踪-弹幕 
-
-#### 追踪逻辑  (这块最有价值的书籍：《数值分析》) 
+### Movement
+- [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131)
+- [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966)
 - [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html)
 - [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
 - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
 -  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
 -  https://github.com/Unity-Technologies/SuperScience 官方3rd 移动模拟
-
-#### 非追踪 弹道模拟，这块主要是曲线模拟
 -  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 
