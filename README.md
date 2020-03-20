@@ -131,6 +131,7 @@
 - https://aws.amazon.com/cn/gamelift/
 - https://github.com/9miao/G-Firefly
 - https://github.com/cloudwu/skynet
+
 ### Lockstep
 - http://netcoding4d.com/
 - https://github.com/JiepengTan/LockstepECS 
@@ -188,8 +189,11 @@
 - https://github.com/gradientspace/geometry3Sharp geometry3Sharp
 - https://www.geometrictools.com/ geometrictools
 - http://www.angusj.com/delphi/clipper.php clipper库
-- Math Library for Unity -unity插件
+- [Math Library for Unity unity插件](https://assetstore.unity.com/packages/tools/math-library-for-unity-14912) 
 - https://archive.codeplex.com/?p=triangle triangle-三角形
+- https://github.com/accord-net/framework? accord-net
+- [random-from-distributions](https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873)
+- [game-math](https://github.com/npruehs/game-math)
 
 ### Math-Tool
 - https://www.geogebra.org/
@@ -208,7 +212,7 @@
 - https://www.geforce.cn/hardware/technology/physx
 - https://www.sofa-framework.org/
 
-## Interview
+## Interview-Algorithms-DataStruct
 - https://github.com/0voice/interview_internal_reference#1
 - https://github.com/ZXZxin/ZXBlog
 - https://github.com/awangdev/LintCode
@@ -217,6 +221,7 @@
 - https://algorithm.yuanbin.me/zh-hans/?q=
 - https://github.com/labuladong/fucking-algorithm
 - https://github.com/algorithm-visualizer/algorithm-visualizer
+- https://github.com/aalhour/C-Sharp-Algorithms
 
 ## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
