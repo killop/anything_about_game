@@ -177,6 +177,7 @@
 - https://github.com/neuecc/ZeroFormatter  zero
 - https://msgpack.org/ messagepack
 - https://github.com/cloudwu/sproto sproto
+- https://uscilab.github.io/cereal/
 
 ### Json
 - https://github.com/neuecc/Utf8Json
