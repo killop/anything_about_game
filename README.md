@@ -197,6 +197,8 @@
 - https://www.cnblogs.com/KillerAery/p/10878367.html -空间划分
 - https://github.com/kodai100/Unity_GPUNearestNeighbor  - Neighbor
 - https://github.com/Shinao/Unity-GPU-Boids Boids
+- https://github.com/StandardCyborg/nurbs
+- https://github.com/radiatoryang/hedera
 
 ### GPU-Accelerator
 - https://github.com/arrayfire/arrayfire
