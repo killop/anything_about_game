@@ -12,13 +12,13 @@
 - https://github.com/wesbos/awesome-uses
 - http://www.lib4dev.in/topics/dotnet
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
-- https://www.cnblogs.com/lonelyxmas/p/12204134.html  国外c# 项目集锦 
 
 ## Awesome-Game
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
 - https://github.com/utilForever/game-developer-roadmap 如何成为一个优秀的game程序员
 - https://github.com/Calinou/awesome-gamedev
 - https://github.com/Kavex/GameDev-Resources
+- https://github.com/raizam/gamedev_libraries
 - https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
 - https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
 - https://github.com/soruly/awesome-acg 嗯！acg
@@ -194,6 +194,12 @@
 - https://github.com/accord-net/framework? accord-net
 - [random-from-distributions](https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873)
 - [game-math](https://github.com/npruehs/game-math)
+- https://www.cnblogs.com/KillerAery/p/10878367.html -空间划分
+- https://github.com/kodai100/Unity_GPUNearestNeighbor  - Neighbor
+- https://github.com/Shinao/Unity-GPU-Boids Boids
+
+### GPU-Accelerator
+- https://github.com/arrayfire/arrayfire
 
 ### Math-Tool
 - https://www.geogebra.org/
@@ -211,6 +217,7 @@
 - https://www.havok.com/products/havok-physics/
 - https://www.geforce.cn/hardware/technology/physx
 - https://www.sofa-framework.org/
+- https://github.com/jeffvella/UnityNativeCollision
 
 ## Interview-Algorithms-DataStruct
 - https://github.com/0voice/interview_internal_reference#1
@@ -222,9 +229,11 @@
 - https://github.com/labuladong/fucking-algorithm
 - https://github.com/algorithm-visualizer/algorithm-visualizer
 - https://github.com/aalhour/C-Sharp-Algorithms
+- https://github.com/OpenGenus/cosmos
 
 ## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
+- https://github.com/sebbbi/perftest 
 
 ## 高性能数据结构和算法
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
@@ -418,6 +427,9 @@
 - https://www.zhihu.com/people/minmin.gong 叛逆者
 - http://www.thegibook.com/blog/ 秦春林
 
+### Ray-Tracing
+- https://github.com/daseyb/pathgraph
+
 ### Library&&Framework
 - https://github.com/Metric/Materia  substance designer的 c#实现
 
@@ -434,8 +446,7 @@
 - [color science](https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/indexe.html)
 
 
-#### 空间划分
-- https://www.cnblogs.com/KillerAery/p/10878367.html 
+
 
 #### shader map总结
 - https://zhuanlan.zhihu.com/p/75497647
