@@ -557,6 +557,7 @@
 - https://github.com/Arvtesh/UnityFx.Async
 - https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
 - https://github.com/brminnick/AsyncAwaitBestPractices
+- https://github.com/mgravell/PooledAwait
 
 ### Node
 -[UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
