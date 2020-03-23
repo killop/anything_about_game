@@ -94,9 +94,14 @@
 - https://en.wikipedia.org/wiki/List_of_game_middleware
 
 ### Texture
+- https://github.com/kmkolasinski/AwesomeBump
 - http://www.crazybump.com/
 - http://renderhjs.net/shoebox/
-- https://www.autodraw.com/ AI 帮你画图标
+- https://www.autodraw.com/
+
+### GPU-Texture
+- https://github.com/BinomialLLC/basis_universal
+- https://github.com/caosdoar/Fornos
 
 ### Visual-Logic
 - https://machinations.io/ - (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) 
