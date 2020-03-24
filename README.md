@@ -569,7 +569,12 @@
 - https://github.com/mgravell/PooledAwait
 
 ### Node
--[UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
+- [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
+- [XNode](https://github.com/Siccity/xNode)
+- [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
+
+### AI
+- [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 
 ### UGUI
 - https://gameinstitute.qq.com/community/detail/117690
