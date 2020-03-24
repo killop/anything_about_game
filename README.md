@@ -86,6 +86,10 @@
 - https://www.foundry.com/products/modo modo
 - https://www.cheetah3d.com/ cheetah3d
 
+### Material
+- https://github.com/Metric/Materia  substance designer的 c#实现
+- https://rodzilla.itch.io/material-maker material-maker
+
 ### Terrain
 - http://www.world-machine.com/
 - https://www.world-creator.com/
@@ -438,8 +442,7 @@
 ### Ray-Tracing
 - https://github.com/daseyb/pathgraph
 
-### Library&&Framework
-- https://github.com/Metric/Materia  substance designer的 c#实现
+
 
 ### Article
 
