@@ -68,9 +68,10 @@
 - http://dragonbones.effecthub.com/ dragonbones
 
 ### Audio
-- http://www.fmod.org/ fmod
-- https://www.audiokinetic.com/zh/products/wwise/ wwise
-- http://www.radgametools.com/miles.htm miles
+- [fmod](http://www.fmod.org/)
+- [wwise](https://www.audiokinetic.com/zh/products/wwise/)
+- [miles](http://www.radgametools.com/miles.htm)
+- [criware](http://www.criware.cn/)
 
 ### Render
 - https://simul.co/ trueSKY
