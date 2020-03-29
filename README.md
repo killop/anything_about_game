@@ -210,6 +210,7 @@
 - https://github.com/Shinao/Unity-GPU-Boids Boids
 - https://github.com/StandardCyborg/nurbs
 - https://github.com/radiatoryang/hedera
+- https://github.com/GregLukosek/3DMath
 
 ### GPU-Accelerator
 - https://github.com/arrayfire/arrayfire
