@@ -665,6 +665,9 @@
 ## Data
 - https://github.com/alibaba/DataX 数据交换
 
+## Schema
+- https://github.com/vriad/zod
+
 ## 知识库软件
 - 印象笔记 https://www.yinxiang.com/
 - 有道云 http://note.youdao.com/
