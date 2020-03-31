@@ -724,5 +724,6 @@
 - https://humanbenchmark.com/ 脑力benckmark
 - https://chatroulette.com/ 全世界随机聊天
 - http://www.cbaigui.com/ 中国妖精合集
+- https://works.yangerxiao.com/honeyed-words-generator/ 土味情话
 
 ###### 看完不star，小心没jj :）!
