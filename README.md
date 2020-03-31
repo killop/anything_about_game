@@ -134,6 +134,11 @@
 - https://github.com/NtreevSoft/Crema
 - https://github.com/vriad/zod
 - https://github.com/ExpediaGroup/stream-registry
+- https://github.com/davyxu/tabtoy
+- https://github.com/liaochong/myexcel
+- https://github.com/SheetJS/sheetjs
+- https://github.com/alibaba/easyexcel
+- https://github.com/EPPlusSoftware/EPPlus
 
 ## Game-Server-framework
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
