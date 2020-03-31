@@ -244,6 +244,8 @@
 - https://github.com/algorithm-visualizer/algorithm-visualizer
 - https://github.com/aalhour/C-Sharp-Algorithms
 - https://github.com/OpenGenus/cosmos
+- https://github.com/CyC2018/CS-Notes
+- https://github.com/azl397985856/leetcode
 
 ## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
