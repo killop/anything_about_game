@@ -1,10 +1,5 @@
 
-这里主要是小伙伴们一起收集的跟游戏相关的精粹
-， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
-进群后跟群主申请就好，群主是个很乐意分享的人
-
 ## Awesome-General
-
 - https://awesomeopensource.com/
 - https://github.com/sindresorhus/awesome
 - https://github.com/awesome-selfhosted/awesome-selfhosted
@@ -732,5 +727,9 @@
 - https://chatroulette.com/ 全世界随机聊天
 - http://www.cbaigui.com/ 中国妖精合集
 - https://works.yangerxiao.com/honeyed-words-generator/ 土味情话
+
+这里主要是小伙伴们一起收集的跟游戏相关的精粹
+， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
+进群后跟群主(我)申请就好，群主是个很乐意分享的人
 
 ###### 看完不star，小心没jj :）!
