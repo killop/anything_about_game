@@ -130,8 +130,10 @@
 - [USD](https://graphics.pixar.com/usd/docs/index.html)
 - [Niftools](https://github.com/niftools/niflib)
 
-### metadata
+### Metadata/Excel/Schema/Proto
 - https://github.com/NtreevSoft/Crema
+- https://github.com/vriad/zod
+- https://github.com/ExpediaGroup/stream-registry
 
 ## Game-Server-framework
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
@@ -676,8 +678,7 @@
 ## Data
 - https://github.com/alibaba/DataX 数据交换
 
-## Schema
-- https://github.com/vriad/zod
+
 
 ## 知识库软件
 - 印象笔记 https://www.yinxiang.com/
