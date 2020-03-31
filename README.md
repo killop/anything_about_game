@@ -140,6 +140,9 @@
 - https://github.com/alibaba/easyexcel
 - https://github.com/EPPlusSoftware/EPPlus
 
+### Version-Controller
+- https://github.com/pcottle/learnGitBranching
+
 ## Game-Server-framework
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
 - https://github.com/TrinityCore/TrinityCore
@@ -259,6 +262,7 @@
 - https://github.com/OpenGenus/cosmos
 - https://github.com/CyC2018/CS-Notes
 - https://github.com/azl397985856/leetcode
+- https://github.com/wolverinn/Waking-Up
 
 ## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
