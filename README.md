@@ -62,6 +62,9 @@
 - https://www.live2d.com/ live2d
 - http://dragonbones.effecthub.com/ dragonbones
 
+### Unity-Tool
+- [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
+
 ### Audio
 - [fmod](http://www.fmod.org/)
 - [wwise](https://www.audiokinetic.com/zh/products/wwise/)
