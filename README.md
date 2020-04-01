@@ -6,9 +6,12 @@
 - https://github.com/jnv/lists
 - https://github.com/wesbos/awesome-uses
 - http://www.lib4dev.in/topics/dotnet
-- https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
+- https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts 
 - https://github.com/jobbole
 - https://github.com/stanzhai/be-a-professional-programmer
+
+### Laws
+- https://github.com/nusr/hacker-laws-zh
 
 ## Awesome-Game
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
