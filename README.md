@@ -277,7 +277,7 @@
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 
-## 渲染框架
+## Graphics-Library
 - https://github.com/kosua20/herebedragons
 - https://github.com/sinclairzx81/zero
 - http://www.mitsuba-renderer.org/
