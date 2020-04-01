@@ -41,6 +41,8 @@
 - https://www.tuicool.com/mags
 - https://github.com/toutiaoio/weekly.manong.io
 - https://geeker-read.com/#/latest
+- https://coolshell.cn/
+
 ### Js/Web
 - https://github.com/dt-fe/weekly
 - https://github.com/gauseen/blog/issues/4
@@ -270,6 +272,7 @@
 ## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
 - https://github.com/sebbbi/perftest 
+- https://coolshell.cn/articles/20793.html  cpu cache
 
 ## 高性能数据结构和算法
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
