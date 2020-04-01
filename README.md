@@ -53,6 +53,7 @@
 - https://weekly.75team.com/
 ### Java
 - https://github.com/mercyblitz/tech-weekly
+- http://www.iocoder.cn/?github
 ### Go
 - https://github.com/polaris1119/golangweekly
 
