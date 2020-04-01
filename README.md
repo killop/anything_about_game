@@ -189,9 +189,122 @@
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 
-## Game-Engine
+### 2D Engines and Frameworks
+* [Agen](http://2dengine.com/page.php?p=features) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
+* [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. :o2:
+* [AndEngine](http://www.andengine.org) - 2D Android Game Engine :o2:
+* [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games. :o2:
+* [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor. :o2:
+* [Box2D](http://box2d.org/) - A 2D Physics Engine for Games. :o2:
+* [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib. :o2:
+* [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
+* [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language :o2:
+* [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. :free:
+* [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting. :triangular_flag_on_post:
+* [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
+* [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
+* [Defold](http://www.defold.com/) 2D game engine by King :free:
+* [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
+* [EasyRPG](https://easyrpg.org/) - role playing game creation tool compatible with RPG Maker 2000/2003 games :free:
+* [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go. :o2:
+* [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. :o2:
+* [EnchantJS](https://github.com/wise9/enchant.js) - A simple JavaScript framework for creating games and apps.
+* [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
+* [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
+* [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3. :o2:
+* [GameMaker](http://www.yoyogames.com/studio) - 2D Game Engine :triangular_flag_on_post:
+* [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
+* [Gideros](http://giderosmobile.com/) - Mobile Cross-Platform framework using Lua programming language. :o2:
+* [Glide Engine](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, with practical examples. :o2:
+* [Gosu](https://www.libgosu.org/) - 2D game development library for Ruby and C++ :o2:
+* [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
+* [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications :o2:
+* [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
+* [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
+* [Juno Lua](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua :o2:
+* [Juno TypeScript](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
+* [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
+* [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
+* [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines :o2:
+* [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. :o2:
+* [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
+* [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development. :o2:
+* [LÖVE](http://love2d.org) - Lua 2D Game Engine. :o2:
+* [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA) :o2:
+* [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
+* [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
+* [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine. :o2:
+* [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
+* [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework. :o2:
+* [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
+* [Open Mega Engine](https://github.com/rafaelcp/Open-Mega-Engine)
+* [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games. :o2:
+* [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
+* [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
+* [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine. :o2:
+* [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
+* [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
+* [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
+* [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python. :free:
+* [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games. :heavy_dollar_sign:
+* [Ren'Py](http://www.renpy.org/) - visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS :o2:
+* [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
+* [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. :free:
+* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library. :free:
+* [Solarus](http://www.solarus-games.org/) a free and open-source Action-RPG (Zelda) game engine :free:
+* [SpriteBuilder](http://www.spritebuilder.com/) - Open Source Game Development Suite for MacOS :o2:
+* [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine.
+* [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
+* [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
+* [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
+* [Tilengine](http://www.tilengine.org/) - C Engine with wrappers for C#, Python and Java :o2:
+* [Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games.
+
+
+### 3D Engines and Frameworks
+* [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D :o2:
+* [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
+* [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. :o2:
+* [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. :o2:
+* [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
+* [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++. :o2:
+* [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
+* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. :o2:
+* [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan. :o2:
+* [gameplay3d](http://gameplay3d.io/) - 2D + 3D game framework written in C++ :o2:
+* [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. :o2:
+* [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
+* [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
+* [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine. :o2:
+* [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. :o2:
+* [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
+* [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
+* [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
+* [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics. :o2:
+* [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
+* [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. :triangular_flag_on_post:
+* [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
+* [Paradox](http://paradox3d.net/) - Open Source C# Game Engine. :o2:
+* [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust. :o2:
+* [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
+* [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
+* [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine  :o2:
+* [Source](https://developer.valvesoftware.com/wiki/Main_Page) Valve's Flagship engine :free:
+* [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
+* [Stingray](http://www.autodesk.com/products/stingray/) - 3D game engine and real-time rendering software :heavy_dollar_sign:
+* [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
+* [Three.js](http://threejs.org/) - Javascript 3D Library.
+* [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
+* [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
+* [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
+* [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine. :o2:
+* [Wave](http://waveengine.net/) - Cross-platform engine written in C#
+* [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games :o2:
+* [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
+* [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming :o2:
+* [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 - https://saeruhikari.github.io/SakuraEngine/#/ Sakura
-- https://github.com/urho3d/Urho3D
 - https://github.com/magefree/mage
 - https://github.com/nem0/LumixEngine
 
