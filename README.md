@@ -47,7 +47,7 @@
 - https://geeker-read.com/#/latest
 - https://coolshell.cn/
 
-### Js/Web
+#### Js/Web
 - https://github.com/dt-fe/weekly
 - https://github.com/gauseen/blog/issues/4
 - https://www.infoq.cn/profile/1277275/publish
@@ -55,10 +55,10 @@
 - https://github.com/Tnfe/TNFE-Weekly
 - http://fex.baidu.com/
 - https://weekly.75team.com/
-### Java
+#### Java
 - https://github.com/mercyblitz/tech-weekly
 - http://www.iocoder.cn/?github
-### Go
+#### Go
 - https://github.com/polaris1119/golangweekly
 
 ## Game-Design-Tool
