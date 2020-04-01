@@ -279,11 +279,23 @@
 
 ## 渲染框架
 - https://github.com/kosua20/herebedragons
-- https://github.com/bkaradzic/bgfx
 - https://github.com/sinclairzx81/zero
-- https://github.com/OGRECave/ogre
 - http://www.mitsuba-renderer.org/
 - https://github.com/vurtun/nuklear nuklear-A single-header ANSI C gui library
+- [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [[github](https://github.com/bkaradzic/bgfx) ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social&label=Star&maxAge=2592000)]
+- [bs::framework](https://www.bsframework.io/) - Modern C++14 library for the development of real-time graphical applications  [[github](https://github.com/GameFoundry/bsf) ![GameFoundry/bsf](https://img.shields.io/github/stars/GameFoundry/bsf.svg?style=social&label=Star&maxAge=2592000)]
+- [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [[github](https://github.com/DiligentGraphics/DiligentEngine) ![DiligentGraphics/DiligentEngine](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine.svg?style=social&label=Star&maxAge=2592000)]
+- [Falcor](https://developer.nvidia.com/falcor) - Real-time rendering framework designed specifically for rapid prototyping. [[github](https://github.com/NVIDIAGameWorks/Falcor) ![NVIDIAGameWorks/Falcor](https://img.shields.io/github/stars/NVIDIAGameWorks/Falcor.svg?style=social&label=Star&maxAge=2592000)]
+- [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [[github](https://github.com/google/filament) ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social&label=Star&maxAge=2592000)]
+- [Magnum](https://magnum.graphics/) - Lightweight and modular graphics middleware for games and data visualization. [[github](https://github.com/mosra/magnum) ![mosra/magnum](https://img.shields.io/github/stars/mosra/magnum.svg?style=social&label=Star&maxAge=2592000)]
+- [OGRE3D](https://www.ogre3d.org/) - Scene-oriented flexible 3D engine written in C++. [[bitbucket](https://bitbucket.org/sinbad/ogre)]
+- [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [[github](https://github.com/openscenegraph/OpenSceneGraph) ![openscenegraph/OpenSceneGraph](https://img.shields.io/github/stars/openscenegraph/OpenSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
+- [OptiX](https://developer.nvidia.com/optix) - Application framework for achieving optimal ray tracing performance on the GPU
+- [OSPRay](http://www.ospray.org/) - Ray tracing based rendering engine for high-fidelity visualization. [[github](https://github.com/ospray/OSPRay) ![ospray/OSPRay](https://img.shields.io/github/stars/ospray/OSPRay.svg?style=social&label=Star&maxAge=2592000)]
+- [Polyscope](http://polyscope.run/) - Prototyping-oriented UI for geometric algorithms. [[github](https://github.com/nmwsharp/polyscope) ![nmwsharp/polyscope](https://img.shields.io/github/stars/nmwsharp/polyscope.svg?style=social&label=Star&maxAge=2592000)]
+- [Taichi](http://taichi.graphics/) - Computer graphics R&D infrastructure [[github](https://github.com/yuanming-hu/taichi) ![yuanming-hu/taichi](https://img.shields.io/github/stars/yuanming-hu/taichi.svg?style=social&label=Star&maxAge=2592000)]
+- The Forge - Cross-platform rendering framework. [[github](https://github.com/ConfettiFX/The-Forge) ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social&label=Star&maxAge=2592000)]
+- [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
 
 ## 软渲染 C/CPP 
