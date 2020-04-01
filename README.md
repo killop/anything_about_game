@@ -1,4 +1,28 @@
 
+## News
+- https://news.ycombinator.com/news hacker news
+- https://lobste.rs/ lobste
+- http://www.ruanyifeng.com/blog/
+- https://hellogithub.com/
+- https://www.tuicool.com/mags
+- https://github.com/toutiaoio/weekly.manong.io
+- https://geeker-read.com/#/latest
+- https://coolshell.cn/
+
+#### Js/Web
+- https://github.com/dt-fe/weekly
+- https://github.com/gauseen/blog/issues/4
+- https://www.infoq.cn/profile/1277275/publish
+- https://weekly.techbridge.cc/
+- https://github.com/Tnfe/TNFE-Weekly
+- http://fex.baidu.com/
+- https://weekly.75team.com/
+#### Java
+- https://github.com/mercyblitz/tech-weekly
+- http://www.iocoder.cn/?github
+#### Go
+- https://github.com/polaris1119/golangweekly
+
 ## Awesome-General
 - https://awesomeopensource.com/
 - https://github.com/sindresorhus/awesome
@@ -9,8 +33,7 @@
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts 
 - https://github.com/jobbole
 - https://github.com/stanzhai/be-a-professional-programmer
-#### Laws
-- https://github.com/nusr/hacker-laws-zh
+
 
 ## Awesome-Game
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
@@ -36,30 +59,6 @@
 - https://www.humblebundle.com/
 - https://www.mixamo.com/#/
 - https://www.rrcg.cn/
-
-## News
-- https://news.ycombinator.com/news hacker news
-- https://lobste.rs/ lobste
-- http://www.ruanyifeng.com/blog/
-- https://hellogithub.com/
-- https://www.tuicool.com/mags
-- https://github.com/toutiaoio/weekly.manong.io
-- https://geeker-read.com/#/latest
-- https://coolshell.cn/
-
-#### Js/Web
-- https://github.com/dt-fe/weekly
-- https://github.com/gauseen/blog/issues/4
-- https://www.infoq.cn/profile/1277275/publish
-- https://weekly.techbridge.cc/
-- https://github.com/Tnfe/TNFE-Weekly
-- http://fex.baidu.com/
-- https://weekly.75team.com/
-#### Java
-- https://github.com/mercyblitz/tech-weekly
-- http://www.iocoder.cn/?github
-#### Go
-- https://github.com/polaris1119/golangweekly
 
 ## Game-Design-Tool
 
@@ -870,6 +869,7 @@
 - https://github.com/sparanoid/chinese-copywriting-guidelines 中文文案排版
 
 ## Interest is the best teacher 
+- https://github.com/nusr/hacker-laws-zh
 - https://youquhome.com/ 
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 - http://www.iqsuperman.net/ IQ 超人
