@@ -516,6 +516,22 @@
 #### 非真实渲染
 - https://mp.weixin.qq.com/s/oNjYmta6FFkfhCsOO6ZCWA 
 
+## Utils
+#### C
+*   APR：Apache Portable Runtime；另一个跨平台的实用函数库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](http://apr.apache.org/)
+*   C Algorithms：一个常用算法和数据结构的集合。[官网](https://github.com/fragglet/c-algorithms)
+*   CPL：The Common Pipeline Library；一系列详尽，高效和强壮的软件工具包。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](http://www.eso.org/sci/software/cpl/)
+*   EFL：一个大型实用数据结构和函数的的集合。多种许可证，完全免费。[官网](https://www.enlightenment.org/p.php?p=about/efl)
+*   GLib：一个便携，高效和强大的实用函数和数据结构库。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。[官网](https://wiki.gnome.org/Projects/GLib)
+*   GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
+*   GObject：一个 C 的面向对象系统和对象模型。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。[官网](https://developer.gnome.org/gobject/stable/)
+*   libnih：一个轻量级的 C 函数和数据结构库。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/keybuk/libnih)
+*   libU：一个提供基本实用函数的迷你库，包括内存分配，字符串处理和日志功能。[官网](http://www.koanlogic.com/libu/)
+*   PBL：一个包括实用函数，特色数据结构等的大型库。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)及更高版本（库），[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)及更高版本（测试代码）。[官网](http://www.mission-base.com/peter/source/)
+*   qlibc：一个简单且强大的 C 库，当我们想要小且轻的库时，可作为 Glib 的替代品。[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (类似于 [FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD"))。[官网](https://github.com/wolkykim/qlibc)
+*   stb：一系列单文件 C 库。公共领域。[官网](https://github.com/nothings/stb)
+*   [libcstl](http://hao.importnew.com/libcstl/)：标准C语言通用数据结构和常用算法库。[官网](http://libcstl.org/)
+
 ## Javascript
 - https://github.com/ljianshu/Blog  -js优秀博主
 - https://muyiy.cn/blog/ -- js优秀博主
