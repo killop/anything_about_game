@@ -9,8 +9,7 @@
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts 
 - https://github.com/jobbole
 - https://github.com/stanzhai/be-a-professional-programmer
-
-### Laws
+#### Laws
 - https://github.com/nusr/hacker-laws-zh
 
 ## Awesome-Game
