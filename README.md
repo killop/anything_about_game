@@ -328,6 +328,31 @@
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
 
+## 并发执行和多线程
+#### CPP
+*   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
+*   Bolt：针对GPU进行优化的C++模板库。[官网](https://github.com/HSA-Libraries/Bolt)
+*   C++React：用于C++11的反应性编程库。[官网](https://github.com/schlangster/cpp.react)
+*   Intel TBB：Intel线程构件块。[官网](https://www.threadingbuildingblocks.org/)
+*   Libclsph：基于OpenCL的GPU加速SPH流体仿真库。[官网](https://github.com/libclsph/libclsph)
+*   OpenCL：并行编程的异构系统的开放标准。[官网](https://www.khronos.org/opencl/)
+*   OpenMP：OpenMP API。[官网](http://openmp.org/)
+*   Thrust：类似于C++标准模板库的并行算法库。[官网](http://thrust.github.io/)
+*   HPX：用于任何规模的并行和分布式应用程序的通用C++运行时系统。[官网](https://github.com/STEllAR-GROUP/hpx/)
+*   VexCL：用于OpenCL/CUDA 的C++向量表达式模板库。[官网](https://github.com/ddemidov/vexcl)
+#### C 
+*   cchan：一个线程间通信通道构建的小型库。公共领域。[官网](http://repo.hu/projects/cchan/)
+*   ck：并发原语，安全内存回收机制和非阻塞数据结构。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/concurrencykit/ck)
+*   mill：用 C 写成的 Go 风格并发。[X11](https://directory.fsf.org/wiki/License:X11)[官网](http://libmill.org/)
+*   MPICH：MPI 的另一种实现。[MPICH licence](http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT)。[官网](http://www.mpich.org/)
+*   OpenMP：一组 C 编译指令，使其易于并行化代码。标准（许可不适用）。[官网](http://openmp.org/wp/about-openmp/)
+*   OpenMPI：一个消息传输接口实现。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/open-mpi/ompi)
+*   PETSc：一系列数据结构和例程，用于计算由偏微分方程建模的应用程序的可扩展并行解。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](http://www.mcs.anl.gov/petsc/)
+*   pth：一个非抢占式优先级调度多线程执行的可扩展实现。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或者更高版本。[官网](https://gnu.org/software/pth/)
+*   pthreads：POSIX 线程库。标准（没有适用的许可）。[官网](https://en.wikipedia.org/wiki/POSIX_Threads)
+*   SLEPc：一个在并行计算机中的解决大型，稀疏特征值问题的软件库。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)。[官网](http://slepc.upv.es/)
+*   TinyCThread：一个可扩展，小型的 C11 标准线程 API 实现。[zlib](http://directory.fsf.org/wiki/License:Zlib)。[官网](https://tinycthread.github.io/)
+
 ## Game-Math
 - https://mathvault.ca/websites/
 - https://github.com/Unity-Technologies/Unity.Mathematics unityMath  
@@ -347,7 +372,17 @@
 - https://github.com/radiatoryang/hedera
 - https://github.com/GregLukosek/3DMath
 
-### Math-Tool
+#### CPP
+*   Armadillo：高质量的C++线性代数库，速度和易用性做到了很好的平衡。语法和MatlAB很相似。[官网](http://arma.sourceforge.net/)
+*   blaze：高性能的C++数学库，用于密集和稀疏算法。[官网](https://code.google.com/p/blaze-lib/)
+*   ceres-solver：来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题。[官网](http://ceres-solver.org/)
+*   CGal：高效，可靠的集合算法集合。[官网](http://www.cgal.org/)
+*   cml：用于游戏和图形的免费C++数学库。[官网](http://cmldev.net/)
+*   Eigen：高级C++模板头文件库，包括线性代数，矩阵，向量操作，数值解决和其他相关的算法。[官网](http://eigen.tuxfamily.org/)
+*   GMTL：数学图形模板库是一组广泛实现基本图形的工具。[官网](http://ggt.sourceforge.net/)
+*   GMP：用于个高精度计算的C/C++库，处理有符号整数，有理数和浮点数。[官网](https://gmplib.org/)
+
+#### Math-Tool
 - https://www.geogebra.org/
 
 ## Physics Framework
