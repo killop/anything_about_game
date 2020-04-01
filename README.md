@@ -7,6 +7,7 @@
 - https://github.com/wesbos/awesome-uses
 - http://www.lib4dev.in/topics/dotnet
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
+- https://github.com/jobbole
 
 ## Awesome-Game
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
