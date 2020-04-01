@@ -8,6 +8,7 @@
 - http://www.lib4dev.in/topics/dotnet
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts  中国集锦
 - https://github.com/jobbole
+- https://github.com/stanzhai/be-a-professional-programmer
 
 ## Awesome-Game
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
@@ -144,6 +145,7 @@
 
 ### Version-Controller
 - https://github.com/pcottle/learnGitBranching
+- https://github.com/libgit2/libgit2sharp
 
 ## Game-Server-framework
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
