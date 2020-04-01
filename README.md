@@ -321,7 +321,8 @@
 - https://learnopengl-cn.readthedocs.io/zh/latest/
 - https://github.com/vinjn/awesome-vulkan
 - https://github.com/ericjang/awesome-graphics
-- https://github.com/IndieVisualLab/UnityGraphicsProgramming 
+- https://github.com/IndieVisualLab/UnityGraphicsProgramming
+- https://github.com/jslee02/awesome-graphics-libraries
 
 ### Tool
 - https://shadered.org/
