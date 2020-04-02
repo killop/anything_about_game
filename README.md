@@ -323,10 +323,7 @@
 - https://github.com/magefree/mage
 - https://github.com/nem0/LumixEngine
 
-### Assets
-- https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
-- https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
-- https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
+
 
 ## 并发执行和多线程
 #### CPP
@@ -398,38 +395,6 @@
 - https://www.sofa-framework.org/
 - https://github.com/jeffvella/UnityNativeCollision
 
-
-
-## Interview-Algorithms-DataStruct
-- https://github.com/0voice/interview_internal_reference#1
-- https://github.com/ZXZxin/ZXBlog
-- https://github.com/awangdev/LintCode
-- https://github.com/apachecn/Interview
-- https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
-- https://algorithm.yuanbin.me/zh-hans/?q=
-- https://github.com/labuladong/fucking-algorithm
-- https://github.com/algorithm-visualizer/algorithm-visualizer
-- https://github.com/aalhour/C-Sharp-Algorithms
-- https://github.com/OpenGenus/cosmos
-- https://github.com/CyC2018/CS-Notes
-- https://github.com/azl397985856/leetcode
-- https://github.com/wolverinn/Waking-Up
-- https://github.com/AobingJava/JavaFamily
-- https://github.com/MisterBooo/LeetCodeAnimation
-
-## Operating-System
-- https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
-- https://github.com/sebbbi/perftest 
-- https://coolshell.cn/articles/20793.html  cpu cache
-
-## 高性能数据结构和算法
-- https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
-- https://github.com/Dogwei/Swifter.Core -- swifter 的和核心库，里面很多unsafe 优化
-- https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
-- https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
-- https://github.com/giacomelli/GeneticSharp 遗传算法
-- https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
-
 ## Graphics-Library
 - https://github.com/kosua20/herebedragons
 - https://github.com/sinclairzx81/zero
@@ -480,7 +445,11 @@
 ### Physically-Based-Render
 - https://github.com/Josh015/Alloy
 
-### Blog
+#### Article
+- https://mp.weixin.qq.com/s/oNjYmta6FFkfhCsOO6ZCWA  非真实渲染
+- https://zhuanlan.zhihu.com/p/75497647  shader map总结
+
+#### Blog
 - http://www.codinglabs.net/article_floating_point_numbers.aspx
 - http://www.lsngo.net/
 - http://www.alinenormoyle.com
@@ -512,7 +481,7 @@
 - http://www.thetenthplanet.de/
 - https://www.jordanstevenstechart.com/
 
-### Forked-Collection ：https://gforcex.github.io/2018/09/14/engine-blogs.html
+#### Forked-Collection ：https://gforcex.github.io/2018/09/14/engine-blogs.html
 - http://www.iryoku.com/
  - http://kode80.com/blog/
  - http://www.iquilezles.org/
@@ -621,7 +590,7 @@
  - http://the-witness.net/news/
  - http://jpgrenier.org/
 
-### Famous-Person
+#### Famous-Person
 - https://www.zhihu.com/people/mao-xing-yun 毛星云
 - http://staff.ustc.edu.cn/~lgliu/ 刘利刚
 - https://www.zhihu.com/people/luo-cheng-11-75 洛城
@@ -629,12 +598,8 @@
 - https://www.zhihu.com/people/minmin.gong 叛逆者
 - http://www.thegibook.com/blog/ 秦春林
 
-### Ray-Tracing
+#### Ray-Tracing
 - https://github.com/daseyb/pathgraph
-
-
-
-### Article
 
 #### Color
 - https://docs.krita.org/zh_CN/general_concepts/colors.html
@@ -646,14 +611,40 @@
 - [color vision](https://www.handprint.com/LS/CVS/color.html)
 - [color science](https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/indexe.html)
 
+#### GameEngine-Design-Blog-Artcile
+- https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
+- https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
+- https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
 
+## Interview-Algorithms-DataStruct
+- https://github.com/0voice/interview_internal_reference#1
+- https://github.com/ZXZxin/ZXBlog
+- https://github.com/awangdev/LintCode
+- https://github.com/apachecn/Interview
+- https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
+- https://algorithm.yuanbin.me/zh-hans/?q=
+- https://github.com/labuladong/fucking-algorithm
+- https://github.com/algorithm-visualizer/algorithm-visualizer
+- https://github.com/aalhour/C-Sharp-Algorithms
+- https://github.com/OpenGenus/cosmos
+- https://github.com/CyC2018/CS-Notes
+- https://github.com/azl397985856/leetcode
+- https://github.com/wolverinn/Waking-Up
+- https://github.com/AobingJava/JavaFamily
+- https://github.com/MisterBooo/LeetCodeAnimation
 
+## Operating-System
+- https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
+- https://github.com/sebbbi/perftest 
+- https://coolshell.cn/articles/20793.html  cpu cache
 
-#### shader map总结
-- https://zhuanlan.zhihu.com/p/75497647
-
-#### 非真实渲染
-- https://mp.weixin.qq.com/s/oNjYmta6FFkfhCsOO6ZCWA 
+## 高性能数据结构和算法
+- https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
+- https://github.com/Dogwei/Swifter.Core -- swifter 的和核心库，里面很多unsafe 优化
+- https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
+- https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
+- https://github.com/giacomelli/GeneticSharp 遗传算法
+- https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 
 ## Utils
 #### C
