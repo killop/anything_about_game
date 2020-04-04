@@ -148,9 +148,13 @@
 #### Article
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
 
-## Version-Controller
-- https://github.com/pcottle/learnGitBranching
-- https://github.com/libgit2/libgit2sharp
+## Version-Control
+- https://semver.org/lang/zh-CN/   -- 版本号规范
+- https://github.com/pcottle/learnGitBranching -- 学习git 提交的网站
+- https://github.com/libgit2/libgit2sharp  -- git的 c# 实现
+
+#### article
+- [规范化git commit信息](https://blog.dteam.top/posts/2019-04/%E8%A7%84%E8%8C%83%E5%8C%96git-commit%E4%BF%A1%E6%81%AF.html)
 
 ## Game-Server-framework
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
@@ -904,8 +908,7 @@
 - https://www.toolnb.com  toolnb 
 - https://github.com/zhaoolee/OnlineToolsBook
 
-## Version-Controll
-- https://semver.org/lang/zh-CN/
+
 
 ## workflow (do not add jenkins!)
 - https://github.com/n8n-io/n8n
