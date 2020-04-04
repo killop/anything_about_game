@@ -711,7 +711,7 @@
 
 ## Unity
 
-### Awesome-Unity 
+#### Awesome-Unity 
 - https://github.com/agarcialeon/awesome-unity#awesome-unity 
 - https://github.com/baba-s/awesome-unity-open-source-on-github
 - https://lab.uwa4d.com/
@@ -720,7 +720,7 @@
 - https://github.com/insthync/awesome-unity3d
 - https://github.com/RyanNielson/awesome-unity
 
-### Blog  
+#### Blog  
 - [云峰](https://blog.codingnow.com/)
 - [大熊](http://www.xionggf.com/)
 - [浅墨](https://blog.csdn.net/poem_qianmo);
@@ -745,7 +745,7 @@
 - https://www.gabrielgambetta.com/
 - http://qiankanglai.me/
 
-### Framework
+#### Framework
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
 - https://github.com/gmhevinci/MotionFramework
@@ -755,7 +755,7 @@
 - https://github.com/mr-kelly/KSFramework
 - https://github.com/CatLib/CatLib
 
-### Shader
+#### Shader
 - https://github.com/ellioman/ShaderProject
 - https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
 - https://github.com/keijiro/KinoBloom 牛逼的bloom
@@ -764,17 +764,17 @@
 - https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project toon shader的解决方案
 - https://github.com/Verasl/BoatAttack
 
-### Animation
+#### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/huailiang/knead_proj unity  捏脸
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
 - [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
 
-### Database
+#### Database
 - https://github.com/Cysharp/MasterMemory
 
-### Asyn-Await
+#### Asyn-Await
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
 - https://github.com/Cysharp/UniTask
 - https://github.com/Arvtesh/UnityFx.Async
@@ -783,34 +783,34 @@
 - https://github.com/mgravell/PooledAwait
 - https://github.com/coryleach/UnityAsync
 
-### Node
+#### Node
 - [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
 - [XNode](https://github.com/Siccity/xNode)
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
 
-### AI
+#### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 
-### UGUI
+#### UGUI
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
 
-### Util
+#### Util
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 
-### unity 特色工程（精粹）
+#### unity 特色工程（精粹）
 -  https://molingyu.github.io/RosettaDocs/  本地化
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
 -  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
 
-### Effect
+#### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
 
-### DOTS
+#### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 * [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
 * [PlasticTween](https://github.com/PlasticApps/PlasticTween) - Tween Library for Unity3D(ECS+JOBS)
@@ -826,7 +826,7 @@
 * [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 
-### Tile map 
+#### Tile map 
  - Isometric
  - Ultimate Grids Engine
  - KUBIKOS - 3D Cube World
@@ -860,10 +860,21 @@
 - quickjs
 - wren
 
-### Audio
+#### Message Bus
+- [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
+- [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) - A generic Event-Bus
+- [Unibus](https://github.com/mattak/Unibus) - Unibus is event passing system
+- [klab-messagebuses-unity](https://github.com/KLab/klab-messagebuses-unity) - Message bus
+- [signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib
+- [unity-events](https://github.com/GalvanicGames/unity-events) - A code focused strongly typed event system with global system and per GameObject system
+- [Unity3d-Signals](https://github.com/dimmpixeye/Unity3d-Signals) - Signals are in-memory publish/subscribe system and effectively replace Unity SendMessage
+- [MessageKit](https://github.com/prime31/MessageKit) - Decoupled message sending system meant as a replacement for SendMessage and its variantslibrary
+- [edriven](https://github.com/dkozar/edriven) - Event-driven / asynchronous framework for Unity3d
+
+#### Audio
 - [native-audio](https://assetstore.unity.com/packages/tools/audio/native-audio-107067)
 
-### Movement
+#### Movement
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131)
 - [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966)
 - [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html)
