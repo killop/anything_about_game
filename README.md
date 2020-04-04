@@ -24,6 +24,7 @@
 - https://github.com/polaris1119/golangweekly
 
 ## Awesome-General
+- https://libs.garden/
 - https://awesomeopensource.com/
 - https://github.com/sindresorhus/awesome
 - https://github.com/awesome-selfhosted/awesome-selfhosted
