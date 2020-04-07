@@ -649,6 +649,8 @@
 - https://github.com/AobingJava/JavaFamily
 - https://github.com/MisterBooo/LeetCodeAnimation
 - https://www.keithschwarz.com/interesting/
+- https://gitee.com/SnailClimb/JavaGuide
+- https://github.com/dongyuanxin/blog
 
 ## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
