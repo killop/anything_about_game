@@ -170,6 +170,7 @@
 - https://github.com/xiaonanln/goworld
 - https://github.com/kbengine/kbengine
 - https://github.com/topfreegames/pitaya
+- https://github.com/liangdas/mqant
 
 #### Article
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
