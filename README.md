@@ -417,6 +417,7 @@
 - https://www.sofa-framework.org/
 - https://github.com/jeffvella/UnityNativeCollision
 
+
 ## Graphics-Library
 - https://github.com/kosua20/herebedragons
 - https://github.com/sinclairzx81/zero
@@ -447,7 +448,7 @@
 
 ## ComputerGraphics && Shading
 
-### Collection
+#### Collection
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
 - https://github.com/mattdesl/graphics-resources
@@ -461,10 +462,23 @@
 - https://github.com/IndieVisualLab/UnityGraphicsProgramming
 - https://github.com/jslee02/awesome-graphics-libraries
 
-### Tool
+#### Tool
 - https://shadered.org/
 
-### Physically-Based-Render
+- 
+#### GPU-Archive
+- [移动处理器GPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
+- [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
+- [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
+- https://www.jianshu.com/p/87cf95b1faa0
+- https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view
+- [AMD Vega Architecture](https://en.wikichip.org/w/images/a/a1/vega-whitepaper.pdf)
+- [Nvidia Turning Architecture](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf)
+- [Nvidia Pascal Architecture](https://images.nvidia.com/content/pdf/tesla/whitepaper/pascal-architecture-whitepaper.pdf)
+- [PowerVR](http://cdn.imgtec.com/sdk-documentation/PowerVR.Performance+Recommendations.pdf)
+
+
+#### Physically-Based-Render
 - https://github.com/Josh015/Alloy
 
 #### Article
