@@ -467,7 +467,6 @@
 
 - 
 #### GPU-Architecture
-- [移动处理器GPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
 - https://www.jianshu.com/p/87cf95b1faa0
@@ -476,7 +475,11 @@
 - [Nvidia Turning Architecture](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf)
 - [Nvidia Pascal Architecture](https://images.nvidia.com/content/pdf/tesla/whitepaper/pascal-architecture-whitepaper.pdf)
 - [PowerVR](http://cdn.imgtec.com/sdk-documentation/PowerVR.Performance+Recommendations.pdf)
-
+- [移动设备GPU架构知识汇总](https://zhuanlan.zhihu.com/p/112120206)
+- [针对移动端TBDR架构GPU特性的渲染优化](https://gameinstitute.qq.com/community/detail/123220)
+- [移动处理器CPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
+- 微信公众号：GPUer
+- [GPU/CPU性能天梯图](https://mubu.com/doc/explore/17532)
 
 #### Physically-Based-Render
 - https://github.com/Josh015/Alloy
