@@ -466,7 +466,7 @@
 - https://shadered.org/
 
 - 
-#### GPU-Archive
+#### GPU-Architecture
 - [移动处理器GPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
