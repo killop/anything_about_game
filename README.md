@@ -377,7 +377,6 @@
 - https://github.com/Unity-Technologies/Unity.Mathematics unityMath  
 - https://github.com/zalo/MathUtilities  MathUtilities
 - https://github.com/gradientspace/geometry3Sharp geometry3Sharp
-- https://www.geometrictools.com/ geometrictools
 - http://www.angusj.com/delphi/clipper.php clipper库
 - [Math Library for Unity unity插件](https://assetstore.unity.com/packages/tools/math-library-for-unity-14912) 
 - https://archive.codeplex.com/?p=triangle triangle-三角形
@@ -390,6 +389,16 @@
 - https://github.com/StandardCyborg/nurbs
 - https://github.com/radiatoryang/hedera
 - https://github.com/GregLukosek/3DMath
+
+#### CPP
+- https://www.geometrictools.com/ geometrictools
+- https://github.com/Ubpa/UGM
+- https://gitee.com/773622153/glm
+- https://gitlab.com/libeigen/eigen
+
+#### C
+- https://github.com/recp/cglm
+
 
 #### CPP
 *   Armadillo：高质量的C++线性代数库，速度和易用性做到了很好的平衡。语法和MatlAB很相似。[官网](http://arma.sourceforge.net/)
