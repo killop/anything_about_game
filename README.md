@@ -725,6 +725,7 @@
 - https://github.com/vuejs/vue 不解释，最牛逼的框架
 - https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md js的奇技淫巧
 - https://github.com/trekhleb/javascript-algorithms js相关的数据结构
+- https://github.com/lydiahallie/javascript-questions
 
 ## Lua
 - http://cloudwu.github.io/lua53doc/manual.html
