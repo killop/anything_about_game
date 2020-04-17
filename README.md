@@ -681,13 +681,14 @@
 - https://coolshell.cn/articles/20793.html  cpu cache
 - https://gist.github.com/hellerbarde/2843375   图灵CPU的各项延迟
 #### IO
-- [IO 模型知多少](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654077972&idx=1&sn=c5ed92bcea04dd0a09930f969b252d72&chksm=80d82041b7afa957517619f1e613ef2390c3e82767ea2109954c84f64350a33aa277462efa35&scene=126&sessionid=1586914628&key=caefaff9574fe7b5ac31f5b25844e2ec501190e19fc9b3544c7cb94ea87efb87bf20961df5d93d99f0690a5129f6042d7d756d7e80cbac098189dd24a2ad518d1dc88e6a74fb0c6f42357a98a9e86334&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AXePgmoASgYI1niGE%2BCX6hU%3D&pass_ticket=Mnw%2BuuyDIjmDz82T9nRtQ2WXn9seFpE%2BFO9sirzZ22RHD4SkOLhX2xa7Qi1eBNNZ) 出自微信公众号：dotNET跨平台
+- [IO 模型知多少](https://www.cnblogs.com/sheng-jie/p/how-much-you-know-about-io-models.html) 
 - [IO复用模型同步，异步，阻塞，非阻塞及实例详解](https://www.jianshu.com/p/511b9cffbdac)
 - [服务器端网络编程之 IO 模型](https://www.cnblogs.com/zhuwbox/p/10163973.html)
 - [The von Neumann Computer Model ](http://www.c-jump.com/CIS77/CPU/VonNeumann/lecture.html)
 - [I/O模型（同步、非同步、阻塞、非阻塞）总结](https://www.cnblogs.com/z-sm/p/6680141.html)
 - [聊聊BIO，NIO和AIO](https://www.jianshu.com/p/ef418ccf2f7d)
 - [深度解析nio、epoll多路复用等网络编程模型](https://www.bilibili.com/video/BV1bK41177Mo/)
+- [清华大牛权威讲解nio,epoll,多路复用](https://www.bilibili.com/video/BV11K4y1C7rm?p=2)
 - [Linux 内核详解以及内核缓冲区技术](https://blog.csdn.net/qq_44919483/article/details/89509559)
 
 ## 高性能数据结构和算法
