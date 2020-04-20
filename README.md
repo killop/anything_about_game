@@ -657,11 +657,12 @@
 - https://github.com/daseyb/pathgraph
 
 #### Color
-- https://docs.krita.org/zh_CN/general_concepts/colors.html
-- https://ppt.baomitu.com/d/c887a533#/
-- https://www.gameres.com/811214.html
-- http://geekfaner.com/unity/blog1_gamma.html
-- http://jamie-wong.com/post/color/
+- [漫谈HDR和色彩管理](https://zhuanlan.zhihu.com/p/129095380)
+- [色彩原理](https://docs.krita.org/zh_CN/general_concepts/colors.html)
+- [颜色：原理和应用](https://ppt.baomitu.com/d/c887a533#/)
+- [浅谈伽玛和线性颜色空间](https://www.gameres.com/811214.html)
+- [Gamma的传说](http://geekfaner.com/unity/blog1_gamma.html)
+- [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/)
 - [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
 - [color vision](https://www.handprint.com/LS/CVS/color.html)
 - [color science](https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/indexe.html)
