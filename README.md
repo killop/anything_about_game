@@ -657,6 +657,7 @@
 - https://github.com/daseyb/pathgraph
 
 #### Color
+- [色彩空间基础](https://zhuanlan.zhihu.com/p/24214731)
 - [漫谈HDR和色彩管理](https://zhuanlan.zhihu.com/p/129095380)
 - [色彩原理](https://docs.krita.org/zh_CN/general_concepts/colors.html)
 - [颜色：原理和应用](https://ppt.baomitu.com/d/c887a533#/)
@@ -789,6 +790,7 @@
 - [云风](https://blog.codingnow.com/)
 - [大熊](http://www.xionggf.com/)
 - [浅墨](https://blog.csdn.net/poem_qianmo);
+- [冯乐乐](http://candycat1992.github.io/)
 - [gameKnife ](http://gameknife.github.io/)
 - [渔夫](https://blog.csdn.net/tjw02241035621611)
 - [马三小伙儿](https://github.com/XINCGer)
