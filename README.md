@@ -897,6 +897,12 @@
  - Isometric
  - Ultimate Grids Engine
  - KUBIKOS - 3D Cube World
+ - hex map
+ 
+ #### Asset Management
+ - [Maintainer](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
+ - [find reference2](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
+ - [shader control](https://assetstore.unity.com/packages/vfx/shaders/shader-control-74817)
  
  ### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
