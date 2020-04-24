@@ -920,8 +920,8 @@
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  
 ### Embed-Script/VM/JIT
-- [tolua](https://github.com/topameng/tolua)
-- [xlua](https://github.com/Tencent/xLua)
+- [tolua](https://github.com/topameng/tolua) The fastest unity lua binding solution 
+- [xlua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. 
 - [PureJSB](https://github.com/linkabox/PureJSB)
 - [gravity](https://github.com/marcobambini/gravity)
 - [quickjs](https://github.com/horhof/quickjs)
@@ -943,6 +943,7 @@
 - [gosu-lang](https://github.com/gosu-lang/gosu-lang) Gosu is a pragmatic programming language for the JVM. It has been designed with Java developers in mind by providing a set of features that allow them to be more productive without sacrificing the benefits of Java's simple syntax and type-safety. Gosu is an object oriented language with a sprinkle of functional programming features.
 - [Tern](https://github.com/tern-lang/tern) Tern is an optionally typed object oriented language with first class functions and coroutines. It borrows concepts and constructs from many sources including Swift, JavaScript, Java, and Scala amongst others. It is interpreted and has no intermediate representation, so there is no need to compile or build your application.
 - [fanx](http://fanx.info/) A portable language with elegant libraries
+- [mun](https://mun-lang.org/) A programming language empowering creation through iteration.
 
 #### Message Bus  
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
