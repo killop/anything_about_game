@@ -749,10 +749,6 @@
 ## Lua
 - http://cloudwu.github.io/lua53doc/manual.html
 
-### 转lua 最有潜力的：
-- https://github.com/roblox-ts/roblox-ts
-- https://github.com/titan-lang/titan
-
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
@@ -769,11 +765,46 @@
 ## C
 - https://github.com/nothings/stb
 
+## CPP
+- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) C++那些事
+
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
 - https://github.com/ttroy50/cmake-examples
 - https://github.com/onqtam/awesome-cmake
 - https://github.com/iBicha/NativePluginBuilder
+
+## Embed-Script/VM/JIT
+- [roblox-ts](https://github.com/roblox-ts/roblox-ts) ts2lua
+- [titan](https://github.com/titan-lang/titan)
+- [tolua](https://github.com/topameng/tolua) The fastest unity lua binding solution 
+- [xlua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. 
+- [PureJSB](https://github.com/linkabox/PureJSB)
+- [gravity](https://github.com/marcobambini/gravity)
+- [quickjs](https://github.com/horhof/quickjs)
+- [wren](https://github.com/wren-lang/wren)
+- [skip](https://github.com/skiplang/skip) Skip is a general-purpose programming language that tracks side effects to provide caching with reactive invalidation, ergonomic and safe parallelism, and efficient garbage collection. Skip is statically typed and ahead-of-time compiled using LLVM to produce highly optimized executables.
+- [miniJVM](https://github.com/digitalgust/miniJVM) Develop iOS Android app in java, Cross platform java virtual machine， embeded jvm , the minimal jvm . 
+- [cone](https://github.com/jondgoodwin/cone) Cone is a fast, fit, friendly, and safe systems programming language.
+- [flax](https://github.com/flax-lang/flax) A low level, general-purpose language with high level syntax and expressibility.
+- [coreVM](https://github.com/tetrachrome/coreVM) Language runtime framework designed to empower developers devise modern and novel programming language features.
+- [dora](https://github.com/dinfuehr/dora) JIT-compiler for the programming language Dora implemented in Rust. Works on Linux, Windows and macOS (x86_64 and aarch64).
+- [awesome-jit](https://github.com/wdv4758h/awesome-jit) A curated list of awesome JIT frameworks, libraries, software and resources 
+- [WAVM](https://github.com/WAVM/WAVM) WAVM is a WebAssembly virtual machine, designed for use in non-web applications.
+- [Bytecoder](https://github.com/mirkosertic/Bytecoder) Bytecoder is a Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly
+- [skew](https://github.com/evanw/skew) A web-first, cross-platform programming language with an optimizing compiler 
+- [delta](https://github.com/delta-lang/delta)  A new systems programming language in development
+- [Volta](https://github.com/VoltLang/Volta) Volt is a systems level programming language, that aims to be safe by default but still allowing you access to nitty gritty low level details.
+- [Eagle](https://github.com/samhorlbeck/eagle-lang) A compiled language that is halfway between C and Go/Swift/Rust
+- [ponyc](https://github.com/ponylang/ponyc) ony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language
+- [gosu-lang](https://github.com/gosu-lang/gosu-lang) Gosu is a pragmatic programming language for the JVM. It has been designed with Java developers in mind by providing a set of features that allow them to be more productive without sacrificing the benefits of Java's simple syntax and type-safety. Gosu is an object oriented language with a sprinkle of functional programming features.
+- [Tern](https://github.com/tern-lang/tern) Tern is an optionally typed object oriented language with first class functions and coroutines. It borrows concepts and constructs from many sources including Swift, JavaScript, Java, and Scala amongst others. It is interpreted and has no intermediate representation, so there is no need to compile or build your application.
+- [fanx](http://fanx.info/) A portable language with elegant libraries
+- [mun](https://mun-lang.org/) A programming language empowering creation through iteration.
+
+## DevOps
+#### Tools
+- [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 
 ## Unity
 
@@ -925,31 +956,7 @@
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  
-### Embed-Script/VM/JIT
-- [tolua](https://github.com/topameng/tolua) The fastest unity lua binding solution 
-- [xlua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. 
-- [PureJSB](https://github.com/linkabox/PureJSB)
-- [gravity](https://github.com/marcobambini/gravity)
-- [quickjs](https://github.com/horhof/quickjs)
-- [wren](https://github.com/wren-lang/wren)
-- [skip](https://github.com/skiplang/skip) Skip is a general-purpose programming language that tracks side effects to provide caching with reactive invalidation, ergonomic and safe parallelism, and efficient garbage collection. Skip is statically typed and ahead-of-time compiled using LLVM to produce highly optimized executables.
-- [miniJVM](https://github.com/digitalgust/miniJVM) Develop iOS Android app in java, Cross platform java virtual machine， embeded jvm , the minimal jvm . 
-- [cone](https://github.com/jondgoodwin/cone) Cone is a fast, fit, friendly, and safe systems programming language.
-- [flax](https://github.com/flax-lang/flax) A low level, general-purpose language with high level syntax and expressibility.
-- [coreVM](https://github.com/tetrachrome/coreVM) Language runtime framework designed to empower developers devise modern and novel programming language features.
-- [dora](https://github.com/dinfuehr/dora) JIT-compiler for the programming language Dora implemented in Rust. Works on Linux, Windows and macOS (x86_64 and aarch64).
-- [awesome-jit](https://github.com/wdv4758h/awesome-jit) A curated list of awesome JIT frameworks, libraries, software and resources 
-- [WAVM](https://github.com/WAVM/WAVM) WAVM is a WebAssembly virtual machine, designed for use in non-web applications.
-- [Bytecoder](https://github.com/mirkosertic/Bytecoder) Bytecoder is a Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly
-- [skew](https://github.com/evanw/skew) A web-first, cross-platform programming language with an optimizing compiler 
-- [delta](https://github.com/delta-lang/delta)  A new systems programming language in development
-- [Volta](https://github.com/VoltLang/Volta) Volt is a systems level programming language, that aims to be safe by default but still allowing you access to nitty gritty low level details.
-- [Eagle](https://github.com/samhorlbeck/eagle-lang) A compiled language that is halfway between C and Go/Swift/Rust
-- [ponyc](https://github.com/ponylang/ponyc) ony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language
-- [gosu-lang](https://github.com/gosu-lang/gosu-lang) Gosu is a pragmatic programming language for the JVM. It has been designed with Java developers in mind by providing a set of features that allow them to be more productive without sacrificing the benefits of Java's simple syntax and type-safety. Gosu is an object oriented language with a sprinkle of functional programming features.
-- [Tern](https://github.com/tern-lang/tern) Tern is an optionally typed object oriented language with first class functions and coroutines. It borrows concepts and constructs from many sources including Swift, JavaScript, Java, and Scala amongst others. It is interpreted and has no intermediate representation, so there is no need to compile or build your application.
-- [fanx](http://fanx.info/) A portable language with elegant libraries
-- [mun](https://mun-lang.org/) A programming language empowering creation through iteration.
+
 
 #### Message Bus  
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
@@ -1007,7 +1014,7 @@
 
 ## 文案排版
 - https://github.com/sparanoid/chinese-copywriting-guidelines 中文文案排版
-- [掘金计划- 中文文案排版] (https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
+- [掘金计划- 中文文案排版](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
  
 
 ## Programmer-Common-Sense
