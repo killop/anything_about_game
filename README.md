@@ -801,6 +801,7 @@
 - [Tern](https://github.com/tern-lang/tern) Tern is an optionally typed object oriented language with first class functions and coroutines. It borrows concepts and constructs from many sources including Swift, JavaScript, Java, and Scala amongst others. It is interpreted and has no intermediate representation, so there is no need to compile or build your application.
 - [fanx](http://fanx.info/) A portable language with elegant libraries
 - [mun](https://mun-lang.org/) A programming language empowering creation through iteration.
+- [beef](https://www.beeflang.org/) Beef is an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment. The syntax and many semantics are most directly derived from C#, while attempting to retain the C ideals of bare-metal explicitness and lack of runtime surprises, with some "modern" niceties inspired by languages such as Rust, Swift, and Go
 
 ## DevOps
 #### Tools
