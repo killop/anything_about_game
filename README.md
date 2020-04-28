@@ -480,8 +480,7 @@
 
 #### Tool
 - https://shadered.org/
-
-- 
+ 
 #### GPU-Architecture
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
@@ -529,10 +528,14 @@
 - [各向异性头发效果](https://www.jianshu.com/p/7dc980ea4c51)
 - Unity-plugin:[Toony Colors Pro 2](https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105)
 - Unity-plugin:[Flat Kit: Cel / Toon Shading](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368)
+- [【翻译】西川善司「实验做出的游戏图形」「GUILTY GEAR Xrd -SIGN-」中实现的「纯卡通动画的实时3D图形」的秘密，前篇（1）](https://www.cnblogs.com/TracePlus/p/4205798.html)
+
 ##### Water
 - https://github.com/Verasl/BoatAttack water
 
 #### Blog
+- http://walkingfat.com/
+- https://www.cnblogs.com/TracePlus/default.html?page=2
 - http://www.codinglabs.net/article_floating_point_numbers.aspx
 - http://www.lsngo.net/
 - http://www.alinenormoyle.com
