@@ -503,6 +503,34 @@
 #### Article
 - https://mp.weixin.qq.com/s/oNjYmta6FFkfhCsOO6ZCWA  非真实渲染
 - https://zhuanlan.zhihu.com/p/75497647  shader map总结
+- https://technology.riotgames.com/tags/performance lol渲染技巧
+
+#### Unity-Shader 
+##### Comon-Collection
+- https://github.com/ellioman/ShaderProject
+
+##### FrameWork
+- https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
+
+##### UI
+- https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
+- https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
+
+##### Post-Process
+- https://github.com/keijiro/KinoBloom 牛逼的bloom
+
+##### NPR
+- [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
+- [【NPR】卡通渲染](https://blog.csdn.net/candycat1992/article/details/50167285)及其对应的github库[NPR_Lab](https://github.com/candycat1992/NPR_Lab)
+- [UnityChanToonShaderVer2](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) toon shader的解决方案
+- [UnityChanToonShaderVer2-Detail](https://zhuanlan.zhihu.com/p/104998415)
+- [Unity NPR之日式卡通渲染](https://zhuanlan.zhihu.com/p/129291888)
+- [卡通渲染及其相关技术总结](https://blog.uwa4d.com/archives/usparkle_cartoonshading.html)
+- [各向异性头发效果](https://www.jianshu.com/p/7dc980ea4c51)
+- Unity-plugin:[Toony Colors Pro 2](https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105)
+- Unity-plugin:[Flat Kit: Cel / Toon Shading](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368)
+##### Water
+- https://github.com/Verasl/BoatAttack water
 
 #### Blog
 - http://www.codinglabs.net/article_floating_point_numbers.aspx
@@ -818,7 +846,8 @@
 - https://github.com/insthync/awesome-unity3d
 - https://github.com/RyanNielson/awesome-unity
 
-#### Blog  
+#### Blog
+- [行尸走油肉的笔记](http://walkingfat.com/)
 - [云风](https://blog.codingnow.com/)
 - [大熊](http://www.xionggf.com/)
 - [浅墨](https://blog.csdn.net/poem_qianmo);
@@ -830,19 +859,20 @@
 - [uchart作者](http://uchart.club)
 - [宣雨松](https://www.xuanyusong.com/)
 - [代码如诗](https://www.cnblogs.com/kex1n/)
-- [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下]()-(https://jacksondunstan.com/)
-- [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的]()-(http://baba-s.hatenablog.com/)
-- [Dalton(国人)]()-(http://www.zhust.com/)
+- [UnityGems](https://unitygem.wordpress.com/)
+- [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下](https://jacksondunstan.com/)
+- [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的](http://baba-s.hatenablog.com/)
+- [Dalton](http://www.zhust.com/)
 - https://www.lfzxb.top/
 - http://www.wjgbaby.com/category/3d-math/
-- https://jiepengtan.github.io/
+- [FishMan的技术专栏 ](https://jiepengtan.github.io/)
 - http://staff.ustc.edu.cn/~lgliu/
 - https://catlikecoding.com/
 - https://blog.selfshadow.com/
 - https://hdmmy.github.io/page/2/
-- https://www.yomunchan.moe
+- [有木酱的小屋](https://www.yomunchan.moe)
 - https://www.gabrielgambetta.com/
-- http://qiankanglai.me/
+- [钱康来](http://qiankanglai.me/)
 
 #### Framework
 - https://github.com/cocowolf/loxodon-framework
@@ -854,14 +884,7 @@
 - https://github.com/mr-kelly/KSFramework
 - https://github.com/CatLib/CatLib
 
-#### Shader
-- https://github.com/ellioman/ShaderProject
-- https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
-- https://github.com/keijiro/KinoBloom 牛逼的bloom
-- https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
-- https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
-- https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project toon shader的解决方案
-- https://github.com/Verasl/BoatAttack
+
 
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
