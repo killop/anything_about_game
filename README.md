@@ -66,10 +66,12 @@
 ## Game-Design-Tool
 
 ### Animation
-- http://zh.esotericsoftware.com/ spine
-- http://www.zingfront.cn/live3d/ live3d
-- https://www.live2d.com/ live2d
-- http://dragonbones.effecthub.com/ dragonbones
+- [spine](http://zh.esotericsoftware.com/)
+- [live3d](http://www.zingfront.cn/live3d/)
+- [live2d](https://www.live2d.com/)
+- [dragonbones](http://dragonbones.effecthub.com/) 
+- [creature](http://creature.kestrelmoon.com/index.html)
+- [spritestudio](http://www.webtech.co.jp/spritestudio/)
 
 ### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
@@ -90,6 +92,10 @@
 - http://pixologic.com/features/about-zbrush.php zbrush
 - https://www.foundry.com/products/modo modo
 - https://www.cheetah3d.com/ cheetah3d
+
+#### Effect
+- [fusion](https://www.blackmagicdesign.com/products/fusion)
+- [nuke](https://www.foundry.com/products/nuke)
 
 #### Material
 - https://github.com/Metric/Materia  substance designer的 c#实现
@@ -381,6 +387,7 @@
 *   TinyCThread：一个可扩展，小型的 C11 标准线程 API 实现。[zlib](http://directory.fsf.org/wiki/License:Zlib)。[官网](https://tinycthread.github.io/)
 
 ## Game-Math
+- [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
 - https://mathvault.ca/websites/
 - https://github.com/Unity-Technologies/Unity.Mathematics unityMath  
 - https://github.com/zalo/MathUtilities  MathUtilities
@@ -419,7 +426,8 @@
 *   GMP：用于个高精度计算的C/C++库，处理有符号整数，有理数和浮点数。[官网](https://gmplib.org/)
 
 #### Math-Tool
-- https://www.geogebra.org/
+- [geogebra](https://www.geogebra.org/)
+- [graphtoy](https://iquilezles.org/apps/graphtoy/index.html)
 
 ## Physics Framework
 - https://github.com/bulletphysics/bullet3 - bullet
@@ -470,14 +478,18 @@
 - https://github.com/Gforcex/OpenGraphic
 - https://github.com/mattdesl/graphics-resources
 - https://docs.krita.org/zh_CN/general_concepts.html
-- https://github.com/eug/awesome-opengl
 - https://github.com/jbhuang0604/awesome-computer-vision
 - https://github.com/sjfricke/awesome-webgl
-- https://learnopengl-cn.readthedocs.io/zh/latest/
 - https://github.com/vinjn/awesome-vulkan
 - https://github.com/ericjang/awesome-graphics
 - https://github.com/IndieVisualLab/UnityGraphicsProgramming
 - https://github.com/jslee02/awesome-graphics-libraries
+
+#### OpenGL
+- [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
+- https://github.com/eug/awesome-opengl
+- https://learnopengl-cn.readthedocs.io/zh/latest/
+- http://www.opengl-tutorial.org
 
 #### Tool
 - https://shadered.org/
@@ -700,6 +712,12 @@
 - [color vision](https://www.handprint.com/LS/CVS/color.html)
 - [color science](https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/indexe.html)
 
+#### WebSite/Blog
+- [tech-artists](https://tech-artists.org/)
+- [artstation](https://www.artstation.com/)
+- [polycount](https://polycount.com/)
+- [realtimerendering-papers](http://kesen.realtimerendering.com/)
+
 #### GameEngine-Design-Blog-Artcile
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
@@ -877,6 +895,7 @@
 - [有木酱的小屋](https://www.yomunchan.moe)
 - https://www.gabrielgambetta.com/
 - [钱康来](http://qiankanglai.me/)
+- [chenanbao](https://chenanbao.github.io/)
 
 #### Framework
 - https://github.com/cocowolf/loxodon-framework
