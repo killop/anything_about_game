@@ -906,6 +906,7 @@
 - https://github.com/EllanJiang/GameFramework
 - https://github.com/mr-kelly/KSFramework
 - https://github.com/CatLib/CatLib
+- https://github.com/OnClick9927/IFramework
 
 
 
