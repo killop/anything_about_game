@@ -404,6 +404,7 @@
 - https://github.com/StandardCyborg/nurbs
 - https://github.com/radiatoryang/hedera
 - https://github.com/GregLukosek/3DMath
+- https://github.com/FreyaHolmer/Mathfs
 
 #### CPP
 - https://www.geometrictools.com/ geometrictools
