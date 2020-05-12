@@ -762,11 +762,17 @@
 
 ## 高性能数据结构和算法
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
-- https://github.com/Dogwei/Swifter.Core -- swifter 的和核心库，里面很多unsafe 优化
+- [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
-- https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
+
+#### String
+- https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
+- https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
+- https://github.com/snozbot/FastString Alternative to StringBuilder class for Unity games, with minimal memory allocation and faster performance. 
+- https://github.com/MikePopoloski/StringFormatter Zero-allocation string formatting for .NET. 
+- [stringHelper](https://github.com/Dogwei/Swifter.Json/blob/db6c0be4fa2bfac5583d5bce7b475a2d618e7d74/Swifter.Core/Tools/String/StringHelper.cs) unsafe zero alloc string from [swifter](https://github.com/Dogwei/Swifter.Core)
 
 ## Utils
 #### C
