@@ -878,6 +878,7 @@
 - https://github.com/RyanNielson/awesome-unity
 
 #### Blog
+- https://tooslowexception.com/
 - [行尸走油肉的笔记](http://walkingfat.com/)
 - [云风](https://blog.codingnow.com/)
 - [大熊](http://www.xionggf.com/)
