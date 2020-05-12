@@ -859,6 +859,8 @@
 - [fanx](http://fanx.info/) A portable language with elegant libraries
 - [mun](https://mun-lang.org/) A programming language empowering creation through iteration.
 - [beef](https://www.beeflang.org/) Beef is an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment. The syntax and many semantics are most directly derived from C#, while attempting to retain the C ideals of bare-metal explicitness and lack of runtime surprises, with some "modern" niceties inspired by languages such as Rust, Swift, and Go
+#### Garbage Collector
+- [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 
 ## DevOps
 #### Tools
@@ -935,6 +937,7 @@
 - https://github.com/brminnick/AsyncAwaitBestPractices
 - https://github.com/mgravell/PooledAwait
 - https://github.com/coryleach/UnityAsync
+- https://asyncexpert.com/
 
 #### Node
 - [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
