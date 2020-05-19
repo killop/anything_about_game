@@ -1091,6 +1091,9 @@
 ## Programmer-Common-Sense
 - https://github.com/nusr/hacker-laws-zh       程序员应该知道的原则
 
+## 游戏策划
+- https://zhuanlan.zhihu.com/p/67963068
+- https://zhuanlan.zhihu.com/p/34213415
 
 ## Interest is the best teacher 
 - https://youquhome.com/ 
