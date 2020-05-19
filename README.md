@@ -387,8 +387,7 @@
 *   TinyCThread：一个可扩展，小型的 C11 标准线程 API 实现。[zlib](http://directory.fsf.org/wiki/License:Zlib)。[官网](https://tinycthread.github.io/)
 
 ## Game-Math
-- [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
-- https://mathvault.ca/websites/
+
 - https://github.com/Unity-Technologies/Unity.Mathematics unityMath  
 - https://github.com/zalo/MathUtilities  MathUtilities
 - https://github.com/gradientspace/geometry3Sharp geometry3Sharp
@@ -427,8 +426,21 @@
 *   GMP：用于个高精度计算的C/C++库，处理有符号整数，有理数和浮点数。[官网](https://gmplib.org/)
 
 #### Math-Tool
+- [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
 - [graphtoy](https://iquilezles.org/apps/graphtoy/index.html)
+- https://www.mathcha.io/
+- https://www.mathtype.cn/
+- https://zh.numberempire.com/
+
+#### Courses/Article/website
+- https://www.wolfram.com/
+- [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
+- https://mathvault.ca/websites/
+- https://brilliant.org/
+- https://www.3blue1brown.com/
+- http://www.matrix67.com/blog
+- https://mmaqa.com/
 
 ## Physics Framework
 - https://github.com/bulletphysics/bullet3 - bullet
