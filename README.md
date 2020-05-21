@@ -1,43 +1,12 @@
 
 
-
 - [News](#news)
     - [Js/Web](#jsweb)
     - [Java](#java)
     - [Go](#go)
 - [Awesome-General](#awesome-general)
 - [Awesome-Game](#awesome-game)
-<<<<<<< HEAD
-- [Game-Company](#game-company)
-- [Game-Asset](#game-asset)
-- [Game-Design-Tool](#game-design-tool)
-    - [Animation](#animation)
-      - [Unity-Tool](#unity-tool)
-=======
-- [## Game-Company](#h2-id%22game-company-73%22game-companyh2)
-- [Game-Asset](#game-asset)
-- [Game-Design-Tool](#game-design-tool)
-  - [Animation](#animation)
-  - [Unity-Tool](#unity-tool)
->>>>>>> 2abe4375fcfcb788b5af4db4e101af92431c16f2
-    - [Audio](#audio)
-    - [Modeling](#modeling)
-    - [Effect](#effect)
-    - [Material](#material)
-    - [Terrain](#terrain)
-    - [List-of-game-middleware](#list-of-game-middleware)
-    - [Texture](#texture)
-    - [GPU-Texture](#gpu-texture)
-    - [Visual-Logic](#visual-logic)
-    - [Voxel-Editor](#voxel-editor)
-    - [Material](#material-1)
-- [News](#news)
-    - [Js/Web](#jsweb)
-    - [Java](#java)
-    - [Go](#go)
-- [Awesome-General](#awesome-general)
-- [Awesome-Game](#awesome-game)
-- [## Game-Company](#h2-id%22game-company-78%22game-companyh2)
+- [## Game-Company](#h2-id%22game-company-81%22game-companyh2)
 - [Game-Asset](#game-asset)
 - [Game-Design-Tool](#game-design-tool)
     - [Animation](#animation)
@@ -158,7 +127,6 @@
 - [游戏策划](#%e6%b8%b8%e6%88%8f%e7%ad%96%e5%88%92)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
         - [看完不star，小心没jj :）!](#%e7%9c%8b%e5%ae%8c%e4%b8%8dstar%e5%b0%8f%e5%bf%83%e6%b2%a1jj)
-
 ## News
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
