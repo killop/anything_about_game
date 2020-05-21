@@ -6,7 +6,7 @@
     - [Go](#go)
 - [Awesome-General](#awesome-general)
 - [Awesome-Game](#awesome-game)
-- [Game-Company](#h2-id%22game-company-81%22game-companyh2)
+- [Game-Company](#game-company)
 - [Game-Asset](#game-asset)
 - [Game-Design-Tool](#game-design-tool)
     - [Animation](#animation)
