@@ -7,11 +7,19 @@
     - [Go](#go)
 - [Awesome-General](#awesome-general)
 - [Awesome-Game](#awesome-game)
+<<<<<<< HEAD
+- [Game-Company](#game-company)
+- [Game-Asset](#game-asset)
+- [Game-Design-Tool](#game-design-tool)
+    - [Animation](#animation)
+      - [Unity-Tool](#unity-tool)
+=======
 - [## Game-Company](#h2-id%22game-company-73%22game-companyh2)
 - [Game-Asset](#game-asset)
 - [Game-Design-Tool](#game-design-tool)
   - [Animation](#animation)
   - [Unity-Tool](#unity-tool)
+>>>>>>> 2abe4375fcfcb788b5af4db4e101af92431c16f2
     - [Audio](#audio)
     - [Modeling](#modeling)
     - [Effect](#effect)
@@ -196,7 +204,7 @@
 
 ## Game-Design-Tool
 
-### Animation
+#### Animation
 - [spine](http://zh.esotericsoftware.com/)
 - [live3d](http://www.zingfront.cn/live3d/)
 - [live2d](https://www.live2d.com/)
@@ -204,7 +212,7 @@
 - [creature](http://creature.kestrelmoon.com/index.html)
 - [spritestudio](http://www.webtech.co.jp/spritestudio/)
 
-### Unity-Tool
+##### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
 #### Audio
