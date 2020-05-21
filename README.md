@@ -717,6 +717,7 @@
 - [色彩空间基础](https://zhuanlan.zhihu.com/p/24214731)
 - [漫谈HDR和色彩管理](https://zhuanlan.zhihu.com/p/129095380)
 - [色彩原理](https://docs.krita.org/zh_CN/general_concepts/colors.html)
+- [停止扯淡！！漫谈显示器色彩管理](https://zhuanlan.zhihu.com/p/19648994)
 - [颜色：原理和应用](https://ppt.baomitu.com/d/c887a533#/)
 - [浅谈伽玛和线性颜色空间](https://www.gameres.com/811214.html)
 - [Gamma的传说](http://geekfaner.com/unity/blog1_gamma.html)
