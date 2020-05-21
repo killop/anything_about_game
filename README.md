@@ -1,4 +1,4 @@
-[]
+[TOC]
 ## News
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
