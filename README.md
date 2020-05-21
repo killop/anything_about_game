@@ -1,6 +1,5 @@
 
 
-
 - [News](#news)
     - [Js/Web](#jsweb)
     - [Java](#java)
@@ -128,7 +127,6 @@
 - [游戏策划](#%e6%b8%b8%e6%88%8f%e7%ad%96%e5%88%92)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
         - [看完不star，小心没jj :）!](#%e7%9c%8b%e5%ae%8c%e4%b8%8dstar%e5%b0%8f%e5%bf%83%e6%b2%a1jj)
-
 ## News
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
