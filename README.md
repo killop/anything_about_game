@@ -42,7 +42,7 @@
 - [Web/Http-fastest](#webhttp-fastest)
 - [2D Engines and Frameworks](#2d-engines-and-frameworks)
 - [3D Engines and Frameworks](#3d-engines-and-frameworks)
-- [并发执行和多线程](#%e5%b9%b6%e5%8f%91%e6%89%a7%e8%a1%8c%e5%92%8c%e5%a4%9a%e7%ba%bf%e7%a8%8b)
+- [并发执行和多线程](#并发执行和多线程)
     - [CPP](#cpp)
     - [C](#c-1)
 - [Game-Math](#game-math)
@@ -78,7 +78,7 @@
 - [Interview-Algorithms-DataStruct](#interview-algorithms-datastruct)
 - [Operating-System](#operating-system)
     - [IO](#io)
-- [高性能数据结构和算法](#%e9%ab%98%e6%80%a7%e8%83%bd%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84%e5%92%8c%e7%ae%97%e6%b3%95)
+- [高性能数据结构和算法](#高性能数据结构和算法)
     - [String](#string)
 - [Utils](#utils)
     - [C](#c-3)
@@ -96,37 +96,37 @@
     - [Tools](#tools)
 - [Unity](#unity)
     - [Awesome-Unity](#awesome-unity)
-    - [Blog](#blog-1)
+    - [Blogs](#blogs)
     - [Framework](#framework-1)
     - [Animation](#animation-1)
     - [Database](#database)
     - [Asyn-Await](#asyn-await)
-    - [Node](#node)
+    - [Node-Editor](#node-editor)
     - [AI](#ai)
     - [UGUI](#ugui)
     - [Util](#util)
-    - [unity 特色工程（精粹）](#unity-%e7%89%b9%e8%89%b2%e5%b7%a5%e7%a8%8b%e7%b2%be%e7%b2%b9)
+    - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Effect](#effect-1)
     - [DOTS](#dots)
     - [Tile map](#tile-map)
     - [Asset Management](#asset-management)
-  - [Bone&&Spring](#bonespring)
-  - [Burst&&JobSystem](#burstjobsystem)
-  - [Create Model](#create-model)
-  - [Mesh Combine](#mesh-combine)
+    - [Bone&&Spring](#bonespring)
+    - [Burst&&JobSystem](#burstjobsystem)
+    - [Create Model](#create-model)
+    - [Mesh Combine](#mesh-combine)
     - [Message Bus](#message-bus)
     - [Audio](#audio-1)
     - [Movement](#movement)
 - [Data](#data)
-- [知识库软件](#%e7%9f%a5%e8%af%86%e5%ba%93%e8%bd%af%e4%bb%b6)
+- [知识库软件](#知识库软件)
 - [Tool](#tool-1)
 - [workflow (do not add jenkins!)](#workflow-do-not-add-jenkins)
-- [问答](#%e9%97%ae%e7%ad%94)
-- [文案排版](#%e6%96%87%e6%a1%88%e6%8e%92%e7%89%88)
+- [问答](#问答)
+- [文案排版](#文案排版)
 - [Programmer-Common-Sense](#programmer-common-sense)
-- [游戏策划](#%e6%b8%b8%e6%88%8f%e7%ad%96%e5%88%92)
+- [游戏策划](#游戏策划)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
-        - [看完不star，小心没jj :）!](#%e7%9c%8b%e5%ae%8c%e4%b8%8dstar%e5%b0%8f%e5%bf%83%e6%b2%a1jj)
+        - [看完不star，小心没jj :）!](#看完不star小心没jj-)
 ## News
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
@@ -1018,7 +1018,7 @@
 - https://github.com/insthync/awesome-unity3d
 - https://github.com/RyanNielson/awesome-unity
 
-#### Blog
+#### Blogs
 - https://tooslowexception.com/
 - [行尸走油肉的笔记](http://walkingfat.com/)
 - [云风](https://blog.codingnow.com/)
@@ -1059,8 +1059,6 @@
 - https://github.com/CatLib/CatLib
 - https://github.com/OnClick9927/IFramework
 
-
-
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/huailiang/knead_proj unity  捏脸
@@ -1081,7 +1079,7 @@
 - https://github.com/coryleach/UnityAsync
 - https://asyncexpert.com/
 
-#### Node
+#### Node-Editor
 - [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
 - [XNode](https://github.com/Siccity/xNode)
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
@@ -1098,7 +1096,7 @@
 #### Util
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 
-#### unity 特色工程（精粹）
+#### Unity 特色工程（精粹）
 -  https://molingyu.github.io/RosettaDocs/  本地化
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
 -  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
@@ -1135,22 +1133,22 @@
  - [find reference2](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
  - [shader control](https://assetstore.unity.com/packages/vfx/shaders/shader-control-74817)
  
- ### Bone&&Spring
+#### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
  - [dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
  - [Boing Kit](https://assetstore.unity.com/packages/tools/particles-effects/boing-kit-dynamic-bouncy-bones-grass-water-and-more-135594)
  - [AutomaticDynamicBone](https://github.com/OneYoungMean/AutomaticDynamicBone)
  - [uSpringBone](https://github.com/EsProgram/uSpringBone)
  
- ### Burst&&JobSystem
+ #### Burst&&JobSystem
  - https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation
  
- ### Create Model
+ #### Create Model
  - [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-2-x-111418)
  - [Archimatix](https://assetstore.unity.com/packages/tools/modeling/archimatix-pro-59733)
  - [umodeler](https://assetstore.unity.com/packages/tools/modeling/umodeler-80868)
  
- ### Mesh Combine
+ #### Mesh Combine
  - [mesh-baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017)
  - [skinned-mesh-combiner](https://assetstore.unity.com/packages/templates/systems/skinned-mesh-combiner-mt-135422)
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
