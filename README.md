@@ -1,5 +1,5 @@
 
-
+Table of Contents
 - [News](#news)
     - [Js/Web](#jsweb)
     - [Java](#java)
@@ -118,6 +118,8 @@
     - [Audio](#audio-1)
     - [Movement](#movement)
 - [Data](#data)
+    - [Exchange](#exchange)
+    - [DataVisual&&Editor](#datavisualeditor)
 - [知识库软件](#知识库软件)
 - [Tool](#tool-1)
 - [workflow (do not add jenkins!)](#workflow-do-not-add-jenkins)
@@ -1182,7 +1184,13 @@
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 
 ## Data
+#### Exchange
 - https://github.com/alibaba/DataX 数据交换
+#### DataVisual&&Editor
+- [SuperSet](https://github.com/apache/incubator-superset)
+- [Redash](https://github.com/getredash/redash)
+- [metabase](https://github.com/metabase/metabase)
+- [rawgraphs](https://rawgraphs.io/) The missing link between spreadsheets and data visualization
 
 ## 知识库软件
 - 印象笔记 https://www.yinxiang.com/
