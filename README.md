@@ -128,7 +128,7 @@ Table of Contents
 - [Programmer-Common-Sense](#programmer-common-sense)
 - [游戏策划](#游戏策划)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
-        - [看完不star，小心没jj :）!](#看完不star小心没jj-)
+- [看完不star，小心没jj :）!](#看完不star小心没jj-)
 ## News
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
@@ -279,6 +279,7 @@ Table of Contents
 - https://github.com/SheetJS/sheetjs
 - https://github.com/alibaba/easyexcel
 - https://github.com/EPPlusSoftware/EPPlus
+- http://kaitai.io/
 
 ## Archive
 #### Article
@@ -649,6 +650,7 @@ Table of Contents
 - [移动设备GPU架构知识汇总](https://zhuanlan.zhihu.com/p/112120206)
 - [针对移动端TBDR架构GPU特性的渲染优化](https://gameinstitute.qq.com/community/detail/123220)
 - [移动处理器CPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
+- [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
 - 微信公众号：GPUer
 - [GPU/CPU性能天梯图](https://mubu.com/doc/explore/17532)
 
@@ -1246,4 +1248,4 @@ Table of Contents
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
 进群后跟群主(我)申请就好，群主是个很乐意分享的人
 
-###### 看完不star，小心没jj :）!
+## 看完不star，小心没jj :）!
