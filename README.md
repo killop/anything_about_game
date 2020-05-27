@@ -9,10 +9,14 @@ Table of Contents
 - [Game-Company](#game-company)
 - [Game-Asset](#game-asset)
 - [Game-Design-Tool](#game-design-tool)
+    - [像素/FAST-GRID](#像素fast-grid)
     - [Animation](#animation)
       - [Unity-Tool](#unity-tool)
     - [Audio](#audio)
     - [Modeling](#modeling)
+      - [Sculpture](#sculpture)
+      - [Cloth](#cloth)
+      - [Human](#human)
     - [Effect](#effect)
     - [Material](#material)
     - [Terrain](#terrain)
@@ -61,6 +65,7 @@ Table of Contents
     - [GPU-Architecture](#gpu-architecture)
     - [Physically-Based-Render](#physically-based-render)
     - [Article](#article-3)
+    - [Shading-Language](#shading-language)
     - [Unity-Shader](#unity-shader)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
@@ -192,9 +197,20 @@ Table of Contents
 - https://www.humblebundle.com/
 - https://www.mixamo.com/#/
 - https://www.rrcg.cn/
+- http://www.polycount.com/forum/ - 他们有不同的招募论坛，包括有薪与无薪。- http://www.reddit.com/r/GameDevClassifieds - 发布你的工作，确认酬劳状态。浏览寻找艺术家。
+- http://www.gamedev.net/classifieds - GameDev.net 工作版块。
+- http://forum.deviantart.com/jobs/ - 太多具有才华的人了，不过许多都没有游戏工作经历，但还是一个值得看看的地方。只针对有酬劳的工作。
 
 ## Game-Design-Tool
 
+#### 像素/FAST-GRID
+- [pyxeledit](https://pyxeledit.com/)
+- [aseprite](http://www.aseprite.org/)
+- [GrafX2](http://pulkomandy.tk/projects/GrafX2)
+- [GraphicsGale](https://graphicsgale.com/us/)
+- [pixenapp](https://pixenapp.com/)
+- [ProMotion](https://www.cosmigo.com/)
+- [PiskelApp](https://www.piskelapp.com/)
 #### Animation
 - [spine](http://zh.esotericsoftware.com/)
 - [live3d](http://www.zingfront.cn/live3d/)
@@ -218,11 +234,21 @@ Table of Contents
 - https://www.blender.org/ blender
 - https://www.autodesk.com/products/3ds-max/overview max
 - https://www.autodesk.com/products/maya/overview maya
-- http://pixologic.com/sculptris/ sculptris
-- http://pixologic.com/features/about-zbrush.php zbrush
+
 - https://www.foundry.com/products/modo modo
 - https://www.cheetah3d.com/ cheetah3d
-
+ 
+##### Sculpture
+- [sculptris](http://pixologic.com/sculptris/) 
+- [zbrush](http://pixologic.com/features/about-zbrush.php) 
+- [mudbox](http://www.autodesk.com/products/mudbox/overview)
+##### Cloth
+- [3dcoat](https://3dcoat.com/v4937/)
+##### Human
+- [poser](https://www.posersoftware.com/) 
+- [daz3d](https://www.daz3d.com/home)
+- [makehuman](http://www.makehumancommunity.org/)
+  
 #### Effect
 - [fusion](https://www.blackmagicdesign.com/products/fusion)
 - [nuke](https://www.foundry.com/products/nuke)
@@ -504,6 +530,7 @@ Table of Contents
 *   Thrust：类似于C++标准模板库的并行算法库。[官网](http://thrust.github.io/)
 *   HPX：用于任何规模的并行和分布式应用程序的通用C++运行时系统。[官网](https://github.com/STEllAR-GROUP/hpx/)
 *   VexCL：用于OpenCL/CUDA 的C++向量表达式模板库。[官网](https://github.com/ddemidov/vexcl)
+*   TBB Threading Building Blocks (TBB) lets you easily write parallel C++ programs that take full advantage of multicore performance, that are portable, composable and have future-proof scalability.[官网](https://github.com/oneapi-src/oneTBB)
 #### C 
 *   cchan：一个线程间通信通道构建的小型库。公共领域。[官网](http://repo.hu/projects/cchan/)
 *   ck：并发原语，安全内存回收机制和非阻塞数据结构。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/concurrencykit/ck)
@@ -661,6 +688,10 @@ Table of Contents
 - https://mp.weixin.qq.com/s/oNjYmta6FFkfhCsOO6ZCWA  非真实渲染
 - https://zhuanlan.zhihu.com/p/75497647  shader map总结
 - https://technology.riotgames.com/tags/performance lol渲染技巧
+ 
+#### Shading-Language
+- [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
+- [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
 
 #### Unity-Shader 
 ##### Comon-Collection
@@ -888,6 +919,8 @@ Table of Contents
 - https://www.keithschwarz.com/interesting/
 - https://gitee.com/SnailClimb/JavaGuide
 - https://github.com/dongyuanxin/blog
+- https://leetcode.wang/
+- https://github.com/Xunzhuo/OI_Sharing
 
 ## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
