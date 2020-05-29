@@ -390,6 +390,7 @@ Table of Contents
 - https://github.com/lidgren/lidgren-network-gen3
 - https://github.com/Azure/DotNetty
 - https://github.com/hiramtan/HiSocket
+- https://www.newlifex.com/
 #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 
