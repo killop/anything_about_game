@@ -26,6 +26,7 @@ Table of Contents
     - [Visual-Logic](#visual-logic)
     - [Voxel-Editor](#voxel-editor)
     - [Material](#material-1)
+- [CG](#cg)
 - [3D-File-Format](#3d-file-format)
 - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
 - [Archive](#archive)
@@ -81,6 +82,7 @@ Table of Contents
     - [WebSite/Blog](#websiteblog)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
 - [Interview-Algorithms-DataStruct](#interview-algorithms-datastruct)
+    - [Article](#article-3)
 - [Operating-System](#operating-system)
     - [IO](#io)
 - [高性能数据结构和算法](#高性能数据结构和算法)
@@ -94,6 +96,7 @@ Table of Contents
 - [C](#c-4)
 - [C](#c-5)
 - [CPP](#cpp-3)
+- [Java](#java-1)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
     - [Garbage Collector](#garbage-collector)
@@ -284,6 +287,8 @@ Table of Contents
 #### Material
 - https://artomatix.com/
 
+## CG
+- [Davinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound 
 ## 3D-File-Format
 - [Alembic](http://www.alembic.io/)
 - [BLEND](https://en.wikipedia.org/wiki/.blend_(file_format))
@@ -376,6 +381,12 @@ Table of Contents
 - [你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484017&idx=1&sn=dc54d43bfd5dc088e48adcfa2e2bc13f&chksm=f98e46dbcef9cfcdab645e79138deb078d68ad843b3e424408974bd8f0ecea620a2502a79230&scene=126&sessionid=1587373655&key=caefaff9574fe7b57087d887de9c6a4c47d8f28df557255cc812869d270224df92f9bb319c0637c0755e2072e8a83e69667b4024c32f8447e1b8fbea51f25679a85b5b27be78ad02905b3a7220e63b0e&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AUqHBUf2HKUOvDs1c3m9p6g%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding )
 - [万字详文：TCP 拥塞控制详解](https://zhuanlan.zhihu.com/p/144273871)
 - [TCP 的那些事儿](https://coolshell.cn/articles/11564.html)
+- [计网 IP 知识全家桶，45 张图一套带走](https://mp.weixin.qq.com/s/21Tk-8gxpDoH9DNWNYCWmA)
+- [ping命令用得这么6，原理知道不？图解一波！](https://mp.weixin.qq.com/s/55bbQX2-SUNe6PEI9My5fA)
+- [探究：一个数据包在网络中到底是怎么游走的？](https://mp.weixin.qq.com/s/07zloKKMUl-RHN6tWqZIJQ)
+- [硬核！30 张图解 HTTP 常见的面试题](https://mp.weixin.qq.com/s/FJGKObVnU61ve_ioejLrtw)
+- [如果面试再问GET和POST区别，就把这篇甩给他](https://mp.weixin.qq.com/s/BraxnIUJF4JGtIep0YiovA)
+- [计网 TCP/UDP 部分高频面试题大集合](https://mp.weixin.qq.com/s/SZ8XcOzZCVJG_P1_O4OtWQ)
 
 #### C#
 - https://github.com/MidLevel/MLAPI
@@ -393,6 +404,8 @@ Table of Contents
 - https://www.newlifex.com/
 #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
+- [CppNet](https://github.com/caozhiyi/CppNet)
+- [Muduo](https://github.com/chenshuo/muduo)
 
 ## Web/Http-fastest
 - https://github.com/uNetworking/uWebSockets
@@ -533,6 +546,7 @@ Table of Contents
 *   HPX：用于任何规模的并行和分布式应用程序的通用C++运行时系统。[官网](https://github.com/STEllAR-GROUP/hpx/)
 *   VexCL：用于OpenCL/CUDA 的C++向量表达式模板库。[官网](https://github.com/ddemidov/vexcl)
 *   TBB Threading Building Blocks (TBB) lets you easily write parallel C++ programs that take full advantage of multicore performance, that are portable, composable and have future-proof scalability.[官网](https://github.com/oneapi-src/oneTBB)
+
 #### C 
 *   cchan：一个线程间通信通道构建的小型库。公共领域。[官网](http://repo.hu/projects/cchan/)
 *   ck：并发原语，安全内存回收机制和非阻塞数据结构。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/concurrencykit/ck)
@@ -924,6 +938,13 @@ Table of Contents
 - https://github.com/dongyuanxin/blog
 - https://leetcode.wang/
 - https://github.com/Xunzhuo/OI_Sharing
+- https://github.com/TheAlgorithms/Java
+
+#### Article
+- [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
+- [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
+- [数据结构里各种难啃的“树”，一文搞懂它](https://mp.weixin.qq.com/s/k4-RaW4ROlo6chSXsO_4AA)
+- [一篇文章彻底学会递归思路解题！](https://mp.weixin.qq.com/s/-V0jBkPoZHYC2jLfSnQ6-g)
 
 ## Operating-System
 - https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
@@ -1002,10 +1023,18 @@ Table of Contents
 
 ## C
 - https://github.com/nothings/stb
-
+- [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
+- [MyTinySTL](https://github.com/Alinshans/MyTinySTL) MyTinySTL的作者它就用 C++11 重新复写了一个小型 STL（容器库＋算法库）。代码结构清晰规范、包含中文文档与注释，并且自带一个简单的测试框架，非常适合新手学习与参考！
+- [oatpp](https://github.com/oatpp/oatpp) oatpp是一个轻量、跨平台、高性能、完全零依赖，用纯 C++ 实现的 Web 框架，实在是难得，小伙伴们可以学习学习
 ## CPP
 - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) C++那些事
 
+## Java
+- [eladmin](https://github.com/elunez/eladmin) eladmin 是一款基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue 的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [人人开源](https://www.renren.io/)
+- [COLA](https://github.com/alibaba/COLA) Clean Object-Oriented and Layered Architecture
+- [SnowJena](https://github.com/ystcode/SnowJena) SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景。
+- [jodd](https://github.com/oblac/jodd)(Produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.)
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
 - https://github.com/ttroy50/cmake-examples
@@ -1263,6 +1292,7 @@ Table of Contents
 
 ## Programmer-Common-Sense
 - https://github.com/nusr/hacker-laws-zh       程序员应该知道的原则
+- http://binaryconvert.com 专门做二进制转换的网站
 
 ## 游戏策划
 - https://zhuanlan.zhihu.com/p/67963068
