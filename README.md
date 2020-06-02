@@ -69,9 +69,13 @@ Table of Contents
     - [Physically-Based-Render](#physically-based-render)
       - [NPR](#npr)
     - [Unity-Shader](#unity-shader)
+      - [ShaderVariant](#shadervariant)
+      - [Shader-GUI](#shader-gui)
+      - [Decal](#decal)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
       - [UI](#ui)
+      - [Mesh](#mesh)
       - [Post-Process](#post-process)
       - [Water](#water)
     - [Blog](#blog)
@@ -81,7 +85,7 @@ Table of Contents
     - [Color](#color)
     - [WebSite/Blog](#websiteblog)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
-- [Interview-Algorithms-DataStruct](#interview-algorithms-datastruct)
+- [Interview/DataStruct-Algorithms](#interviewdatastruct-algorithms)
     - [Article](#article-3)
 - [Operating-System](#operating-system)
     - [IO](#io)
@@ -120,8 +124,11 @@ Table of Contents
     - [Asset Management](#asset-management)
     - [Bone&&Spring](#bonespring)
     - [Burst&&JobSystem](#burstjobsystem)
+    - [Texture](#texture-1)
     - [Create Model](#create-model)
-    - [Mesh Combine](#mesh-combine)
+    - [Mesh](#mesh-1)
+    - [Editor](#editor)
+    - [Asset-Manange](#asset-manange)
     - [Message Bus](#message-bus)
     - [Audio](#audio-1)
     - [Movement](#movement)
@@ -722,7 +729,14 @@ Table of Contents
 - Unity-plugin:[Flat Kit: Cel / Toon Shading](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368)
 - [【翻译】西川善司「实验做出的游戏图形」「GUILTY GEAR Xrd -SIGN-」中实现的「纯卡通动画的实时3D图形」的秘密](https://www.cnblogs.com/TracePlus/p/4205798.html)
 
-#### Unity-Shader 
+#### Unity-Shader
+##### ShaderVariant
+* [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
+##### Shader-GUI
+* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C# 
+##### Decal
+ * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
+* [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
 ##### Comon-Collection
 - https://github.com/ellioman/ShaderProject
 
@@ -732,7 +746,10 @@ Table of Contents
 ##### UI
 - https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
 - https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
-
+* [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
+* [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
+##### Mesh
+* [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
 ##### Post-Process
 - https://github.com/keijiro/KinoBloom 牛逼的bloom
 
@@ -917,7 +934,7 @@ Table of Contents
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
 
-## Interview-Algorithms-DataStruct
+## Interview/DataStruct-Algorithms
 - https://github.com/0voice/interview_internal_reference#1
 - https://github.com/ZXZxin/ZXBlog
 - https://github.com/awangdev/LintCode
@@ -1127,6 +1144,7 @@ Table of Contents
 - https://github.com/mr-kelly/KSFramework
 - https://github.com/CatLib/CatLib
 - https://github.com/OnClick9927/IFramework
+- https://github.com/jarjin/FinalFramework
 
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
@@ -1212,19 +1230,41 @@ Table of Contents
  #### Burst&&JobSystem
  - https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation
  
+ #### Texture
+* [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
+* [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
+* [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
+* [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
+
  #### Create Model
  - [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-2-x-111418)
  - [Archimatix](https://assetstore.unity.com/packages/tools/modeling/archimatix-pro-59733)
  - [umodeler](https://assetstore.unity.com/packages/tools/modeling/umodeler-80868)
  
- #### Mesh Combine
+ #### Mesh 
+ - [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
  - [mesh-baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017)
  - [skinned-mesh-combiner](https://assetstore.unity.com/packages/templates/systems/skinned-mesh-combiner-mt-135422)
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
- 
+  
+#### Editor
+* [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
+* [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
+* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
+* [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
+* [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
+* [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code
 
-
+#### Asset-Manange
+* [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
+* [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
+* [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
+* [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
+* [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
+* [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
+*  [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
+*  
 #### Message Bus  
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
 - [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) - A generic Event-Bus
