@@ -64,6 +64,7 @@ Table of Contents
     - [Shading-Language](#shading-language)
     - [Course/Article](#coursearticle)
     - [OpenGL](#opengl)
+    - [Debug/Test](#debugtest)
     - [Tool](#tool)
     - [GPU-Architecture](#gpu-architecture)
     - [Physically-Based-Render](#physically-based-render)
@@ -136,10 +137,10 @@ Table of Contents
     - [DataVisual&&Editor](#datavisualeditor)
 - [知识库软件](#知识库软件)
 - [Tool](#tool-1)
+    - [Programmer-Common-Tool](#programmer-common-tool)
 - [workflow (do not add jenkins!)](#workflow-do-not-add-jenkins)
 - [问答](#问答)
 - [文案排版](#文案排版)
-- [Programmer-Common-Sense](#programmer-common-sense)
 - [游戏策划](#游戏策划)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
 - [看完不star，小心没jj :）!](#看完不star小心没jj-)
@@ -154,7 +155,7 @@ Table of Contents
 - https://coolshell.cn/
 
 #### Js/Web
-- https://github.com/dt-fe/weekly
+- https://github.com/dt-fe/weekly 
 - https://github.com/gauseen/blog/issues/4
 - https://www.infoq.cn/profile/1277275/publish
 - https://weekly.techbridge.cc/
@@ -168,6 +169,7 @@ Table of Contents
 - https://github.com/polaris1119/golangweekly
 
 ## Awesome-General
+- http://nav.web-hub.cn/ 
 - https://libs.garden/
 - https://awesomeopensource.com/
 - https://github.com/sindresorhus/awesome
@@ -692,6 +694,9 @@ Table of Contents
 - https://github.com/eug/awesome-opengl
 - https://learnopengl-cn.readthedocs.io/zh/latest/
 - http://www.opengl-tutorial.org
+#### Debug/Test
+ - [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
+
 
 #### Tool
 - https://shadered.org/
@@ -963,10 +968,12 @@ Table of Contents
 - [一篇文章彻底学会递归思路解题！](https://mp.weixin.qq.com/s/-V0jBkPoZHYC2jLfSnQ6-g)
 
 ## Operating-System
-- https://www.cnblogs.com/cxuanBlog/p/12302848.html 万字长文带你还原进程和线程
-- https://github.com/sebbbi/perftest 
-- https://coolshell.cn/articles/20793.html  cpu cache
-- https://gist.github.com/hellerbarde/2843375   图灵CPU的各项延迟
+- [万字长文带你还原进程和线程](https://www.cnblogs.com/cxuanBlog/p/12302848.html)
+- [CPU Cache](https://coolshell.cn/articles/20793.html)
+- [CPU Cache Latency](https://gist.github.com/hellerbarde/2843375)
+- [Linux内存 -1](https://mp.weixin.qq.com/s/Aj-A5ltGJoD5fkFiMlhjoA)
+- [Linux内存 -2](https://mp.weixin.qq.com/s/EvU7pV51ctPooREQt_8SaQ)
+   
 #### IO
 - [IO 模型知多少](https://www.cnblogs.com/sheng-jie/p/how-much-you-know-about-io-models.html) 
 - [IO复用模型同步，异步，阻塞，非阻塞及实例详解](https://www.jianshu.com/p/511b9cffbdac)
@@ -1313,7 +1320,11 @@ Table of Contents
 - https://www.toolnb.com  toolnb 
 - https://github.com/zhaoolee/OnlineToolsBook
 
-
+#### Programmer-Common-Tool
+- https://github.com/nusr/hacker-laws-zh       程序员应该知道的原则
+- http://binaryconvert.com 专门做二进制转换的网站
+- www.box3.cn 开发者工具箱
+ 
 
 ## workflow (do not add jenkins!)
 - https://github.com/n8n-io/n8n
@@ -1329,9 +1340,6 @@ Table of Contents
 - [掘金计划- 中文文案排版](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
  
 
-## Programmer-Common-Sense
-- https://github.com/nusr/hacker-laws-zh       程序员应该知道的原则
-- http://binaryconvert.com 专门做二进制转换的网站
 
 ## 游戏策划
 - https://zhuanlan.zhihu.com/p/67963068
@@ -1341,13 +1349,14 @@ Table of Contents
 - https://youquhome.com/ 
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 - http://www.iqsuperman.net/ IQ 超人
-- https://www.allhistory.com 人类历史
+- https://www.allhistory.com 全历史
 - https://www.die.net/earth/ 白天和黑夜实时预览
 - https://humanbenchmark.com/ 脑力benckmark
 - https://chatroulette.com/ 全世界随机聊天
 - http://www.cbaigui.com/ 中国妖精合集
 - https://works.yangerxiao.com/honeyed-words-generator/ 土味情话
 - https://github.com/soulteary/tenant-point 程序员如何租房子
+- https://wallroom.io 壁纸网站
 
 这里主要是小伙伴们一起收集的跟游戏相关的精粹
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
