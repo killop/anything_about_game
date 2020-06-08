@@ -138,7 +138,7 @@ Table of Contents
 - [知识库软件](#知识库软件)
 - [Tool](#tool-1)
     - [Programmer-Common-Tool](#programmer-common-tool)
-- [workflow (do not add jenkins!)](#workflow-do-not-add-jenkins)
+- [workflow](#workflow)
 - [问答](#问答)
 - [文案排版](#文案排版)
 - [游戏策划](#游戏策划)
@@ -614,6 +614,7 @@ Table of Contents
 - https://www.mathcha.io/
 - https://www.mathtype.cn/
 - https://zh.numberempire.com/
+- http://penrose.ink/
 
 #### Courses/Article/website
 - https://www.wolfram.com/
@@ -1092,6 +1093,7 @@ Table of Contents
 - [fanx](http://fanx.info/) A portable language with elegant libraries
 - [mun](https://mun-lang.org/) A programming language empowering creation through iteration.
 - [beef](https://www.beeflang.org/) Beef is an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment. The syntax and many semantics are most directly derived from C#, while attempting to retain the C ideals of bare-metal explicitness and lack of runtime surprises, with some "modern" niceties inspired by languages such as Rust, Swift, and Go
+- [dascript](https://dascript.org) daScript is high-level, statically strong typed scripting language, designed to be fast as embeddable ‘scripting’ language for C++ performance critical applications like games.
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 
@@ -1324,9 +1326,10 @@ Table of Contents
 - https://github.com/nusr/hacker-laws-zh       程序员应该知道的原则
 - http://binaryconvert.com 专门做二进制转换的网站
 - www.box3.cn 开发者工具箱
+- [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
  
 
-## workflow (do not add jenkins!)
+## workflow
 - https://github.com/n8n-io/n8n
 - https://github.com/fastlane/fastlane
 - https://github.com/aelassas/Wexflow
