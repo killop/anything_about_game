@@ -1094,6 +1094,7 @@ Table of Contents
 - [mun](https://mun-lang.org/) A programming language empowering creation through iteration.
 - [beef](https://www.beeflang.org/) Beef is an open source performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment. The syntax and many semantics are most directly derived from C#, while attempting to retain the C ideals of bare-metal explicitness and lack of runtime surprises, with some "modern" niceties inspired by languages such as Rust, Swift, and Go
 - [dascript](https://dascript.org) daScript is high-level, statically strong typed scripting language, designed to be fast as embeddable ‘scripting’ language for C++ performance critical applications like games.
+- [neos](https://neos.dev/) neos is a cross-platform (C++) universal compiler that can theoretically compile any scripting/programming language.
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 
