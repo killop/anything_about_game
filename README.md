@@ -395,6 +395,7 @@ Table of Contents
 - [硬核！30 张图解 HTTP 常见的面试题](https://mp.weixin.qq.com/s/FJGKObVnU61ve_ioejLrtw)
 - [如果面试再问GET和POST区别，就把这篇甩给他](https://mp.weixin.qq.com/s/BraxnIUJF4JGtIep0YiovA)
 - [计网 TCP/UDP 部分高频面试题大集合](https://mp.weixin.qq.com/s/SZ8XcOzZCVJG_P1_O4OtWQ)
+- [面试官：换人！他连 TCP 这几个参数都不懂 ](https://mp.weixin.qq.com/s/fjnChU3MKNc_x-Wk7evLhg)
 
 #### C#
 - https://github.com/MidLevel/MLAPI
@@ -722,7 +723,7 @@ Table of Contents
 - https://github.com/Josh015/Alloy
 
 ##### NPR
-- [非真实渲染](https://mp.weixin.qq.com/s/oNjYmta6FFkfhCsOO6ZCWA)  
+- [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
 - [【NPR】卡通渲染](https://blog.csdn.net/candycat1992/article/details/50167285)及其对应的github库[NPR_Lab](https://github.com/candycat1992/NPR_Lab)
 - [UnityChanToonShaderVer2](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) toon shader的解决方案
