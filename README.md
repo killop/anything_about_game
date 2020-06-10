@@ -57,16 +57,17 @@ Table of Contents
     - [Math-Tool](#math-tool)
     - [Courses/Article/website](#coursesarticlewebsite)
 - [Physics Framework](#physics-framework)
-- [Graphics-Library](#graphics-library)
-- [SoftWare-Render](#software-render)
 - [ComputerGraphics && Shading](#computergraphics--shading)
+    - [Graphics-Library](#graphics-library)
+    - [SoftWare-Render](#software-render)
     - [Collection](#collection)
     - [Shading-Language](#shading-language)
     - [Course/Article](#coursearticle)
     - [OpenGL](#opengl)
     - [Debug/Test](#debugtest)
-    - [Tool](#tool)
+    - [PlayGround](#playground)
     - [GPU-Architecture](#gpu-architecture)
+    - [Optimize](#optimize)
     - [Physically-Based-Render](#physically-based-render)
       - [NPR](#npr)
     - [Unity-Shader](#unity-shader)
@@ -81,7 +82,7 @@ Table of Contents
       - [Water](#water)
     - [Blog](#blog)
     - [Forked-Collection ：https://gforcex.github.io/2018/09/14/engine-blogs.html](#forked-collection-httpsgforcexgithubio20180914engine-blogshtml)
-    - [Famous-Person](#famous-person)
+    - [Famous-Person-CN](#famous-person-cn)
     - [Ray-Tracing](#ray-tracing)
     - [Color](#color)
     - [WebSite/Blog](#websiteblog)
@@ -136,7 +137,7 @@ Table of Contents
     - [Exchange](#exchange)
     - [DataVisual&&Editor](#datavisualeditor)
 - [知识库软件](#知识库软件)
-- [Tool](#tool-1)
+- [Tool](#tool)
     - [Programmer-Common-Tool](#programmer-common-tool)
 - [workflow](#workflow)
 - [问答](#问答)
@@ -640,7 +641,12 @@ Table of Contents
 - https://github.com/jeffvella/UnityNativeCollision
 
 
-## Graphics-Library
+
+
+
+## ComputerGraphics && Shading
+
+#### Graphics-Library
 - https://github.com/kosua20/herebedragons
 - https://github.com/sinclairzx81/zero
 - http://www.mitsuba-renderer.org/
@@ -660,16 +666,13 @@ Table of Contents
 - The Forge - Cross-platform rendering framework. [[github](https://github.com/ConfettiFX/The-Forge) ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social&label=Star&maxAge=2592000)]
 - [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
-## SoftWare-Render 
+#### SoftWare-Render 
 - https://www.mesa3d.org/ 
 - https://github.com/ssloy/tinyrenderer
 - https://github.com/zauonlok/renderer
 - https://github.com/Angelo1211/SoftwareRenderer
 - https://github.com/skywind3000/mini3d
-
-
-## ComputerGraphics && Shading
-
+ 
 #### Collection
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
@@ -700,7 +703,7 @@ Table of Contents
  - [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
 
 
-#### Tool
+#### PlayGround
 - https://shadered.org/
  
 #### GPU-Architecture
@@ -713,12 +716,17 @@ Table of Contents
 - [Nvidia Pascal Architecture](https://images.nvidia.com/content/pdf/tesla/whitepaper/pascal-architecture-whitepaper.pdf)
 - [PowerVR](http://cdn.imgtec.com/sdk-documentation/PowerVR.Performance+Recommendations.pdf)
 - [移动设备GPU架构知识汇总](https://zhuanlan.zhihu.com/p/112120206)
-- [针对移动端TBDR架构GPU特性的渲染优化](https://gameinstitute.qq.com/community/detail/123220)
+
 - [移动处理器CPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
 - [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
 - 微信公众号：GPUer
 - [GPU/CPU性能天梯图](https://mubu.com/doc/explore/17532)
 
+#### Optimize
+- [针对移动端TBDR架构GPU特性的渲染优化](https://gameinstitute.qq.com/community/detail/123220)
+- [Performance Tunning for Tile-Based Architecture/Tile-Based架构下的性能调校](https://www.cnblogs.com/gameknife/p/3515714.html)
+- [后处理效率问题和Tile-Based GPU](https://zhuanlan.zhihu.com/p/135285010)
+  
 #### Physically-Based-Render
 - https://github.com/Josh015/Alloy
 
@@ -906,7 +914,7 @@ Table of Contents
  - http://the-witness.net/news/
  - http://jpgrenier.org/
 
-#### Famous-Person
+#### Famous-Person-CN
 - https://www.zhihu.com/people/mao-xing-yun 毛星云
 - http://staff.ustc.edu.cn/~lgliu/ 刘利刚
 - https://www.zhihu.com/people/luo-cheng-11-75 洛城
