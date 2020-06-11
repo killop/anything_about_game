@@ -759,10 +759,15 @@ Table of Contents
 ##### ShaderVariant
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 ##### Shader-GUI
-* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C# 
+* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
+ 
 ##### Decal
  * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
+* [Paint in 3D](https://assetstore.unity.com/packages/tools/painting/paint-in-3d-26286)
+* [Easy Decal](https://assetstore.unity.com/packages/tools/utilities/easy-decal-22867)
+* [Decal Master: Advanced Deferred Decals](https://assetstore.unity.com/packages/tools/utilities/decal-master-advanced-deferred-decals-145432)
+ 
 ##### Comon-Collection
 - https://github.com/ellioman/ShaderProject
 
