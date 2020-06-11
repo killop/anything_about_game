@@ -281,6 +281,10 @@ Table of Contents
 - http://www.crazybump.com/
 - http://renderhjs.net/shoebox/
 - https://www.autodraw.com/
+- [pixelandpolygon](https://pixelandpolygon.com/) Texture File Viewer
+- [pngquant](https://pngquant.org/)  pngquant is a command-line utility and a library for lossy compression of PNG images
+- [MaCrea - Material Creation Tool](https://www.zbrushcentral.com/t/macrea-material-creation-tool) MaCrea is a little material creation tool I wrote for use with Sculptris, while it simply creates material sphere images that can be used with Zbrush or any other App that takes advantage of that idea.
+- [cubemapgen](https://gpuopen.com/archived/cubemapgen/)
 
 #### GPU-Texture
 - https://github.com/BinomialLLC/basis_universal
@@ -694,15 +698,22 @@ Table of Contents
 - [shader map总结](https://zhuanlan.zhihu.com/p/75497647) 
 - [LOL渲染技巧](https://technology.riotgames.com/tags/performance)
 - [ComputeShader手机兼容性报告](https://zhuanlan.zhihu.com/p/68886986)
+- [Unity3D shader优化技巧集合](http://www.xionggf.com/post/unity3d/shader/u3d_shader_optimization/) 
+- [Unity3D的渲染路径的细节一览表](http://www.xionggf.com/post/unity3d/u3d_render_path_detail/)
+- [深度探索Skinned Mesh【翻译】](http://www.xionggf.com/post/d3d/skinned_mesh_with_d3d9/)
+- [理解高动态范围光](http://www.xionggf.com/post/cg/inside_hdr/)
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
 - https://learnopengl-cn.readthedocs.io/zh/latest/
 - http://www.opengl-tutorial.org
 #### Debug/Test
- - [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
-
-
+- [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
+- [renderdoc](https://renderdoc.org/)
+- [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
+- [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
+- [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
+- [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
 #### PlayGround
 - https://shadered.org/
  
@@ -933,6 +944,7 @@ Table of Contents
 - [颜色：原理和应用](https://ppt.baomitu.com/d/c887a533#/)
 - [浅谈伽玛和线性颜色空间](https://www.gameres.com/811214.html)
 - [Gamma的传说](http://geekfaner.com/unity/blog1_gamma.html)
+- [通过实验透彻理解颜色空间](https://zhuanlan.zhihu.com/p/141904960)
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/)
 - [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
 - [color vision](https://www.handprint.com/LS/CVS/color.html)
