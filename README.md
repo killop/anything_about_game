@@ -671,11 +671,12 @@ Table of Contents
 - [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
 #### SoftWare-Render 
-- https://www.mesa3d.org/ 
-- https://github.com/ssloy/tinyrenderer
-- https://github.com/zauonlok/renderer
-- https://github.com/Angelo1211/SoftwareRenderer
-- https://github.com/skywind3000/mini3d
+- [mesa3d](https://www.mesa3d.org/) nothing to say :)
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer) A brief computer graphics / rendering course 
+- [renderer](https://github.com/zauonlok/renderer) A shader-based software renderer written from scratch in C89
+- [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) Software rendering engine with PBR. Built from scratch on C++. 
+- [mini3d](https://github.com/skywind3000/mini3d) 3D Software Renderer in 700 Lines !! (700 行代码的 3D 软件渲染器) 
+- [Zagara](https://github.com/justalittlefat/Zagara) A tiny softrendering engine based on unity3d. 
  
 #### Collection
 - https://github.com/Calence/BookContainer
