@@ -4,7 +4,7 @@ Table of Contents
     - [Js/Web](#jsweb)
     - [Java](#java)
     - [Go](#go)
-- [Awesome-General](#awesome-gene
+- [Awesome-General](#awesome-general)
 - [Awesome-Game](#awesome-game)
 - [Game-Company](#game-company)
 - [Game-Asset](#game-asset)
