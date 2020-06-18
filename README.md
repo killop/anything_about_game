@@ -343,6 +343,9 @@ Table of Contents
 - https://github.com/EPPlusSoftware/EPPlus
 - http://kaitai.io/
 - https://github.com/xaboy/form-create
+- https://github.com/rjsf-team/react-jsonschema-form
+- https://github.com/vue-generators/vue-form-generator
+- https://github.com/quicktype/quicktype
 
 ## Archive
 #### Article
