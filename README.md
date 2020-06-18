@@ -9,7 +9,8 @@ Table of Contents
 - [Game-Company](#game-company)
 - [Game-Asset](#game-asset)
 - [Game-Design-Tool](#game-design-tool)
-    - [像素/FAST-GRID](#像素fast-grid)
+    - [Collection](#collection)
+    - [Voxel](#voxel)
     - [Animation](#animation)
       - [Unity-Tool](#unity-tool)
     - [Audio](#audio)
@@ -22,10 +23,11 @@ Table of Contents
     - [Terrain](#terrain)
     - [List-of-game-middleware](#list-of-game-middleware)
     - [Texture](#texture)
+        - [PIX-Texture](#pix-texture)
     - [GPU-Texture](#gpu-texture)
     - [Visual-Logic](#visual-logic)
-    - [Voxel-Editor](#voxel-editor)
     - [Material](#material-1)
+    - [Tile](#tile)
 - [CG](#cg)
 - [3D-File-Format](#3d-file-format)
 - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
@@ -57,14 +59,19 @@ Table of Contents
     - [Math-Tool](#math-tool)
     - [Courses/Article/website](#coursesarticlewebsite)
 - [Physics Framework](#physics-framework)
+- [Game-BenchMark/Matric/Tool](#game-benchmarkmatrictool)
+    - [Common](#common)
+    - [GPU](#gpu)
 - [ComputerGraphics && Shading](#computergraphics--shading)
     - [Graphics-Library](#graphics-library)
     - [SoftWare-Render](#software-render)
-    - [Collection](#collection)
+    - [Collection](#collection-1)
+    - [Blog-China](#blog-china)
+    - [Blog-Foreigner](#blog-foreigner)
+    - [Famous-Person-CN](#famous-person-cn)
     - [Shading-Language](#shading-language)
     - [Course/Article](#coursearticle)
     - [OpenGL](#opengl)
-    - [Debug/Test](#debugtest)
     - [PlayGround](#playground)
     - [GPU-Architecture](#gpu-architecture)
     - [Optimize](#optimize)
@@ -79,10 +86,9 @@ Table of Contents
       - [UI](#ui)
       - [Mesh](#mesh)
       - [Post-Process](#post-process)
+      - [Holographic](#holographic)
       - [Water](#water)
-    - [Blog](#blog)
-    - [Forked-Collection ：https://gforcex.github.io/2018/09/14/engine-blogs.html](#forked-collection-httpsgforcexgithubio20180914engine-blogshtml)
-    - [Famous-Person-CN](#famous-person-cn)
+    - [MatCaps](#matcaps)
     - [Ray-Tracing](#ray-tracing)
     - [Color](#color)
     - [WebSite/Blog](#websiteblog)
@@ -136,7 +142,7 @@ Table of Contents
 - [Data](#data)
     - [Exchange](#exchange)
     - [DataVisual&&Editor](#datavisualeditor)
-- [知识库软件](#知识库软件)
+- [知识库软件/笔记软件](#知识库软件笔记软件)
 - [Tool](#tool)
     - [Programmer-Common-Tool](#programmer-common-tool)
 - [workflow](#workflow)
@@ -214,15 +220,15 @@ Table of Contents
 - http://forum.deviantart.com/jobs/ - 太多具有才华的人了，不过许多都没有游戏工作经历，但还是一个值得看看的地方。只针对有酬劳的工作。
 
 ## Game-Design-Tool
+#### Collection
+- [magictools](https://github.com/ellisonleao/magictools)
+#### Voxel 
+*  [goxel](https://github.com/guillaumechereau/goxel)
+*  [MagicaVoxel](https://ephtracy.github.io/)
+*  [Q-Block](http://kyucon.com/qblock/)
+*  [Sproxel](http://sproxel.blogspot.com.br/)
+*  [VoxelShop](https://blackflux.com/index.php)
 
-#### 像素/FAST-GRID
-- [pyxeledit](https://pyxeledit.com/)
-- [aseprite](http://www.aseprite.org/)
-- [GrafX2](http://pulkomandy.tk/projects/GrafX2)
-- [GraphicsGale](https://graphicsgale.com/us/)
-- [pixenapp](https://pixenapp.com/)
-- [ProMotion](https://www.cosmigo.com/)
-- [PiskelApp](https://www.piskelapp.com/)
 #### Animation
 - [spine](http://zh.esotericsoftware.com/)
 - [live3d](http://www.zingfront.cn/live3d/)
@@ -284,7 +290,19 @@ Table of Contents
 - [pngquant](https://pngquant.org/)  pngquant is a command-line utility and a library for lossy compression of PNG images
 - [MaCrea - Material Creation Tool](https://www.zbrushcentral.com/t/macrea-material-creation-tool) MaCrea is a little material creation tool I wrote for use with Sculptris, while it simply creates material sphere images that can be used with Zbrush or any other App that takes advantage of that idea.
 - [cubemapgen](https://gpuopen.com/archived/cubemapgen/)
-
+- [PixPlant](https://www.pixplant.com/) PixPlant is a smart texturing app with the best tools to quickly transform a photo into seamless repeating textures and 3D maps. 
+- [Affinity Designer](https://affinity.serif.com/de/designer/) - Vector graphics editor with a bunch of features which also supports Adobe file formats
+###### PIX-Texture
+- [spritemate](http://www.spritemate.com/)
+- [pixelatorapp](http://pixelatorapp.com/) Pixelator is a smart software to convert images into pixel art sprites and cover arts. With Pixelator you can use any source picture to easily generate Pixelated graphics for games or posters.
+-  [PiskelApp](https://www.piskelapp.com/) Piskel is a free online editor for animated sprites & pixel art
+-  [ProMotion](https://www.cosmigo.com/) pro motion is a pixel drawing and animation software designed similar to the famous Amiga Deluxe Paint (DPaint). Ideal for artists working on detailed and pixel precise graphics as required for mobile games and portable game consoles. It also suites well to create light weight graphics for web games.
+-  [pixenapp](https://pixenapp.com/) Pixen is a professional pixel art editor designed for working with low-resolution raster art, such as those 8-bit sprites found in old-school video games. Pixen packs all the tools pixel artists need in an intuitive, native interface including support for high zoom levels, animation editing, color palettes, and a lot more.
+- [pyxeledit](https://pyxeledit.com/)
+- [aseprite](http://www.aseprite.org/)
+- [GrafX2](http://pulkomandy.tk/projects/GrafX2)
+- [GraphicsGale](https://graphicsgale.com/us/)
+    
 #### GPU-Texture
 - https://github.com/BinomialLLC/basis_universal
 - https://github.com/caosdoar/Fornos
@@ -292,12 +310,13 @@ Table of Contents
 #### Visual-Logic
 - https://machinations.io/ - (游戏设计工具,强烈建议推荐给你们的策划,现在处于公测测试版(免费)) 
 
-#### Voxel-Editor
-- https://github.com/guillaumechereau/goxel
-- https://ephtracy.github.io/
 
 #### Material
 - https://artomatix.com/
+
+#### Tile
+- [Tiled 2D](https://www.mapeditor.org/) free, easy to use and flexible tile map editor
+- [autotilegen](https://pixelatto.com/products/autotilegen)
 
 ## CG
 - [Davinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound 
@@ -643,8 +662,20 @@ Table of Contents
 - https://www.sofa-framework.org/
 - https://github.com/jeffvella/UnityNativeCollision
 
+## Game-BenchMark/Matric/Tool
 
-
+#### Common
+- [perfdog](https://perfdog.qq.com/) 移动全平台性能测试分析专家
+- [upr](https://upr.unity.com/) 一款Unity出的性能分析工具，基于UnityProfiler的基础上制作的UPR，UPR的数据来自与UnityProfiler，会比Profiler有更多细节信息
+- [uwa4d](https://www.uwa4d.com/)
+#### GPU
+- [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
+- [renderdoc](https://renderdoc.org/) 
+- [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
+- [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
+- [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
+- [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
+ 
 
 
 ## ComputerGraphics && Shading
@@ -678,6 +709,10 @@ Table of Contents
 - [Zagara](https://github.com/justalittlefat/Zagara) A tiny softrendering engine based on unity3d. 
  
 #### Collection
+- [Graphics Programming weekly](https://jendrikillner.bitbucket.io/#posts)
+- https://www.interactiveshaderformat.com/popular 
+- http://glslsandbox.com/
+- https://www.shadertoy.com/browse
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
 - https://github.com/mattdesl/graphics-resources
@@ -688,140 +723,33 @@ Table of Contents
 - https://github.com/ericjang/awesome-graphics
 - https://github.com/IndieVisualLab/UnityGraphicsProgramming
 - https://github.com/jslee02/awesome-graphics-libraries
-  
-#### Shading-Language
-- [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
-- [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
- 
-#### Course/Article
-- [Unity图形渲染——基础渲染系列教程20篇](https://zhuanlan.zhihu.com/p/137429554)
-- [shader map总结](https://zhuanlan.zhihu.com/p/75497647) 
-- [LOL渲染技巧](https://technology.riotgames.com/tags/performance)
-- [ComputeShader手机兼容性报告](https://zhuanlan.zhihu.com/p/68886986)
-- [Unity3D shader优化技巧集合](http://www.xionggf.com/post/unity3d/shader/u3d_shader_optimization/) 
-- [Unity3D的渲染路径的细节一览表](http://www.xionggf.com/post/unity3d/u3d_render_path_detail/)
-- [深度探索Skinned Mesh【翻译】](http://www.xionggf.com/post/d3d/skinned_mesh_with_d3d9/)
-- [理解高动态范围光](http://www.xionggf.com/post/cg/inside_hdr/)
-#### OpenGL
-- [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
-- https://github.com/eug/awesome-opengl
-- https://learnopengl-cn.readthedocs.io/zh/latest/
-- http://www.opengl-tutorial.org
-#### Debug/Test
-- [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
-- [renderdoc](https://renderdoc.org/)
-- [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
-- [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
-- [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
-- [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
-#### PlayGround
-- https://shadered.org/
- 
-#### GPU-Architecture
-- [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
-- [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
-- https://www.jianshu.com/p/87cf95b1faa0
-- https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view
-- [AMD Vega Architecture](https://en.wikichip.org/w/images/a/a1/vega-whitepaper.pdf)
-- [Nvidia Turning Architecture](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf)
-- [Nvidia Pascal Architecture](https://images.nvidia.com/content/pdf/tesla/whitepaper/pascal-architecture-whitepaper.pdf)
-- [PowerVR](http://cdn.imgtec.com/sdk-documentation/PowerVR.Performance+Recommendations.pdf)
-- [移动设备GPU架构知识汇总](https://zhuanlan.zhihu.com/p/112120206)
-
-- [移动处理器CPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
-- [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
-- 微信公众号：GPUer
-- [GPU/CPU性能天梯图](https://mubu.com/doc/explore/17532)
-
-#### Optimize
-- [针对移动端TBDR架构GPU特性的渲染优化](https://gameinstitute.qq.com/community/detail/123220)
-- [Performance Tunning for Tile-Based Architecture/Tile-Based架构下的性能调校](https://www.cnblogs.com/gameknife/p/3515714.html)
-- [后处理效率问题和Tile-Based GPU](https://zhuanlan.zhihu.com/p/135285010)
-  
-#### Physically-Based-Render
-- https://github.com/Josh015/Alloy
-
-##### NPR
-- [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
-- [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
-- [【NPR】卡通渲染](https://blog.csdn.net/candycat1992/article/details/50167285)及其对应的github库[NPR_Lab](https://github.com/candycat1992/NPR_Lab)
-- [UnityChanToonShaderVer2](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) toon shader的解决方案
-- [UnityChanToonShaderVer2-Detail](https://zhuanlan.zhihu.com/p/104998415)
-- [Unity NPR之日式卡通渲染](https://zhuanlan.zhihu.com/p/129291888)
-- [卡通渲染及其相关技术总结](https://blog.uwa4d.com/archives/usparkle_cartoonshading.html)
-- [各向异性头发效果](https://www.jianshu.com/p/7dc980ea4c51)
-- Unity-plugin:[Toony Colors Pro 2](https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105)
-- Unity-plugin:[Flat Kit: Cel / Toon Shading](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368)
-- [【翻译】西川善司「实验做出的游戏图形」「GUILTY GEAR Xrd -SIGN-」中实现的「纯卡通动画的实时3D图形」的秘密](https://www.cnblogs.com/TracePlus/p/4205798.html)
-- [UnityURPToonLitShader](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
-
-#### Unity-Shader
-##### ShaderVariant
-* [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
-##### Shader-GUI
-* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
- 
-##### Decal
- * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
-* [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
-* [Paint in 3D](https://assetstore.unity.com/packages/tools/painting/paint-in-3d-26286)
-* [Easy Decal](https://assetstore.unity.com/packages/tools/utilities/easy-decal-22867)
-* [Decal Master: Advanced Deferred Decals](https://assetstore.unity.com/packages/tools/utilities/decal-master-advanced-deferred-decals-145432)
- 
-##### Comon-Collection
-- https://github.com/ellioman/ShaderProject
-
-##### FrameWork
-- https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
-
-##### UI
-- https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
-- https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
-* [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
-* [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
-##### Mesh
-* [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
-##### Post-Process
-- https://github.com/keijiro/KinoBloom 牛逼的bloom
-
-##### Water
-- https://github.com/Verasl/BoatAttack water
-
-#### Blog
-- http://walkingfat.com/
-- https://www.cnblogs.com/TracePlus/default.html?page=2
-- http://www.codinglabs.net/article_floating_point_numbers.aspx
-- http://www.lsngo.net/
-- http://www.alinenormoyle.com
-- http://www.iquilezles.org/www/index.htm
-- https://simonschreibt.de/
-- http://aras-p.info/blog/
-- https://blog.csdn.net/tjw02241035621611
-- https://github.com/ellisonleao/magictools
-- https://www.shadertoy.com/browse
-- http://geekfaner.com/unity/index.html
-- https://shenjun4shader.github.io/shaderhtml/
-- https://catlikecoding.com/
-- http://glslsandbox.com/
-- https://github.com/nidorx/matcaps#matcaps
-- https://www.interactiveshaderformat.com/popular
-- https://thebookofshaders.com/?lan=ch
-- https://zhuanlan.zhihu.com/p/84550677
 - https://github.com/FancyVin/fun-with-graphics
-- https://jendrikillner.bitbucket.io/#posts 
-- https://software.intel.com/en-us/gamedev (来自于inter 有优化,图形等等,游戏相关的内容,可搜索)
-- https://github.com/lygyue/Books  （来自味精的图形学入门书籍）
+ 
+#### Blog-China
+- [行尸走肉的笔记](http://walkingfat.com/)
+- [TraceYang的空间 关注跨平台次世代游戏开发](https://www.cnblogs.com/TracePlus/default.html?page=2)
+- [JiepengTan](https://blog.csdn.net/tjw02241035621611)
+- [geekfaner](http://geekfaner.com/unity/index.html) 
+
+ 
+#### Blog-Foreigner
+- [pydonzallaz](https://pydonzallaz.com/)  working at Unity Technologies on Unity.
+- [aras-p.info](http://aras-p.info/blog/) working at Unity Technologies on Unity.
+- [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
+- [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
+- https://simonschreibt.de/
+- [catlikecoding](https://catlikecoding.com/) nothing to comment
 - http://www.ludicon.com/castano/blog/
 - http://blog.hvidtfeldts.net/
-- http://www.realtimerendering.com/blog/
+- [realtimerendering](http://www.realtimerendering.com/blog/) This is the blog for the book “Real-Time Rendering“
+
+ 
 - https://colinbarrebrisebois.com/
 - http://www.adriancourreges.com/blog/
 - https://prideout.net/blog/
 - http://filmicworlds.com/
 - http://www.thetenthplanet.de/
 - https://www.jordanstevenstechart.com/
-
-#### Forked-Collection ：https://gforcex.github.io/2018/09/14/engine-blogs.html
 - http://www.iryoku.com/
  - http://kode80.com/blog/
  - http://www.iquilezles.org/
@@ -938,10 +866,116 @@ Table of Contents
 - https://www.zhihu.com/people/minmin.gong 叛逆者
 - http://www.thegibook.com/blog/ 秦春林
 
+#### Shading-Language
+- [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
+- [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
+ 
+#### Course/Article
+- https://github.com/lygyue/Books  （来自味精的图形学入门书籍）
+- [Unity图形渲染——基础渲染系列教程20篇](https://zhuanlan.zhihu.com/p/137429554)
+- [shader map总结](https://zhuanlan.zhihu.com/p/75497647) 
+- [LOL渲染技巧](https://technology.riotgames.com/tags/performance)
+- [ComputeShader手机兼容性报告](https://zhuanlan.zhihu.com/p/68886986)
+- [Unity3D shader优化技巧集合](http://www.xionggf.com/post/unity3d/shader/u3d_shader_optimization/) 
+- [Unity3D的渲染路径的细节一览表](http://www.xionggf.com/post/unity3d/u3d_render_path_detail/)
+- [深度探索Skinned Mesh【翻译】](http://www.xionggf.com/post/d3d/skinned_mesh_with_d3d9/)
+- [理解高动态范围光](http://www.xionggf.com/post/cg/inside_hdr/)
+- [ShaderLab 开发实战- 沈军](https://shenjun4shader.github.io/shaderhtml/)
+- [The Book of Shaders](https://thebookofshaders.com/?lan=ch)
+- [总结一些TA（技术美术）学习的网站](https://zhuanlan.zhihu.com/p/84550677)  
+#### OpenGL
+- [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
+- https://github.com/eug/awesome-opengl
+- https://learnopengl-cn.readthedocs.io/zh/latest/
+- http://www.opengl-tutorial.org
+
+#### PlayGround
+- https://shadered.org/
+ 
+#### GPU-Architecture
+- [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
+- [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
+- https://www.jianshu.com/p/87cf95b1faa0
+- https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view
+- [AMD Vega Architecture](https://en.wikichip.org/w/images/a/a1/vega-whitepaper.pdf)
+- [Nvidia Turning Architecture](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/technologies/turing-architecture/NVIDIA-Turing-Architecture-Whitepaper.pdf)
+- [Nvidia Pascal Architecture](https://images.nvidia.com/content/pdf/tesla/whitepaper/pascal-architecture-whitepaper.pdf)
+- [PowerVR](http://cdn.imgtec.com/sdk-documentation/PowerVR.Performance+Recommendations.pdf)
+- [移动设备GPU架构知识汇总](https://zhuanlan.zhihu.com/p/112120206)
+
+- [移动处理器CPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
+- [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
+- 微信公众号：GPUer
+- [GPU/CPU性能天梯图](https://mubu.com/doc/explore/17532)
+
+#### Optimize
+- [针对移动端TBDR架构GPU特性的渲染优化](https://gameinstitute.qq.com/community/detail/123220)
+- [Performance Tunning for Tile-Based Architecture/Tile-Based架构下的性能调校](https://www.cnblogs.com/gameknife/p/3515714.html)
+- [后处理效率问题和Tile-Based GPU](https://zhuanlan.zhihu.com/p/135285010)
+- [再议移动平台的AlphaTest效率问题](https://zhuanlan.zhihu.com/p/33127345)
+- [深入剖析GPU Early Z优化](https://zhuanlan.zhihu.com/p/53092784)
+-  https://software.intel.com/en-us/gamedev 
+-  http://developer.download.nvidia.com/GPU_Programming_Guide/GPU_Programming_Guide.pdf
+#### Physically-Based-Render
+- https://github.com/Josh015/Alloy
+
+##### NPR
+- [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
+- [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
+- [【NPR】卡通渲染](https://blog.csdn.net/candycat1992/article/details/50167285)及其对应的github库[NPR_Lab](https://github.com/candycat1992/NPR_Lab)
+- [UnityChanToonShaderVer2](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) toon shader的解决方案
+- [UnityChanToonShaderVer2-Detail](https://zhuanlan.zhihu.com/p/104998415)
+- [Unity NPR之日式卡通渲染](https://zhuanlan.zhihu.com/p/129291888)
+- [卡通渲染及其相关技术总结](https://blog.uwa4d.com/archives/usparkle_cartoonshading.html)
+- [各向异性头发效果](https://www.jianshu.com/p/7dc980ea4c51)
+- Unity-plugin:[Toony Colors Pro 2](https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105)
+- Unity-plugin:[Flat Kit: Cel / Toon Shading](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368)
+- [【翻译】西川善司「实验做出的游戏图形」「GUILTY GEAR Xrd -SIGN-」中实现的「纯卡通动画的实时3D图形」的秘密](https://www.cnblogs.com/TracePlus/p/4205798.html)
+- [UnityURPToonLitShader](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
+
+#### Unity-Shader
+##### ShaderVariant
+* [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
+##### Shader-GUI
+* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
+ 
+##### Decal
+ * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
+* [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
+* [Paint in 3D](https://assetstore.unity.com/packages/tools/painting/paint-in-3d-26286)
+* [Easy Decal](https://assetstore.unity.com/packages/tools/utilities/easy-decal-22867)
+* [Decal Master: Advanced Deferred Decals](https://assetstore.unity.com/packages/tools/utilities/decal-master-advanced-deferred-decals-145432)
+ 
+##### Comon-Collection
+- https://github.com/ellioman/ShaderProject
+
+##### FrameWork
+- https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
+
+##### UI
+- https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
+- https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
+* [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
+* [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
+##### Mesh
+* [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
+##### Post-Process
+- https://github.com/keijiro/KinoBloom 牛逼的bloom
+
+#####  Holographic
+- [Unity切片类全息效果](https://mp.weixin.qq.com/s/vUmuq3Tek4vypJiy7da4Sw)
+
+##### Water
+- https://github.com/Verasl/BoatAttack water
+
+#### MatCaps
+- https://github.com/nidorx/matcaps#matcaps
+
 #### Ray-Tracing
 - https://github.com/daseyb/pathgraph
 
 #### Color
+- [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhihu.com/p/23905865)
 - [色彩空间基础](https://zhuanlan.zhihu.com/p/24214731)
 - [漫谈HDR和色彩管理](https://zhuanlan.zhihu.com/p/129095380)
 - [色彩原理](https://docs.krita.org/zh_CN/general_concepts/colors.html)
@@ -1335,16 +1369,17 @@ Table of Contents
 - [metabase](https://github.com/metabase/metabase)
 - [rawgraphs](https://rawgraphs.io/) The missing link between spreadsheets and data visualization
 
-## 知识库软件
-- 印象笔记 https://www.yinxiang.com/
-- 有道云 http://note.youdao.com/
-- pocket https://app.getpocket.com/
-- mybase http://www.wjjsoft.com/chs
-- 蚁阅 https://rss.anyant.com
-- 语雀 https://www.yuque.com/dashboard
-- notion https://www.notion.so/
-- diigo https://www.diigo.com/index
-- 微软 onenote https://www.onenote.com
+## 知识库软件/笔记软件
+- [印象笔记](https://www.yinxiang.com/)
+- [有道云笔记](http://note.youdao.com/)
+- [pocket](https://app.getpocket.com/)
+- [mybase](http://www.wjjsoft.com/chs)
+- [蚁阅](https://rss.anyant.com)
+- [语雀](https://www.yuque.com/dashboard)
+- [notion] (https://www.notion.so/)
+- [diigo] (https://www.diigo.com/index)
+- [微软 onenote] (https://www.onenote.com)
+- [obsidian](https://obsidian.md/)
 
 ## Tool
 - https://www.toolnb.com  toolnb 

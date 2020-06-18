@@ -1,0 +1,110 @@
+<mxfile host="" modified="2020-06-12T06:01:39.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="WKUer_3t36FFWBFYWkHW" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="1369" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" value="you" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="-20" width="480" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="9">
+                    <mxGeometry y="20" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="&lt;font style=&quot;font-size: 15px&quot;&gt;资源消费者&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="10">
+                    <mxGeometry x="130" y="30" width="229" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="9">
+                    <mxGeometry y="140" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="&lt;span&gt;IResourceLinkerOwer统一访问接口&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry x="36" y="10" width="410" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="&lt;font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Textrue Cache&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry x="36" y="40" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="&lt;font style=&quot;font-size: 10px&quot;&gt;UIReourceManager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry x="230" y="40" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;font style=&quot;font-size: 10px&quot;&gt;GameObjectCache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry x="130" y="40" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;font style=&quot;font-size: 10px&quot;&gt;ParticleManager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry x="340" y="40" width="106" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="reference count Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="11">
+                    <mxGeometry x="36" y="90" width="410" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="9">
+                    <mxGeometry y="260" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="优先级加载队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+                    <mxGeometry x="100" y="10" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="LRU(死亡队列)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+                    <mxGeometry x="100" y="45" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Unload(true)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+                    <mxGeometry x="100" y="80" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="ResourcePipeLine" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="-20" width="480" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="应用层" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="13">
+                    <mxGeometry y="20" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Cache" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="13">
+                    <mxGeometry y="140" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="ResourceManager&lt;br&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="13">
+                    <mxGeometry y="260" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="虚拟文件系统&lt;br&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="360" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="文件读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="17">
+                    <mxGeometry x="260" y="40" width="160" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="自动更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="17">
+                    <mxGeometry x="50" y="40" width="160" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="111" target="115">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1180" y="40"/>
+                            <mxPoint x="1180" y="95"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="111" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;span&gt;IResourceLinkerOwer&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ List&amp;lt;&lt;span style=&quot;text-align: center&quot;&gt;IResourceLinker&lt;/span&gt;&amp;gt;&amp;nbsp; &amp;nbsp;GetLinkers();&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ void&amp;nbsp; &amp;nbsp;RemoveLinkers();&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ void&amp;nbsp; &amp;nbsp;AddLinkers(List&amp;lt;IResourceLinker&amp;gt;);&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ bool&amp;nbsp; &amp;nbsp;Exist(string resourceKey);&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="-20" width="380" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;IResourceLinker&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ String Key{ get;set;}&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Object Resource {get;set;}&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;IResourceLinkerOwer GetOwer()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;IResourceLinkerprovider GetProvider()&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1200" y="-30" width="300" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="118" target="115">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1180" y="180"/>
+                            <mxPoint x="1180" y="95"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="118" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;IResourceLinkerProvider&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ List&amp;lt;IReourceLinker&amp;gt; GetResource(&lt;span style=&quot;text-align: center&quot;&gt;IResourceLinkerOwer,&lt;/span&gt;&lt;span&gt;List&amp;lt;key&amp;gt; )&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ void ReleaseResource(&lt;/p&gt;&lt;span style=&quot;text-align: center&quot;&gt;IResourceLinkerOwer&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="125" width="400" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;" edge="1" parent="1" source="58" target="118">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;" edge="1" parent="1" source="122">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="690.0000000000002" y="60.71428571428578" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="650" y="61"/>
+                            <mxPoint x="650" y="61"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
