@@ -921,6 +921,7 @@ Table of Contents
 -  http://developer.download.nvidia.com/GPU_Programming_Guide/GPU_Programming_Guide.pdf
 #### Physically-Based-Render
 - https://github.com/Josh015/Alloy
+- [【基于物理渲染】业界主流GGX](https://zhuanlan.zhihu.com/p/32985996)
 
 ##### NPR
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
@@ -935,7 +936,8 @@ Table of Contents
 - Unity-plugin:[Flat Kit: Cel / Toon Shading](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368)
 - [【翻译】西川善司「实验做出的游戏图形」「GUILTY GEAR Xrd -SIGN-」中实现的「纯卡通动画的实时3D图形」的秘密](https://www.cnblogs.com/TracePlus/p/4205798.html)
 - [UnityURPToonLitShader](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
-
+- [到目前为止的二次元渲染总结](https://zhuanlan.zhihu.com/p/126668414)
+- [Unity中二次元渲染算法总汇](https://zhuanlan.zhihu.com/p/69260586)
 #### Unity-Shader
 ##### ShaderVariant
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
@@ -943,7 +945,7 @@ Table of Contents
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
  
 ##### Decal
- * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
+* [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
 * [Paint in 3D](https://assetstore.unity.com/packages/tools/painting/paint-in-3d-26286)
 * [Easy Decal](https://assetstore.unity.com/packages/tools/utilities/easy-decal-22867)
@@ -1025,7 +1027,7 @@ Table of Contents
 - https://leetcode.wang/
 - https://github.com/Xunzhuo/OI_Sharing
 - https://github.com/TheAlgorithms/Java
-
+- https://github.com/greyireland/algorithm-pattern 
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
