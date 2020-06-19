@@ -713,6 +713,7 @@ Table of Contents
 - [Zagara](https://github.com/justalittlefat/Zagara) A tiny softrendering engine based on unity3d. 
  
 #### Collection
+- http://www.shaderslab.com/shaders.html
 - [Graphics Programming weekly](https://jendrikillner.bitbucket.io/#posts)
 - https://www.interactiveshaderformat.com/popular 
 - http://glslsandbox.com/
@@ -1028,7 +1029,10 @@ Table of Contents
 - https://leetcode.wang/
 - https://github.com/Xunzhuo/OI_Sharing
 - https://github.com/TheAlgorithms/Java
-- https://github.com/greyireland/algorithm-pattern 
+- https://github.com/greyireland/algorithm-pattern
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+- https://visualgo.net/zh
+- https://algorithm-visualizer.org/
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -1043,6 +1047,7 @@ Table of Contents
 - [Linux内存 -2](https://mp.weixin.qq.com/s/EvU7pV51ctPooREQt_8SaQ)
    
 #### IO
+- [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
 - [IO 模型知多少](https://www.cnblogs.com/sheng-jie/p/how-much-you-know-about-io-models.html) 
 - [IO复用模型同步，异步，阻塞，非阻塞及实例详解](https://www.jianshu.com/p/511b9cffbdac)
 - [服务器端网络编程之 IO 模型](https://www.cnblogs.com/zhuwbox/p/10163973.html)
