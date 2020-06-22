@@ -146,6 +146,7 @@ Table of Contents
     - [DataVisual&&Editor](#datavisualeditor)
 - [知识库软件/笔记软件](#知识库软件笔记软件)
 - [Tool](#tool)
+- [Xcode](#xcode)
     - [Programmer-Common-Tool](#programmer-common-tool)
 - [workflow](#workflow)
 - [问答](#问答)
@@ -162,6 +163,7 @@ Table of Contents
 - https://github.com/toutiaoio/weekly.manong.io
 - https://geeker-read.com/#/latest
 - https://coolshell.cn/
+- https://insights.thoughtworks.cn/
 
 #### Js/Web
 - https://github.com/dt-fe/weekly 
@@ -359,6 +361,7 @@ Table of Contents
 - https://github.com/libgit2/libgit2sharp  -- git的 c# 实现
 
 #### article
+- [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
 - [规范化git commit信息](https://blog.dteam.top/posts/2019-04/%E8%A7%84%E8%8C%83%E5%8C%96git-commit%E4%BF%A1%E6%81%AF.html)
 
 ## Game-Server-framework
@@ -1401,6 +1404,8 @@ Table of Contents
 - https://www.toolnb.com  toolnb 
 - https://github.com/zhaoolee/OnlineToolsBook
 
+## Xcode
+- [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/)
 #### Programmer-Common-Tool
 - https://github.com/nusr/hacker-laws-zh       程序员应该知道的原则
 - http://binaryconvert.com 专门做二进制转换的网站
