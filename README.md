@@ -192,7 +192,7 @@ Table of Contents
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts 
 - https://github.com/jobbole
 - https://github.com/stanzhai/be-a-professional-programmer
-
+- https://www.prettyawesomelists.com
 
 ## Awesome-Game
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
@@ -430,7 +430,7 @@ Table of Contents
 - [如果面试再问GET和POST区别，就把这篇甩给他](https://mp.weixin.qq.com/s/BraxnIUJF4JGtIep0YiovA)
 - [计网 TCP/UDP 部分高频面试题大集合](https://mp.weixin.qq.com/s/SZ8XcOzZCVJG_P1_O4OtWQ)
 - [面试官：换人！他连 TCP 这几个参数都不懂 ](https://mp.weixin.qq.com/s/fjnChU3MKNc_x-Wk7evLhg)
-
+- [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
 #### C#
 - https://github.com/MidLevel/MLAPI
 - https://github.com/MidLevel/Ruffles UDP
@@ -1408,16 +1408,19 @@ Table of Contents
 - [obsidian](https://obsidian.md/)
 
 ## Tool
-- https://www.toolnb.com  toolnb 
-- https://github.com/zhaoolee/OnlineToolsBook
+
 
 ## Xcode
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/)
+-  
 #### Programmer-Common-Tool
-- https://github.com/nusr/hacker-laws-zh       程序员应该知道的原则
+- https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
 - http://binaryconvert.com 专门做二进制转换的网站
-- www.box3.cn 开发者工具箱
-- [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
+- [box3](www.box3.cn) 开发者工具箱
+- https://ihateregex.io/expr 正则表达式
+- https://www.toolnb.com  toolnb 
+- https://github.com/zhaoolee/OnlineToolsBook 集锦
+
  
 
 ## workflow
