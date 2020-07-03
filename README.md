@@ -975,10 +975,11 @@ Table of Contents
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 
 ##### UI
-- https://github.com/AdultLink/RadialProgressBar  牛逼的雷达进度条
-- https://github.com/mob-sakai/ParticleEffectForUGUI 最好的ui 特效组件
-* [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
-* [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
+- [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
+- [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
+- [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
+- [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
+- [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results
 ##### Mesh
 * [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
 ##### Post-Process
@@ -1080,6 +1081,9 @@ Table of Contents
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
+- https://github.com/LunaMultiplayer/CachedQuickLz Allows you to compress and decompress with QuickLz while keeping low the GC pressure
+- [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
+- [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
 
 #### String
 - https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
