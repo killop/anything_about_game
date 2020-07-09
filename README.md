@@ -139,6 +139,7 @@ Table of Contents
     - [Mesh](#mesh-1)
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
+        - [Article](#article-5)
     - [Message Bus](#message-bus)
     - [Audio](#audio-1)
     - [Movement](#movement)
@@ -325,6 +326,7 @@ Table of Contents
 - [autotilegen](https://pixelatto.com/products/autotilegen)
 
 ## CG
+- [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 - [Davinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound 
 ## 3D-File-Format
 - [Alembic](http://www.alembic.io/)
@@ -939,7 +941,7 @@ Table of Contents
 - [【NPR】卡通渲染](https://blog.csdn.net/candycat1992/article/details/50167285)及其对应的github库[NPR_Lab](https://github.com/candycat1992/NPR_Lab)
 - [UnityChanToonShaderVer2](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) toon shader的解决方案
 - [UnityChanToonShaderVer2-Detail](https://zhuanlan.zhihu.com/p/104998415)
-- [Unity NPR之日式卡通渲染](https://zhuanlan.zhihu.com/p/129291888)
+- [Unity NPR之日式卡通渲染（基础篇）](https://zhuanlan.zhihu.com/p/129291888)
 - [卡通渲染及其相关技术总结](https://blog.uwa4d.com/archives/usparkle_cartoonshading.html)
 - [各向异性头发效果](https://www.jianshu.com/p/7dc980ea4c51)
 - Unity-plugin:[Toony Colors Pro 2](https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105)
@@ -1234,7 +1236,7 @@ Table of Contents
 - https://www.gabrielgambetta.com/
 - [钱康来](http://qiankanglai.me/)
 - [chenanbao](https://chenanbao.github.io/)
-
+- [whoimi-梁哲](https://liangz0707.github.io/whoimi/)
 #### Framework
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
@@ -1246,6 +1248,7 @@ Table of Contents
 - https://github.com/CatLib/CatLib
 - https://github.com/OnClick9927/IFramework
 - https://github.com/jarjin/FinalFramework
+- https://github.com/Tencent/InjectFix
 
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
@@ -1366,6 +1369,9 @@ Table of Contents
 - [shader control](https://assetstore.unity.com/packages/vfx/shaders/shader-control-74817) 
 - [Asset Hunter PRO](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)
 - [A+ Assets Explorer](https://assetstore.unity.com/packages/tools/utilities/a-assets-explorer-57335)
+  ###### Article
+- [程序丨入门必看：Unity资源加载及管理 ](https://mp.weixin.qq.com/s/0XFQt8LmqoTxxst_kKDMjw)
+- [Unity引擎资源管理模块知识Tree](https://blog.uwa4d.com/archives/UWA_ResourceTree.html)
 #### Message Bus  
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
 - [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) - A generic Event-Bus
