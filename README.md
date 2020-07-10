@@ -80,6 +80,7 @@ Table of Contents
     - [Occlusion Culling](#occlusion-culling)
     - [Unity-Shader](#unity-shader)
       - [Article](#article-3)
+      - [HDR](#hdr)
       - [ShaderVariant](#shadervariant)
       - [Shader-GUI](#shader-gui)
       - [Decal](#decal)
@@ -958,6 +959,9 @@ Table of Contents
 #### Unity-Shader
 ##### Article
 - [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/Wei_Yuan_2012/article/details/88677172?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
+- [网易技术美术总监：深度解析次世代手游的贴图与着色技巧 [UNITE SHANGHAI 2017.]](https://connect.unity.com/p/wang-yi-ji-zhu-mei-zhu-zong-jian-shen-du-jie-xi-ci-shi-dai-shou-you-de-tie-tu-yu-zhao-se-ji-qiao-unite-shanghai-2017)
+##### HDR
+- [HDRP高清渲染管线-学习资料汇总](https://connect.unity.com/p/hdrpgao-qing-xuan-ran-guan-xian-xue-xi-zi-liao-hui-zong)
 ##### ShaderVariant
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 ##### Shader-GUI
