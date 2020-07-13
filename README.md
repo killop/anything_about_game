@@ -83,6 +83,7 @@ Table of Contents
       - [HDR](#hdr)
       - [ShaderVariant](#shadervariant)
       - [Shader-GUI](#shader-gui)
+      - [SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue](#sortingorderorderinlayerztestzwriterenderqueue)
       - [Decal](#decal)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
@@ -966,7 +967,11 @@ Table of Contents
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
- 
+##### SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue
+- [一口气解决RenderQueue、Ztest、Zwrite、AlphaTest、AlphaBlend和Stencil](https://zhuanlan.zhihu.com/p/28557283)
+- [Unity中影响渲染顺序的因素总结](https://zhuanlan.zhihu.com/p/55762351)
+- [[2017.8]半透明的绘制顺序与接收阴影问题](https://zhuanlan.zhihu.com/p/113399133)
+- [unity 半透明渲染技巧合集](https://zhuanlan.zhihu.com/p/123023614)
 ##### Decal
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
