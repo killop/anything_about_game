@@ -1372,13 +1372,14 @@ Table of Contents
 * [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
-*  [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
+* [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
 - [UnityComponent](https://github.com/GameBuildingBlocks/UnityComponent)
 - [Maintainer](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
 - [find reference2](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
 - [shader control](https://assetstore.unity.com/packages/vfx/shaders/shader-control-74817) 
 - [Asset Hunter PRO](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)
 - [A+ Assets Explorer](https://assetstore.unity.com/packages/tools/utilities/a-assets-explorer-57335)
+- [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
   ###### Article
 - [程序丨入门必看：Unity资源加载及管理 ](https://mp.weixin.qq.com/s/0XFQt8LmqoTxxst_kKDMjw)
 - [Unity引擎资源管理模块知识Tree](https://blog.uwa4d.com/archives/UWA_ResourceTree.html)
