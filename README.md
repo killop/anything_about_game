@@ -196,6 +196,7 @@ Table of Contents
 - https://github.com/jobbole
 - https://github.com/stanzhai/be-a-professional-programmer
 - https://www.prettyawesomelists.com
+- https://opensource.builders/
 
 ## Awesome-Game
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
@@ -950,6 +951,7 @@ Table of Contents
 - Unity-plugin:[Flat Kit: Cel / Toon Shading](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-cel-toon-shading-143368)
 - [【翻译】西川善司「实验做出的游戏图形」「GUILTY GEAR Xrd -SIGN-」中实现的「纯卡通动画的实时3D图形」的秘密](https://www.cnblogs.com/TracePlus/p/4205798.html)
 - [UnityURPToonLitShader](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
+- [这是一个Unity HDRP 卡通渲染管线，我会将学习到的NPR技术不断完善到这个管线中](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline)
 - [到目前为止的二次元渲染总结](https://zhuanlan.zhihu.com/p/126668414)
 - [Unity中二次元渲染算法总汇](https://zhuanlan.zhihu.com/p/69260586)
 
