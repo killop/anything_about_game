@@ -795,6 +795,7 @@ Table of Contents
 - [木木猫](http://www.idivecat.com/)
 - [CrowFea 晨风](https://crowfeablog.com/)
 #### Blog-Foreigner
+- https://thegamedev.guru
 - [pydonzallaz](https://pydonzallaz.com/)  working at Unity Technologies on Unity.
 - [aras-p.info](http://aras-p.info/blog/) working at Unity Technologies on Unity.
 - [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
@@ -1467,6 +1468,7 @@ Table of Contents
 - [box3](www.box3.cn) 开发者工具箱
 - https://ihateregex.io/expr 正则表达式
 - https://www.toolnb.com  toolnb 
+- https://jianwai.youdao.com/
 - https://github.com/zhaoolee/OnlineToolsBook 集锦
 
  
