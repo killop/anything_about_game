@@ -89,6 +89,7 @@ Table of Contents
       - [SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue](#sortingorderorderinlayerztestzwriterenderqueue)
       - [Decal](#decal)
       - [Face](#face)
+      - [Water](#water)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
       - [UI](#ui)
@@ -96,7 +97,7 @@ Table of Contents
       - [Post-Process](#post-process)
       - [Fur](#fur)
       - [Holographic](#holographic)
-      - [Water](#water)
+      - [Water](#water-1)
     - [MatCaps](#matcaps)
     - [Ray-Tracing](#ray-tracing)
     - [Color](#color)
@@ -407,6 +408,8 @@ Table of Contents
 
 #### Article
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
+- [细谈网络同步在游戏历史中的发展变化 (上)](https://zhuanlan.zhihu.com/p/130702310)
+- [细谈网络同步在游戏历史中的发展变化 (中)](https://zhuanlan.zhihu.com/p/164686867)
 #### Lockstep
 - http://netcoding4d.com/
 - https://github.com/JiepengTan/LockstepECS 
@@ -1030,6 +1033,8 @@ Table of Contents
 * [Decal Master: Advanced Deferred Decals](https://assetstore.unity.com/packages/tools/utilities/decal-master-advanced-deferred-decals-145432)
  ##### Face
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
+##### Water
+- [Unity中实现瓶中液体晃动的效果(从建模开始)](https://zhuanlan.zhihu.com/p/159913409)
 ##### Comon-Collection
 - https://github.com/ellioman/ShaderProject
 - https://github.com/CrowFea/ShaderToy
@@ -1410,6 +1415,8 @@ Table of Contents
   ###### Article
 - [程序丨入门必看：Unity资源加载及管理 ](https://mp.weixin.qq.com/s/0XFQt8LmqoTxxst_kKDMjw)
 - [Unity引擎资源管理模块知识Tree](https://blog.uwa4d.com/archives/UWA_ResourceTree.html)
+- [Unity3D内存释放](https://blog.csdn.net/andyhebear/article/details/50977295)
+ 
 #### Message Bus  
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
 - [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) - A generic Event-Bus
