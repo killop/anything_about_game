@@ -245,6 +245,7 @@ Table of Contents
 *  [VoxelShop](https://blackflux.com/index.php)
 
 #### Animation
+- [Cascadeur](https://cascadeur.com/)
 - [spine](http://zh.esotericsoftware.com/)
 - [live3d](http://www.zingfront.cn/live3d/)
 - [live2d](https://www.live2d.com/)
