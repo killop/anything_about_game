@@ -1082,6 +1082,7 @@ Table of Contents
 - [color science](https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/indexe.html)
 - [色彩基础知识](https://www.zcool.com.cn/search/content?&word=%E8%89%B2%E5%BD%A9%E7%9F%A5%E8%AF%86)
 - 微信公众号： 领略色彩之雅
+- [colorizer](http://colorizer.org/)
 
 #### WebSite/Blog
 - [tech-artists](https://tech-artists.org/)
