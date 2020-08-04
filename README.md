@@ -128,7 +128,7 @@ Table of Contents
     - [Awesome-Unity](#awesome-unity)
     - [Framework](#framework-1)
     - [Moba](#moba)
-    - [SkillEditor](#skilleditor)
+    - [Skill](#skill)
     - [Animation](#animation-1)
     - [Database](#database)
     - [Asyn-Await](#asyn-await)
@@ -1079,6 +1079,8 @@ Table of Contents
 - [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
 - [color vision](https://www.handprint.com/LS/CVS/color.html)
 - [color science](https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/indexe.html)
+- [色彩基础知识](https://www.zcool.com.cn/search/content?&word=%E8%89%B2%E5%BD%A9%E7%9F%A5%E8%AF%86)
+- 微信公众号： 领略色彩之雅
 
 #### WebSite/Blog
 - [tech-artists](https://tech-artists.org/)
@@ -1286,12 +1288,13 @@ Table of Contents
 - https://github.com/OnClick9927/IFramework
 - https://github.com/jarjin/FinalFramework
 - https://github.com/Tencent/InjectFix
+- [OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
 
 #### Moba
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
-#### SkillEditor
+#### Skill
 - https://github.com/huailiang/seqence 剧情-技能编辑器
-
+- https://github.com/Elfansoer/dota-2-lua-abilities
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/huailiang/knead_proj unity  捏脸
@@ -1450,6 +1453,7 @@ Table of Contents
 - [Redash](https://github.com/getredash/redash)
 - [metabase](https://github.com/metabase/metabase)
 - [rawgraphs](https://rawgraphs.io/) The missing link between spreadsheets and data visualization
+- https://datavizcatalogue.com/ZH/
 
 ## 知识库软件/笔记软件
 - [印象笔记](https://www.yinxiang.com/)
