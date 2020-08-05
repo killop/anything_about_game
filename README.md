@@ -32,6 +32,7 @@ Table of Contents
     - [Visual-Logic](#visual-logic)
     - [Material](#material-1)
     - [Tile](#tile)
+    - [Design](#design)
 - [CG](#cg)
 - [3D-File-Format](#3d-file-format)
 - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
@@ -349,9 +350,17 @@ Table of Contents
 - [Tiled 2D](https://www.mapeditor.org/) free, easy to use and flexible tile map editor
 - [autotilegen](https://pixelatto.com/products/autotilegen)
 
+#### Design
+- https://www.zcool.com.cn
+- https://www.gtn9.com/index.aspx
+- https://www.behance.net/
+- https://dribbble.com/
+- https://www.pinterest.com/
+ 
 ## CG
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 - [Davinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound 
+  
 ## 3D-File-Format
 - [Alembic](http://www.alembic.io/)
 - [BLEND](https://en.wikipedia.org/wiki/.blend_(file_format))
