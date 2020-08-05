@@ -19,9 +19,11 @@ Table of Contents
     - [Modeling](#modeling)
       - [Sculpture](#sculpture)
       - [Cloth](#cloth)
+      - [Hair](#hair)
       - [Human](#human)
     - [Effect](#effect)
     - [Material](#material)
+    - [Remesh](#remesh)
     - [Terrain](#terrain)
     - [List-of-game-middleware](#list-of-game-middleware)
     - [Texture](#texture)
@@ -286,6 +288,9 @@ Table of Contents
 - [mudbox](http://www.autodesk.com/products/mudbox/overview)
 ##### Cloth
 - [3dcoat](https://3dcoat.com/v4937/)
+##### Hair
+- [hairstudio](https://assetstore.unity.com/packages/tools/modeling/hairstudio-early-access-164661) 
+- [ephere](https://ephere.com/)
 ##### Human
 - [poser](https://www.posersoftware.com/) 
 - [daz3d](https://www.daz3d.com/home)
@@ -298,7 +303,8 @@ Table of Contents
 #### Material
 - https://github.com/Metric/Materia  substance designer的 c#实现
 - https://rodzilla.itch.io/material-maker material-maker
-
+#### Remesh
+- https://github.com/huxingyi/autoremesher
 #### Terrain
 - http://www.world-machine.com/
 - https://www.world-creator.com/
