@@ -33,6 +33,7 @@ Table of Contents
     - [Material](#material-1)
     - [Tile](#tile)
     - [Design](#design)
+    - [locale](#locale)
 - [CG](#cg)
 - [3D-File-Format](#3d-file-format)
 - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
@@ -356,6 +357,9 @@ Table of Contents
 - https://www.behance.net/
 - https://dribbble.com/
 - https://www.pinterest.com/
+ 
+#### locale
+- https://weblate.org/zh-hans/
  
 ## CG
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
@@ -1034,6 +1038,7 @@ Table of Contents
 - [HDRP高清渲染管线-学习资料汇总](https://connect.unity.com/p/hdrpgao-qing-xuan-ran-guan-xian-xue-xi-zi-liao-hui-zong)
 ##### ShaderVariant
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
+* https://github.com/networm/ShaderVariantCollectionExporter
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
 ##### SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue
@@ -1053,6 +1058,7 @@ Table of Contents
 - [Unity中实现瓶中液体晃动的效果(从建模开始)](https://zhuanlan.zhihu.com/p/159913409)
 ##### Comon-Collection
 - https://github.com/ellioman/ShaderProject
+- https://github.com/adrian-miasik/unity-shaders
 - https://github.com/CrowFea/ShaderToy
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
