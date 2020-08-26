@@ -87,7 +87,6 @@ Table of Contents
     - [Occlusion Culling](#occlusion-culling)
     - [Unity-Shader](#unity-shader)
       - [Article](#article-3)
-      - [HDR](#hdr)
       - [ShaderVariant](#shadervariant)
       - [Shader-GUI](#shader-gui)
       - [SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue](#sortingorderorderinlayerztestzwriterenderqueue)
@@ -96,6 +95,7 @@ Table of Contents
       - [Water](#water)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
+      - [URP/SPR/HDRP Course](#urpsprhdrp-course)
       - [UI](#ui)
       - [Mesh](#mesh)
       - [Post-Process](#post-process)
@@ -1035,8 +1035,7 @@ Table of Contents
 ##### Article
 - [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/Wei_Yuan_2012/article/details/88677172?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
 - [网易技术美术总监：深度解析次世代手游的贴图与着色技巧 [UNITE SHANGHAI 2017qq.]](https://connect.unity.com/p/wang-yi-ji-zhu-mei-zhu-zong-jian-shen-du-jie-xi-ci-shi-dai-shou-you-de-tie-tu-yu-zhao-se-ji-qiao-unite-shanghai-2017)
-##### HDR
-- [HDRP高清渲染管线-学习资料汇总](https://connect.unity.com/p/hdrpgao-qing-xuan-ran-guan-xian-xue-xi-zi-liao-hui-zong)
+
 ##### ShaderVariant
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 * https://github.com/networm/ShaderVariantCollectionExporter
@@ -1064,7 +1063,12 @@ Table of Contents
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
-
+ 
+##### URP/SPR/HDRP Course
+- [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
+- [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
+- [[Universal RP]Unity通用渲染管线学习](https://zhuanlan.zhihu.com/p/84908168)
+- [HDRP高清渲染管线-学习资料汇总](https://connect.unity.com/p/hdrpgao-qing-xuan-ran-guan-xian-xue-xi-zi-liao-hui-zong)
 ##### UI
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
@@ -1444,6 +1448,7 @@ Table of Contents
 - [Asset Hunter PRO](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)
 - [A+ Assets Explorer](https://assetstore.unity.com/packages/tools/utilities/a-assets-explorer-57335)
 - [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
+- [AssetBundle加密-fair-guard](https://www.fair-guard.com)
   ###### Article
 - [程序丨入门必看：Unity资源加载及管理 ](https://mp.weixin.qq.com/s/0XFQt8LmqoTxxst_kKDMjw)
 - [Unity引擎资源管理模块知识Tree](https://blog.uwa4d.com/archives/UWA_ResourceTree.html)
