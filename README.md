@@ -1178,6 +1178,7 @@ Table of Contents
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
+- https://github.com/NewbieGameCoder/IllegalWordsDetection 敏感词过滤
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - https://surparallel.org unity 多线程优化工具
@@ -1515,6 +1516,8 @@ Table of Contents
 - https://www.toolnb.com  toolnb 
 - https://jianwai.youdao.com/
 - https://github.com/zhaoolee/OnlineToolsBook 集锦
+- https://masuit.com/
+- https://github.com/zhaoolee/OnlineToolsBook
 
  
 
