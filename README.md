@@ -1064,7 +1064,14 @@ Table of Contents
 - [这是一个Unity HDRP 卡通渲染管线，我会将学习到的NPR技术不断完善到这个管线中](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline)
 - [到目前为止的二次元渲染总结](https://zhuanlan.zhihu.com/p/126668414)
 - [Unity中二次元渲染算法总汇](https://zhuanlan.zhihu.com/p/69260586)
-
+- [Sunao Shader](https://booth.pm/ja/items/1723985)
+- https://github.com/poiyomi/PoiyomiToonShader
+- https://github.com/Xiexe/Xiexes-Unity-Shaders
+- https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project
+- https://github.com/whiteflare/Unlit_WF_ShaderSuite
+- [MMS](https://miniscape.booth.pm/items/1627422)
+- [ReflexShader](https://reflex.booth.pm/items/1560511)
+- https://github.com/synqark/Arktoon-Shaders
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
