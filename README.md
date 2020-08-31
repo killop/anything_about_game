@@ -47,20 +47,26 @@ Table of Contents
     - [status-syn](#status-syn)
 - [Serialization](#serialization)
     - [Json](#json)
-- [ECS](#ecs)
+- [ECS Libraries](#ecs-libraries)
+    - [C/C++](#cc)
+    - [C](#c)
+    - [Python](#python)
+    - [Rust](#rust)
+    - [Benchmark](#benchmark)
+- [Virtual File Systems](#virtual-file-systems)
 - [TCP/UDP](#tcpudp)
     - [Articles](#articles)
-    - [C](#c)
+    - [C](#c-1)
     - [C/CPP](#ccpp)
 - [Web/Http-fastest](#webhttp-fastest)
 - [2D Engines and Frameworks](#2d-engines-and-frameworks)
 - [3D Engines and Frameworks](#3d-engines-and-frameworks)
 - [并发执行和多线程](#并发执行和多线程)
     - [CPP](#cpp)
-    - [C](#c-1)
+    - [C](#c-2)
 - [Game-Math](#game-math)
     - [CPP](#cpp-1)
-    - [C](#c-2)
+    - [C](#c-3)
     - [CPP](#cpp-2)
     - [Math-Tool](#math-tool)
     - [Courses/Article/website](#coursesarticlewebsite)
@@ -115,13 +121,13 @@ Table of Contents
     - [MMO](#mmo)
     - [String](#string)
 - [Utils](#utils)
-    - [C](#c-3)
+    - [C](#c-4)
     - [GPU-Accelerator](#gpu-accelerator)
 - [Javascript](#javascript)
 - [Lua](#lua)
 - [Typescript](#typescript)
-- [C](#c-4)
 - [C](#c-5)
+- [C](#c-6)
 - [CPP](#cpp-3)
 - [Java](#java-1)
 - [CMAKE](#cmake)
@@ -169,6 +175,7 @@ Table of Contents
 - [游戏策划](#游戏策划)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
 - [看完不star，小心没jj :）!](#看完不star小心没jj-)
+   
 ## News
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
@@ -454,12 +461,42 @@ Table of Contents
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
 
-## ECS
-- https://github.com/junkdog/artemis-odb
-- https://github.com/skypjack/entt
-- https://github.com/Leopotam/ecs
-## TCP/UDP
+## ECS Libraries
 
+#### C/C++
+
+* anax - Open source C++ entity system [[github](https://github.com/miguelmartin75/anax) ![miguelmartin75/anax](https://img.shields.io/github/stars/miguelmartin75/anax.svg?style=flat&label=Star&maxAge=86400)]
+* ECS - C++ single-header entity component system library [[github](https://github.com/redxdev/ECS) ![redxdev/ECS](https://img.shields.io/github/stars/redxdev/ECS.svg?style=flat&label=Star&maxAge=86400)]
+* ecs.hpp - A single header C++14 entity component system library [[github](https://github.com/BlackMATov/ecs.hpp) ![BlackMATov/ecs.hpp](https://img.shields.io/github/stars/BlackMATov/ecs.hpp.svg?style=flat&label=Star&maxAge=86400)]
+* ecst - Experimental C++14 multithreaded compile-time entity-compnent-system library [[github](https://github.com/SuperV1234/ecst) ![SuperV1234/ecst](https://img.shields.io/github/stars/SuperV1234/ecst.svg?style=flat&label=Star&maxAge=86400)]
+* EntityFu - A simple, fast entity component system written in C++ [[github](https://github.com/NatWeiss/EntityFu) ![NatWeiss/EntityFu](https://img.shields.io/github/stars/NatWeiss/EntityFu.svg?style=flat&label=Star&maxAge=86400)]
+* EntityPlus - C++14 entity component system [[github](https://github.com/Yelnats321/EntityPlus) ![Yelnats321/EntityPlus](https://img.shields.io/github/stars/Yelnats321/EntityPlus.svg?style=flat&label=Star&maxAge=86400)]
+* EntityX - Fast, type-safe C++ entity component system [[github](https://github.com/alecthomas/entityx) ![alecthomas/entityx](https://img.shields.io/github/stars/alecthomas/entityx.svg?style=flat&label=Star&maxAge=86400)]
+* entt - Fast and reliable entity-component system [[github](https://github.com/skypjack/entt) ![skypjack/entt](https://img.shields.io/github/stars/skypjack/entt.svg?style=flat&label=Star&maxAge=86400)]
+* Flecs - A Multithreaded Entity Component System written for C89 & C99 [[github](https://github.com/SanderMertens/flecs) ![SanderMertens/flecs](https://img.shields.io/github/stars/SanderMertens/flecs.svg?style=flat&label=Star&maxAge=86400)]
+* goomy - A tiny, experimental ECS framework [[github](https://github.com/vberlier/goomy) ![vberlier/goomy](https://img.shields.io/github/stars/vberlier/goomy.svg?style=flat&label=Star&maxAge=86400)]
+* Kengine - Type-safe and self-documenting implementation of an Entity-Component-System [[github](https://github.com/phisko/kengine) ![phisko/kengine](https://img.shields.io/github/stars/phisko/kengine.svg?style=flat&label=Star&maxAge=86400)]
+* matter - C++17/20 ECS implementation [[github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)]
+
+#### C#
+- https://github.com/PixeyeHQ/actors - ecs框架，代码不错
+* DefaultEcs - ECS for syntax and usage simplicity with maximum performance [[github](https://github.com/Doraku/DefaultEcs) ![Doraku/DefaultEcs](https://img.shields.io/github/stars/Doraku/DefaultEcs.svg?style=flat&label=Star&maxAge=86400)]
+* Svelto.ECS - Lightweight data oriented entity component system framework [[github](https://github.com/sebas77/Svelto.ECS) ![sebas77/Svelto.ECS](https://img.shields.io/github/stars/sebas77/Svelto.ECS.svg?style=flat&label=Star&maxAge=86400)]
+* [Hydrogen.Entities](https://github.com/periodyctom/Hydrogen.Entities) - A collection of helpers for work with Unity's ECS framework, used in our games.
+
+#### Python
+* esper - A lightweight Entity System for Python [[github](https://github.com/benmoran56/esper) ![benmoran56/esper](https://img.shields.io/github/stars/benmoran56/esper.svg?style=flat&label=Star&maxAge=86400)]
+
+#### Rust
+* Shipyard - Entity Component System written in Rust [[github](https://github.com/leudz/shipyard) ![leudz/shipyard](https://img.shields.io/github/stars/leudz/shipyard.svg?style=flat&label=Star&maxAge=86400)]
+* Specs - Parallel entity component system written in Rust [[github](https://github.com/slide-rs/specs) ![slide-rs/specs](https://img.shields.io/github/stars/slide-rs/specs.svg?style=flat&label=Star&maxAge=86400)]
+#### Benchmark
+* [ecs_benchmark](https://github.com/abeimler/ecs_benchmark): EnTT vs. entityx vs. anax vs. Artemis-Cpp
+
+## Virtual File Systems
+- https://github.com/mattiasgustavsson/libs
+- https://icculus.org/physfs/
+## TCP/UDP
 #### Articles
 - [硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484005&idx=1&sn=cb07ee1c891a7bdd0af3859543190202&chksm=f98e46cfcef9cfd9feb8b9df043a249eb5f226a927fd6d4065e99e62a645a584005d9921541b&scene=126&sessionid=1587373655&key=c1e3f751e477aefb2785e5e67e936b31e51cd2b2080391621fbd3fc27b4764cf9b02e0c6c25104fa7e3c90b7719ebe683a4fb3bc0a8bb16625e5b8696c4bb2133088ceea58e071e4f06742b5d6cf8225&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AQXqc918kP9oyoqf8cruy24%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding ）
 - [你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484017&idx=1&sn=dc54d43bfd5dc088e48adcfa2e2bc13f&chksm=f98e46dbcef9cfcdab645e79138deb078d68ad843b3e424408974bd8f0ecea620a2502a79230&scene=126&sessionid=1587373655&key=caefaff9574fe7b57087d887de9c6a4c47d8f28df557255cc812869d270224df92f9bb319c0637c0755e2072e8a83e69667b4024c32f8447e1b8fbea51f25679a85b5b27be78ad02905b3a7220e63b0e&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AUqHBUf2HKUOvDs1c3m9p6g%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding )
@@ -616,6 +653,7 @@ Table of Contents
 - https://github.com/magefree/mage
 - https://github.com/nem0/LumixEngine
 - https://github.com/tkgamegroup/flame An ECS Game Engine Based On Reflection.
+- [WickedEngine](https://github.com/turanszkij/WickedEngine)
 
 
 ## 并发执行和多线程
@@ -829,8 +867,8 @@ Table of Contents
 - http://www.ludicon.com/castano/blog/
 - http://blog.hvidtfeldts.net/
 - [realtimerendering](http://www.realtimerendering.com/blog/) This is the blog for the book “Real-Time Rendering“
-
- 
+- [randygaul](https://www.randygaul.net/) c/cpp game
+- https://www.sebaslab.com/ 
 - https://colinbarrebrisebois.com/
 - http://www.adriancourreges.com/blog/
 - https://prideout.net/blog/
@@ -1149,6 +1187,8 @@ Table of Contents
 - https://visualgo.net/zh
 - https://algorithm-visualizer.org/
 - https://github.com/geekxh/hello-algorithm
+- https://github.com/Xunzhuo/Algorithms-in-4-Steps
+- https://github.com/halfrost/LeetCode-Go
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -1369,7 +1409,6 @@ Table of Contents
 #### Unity 特色工程（精粹）
 -  https://molingyu.github.io/RosettaDocs/  本地化
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
--  https://github.com/PixeyeHQ/actors - ecs框架，代码不错
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
 
@@ -1385,7 +1424,7 @@ Table of Contents
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
-* [Hydrogen.Entities](https://github.com/periodyctom/Hydrogen.Entities) - A collection of helpers for work with Unity's ECS framework, used in our games.
+
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
