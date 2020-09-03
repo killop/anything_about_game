@@ -1,12 +1,12 @@
 
 Table of Contents
 - [News](#news)
-- [Person/Social/Blogs](#personsocialblogs)
-    - [China](#china)
-    - [Foreigner](#foreigner)
     - [Js/Web](#jsweb)
     - [Java](#java)
     - [Go](#go)
+- [Person/Social/Blogs](#personsocialblogs)
+    - [China](#china)
+    - [Foreigner](#foreigner)
 - [Awesome-General](#awesome-general)
 - [Awesome-Game](#awesome-game)
 - [Game-Company](#game-company)
@@ -186,7 +186,20 @@ Table of Contents
 - https://geeker-read.com/#/latest
 - https://coolshell.cn/
 - https://insights.thoughtworks.cn/
-
+#### Js/Web
+- https://github.com/dt-fe/weekly 
+- https://github.com/gauseen/blog/issues/4
+- https://www.infoq.cn/profile/1277275/publish
+- https://weekly.techbridge.cc/
+- https://github.com/Tnfe/TNFE-Weekly
+- http://fex.baidu.com/
+- https://weekly.75team.com/
+#### Java
+- https://github.com/mercyblitz/tech-weekly
+- http://www.iocoder.cn/?github
+#### Go
+- https://github.com/polaris1119/golangweekly
+ 
 ## Person/Social/Blogs
 #### China
 - [行尸走肉的笔记](http://walkingfat.com/)
@@ -364,19 +377,7 @@ Table of Contents
 - Ragnorium [Twitter](https://twitter.com/Ragnorium) 3d gameArt 
 - Ruben_Fro [Twitter](https://twitter.com/Ruben_Fro) 3d gameArt 
 - Ruben_Fro [zeltergame](https://twitter.com/zeltergame) 3d gameArt
-#### Js/Web
-- https://github.com/dt-fe/weekly 
-- https://github.com/gauseen/blog/issues/4
-- https://www.infoq.cn/profile/1277275/publish
-- https://weekly.techbridge.cc/
-- https://github.com/Tnfe/TNFE-Weekly
-- http://fex.baidu.com/
-- https://weekly.75team.com/
-#### Java
-- https://github.com/mercyblitz/tech-weekly
-- http://www.iocoder.cn/?github
-#### Go
-- https://github.com/polaris1119/golangweekly
+
 
 ## Awesome-General
 - http://nav.web-hub.cn/ 
