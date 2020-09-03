@@ -1,6 +1,9 @@
 
 Table of Contents
 - [News](#news)
+- [Person/Social/Blogs](#personsocialblogs)
+    - [China](#china)
+    - [Foreigner](#foreigner)
     - [Js/Web](#jsweb)
     - [Java](#java)
     - [Go](#go)
@@ -78,9 +81,6 @@ Table of Contents
     - [Graphics-Library](#graphics-library)
     - [SoftWare-Render](#software-render)
     - [Collection](#collection-1)
-    - [Blog-China](#blog-china)
-    - [Blog-Foreigner](#blog-foreigner)
-    - [Famous-Person-CN](#famous-person-cn)
     - [Shading-Language](#shading-language)
     - [Course/Article](#coursearticle)
     - [OpenGL](#opengl)
@@ -187,6 +187,183 @@ Table of Contents
 - https://coolshell.cn/
 - https://insights.thoughtworks.cn/
 
+## Person/Social/Blogs
+#### China
+- [行尸走肉的笔记](http://walkingfat.com/)
+- [TraceYang的空间 关注跨平台次世代游戏开发](https://www.cnblogs.com/TracePlus/default.html?page=2)
+- [JiepengTan](https://blog.csdn.net/tjw02241035621611)
+- [geekfaner](http://geekfaner.com/unity/index.html) 
+- [dingxiaowei](www.dingxiaowei.com)
+- https://tooslowexception.com/
+- [行尸走油肉的笔记](http://walkingfat.com/)
+- [云风](https://blog.codingnow.com/)
+- [大熊](http://www.xionggf.com/)
+- [浅墨](https://blog.csdn.net/poem_qianmo);
+- [冯乐乐](http://candycat1992.github.io/)
+- [gameKnife ](http://gameknife.github.io/)
+- [渔夫](https://blog.csdn.net/tjw02241035621611)
+- [马三小伙儿](https://github.com/XINCGer)
+- [彭怀亮](https://huailiang.github.io/)
+- [uchart作者](http://uchart.club)
+- [宣雨松](https://www.xuanyusong.com/)
+- [代码如诗](https://www.cnblogs.com/kex1n/)
+- [UnityGems](https://unitygem.wordpress.com/)
+- [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下](https://jacksondunstan.com/)
+- [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的](http://baba-s.hatenablog.com/)
+- [Dalton](http://www.zhust.com/)
+- https://www.lfzxb.top/
+- http://www.wjgbaby.com/category/3d-math/
+- [FishMan的技术专栏 ](https://jiepengtan.github.io/)
+- http://staff.ustc.edu.cn/~lgliu/
+- https://catlikecoding.com/
+- https://blog.selfshadow.com/
+- https://hdmmy.github.io/page/2/
+- [有木酱的小屋](https://www.yomunchan.moe)
+- https://www.gabrielgambetta.com/
+- [钱康来](http://qiankanglai.me/)
+- [chenanbao](https://chenanbao.github.io/)
+- [whoimi-梁哲](https://liangz0707.github.io/whoimi/)
+- [木木猫](http://www.idivecat.com/)
+- [CrowFea 晨风](https://crowfeablog.com/)
+- https://www.zhihu.com/people/mao-xing-yun 毛星云
+- http://staff.ustc.edu.cn/~lgliu/ 刘利刚
+- https://www.zhihu.com/people/luo-cheng-11-75 洛城
+- https://www.zhihu.com/people/edliu 文刀秋二
+- https://www.zhihu.com/people/minmin.gong 叛逆者
+- http://www.thegibook.com/blog/ 秦春林
+- https://halfrost.com
+#### Foreigner
+- https://thegamedev.guru
+- [pydonzallaz](https://pydonzallaz.com/)  working at Unity Technologies on Unity.
+- [aras-p.info](http://aras-p.info/blog/) working at Unity Technologies on Unity.
+- [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
+- [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
+- https://simonschreibt.de/
+- [catlikecoding](https://catlikecoding.com/) nothing to comment
+- http://www.ludicon.com/castano/blog/
+- http://blog.hvidtfeldts.net/
+- [realtimerendering](http://www.realtimerendering.com/blog/) This is the blog for the book “Real-Time Rendering“
+- [randygaul](https://www.randygaul.net/) c/cpp game
+- https://www.sebaslab.com/ 
+- https://colinbarrebrisebois.com/
+- http://www.adriancourreges.com/blog/
+- https://prideout.net/blog/
+- http://filmicworlds.com/
+- http://www.thetenthplanet.de/
+- https://www.jordanstevenstechart.com/
+- http://www.iryoku.com/
+- http://kode80.com/blog/
+- http://www.iquilezles.org/
+- http://www.edxgraphics.com/
+- https://casual-effects.com/#blog
+- http://malcolm-mcneely.co.uk/blog/?p=214
+- http://aras-p.info/blog/2009/05/05/shaders-must-die/
+- http://blog.stevemcauley.com/
+- http://blog.selfshadow.com/
+- http://mikaelzackrisson.se/
+- http://www.alexandre-pestana.com/
+- http://blog.demofox.org/
+- http://filmicworlds.com/blog/
+- http://blog.mmacklin.com/
+- http://sebastiansylvan.com/post/ray-tracing-signed-distance-functions/”
+- http://robert.cupisz.eu/
+- http://9bitscience.blogspot.jp/
+- http://blog.hvidtfeldts.net/
+- http://ericpolman.com/
+- http://bpeers.com/blog/
+- http://brabl.com/
+- http://marcel-schindler.weebly.com/blog
+- http://www.rorydriscoll.com/
+- http://www.jonmanatee.com/
+- http://www.physicallybasedrendering.com/
+- http://www.codinglabs.net/default.aspx
+- http://celarek.at/
+- https://farfarer.com/blog/
+- http://www.joshbarczak.com/blog/
+- https://www.3dgep.com/
+- https://rasmusbarr.github.io/
+- http://blog.icare3d.org/
+- http://solid-angle.blogspot.jp/
+- http://john-chapman-graphics.blogspot.hk/
+- http://simonstechblog.blogspot.jp/
+- https://mmikkelsen3d.blogspot.com/
+- https://graphicsrunner.blogspot.jp/
+- http://bitsquid.blogspot.hk/
+- https://graphicrants.blogspot.com/
+- https://tuxedolabs.blogspot.com/
+- https://technik90.blogspot.com/search/label/Programming
+- https://simonstechblog.blogspot.com/
+- https://colinbarrebrisebois.com/
+- https://bartwronski.com/
+- https://knarkowicz.wordpress.com/
+- https://mynameismjp.wordpress.com/
+- https://interplayoflight.wordpress.com/
+- https://ndotl.wordpress.com/
+- https://hairrendering.wordpress.com/
+- https://volumetricshadows.wordpress.com/
+- https://adventuresinrendering.wordpress.com/
+- https://imagineraytracer.wordpress.com/
+- https://nbertoa.wordpress.com/
+- https://flashypixels.wordpress.com/
+- https://lonalwah.wordpress.com/
+- https://blog.molecular-matters.com/category/graphics/
+- https://fgiesen.wordpress.com/category/graphics-pipeline/
+- https://devfault.wordpress.com/
+- https://www.saschawillems.de/
+- http://wiki.nuaj.net/index.php?title=Main_Page
+- http://martindevans.me/game-development/2015/02/27/Drawing-Stuff-On-Other-Stuff-With-Deferred-Screenspace-Decals/
+- http://www.keithlantz.net/
+- https://benedikt-bitterli.me/
+- https://www.alanzucconi.com/
+- http://lousodrome.net/blog/light/
+- https://blog.demofox.org/
+- http://www.michaelwalczyk.com/blog/
+- http://blog.simonrodriguez.fr/
+- http://kylehalladay.com/archive.html
+- https://grahamhazel.com/blog/
+- http://renderdiagrams.org/
+- https://turanszkij.wordpress.com/
+- http://www.adriancourreges.com/blog/
+- https://aras-p.info/blog/
+- https://www.alanzucconi.com/page/2/
+- https://lxjk.github.io/
+- http://trevorius.com/scrapbook/blog/
+- http://reedbeta.com/all/
+- https://seblagarde.wordpress.com/
+- https://ivokabel.github.io/
+- https://www.geeks3d.com/hacklab/
+- https://bitshifter.github.io/
+- http://halisavakis.com/category/blog-posts/
+- https://erkaman.github.io/index.html
+- http://donw.io/
+- https://agraphicsguy.wordpress.com/
+- http://reedbeta.com/
+- https://graphicsrunner.blogspot.com/
+- https://diaryofagraphicsprogrammer.blogspot.com/
+- http://trevorius.com/scrapbook/
+- https://marc-b-reynolds.github.io/
+- http://www.gijskaerts.com/wordpress/
+- https://anteru.net/
+- http://pharr.org/matt/blog/
+- https://schuttejoe.github.io/post/
+- https://technik90.blogspot.com/
+- http://www.yosoygames.com.ar/wp/category/graphics/
+- https://0fps.net/
+- https://viclw17.github.io/
+- https://shihchinw.github.io/
+- https://www.sebastiansylvan.com/
+- http://momentsingraphics.de/
+- https://fgiesen.wordpress.com/category/graphics-pipeline/page/1/
+- https://www.breakin.se/learn/index.html
+- https://kosmokleaner.wordpress.com/
+- http://the-witness.net/news/
+- http://jpgrenier.org/
+- Alex Strook [Twitter](https://twitter.com/AlexStrook) 3d gameArt
+- jonadinges [Twitter](https://twitter.com/jonadinges) 3d gameArt
+- Joyce [Twitter](https://twitter.com/minionsart) 3d gameArt 
+- Ragnorium [Twitter](https://twitter.com/Ragnorium) 3d gameArt 
+- Ruben_Fro [Twitter](https://twitter.com/Ruben_Fro) 3d gameArt 
+- Ruben_Fro [zeltergame](https://twitter.com/zeltergame) 3d gameArt
 #### Js/Web
 - https://github.com/dt-fe/weekly 
 - https://github.com/gauseen/blog/issues/4
@@ -819,177 +996,6 @@ Table of Contents
 - https://github.com/jslee02/awesome-graphics-libraries
 - https://github.com/FancyVin/fun-with-graphics
  
-#### Blog-China
-- [行尸走肉的笔记](http://walkingfat.com/)
-- [TraceYang的空间 关注跨平台次世代游戏开发](https://www.cnblogs.com/TracePlus/default.html?page=2)
-- [JiepengTan](https://blog.csdn.net/tjw02241035621611)
-- [geekfaner](http://geekfaner.com/unity/index.html) 
-- [dingxiaowei](www.dingxiaowei.com)
-- https://tooslowexception.com/
-- [行尸走油肉的笔记](http://walkingfat.com/)
-- [云风](https://blog.codingnow.com/)
-- [大熊](http://www.xionggf.com/)
-- [浅墨](https://blog.csdn.net/poem_qianmo);
-- [冯乐乐](http://candycat1992.github.io/)
-- [gameKnife ](http://gameknife.github.io/)
-- [渔夫](https://blog.csdn.net/tjw02241035621611)
-- [马三小伙儿](https://github.com/XINCGer)
-- [彭怀亮](https://huailiang.github.io/)
-- [uchart作者](http://uchart.club)
-- [宣雨松](https://www.xuanyusong.com/)
-- [代码如诗](https://www.cnblogs.com/kex1n/)
-- [UnityGems](https://unitygem.wordpress.com/)
-- [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下](https://jacksondunstan.com/)
-- [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的](http://baba-s.hatenablog.com/)
-- [Dalton](http://www.zhust.com/)
-- https://www.lfzxb.top/
-- http://www.wjgbaby.com/category/3d-math/
-- [FishMan的技术专栏 ](https://jiepengtan.github.io/)
-- http://staff.ustc.edu.cn/~lgliu/
-- https://catlikecoding.com/
-- https://blog.selfshadow.com/
-- https://hdmmy.github.io/page/2/
-- [有木酱的小屋](https://www.yomunchan.moe)
-- https://www.gabrielgambetta.com/
-- [钱康来](http://qiankanglai.me/)
-- [chenanbao](https://chenanbao.github.io/)
-- [whoimi-梁哲](https://liangz0707.github.io/whoimi/)
-- [木木猫](http://www.idivecat.com/)
-- [CrowFea 晨风](https://crowfeablog.com/)
-#### Blog-Foreigner
-- https://thegamedev.guru
-- [pydonzallaz](https://pydonzallaz.com/)  working at Unity Technologies on Unity.
-- [aras-p.info](http://aras-p.info/blog/) working at Unity Technologies on Unity.
-- [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
-- [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
-- https://simonschreibt.de/
-- [catlikecoding](https://catlikecoding.com/) nothing to comment
-- http://www.ludicon.com/castano/blog/
-- http://blog.hvidtfeldts.net/
-- [realtimerendering](http://www.realtimerendering.com/blog/) This is the blog for the book “Real-Time Rendering“
-- [randygaul](https://www.randygaul.net/) c/cpp game
-- https://www.sebaslab.com/ 
-- https://colinbarrebrisebois.com/
-- http://www.adriancourreges.com/blog/
-- https://prideout.net/blog/
-- http://filmicworlds.com/
-- http://www.thetenthplanet.de/
-- https://www.jordanstevenstechart.com/
-- http://www.iryoku.com/
- - http://kode80.com/blog/
- - http://www.iquilezles.org/
- - http://www.edxgraphics.com/
- - https://casual-effects.com/#blog
- - http://malcolm-mcneely.co.uk/blog/?p=214
- - http://aras-p.info/blog/2009/05/05/shaders-must-die/
- - http://blog.stevemcauley.com/
- - http://blog.selfshadow.com/
- - http://mikaelzackrisson.se/
- - http://www.alexandre-pestana.com/
- - http://blog.demofox.org/
- - http://filmicworlds.com/blog/
- - http://blog.mmacklin.com/
- - http://sebastiansylvan.com/post/ray-tracing-signed-distance-functions/”
- - http://robert.cupisz.eu/
- - http://9bitscience.blogspot.jp/
- - http://blog.hvidtfeldts.net/
- - http://ericpolman.com/
- - http://bpeers.com/blog/
- - http://brabl.com/
- - http://marcel-schindler.weebly.com/blog
- - http://www.rorydriscoll.com/
- - http://www.jonmanatee.com/
- - http://www.physicallybasedrendering.com/
- - http://www.codinglabs.net/default.aspx
- - http://celarek.at/
- - https://farfarer.com/blog/
- - http://www.joshbarczak.com/blog/
- - https://www.3dgep.com/
- - https://rasmusbarr.github.io/
- - http://blog.icare3d.org/
- - http://solid-angle.blogspot.jp/
- - http://john-chapman-graphics.blogspot.hk/
- - http://simonstechblog.blogspot.jp/
- - https://mmikkelsen3d.blogspot.com/
- - https://graphicsrunner.blogspot.jp/
- - http://bitsquid.blogspot.hk/
- - https://graphicrants.blogspot.com/
- - https://tuxedolabs.blogspot.com/
- - https://technik90.blogspot.com/search/label/Programming
- - https://simonstechblog.blogspot.com/
- - https://colinbarrebrisebois.com/
- - https://bartwronski.com/
- - https://knarkowicz.wordpress.com/
- - https://mynameismjp.wordpress.com/
- - https://interplayoflight.wordpress.com/
- - https://ndotl.wordpress.com/
- - https://hairrendering.wordpress.com/
- - https://volumetricshadows.wordpress.com/
- - https://adventuresinrendering.wordpress.com/
- - https://imagineraytracer.wordpress.com/
- - https://nbertoa.wordpress.com/
- - https://flashypixels.wordpress.com/
- - https://lonalwah.wordpress.com/
- - https://blog.molecular-matters.com/category/graphics/
- - https://fgiesen.wordpress.com/category/graphics-pipeline/
- - https://devfault.wordpress.com/
- - https://www.saschawillems.de/
- - http://wiki.nuaj.net/index.php?title=Main_Page
- - http://martindevans.me/game-development/2015/02/27/Drawing-Stuff-On-Other-Stuff-With-Deferred-Screenspace-Decals/
- - http://www.keithlantz.net/
- - https://benedikt-bitterli.me/
- - https://www.alanzucconi.com/
- - http://lousodrome.net/blog/light/
- - https://blog.demofox.org/
- - http://www.michaelwalczyk.com/blog/
- - http://blog.simonrodriguez.fr/
- - http://kylehalladay.com/archive.html
- - https://grahamhazel.com/blog/
- - http://renderdiagrams.org/
- - https://turanszkij.wordpress.com/
- - http://www.adriancourreges.com/blog/
- - https://aras-p.info/blog/
- - https://www.alanzucconi.com/page/2/
- - https://lxjk.github.io/
- - http://trevorius.com/scrapbook/blog/
- - http://reedbeta.com/all/
- - https://seblagarde.wordpress.com/
- - https://ivokabel.github.io/
- - https://www.geeks3d.com/hacklab/
- - https://bitshifter.github.io/
- - http://halisavakis.com/category/blog-posts/
- - https://erkaman.github.io/index.html
- - http://donw.io/
- - https://agraphicsguy.wordpress.com/
- - http://reedbeta.com/
- - https://graphicsrunner.blogspot.com/
- - https://diaryofagraphicsprogrammer.blogspot.com/
- - http://trevorius.com/scrapbook/
- - https://marc-b-reynolds.github.io/
- - http://www.gijskaerts.com/wordpress/
- - https://anteru.net/
- - http://pharr.org/matt/blog/
- - https://schuttejoe.github.io/post/
- - https://technik90.blogspot.com/
- - http://www.yosoygames.com.ar/wp/category/graphics/
- - https://0fps.net/
- - https://viclw17.github.io/
- - https://shihchinw.github.io/
- - https://www.sebastiansylvan.com/
- - http://momentsingraphics.de/
- - https://fgiesen.wordpress.com/category/graphics-pipeline/page/1/
- - https://www.breakin.se/learn/index.html
- - https://kosmokleaner.wordpress.com/
- - http://the-witness.net/news/
- - http://jpgrenier.org/
-
-#### Famous-Person-CN
-- https://www.zhihu.com/people/mao-xing-yun 毛星云
-- http://staff.ustc.edu.cn/~lgliu/ 刘利刚
-- https://www.zhihu.com/people/luo-cheng-11-75 洛城
-- https://www.zhihu.com/people/edliu 文刀秋二
-- https://www.zhihu.com/people/minmin.gong 叛逆者
-- http://www.thegibook.com/blog/ 秦春林
 
 #### Shading-Language
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
@@ -1370,6 +1376,7 @@ Table of Contents
 - https://github.com/hadashiA/VContainer
 - [OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
 - https://uiforia.io/
+- https://github.com/Justin-sky/Nice-Lua
 
 #### Moba
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
