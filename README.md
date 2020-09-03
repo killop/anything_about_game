@@ -376,7 +376,7 @@ Table of Contents
 - Joyce [Twitter](https://twitter.com/minionsart) 3d gameArt 
 - Ragnorium [Twitter](https://twitter.com/Ragnorium) 3d gameArt 
 - Ruben_Fro [Twitter](https://twitter.com/Ruben_Fro) 3d gameArt 
-- Ruben_Fro [zeltergame](https://twitter.com/zeltergame) 3d gameArt
+- zeltergame [zeltergame](https://twitter.com/zeltergame) 3d gameArt
 
 
 ## Awesome-General
