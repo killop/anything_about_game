@@ -133,6 +133,7 @@ Table of Contents
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
     - [Garbage Collector](#garbage-collector)
+    - [dynCall](#dyncall)
 - [DevOps](#devops)
     - [Tools](#tools)
 - [Unity](#unity)
@@ -1104,6 +1105,7 @@ Table of Contents
 * [Paint in 3D](https://assetstore.unity.com/packages/tools/painting/paint-in-3d-26286)
 * [Easy Decal](https://assetstore.unity.com/packages/tools/utilities/easy-decal-22867)
 * [Decal Master: Advanced Deferred Decals](https://assetstore.unity.com/packages/tools/utilities/decal-master-advanced-deferred-decals-145432)
+* [kDecals](https://github.com/Kink3d/kDecals) kDecals is a system for definition, placement and rendering of projection Decals in Unity's Universal Render Pipeline
  ##### Face
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
 ##### Water
@@ -1115,6 +1117,7 @@ Table of Contents
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
+- [kShading](https://github.com/Kink3d/kShading)
  
 ##### URP/SPR/HDRP Course
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
@@ -1345,7 +1348,9 @@ Table of Contents
 - [neos](https://neos.dev/) neos is a cross-platform (C++) universal compiler that can theoretically compile any scripting/programming language.
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
-
+#### dynCall
+- [libffi](http://sourceware.org/libffi/)
+- [dyncall](https://dyncall.org)
 ## DevOps
 #### Tools
 - [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
@@ -1353,6 +1358,7 @@ Table of Contents
 ## Unity
 
 #### Awesome-Unity 
+- [needle](https://needle.tools/package-reference/)
 - https://github.com/agarcialeon/awesome-unity#awesome-unity 
 - https://github.com/baba-s/awesome-unity-open-source-on-github
 - https://lab.uwa4d.com/
