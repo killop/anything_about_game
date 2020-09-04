@@ -620,6 +620,7 @@ Table of Contents
 #### Lockstep
 - http://netcoding4d.com/
 - https://github.com/JiepengTan/LockstepECS 
+- https://github.com/SnpM/LockstepFramework
 
 #### status-syn
 - https://github.com/zpl-c/librg
@@ -880,6 +881,7 @@ Table of Contents
 - https://github.com/radiatoryang/hedera
 - https://github.com/GregLukosek/3DMath
 - https://github.com/FreyaHolmer/Mathfs
+- https://github.com/volfegan/GeometricAlgorithms
 
 #### CPP
 - https://www.geometrictools.com/ geometrictools
@@ -1366,6 +1368,7 @@ Table of Contents
 - https://openupm.com/packages/
 - https://github.com/insthync/awesome-unity3d
 - https://github.com/RyanNielson/awesome-unity
+- https://github.com/needle-tools/compilation-visualizer
 
 
 #### Framework
