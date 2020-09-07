@@ -207,8 +207,7 @@ Table of Contents
 - [TraceYang的空间 关注跨平台次世代游戏开发](https://www.cnblogs.com/TracePlus/default.html?page=2)
 - [JiepengTan](https://blog.csdn.net/tjw02241035621611)
 - [geekfaner](http://geekfaner.com/unity/index.html) 
-- [dingxiaowei](www.dingxiaowei.com)
-- https://tooslowexception.com/
+- [dingxiaowei](http://dingxiaowei.cn/)
 - [行尸走油肉的笔记](http://walkingfat.com/)
 - [云风](https://blog.codingnow.com/)
 - [大熊](http://www.xionggf.com/)
@@ -221,32 +220,31 @@ Table of Contents
 - [uchart作者](http://uchart.club)
 - [宣雨松](https://www.xuanyusong.com/)
 - [代码如诗](https://www.cnblogs.com/kex1n/)
-- [UnityGems](https://unitygem.wordpress.com/)
-- [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下](https://jacksondunstan.com/)
-- [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的](http://baba-s.hatenablog.com/)
 - [Dalton](http://www.zhust.com/)
-- https://www.lfzxb.top/
+- [烟雨迷离半世殇](https://www.lfzxb.top/)
 - http://www.wjgbaby.com/category/3d-math/
 - [FishMan的技术专栏 ](https://jiepengtan.github.io/)
-- http://staff.ustc.edu.cn/~lgliu/
-- https://catlikecoding.com/
-- https://blog.selfshadow.com/
-- https://hdmmy.github.io/page/2/
+- [刘利刚](http://staff.ustc.edu.cn/~lgliu/)
+- [东明的博客](https://hdmmy.github.io/page/2/)
 - [有木酱的小屋](https://www.yomunchan.moe)
-- https://www.gabrielgambetta.com/
 - [钱康来](http://qiankanglai.me/)
 - [chenanbao](https://chenanbao.github.io/)
 - [whoimi-梁哲](https://liangz0707.github.io/whoimi/)
 - [木木猫](http://www.idivecat.com/)
-- [CrowFea 晨风](https://crowfeablog.com/)
-- https://www.zhihu.com/people/mao-xing-yun 毛星云
-- http://staff.ustc.edu.cn/~lgliu/ 刘利刚
-- https://www.zhihu.com/people/luo-cheng-11-75 洛城
-- https://www.zhihu.com/people/edliu 文刀秋二
-- https://www.zhihu.com/people/minmin.gong 叛逆者
-- http://www.thegibook.com/blog/ 秦春林
+- [CrowFea 晨风](https://github.com/CrowFea/CrowFea.github.io)
+- [毛星云](https://www.zhihu.com/people/mao-xing-yun)
+- [洛城](https://www.zhihu.com/people/luo-cheng-11-75) 
+- [文刀秋二](https://www.zhihu.com/people/edliu) 
+- [叛逆者](https://www.zhihu.com/people/minmin.gong) 
+- [秦春林](http://www.thegibook.com/blog/) 
 - https://halfrost.com
 #### Foreigner
+- https://blog.selfshadow.com/
+- https://www.gabrielgambetta.com/
+- [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的](http://baba-s.hatenablog.com/)
+- [UnityGems](https://unitygem.wordpress.com/)
+- [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下](https://jacksondunstan.com/)
+- https://tooslowexception.com/
 - https://thegamedev.guru
 - [pydonzallaz](https://pydonzallaz.com/)  working at Unity Technologies on Unity.
 - [aras-p.info](http://aras-p.info/blog/) working at Unity Technologies on Unity.
@@ -1002,6 +1000,7 @@ Table of Contents
  
 
 #### Shading-Language
+- https://github.com/wshxbqq/GLSL-Card
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
  
