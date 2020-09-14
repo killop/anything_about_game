@@ -221,6 +221,7 @@ Table of Contents
 - [gameKnife ](http://gameknife.github.io/)
 - [渔夫](https://blog.csdn.net/tjw02241035621611)
 - [马三小伙儿](https://github.com/XINCGer)
+- [静风霁](https://www.jingfengji.tech)
 - [彭怀亮](https://huailiang.github.io/)
 - [uchart作者](http://uchart.club)
 - [宣雨松](https://www.xuanyusong.com/)
