@@ -158,8 +158,10 @@ Table of Contents
     - [Texture](#texture-1)
     - [Create Model](#create-model)
     - [Mesh](#mesh-1)
+    - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
+      - [Textrue Compression](#textrue-compression)
         - [Article](#article-5)
     - [Message Bus](#message-bus)
     - [Audio](#audio-1)
@@ -1495,7 +1497,9 @@ Table of Contents
  - [skinned-mesh-combiner](https://assetstore.unity.com/packages/templates/systems/skinned-mesh-combiner-mt-135422)
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
-  
+
+#### Volumetric Mesh
+-  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
 #### Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
@@ -1518,9 +1522,18 @@ Table of Contents
 - [shader control](https://assetstore.unity.com/packages/vfx/shaders/shader-control-74817) 
 - [Asset Hunter PRO](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)
 - [A+ Assets Explorer](https://assetstore.unity.com/packages/tools/utilities/a-assets-explorer-57335)
-- [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
 - [AssetBundle加密-fair-guard](https://www.fair-guard.com)
-  ###### Article
+##### Textrue Compression
+- [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
+- [常用纹理和纹理压缩格式](https://blog.csdn.net/ynnmnm/article/details/44983545)
+- [Unity-Textrue-Format](https://docs.unity3d.com/Manual/class-TextureImporterOverride.html)
+- [工作技巧 | 纹理压缩格式Block Compression](https://zhuanlan.zhihu.com/p/199635682)
+- [几种主流贴图压缩算法的实现原理详解](https://www.2cto.com/kf/201603/493773.html)
+- [[小数派报告]-Shader加载的纹理压缩的原理](https://zhuanlan.zhihu.com/p/104006858)
+- [游戏图片纹理压缩相关总结](https://zhuanlan.zhihu.com/p/102416815)
+- [你所需要了解的几种纹理压缩格式原理](https://zhuanlan.zhihu.com/p/237940807)
+- [各种移动GPU压缩纹理的使用方法](https://www.cnblogs.com/luming1979/archive/2013/02/04/2891421.html)
+###### Article
 - [程序丨入门必看：Unity资源加载及管理 ](https://mp.weixin.qq.com/s/0XFQt8LmqoTxxst_kKDMjw)
 - [Unity引擎资源管理模块知识Tree](https://blog.uwa4d.com/archives/UWA_ResourceTree.html)
 - [Unity3D内存释放](https://blog.csdn.net/andyhebear/article/details/50977295)
