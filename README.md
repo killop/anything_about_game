@@ -19,6 +19,7 @@ Table of Contents
       - [Unity-Tool](#unity-tool)
     - [Font](#font)
       - [BitMap](#bitmap)
+        - [Free-Font](#free-font)
     - [Audio](#audio)
     - [Modeling](#modeling)
       - [Sculpture](#sculpture)
@@ -39,6 +40,9 @@ Table of Contents
     - [Design](#design)
     - [locale](#locale)
 - [CG](#cg)
+- [Video-Tool/Editor](#video-tooleditor)
+- [Music-Tool/Editor](#music-tooleditor)
+- [3D Rendering Software/Plugin](#3d-rendering-softwareplugin)
 - [3D-File-Format](#3d-file-format)
 - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
 - [Archive](#archive)
@@ -429,6 +433,7 @@ Table of Contents
 - http://www.gamedev.net/classifieds - GameDev.net 工作版块。
 - http://forum.deviantart.com/jobs/ - 太多具有才华的人了，不过许多都没有游戏工作经历，但还是一个值得看看的地方。只针对有酬劳的工作。
 
+
 ## Game-Design-Tool
 #### Collection
 - [magictools](https://github.com/ellisonleao/magictools)
@@ -458,7 +463,9 @@ Table of Contents
 - [bmglyph](https://www.bmglyph.com/)
 - [glyphdesigner](https://www.71squared.com/glyphdesigner)
 - [shoebox](http://renderhjs.net/shoebox/)
-
+###### Free-Font
+- https://www.100font.com/
+- https://www.hellofont.cn/
 #### Audio
 - [fmod](http://www.fmod.org/)
 - [wwise](https://www.audiokinetic.com/zh/products/wwise/)
@@ -554,8 +561,21 @@ Table of Contents
  
 ## CG
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
-- [Davinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound 
+
+## Video-Tool/Editor
+- https://www.vegaschina.cn
+- https://www.edius.net/
+- [Davinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound
   
+## Music-Tool/Editor
+- https://www.image-line.com/
+- https://www.goldwave.com
+- https://www.guitar-pro.com/en/index.php 
+- https://sonicscores.com/
+
+## 3D Rendering Software/Plugin
+- [keyshot](https://www.keyshot.com/)
+ 
 ## 3D-File-Format
 - [Alembic](http://www.alembic.io/)
 - [BLEND](https://en.wikipedia.org/wiki/.blend_(file_format))
@@ -698,6 +718,7 @@ Table of Contents
 #### C#
 - https://normcore.io/
 - https://www.photonengine.com
+- https://darkriftnetworking.com/
 - https://github.com/vis2k/Mirror
 - https://github.com/MidLevel/MLAPI
 - https://github.com/MidLevel/Ruffles UDP
@@ -917,7 +938,7 @@ Table of Contents
 - https://www.mathtype.cn/
 - https://zh.numberempire.com/
 - http://penrose.ink/
-
+- https://www.keycurriculum.com/
 
 #### Courses/Article/website
 - https://www.wolfram.com/
@@ -1601,10 +1622,10 @@ Table of Contents
 - [box3](www.box3.cn) 开发者工具箱
 - https://ihateregex.io/expr 正则表达式
 - https://www.toolnb.com  toolnb 
+- https://www.kwgg2020.com/
 - https://jianwai.youdao.com/
 - https://github.com/zhaoolee/OnlineToolsBook 集锦
 - https://masuit.com/
-- https://github.com/zhaoolee/OnlineToolsBook
 
  
 
