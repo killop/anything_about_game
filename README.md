@@ -1182,7 +1182,23 @@ Table of Contents
 - https://github.com/daseyb/pathgraph
 
 #### Color
-- [Color Summary](./Color.md)
+- [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhihu.com/p/23905865)
+- [色彩空间基础](https://zhuanlan.zhihu.com/p/24214731)
+- [漫谈HDR和色彩管理](https://zhuanlan.zhihu.com/p/129095380)
+- [色彩原理](https://docs.krita.org/zh_CN/general_concepts/colors.html)
+- [停止扯淡！！漫谈显示器色彩管理](https://zhuanlan.zhihu.com/p/19648994)
+- [颜色：原理和应用](https://ppt.baomitu.com/d/c887a533#/)
+- [浅谈伽玛和线性颜色空间](https://www.gameres.com/811214.html)
+- [Gamma的传说](http://geekfaner.com/unity/blog1_gamma.html)
+- [通过实验透彻理解颜色空间](https://zhuanlan.zhihu.com/p/141904960)
+- [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/)
+- [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
+- [color vision](https://www.handprint.com/LS/CVS/color.html)
+- [color science](https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/indexe.html)
+- [色彩基础知识](https://www.zcool.com.cn/search/content?&word=%E8%89%B2%E5%BD%A9%E7%9F%A5%E8%AF%86)
+- 微信公众号： 领略色彩之雅
+- [colorizer](http://colorizer.org/)
+- [配色网站一锅端](http://www.fenxitu.cn/peise/web.php)
 
 #### WebSite/Blog
 - [tech-artists](https://tech-artists.org/)
@@ -1196,7 +1212,34 @@ Table of Contents
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
 
 ## Interview/DataStruct-Algorithms
-- [DataStruct-Algorithms Summary](./DataStructAlgorithms.md)
+- https://github.com/0voice/interview_internal_reference#1
+- https://github.com/ZXZxin/ZXBlog
+- https://github.com/awangdev/LintCode
+- https://github.com/apachecn/Interview
+- https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
+- https://algorithm.yuanbin.me/zh-hans/?q=
+- https://github.com/labuladong/fucking-algorithm
+- https://github.com/algorithm-visualizer/algorithm-visualizer
+- https://github.com/aalhour/C-Sharp-Algorithms
+- https://github.com/OpenGenus/cosmos
+- https://github.com/CyC2018/CS-Notes
+- https://github.com/azl397985856/leetcode
+- https://github.com/wolverinn/Waking-Up
+- https://github.com/AobingJava/JavaFamily
+- https://github.com/MisterBooo/LeetCodeAnimation
+- https://www.keithschwarz.com/interesting/
+- https://gitee.com/SnailClimb/JavaGuide
+- https://github.com/dongyuanxin/blog
+- https://leetcode.wang/
+- https://github.com/Xunzhuo/OI_Sharing
+- https://github.com/TheAlgorithms/Java
+- https://github.com/greyireland/algorithm-pattern
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+- https://visualgo.net/zh
+- https://algorithm-visualizer.org/
+- https://github.com/geekxh/hello-algorithm
+- https://github.com/Xunzhuo/Algorithms-in-4-Steps
+- https://github.com/halfrost/LeetCode-Go
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
