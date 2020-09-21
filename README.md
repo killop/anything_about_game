@@ -1038,7 +1038,6 @@ Table of Contents
 - https://github.com/lygyue/Books  （来自味精的图形学入门书籍）
 - [Unity图形渲染——基础渲染系列教程20篇](https://zhuanlan.zhihu.com/p/137429554)
 - [shader map总结](https://zhuanlan.zhihu.com/p/75497647) 
-- [LOL渲染技巧](https://technology.riotgames.com/tags/performance)
 - [ComputeShader手机兼容性报告](https://zhuanlan.zhihu.com/p/68886986)
 - [Unity3D shader优化技巧集合](http://www.xionggf.com/post/unity3d/shader/u3d_shader_optimization/) 
 - [Unity3D的渲染路径的细节一览表](http://www.xionggf.com/post/unity3d/u3d_render_path_detail/)
