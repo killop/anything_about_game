@@ -212,6 +212,7 @@ Table of Contents
  
 ## Person/Social/Blogs
 #### China
+- [skywind](http://www.skywind.me/blog/)
 - [行尸走肉的笔记](http://walkingfat.com/)
 - [TraceYang的空间 关注跨平台次世代游戏开发](https://www.cnblogs.com/TracePlus/default.html?page=2)
 - [JiepengTan](https://blog.csdn.net/tjw02241035621611)
@@ -247,6 +248,7 @@ Table of Contents
 - [文刀秋二](https://www.zhihu.com/people/edliu) 
 - [叛逆者](https://www.zhihu.com/people/minmin.gong) 
 - [秦春林](http://www.thegibook.com/blog/) 
+- [宾狗](http://bindog.github.io/)
 - https://halfrost.com
 #### Foreigner
 - https://blog.selfshadow.com/
