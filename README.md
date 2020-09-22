@@ -197,6 +197,9 @@ Table of Contents
 - https://insights.thoughtworks.cn/
 #### Game
 - https://www.gamasutra.com/category/programming/
+- https://gamedev.net/
+- http://www.onrpg.com/
+- https://www.mmorpg.com/
 - https://gamedevdigest.com/
 #### Js/Web
 - https://github.com/dt-fe/weekly 
