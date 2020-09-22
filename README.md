@@ -1,6 +1,7 @@
 
 Table of Contents
 - [News](#news)
+    - [Game](#game)
     - [Js/Web](#jsweb)
     - [Java](#java)
     - [Go](#go)
@@ -194,6 +195,9 @@ Table of Contents
 - https://geeker-read.com/#/latest
 - https://coolshell.cn/
 - https://insights.thoughtworks.cn/
+#### Game
+- https://www.gamasutra.com/category/programming/
+- https://gamedevdigest.com/
 #### Js/Web
 - https://github.com/dt-fe/weekly 
 - https://github.com/gauseen/blog/issues/4
