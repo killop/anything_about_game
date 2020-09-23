@@ -742,6 +742,7 @@ Table of Contents
 - https://github.com/Azure/DotNetty
 - https://github.com/hiramtan/HiSocket
 - https://www.newlifex.com/
+- [NetCoreServer](https://github.com/chronoxor/NetCoreServer) Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution 
 #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -957,6 +958,7 @@ Table of Contents
 - https://www.3blue1brown.com/
 - http://www.matrix67.com/blog
 - https://mmaqa.com/
+- 游戏相关的几何分支:欧式几何、射影几何、微分几何、代数几何和非交换几何
 
 ## Physics Framework
 - https://github.com/bulletphysics/bullet3 - bullet
@@ -1218,6 +1220,8 @@ Table of Contents
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
+- https://mp.weixin.qq.com/s/RS3KYxq5hmLAGrmijk3FtQ 
+- https://bbs.perfdog.qq.com/article-detail.html?id=5
 
 ## Interview/DataStruct-Algorithms
 - https://github.com/0voice/interview_internal_reference#1
@@ -1338,6 +1342,7 @@ Table of Contents
 - https://getakka.net/ - Akka.Net
 - https://dotnet.github.io/orleans/ actor
 - https://github.com/xoofx/zio vfs
+- https://github.com/psmacchia/NDepend.Path path helper
 
 ## C
 - https://github.com/nothings/stb
@@ -1390,6 +1395,7 @@ Table of Contents
 - [dascript](https://dascript.org) daScript is high-level, statically strong typed scripting language, designed to be fast as embeddable ‘scripting’ language for C++ performance critical applications like games.
 - [neos](https://neos.dev/) neos is a cross-platform (C++) universal compiler that can theoretically compile any scripting/programming language.
 - [rune](https://github.com/rune-rs/rune/)
+- https://github.com/LemonVM/LemonVMRedesign2
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
