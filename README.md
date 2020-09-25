@@ -119,6 +119,7 @@ Table of Contents
     - [Color](#color)
     - [WebSite/Blog](#websiteblog)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
+  - [FPS](#fps)
 - [Interview/DataStruct-Algorithms](#interviewdatastruct-algorithms)
     - [Article](#article-4)
 - [Operating-System](#operating-system)
@@ -128,12 +129,13 @@ Table of Contents
     - [String](#string)
 - [Utils](#utils)
     - [C](#c-4)
+    - [C++](#c-5)
     - [GPU-Accelerator](#gpu-accelerator)
 - [Javascript](#javascript)
 - [Lua](#lua)
 - [Typescript](#typescript)
-- [C](#c-5)
 - [C](#c-6)
+- [C](#c-7)
 - [CPP](#cpp-2)
 - [Java](#java-1)
 - [CMAKE](#cmake)
@@ -258,6 +260,8 @@ Table of Contents
 - [宾狗](http://bindog.github.io/)
 - https://halfrost.com
 #### Foreigner
+- https://www.martinpalko.com/
+- https://www.ronja-tutorials.com/
 - https://blog.selfshadow.com/
 - https://www.gabrielgambetta.com/
 - [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的](http://baba-s.hatenablog.com/)
@@ -697,6 +701,7 @@ Table of Contents
 * Svelto.ECS - Lightweight data oriented entity component system framework [[github](https://github.com/sebas77/Svelto.ECS) ![sebas77/Svelto.ECS](https://img.shields.io/github/stars/sebas77/Svelto.ECS.svg?style=flat&label=Star&maxAge=86400)]
 * [Hydrogen.Entities](https://github.com/periodyctom/Hydrogen.Entities) - A collection of helpers for work with Unity's ECS framework, used in our games.
 * [Morpeh](https://github.com/X-Crew/Morpeh) ECS Framework for Unity Game Engine.
+* https://github.com/hdmmY/BillionsUnit
 
 #### Python
 * esper - A lightweight Entity System for Python [[github](https://github.com/benmoran56/esper) ![benmoran56/esper](https://img.shields.io/github/stars/benmoran56/esper.svg?style=flat&label=Star&maxAge=86400)]
@@ -1121,6 +1126,7 @@ Table of Contents
 - [MMS](https://miniscape.booth.pm/items/1627422)
 - [ReflexShader](https://reflex.booth.pm/items/1560511)
 - https://github.com/synqark/Arktoon-Shaders
+- https://github.com/ciro-unity/BotW-ToonShader
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
@@ -1220,6 +1226,8 @@ Table of Contents
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
+ 
+### FPS
 - https://mp.weixin.qq.com/s/RS3KYxq5hmLAGrmijk3FtQ 
 - https://bbs.perfdog.qq.com/article-detail.html?id=5
 
@@ -1313,7 +1321,8 @@ Table of Contents
 *   qlibc：一个简单且强大的 C 库，当我们想要小且轻的库时，可作为 Glib 的替代品。[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (类似于 [FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD"))。[官网](https://github.com/wolkykim/qlibc)
 *   stb：一系列单文件 C 库。公共领域。[官网](https://github.com/nothings/stb)
 *   [libcstl](http://hao.importnew.com/libcstl/)：标准C语言通用数据结构和常用算法库。[官网](http://libcstl.org/)
-
+#### C++
+* https://github.com/electronicarts/EASTL
 #### GPU-Accelerator
 - https://github.com/arrayfire/arrayfire
 
@@ -1396,6 +1405,8 @@ Table of Contents
 - [neos](https://neos.dev/) neos is a cross-platform (C++) universal compiler that can theoretically compile any scripting/programming language.
 - [rune](https://github.com/rune-rs/rune/)
 - https://github.com/LemonVM/LemonVMRedesign2
+- https://github.com/flix/flix
+ 
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
