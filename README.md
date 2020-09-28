@@ -24,7 +24,6 @@ Table of Contents
     - [Audio](#audio)
     - [Modeling](#modeling)
       - [Sculpture](#sculpture)
-      - [Cloth](#cloth)
       - [Hair](#hair)
       - [Human](#human)
     - [Effect](#effect)
@@ -499,8 +498,8 @@ Table of Contents
 - [sculptris](http://pixologic.com/sculptris/) 
 - [zbrush](http://pixologic.com/features/about-zbrush.php) 
 - [mudbox](http://www.autodesk.com/products/mudbox/overview)
-##### Cloth
 - [3dcoat](https://3dcoat.com/v4937/)
+
 ##### Hair
 - [hairstudio](https://assetstore.unity.com/packages/tools/modeling/hairstudio-early-access-164661) 
 - [ephere](https://ephere.com/)
@@ -516,6 +515,7 @@ Table of Contents
 #### Material
 - https://github.com/Metric/Materia  substance designer的 c#实现
 - https://rodzilla.itch.io/material-maker material-maker
+- https://quixel.com/bridge
 #### Remesh
 - https://github.com/huxingyi/autoremesher
 #### Terrain
@@ -1131,6 +1131,7 @@ Table of Contents
 - [ReflexShader](https://reflex.booth.pm/items/1560511)
 - https://github.com/synqark/Arktoon-Shaders
 - https://github.com/ciro-unity/BotW-ToonShader
+- https://gitlab.com/s-ilent/SCSS
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
