@@ -673,6 +673,7 @@ Table of Contents
 - https://msgpack.org/ messagepack
 - https://github.com/cloudwu/sproto sproto
 - https://uscilab.github.io/cereal/
+- https://github.com/mzaks/FlexBuffersUnity
 
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -747,6 +748,7 @@ Table of Contents
 - https://github.com/Azure/DotNetty
 - https://github.com/hiramtan/HiSocket
 - https://www.newlifex.com/
+- https://github.com/nxrighthere/NetStack
 - [NetCoreServer](https://github.com/chronoxor/NetCoreServer) Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution 
 #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
@@ -878,6 +880,7 @@ Table of Contents
 - https://github.com/nem0/LumixEngine
 - https://github.com/tkgamegroup/flame An ECS Game Engine Based On Reflection.
 - [WickedEngine](https://github.com/turanszkij/WickedEngine)
+- [Hazel](https://github.com/TheCherno/Hazel)
 
 
 ## 并发执行和多线程
@@ -1051,6 +1054,7 @@ Table of Contents
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
  
 #### Course/Article
+- [霜狼_may - TA技术美术学习体系框架](https://www.bilibili.com/video/av77755500)
 - https://github.com/lygyue/Books  （来自味精的图形学入门书籍）
 - [Unity图形渲染——基础渲染系列教程20篇](https://zhuanlan.zhihu.com/p/137429554)
 - [shader map总结](https://zhuanlan.zhihu.com/p/75497647) 
@@ -1159,6 +1163,7 @@ Table of Contents
 - [Unity中实现瓶中液体晃动的效果(从建模开始)](https://zhuanlan.zhihu.com/p/159913409)
 - [AQUAS Water](https://assetstore.unity.com/packages/tools/particles-effects/aquas-water-river-set-52103) UnityPlugin
 - [Stylized Water For URP](https://assetstore.unity.com/packages/vfx/shaders/stylized-water-for-urp-162025)  UnityPlugin
+- https://github.com/Scrawk/Brunetons-Ocean
 ##### Comon-Collection
 - https://github.com/ellioman/ShaderProject
 - https://github.com/adrian-miasik/unity-shaders
@@ -1297,6 +1302,7 @@ Table of Contents
 - https://github.com/LunaMultiplayer/CachedQuickLz Allows you to compress and decompress with QuickLz while keeping low the GC pressure
 - [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
 - [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
+- https://github.com/AArnott/Nerdbank.Streams 高效流
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### String
