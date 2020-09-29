@@ -996,7 +996,7 @@ Table of Contents
 - [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
 - [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
 - [Intel-GPA](https://software.intel.com/content/www/us/en/develop/tools/graphics-performance-analyzers.html)
-
+- [Android GPU Inspector](https://gpuinspector.dev/)
 
 ## ComputerGraphics && Shading
 
