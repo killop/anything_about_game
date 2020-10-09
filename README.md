@@ -186,6 +186,7 @@ Table of Contents
 - [文案排版](#文案排版)
 - [游戏策划](#游戏策划)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
+- [友情链接](#友情链接)
 - [看完不star，小心没jj :）!](#看完不star小心没jj-)
    
 ## News
@@ -1044,7 +1045,8 @@ Table of Contents
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
 - [sharpdx](http://sharpdx.org/) SharpDX is an open-source managed .NET wrapper of the DirectX API.
 - [SharpVulkan](https://github.com/jwollen/SharpVulkan) C# bindings for the Vulkan graphics API, used by the Xenko game engine.
-- [VulkanSharp](https://github.com/mono/VulkanSharp)
+- [VulkanSharp](https://github.com/mono/VulkanSharp) Open source .NET binding for the Vulkan API 
+- [Silk](https://github.com/Ultz/Silk.NET) Silk.NET is a high-speed, advanced library, providing bindings to popular low-level APIs such as OpenGL and OpenAL. Use Silk.NET to add cross-platform 3D graphics, audio, compute and haptics to your C# application.
 #### Collection
 - http://www.shaderslab.com/shaders.html
 - https://paroj.github.io/gltut/
@@ -1476,6 +1478,7 @@ Table of Contents
 - https://uiforia.io/
 - https://github.com/LudiKha/Graphene
 - https://github.com/ReactUnity/core
+- https://github.com/chexiongsheng/XUUI
 #### Moba
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
 #### Skill
@@ -1647,7 +1650,9 @@ Table of Contents
 
 ## Data
 #### Exchange
+- https://github.com/Cinchoo/ChoETL ETL Framework for .NET / c# (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml formatted files) 
 - https://github.com/alibaba/DataX 数据交换
+- https://github.com/mimetis/dotmim.sync A brand new database synchronization, multi platform, multi databases, developed on top of .Net Standard 2.0
 #### DataVisual&&Editor
 - [SuperSet](https://github.com/apache/incubator-superset)
 - [Redash](https://github.com/getredash/redash)
@@ -1721,6 +1726,8 @@ Table of Contents
 - https://github.com/soulteary/tenant-point 程序员如何租房子
 - https://wallroom.io 壁纸网站
 
+## 友情链接  
+* [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 这里主要是小伙伴们一起收集的跟游戏相关的精粹
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
 进群后跟群主(我)申请就好，群主是个很乐意分享的人
