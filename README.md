@@ -61,7 +61,7 @@ Table of Contents
     - [Python](#python)
     - [Rust](#rust)
     - [Benchmark](#benchmark)
-- [Virtual File Systems](#virtual-file-systems)
+- [File Systems](#file-systems)
 - [TCP/UDP](#tcpudp)
     - [Articles](#articles)
     - [C](#c-1)
@@ -187,6 +187,7 @@ Table of Contents
 - [看完不star，小心没jj :）!](#看完不star小心没jj-)
    
 ## News
+- https://www.libhunt.com/
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
 - http://www.ruanyifeng.com/blog/
@@ -713,9 +714,13 @@ Table of Contents
 #### Benchmark
 * [ecs_benchmark](https://github.com/abeimler/ecs_benchmark): EnTT vs. entityx vs. anax vs. Artemis-Cpp
 
-## Virtual File Systems
+## File Systems
 - https://github.com/mattiasgustavsson/libs
 - https://icculus.org/physfs/
+- https://github.com/Tape-Worm/Gorgon/tree/master/Gorgon/Gorgon.FileSystem
+- https://github.com/xoofx/zio vfs
+- https://github.com/psmacchia/NDepend.Path path helper
+- GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 ## TCP/UDP
 #### Articles
 - [硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484005&idx=1&sn=cb07ee1c891a7bdd0af3859543190202&chksm=f98e46cfcef9cfd9feb8b9df043a249eb5f226a927fd6d4065e99e62a645a584005d9921541b&scene=126&sessionid=1587373655&key=c1e3f751e477aefb2785e5e67e936b31e51cd2b2080391621fbd3fc27b4764cf9b02e0c6c25104fa7e3c90b7719ebe683a4fb3bc0a8bb16625e5b8696c4bb2133088ceea58e071e4f06742b5d6cf8225&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AQXqc918kP9oyoqf8cruy24%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding ）
@@ -881,8 +886,8 @@ Table of Contents
 - https://github.com/tkgamegroup/flame An ECS Game Engine Based On Reflection.
 - [WickedEngine](https://github.com/turanszkij/WickedEngine)
 - [Hazel](https://github.com/TheCherno/Hazel)
-
-
+- [FNA](https://github.com/FNA-XNA/FNA) FNA - Accuracy-focused XNA4 reimplementation for open platforms
+- [Gorgon](https://github.com/Tape-Worm/Gorgon)
 ## 并发执行和多线程
 #### CPP
 *   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
@@ -957,6 +962,7 @@ Table of Contents
 - https://zh.numberempire.com/
 - http://penrose.ink/
 - https://www.keycurriculum.com/
+- http://tobyschachman.com/Shadershop/
 
 #### Courses/Article/website
 - https://www.wolfram.com/
@@ -1031,8 +1037,12 @@ Table of Contents
  
 #### 3rd-Binding
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
+- [sharpdx](http://sharpdx.org/) SharpDX is an open-source managed .NET wrapper of the DirectX API.
+- [SharpVulkan](https://github.com/jwollen/SharpVulkan) C# bindings for the Vulkan graphics API, used by the Xenko game engine.
+- [VulkanSharp](https://github.com/mono/VulkanSharp)
 #### Collection
 - http://www.shaderslab.com/shaders.html
+- https://paroj.github.io/gltut/
 - https://www.interactiveshaderformat.com/popular 
 - http://glslsandbox.com/
 - https://www.shadertoy.com/browse
@@ -1076,7 +1086,10 @@ Table of Contents
 - [IESviewer](http://photometricviewer.com/) IESviewer is the world's most popular photometric viewer. It lets you quickly view, find and convert photometric data files.1
 
 #### PlayGround
-- https://shadered.org/
+- [shadered](https://shadered.org/)
+- [shader-school](https://github.com/stackgl/shader-school)
+- [shaderfrog](https://shaderfrog.com/app/editor)
+- [glslEditor](https://github.com/patriciogonzalezvivo/glslEditor)
  
 #### GPU-Architecture
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
@@ -1320,7 +1333,7 @@ Table of Contents
 *   CPL：The Common Pipeline Library；一系列详尽，高效和强壮的软件工具包。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](http://www.eso.org/sci/software/cpl/)
 *   EFL：一个大型实用数据结构和函数的的集合。多种许可证，完全免费。[官网](https://www.enlightenment.org/p.php?p=about/efl)
 *   GLib：一个便携，高效和强大的实用函数和数据结构库。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。[官网](https://wiki.gnome.org/Projects/GLib)
-*   GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
+
 *   GObject：一个 C 的面向对象系统和对象模型。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。[官网](https://developer.gnome.org/gobject/stable/)
 *   libnih：一个轻量级的 C 函数和数据结构库。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/keybuk/libnih)
 *   libU：一个提供基本实用函数的迷你库，包括内存分配，字符串处理和日志功能。[官网](http://www.koanlogic.com/libu/)
@@ -1357,8 +1370,7 @@ Table of Contents
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://getakka.net/ - Akka.Net
 - https://dotnet.github.io/orleans/ actor
-- https://github.com/xoofx/zio vfs
-- https://github.com/psmacchia/NDepend.Path path helper
+
 
 ## C
 - https://github.com/nothings/stb
@@ -1481,6 +1493,7 @@ Table of Contents
 - https://asyncexpert.com/
 
 #### Node-Editor
+- [UAlive](https://github.com/LifeandStyleMedia/UAlive)
 - [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
 - [XNode](https://github.com/Siccity/xNode)
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
@@ -1534,6 +1547,7 @@ Table of Contents
  - [Boing Kit](https://assetstore.unity.com/packages/tools/particles-effects/boing-kit-dynamic-bouncy-bones-grass-water-and-more-135594)
  - [AutomaticDynamicBone](https://github.com/OneYoungMean/AutomaticDynamicBone)
  - [uSpringBone](https://github.com/EsProgram/uSpringBone)
+ - [Unity-DynamicBone-JobSystem-Opmized](https://github.com/dreamfairy/Unity-DynamicBone-JobSystem-Opmized)
  
  #### Burst&&JobSystem
  - https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation
@@ -1543,7 +1557,8 @@ Table of Contents
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
-
+- https://github.com/StbSharp
+ 
  #### Create Model
  - [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-2-x-111418)
  - [Archimatix](https://assetstore.unity.com/packages/tools/modeling/archimatix-pro-59733)
