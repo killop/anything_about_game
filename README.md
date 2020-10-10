@@ -516,7 +516,7 @@ Table of Contents
 #### Effect
 - [fusion](https://www.blackmagicdesign.com/products/fusion)
 - [nuke](https://www.foundry.com/products/nuke)
-
+- [emberGen](https://jangafx.com/software/embergen/)
 #### Material
 - https://github.com/Metric/Materia  substance designer的 c#实现
 - https://rodzilla.itch.io/material-maker material-maker
