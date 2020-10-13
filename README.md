@@ -1403,6 +1403,7 @@ Table of Contents
 - https://github.com/onqtam/awesome-cmake
 - https://github.com/iBicha/NativePluginBuilder
 - https://github.com/xiaoweiChen/Professional-CMake
+- https://www.bookstack.cn/books/CMake-Cookbook
 
 ## Embed-Script/VM/JIT
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) ts2lua
