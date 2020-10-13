@@ -711,7 +711,8 @@ Table of Contents
 * [Hydrogen.Entities](https://github.com/periodyctom/Hydrogen.Entities) - A collection of helpers for work with Unity's ECS framework, used in our games.
 * [Morpeh](https://github.com/X-Crew/Morpeh) ECS Framework for Unity Game Engine.
 * https://github.com/hdmmY/BillionsUnit
-
+* [NanoECS](https://github.com/SinyavtsevIlya/NanoECS)  c#-Unity ECS framework 
+* [LeoECS](https://github.com/Leopotam/ecs) LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
 #### Python
 * esper - A lightweight Entity System for Python [[github](https://github.com/benmoran56/esper) ![benmoran56/esper](https://img.shields.io/github/stars/benmoran56/esper.svg?style=flat&label=Star&maxAge=86400)]
 
