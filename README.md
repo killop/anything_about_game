@@ -1162,6 +1162,7 @@ Table of Contents
 - https://github.com/synqark/Arktoon-Shaders
 - https://github.com/ciro-unity/BotW-ToonShader
 - https://gitlab.com/s-ilent/SCSS
+- https://github.com/chrisloop
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
