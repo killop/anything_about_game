@@ -1396,11 +1396,13 @@ Table of Contents
 - [COLA](https://github.com/alibaba/COLA) Clean Object-Oriented and Layered Architecture
 - [SnowJena](https://github.com/ystcode/SnowJena) SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景。
 - [jodd](https://github.com/oblac/jodd)(Produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.)
+
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
 - https://github.com/ttroy50/cmake-examples
 - https://github.com/onqtam/awesome-cmake
 - https://github.com/iBicha/NativePluginBuilder
+- https://github.com/xiaoweiChen/Professional-CMake
 
 ## Embed-Script/VM/JIT
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) ts2lua
