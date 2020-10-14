@@ -904,6 +904,7 @@ Table of Contents
 - [Hazel](https://github.com/TheCherno/Hazel)
 - [FNA](https://github.com/FNA-XNA/FNA) FNA - Accuracy-focused XNA4 reimplementation for open platforms
 - [Gorgon](https://github.com/Tape-Worm/Gorgon)
+- [ezEngine](https://github.com/ezEngine/ezEngine) ezEngine is an open source C++ game engine in active development. It is currently mainly developed on Windows, and higher level functionality such as rendering and the tools are only available there, but the core libraries are also available for other platforms such as Mac and Linux.
 ## 并发执行和多线程
 #### CPP
 *   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
