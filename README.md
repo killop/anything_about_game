@@ -107,6 +107,7 @@ Table of Contents
       - [Decal](#decal)
       - [Face](#face)
       - [Water](#water)
+      - [Tree](#tree)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
       - [URP/SPR/HDRP Course](#urpsprhdrp-course)
@@ -115,7 +116,6 @@ Table of Contents
       - [Post-Process](#post-process)
       - [Fur](#fur)
       - [Holographic](#holographic)
-      - [Water](#water-1)
     - [MatCaps](#matcaps)
     - [Ray-Tracing](#ray-tracing)
     - [Color](#color)
@@ -664,6 +664,7 @@ Table of Contents
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
 - [细谈网络同步在游戏历史中的发展变化 (上)](https://zhuanlan.zhihu.com/p/130702310)
 - [细谈网络同步在游戏历史中的发展变化 (中)](https://zhuanlan.zhihu.com/p/164686867)
+- [smooth-sync-unity-plugin](https://assetstore.unity.com/packages/tools/network/smooth-sync-96925) 
 #### Lockstep
 - http://netcoding4d.com/
 - https://github.com/JiepengTan/LockstepECS 
@@ -672,6 +673,7 @@ Table of Contents
 
 #### status-syn
 - https://github.com/zpl-c/librg
+
 
 ## Serialization
 - https://github.com/chronoxor/CppSerialization benckmark
@@ -773,6 +775,7 @@ Table of Contents
 - https://www.newlifex.com/
 - https://github.com/nxrighthere/NetStack
 - [NetCoreServer](https://github.com/chronoxor/NetCoreServer) Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution 
+- [Sockets Under Control unity-plugin](https://assetstore.unity.com/packages/tools/network/sockets-under-control-159512)
 #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -1199,7 +1202,11 @@ Table of Contents
 - [Unity中实现瓶中液体晃动的效果(从建模开始)](https://zhuanlan.zhihu.com/p/159913409)
 - [AQUAS Water](https://assetstore.unity.com/packages/tools/particles-effects/aquas-water-river-set-52103) UnityPlugin
 - [Stylized Water For URP](https://assetstore.unity.com/packages/vfx/shaders/stylized-water-for-urp-162025)  UnityPlugin
+- [Dynamic Water Physics 2 ](https://assetstore.unity.com/packages/tools/physics/dynamic-water-physics-2-147990) UnityPlugin
 - https://github.com/Scrawk/Brunetons-Ocean
+- https://github.com/Verasl/BoatAttack water
+##### Tree
+- [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
 ##### Comon-Collection
 - https://github.com/ellioman/ShaderProject
 - https://github.com/adrian-miasik/unity-shaders
@@ -1226,11 +1233,12 @@ Table of Contents
 - https://github.com/keijiro/KinoBloom 牛逼的bloom
 ##### Fur
 - http://sorumi.xyz/posts/unity-fur-shader/
+- [XFur Studio 2 unity-plugin](https://assetstore.unity.com/packages/tools/particles-effects/pidi-xfur-studio-2-ultimate-edition-145885)
 #####  Holographic
 - [Unity切片类全息效果](https://mp.weixin.qq.com/s/vUmuq3Tek4vypJiy7da4Sw)
 
-##### Water
-- https://github.com/Verasl/BoatAttack water
+
+
 
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps
@@ -1502,6 +1510,7 @@ Table of Contents
 - https://github.com/LudiKha/Graphene
 - https://github.com/ReactUnity/core
 - https://github.com/chexiongsheng/XUUI
+- https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 #### Moba
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
 #### Skill
