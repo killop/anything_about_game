@@ -685,6 +685,7 @@ Table of Contents
 - https://github.com/cloudwu/sproto sproto
 - https://uscilab.github.io/cereal/
 - https://github.com/mzaks/FlexBuffersUnity
+- https://github.com/ReubenBond/Hagar
 
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -1300,7 +1301,7 @@ Table of Contents
 - https://github.com/geekxh/hello-algorithm
 - https://github.com/Xunzhuo/Algorithms-in-4-Steps
 - https://github.com/halfrost/LeetCode-Go
-- https://github.com/crisxuan/bestJavaer
+- 
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -1334,7 +1335,10 @@ Table of Contents
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - https://surparallel.org unity 多线程优化工具
-- https://github.com/bitfaster/BitFaster.Caching 高性能cache  
+- https://github.com/bitfaster/BitFaster.Caching 高性能cache 
+- https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
+- https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
+- https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
 - https://github.com/LunaMultiplayer/CachedQuickLz Allows you to compress and decompress with QuickLz while keeping low the GC pressure
 - [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
 - [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
