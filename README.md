@@ -29,7 +29,6 @@ Table of Contents
     - [Effect](#effect)
     - [Material](#material)
     - [Remesh](#remesh)
-    - [Terrain](#terrain)
     - [List-of-game-middleware](#list-of-game-middleware)
     - [Texture](#texture)
         - [PIX-Texture](#pix-texture)
@@ -40,6 +39,12 @@ Table of Contents
     - [Design](#design)
     - [locale](#locale)
 - [CG](#cg)
+- [Scene](#scene)
+    - [Terrain](#terrain)
+    - [Procedural Scene Generation](#procedural-scene-generation)
+    - [Tree/Vegetation](#treevegetation)
+    - [Road](#road)
+    - [River](#river)
 - [Video-Tool/Editor](#video-tooleditor)
 - [Music-Tool/Editor](#music-tooleditor)
 - [Procedurally Generate](#procedurally-generate)
@@ -107,7 +112,6 @@ Table of Contents
       - [Decal](#decal)
       - [Face](#face)
       - [Water](#water)
-      - [Tree](#tree)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
       - [URP/SPR/HDRP Course](#urpsprhdrp-course)
@@ -126,6 +130,7 @@ Table of Contents
     - [Article](#article-4)
 - [Operating-System](#operating-system)
     - [IO](#io)
+- [Bad World Filter](#bad-world-filter)
 - [高性能数据结构和算法](#高性能数据结构和算法)
     - [MMO](#mmo)
     - [String](#string)
@@ -525,9 +530,7 @@ Table of Contents
 - https://quixel.com/bridge
 #### Remesh
 - https://github.com/huxingyi/autoremesher
-#### Terrain
-- http://www.world-machine.com/
-- https://www.world-creator.com/
+
 
 #### List-of-game-middleware
 - https://en.wikipedia.org/wiki/List_of_game_middleware
@@ -578,10 +581,40 @@ Table of Contents
  
 #### locale
 - https://weblate.org/zh-hans/
- 
+- https://molingyu.github.io/RosettaDocs/  本地化
 ## CG
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 
+## Scene
+#### Terrain
+- http://www.world-machine.com/
+- https://www.world-creator.com/
+- [Gaia](https://assetstore.unity.com/packages/tools/terrain/gaia-pro-terrain-scene-generator-155852) UnityPlugin
+- [Gena](https://assetstore.unity.com/packages/tools/terrain/gena-2-terrain-scene-spawner-127636) UnityPlugin
+- [SECTR COMPLETE](https://assetstore.unity.com/packages/tools/terrain/sectr-complete-2019-144433) UnityPlugin
+- [CTS](https://assetstore.unity.com/packages/tools/terrain/cts-2019-complete-terrain-shader-140806) UnityPlugin
+- [Map Magic](https://assetstore.unity.com/packages/tools/terrain/mapmagic-world-generator-56762) UnityPlugin
+- [Terrain Composer](https://assetstore.unity.com/packages/tools/terrain/terrain-composer-2-65563) UnityPlugin
+- [Landscape Builder](https://assetstore.unity.com/packages/tools/terrain/landscape-builder-55463) UnityPlugin
+- [TerraLand 3](https://assetstore.unity.com/packages/tools/terrain/terraland-3-119097) UnityPlugin
+- [MegaSplat](https://assetstore.unity.com/packages/tools/terrain/megasplat-76166?aid=1011l37NJ&utm_source=aff) UnityPlugin
+- [World Streamer](https://assetstore.unity.com/packages/tools/terrain/world-streamer-2-176482) UnityPlugin
+- [Voxeland](https://assetstore.unity.com/packages/tools/terrain/voxeland-9180) UnityPlugin
+#### Procedural Scene Generation
+- [citygen3d](https://assetstore.unity.com/packages/tools/terrain/citygen3d-162468) UnityPlugin
+- [Arcgis](https://developers.arcgis.com/unity-sdk/reference/release-notes/) UnityPlugin
+- [OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
+#### Tree/Vegetation
+- [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
+- [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
+- [Nature Renderer](https://assetstore.unity.com/packages/tools/terrain/nature-renderer-153552) UnityPlugin
+- [Open World Nature Kit](https://assetstore.unity.com/packages/3d/environments/landscapes/open-world-nature-kit-150748) UnityPlugin
+- [Alttrees System](https://assetstore.unity.com/packages/tools/terrain/alttrees-system-beta-76657) UnityPlugin
+#### Road 
+- [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
+- [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
+#### River
+- [R.A.M 2019 - River Auto Material 2019](https://assetstore.unity.com/packages/tools/terrain/r-a-m-2019-river-auto-material-2019-145937) UnityPlugin
 ## Video-Tool/Editor
 - https://www.vegaschina.cn
 - https://www.edius.net/
@@ -956,6 +989,7 @@ Table of Contents
 - https://github.com/GregLukosek/3DMath
 - https://github.com/FreyaHolmer/Mathfs
 - https://github.com/volfegan/GeometricAlgorithms
+- https://github.com/nol1fe/delaunator-sharp
 
 #### CPP
 - https://www.geometrictools.com/ geometrictools
@@ -1205,8 +1239,7 @@ Table of Contents
 - [Dynamic Water Physics 2 ](https://assetstore.unity.com/packages/tools/physics/dynamic-water-physics-2-147990) UnityPlugin
 - https://github.com/Scrawk/Brunetons-Ocean
 - https://github.com/Verasl/BoatAttack water
-##### Tree
-- [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
+
 ##### Comon-Collection
 - https://github.com/ellioman/ShaderProject
 - https://github.com/adrian-miasik/unity-shaders
@@ -1335,11 +1368,14 @@ Table of Contents
 - [清华大牛权威讲解nio,epoll,多路复用](https://www.bilibili.com/video/BV11K4y1C7rm?p=2)
 - [Linux 内核详解以及内核缓冲区技术](https://blog.csdn.net/qq_44919483/article/details/89509559)
 
+## Bad World Filter
+- [bad-word-filter](https://assetstore.unity.com/packages/tools/localization/bad-word-filter-pro-26255) unity-plugin
+- https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
+- https://github.com/NewbieGameCoder/IllegalWordsDetection 敏感词过滤
+  
 ## 高性能数据结构和算法
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
-- https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
-- https://github.com/NewbieGameCoder/IllegalWordsDetection 敏感词过滤
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - https://surparallel.org unity 多线程优化工具
@@ -1501,7 +1537,6 @@ Table of Contents
 - https://github.com/jarjin/FinalFramework
 - https://github.com/Tencent/InjectFix
 - https://github.com/hadashiA/VContainer
-- [OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
 
 - https://github.com/Justin-sky/Nice-Lua
 
@@ -1555,7 +1590,7 @@ Table of Contents
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 
 #### Unity 特色工程（精粹）
--  https://molingyu.github.io/RosettaDocs/  本地化
+
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
