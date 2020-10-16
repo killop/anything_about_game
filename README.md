@@ -209,6 +209,7 @@ Table of Contents
 - https://coolshell.cn/
 - https://insights.thoughtworks.cn/
 #### Game
+- http://www.red3d.com
 - https://www.gamasutra.com/category/programming/
 - https://gamedev.net/
 - http://www.onrpg.com/
@@ -269,6 +270,7 @@ Table of Contents
 - [叛逆者](https://www.zhihu.com/people/minmin.gong) 
 - [秦春林](http://www.thegibook.com/blog/) 
 - [宾狗](http://bindog.github.io/)
+- [Tim's Blog](https://wuzhiwei.net/)
 - https://halfrost.com
 #### Foreigner
 - https://www.martinpalko.com/
@@ -371,7 +373,6 @@ Table of Contents
 - https://turanszkij.wordpress.com/
 - http://www.adriancourreges.com/blog/
 - https://aras-p.info/blog/
-- https://www.alanzucconi.com/page/2/
 - https://lxjk.github.io/
 - http://trevorius.com/scrapbook/blog/
 - http://reedbeta.com/all/
@@ -1720,6 +1721,7 @@ Table of Contents
 -  https://github.com/Unity-Technologies/SuperScience 官方3rd 移动模拟
 -  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
+-  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 
 ## Data
 #### Exchange
