@@ -37,7 +37,8 @@ Table of Contents
     - [Material](#material-1)
     - [Tile](#tile)
     - [Design](#design)
-    - [locale](#locale)
+- [locale](#locale)
+- [Console](#console)
 - [CG](#cg)
 - [Scene](#scene)
     - [Terrain](#terrain)
@@ -580,9 +581,17 @@ Table of Contents
 - https://dribbble.com/
 - https://www.pinterest.com/
  
-#### locale
+## locale
 - https://weblate.org/zh-hans/
 - https://molingyu.github.io/RosettaDocs/  本地化
+  
+## Console
+- [BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole)
+- [Reactor-Developer-Console](https://github.com/mustafayaya/Reactor-Developer-Console) 
+- [Quantum Console](https://assetstore.unity.com/packages/tools/utilities/quantum-console-128881) unity-plugin
+- [srdebugger](https://assetstore.unity.com/packages/tools/gui/srdebugger-console-tools-on-device-27688) unity-plugin
+- [debugging-essentials](https://assetstore.unity.com/packages/tools/utilities/debugging-essentials-170773) unity-plugin
+- [hdg-remote-debug](https://assetstore.unity.com/packages/tools/utilities/hdg-remote-debug-live-update-tool-61863) unity-plugin
 ## CG
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 
@@ -1722,6 +1731,7 @@ Table of Contents
 -  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
+-  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
 
 ## Data
 #### Exchange
