@@ -272,6 +272,11 @@ Table of Contents
 - [秦春林](http://www.thegibook.com/blog/) 
 - [宾狗](http://bindog.github.io/)
 - [Tim's Blog](https://wuzhiwei.net/)
+- [dev666](https://www.yuque.com/dev666)
+- [Unity - L.S的博客](http://www.lsngo.net/)
+- [杨文聪](https://yangwc.com/)
+- [wuch441692](http://rainyeve.com/wordpress/)
+- [A-SHIN](https://huangx916.github.io/)
 - https://halfrost.com
 #### Foreigner
 - https://www.martinpalko.com/
