@@ -12,6 +12,8 @@
 - [塞尔达传说：荒野之息 技术分析1](https://zhuanlan.zhihu.com/p/25662588)
 - [塞尔达风之杖技术分析-角色渲染和面部表情](https://zhuanlan.zhihu.com/p/26140321)
 - [《塞尔达-荒野之息》中角色受多个点光源影响做法](http://walkingfat.com/%E3%80%8A%E5%A1%9E%E5%B0%94%E8%BE%BE-%E8%8D%92%E9%87%8E%E4%B9%8B%E6%81%AF%E3%80%8B%E4%B8%AD%E8%A7%92%E8%89%B2%E5%8F%97%E5%A4%9A%E4%B8%AA%E7%82%B9%E5%85%89%E6%BA%90%E5%BD%B1%E5%93%8D%E5%81%9A%E6%B3%95/?tdsourcetag=s_pcqq_aiomsg)
+## 天涯明月刀
+- [《天涯明月刀手游》的渲染分析](https://zhuanlan.zhihu.com/p/266850390)
 ## 火影忍者：究级风暴
 - [《火影忍者：究级风暴》渲染技术究极解析](https://gameinstitute.qq.com/community/detail/106712)
 ## 楚留香
