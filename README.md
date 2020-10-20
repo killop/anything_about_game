@@ -1570,6 +1570,7 @@ Table of Contents
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
 #### Skill
 - https://github.com/huailiang/seqence 剧情-技能编辑器
+- https://github.com/jewer3330/plato 技能编辑器
 - https://github.com/Elfansoer/dota-2-lua-abilities
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
@@ -1675,6 +1676,7 @@ Table of Contents
  - [skinned-mesh-combiner](https://assetstore.unity.com/packages/templates/systems/skinned-mesh-combiner-mt-135422)
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
+ - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
