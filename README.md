@@ -175,6 +175,7 @@ Table of Contents
     - [Texture](#texture-1)
     - [Create Model](#create-model)
     - [Mesh](#mesh-1)
+    - [Fog](#fog)
     - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
@@ -279,6 +280,7 @@ Table of Contents
 - [A-SHIN](https://huangx916.github.io/)
 - https://halfrost.com
 #### Foreigner
+- https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
 - https://www.ronja-tutorials.com/
 - https://blog.selfshadow.com/
@@ -747,6 +749,8 @@ Table of Contents
 - [LiteDB](https://github.com/mbdavid/LiteDB) LiteDB - A .NET NoSQL Document Store in a single data file 
 - [ravendb](https://github.com/ravendb/ravendb) ACID Document Database 
 - [MasterMemory](https://github.com/Cysharp/MasterMemory) Embedded Typed Readonly In-Memory Document Database for .NET Core and Unity. 
+- [RepoDB](https://github.com/mikependon/RepoDB) RepoDB is an open-source .NET ORM library that bridges the gaps of micro-ORMs and full-ORMs. It helps you simplify the switch-over of when to use the BASIC and ADVANCE operations during the development.
+- [FASTER](https://github.com/microsoft/FASTER) Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
 ## ECS Libraries
 
 #### C/C++
@@ -1671,7 +1675,8 @@ Table of Contents
  - [skinned-mesh-combiner](https://assetstore.unity.com/packages/templates/systems/skinned-mesh-combiner-mt-135422)
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
-
+#### Fog
+- [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
 -  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
 #### Editor
