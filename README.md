@@ -1543,10 +1543,13 @@ Table of Contents
 - https://github.com/Warl-G/GRUnityTools
 
 #### AssetBundle
+- [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
 - [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
 - [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) Yet another asset bundle manager for Unity.
 - [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) A rule based addressable asset importer 
+- [HiAssetBundle_unity](https://github.com/hiramtan/HiAssetBundle_unity) Unity's asset bundle solution for end-users to access resources dynamically at runtime. 
+- [assetUpdater](https://github.com/sNaticY/assetUpdater-core) AssetUpdater is a Unity plugin which helps developers build assetbundles and download it easily 
 #### Framework
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
