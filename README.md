@@ -154,6 +154,7 @@ Table of Contents
     - [Tools](#tools)
 - [Unity](#unity)
     - [Awesome-Unity](#awesome-unity)
+    - [AssetBundle](#assetbundle)
     - [Framework](#framework-1)
     - [UI](#ui-1)
     - [Moba](#moba)
@@ -1290,9 +1291,6 @@ Table of Contents
 #####  Holographic
 - [Unity切片类全息效果](https://mp.weixin.qq.com/s/vUmuq3Tek4vypJiy7da4Sw)
 
-
-
-
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps
 
@@ -1544,6 +1542,11 @@ Table of Contents
 - https://github.com/needle-tools/compilation-visualizer
 - https://github.com/Warl-G/GRUnityTools
 
+#### AssetBundle
+- [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
+- [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
+- [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) Yet another asset bundle manager for Unity.
+- [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) A rule based addressable asset importer 
 #### Framework
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
@@ -1557,7 +1560,6 @@ Table of Contents
 - https://github.com/jarjin/FinalFramework
 - https://github.com/Tencent/InjectFix
 - https://github.com/hadashiA/VContainer
-
 - https://github.com/Justin-sky/Nice-Lua
 
 #### UI
