@@ -163,6 +163,7 @@ Table of Contents
     - [Database](#database-1)
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
+    - [GPU-Animation](#gpu-animation)
     - [AI](#ai)
     - [UGUI](#ugui)
     - [Util](#util)
@@ -1602,7 +1603,9 @@ Table of Contents
 - [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
 - [XNode](https://github.com/Siccity/xNode)
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
-
+- [BlueGraph](https://github.com/McManning/BlueGraph)
+#### GPU-Animation
+- [Animation-Texture-Bake](https://github.com/sugi-cho/Animation-Texture-Baker)
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 
