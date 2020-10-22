@@ -992,10 +992,11 @@ Table of Contents
 *   TinyCThread：一个可扩展，小型的 C11 标准线程 API 实现。[zlib](http://directory.fsf.org/wiki/License:Zlib)。[官网](https://tinycthread.github.io/)
 
 ## Game-Math
-
+- https://www.cgal.org/
+- https://www.geometrictools.com/ geometrictools
+- https://github.com/gradientspace/geometry3Sharp geometry3Sharp
 - https://github.com/Unity-Technologies/Unity.Mathematics unityMath  
 - https://github.com/zalo/MathUtilities  MathUtilities
-- https://github.com/gradientspace/geometry3Sharp geometry3Sharp
 - http://www.angusj.com/delphi/clipper.php clipper库
 - [Math Library for Unity unity插件](https://assetstore.unity.com/packages/tools/math-library-for-unity-14912) 
 - https://archive.codeplex.com/?p=triangle triangle-三角形
@@ -1011,9 +1012,8 @@ Table of Contents
 - https://github.com/FreyaHolmer/Mathfs
 - https://github.com/volfegan/GeometricAlgorithms
 - https://github.com/nol1fe/delaunator-sharp
-
+- https://github.com/Habrador/Computational-geometry
 #### CPP
-- https://www.geometrictools.com/ geometrictools
 - https://github.com/Ubpa/UGM
 - https://gitee.com/773622153/glm
 - https://gitlab.com/libeigen/eigen
