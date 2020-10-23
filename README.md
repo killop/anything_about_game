@@ -184,7 +184,6 @@ Table of Contents
       - [Textrue Compression](#textrue-compression)
         - [Article](#article-5)
     - [Message Bus](#message-bus)
-    - [Audio](#audio-1)
     - [Movement](#movement)
 - [Data](#data)
     - [Exchange](#exchange)
@@ -507,7 +506,8 @@ Table of Contents
 - [miles](http://www.radgametools.com/miles.htm)
 - [criware](http://www.criware.cn/)
 - [artlist](https://artlist.io/)
-
+- [native-audio](https://assetstore.unity.com/packages/tools/audio/native-audio-107067) unity-plugin
+- [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) microsoft Audio-Manager-for-Unity
 #### Modeling
 - https://www.substance3d.com/ sb
 - https://www.sidefx.com/ houdini
@@ -1738,8 +1738,7 @@ Table of Contents
 - [MessageKit](https://github.com/prime31/MessageKit) - Decoupled message sending system meant as a replacement for SendMessage and its variantslibrary
 - [edriven](https://github.com/dkozar/edriven) - Event-driven / asynchronous framework for Unity3d
 
-#### Audio
-- [native-audio](https://assetstore.unity.com/packages/tools/audio/native-audio-107067)
+
 
 #### Movement
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131)
