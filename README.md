@@ -159,6 +159,7 @@ Table of Contents
     - [UI](#ui-1)
     - [Moba](#moba)
     - [Skill](#skill)
+    - [Global illumination (GI)](#global-illumination-gi)
     - [Animation](#animation-1)
     - [Database](#database-1)
     - [Asyn-Await](#asyn-await)
@@ -184,6 +185,7 @@ Table of Contents
       - [Textrue Compression](#textrue-compression)
         - [Article](#article-5)
     - [Message Bus](#message-bus)
+    - [Time control](#time-control)
     - [Movement](#movement)
 - [Data](#data)
     - [Exchange](#exchange)
@@ -711,6 +713,8 @@ Table of Contents
 - https://www.comblockengine.com
 - https://github.com/cocowolf/kestrel
 - https://github.com/ketoo/NoahGameFrame
+- https://github.com/Golangltd/LollipopGo
+- https://github.com/servicetitan/Stl.Fusion
 
 #### Article
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
@@ -1459,6 +1463,7 @@ Table of Contents
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://getakka.net/ - Akka.Net
 - https://dotnet.github.io/orleans/ actor
+- https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架 
 
 
 ## C
@@ -1541,7 +1546,7 @@ Table of Contents
 - https://github.com/insthync/awesome-unity3d
 - https://github.com/RyanNielson/awesome-unity
 - https://github.com/needle-tools/compilation-visualizer
-- https://github.com/Warl-G/GRUnityTools
+- https://github.com/Warl-G/GRUnityTools 
 
 #### AssetBundle
 - [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
@@ -1578,6 +1583,9 @@ Table of Contents
 - https://github.com/huailiang/seqence 剧情-技能编辑器
 - https://github.com/jewer3330/plato 技能编辑器
 - https://github.com/Elfansoer/dota-2-lua-abilities
+#### Global illumination (GI)
+- [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
+
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/huailiang/knead_proj unity  捏脸
@@ -1738,12 +1746,14 @@ Table of Contents
 - [MessageKit](https://github.com/prime31/MessageKit) - Decoupled message sending system meant as a replacement for SendMessage and its variantslibrary
 - [edriven](https://github.com/dkozar/edriven) - Event-driven / asynchronous framework for Unity3d
 
-
-
+#### Time control
+- [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
+- [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
 #### Movement
-- [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131)
-- [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966)
-- [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html)
+- [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
+- [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
+- [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
+- [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html) 
 - [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
 - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
 -  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
