@@ -1614,6 +1614,14 @@ Table of Contents
 - [BlueGraph](https://github.com/McManning/BlueGraph)
 #### GPU-Animation
 - [Animation-Texture-Bake](https://github.com/sugi-cho/Animation-Texture-Baker)
+- [GPU_Mesh_Instancing](https://github.com/studentutu/GPU_Mesh_Instancing)
+- [UnityGpuInstancing](https://github.com/kitasenjudesign/UnityGpuInstancing)
+- [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing)
+- [Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
+- [GPGPU Computing Animation & Skinning](https://zhuanlan.zhihu.com/p/50640269)
+- [GPUAnimation](https://github.com/joeante/Unity.GPUAnimation)
+- [GPU Instancer - Crowd Animations](https://assetstore.unity.com/packages/tools/animation/gpu-instancer-crowd-animations-145114) unity-plugin
+- [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 
