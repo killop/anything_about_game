@@ -745,6 +745,8 @@ Table of Contents
 - https://uscilab.github.io/cereal/
 - https://github.com/mzaks/FlexBuffersUnity
 - https://github.com/ReubenBond/Hagar
+- https://github.com/1996v/Bssom.Net
+- https://github.com/Dogwei/Swifter.MessagePack
 
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
