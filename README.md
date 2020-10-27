@@ -165,6 +165,7 @@ Table of Contents
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
     - [GPU-Animation](#gpu-animation)
+    - [Climb System](#climb-system)
     - [AI](#ai)
     - [UGUI](#ugui)
     - [Util](#util)
@@ -1613,6 +1614,7 @@ Table of Contents
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
 - [BlueGraph](https://github.com/McManning/BlueGraph)
 #### GPU-Animation
+- [Unity-Gpu-Skinning-Tool](https://github.com/ForeverZack/Unity-Gpu-Skinning-Tool)
 - [Animation-Texture-Bake](https://github.com/sugi-cho/Animation-Texture-Baker)
 - [GPU_Mesh_Instancing](https://github.com/studentutu/GPU_Mesh_Instancing)
 - [UnityGpuInstancing](https://github.com/kitasenjudesign/UnityGpuInstancing)
@@ -1622,6 +1624,8 @@ Table of Contents
 - [GPUAnimation](https://github.com/joeante/Unity.GPUAnimation)
 - [GPU Instancer - Crowd Animations](https://assetstore.unity.com/packages/tools/animation/gpu-instancer-crowd-animations-145114) unity-plugin
 - [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
+#### Climb System
+- [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 
