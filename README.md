@@ -7,8 +7,8 @@ Table of Contents
     - [Go](#go)
     - [Graphics](#graphics)
 - [Person/Social/Blogs](#personsocialblogs)
-    - [China](#china)
-    - [Foreigner](#foreigner)
+    - [Chinese](#chinese)
+    - [English](#english)
 - [Awesome-General](#awesome-general)
 - [Awesome-Game](#awesome-game)
 - [Game-Company](#game-company)
@@ -238,7 +238,7 @@ Table of Contents
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/)
  
 ## Person/Social/Blogs
-#### China
+#### Chinese
 - [skywind](http://www.skywind.me/blog/)
 - [行尸走肉的笔记](http://walkingfat.com/)
 - [TraceYang的空间 关注跨平台次世代游戏开发](https://www.cnblogs.com/TracePlus/default.html?page=2)
@@ -282,8 +282,9 @@ Table of Contents
 - [杨文聪](https://yangwc.com/)
 - [wuch441692](http://rainyeve.com/wordpress/)
 - [A-SHIN](https://huangx916.github.io/)
+- [苍白的茧](http://www.dreamfairy.cn)
 - https://halfrost.com
-#### Foreigner
+#### English
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
 - https://www.ronja-tutorials.com/
@@ -1624,8 +1625,10 @@ Table of Contents
 - [Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
 - [GPGPU Computing Animation & Skinning](https://zhuanlan.zhihu.com/p/50640269)
 - [GPUAnimation](https://github.com/joeante/Unity.GPUAnimation)
+- [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
 - [GPU Instancer - Crowd Animations](https://assetstore.unity.com/packages/tools/animation/gpu-instancer-crowd-animations-145114) unity-plugin
 - [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
+- [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
 #### Climb System
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 #### AI
