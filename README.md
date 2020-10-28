@@ -623,6 +623,7 @@ Table of Contents
 - [MegaSplat](https://assetstore.unity.com/packages/tools/terrain/megasplat-76166?aid=1011l37NJ&utm_source=aff) UnityPlugin
 - [World Streamer](https://assetstore.unity.com/packages/tools/terrain/world-streamer-2-176482) UnityPlugin
 - [Voxeland](https://assetstore.unity.com/packages/tools/terrain/voxeland-9180) UnityPlugin
+- [terrain-grid-system](https://assetstore.unity.com/packages/tools/terrain/terrain-grid-system-47215)UnityPlugin
 #### Procedural Scene Generation
 - [citygen3d](https://assetstore.unity.com/packages/tools/terrain/citygen3d-162468) UnityPlugin
 - [Arcgis](https://developers.arcgis.com/unity-sdk/reference/release-notes/) UnityPlugin
@@ -1274,6 +1275,7 @@ Table of Contents
 - https://github.com/ellioman/ShaderProject
 - https://github.com/adrian-miasik/unity-shaders
 - https://github.com/CrowFea/ShaderToy
+- https://github.com/KaimaChen/Unity-Shader-Demo
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
@@ -1468,7 +1470,7 @@ Table of Contents
 - https://getakka.net/ - Akka.Net
 - https://dotnet.github.io/orleans/ actor
 - https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架 
-
+- https://github.com/nodatime/nodatime 时间管理
 
 ## C
 - https://github.com/nothings/stb
@@ -1574,6 +1576,7 @@ Table of Contents
 - https://github.com/Tencent/InjectFix
 - https://github.com/hadashiA/VContainer
 - https://github.com/Justin-sky/Nice-Lua
+- https://github.com/Juce-Assets/
 
 #### UI
 - https://uiforia.io/
@@ -1611,6 +1614,7 @@ Table of Contents
 - https://asyncexpert.com/
 - https://github.com/StephenCleary/AsyncEx
 #### Node-Editor
+- [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
 - [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
 - [XNode](https://github.com/Siccity/xNode)
