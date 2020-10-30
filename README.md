@@ -71,11 +71,11 @@ Table of Contents
     - [Rust](#rust)
     - [Benchmark](#benchmark)
 - [File Systems](#file-systems)
-- [TCP/UDP](#tcpudp)
+- [NetWork](#network)
     - [Articles](#articles)
     - [C](#c-2)
     - [C/CPP](#ccpp)
-- [Web/Http-fastest](#webhttp-fastest)
+    - [Web/Http-fastest](#webhttp-fastest)
 - [2D Engines and Frameworks](#2d-engines-and-frameworks)
 - [3D Engines and Frameworks](#3d-engines-and-frameworks)
 - [并发执行和多线程](#并发执行和多线程)
@@ -176,6 +176,7 @@ Table of Contents
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Effect](#effect-1)
     - [Tween](#tween)
+    - [Scriptable Object](#scriptable-object)
     - [DOTS](#dots)
     - [Tile map](#tile-map)
     - [Bone&&Spring](#bonespring)
@@ -469,7 +470,7 @@ Table of Contents
 - https://sketchfab.com/
 - www.cgsoso.com 
 - https://www.humblebundle.com/
-- https://www.mixamo.com/#/
+
 - https://www.rrcg.cn/
 - http://www.polycount.com/forum/ - 他们有不同的招募论坛，包括有薪与无薪。- http://www.reddit.com/r/GameDevClassifieds - 发布你的工作，确认酬劳状态。浏览寻找艺术家。
 - http://www.gamedev.net/classifieds - GameDev.net 工作版块。
@@ -494,7 +495,7 @@ Table of Contents
 - [dragonbones](http://dragonbones.effecthub.com/) 
 - [creature](http://creature.kestrelmoon.com/index.html)
 - [spritestudio](http://www.webtech.co.jp/spritestudio/)
-
+- [mixamo](https://www.mixamo.com/#/)
 ##### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
@@ -810,7 +811,7 @@ Table of Contents
 - https://github.com/xoofx/zio vfs
 - https://github.com/psmacchia/NDepend.Path path helper
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
-## TCP/UDP
+## NetWork
 #### Articles
 - [硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484005&idx=1&sn=cb07ee1c891a7bdd0af3859543190202&chksm=f98e46cfcef9cfd9feb8b9df043a249eb5f226a927fd6d4065e99e62a645a584005d9921541b&scene=126&sessionid=1587373655&key=c1e3f751e477aefb2785e5e67e936b31e51cd2b2080391621fbd3fc27b4764cf9b02e0c6c25104fa7e3c90b7719ebe683a4fb3bc0a8bb16625e5b8696c4bb2133088ceea58e071e4f06742b5d6cf8225&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AQXqc918kP9oyoqf8cruy24%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding ）
 - [你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484017&idx=1&sn=dc54d43bfd5dc088e48adcfa2e2bc13f&chksm=f98e46dbcef9cfcdab645e79138deb078d68ad843b3e424408974bd8f0ecea620a2502a79230&scene=126&sessionid=1587373655&key=caefaff9574fe7b57087d887de9c6a4c47d8f28df557255cc812869d270224df92f9bb319c0637c0755e2072e8a83e69667b4024c32f8447e1b8fbea51f25679a85b5b27be78ad02905b3a7220e63b0e&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AUqHBUf2HKUOvDs1c3m9p6g%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding )
@@ -825,32 +826,59 @@ Table of Contents
 - [面试官：换人！他连 TCP 这几个参数都不懂 ](https://mp.weixin.qq.com/s/fjnChU3MKNc_x-Wk7evLhg)
 - [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
 #### C#
-- https://normcore.io/
-- https://www.photonengine.com
-- https://darkriftnetworking.com/
-- https://github.com/vis2k/Mirror
-- https://github.com/MidLevel/MLAPI
-- https://github.com/MidLevel/Ruffles UDP
-- https://github.com/BeardedManStudios/ForgeNetworkingRemastered
-- https://github.com/planetarium/libplanet 区域链
-- https://github.com/RevenantX/LiteNetLib UDP
-- https://www.darkriftnetworking.com/
-- https://github.com/colyseus/colyseus-unity3d
-- https://docs.supersocket.net/v1-6/zh-CN 国人的骄傲
-- https://github.com/nxrighthere/ValveSockets-CSharp
-- https://github.com/lidgren/lidgren-network-gen3
-- https://github.com/Azure/DotNetty
-- https://github.com/hiramtan/HiSocket
-- https://www.newlifex.com/
-- https://github.com/nxrighthere/NetStack
+- [normcore](https://normcore.io/) Normcore is the best way to add multiplayer to any project. Period.
+Whether you’re creating mobile games, the next esport title, enterprise collaboration tools, or any project with real-time communication
+- [photonengine](https://www.photonengine.com) The world's #1 independent networking engine and multiplayer platform —
+Fast, reliable, scalable.
+- [darkriftnetworking](https://darkriftnetworking.com/) DarkRift Networking is a high performance, multithreaded networking system for Unity designed for speed and flexibility. It aims to be the ideal solution for every type of game, be it a First Person Shooter, a Trading card game or a Massively Multiplayer Online game. DarkRift Networking is the right choice for you.  
+- [Mirror](https://github.com/vis2k/Mirror) A community replacement for Unity's abandoned UNET Networking System. 
+- [Ruffles](https://github.com/MidLevel/Ruffles) Lightweight and fully managed reliable UDP library. 
+- [libplanet](https://github.com/planetarium/libplanet) Blockchain core in C#/.NET for persistent peer-to-peer online games 
+- [supersocket](https://docs.supersocket.net/) 国人的骄傲
+- [ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) This repository provides a managed C# abstraction of GameNetworkingSockets library which is created and maintained by Valve Software. You will need to build the native library with all required dependencies before you get started.
+- [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
+- [DotNetty](https://github.com/Azure/DotNetty) DotNetty project – a port of netty, event-driven asynchronous network application framework 
+- [HiSocket](https://github.com/hiramtan/HiSocket) It is a lightweight client socket solution, you can used it in Unity3d or C# project
+- [NetStack](https://github.com/nxrighthere/NetStack) Lightweight toolset for creating concurrent networking systems for multiplayer games.
+NetStack is self-contained and has no dependencies.
 - [NetCoreServer](https://github.com/chronoxor/NetCoreServer) Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution 
 - [Sockets Under Control unity-plugin](https://assetstore.unity.com/packages/tools/network/sockets-under-control-159512)
+* [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - socket.io client for unity3d.
+* [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+* [Hazel-Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
+* [MassiveNet](https://github.com/jakevn/MassiveNet) - Unity3d UDP networking library focused on high-CCU, multi-server architecture.
+* [Nakama](https://github.com/heroiclabs/nakama) - An open-source distributed social and realtime server for games and apps by [Heroic Labs](https://heroiclabs.com). It includes a large set of services for users, data storage, and realtime client/server communication; as well as specialized APIs like realtime multiplayer, groups/guilds, and chat.
+* [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Master Server framework for Unity
+* [Forge Networking Remastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
+* [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
+* [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
+* [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) - Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
+* [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
+* [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager) - Higher level implementation for LiteNetLib
+* [UNet-Controller](https://github.com/GreenByteSoftware/UNet-Controller) - A CharacterController based controller for Unity's new Networking system
+* [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - Steamworks wrapper for Unity / C#
+* [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity
+* [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) - Socket.IO Client Library for .Net
+* [MLAPI](https://github.com/MidLevel/MLAPI) - A game networking framework built for the Unity Engine to abstract game networking concepts
+* [Networker](https://github.com/MarkioE/Networker) -
+A simple to use TCP and UDP networking library for .NET. Compatible with Unity
+* [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) - A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more
+* [Colyseus](http://colyseus.io/) - Multiplayer Game Server for Node.js. [Demo with Unity3D](https://github.com/gamestdio/colyseus-unity3d)
+* [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) - Web Socket client for Unity
+* [RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types)
+* [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
+* [UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with serverside framerate for Unity
+* [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
+* [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
+* [Entitas-Sync-Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Networking framework for Entitas ECS. Targeted at turnbased games or other slow-paced genres
+* [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 
+* [Davinet](https://github.com/IronWarrior/Davinet) - Minimalist Unity networking package with goals of responsive physics, loose coupling, extensibility and encapsulation of netcode. 
 #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
 
-## Web/Http-fastest
+#### Web/Http-fastest
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 
@@ -1508,7 +1536,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架 
 - https://github.com/nodatime/nodatime 时间管理
 - https://github.com/OrleansContrib/Orleankka actor
-
+- https://www.newlifex.com/
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -1703,6 +1731,16 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [PlasticTween](https://github.com/PlasticApps/PlasticTween) - Tween Library for Unity3D(ECS+JOBS)
 - [unity-jtween](https://github.com/jeffcampbellmakesgames/unity-jtween) - A job-based tween library for Unity 
 - [GoKit](https://github.com/prime31/GoKit) Lightweight tween library for Unity aimed at making tweening objects dead simple and completely flexible. The wiki contains some usage information and examples.
+* [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
+* [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API
+
+#### Scriptable Object
+* [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
+* [Scriptable-Framework](https://github.com/pablothedolphin/Scriptable-Framework) - A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.
+* [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
+* [SOFlow](https://github.com/BLUDRAG/SOFlow) - A ScriptableObject oriented design SDK.
+* [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy 
+
 #### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
