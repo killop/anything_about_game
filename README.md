@@ -1214,6 +1214,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
  
 #### Course/Article
+- [技术美术 (Technical Artist)](https://zhuanlan.zhihu.com/p/258861976)
 - [霜狼_may - TA技术美术学习体系框架](https://www.bilibili.com/video/av77755500)
 - https://github.com/lygyue/Books  （来自味精的图形学入门书籍）
 - [Unity图形渲染——基础渲染系列教程20篇](https://zhuanlan.zhihu.com/p/137429554)
@@ -1735,6 +1736,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API
 
 #### Scriptable Object
+* [ScriptableObjectCollection](https://github.com/brunomikoski/ScriptableObjectCollection) The ScriptableObjectCollection exists to help you deal with scriptable objects without losing your sanity! Its a set of tools that will make your life a lot easier.
 * [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
 * [Scriptable-Framework](https://github.com/pablothedolphin/Scriptable-Framework) - A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
