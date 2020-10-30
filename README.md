@@ -43,7 +43,7 @@ Table of Contents
 - [Scene](#scene)
     - [Terrain](#terrain)
     - [Procedural Scene Generation](#procedural-scene-generation)
-    - [Tree/Vegetation](#treevegetation)
+    - [Tree/Vegetation/Grass](#treevegetationgrass)
     - [Road](#road)
     - [River](#river)
 - [Video-Tool/Editor](#video-tooleditor)
@@ -87,6 +87,10 @@ Table of Contents
     - [Math-Tool](#math-tool)
     - [Courses/Article/website](#coursesarticlewebsite)
 - [Physics Framework](#physics-framework)
+- [Fluid](#fluid)
+- [Cloth](#cloth)
+- [Softbodie](#softbodie)
+- [Vehicle](#vehicle)
 - [Game-BenchMark/Metric/Tool](#game-benchmarkmetrictool)
     - [Common](#common)
     - [GPU](#gpu)
@@ -512,6 +516,7 @@ Table of Contents
 - [artlist](https://artlist.io/)
 - [native-audio](https://assetstore.unity.com/packages/tools/audio/native-audio-107067) unity-plugin
 - [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) microsoft Audio-Manager-for-Unity
+- [vivaldi-audio-engine](https://assetstore.unity.com/packages/tools/audio/vivaldi-audio-engine-pro-64029) unity-plugin
 #### Modeling
 - https://www.substance3d.com/ sb
 - https://www.sidefx.com/ houdini
@@ -628,12 +633,13 @@ Table of Contents
 - [citygen3d](https://assetstore.unity.com/packages/tools/terrain/citygen3d-162468) UnityPlugin
 - [Arcgis](https://developers.arcgis.com/unity-sdk/reference/release-notes/) UnityPlugin
 - [OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
-#### Tree/Vegetation
+#### Tree/Vegetation/Grass
 - [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
 - [Nature Renderer](https://assetstore.unity.com/packages/tools/terrain/nature-renderer-153552) UnityPlugin
 - [Open World Nature Kit](https://assetstore.unity.com/packages/3d/environments/landscapes/open-world-nature-kit-150748) UnityPlugin
 - [Alttrees System](https://assetstore.unity.com/packages/tools/terrain/alttrees-system-beta-76657) UnityPlugin
+- [infini-grass](https://assetstore.unity.com/packages/tools/particles-effects/infini-grass-gpu-vegetation-45188)  UnityPlugin
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1022,6 +1028,7 @@ Table of Contents
 - https://github.com/volfegan/GeometricAlgorithms
 - https://github.com/nol1fe/delaunator-sharp
 - https://github.com/Habrador/Computational-geometry
+- https://www.redblobgames.com/ 
 #### CPP
 - https://github.com/Ubpa/UGM
 - https://gitee.com/773622153/glm
@@ -1072,7 +1079,34 @@ Table of Contents
 - https://www.geforce.cn/hardware/technology/physx
 - https://www.sofa-framework.org/
 - https://github.com/jeffvella/UnityNativeCollision
+## Fluid
+- [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
+- [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
+- [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
+- [PositionBasedFluids](https://github.com/JAGJ10/PositionBasedFluids) CUDA/C++ implementation of several papers in the spirit of developing a small demo similar to Nvidia's FleX framework
+- [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
+- [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
+- [SPHFluid](https://github.com/MangoSister/SPHFluid) Interactive 3D Fluid Simulation based on SPH
+- [RealTimeFluidRendering](https://github.com/ttnghia/RealTimeFluidRendering) Implementation of the i3D2018 paper "A Narrow-Range Filter for Screen-Space Fluid Rendering". 
+- [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)  Fluid simulation engine for computer graphics applications https://fluidenginedevelopment.org/
+- [Bimocq](https://github.com/ziyinq/Bimocq) Efficient and Conservative Fluids Using Bidirectional Mapping
+- [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) A PBD fluid in unity running on the GPU
+- [Trinity](https://github.com/portsmouth/Trinity) Programmable 3D GPU (WebGL) fluid simulator
+- [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
 
+## Cloth
+* [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
+* [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
+* [opencloth](https://github.com/mmmovania/opencloth) A collection of source codes implementing cloth simulation algorithms in OpenGL 
+* [GPUClothSimulationInUnity](https://github.com/voxell-tech/GPUClothSimulationInUnity) About
+Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
+
+## Softbodie
+* [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
+
+## Vehicle
+* [tork](https://github.com/adrenak/tork) Arcade vehicle physics for Unity
+ 
 ## Game-BenchMark/Metric/Tool
 
 #### Common
@@ -1234,6 +1268,7 @@ Table of Contents
 - https://github.com/ciro-unity/BotW-ToonShader
 - https://gitlab.com/s-ilent/SCSS
 - https://github.com/chrisloop
+- [URPToonShader2](https://github.com/chrisloop/URPToonShader2)
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
@@ -1280,13 +1315,14 @@ Table of Contents
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - [kShading](https://github.com/Kink3d/kShading)
- 
+- https://github.com/larsbertram69
 ##### URP/SPR/HDRP Course
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
 - [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
 - [[Universal RP]Unity通用渲染管线学习](https://zhuanlan.zhihu.com/p/84908168)
 - [HDRP高清渲染管线-学习资料汇总](https://connect.unity.com/p/hdrpgao-qing-xuan-ran-guan-xian-xue-xi-zi-liao-hui-zong)
 ##### UI
+- [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
@@ -1471,6 +1507,7 @@ Table of Contents
 - https://dotnet.github.io/orleans/ actor
 - https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架 
 - https://github.com/nodatime/nodatime 时间管理
+- https://github.com/OrleansContrib/Orleankka actor
 
 ## C
 - https://github.com/nothings/stb
@@ -1600,6 +1637,7 @@ Table of Contents
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
 - [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
 
+
 #### Database
 - https://github.com/Cysharp/MasterMemory
 
@@ -1677,7 +1715,7 @@ Table of Contents
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
 * [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
-
+* [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
 #### Tile map 
  - Isometric
  - Ultimate Grids Engine
