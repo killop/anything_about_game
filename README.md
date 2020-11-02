@@ -507,8 +507,11 @@ Table of Contents
 - [glyphdesigner](https://www.71squared.com/glyphdesigner)
 - [shoebox](http://renderhjs.net/shoebox/)
 ###### Free-Font
-- https://www.100font.com/
-- https://www.hellofont.cn/
+- https://www.100font.com/  chinese font
+- https://www.hellofont.cn/ chinese font
+- https://www.fontspace.com/ english font
+- https://www.dafont.com/   english font
+- https://www.1001fonts.com/ english font
 #### Audio
 - [fmod](http://www.fmod.org/)
 - [wwise](https://www.audiokinetic.com/zh/products/wwise/)
