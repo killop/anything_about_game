@@ -524,6 +524,7 @@ Table of Contents
 #### Modeling
 - https://www.substance3d.com/ sb
 - https://www.sidefx.com/ houdini
+- https://github.com/Fe-Elf/FeELib-for-Houdini
 - https://www.blender.org/ blender
 - https://www.autodesk.com/products/3ds-max/overview max
 - https://www.autodesk.com/products/maya/overview maya
@@ -1137,6 +1138,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
 ## Vehicle
 * [tork](https://github.com/adrenak/tork) Arcade vehicle physics for Unity
+* [Randomation-Vehicle-Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
  
 ## Game-BenchMark/Metric/Tool
 
@@ -1301,6 +1303,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://gitlab.com/s-ilent/SCSS
 - https://github.com/chrisloop
 - [URPToonShader2](https://github.com/chrisloop/URPToonShader2)
+- [kShading](https://github.com/Kink3d/kShading)
+- https://github.com/ChiliMilk/URP_Toon
+- https://github.com/you-ri/LiliumToonGraph
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
@@ -1346,7 +1351,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
-- [kShading](https://github.com/Kink3d/kShading)
+
 - https://github.com/larsbertram69
 ##### URP/SPR/HDRP Course
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
@@ -1716,7 +1721,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
 #### Util
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
-
+- https://github.com/lujian101
 #### Unity 特色工程（精粹）
 
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
@@ -1795,6 +1800,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
+ - https://github.com/cnr-isti-vclab/meshlab
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
