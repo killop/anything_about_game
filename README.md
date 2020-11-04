@@ -288,6 +288,7 @@ Table of Contents
 - [wuch441692](http://rainyeve.com/wordpress/)
 - [A-SHIN](https://huangx916.github.io/)
 - [苍白的茧](http://www.dreamfairy.cn)
+- [谢乃闻](https://sienaiwun.github.io/)
 - https://halfrost.com
 #### English
 - https://www.bruteforce-games.com/blog
@@ -307,15 +308,15 @@ Table of Contents
 - https://simonschreibt.de/
 - [catlikecoding](https://catlikecoding.com/) nothing to comment
 - http://www.ludicon.com/castano/blog/
-- http://blog.hvidtfeldts.net/
+- [hvidtfeldts](http://blog.hvidtfeldts.net/)
 - [realtimerendering](http://www.realtimerendering.com/blog/) This is the blog for the book “Real-Time Rendering“
 - [randygaul](https://www.randygaul.net/) c/cpp game
 - https://www.sebaslab.com/ 
 - https://colinbarrebrisebois.com/
 - http://www.adriancourreges.com/blog/
-- https://prideout.net/blog/
-- http://filmicworlds.com/
-- http://www.thetenthplanet.de/
+- [prideout](https://prideout.net/blog/)
+- [filmicworlds](http://filmicworlds.com/)
+- [thetenthplanet](http://www.thetenthplanet.de/)
 - https://www.jordanstevenstechart.com/
 - http://www.iryoku.com/
 - http://kode80.com/blog/
@@ -329,7 +330,6 @@ Table of Contents
 - http://mikaelzackrisson.se/
 - http://www.alexandre-pestana.com/
 - http://blog.demofox.org/
-- http://filmicworlds.com/blog/
 - http://blog.mmacklin.com/
 - http://sebastiansylvan.com/post/ray-tracing-signed-distance-functions/”
 - http://robert.cupisz.eu/
@@ -339,7 +339,7 @@ Table of Contents
 - http://bpeers.com/blog/
 - http://brabl.com/
 - http://marcel-schindler.weebly.com/blog
-- http://www.rorydriscoll.com/
+- [rorydriscoll](http://www.rorydriscoll.com/)
 - http://www.jonmanatee.com/
 - http://www.physicallybasedrendering.com/
 - http://www.codinglabs.net/default.aspx
@@ -350,16 +350,17 @@ Table of Contents
 - https://rasmusbarr.github.io/
 - http://blog.icare3d.org/
 - http://solid-angle.blogspot.jp/
-- http://john-chapman-graphics.blogspot.hk/
+- [john-chapman-graphics](http://john-chapman-graphics.blogspot.hk/)
 - http://simonstechblog.blogspot.jp/
 - https://mmikkelsen3d.blogspot.com/
 - https://graphicsrunner.blogspot.jp/
 - http://bitsquid.blogspot.hk/
-- https://graphicrants.blogspot.com/
+- [graphicrants](https://graphicrants.blogspot.com/)
 - https://tuxedolabs.blogspot.com/
 - https://technik90.blogspot.com/search/label/Programming
 - https://simonstechblog.blogspot.com/
-- https://colinbarrebrisebois.com/
+- [colinbarrebrisebois](https://colinbarrebrisebois.com/)
+- [martinsh](http://devlog-martinsh.blogspot.com/)
 - https://bartwronski.com/
 - https://knarkowicz.wordpress.com/
 - https://mynameismjp.wordpress.com/
@@ -413,7 +414,7 @@ Table of Contents
 - https://schuttejoe.github.io/post/
 - https://technik90.blogspot.com/
 - http://www.yosoygames.com.ar/wp/category/graphics/
-- https://0fps.net/
+- [0fps](https://0fps.net/)
 - https://viclw17.github.io/
 - https://shihchinw.github.io/
 - https://www.sebastiansylvan.com/
@@ -447,6 +448,8 @@ Table of Contents
 - https://opensource.builders/
 
 ## Awesome-Game
+- https://www.nephasto.com/blog/awesomegamedev.html
+- https://osgameclones.com/ 
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
 - https://github.com/utilForever/game-developer-roadmap 如何成为一个优秀的game程序员
 - https://github.com/Calinou/awesome-gamedev
@@ -470,7 +473,6 @@ Table of Contents
 - https://sketchfab.com/
 - www.cgsoso.com 
 - https://www.humblebundle.com/
-
 - https://www.rrcg.cn/
 - http://www.polycount.com/forum/ - 他们有不同的招募论坛，包括有薪与无薪。- http://www.reddit.com/r/GameDevClassifieds - 发布你的工作，确认酬劳状态。浏览寻找艺术家。
 - http://www.gamedev.net/classifieds - GameDev.net 工作版块。
@@ -513,6 +515,10 @@ Table of Contents
 - https://www.dafont.com/   english font
 - https://www.1001fonts.com/ english font
 #### Audio
+- https://github.com/raysan5/rfxgen
+- https://ardour.org/
+- https://www.audacityteam.org/
+- https://lmms.io/
 - [fmod](http://www.fmod.org/)
 - [wwise](https://www.audiokinetic.com/zh/products/wwise/)
 - [miles](http://www.radgametools.com/miles.htm)
@@ -536,6 +542,7 @@ Table of Contents
 - [zbrush](http://pixologic.com/features/about-zbrush.php) 
 - [mudbox](http://www.autodesk.com/products/mudbox/overview)
 - [3dcoat](https://3dcoat.com/v4937/)
+- [dilay](https://abau.org/dilay/)  A 3D sculpting application that provides an intuitive workflow using a number of powerful modelling tools.
 
 ##### Hair
 - [hairstudio](https://assetstore.unity.com/packages/tools/modeling/hairstudio-early-access-164661) 
@@ -918,7 +925,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 * [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications :o2:
 * [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
-* [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
+
 * [Juno Lua](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua :o2:
 * [Juno TypeScript](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 * [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
@@ -965,7 +972,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. :o2:
 * [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. :o2:
-* [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
+
 * [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++. :o2:
 * [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. :o2:
@@ -1100,9 +1107,16 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - 游戏相关的几何分支:欧式几何、射影几何、微分几何、代数几何和非交换几何
 
 ## Physics Framework
-- https://github.com/bulletphysics/bullet3 - bullet
+- [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
+- [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
 - https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
-- https://github.com/flexible-collision-library/fcl fcl
+- [fcl](https://github.com/flexible-collision-library/fcl) The Flexible Collision Library
+- [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
+- [libccd](https://github.com/danfis/libccd) Library for collision detection between two convex shapes 
+- [ncollide](https://github.com/dimforge/ncollide) 2 and 3-dimensional collision detection library in Rust. 
+- [reactphysics3d]([www.reactphysics3d.com](https://github.com/DanielChappuis/reactphysics3d))
+- [tinyc2](https://github.com/RandyGaul/cute_headers) Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games 
+- [qu3e](https://github.com/RandyGaul/qu3e) qu3e is a compact, light-weight and fast 3D physics engine in C++. 
 - https://github.com/nitrocaster/OPCODE OPCODE
 - https://github.com/kroitor/gjk.c gjk.c
 - https://github.com/wnbittle/dyn4j dyn4j
@@ -1111,6 +1125,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.geforce.cn/hardware/technology/physx
 - https://www.sofa-framework.org/
 - https://github.com/jeffvella/UnityNativeCollision
+- https://www.bepuentertainment.com/
 ## Fluid
 - [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 - [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
@@ -1246,7 +1261,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [shader-school](https://github.com/stackgl/shader-school)
 - [shaderfrog](https://shaderfrog.com/app/editor)
 - [glslEditor](https://github.com/patriciogonzalezvivo/glslEditor)
- 
+- [glslb](http://glslb.in/)
 #### GPU-Architecture
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
@@ -1348,6 +1363,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/adrian-miasik/unity-shaders
 - https://github.com/CrowFea/ShaderToy
 - https://github.com/KaimaChen/Unity-Shader-Demo
+- [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches)
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
@@ -1801,6 +1817,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
  - https://github.com/cnr-isti-vclab/meshlab
+ - https://libigl.github.io/
+ - 
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
