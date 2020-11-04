@@ -1497,9 +1497,11 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - https://surparallel.org unity 多线程优化工具
+- https://github.com/linys2333/TimingWheel c# 时间轮优化
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
 - https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
+- https://github.com/lujian101/GCFreeClosure A gc-free closure implementation for unity
 - https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
 - https://github.com/LunaMultiplayer/CachedQuickLz Allows you to compress and decompress with QuickLz while keeping low the GC pressure
 - [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.

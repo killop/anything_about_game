@@ -1,6 +1,7 @@
 ## LOL
 - [LOL渲染技巧](https://technology.riotgames.com/tags/performance)
 ## 原神
+- [原神截帧分析(未完待续)](https://zhuanlan.zhihu.com/p/272495627)
 - [简单谈谈原神的渲染部分](https://zhuanlan.zhihu.com/p/259589537)
 - [技你太美_UE4_Ramp生成器_仿原神皮肤shader](https://zhuanlan.zhihu.com/p/248998437)
 - [《原神》部分效果的个人理解](https://zhuanlan.zhihu.com/p/246531456)
