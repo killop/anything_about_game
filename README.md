@@ -1688,6 +1688,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/taotao111/SkillSystem
 - https://github.com/emreCanbazoglu/SkillSystem
 - https://github.com/HalfLobsterMan/SkillSystem
+- [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
 
@@ -1786,7 +1787,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
-* [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
+
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
 * [actors](https://github.com/PixeyeHQ/actors.unity)
