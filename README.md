@@ -1358,6 +1358,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Dynamic Water Physics 2 ](https://assetstore.unity.com/packages/tools/physics/dynamic-water-physics-2-147990) UnityPlugin
 - https://github.com/Scrawk/Brunetons-Ocean
 - https://github.com/Verasl/BoatAttack water
+- https://github.com/eliasts/Ocean_Community_Next_Gen
 
 ##### Comon-Collection
 - https://github.com/ellioman/ShaderProject
@@ -1365,6 +1366,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/CrowFea/ShaderToy
 - https://github.com/KaimaChen/Unity-Shader-Demo
 - [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches)
+- https://github.com/przemyslawzaworski/Unity3D-CG-programming
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
@@ -1683,6 +1685,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/huailiang/seqence 剧情-技能编辑器
 - https://github.com/jewer3330/plato 技能编辑器
 - https://github.com/Elfansoer/dota-2-lua-abilities
+- https://github.com/taotao111/SkillSystem
+- https://github.com/emreCanbazoglu/SkillSystem
+- https://github.com/HalfLobsterMan/SkillSystem
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
 
@@ -1852,6 +1857,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Asset Hunter PRO](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)
 - [A+ Assets Explorer](https://assetstore.unity.com/packages/tools/utilities/a-assets-explorer-57335)
 - [AssetBundle加密-fair-guard](https://www.fair-guard.com)
+- https://github.com/Unity-Technologies/asset-auditing-tools
+- https://github.com/MarkUnity/AssetAuditor
+- https://github.com/charcolle/CustomAssetImporter
 ##### Textrue Compression
 - [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
 - [常用纹理和纹理压缩格式](https://blog.csdn.net/ynnmnm/article/details/44983545)
