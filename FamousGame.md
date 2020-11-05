@@ -19,3 +19,5 @@
 - [《火影忍者：究级风暴》渲染技术究极解析](https://gameinstitute.qq.com/community/detail/106712)
 ## 楚留香
 - [楚留香《一梦江湖》捏脸美术制作和渲染分析](https://zhuanlan.zhihu.com/p/76979718)
+## war3
+- [War3Net](https://github.com/Drake53/War3Net) A .NET implementation of Warcraft III related libraries. 

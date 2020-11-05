@@ -600,6 +600,7 @@ Table of Contents
 - https://artomatix.com/
 
 #### Tile
+- https://www.tilesetter.org/
 - [Tiled 2D](https://www.mapeditor.org/) free, easy to use and flexible tile map editor
 - [autotilegen](https://pixelatto.com/products/autotilegen)
 - [SuperTiled2Unity] (https://github.com/Seanba/SuperTiled2Unity) Imports Tiled files to Unity. Better than regular Tiled2Unity. 
@@ -1740,6 +1741,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Util
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 - https://github.com/lujian101
+- https://github.com/shinn716/ShinnUtils
 #### Unity 特色工程（精粹）
 
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
@@ -1782,6 +1784,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
+* [actors](https://github.com/PixeyeHQ/actors.unity)
+* [ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)
 #### Tile map 
  - Isometric
  - Ultimate Grids Engine
