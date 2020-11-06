@@ -289,11 +289,11 @@ Table of Contents
 - [A-SHIN](https://huangx916.github.io/)
 - [苍白的茧](http://www.dreamfairy.cn)
 - [谢乃闻](https://sienaiwun.github.io/)
+- [房燕良](https://neil3d.github.io/)
 - https://halfrost.com
 #### English
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
-- https://www.ronja-tutorials.com/
 - https://blog.selfshadow.com/
 - https://www.gabrielgambetta.com/
 - [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的](http://baba-s.hatenablog.com/)
@@ -309,7 +309,6 @@ Table of Contents
 - [catlikecoding](https://catlikecoding.com/) nothing to comment
 - http://www.ludicon.com/castano/blog/
 - [hvidtfeldts](http://blog.hvidtfeldts.net/)
-- [realtimerendering](http://www.realtimerendering.com/blog/) This is the blog for the book “Real-Time Rendering“
 - [randygaul](https://www.randygaul.net/) c/cpp game
 - https://www.sebaslab.com/ 
 - https://colinbarrebrisebois.com/
@@ -781,6 +780,7 @@ Table of Contents
 - [MasterMemory](https://github.com/Cysharp/MasterMemory) Embedded Typed Readonly In-Memory Document Database for .NET Core and Unity. 
 - [RepoDB](https://github.com/mikependon/RepoDB) RepoDB is an open-source .NET ORM library that bridges the gaps of micro-ORMs and full-ORMs. It helps you simplify the switch-over of when to use the BASIC and ADVANCE operations during the development.
 - [FASTER](https://github.com/microsoft/FASTER) Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
+- [UltraLiteDB](https://github.com/rejemy/UltraLiteDB) Unity LiteDB
 ## ECS Libraries
 
 #### C/C++
@@ -838,6 +838,7 @@ Table of Contents
 - [面试官：换人！他连 TCP 这几个参数都不懂 ](https://mp.weixin.qq.com/s/fjnChU3MKNc_x-Wk7evLhg)
 - [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
 #### C#
+http://www.hslcommunication.cn/
 - [normcore](https://normcore.io/) Normcore is the best way to add multiplayer to any project. Period.
 Whether you’re creating mobile games, the next esport title, enterprise collaboration tools, or any project with real-time communication
 - [photonengine](https://www.photonengine.com) The world's #1 independent networking engine and multiplayer platform —
@@ -1211,6 +1212,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [VulkanSharp](https://github.com/mono/VulkanSharp) Open source .NET binding for the Vulkan API 
 - [Silk](https://github.com/Ultz/Silk.NET) Silk.NET is a high-speed, advanced library, providing bindings to popular low-level APIs such as OpenGL and OpenAL. Use Silk.NET to add cross-platform 3D graphics, audio, compute and haptics to your C# application.
 #### Collection
+- [realtimerendering](http://www.realtimerendering.com/) 
+- https://github.com/luisnts/awesome-computer-graphics
 - https://github.com/Go1c/AboutGameEngineGraphics
 - http://www.shaderslab.com/shaders.html
 - https://paroj.github.io/gltut/
@@ -1228,7 +1231,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/IndieVisualLab/UnityGraphicsProgramming
 - https://github.com/jslee02/awesome-graphics-libraries
 - https://github.com/FancyVin/fun-with-graphics
-
+- https://www.ronja-tutorials.com/
+- https://github.com/lettier/3d-game-shaders-for-beginners
 #### Shading-Language
 - https://github.com/wshxbqq/GLSL-Card
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
@@ -1556,6 +1560,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
 ## C#
+- https://github.com/gautema/cqrslite cqrs
 - https://github.com/libgit2/libgit2sharp -git的c#实现
 - https://github.com/NetchX/Netch -nat打洞
 - https://github.com/natemcmaster/CommandLineUtils 命令行
@@ -1748,6 +1753,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 - https://github.com/lujian101
 - https://github.com/shinn716/ShinnUtils
+- https://github.com/cs-util-com/cscore
 #### Unity 特色工程（精粹）
 
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
@@ -1776,7 +1782,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
 * [SOFlow](https://github.com/BLUDRAG/SOFlow) - A ScriptableObject oriented design SDK.
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy 
-
+- [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
@@ -1830,7 +1836,6 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
  - https://github.com/cnr-isti-vclab/meshlab
  - https://libigl.github.io/
- - 
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
@@ -1886,7 +1891,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Unity3d-Signals](https://github.com/dimmpixeye/Unity3d-Signals) - Signals are in-memory publish/subscribe system and effectively replace Unity SendMessage
 - [MessageKit](https://github.com/prime31/MessageKit) - Decoupled message sending system meant as a replacement for SendMessage and its variantslibrary
 - [edriven](https://github.com/dkozar/edriven) - Event-driven / asynchronous framework for Unity3d
-
+- [Brighter](https://github.com/BrighterCommand/Brighter) Command Dispatcher, Processor, and Distributed Task Queue 
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
@@ -1960,7 +1965,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
 
 ## 文案排版
-- https://github.com/sparanoid/chinese-copywriting-guidelines 中文文案排版
+- [中文技术文档写作风格指南 ](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+- [中文文案排版](https://github.com/sparanoid/chinese-copywriting-guidelines) 
 - [掘金计划- 中文文案排版](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
  
 
