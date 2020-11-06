@@ -65,6 +65,7 @@ Table of Contents
 - [DataBase](#database)
     - [c](#c)
 - [ECS Libraries](#ecs-libraries)
+    - [Collection](#collection-1)
     - [C/C++](#cc)
     - [C](#c-1)
     - [Python](#python)
@@ -98,7 +99,7 @@ Table of Contents
     - [Graphics-Library](#graphics-library)
     - [SoftWare-Render](#software-render)
     - [3rd-Binding](#3rd-binding)
-    - [Collection](#collection-1)
+    - [Collection](#collection-2)
     - [Shading-Language](#shading-language)
     - [Course/Article](#coursearticle)
     - [OpenGL](#opengl)
@@ -451,13 +452,43 @@ Table of Contents
 - https://osgameclones.com/ 
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
 - https://github.com/utilForever/game-developer-roadmap 如何成为一个优秀的game程序员
-- https://github.com/Calinou/awesome-gamedev
 - https://github.com/Kavex/GameDev-Resources
 - https://github.com/raizam/gamedev_libraries
 - https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
 - https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
 - https://github.com/soruly/awesome-acg 嗯！acg
+- [cpp_youtube_channels](https://github.com/shafik/cpp_youtube_channels) : Listing of C++ Youtube channels for conferences and user groups
+- [programming-talks](https://github.com/hellerve/programming-talks) : Awesome & interesting talks about programming
+- [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) : A collection of resources on modern C++
+- [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
+- [GameDevelopmentLinks](https://github.com/UnterrainerInformatik/GameDevelopmentLinks) : This is a collection of useful game-development links including, but not restricted to, development with MonoGame.
 
+- [awesome-casestudy](https://github.com/luruke/awesome-casestudy) : Curated list of technical case studies on WebGL and creative development
+- [awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) : List of open-source technologies that help in the process of building a pipeline for CG and VFX productions
+- [awesome-glsl](https://github.com/radixzz/awesome-glsl) : Compilation of the best resources to learn programming OpenGL Shaders
+- [cpp_blogs](https://github.com/shafik/cpp_blogs) : C++ Blogs (plus other stuff we should care about like undefined behavior)
+- [awesome-rtx](https://github.com/vinjn/awesome-rtx) : Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXR, VKR)
+- [zalo.github.io](https://github.com/zalo/zalo.github.io) : A home for knowledge that is hard to find elsewhere
+- [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev) : A list of Game Development resources to make magic happen.
+- [gamedev-resources](https://github.com/Ibuprogames/gamedev-resources) : An updated collection of useful resources to resources to design, develop and market games.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : Build your own (insert technology here)
+- [awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) : Curated list of ray tracing resources
+- [hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) : Show some love to your contributors! A widget for your repo README. Visual and clean. Refreshes every hour.
+- [awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) : A curated list of awesome collision detection libraries and resources
+- [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) : A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.
+- [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) : Awesome D3D12 ecosystem
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [awesome-bits](https://github.com/keon/awesome-bits) : A curated list of awesome bitwise operations and tricks
+- [cpplinks](https://github.com/MattPD/cpplinks) : A categorized list of C++ resources.
+- [awesome-gametalks](https://github.com/ellisonleao/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
+- [awesome-design](https://github.com/Calinou/awesome-design) : Best UI/UX Design Sources For Developer & Designer Ever :)
+- [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) : A collection of free software and free culture resources for making amazing games. (mirror)
+- [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) : A curated list of awesome articles, websites and resources about mental health in the software industry.
+- [modern-cpp-tutorial](https://github.com/utilForever/modern-cpp-tutorial) : A curated list of Modern C++ articles, examples, tutorials, frameworks, libraries, and shiny things.
+- [awesome-wgpu](https://github.com/rofrol/awesome-wgpu) : A curated list of wgpu code and resources.
+- [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
+- [data-oriented-design](https://github.com/dbartolini/data-oriented-design) : A curated list of data oriented design resources.
+ 
 ## Game-Company
 - www.ryzom.com
 
@@ -709,6 +740,30 @@ Table of Contents
 - https://semver.org/lang/zh-CN/   -- 版本号规范
 - https://github.com/pcottle/learnGitBranching -- 学习git 提交的网站
 - https://github.com/libgit2/libgit2sharp  -- git的 c# 实现
+* [Linus讲解git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Google大会演讲，Linus介绍他创造git的原因，对比了git和svn。
+ * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
+ * [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
+ * [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) - 来自阮一峰的网络日志，列出了 Git 最常用的命令。
+ * [Pro Git（中文版）](https://git.oschina.net/progit/) - 书
+ * [Git权威指南](http://www.worldhello.net/gotgit/) - 书
+ * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - git-flow 是一个 git 扩展集，按 Vincent Driessen 的分支模型提供高层次的库操作。
+ * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) -stanford出品
+ * [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository/) - atlassian出品
+ * [Try Git ( Interactive)](https://try.github.io/levels/1/challenges/1) -互动性的教你使用git
+ * [Git (简体中文)](https://wiki.archlinux.org/index.php/Git_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) -archlinux出品
+ * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html) -这本书汇聚了Git社区的很多精华,  其目的就是帮助你尽快的掌握Git.
+ * [git-recipes](https://github.com/geeeeeeeeek/git-recipes) -高质量的Git中文教程，来自国外社区的优秀文章和个人实践
+ * [git-it](http://jlord.us/git-it/) - GitHub一位女员工写的Git教程，繁体中文版在这里可以找到: http://jlord.us/git-it/index-zhtw.html
+ * [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用
+ * [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
+ * [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能
+ * [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文
+ * [git-style-guide](https://github.com/agis-/git-style-guide)- git风格指南
+ * [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
+ * [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - git 指南
+ * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md)
+ * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令。如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。
+ * [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！ 
 
 #### article
 - [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
@@ -782,7 +837,8 @@ Table of Contents
 - [FASTER](https://github.com/microsoft/FASTER) Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
 - [UltraLiteDB](https://github.com/rejemy/UltraLiteDB) Unity LiteDB
 ## ECS Libraries
-
+#### Collection
+- [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
 #### C/C++
 
 * anax - Open source C++ entity system [[github](https://github.com/miguelmartin75/anax) ![miguelmartin75/anax](https://img.shields.io/github/stars/miguelmartin75/anax.svg?style=flat&label=Star&maxAge=86400)]
@@ -823,6 +879,8 @@ Table of Contents
 - https://github.com/xoofx/zio vfs
 - https://github.com/psmacchia/NDepend.Path path helper
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
+
+
 ## NetWork
 #### Articles
 - [硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484005&idx=1&sn=cb07ee1c891a7bdd0af3859543190202&chksm=f98e46cfcef9cfd9feb8b9df043a249eb5f226a927fd6d4065e99e62a645a584005d9921541b&scene=126&sessionid=1587373655&key=c1e3f751e477aefb2785e5e67e936b31e51cd2b2080391621fbd3fc27b4764cf9b02e0c6c25104fa7e3c90b7719ebe683a4fb3bc0a8bb16625e5b8696c4bb2133088ceea58e071e4f06742b5d6cf8225&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AQXqc918kP9oyoqf8cruy24%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding ）
