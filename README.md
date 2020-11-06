@@ -179,6 +179,7 @@ Table of Contents
     - [Tween](#tween)
     - [Scriptable Object](#scriptable-object)
     - [DOTS](#dots)
+    - [Navmesh](#navmesh)
     - [Tile map](#tile-map)
     - [Bone&&Spring](#bonespring)
     - [Burst&&JobSystem](#burstjobsystem)
@@ -446,7 +447,8 @@ Table of Contents
 - https://github.com/stanzhai/be-a-professional-programmer
 - https://www.prettyawesomelists.com
 - https://opensource.builders/
-
+- https://github.com/adamsitnik/awesome-dot-net-performance
+ 
 ## Awesome-Game
 - https://www.nephasto.com/blog/awesomegamedev.html
 - https://osgameclones.com/ 
@@ -1720,6 +1722,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) A rule based addressable asset importer 
 - [HiAssetBundle_unity](https://github.com/hiramtan/HiAssetBundle_unity) Unity's asset bundle solution for end-users to access resources dynamically at runtime. 
 - [assetUpdater](https://github.com/sNaticY/assetUpdater-core) AssetUpdater is a Unity plugin which helps developers build assetbundles and download it easily 
+- [AddressableTools](https://github.com/UniGameTeam/UniGame.AddressableTools) Addressables utils for Unity3D
 #### Framework
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
@@ -1796,6 +1799,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [GPU Instancer - Crowd Animations](https://assetstore.unity.com/packages/tools/animation/gpu-instancer-crowd-animations-145114) unity-plugin
 - [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
 - [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
+- [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
 #### Climb System
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 #### AI
@@ -1842,7 +1846,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy 
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
-* [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
+
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
@@ -1856,6 +1860,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
 * [actors](https://github.com/PixeyeHQ/actors.unity)
 * [ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)
+#### Navmesh
+- [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
+- [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
 #### Tile map 
  - Isometric
  - Ultimate Grids Engine
