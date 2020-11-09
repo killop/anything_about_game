@@ -365,7 +365,6 @@ Table of Contents
 - https://bartwronski.com/
 - https://knarkowicz.wordpress.com/
 - https://mynameismjp.wordpress.com/
-- https://interplayoflight.wordpress.com/
 - https://ndotl.wordpress.com/
 - https://hairrendering.wordpress.com/
 - https://volumetricshadows.wordpress.com/
@@ -416,6 +415,7 @@ Table of Contents
 - https://technik90.blogspot.com/
 - http://www.yosoygames.com.ar/wp/category/graphics/
 - [0fps](https://0fps.net/)
+- [interplayoflight](https://interplayoflight.wordpress.com/)
 - https://viclw17.github.io/
 - https://shihchinw.github.io/
 - https://www.sebastiansylvan.com/
@@ -448,6 +448,7 @@ Table of Contents
 - https://www.prettyawesomelists.com
 - https://opensource.builders/
 - https://github.com/adamsitnik/awesome-dot-net-performance
+- https://github.com/kelthuzadx/EffectiveModernCppChinese
  
 ## Awesome-Game
 - https://www.nephasto.com/blog/awesomegamedev.html
@@ -733,6 +734,7 @@ Table of Contents
 - https://github.com/rjsf-team/react-jsonschema-form
 - https://github.com/vue-generators/vue-form-generator
 - https://github.com/quicktype/quicktype
+- https://github.com/dloss/binary-parsing
 
 ## Archive
 #### Article
@@ -880,6 +882,7 @@ Table of Contents
 - https://github.com/Tape-Worm/Gorgon/tree/master/Gorgon/Gorgon.FileSystem
 - https://github.com/xoofx/zio vfs
 - https://github.com/psmacchia/NDepend.Path path helper
+- https://github.com/JosefPihrt/Orang file opreation
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 
 
@@ -1431,6 +1434,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/KaimaChen/Unity-Shader-Demo
 - [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches)
 - https://github.com/przemyslawzaworski/Unity3D-CG-programming
+- [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
@@ -1723,6 +1727,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [HiAssetBundle_unity](https://github.com/hiramtan/HiAssetBundle_unity) Unity's asset bundle solution for end-users to access resources dynamically at runtime. 
 - [assetUpdater](https://github.com/sNaticY/assetUpdater-core) AssetUpdater is a Unity plugin which helps developers build assetbundles and download it easily 
 - [AddressableTools](https://github.com/UniGameTeam/UniGame.AddressableTools) Addressables utils for Unity3D
+- [addressable-asset-system-chinese-manual](https://github.com/xiexx-game/addressable-asset-system-chinese-manual)
 #### Framework
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
@@ -1973,6 +1978,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 -  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
+-  [AnimeTask](https://github.com/kyubuns/AnimeTask)
 
 ## Data
 #### Exchange
@@ -2056,6 +2062,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ## 友情链接  
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
+ 
 这里主要是小伙伴们一起收集的跟游戏相关的精粹
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
 进群后跟群主(我)申请就好，群主是个很乐意分享的人
