@@ -83,8 +83,6 @@ Table of Contents
     - [CPP](#cpp)
     - [C](#c-3)
 - [Game-Math](#game-math)
-    - [CPP](#cpp-1)
-    - [C](#c-4)
     - [Math-Tool](#math-tool)
     - [Courses/Article/website](#coursesarticlewebsite)
 - [Physics Framework](#physics-framework)
@@ -141,15 +139,15 @@ Table of Contents
     - [MMO](#mmo)
     - [String](#string)
 - [Utils](#utils)
-    - [C](#c-5)
-    - [C++](#c-6)
+    - [C](#c-4)
+    - [C++](#c-5)
     - [GPU-Accelerator](#gpu-accelerator)
 - [Javascript](#javascript)
 - [Lua](#lua)
 - [Typescript](#typescript)
+- [C](#c-6)
 - [C](#c-7)
-- [C](#c-8)
-- [CPP](#cpp-2)
+- [CPP](#cpp-1)
 - [Java](#java-1)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
@@ -704,7 +702,7 @@ Table of Contents
 
 ## Procedurally Generate 
 - [SPORE-Creature-Creator](https://github.com/daniellochner/SPORE-Creature-Creator) Procedurally generate creatures in Unity - inspired by the incredible game, Spore!
-
+-  [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
 ## 3D Rendering Software/Plugin
 - [keyshot](https://www.keyshot.com/)
  
@@ -1111,45 +1109,47 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 *   TinyCThread：一个可扩展，小型的 C11 标准线程 API 实现。[zlib](http://directory.fsf.org/wiki/License:Zlib)。[官网](https://tinycthread.github.io/)
 
 ## Game-Math
-- https://www.cgal.org/
-- https://www.geometrictools.com/ geometrictools
-- https://github.com/gradientspace/geometry3Sharp geometry3Sharp
-- https://github.com/Unity-Technologies/Unity.Mathematics unityMath  
-- https://github.com/zalo/MathUtilities  MathUtilities
-- http://www.angusj.com/delphi/clipper.php clipper库
-- [Math Library for Unity unity插件](https://assetstore.unity.com/packages/tools/math-library-for-unity-14912) 
-- https://archive.codeplex.com/?p=triangle triangle-三角形
-- https://github.com/accord-net/framework? accord-net
-- [random-from-distributions](https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873)
-- [game-math](https://github.com/npruehs/game-math)
-- https://www.cnblogs.com/KillerAery/p/10878367.html -空间划分
-- https://github.com/kodai100/Unity_GPUNearestNeighbor  - Neighbor
-- https://github.com/Shinao/Unity-GPU-Boids Boids
-- https://github.com/StandardCyborg/nurbs
-- https://github.com/radiatoryang/hedera
-- https://github.com/GregLukosek/3DMath
-- https://github.com/FreyaHolmer/Mathfs
-- https://github.com/volfegan/GeometricAlgorithms
-- https://github.com/nol1fe/delaunator-sharp
-- https://github.com/Habrador/Computational-geometry
-- https://www.redblobgames.com/ 
-#### CPP
-- https://github.com/Ubpa/UGM
-- https://gitee.com/773622153/glm
-- https://gitlab.com/libeigen/eigen
-*   Armadillo：高质量的C++线性代数库，速度和易用性做到了很好的平衡。语法和MatlAB很相似。[官网](http://arma.sourceforge.net/)
-*   blaze：高性能的C++数学库，用于密集和稀疏算法。[官网](https://code.google.com/p/blaze-lib/)
-*   ceres-solver：来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题。[官网](http://ceres-solver.org/)
-*   CGal：高效，可靠的集合算法集合。[官网](http://www.cgal.org/)
-*   cml：用于游戏和图形的免费C++数学库。[官网](http://cmldev.net/)
-*   Eigen：高级C++模板头文件库，包括线性代数，矩阵，向量操作，数值解决和其他相关的算法。[官网](http://eigen.tuxfamily.org/)
-*   GMTL：数学图形模板库是一组广泛实现基本图形的工具。[官网](http://ggt.sourceforge.net/)
-*   GMP：用于个高精度计算的C/C++库，处理有符号整数，有理数和浮点数。[官网](https://gmplib.org/)
-
-#### C
-- https://github.com/recp/cglm
-
-
+- [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
+- [redblobgames](https://www.redblobgames.com/) 
+- [unityMath](https://github.com/Unity-Technologies/Unity.Mathematics)  c# unity
+- [MathUtilities](https://github.com/zalo/MathUtilities) c# unity
+- [clipper](http://www.angusj.com/delphi/clipper.php)  clipper  Delphi, C++ and C#
+- [Math Library for Unity](https://assetstore.unity.com/packages/tools/math-library-for-unity-14912) c# unity plugin
+- [triangle](https://archive.codeplex.com/?p=triangle)   c# clipper
+- [accord-net](https://github.com/accord-net/framework?) c#
+- [random-from-distributions](https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873) c# unity-plugin
+- [game-math](https://github.com/npruehs/game-math) c#
+- [Unity GPU Nearest Neighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) c# gpu
+- [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
+- [nurbs](https://github.com/StandardCyborg/nurbs) js Non-Uniform Rational B-Splines (NURBS) of any dimensionality 
+- [3DMath](https://github.com/GregLukosek/3DMath) Unity C# 3D Math methods library. 
+- [Mathfs](https://github.com/FreyaHolmer/Mathfs) c# Expanded Math Functionality for Unity 
+- [Geometric Algorithms](https://github.com/volfegan/GeometricAlgorithms)  Java Geometric Algorithms implemented for Java and Processing v3 
+- [delaunator](https://github.com/nol1fe/delaunator-sharp) c# Fast Delaunay triangulation of 2D points implemented in C#. 
+- [Computational](https://github.com/Habrador/Computational-geometry)Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, etc 
+- [UGM](https://github.com/Ubpa/UGM) cpp 
+-  Armadillo：高质量的C++线性代数库，速度和易用性做到了很好的平衡。语法和MatlAB很相似。[官网](http://arma.sourceforge.net/)
+-  blaze：高性能的C++数学库，用于密集和稀疏算法。[官网](https://code.google.com/p/blaze-lib/)
+-  ceres-solver：来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题。[官网](http://ceres-solver.org/)
+-  cml：用于游戏和图形的免费C++数学库。[官网](http://cmldev.net/)
+-  GMTL：数学图形模板库是一组广泛实现基本图形的工具。[官网](http://ggt.sourceforge.net/)
+-  GMP：用于个高精度计算的C/C++库，处理有符号整数，有理数和浮点数。[官网](https://gmplib.org/)
+- [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
+- [MathGeoLib](https://github.com/juj/MathGeoLib) :thumbsup: A C++ library for linear algebra and geometry manipulation for computer graphics
+- [GeometricTools](https://github.com/davideberly/GeometricTools) :thumbsup: A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.
+- [glm](https://github.com/g-truc/glm) OpenGL Mathematics (GLM) https://glm.g-truc.net
+- [CGAL](https://github.com/CGAL/cgal) geometric algorithms in the form of a C++ library.
+- [GEOS](http://trac.osgeo.org/geos) Geometry Engine
+- [klein](https://github.com/jeremyong/klein) :thumbsup:  P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library https://jeremyong.com/klein
+- [MTL](https://svn.simunova.com/svn/mtl4/trunk) Matrix Template Library,  a linear algebra library for C++ programs.
+- [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
+- [polyscope](https://github.com/nmwsharp/polyscope) A prototyping-oriented UI for geometric algorithms https://polyscope.run
+- [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
+- [fastapprox](https://github.com/romeric/fastapprox) Approximate and vectorized versions of common mathematical functions
+- [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support 
+- [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
+- [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu
+- [cglm](https://github.com/recp/cglm)
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -1169,6 +1169,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.3blue1brown.com/
 - http://www.matrix67.com/blog
 - https://mmaqa.com/
+- [空间划分](https://www.cnblogs.com/KillerAery/p/10878367.html)
 - 游戏相关的几何分支:欧式几何、射影几何、微分几何、代数几何和非交换几何
 
 ## Physics Framework
