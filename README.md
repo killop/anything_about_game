@@ -1,16 +1,15 @@
 
 Table of Contents
+- [Awesome-Game](#awesome-game)
+    - [Graphics](#graphics)
+- [Awesome-General](#awesome-general)
 - [News](#news)
-    - [Game](#game)
     - [Js/Web](#jsweb)
     - [Java](#java)
     - [Go](#go)
-    - [Graphics](#graphics)
 - [Person/Social/Blogs](#personsocialblogs)
     - [Chinese](#chinese)
     - [English](#english)
-- [Awesome-General](#awesome-general)
-- [Awesome-Game](#awesome-game)
 - [Game-Company](#game-company)
 - [Game-Asset](#game-asset)
 - [Game-Design-Tool](#game-design-tool)
@@ -207,7 +206,74 @@ Table of Contents
 - [Interest is the best teacher](#interest-is-the-best-teacher)
 - [友情链接](#友情链接)
 - [看完不star，小心没jj :）!](#看完不star小心没jj-)
-   
+
+## Awesome-Game
+- https://www.gamasutra.com/category/programming/
+- https://gamedev.net/
+- http://www.onrpg.com/
+- https://www.mmorpg.com/
+- https://gamedevdigest.com/
+- https://rust-gamedev.github.io/
+- https://www.nephasto.com/blog/awesomegamedev.html
+- https://osgameclones.com/ 
+- https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
+- https://github.com/utilForever/game-developer-roadmap 如何成为一个优秀的game程序员
+- https://github.com/Kavex/GameDev-Resources
+- https://github.com/raizam/gamedev_libraries
+- https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
+- https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
+- https://github.com/soruly/awesome-acg 嗯！acg
+- [cpp_youtube_channels](https://github.com/shafik/cpp_youtube_channels) : Listing of C++ Youtube channels for conferences and user groups
+- [programming-talks](https://github.com/hellerve/programming-talks) : Awesome & interesting talks about programming
+- [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) : A collection of resources on modern C++
+- [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
+- [GameDevelopmentLinks](https://github.com/UnterrainerInformatik/GameDevelopmentLinks) : This is a collection of useful game-development links including, but not restricted to, development with MonoGame.
+
+- [awesome-casestudy](https://github.com/luruke/awesome-casestudy) : Curated list of technical case studies on WebGL and creative development
+- [awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) : List of open-source technologies that help in the process of building a pipeline for CG and VFX productions
+- [awesome-glsl](https://github.com/radixzz/awesome-glsl) : Compilation of the best resources to learn programming OpenGL Shaders
+- [cpp_blogs](https://github.com/shafik/cpp_blogs) : C++ Blogs (plus other stuff we should care about like undefined behavior)
+- [awesome-rtx](https://github.com/vinjn/awesome-rtx) : Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXR, VKR)
+- [zalo.github.io](https://github.com/zalo/zalo.github.io) : A home for knowledge that is hard to find elsewhere
+- [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev) : A list of Game Development resources to make magic happen.
+- [gamedev-resources](https://github.com/Ibuprogames/gamedev-resources) : An updated collection of useful resources to resources to design, develop and market games.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : Build your own (insert technology here)
+- [awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) : Curated list of ray tracing resources
+- [hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) : Show some love to your contributors! A widget for your repo README. Visual and clean. Refreshes every hour.
+- [awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) : A curated list of awesome collision detection libraries and resources
+- [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) : A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.
+- [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) : Awesome D3D12 ecosystem
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [awesome-bits](https://github.com/keon/awesome-bits) : A curated list of awesome bitwise operations and tricks
+- [cpplinks](https://github.com/MattPD/cpplinks) : A categorized list of C++ resources.
+- [awesome-gametalks](https://github.com/ellisonleao/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
+- [awesome-design](https://github.com/Calinou/awesome-design) : Best UI/UX Design Sources For Developer & Designer Ever :)
+- [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) : A collection of free software and free culture resources for making amazing games. (mirror)
+- [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) : A curated list of awesome articles, websites and resources about mental health in the software industry.
+- [modern-cpp-tutorial](https://github.com/utilForever/modern-cpp-tutorial) : A curated list of Modern C++ articles, examples, tutorials, frameworks, libraries, and shiny things.
+- [awesome-wgpu](https://github.com/rofrol/awesome-wgpu) : A curated list of wgpu code and resources.
+- [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
+- [data-oriented-design](https://github.com/dbartolini/data-oriented-design) : A curated list of data oriented design resources.
+#### Graphics
+- [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
+ 
+## Awesome-General
+- http://nav.web-hub.cn/ 
+- https://libs.garden/
+- https://awesomeopensource.com/
+- https://github.com/sindresorhus/awesome
+- https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://github.com/jnv/lists
+- https://github.com/wesbos/awesome-uses
+- http://www.lib4dev.in/topics/dotnet
+- https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts 
+- https://github.com/jobbole
+- https://github.com/stanzhai/be-a-professional-programmer
+- https://www.prettyawesomelists.com
+- https://opensource.builders/
+- https://github.com/adamsitnik/awesome-dot-net-performance
+- https://github.com/kelthuzadx/EffectiveModernCppChinese
+ 
 ## News
 - https://www.libhunt.com/
 - https://news.ycombinator.com/news hacker news
@@ -219,13 +285,7 @@ Table of Contents
 - https://geeker-read.com/#/latest
 - https://coolshell.cn/
 - https://insights.thoughtworks.cn/
-#### Game
-- http://www.red3d.com
-- https://www.gamasutra.com/category/programming/
-- https://gamedev.net/
-- http://www.onrpg.com/
-- https://www.mmorpg.com/
-- https://gamedevdigest.com/
+
 #### Js/Web
 - https://github.com/dt-fe/weekly 
 - https://github.com/gauseen/blog/issues/4
@@ -239,8 +299,7 @@ Table of Contents
 - http://www.iocoder.cn/?github
 #### Go
 - https://github.com/polaris1119/golangweekly
-#### Graphics
-- [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/)
+
  
 ## Person/Social/Blogs
 #### Chinese
@@ -290,7 +349,9 @@ Table of Contents
 - [苍白的茧](http://www.dreamfairy.cn)
 - [谢乃闻](https://sienaiwun.github.io/)
 - [房燕良](https://neil3d.github.io/)
+- [KillerAery](https://www.cnblogs.com/KillerAery)
 - https://halfrost.com
+ 
 #### English
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
@@ -431,64 +492,7 @@ Table of Contents
 - zeltergame [zeltergame](https://twitter.com/zeltergame) 3d gameArt
 
 
-## Awesome-General
-- http://nav.web-hub.cn/ 
-- https://libs.garden/
-- https://awesomeopensource.com/
-- https://github.com/sindresorhus/awesome
-- https://github.com/awesome-selfhosted/awesome-selfhosted
-- https://github.com/jnv/lists
-- https://github.com/wesbos/awesome-uses
-- http://www.lib4dev.in/topics/dotnet
-- https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts 
-- https://github.com/jobbole
-- https://github.com/stanzhai/be-a-professional-programmer
-- https://www.prettyawesomelists.com
-- https://opensource.builders/
-- https://github.com/adamsitnik/awesome-dot-net-performance
-- https://github.com/kelthuzadx/EffectiveModernCppChinese
- 
-## Awesome-Game
-- https://www.nephasto.com/blog/awesomegamedev.html
-- https://osgameclones.com/ 
-- https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
-- https://github.com/utilForever/game-developer-roadmap 如何成为一个优秀的game程序员
-- https://github.com/Kavex/GameDev-Resources
-- https://github.com/raizam/gamedev_libraries
-- https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
-- https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
-- https://github.com/soruly/awesome-acg 嗯！acg
-- [cpp_youtube_channels](https://github.com/shafik/cpp_youtube_channels) : Listing of C++ Youtube channels for conferences and user groups
-- [programming-talks](https://github.com/hellerve/programming-talks) : Awesome & interesting talks about programming
-- [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) : A collection of resources on modern C++
-- [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
-- [GameDevelopmentLinks](https://github.com/UnterrainerInformatik/GameDevelopmentLinks) : This is a collection of useful game-development links including, but not restricted to, development with MonoGame.
 
-- [awesome-casestudy](https://github.com/luruke/awesome-casestudy) : Curated list of technical case studies on WebGL and creative development
-- [awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) : List of open-source technologies that help in the process of building a pipeline for CG and VFX productions
-- [awesome-glsl](https://github.com/radixzz/awesome-glsl) : Compilation of the best resources to learn programming OpenGL Shaders
-- [cpp_blogs](https://github.com/shafik/cpp_blogs) : C++ Blogs (plus other stuff we should care about like undefined behavior)
-- [awesome-rtx](https://github.com/vinjn/awesome-rtx) : Curated collection of projects leveraging NVIDIA RTX technology (OptiX, DXR, VKR)
-- [zalo.github.io](https://github.com/zalo/zalo.github.io) : A home for knowledge that is hard to find elsewhere
-- [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev) : A list of Game Development resources to make magic happen.
-- [gamedev-resources](https://github.com/Ibuprogames/gamedev-resources) : An updated collection of useful resources to resources to design, develop and market games.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) : Build your own (insert technology here)
-- [awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) : Curated list of ray tracing resources
-- [hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) : Show some love to your contributors! A widget for your repo README. Visual and clean. Refreshes every hour.
-- [awesome-collision-detection](https://github.com/jslee02/awesome-collision-detection) : A curated list of awesome collision detection libraries and resources
-- [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) : A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.
-- [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) : Awesome D3D12 ecosystem
-- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) : A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-- [awesome-bits](https://github.com/keon/awesome-bits) : A curated list of awesome bitwise operations and tricks
-- [cpplinks](https://github.com/MattPD/cpplinks) : A categorized list of C++ resources.
-- [awesome-gametalks](https://github.com/ellisonleao/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
-- [awesome-design](https://github.com/Calinou/awesome-design) : Best UI/UX Design Sources For Developer & Designer Ever :)
-- [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) : A collection of free software and free culture resources for making amazing games. (mirror)
-- [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) : A curated list of awesome articles, websites and resources about mental health in the software industry.
-- [modern-cpp-tutorial](https://github.com/utilForever/modern-cpp-tutorial) : A curated list of Modern C++ articles, examples, tutorials, frameworks, libraries, and shiny things.
-- [awesome-wgpu](https://github.com/rofrol/awesome-wgpu) : A curated list of wgpu code and resources.
-- [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
-- [data-oriented-design](https://github.com/dbartolini/data-oriented-design) : A curated list of data oriented design resources.
  
 ## Game-Company
 - www.ryzom.com
@@ -1150,6 +1154,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 - [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu
 - [cglm](https://github.com/recp/cglm)
+- [red3d](http://www.red3d.com)
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
