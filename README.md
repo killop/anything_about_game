@@ -71,6 +71,7 @@ Table of Contents
     - [Rust](#rust)
     - [Benchmark](#benchmark)
 - [File Systems](#file-systems)
+- [Text Template](#text-template)
 - [NetWork](#network)
     - [Articles](#articles)
     - [C](#c-2)
@@ -353,6 +354,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- https://xoofx.com/blog/
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
 - https://blog.selfshadow.com/
@@ -652,6 +654,7 @@ Table of Contents
 - https://molingyu.github.io/RosettaDocs/  本地化
   
 ## Console
+- [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
 - [BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole)
 - [Reactor-Developer-Console](https://github.com/mustafayaya/Reactor-Developer-Console) 
 - [Quantum Console](https://assetstore.unity.com/packages/tools/utilities/quantum-console-128881) unity-plugin
@@ -887,6 +890,11 @@ Table of Contents
 - https://github.com/JosefPihrt/Orang file opreation
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 
+## Text Template
+- [scriban](https://github.com/lunet-io/scriban) A fast, powerful, safe and lightweight text templating language and engine for .NET 
+- [dotliquid](https://github.com/dotliquid/dotliquid) .NET Port of Tobias Lütke's Liquid template language. 
+- [fluid](https://github.com/sebastienros/fluid/) Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language. 
+- [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET 
 
 ## NetWork
 #### Articles
