@@ -300,7 +300,7 @@ Table of Contents
 - http://www.iocoder.cn/?github
 #### Go
 - https://github.com/polaris1119/golangweekly
-
+- https://github.com/unknwon/go-study-index
  
 ## Person/Social/Blogs
 #### Chinese
@@ -963,7 +963,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
-
+- [NanoSockets](https://github.com/nxrighthere/NanoSockets) Lightweight UDP sockets abstraction for rapid implementation of message-oriented protocols 
 #### Web/Http-fastest
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
@@ -1415,6 +1415,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ##### ShaderVariant
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 * https://github.com/networm/ShaderVariantCollectionExporter
+* https://github.com/SixWays/UnityShaderStripper
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
 ##### SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue
@@ -1869,6 +1870,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
+* [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
 
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
