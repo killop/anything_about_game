@@ -951,6 +951,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) - A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more
 * [Colyseus](http://colyseus.io/) - Multiplayer Game Server for Node.js. [Demo with Unity3D](https://github.com/gamestdio/colyseus-unity3d)
 * [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) - Web Socket client for Unity
+* [UnityWebSocket](https://github.com/psygame/UnityWebSocket) 🐳 The Best Unity WebSocket Plugin for All Platforms. 
+* [unity-websocket-webgl](https://github.com/jirihybek/unity-websocket-webgl) Hybrid WebSocket implementation for Unity 3D with support of native and browser client. 
 * [RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types)
 * [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
 * [UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with serverside framerate for Unity
@@ -959,6 +961,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Entitas-Sync-Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Networking framework for Entitas ECS. Targeted at turnbased games or other slow-paced genres
 * [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 
 * [Davinet](https://github.com/IronWarrior/Davinet) - Minimalist Unity networking package with goals of responsive physics, loose coupling, extensibility and encapsulation of netcode. 
+* [ECSPowerNetcode](https://github.com/actionk/ECSPowerNetcode) Library to power up your experience with the DOTS Unity Netcode. 
 #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -1138,6 +1141,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Mathfs](https://github.com/FreyaHolmer/Mathfs) c# Expanded Math Functionality for Unity 
 - [Geometric Algorithms](https://github.com/volfegan/GeometricAlgorithms)  Java Geometric Algorithms implemented for Java and Processing v3 
 - [delaunator](https://github.com/nol1fe/delaunator-sharp) c# Fast Delaunay triangulation of 2D points implemented in C#. 
+- [UnityMathReference](https://github.com/zezba9000/UnityMathReference)  Math reference for games and more. All visualized in Unity3D. 
 - [Computational](https://github.com/Habrador/Computational-geometry)Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, etc 
 - [UGM](https://github.com/Ubpa/UGM) cpp 
 -  Armadillo：高质量的C++线性代数库，速度和易用性做到了很好的平衡。语法和MatlAB很相似。[官网](http://arma.sourceforge.net/)
@@ -1288,6 +1292,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [SharpVulkan](https://github.com/jwollen/SharpVulkan) C# bindings for the Vulkan graphics API, used by the Xenko game engine.
 - [VulkanSharp](https://github.com/mono/VulkanSharp) Open source .NET binding for the Vulkan API 
 - [Silk](https://github.com/Ultz/Silk.NET) Silk.NET is a high-speed, advanced library, providing bindings to popular low-level APIs such as OpenGL and OpenAL. Use Silk.NET to add cross-platform 3D graphics, audio, compute and haptics to your C# application.
+- [helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) Helix Toolkit is a collection of 3D components for .NET Framework.
 #### Collection
 - [realtimerendering](http://www.realtimerendering.com/) 
 - https://github.com/luisnts/awesome-computer-graphics
@@ -1649,7 +1654,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://dotnet.github.io/orleans/ actor
 - https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架 
 - https://github.com/nodatime/nodatime 时间管理
-- https://github.com/OrleansContrib/Orleankka actor
+- https://github.com/OrleansContrib/Orleankka actor 
+- https://github.com/RayTale/Vertex Vertex is a distributed, ultimately consistent, event traceable cross platform framework based on Orleans, which is used to build high-performance, high throughput, low latency, scalable distributed applications 
 - https://www.newlifex.com/
 ## C
 - https://github.com/nothings/stb
@@ -1709,6 +1715,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/flix/flix
 - [inko](https://inko-lang.org/)
 - [arturo](https://github.com/arturo-lang/arturo)
+- [artichoke](https://github.com/artichoke/artichoke) python in dnasm
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -1905,6 +1912,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
+* [mixture](https://openupm.com/packages/com.alelievr.mixture/)
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
 - https://github.com/StbSharp
  
@@ -2027,6 +2035,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
  
 ## Programmer-Common-Tool
+- https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
 - http://binaryconvert.com 专门做二进制转换的网站
 - [box3](www.box3.cn) 开发者工具箱
