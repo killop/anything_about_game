@@ -107,6 +107,7 @@ Table of Contents
     - [Optimize](#optimize)
     - [Physically-Based-Render](#physically-based-render)
       - [NPR](#npr)
+    - [SDF](#sdf)
     - [Occlusion Culling](#occlusion-culling)
     - [Unity-Shader](#unity-shader)
       - [Article](#article-3)
@@ -354,14 +355,15 @@ Table of Contents
 - https://halfrost.com
  
 #### English
-- https://xoofx.com/blog/
+- [goatstream](https://www.goatstream.com) animation
+- [xoofx](https://xoofx.com/blog/) c# 
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
 - https://blog.selfshadow.com/
 - https://www.gabrielgambetta.com/
-- [baba-s hatenablog的博客(日本)这个作者分享蛮多东西的](http://baba-s.hatenablog.com/)
+- [baba-s hatenablog](http://baba-s.hatenablog.com/)
 - [UnityGems](https://unitygem.wordpress.com/)
-- [Jackson Dunstan 分享各种Unity及C#优化等,建议RSS订阅下](https://jacksondunstan.com/)
+- [Jackson Dunstan ](https://jacksondunstan.com/)
 - https://tooslowexception.com/
 - https://thegamedev.guru
 - [pydonzallaz](https://pydonzallaz.com/)  working at Unity Technologies on Unity.
@@ -535,6 +537,7 @@ Table of Contents
 - [creature](http://creature.kestrelmoon.com/index.html)
 - [spritestudio](http://www.webtech.co.jp/spritestudio/)
 - [mixamo](https://www.mixamo.com/#/)
+
 ##### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
@@ -806,8 +809,10 @@ Table of Contents
 - [细谈网络同步在游戏历史中的发展变化 (上)](https://zhuanlan.zhihu.com/p/130702310)
 - [细谈网络同步在游戏历史中的发展变化 (中)](https://zhuanlan.zhihu.com/p/164686867)
 - [smooth-sync-unity-plugin](https://assetstore.unity.com/packages/tools/network/smooth-sync-96925) 
+- [帧同步联机战斗（预测，快照，回滚）](https://zhuanlan.zhihu.com/p/38468615)
 #### Lockstep
 - http://netcoding4d.com/
+- https://cloud.tencent.com/product/mgobe
 - https://github.com/JiepengTan/LockstepECS 
 - https://github.com/SnpM/LockstepFramework
 - https://github.com/proepkes/UnityLockstep
@@ -848,6 +853,7 @@ Table of Contents
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
+ 
 #### C/C++
 
 * anax - Open source C++ entity system [[github](https://github.com/miguelmartin75/anax) ![miguelmartin75/anax](https://img.shields.io/github/stars/miguelmartin75/anax.svg?style=flat&label=Star&maxAge=86400)]
@@ -872,6 +878,7 @@ Table of Contents
 * https://github.com/hdmmY/BillionsUnit
 * [NanoECS](https://github.com/SinyavtsevIlya/NanoECS)  c#-Unity ECS framework 
 * [LeoECS](https://github.com/Leopotam/ecs) LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
+* [unity-entity-component-system](https://github.com/elraccoone/unity-entity-component-system) A better approach to game design that allows you to concentrate on the actual problems you are solving: the data and behavior that make up your game. By moving from object-oriented to data-oriented design it will be easier for you to reuse the code and easier for others to understand and work on it.
 #### Python
 * esper - A lightweight Entity System for Python [[github](https://github.com/benmoran56/esper) ![benmoran56/esper](https://img.shields.io/github/stars/benmoran56/esper.svg?style=flat&label=Star&maxAge=86400)]
 
@@ -911,7 +918,8 @@ Table of Contents
 - [面试官：换人！他连 TCP 这几个参数都不懂 ](https://mp.weixin.qq.com/s/fjnChU3MKNc_x-Wk7evLhg)
 - [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
 #### C#
-http://www.hslcommunication.cn/
+- [NetworkToolkit](https://github.com/scalablecory/NetworkToolkit) This project contains networking primitives for use with .NET. 
+- http://www.hslcommunication.cn/
 - [normcore](https://normcore.io/) Normcore is the best way to add multiplayer to any project. Period.
 Whether you’re creating mobile games, the next esport title, enterprise collaboration tools, or any project with real-time communication
 - [photonengine](https://www.photonengine.com) The world's #1 independent networking engine and multiplayer platform —
@@ -1200,7 +1208,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [reactphysics3d]([www.reactphysics3d.com](https://github.com/DanielChappuis/reactphysics3d))
 - [tinyc2](https://github.com/RandyGaul/cute_headers) Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games 
 - [qu3e](https://github.com/RandyGaul/qu3e) qu3e is a compact, light-weight and fast 3D physics engine in C++. 
-- https://github.com/nitrocaster/OPCODE OPCODE
+- [OPCODE](https://github.com/nitrocaster/OPCODE)
 - https://github.com/kroitor/gjk.c gjk.c
 - https://github.com/wnbittle/dyn4j dyn4j
 - https://github.com/wellcaffeinated/PhysicsJS
@@ -1333,7 +1341,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [理解高动态范围光](http://www.xionggf.com/post/cg/inside_hdr/)
 - [ShaderLab 开发实战- 沈军](https://shenjun4shader.github.io/shaderhtml/)
 - [The Book of Shaders](https://thebookofshaders.com/?lan=ch)
-- [总结一些TA（技术美术）学习的网站](https://zhuanlan.zhihu.com/p/84550677)  
+- [总结一些TA（技术美术）学习的网站](https://zhuanlan.zhihu.com/p/84550677) 
+ 
+  
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -1408,6 +1418,22 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [kShading](https://github.com/Kink3d/kShading)
 - https://github.com/ChiliMilk/URP_Toon
 - https://github.com/you-ri/LiliumToonGraph
+
+#### SDF
+* [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
+* [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
+* [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
+* [Signed-Distance-Field-Generator](https://github.com/danielshervheim/Signed-Distance-Field-Generator) A Unity tool to generate signed distance field volumes (as Texture3D assets) from meshes.
+* [msdfgen](https://github.com/Chlumsky/msdfgen) Multi-channel signed distance field generator
+* [Typogenic](https://github.com/Chman/Typogenic) Signed-distance field text rendering for Unity
+* [SDF](https://github.com/memononen/SDF) Signed Distance Field Builder for Contour Texturing
+* [SDFGen](https://github.com/christopherbatty/SDFGen) A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
+* [DeepSDF](https://github.com/facebookresearch/DeepSDF) Learning Continuous Signed Distance Functions for Shape Representation
+* [sdfu](https://github.com/termhn/sdfu) Signed Distance Field Utilities https://crates.io/crates/sdfu
+* [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
+* [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
+* [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
+
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
@@ -1891,6 +1917,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Navmesh
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
+- [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) Alternative to Unity's NavMesh system where the agents avoid each other. 
 #### Tile map 
  - Isometric
  - Ultimate Grids Engine
@@ -1912,7 +1939,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
-* [mixture](https://openupm.com/packages/com.alelievr.mixture/)
+* [mixture](https://openupm.com/packages/com.alelievr.mixture/) Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime. Mixture is very flexible, easily customizable through ShaderGraph and a simple C# API, fast with it's GPU based workflow and compatible with all the render pipelines thanks to the new Custom Render Texture API.
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
 - https://github.com/StbSharp
  
@@ -2084,7 +2111,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/soulteary/tenant-point 程序员如何租房子
 - https://wallroom.io 壁纸网站
 - https://wallhaven.cc/ 壁纸网站
-## 友情链接  
+## 友情链接 
+* [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
  
