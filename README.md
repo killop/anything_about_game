@@ -169,9 +169,11 @@ Table of Contents
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
     - [GPU-Animation](#gpu-animation)
+    - [Physics Based Animation](#physics-based-animation)
     - [Climb System](#climb-system)
     - [AI](#ai)
     - [UGUI](#ugui)
+    - [Timeline](#timeline)
     - [Util](#util)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Effect](#effect-1)
@@ -567,6 +569,7 @@ Table of Contents
 - [native-audio](https://assetstore.unity.com/packages/tools/audio/native-audio-107067) unity-plugin
 - [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) microsoft Audio-Manager-for-Unity
 - [vivaldi-audio-engine](https://assetstore.unity.com/packages/tools/audio/vivaldi-audio-engine-pro-64029) unity-plugin
+- [usfxr](https://github.com/grapefrukt/usfxr)
 #### Modeling
 - https://www.substance3d.com/ sb
 - https://www.sidefx.com/ houdini
@@ -712,7 +715,8 @@ Table of Contents
 
 ## Procedurally Generate 
 - [SPORE-Creature-Creator](https://github.com/daniellochner/SPORE-Creature-Creator) Procedurally generate creatures in Unity - inspired by the incredible game, Spore!
--  [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
+- [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
+- [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) blender plugin proceDurally spaceShip
 ## 3D Rendering Software/Plugin
 - [keyshot](https://www.keyshot.com/)
  
@@ -1011,7 +1015,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 * [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications :o2:
 * [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
-
 * [Juno Lua](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua :o2:
 * [Juno TypeScript](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 * [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
@@ -1293,7 +1296,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [mini3d](https://github.com/skywind3000/mini3d) 3D Software Renderer in 700 Lines !! (700 行代码的 3D 软件渲染器) 
 - [Zagara](https://github.com/justalittlefat/Zagara) A tiny softrendering engine based on unity3d. 
 - https://github.com/kosua20/herebedragons
- 
+- https://github.com/google/filament 
 #### 3rd-Binding
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
 - [sharpdx](http://sharpdx.org/) SharpDX is an open-source managed .NET wrapper of the DirectX API.
@@ -1577,7 +1580,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/geekxh/hello-algorithm
 - https://github.com/Xunzhuo/Algorithms-in-4-Steps
 - https://github.com/halfrost/LeetCode-Go
-- 
+- https://github.com/sephirothx/DStruct.NET
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -1748,6 +1751,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### dynCall
 - [libffi](http://sourceware.org/libffi/)
 - [dyncall](https://dyncall.org)
+- [awesome-jit](https://github.com/wdv4758h/awesome-jit)
 ## DevOps
 #### Tools
 - [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
@@ -1853,6 +1857,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
 - [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
 - [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
+#### Physics Based Animation
+- [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
 #### Climb System
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 #### AI
@@ -1863,12 +1869,14 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
-
+#### Timeline
+- https://github.com/pofulu/TimelineTool
 #### Util
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 - https://github.com/lujian101
 - https://github.com/shinn716/ShinnUtils
 - https://github.com/cs-util-com/cscore
+
 #### Unity 特色工程（精粹）
 
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
