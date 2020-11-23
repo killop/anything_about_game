@@ -1421,6 +1421,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [kShading](https://github.com/Kink3d/kShading)
 - https://github.com/ChiliMilk/URP_Toon
 - https://github.com/you-ri/LiliumToonGraph
+- https://github.com/SnutiHQ/Toon-Shader
 
 #### SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
@@ -1752,6 +1753,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [libffi](http://sourceware.org/libffi/)
 - [dyncall](https://dyncall.org)
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
+- [xbyak](https://github.com/herumi/xbyak) Xbyak is a C++ header library that enables dynamically to assemble x86(IA32), x64(AMD64, x86-64) mnemonic.
 ## DevOps
 #### Tools
 - [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
@@ -1814,6 +1816,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
+- [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
 
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
@@ -1876,6 +1879,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/lujian101
 - https://github.com/shinn716/ShinnUtils
 - https://github.com/cs-util-com/cscore
+- https://github.com/silphid/silphid.unity/
 
 #### Unity 特色工程（精粹）
 
