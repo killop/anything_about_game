@@ -270,6 +270,7 @@ Table of Contents
 - https://github.com/jnv/lists
 - https://github.com/wesbos/awesome-uses
 - http://www.lib4dev.in/topics/dotnet
+- [林德熙收藏的开源项目](https://blog.lindexi.com/post/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE.html#%E5%8D%9A%E5%AE%A2)
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts 
 - https://github.com/jobbole
 - https://github.com/stanzhai/be-a-professional-programmer
@@ -355,6 +356,7 @@ Table of Contents
 - [房燕良](https://neil3d.github.io/)
 - [KillerAery](https://www.cnblogs.com/KillerAery)
 - [笨木头](http://www.benmutou.com/)
+- [Ulysses](http://117.51.146.36/)
 - https://halfrost.com
  
 #### English
@@ -1585,6 +1587,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/Xunzhuo/Algorithms-in-4-Steps
 - https://github.com/halfrost/LeetCode-Go
 - https://github.com/sephirothx/DStruct.NET
+- https://github.com/justcoding121/Advanced-Algorithms
+- https://github.com/ikesnowy/Algorithms-4th-Edition-in-Csharp
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -1631,6 +1635,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
 - [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
 - https://github.com/AArnott/Nerdbank.Streams 高效流
+- [AsyncWorkerCollection](https://github.com/dotnet-campus/AsyncWorkerCollection) A collection of tools that support asynchronous methods and support high-performance multithreading.
+- [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### String
@@ -1685,11 +1691,14 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://getakka.net/ - Akka.Net
 - https://dotnet.github.io/orleans/ actor
-- https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架 
+- https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开框架 
 - https://github.com/nodatime/nodatime 时间管理
 - https://github.com/OrleansContrib/Orleankka actor 
 - https://github.com/RayTale/Vertex Vertex is a distributed, ultimately consistent, event traceable cross platform framework based on Orleans, which is used to build high-performance, high throughput, low latency, scalable distributed applications 
 - https://www.newlifex.com/
+- https://github.com/night-moon-studio/Leo A high-performance type dynamic operation library.
+- [Chinese](https://github.com/zmjack/Chinese) 中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。
+
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -1749,6 +1758,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [inko](https://inko-lang.org/)
 - [arturo](https://github.com/arturo-lang/arturo)
 - [artichoke](https://github.com/artichoke/artichoke) python in dnasm
+- [Yuri AVG Engine](https://github.com/Project-AZUSA/YuriAVGEngine) Project Yuri将着眼于设计一个包含基本AVG游戏所需功能的引擎套装。
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
