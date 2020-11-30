@@ -183,7 +183,6 @@ Table of Contents
     - [Navmesh](#navmesh)
     - [Tile map](#tile-map)
     - [Bone&&Spring](#bonespring)
-    - [Burst&&JobSystem](#burstjobsystem)
     - [Texture](#texture-1)
     - [Create Model](#create-model)
     - [Mesh](#mesh-1)
@@ -357,6 +356,7 @@ Table of Contents
 - [KillerAery](https://www.cnblogs.com/KillerAery)
 - [笨木头](http://www.benmutou.com/)
 - [Ulysses](http://117.51.146.36/)
+- [lt-tree](http://www.lt-tree.com/)
 - https://halfrost.com
  
 #### English
@@ -493,6 +493,9 @@ Table of Contents
 - https://kosmokleaner.wordpress.com/
 - http://the-witness.net/news/
 - http://jpgrenier.org/
+- [wunkolo](https://wunkolo.github.io/) c++ game 
+- [blackmatov](https://blackmatov.github.io/) unity c#
+- [joshpeterson](https://joshpeterson.github.io/) stuff of unity
 - Alex Strook [Twitter](https://twitter.com/AlexStrook) 3d gameArt
 - jonadinges [Twitter](https://twitter.com/jonadinges) 3d gameArt
 - Joyce [Twitter](https://twitter.com/minionsart) 3d gameArt 
@@ -1589,6 +1592,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/sephirothx/DStruct.NET
 - https://github.com/justcoding121/Advanced-Algorithms
 - https://github.com/ikesnowy/Algorithms-4th-Edition-in-Csharp
+- https://github.com/pinefor1983/CS-Growing-book
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -1830,7 +1834,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
 - [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
-
+- [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/huailiang/knead_proj unity  捏脸
@@ -1893,7 +1897,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/shinn716/ShinnUtils
 - https://github.com/cs-util-com/cscore
 - https://github.com/silphid/silphid.unity/
-
+- https://github.com/IainS1986/UnityCoverFlow
 #### Unity 特色工程（精粹）
 
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
@@ -1939,6 +1943,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
 * [actors](https://github.com/PixeyeHQ/actors.unity)
 * [ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)
+* [UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation)
 #### Navmesh
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
@@ -1957,8 +1962,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [uSpringBone](https://github.com/EsProgram/uSpringBone)
  - [Unity-DynamicBone-JobSystem-Opmized](https://github.com/dreamfairy/Unity-DynamicBone-JobSystem-Opmized)
  
- #### Burst&&JobSystem
- - https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation
+ 
  
  #### Texture
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
