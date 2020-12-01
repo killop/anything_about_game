@@ -8,6 +8,7 @@
 - [技你太美_UE4_Ramp生成器_仿原神皮肤shader](https://zhuanlan.zhihu.com/p/248998437)
 - [《原神》部分效果的个人理解](https://zhuanlan.zhihu.com/p/246531456)
 - [原神图形技术简析及杂谈](https://zhuanlan.zhihu.com/p/260824391)
+- [](https://www.bilibili.com/video/BV1pt411w7jX)
 ## 塞尔达传说：荒野之息
 - [为你分析历代《塞尔达传说》的美术设定与动画技术](https://www.taptap.com/topic/2604022?region=jp)
 - [《塞尔达传说：旷野之息》技术分析文章](https://www.bilibili.com/read/cv3239418)
@@ -23,4 +24,6 @@
 ## 楚留香
 - [楚留香《一梦江湖》捏脸美术制作和渲染分析](https://zhuanlan.zhihu.com/p/76979718)
 ## war3
-- [War3Net](https://github.com/Drake53/War3Net) A .NET implementation of Warcraft III related libraries. 
+- [War3Net](https://github.com/Drake53/War3Net) A .NET implementation of Warcraft III related libraries.
+## 崩坏3
+- [崩坏3卡通渲染完全攻略](https://www.bilibili.com/video/BV1pt411w7jX)
