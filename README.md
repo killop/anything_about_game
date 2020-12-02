@@ -1383,7 +1383,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Nvidia Pascal Architecture](https://images.nvidia.com/content/pdf/tesla/whitepaper/pascal-architecture-whitepaper.pdf)
 - [PowerVR](http://cdn.imgtec.com/sdk-documentation/PowerVR.Performance+Recommendations.pdf)
 - [移动设备GPU架构知识汇总](https://zhuanlan.zhihu.com/p/112120206)
-
+- [GPU架构 核心问题笔记](https://zhuanlan.zhihu.com/p/139118900)
 - [移动处理器CPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
 - [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
 - 微信公众号：GPUer
