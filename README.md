@@ -887,6 +887,7 @@ Table of Contents
 * [Morpeh](https://github.com/X-Crew/Morpeh) ECS Framework for Unity Game Engine.
 * https://github.com/hdmmY/BillionsUnit
 * [NanoECS](https://github.com/SinyavtsevIlya/NanoECS)  c#-Unity ECS framework 
+* [Unity ECS EntityBuilder](https://github.com/actionk/ECSEntityBuilder) This project is a wrapper around Unity ECS entities that allows one to simplify the process of creating / modifying entities.
 * [LeoECS](https://github.com/Leopotam/ecs) LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
 * [unity-entity-component-system](https://github.com/elraccoone/unity-entity-component-system) A better approach to game design that allows you to concentrate on the actual problems you are solving: the data and behavior that make up your game. By moving from object-oriented to data-oriented design it will be easier for you to reuse the code and easier for others to understand and work on it.
 #### Python
@@ -1186,7 +1187,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support 
 - [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 - [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu
-- [cglm](https://github.com/recp/cglm)
+- [cglm](https://github.com/recp/cglm)  Highly Optimized Graphics Math (glm) for C
 - [red3d](http://www.red3d.com)
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
@@ -2059,6 +2060,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
 #### Movement
+- [UNet-Controlle](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
 - [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
 - [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
