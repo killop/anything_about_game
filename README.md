@@ -88,6 +88,7 @@ Table of Contents
 - [Physics Framework](#physics-framework)
 - [Fluid](#fluid)
 - [Cloth](#cloth)
+- [Position-Based-Dynamics](#position-based-dynamics)
 - [Softbodie](#softbodie)
 - [Vehicle](#vehicle)
 - [Game-BenchMark/Metric/Tool](#game-benchmarkmetrictool)
@@ -813,6 +814,7 @@ Table of Contents
 - https://github.com/ketoo/NoahGameFrame
 - https://github.com/Golangltd/LollipopGo
 - https://github.com/servicetitan/Stl.Fusion
+- https://github.com/naia-rs/naia
 
 #### Article
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
@@ -1231,6 +1233,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.sofa-framework.org/
 - https://github.com/jeffvella/UnityNativeCollision
 - https://www.bepuentertainment.com/
+
 ## Fluid
 - [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 - [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
@@ -1253,6 +1256,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [GPUClothSimulationInUnity](https://github.com/voxell-tech/GPUClothSimulationInUnity) About
 Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
+## Position-Based-Dynamics
+- [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
 ## Softbodie
 * [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
 
@@ -1316,6 +1321,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [VulkanSharp](https://github.com/mono/VulkanSharp) Open source .NET binding for the Vulkan API 
 - [Silk](https://github.com/Ultz/Silk.NET) Silk.NET is a high-speed, advanced library, providing bindings to popular low-level APIs such as OpenGL and OpenAL. Use Silk.NET to add cross-platform 3D graphics, audio, compute and haptics to your C# application.
 - [helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) Helix Toolkit is a collection of 3D components for .NET Framework.
+- [SharpGame](https://github.com/BobbyBao/SharpGame) 基于Vulkan的多线程渲染引擎，采用C#9.0开发，支持.Net5.0
 #### Collection
 - [realtimerendering](http://www.realtimerendering.com/) 
 - https://github.com/luisnts/awesome-computer-graphics
@@ -1575,6 +1581,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/labuladong/fucking-algorithm
 - https://github.com/algorithm-visualizer/algorithm-visualizer
 - https://github.com/aalhour/C-Sharp-Algorithms
+- https://github.com/SolutionsDesign/Algorithmia
 - https://github.com/OpenGenus/cosmos
 - https://github.com/CyC2018/CS-Notes
 - https://github.com/azl397985856/leetcode
@@ -1890,6 +1897,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
 #### Physics Based Animation
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
+- [goatstream](https://www.goatstream.com/research/)
+- [animation](https://www.animation.rwth-aachen.de/)
+- [interactive-graphics](http://www.interactive-graphics.de/) 
 #### Climb System
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 #### AI
