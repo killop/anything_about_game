@@ -1406,6 +1406,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 -  http://developer.download.nvidia.com/GPU_Programming_Guide/GPU_Programming_Guide.pdf
 #### Physically-Based-Render
 - https://github.com/Josh015/Alloy
+- https://github.com/xelatihy/yocto-gl
 - [【基于物理渲染】业界主流GGX](https://zhuanlan.zhihu.com/p/32985996)
 
 ##### NPR
@@ -1539,6 +1540,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
 #### Color
 - [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhih  u.com/p/23905865)
+- [Photoshop blending modes in glsl ](https://github.com/jamieowen/glsl-blend)
 - [色彩空间基础](https://zhuanlan.zhihu.com/p/24214731)
 - [漫谈HDR和色彩管理](https://zhuanlan.zhihu.com/p/129095380)
 - [色彩原理](https://docs.krita.org/zh_CN/general_concepts/colors.html)
@@ -1855,6 +1857,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
+- https://github.com/rurre/PumkinsAvatarTools unity 表情
 - https://github.com/huailiang/knead_proj unity  捏脸
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
@@ -1920,6 +1923,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/silphid/silphid.unity/
 - https://github.com/IainS1986/UnityCoverFlow
 - https://github.com/blueberryzzz/UIAndShader
+- https://github.com/rfadeev/pump-editor
 #### Unity 特色工程（精粹）
 
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
@@ -2008,8 +2012,10 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
- - https://github.com/cnr-isti-vclab/meshlab
- - https://libigl.github.io/
+ - [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
+ - [libigl](https://libigl.github.io/) libigl - A simple C++ geometry processing library
+ - [Open3D](https://github.com/intel-isl/Open3D) Open3D: A Modern Library for 3D Data Processing 
+ - [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes meshes smaller and faster to render 
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
