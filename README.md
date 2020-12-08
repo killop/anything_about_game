@@ -71,6 +71,7 @@ Table of Contents
     - [Rust](#rust)
     - [Benchmark](#benchmark)
 - [File Systems](#file-systems)
+- [Hash](#hash)
 - [Text Template](#text-template)
 - [NetWork](#network)
     - [Articles](#articles)
@@ -361,6 +362,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [gabormakesgames](https://gabormakesgames.com/) game math
 - [goatstream](https://www.goatstream.com) animation
 - [xoofx](https://xoofx.com/blog/) c# 
 - https://www.bruteforce-games.com/blog
@@ -910,6 +912,9 @@ Table of Contents
 - https://github.com/JosefPihrt/Orang file opreation
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 
+## Hash
+- [Blake3](https://github.com/xoofx/Blake3.NET) Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
+- [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm
 ## Text Template
 - [scriban](https://github.com/lunet-io/scriban) A fast, powerful, safe and lightweight text templating language and engine for .NET 
 - [dotliquid](https://github.com/dotliquid/dotliquid) .NET Port of Tobias Lütke's Liquid template language. 
@@ -951,7 +956,6 @@ NetStack is self-contained and has no dependencies.
 - [NetCoreServer](https://github.com/chronoxor/NetCoreServer) Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution 
 - [Sockets Under Control unity-plugin](https://assetstore.unity.com/packages/tools/network/sockets-under-control-159512)
 * [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - socket.io client for unity3d.
-* [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [Hazel-Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
 * [MassiveNet](https://github.com/jakevn/MassiveNet) - Unity3d UDP networking library focused on high-CCU, multi-server architecture.
 * [Nakama](https://github.com/heroiclabs/nakama) - An open-source distributed social and realtime server for games and apps by [Heroic Labs](https://heroiclabs.com). It includes a large set of services for users, data storage, and realtime client/server communication; as well as specialized APIs like realtime multiplayer, groups/guilds, and chat.
@@ -974,6 +978,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) - Web Socket client for Unity
 * [UnityWebSocket](https://github.com/psygame/UnityWebSocket) 🐳 The Best Unity WebSocket Plugin for All Platforms. 
 * [unity-websocket-webgl](https://github.com/jirihybek/unity-websocket-webgl) Hybrid WebSocket implementation for Unity 3D with support of native and browser client. 
+* [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+* [NativeWebSocket](https://github.com/endel/NativeWebSocket) WebSocket client for Unity - with no external dependencies (WebGL, Native, Android, iOS, UWP) 
 * [RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types)
 * [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
 * [UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with serverside framerate for Unity
@@ -991,6 +997,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
 - [NanoSockets](https://github.com/nxrighthere/NanoSockets) Lightweight UDP sockets abstraction for rapid implementation of message-oriented protocols 
+- [ggpo](https://github.com/pond3r/ggpo) Good Game, Peace Out Rollback Network SDK 
 #### Web/Http-fastest
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
@@ -1283,6 +1290,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Intel-GPA](https://software.intel.com/content/www/us/en/develop/tools/graphics-performance-analyzers.html)
 - [Android GPU Inspector](https://gpuinspector.dev/)
 - [ShaderDebugger](https://github.com/arigo/ShaderDebugger) unity-shader-debugger
+- [UnityShaderDebug](https://github.com/yujen/UnityShaderDebug) This material can print shader value. 
+- [ShaderDebug](https://github.com/zouchunyi/ShaderDebug) 详细文档参见知乎： https://zhuanlan.zhihu.com/p/104643601
 ## ComputerGraphics && Shading
 
 #### Graphics-Library
@@ -1924,6 +1933,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/IainS1986/UnityCoverFlow
 - https://github.com/blueberryzzz/UIAndShader
 - https://github.com/rfadeev/pump-editor
+- [PlayHooky](https://github.com/wledfor2/PlayHooky) PlayHooky is a simple C# Class that can be used to hook C# Methods at runtime.
 #### Unity 特色工程（精粹）
 
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
