@@ -1322,6 +1322,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) Software rendering engine with PBR. Built from scratch on C++. 
 - [mini3d](https://github.com/skywind3000/mini3d) 3D Software Renderer in 700 Lines !! (700 行代码的 3D 软件渲染器) 
 - [Zagara](https://github.com/justalittlefat/Zagara) A tiny softrendering engine based on unity3d. 
+- [SoftRenderer](https://github.com/wlxklyh/SoftRenderer)
 - https://github.com/kosua20/herebedragons
 - https://github.com/google/filament 
 #### 3rd-Binding
@@ -2023,6 +2024,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
+ - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
  - [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
  - [libigl](https://libigl.github.io/) libigl - A simple C++ geometry processing library
  - [Open3D](https://github.com/intel-isl/Open3D) Open3D: A Modern Library for 3D Data Processing 
