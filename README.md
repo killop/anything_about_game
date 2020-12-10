@@ -1678,6 +1678,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### String
+- https://github.com/benaadams/Ben.StringIntern string intern
 - https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
 - https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
 - https://github.com/snozbot/FastString Alternative to StringBuilder class for Unity games, with minimal memory allocation and faster performance. 
