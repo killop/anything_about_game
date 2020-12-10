@@ -279,7 +279,7 @@ Table of Contents
 - https://opensource.builders/
 - https://github.com/adamsitnik/awesome-dot-net-performance
 - https://github.com/kelthuzadx/EffectiveModernCppChinese
- 
+- https://github.com/terkelg/awesome-creative-coding 
 ## News
 - https://www.libhunt.com/
 - https://news.ycombinator.com/news hacker news
@@ -293,6 +293,7 @@ Table of Contents
 - https://insights.thoughtworks.cn/
 
 #### Js/Web
+- https://www.webaudioweekly.com/
 - https://github.com/dt-fe/weekly 
 - https://github.com/gauseen/blog/issues/4
 - https://www.infoq.cn/profile/1277275/publish
@@ -581,8 +582,8 @@ Table of Contents
 - [usfxr](https://github.com/grapefrukt/usfxr)
 #### Modeling
 - https://www.substance3d.com/ sb
-- https://www.sidefx.com/ houdini
-- https://github.com/Fe-Elf/FeELib-for-Houdini
+- https://www.sidefx.com/ houdini 
+- https://github.com/Fe-Elf/FeELib-for-Houdini 精灵超可爱 
 - https://www.blender.org/ blender
 - https://www.autodesk.com/products/3ds-max/overview max
 - https://www.autodesk.com/products/maya/overview maya
@@ -850,6 +851,7 @@ Table of Contents
 - https://github.com/ReubenBond/Hagar
 - https://github.com/1996v/Bssom.Net
 - https://github.com/Dogwei/Swifter.MessagePack
+- https://github.com/RainwayApp/bebop
 
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -917,6 +919,7 @@ Table of Contents
 - [Blake3](https://github.com/xoofx/Blake3.NET) Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
 - [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm
 ## Text Template
+- [cottle](https://github.com/r3c/cottle) High performance template engine for C# 
 - [scriban](https://github.com/lunet-io/scriban) A fast, powerful, safe and lightweight text templating language and engine for .NET 
 - [dotliquid](https://github.com/dotliquid/dotliquid) .NET Port of Tobias Lütke's Liquid template language. 
 - [fluid](https://github.com/sebastienros/fluid/) Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language. 
@@ -1280,7 +1283,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [upr](https://upr.unity.com/) 一款Unity出的性能分析工具，基于UnityProfiler的基础上制作的UPR，UPR的数据来自与UnityProfiler，会比Profiler有更多细节信息
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
 - [uwa4d](https://www.uwa4d.com/)
-- [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance 
+- [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
+- [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
 #### GPU
 - [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
 - [renderdoc](https://renderdoc.org/) 
@@ -1732,6 +1736,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://www.newlifex.com/
 - https://github.com/night-moon-studio/Leo A high-performance type dynamic operation library.
 - [Chinese](https://github.com/zmjack/Chinese) 中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。
+- https://github.com/benaadams/Ben.Demystifier High performance understanding for stack traces (Make error logs more productive) 
 
 ## C
 - https://github.com/nothings/stb
@@ -1817,7 +1822,6 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://openupm.com/packages/
 - https://github.com/insthync/awesome-unity3d
 - https://github.com/RyanNielson/awesome-unity
-- https://github.com/needle-tools/compilation-visualizer
 - https://github.com/Warl-G/GRUnityTools 
 
 #### AssetBundle
@@ -1870,6 +1874,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/rurre/PumkinsAvatarTools unity 表情
 - https://github.com/huailiang/knead_proj unity  捏脸
+- https://github.com/PixelWizards/BlendShapeController blendShapeController
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
 - [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
@@ -2182,6 +2187,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - http://www.cbaigui.com/ 中国妖精合集
 - https://works.yangerxiao.com/honeyed-words-generator/ 土味情话
 - https://github.com/soulteary/tenant-point 程序员如何租房子
+- [北京买房](https://github.com/facert/beijing_house_knowledge#%E5%A4%96%E5%9C%B0%E4%BA%BA%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0%E6%88%BF%E6%9D%A1%E4%BB%B6%E5%8F%8A%E8%B5%84%E6%A0%BC)
 - https://wallroom.io 壁纸网站
 - https://wallhaven.cc/ 壁纸网站
 ## 友情链接 
