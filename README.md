@@ -188,6 +188,7 @@ Table of Contents
     - [Texture](#texture-1)
     - [Create Model](#create-model)
     - [Mesh](#mesh-1)
+    - [Atlas](#atlas)
     - [Fog](#fog)
     - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
@@ -363,6 +364,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [atteneder](https://pixel.engineer/)
 - [gabormakesgames](https://gabormakesgames.com/) game math
 - [goatstream](https://www.goatstream.com) animation
 - [xoofx](https://xoofx.com/blog/) c# 
@@ -643,7 +645,7 @@ Table of Contents
 - [GraphicsGale](https://graphicsgale.com/us/)
     
 #### GPU-Texture
-- https://github.com/BinomialLLC/basis_universal
+- [basis_universal](https://github.com/BinomialLLC/basis_universal)
 - https://github.com/caosdoar/Fornos
 
 #### Visual-Logic
@@ -1131,6 +1133,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [FNA](https://github.com/FNA-XNA/FNA) FNA - Accuracy-focused XNA4 reimplementation for open platforms
 - [Gorgon](https://github.com/Tape-Worm/Gorgon)
 - [ezEngine](https://github.com/ezEngine/ezEngine) ezEngine is an open source C++ game engine in active development. It is currently mainly developed on Windows, and higher level functionality such as rendering and the tools are only available there, but the core libraries are also available for other platforms such as Mac and Linux.
+- [skylicht-engine](https://github.com/skylicht-lab/skylicht-engine) Skylicht Engine is C++ Game Engine based on Irrlicht 3D
 ## 并发执行和多线程
 #### CPP
 *   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
@@ -2035,6 +2038,12 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [libigl](https://libigl.github.io/) libigl - A simple C++ geometry processing library
  - [Open3D](https://github.com/intel-isl/Open3D) Open3D: A Modern Library for 3D Data Processing 
  - [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes meshes smaller and faster to render 
+ - [trimesh](https://github.com/mikedh/trimesh) Python library for loading and using triangular meshes. 
+ - [meshio](https://github.com/nschloe/meshio) There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts between them
+#### Atlas
+- [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
+- [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool 
+- [xatlas](https://github.com/jpcy/xatlas) Mesh parameterization / UV unwrapping library 
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
