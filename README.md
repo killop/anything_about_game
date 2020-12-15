@@ -365,6 +365,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [nfrechette](http://nfrechette.github.io)
 - [atteneder](https://pixel.engineer/)
 - [gabormakesgames](https://gabormakesgames.com/) game math
 - [goatstream](https://www.goatstream.com) animation
@@ -1206,6 +1207,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu
 - [cglm](https://github.com/recp/cglm)  Highly Optimized Graphics Math (glm) for C
 - [red3d](http://www.red3d.com)
+- [Realtime Math ](https://github.com/nfrechette/rtm)
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -1514,6 +1516,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/Scrawk/Brunetons-Ocean
 - https://github.com/Verasl/BoatAttack water
 - https://github.com/eliasts/Ocean_Community_Next_Gen
+- [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
 
 ##### Comon-Collection
 - https://github.com/ellioman/ShaderProject
