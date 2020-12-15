@@ -835,7 +835,7 @@ Table of Contents
 - https://github.com/JiepengTan/LockstepECS 
 - https://github.com/SnpM/LockstepFramework
 - https://github.com/proepkes/UnityLockstep
-
+- https://github.com/CraneInForest/LockStepSimpleFramework-Client
 #### status-syn
 - https://github.com/zpl-c/librg
 
@@ -1208,6 +1208,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [cglm](https://github.com/recp/cglm)  Highly Optimized Graphics Math (glm) for C
 - [red3d](http://www.red3d.com)
 - [Realtime Math ](https://github.com/nfrechette/rtm)
+- [vectorial](https://github.com/scoopr/vectorial) Vector math library with NEON/SSE support 
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -1229,7 +1230,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://mmaqa.com/
 - [空间划分](https://www.cnblogs.com/KillerAery/p/10878367.html)
 - 游戏相关的几何分支:欧式几何、射影几何、微分几何、代数几何和非交换几何
-
+- [comparison with math libraries](https://nfrechette.github.io/2019/01/19/introducing_realtime_math/)
 ## Physics Framework
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
