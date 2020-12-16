@@ -281,6 +281,7 @@ Table of Contents
 - https://github.com/adamsitnik/awesome-dot-net-performance
 - https://github.com/kelthuzadx/EffectiveModernCppChinese
 - https://github.com/terkelg/awesome-creative-coding 
+- https://github.com/33nano/awesome-Gentools
 ## News
 - https://www.libhunt.com/
 - https://news.ycombinator.com/news hacker news
@@ -365,6 +366,8 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [martindevans](https://martindevans.me/)
+- [mellinoe](https://mellinoe.dev/)
 - [nfrechette](http://nfrechette.github.io)
 - [atteneder](https://pixel.engineer/)
 - [gabormakesgames](https://gabormakesgames.com/) game math
@@ -381,6 +384,8 @@ Table of Contents
 - https://thegamedev.guru
 - [pydonzallaz](https://pydonzallaz.com/)  working at Unity Technologies on Unity.
 - [aras-p.info](http://aras-p.info/blog/) working at Unity Technologies on Unity.
+- [sandervanrossen](http://sandervanrossen.blogspot.com/) working at Unity Technologies on Unity.
+- [timjones](http://timjones.io/) working at Unity Technologies on Unity.
 - [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
 - [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
 - https://simonschreibt.de/
@@ -1334,6 +1339,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [mini3d](https://github.com/skywind3000/mini3d) 3D Software Renderer in 700 Lines !! (700 行代码的 3D 软件渲染器) 
 - [Zagara](https://github.com/justalittlefat/Zagara) A tiny softrendering engine based on unity3d. 
 - [SoftRenderer](https://github.com/wlxklyh/SoftRenderer)
+- [rasterizr](https://github.com/tgjones/rasterizr)
 - https://github.com/kosua20/herebedragons
 - https://github.com/google/filament 
 #### 3rd-Binding
@@ -1366,6 +1372,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/FancyVin/fun-with-graphics
 - https://www.ronja-tutorials.com/
 - https://github.com/lettier/3d-game-shaders-for-beginners
+- https://github.com/vo01github/ComputerGraphics
 #### Shading-Language
 - https://github.com/wshxbqq/GLSL-Card
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
@@ -1692,6 +1699,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/snozbot/FastString Alternative to StringBuilder class for Unity games, with minimal memory allocation and faster performance. 
 - https://github.com/MikePopoloski/StringFormatter Zero-allocation string formatting for .NET. 
 - [stringHelper](https://github.com/Dogwei/Swifter.Json/blob/db6c0be4fa2bfac5583d5bce7b475a2d618e7d74/Swifter.Core/Tools/String/StringHelper.cs) unsafe zero alloc string from [swifter](https://github.com/Dogwei/Swifter.Core)
+- [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) ZeroLog is a zero-allocation .NET logging library
 
 ## Utils
 #### C
@@ -1745,7 +1753,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://www.newlifex.com/
 - https://github.com/night-moon-studio/Leo A high-performance type dynamic operation library.
 - [Chinese](https://github.com/zmjack/Chinese) 中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。
-- https://github.com/benaadams/Ben.Demystifier High performance understanding for stack traces (Make error logs more productive) 
+- https://github.com/benaadams/Ben.Demystifier High performance understanding for stack traces (Make error logs more productive)
+- [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
 
 ## C
 - https://github.com/nothings/stb
@@ -1865,6 +1874,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/ReactUnity/core
 - https://github.com/chexiongsheng/XUUI
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
+- https://github.com/506638093/RichText 头顶血条
 #### Moba
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
 #### Skill
@@ -2036,6 +2046,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [skinned-mesh-combiner](https://assetstore.unity.com/packages/templates/systems/skinned-mesh-combiner-mt-135422)
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
+ - [fast-skinned-mesh-combiner](https://github.com/joshcamas/fast-skinned-mesh-combiner)
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
  - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
  - [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
