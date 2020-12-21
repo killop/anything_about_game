@@ -7,6 +7,7 @@ Table of Contents
     - [Js/Web](#jsweb)
     - [Java](#java)
     - [Go](#go)
+    - [Rust](#rust)
 - [Person/Social/Blogs](#personsocialblogs)
     - [Chinese](#chinese)
     - [English](#english)
@@ -68,11 +69,13 @@ Table of Contents
     - [C/C++](#cc)
     - [C](#c-1)
     - [Python](#python)
-    - [Rust](#rust)
+    - [Rust](#rust-1)
     - [Benchmark](#benchmark)
+    - [Article](#article-3)
 - [File Systems](#file-systems)
 - [Hash](#hash)
 - [Text Template](#text-template)
+- [Authorization](#authorization)
 - [NetWork](#network)
     - [Articles](#articles)
     - [C](#c-2)
@@ -108,11 +111,12 @@ Table of Contents
     - [GPU-Architecture](#gpu-architecture)
     - [Optimize](#optimize)
     - [Physically-Based-Render](#physically-based-render)
+- [Ray Tracing](#ray-tracing)
       - [NPR](#npr)
     - [SDF](#sdf)
     - [Occlusion Culling](#occlusion-culling)
     - [Unity-Shader](#unity-shader)
-      - [Article](#article-3)
+      - [Article](#article-4)
       - [ShaderVariant](#shadervariant)
       - [Shader-GUI](#shader-gui)
       - [SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue](#sortingorderorderinlayerztestzwriterenderqueue)
@@ -128,13 +132,13 @@ Table of Contents
       - [Fur](#fur)
       - [Holographic](#holographic)
     - [MatCaps](#matcaps)
-    - [Ray-Tracing](#ray-tracing)
+    - [Ray-Tracing](#ray-tracing-1)
     - [Color](#color)
     - [WebSite/Blog](#websiteblog)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
   - [FPS](#fps)
 - [Interview/DataStruct-Algorithms](#interviewdatastruct-algorithms)
-    - [Article](#article-4)
+    - [Article](#article-5)
 - [Operating-System](#operating-system)
     - [IO](#io)
 - [Bad World Filter](#bad-world-filter)
@@ -178,6 +182,9 @@ Table of Contents
     - [Timeline](#timeline)
     - [Util](#util)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
+    - [Drawing](#drawing)
+    - [SceneEditor](#sceneeditor)
+    - [Vertex Animation](#vertex-animation)
     - [Effect](#effect-1)
     - [Tween](#tween)
     - [Scriptable Object](#scriptable-object)
@@ -194,7 +201,7 @@ Table of Contents
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
       - [Textrue Compression](#textrue-compression)
-        - [Article](#article-5)
+        - [Article](#article-6)
     - [Message Bus](#message-bus)
     - [Time control](#time-control)
     - [Movement](#movement)
@@ -309,7 +316,8 @@ Table of Contents
 #### Go
 - https://github.com/polaris1119/golangweekly
 - https://github.com/unknwon/go-study-index
- 
+#### Rust
+- https://github.com/rust-lang/this-week-in-rust
 ## Person/Social/Blogs
 #### Chinese
 - [skywind](http://www.skywind.me/blog/)
@@ -366,6 +374,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [gametorrahod](https://gametorrahod.com/)
 - [martindevans](https://martindevans.me/)
 - [mellinoe](https://mellinoe.dev/)
 - [nfrechette](http://nfrechette.github.io)
@@ -408,7 +417,6 @@ Table of Contents
 - http://malcolm-mcneely.co.uk/blog/?p=214
 - http://aras-p.info/blog/2009/05/05/shaders-must-die/
 - http://blog.stevemcauley.com/
-- http://blog.selfshadow.com/
 - http://mikaelzackrisson.se/
 - http://www.alexandre-pestana.com/
 - http://blog.demofox.org/
@@ -841,6 +849,7 @@ Table of Contents
 - https://github.com/SnpM/LockstepFramework
 - https://github.com/proepkes/UnityLockstep
 - https://github.com/CraneInForest/LockStepSimpleFramework-Client
+- https://github.com/dudu502/LittleBee
 #### status-syn
 - https://github.com/zpl-c/librg
 
@@ -914,7 +923,8 @@ Table of Contents
 * Specs - Parallel entity component system written in Rust [[github](https://github.com/slide-rs/specs) ![slide-rs/specs](https://img.shields.io/github/stars/slide-rs/specs.svg?style=flat&label=Star&maxAge=86400)]
 #### Benchmark
 * [ecs_benchmark](https://github.com/abeimler/ecs_benchmark): EnTT vs. entityx vs. anax vs. Artemis-Cpp
-
+#### Article
+- [ecs-faq](https://github.com/SanderMertens/ecs-faq)
 ## File Systems
 - https://github.com/mattiasgustavsson/libs
 - https://icculus.org/physfs/
@@ -933,7 +943,8 @@ Table of Contents
 - [dotliquid](https://github.com/dotliquid/dotliquid) .NET Port of Tobias Lütke's Liquid template language. 
 - [fluid](https://github.com/sebastienros/fluid/) Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language. 
 - [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET 
-
+## Authorization
+- https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 ## NetWork
 #### Articles
 - [硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484005&idx=1&sn=cb07ee1c891a7bdd0af3859543190202&chksm=f98e46cfcef9cfd9feb8b9df043a249eb5f226a927fd6d4065e99e62a645a584005d9921541b&scene=126&sessionid=1587373655&key=c1e3f751e477aefb2785e5e67e936b31e51cd2b2080391621fbd3fc27b4764cf9b02e0c6c25104fa7e3c90b7719ebe683a4fb3bc0a8bb16625e5b8696c4bb2133088ceea58e071e4f06742b5d6cf8225&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AQXqc918kP9oyoqf8cruy24%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding ）
@@ -1141,6 +1152,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Gorgon](https://github.com/Tape-Worm/Gorgon)
 - [ezEngine](https://github.com/ezEngine/ezEngine) ezEngine is an open source C++ game engine in active development. It is currently mainly developed on Windows, and higher level functionality such as rendering and the tools are only available there, but the core libraries are also available for other platforms such as Mac and Linux.
 - [skylicht-engine](https://github.com/skylicht-lab/skylicht-engine) Skylicht Engine is C++ Game Engine based on Irrlicht 3D
+- [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
 ## 并发执行和多线程
 #### CPP
 *   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
@@ -1370,6 +1382,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/IndieVisualLab/UnityGraphicsProgramming
 - https://github.com/jslee02/awesome-graphics-libraries
 - https://github.com/FancyVin/fun-with-graphics
+- https://github.com/FaithZL/fun-with-graphics
 - https://www.ronja-tutorials.com/
 - https://github.com/lettier/3d-game-shaders-for-beginners
 - https://github.com/vo01github/ComputerGraphics
@@ -1437,7 +1450,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
 - [【基于物理渲染】业界主流GGX](https://zhuanlan.zhihu.com/p/32985996)
-
+## Ray Tracing
+- [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
 ##### NPR
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
@@ -1733,7 +1747,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
 ## Lua
 - http://cloudwu.github.io/lua53doc/manual.html
-
+- [Rxlua](https://github.com/bjornbytes/RxLua)
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
@@ -1778,8 +1792,10 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/iBicha/NativePluginBuilder
 - https://github.com/xiaoweiChen/Professional-CMake
 - https://www.bookstack.cn/books/CMake-Cookbook
+- https://github.com/SFUMECJF/cmake-examples-Chinese
 
 ## Embed-Script/VM/JIT
+- [CS2X](https://github.com/reignstudios/CS2X) Transpiles a C# subset to non .NET languages and runtimes. (Powered by Roslyn) 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) ts2lua
 - [titan](https://github.com/titan-lang/titan)
 - [tolua](https://github.com/topameng/tolua) The fastest unity lua binding solution 
@@ -1965,7 +1981,20 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
-
+  
+#### Drawing
+- [linefy](https://assetstore.unity.com/packages/tools/particles-effects/linefy-165393) unity-plugin
+- [fast-line-renderer](https://assetstore.unity.com/packages/tools/particles-effects/fast-line-renderer-for-unity-gpu-line-and-particle-system-54118)
+- [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167)
+- [aline](https://assetstore.unity.com/packages/tools/gui/aline-162772)
+#### SceneEditor
+- [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846)
+- [prefab-painter](https://assetstore.unity.com/packages/tools/painting/prefab-painter-2-61331)
+- [transform-tools](https://assetstore.unity.com/packages/tools/utilities/transform-tools-177218)
+- [grabbit-editor-physics-transforms](https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328)
+#### Vertex Animation
+- [vertex-animation-tools](https://assetstore.unity.com/packages/tools/animation/vertex-animation-tools-128190)
+- [vertexmotion](https://assetstore.unity.com/packages/tools/animation/vertexmotion-pro-25127)
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
 
