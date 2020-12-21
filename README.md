@@ -42,13 +42,12 @@ Table of Contents
 - [CG](#cg)
 - [Scene](#scene)
     - [Terrain](#terrain)
-    - [Procedural Scene Generation](#procedural-scene-generation)
+    - [Procedurally  Generation](#procedurally--generation)
     - [Tree/Vegetation/Grass](#treevegetationgrass)
     - [Road](#road)
     - [River](#river)
 - [Video-Tool/Editor](#video-tooleditor)
 - [Music-Tool/Editor](#music-tooleditor)
-- [Procedurally Generate](#procedurally-generate)
 - [3D Rendering Software/Plugin](#3d-rendering-softwareplugin)
 - [3D-File-Format](#3d-file-format)
 - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
@@ -713,10 +712,16 @@ Table of Contents
 - [World Streamer](https://assetstore.unity.com/packages/tools/terrain/world-streamer-2-176482) UnityPlugin
 - [Voxeland](https://assetstore.unity.com/packages/tools/terrain/voxeland-9180) UnityPlugin
 - [terrain-grid-system](https://assetstore.unity.com/packages/tools/terrain/terrain-grid-system-47215)UnityPlugin
-#### Procedural Scene Generation
+#### Procedurally  Generation
+- [real-ivy-2-procedural-ivy-generator](https://assetstore.unity.com/packages/tools/modeling/real-ivy-2-procedural-ivy-generator-181402) unity-plugin
+- [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
+- [unity-procedural-tree](https://github.com/mattatz/unity-procedural-tree)
+- [unity-procedural-flower](https://github.com/mattatz/unity-procedural-flower)
 - [citygen3d](https://assetstore.unity.com/packages/tools/terrain/citygen3d-162468) UnityPlugin
 - [Arcgis](https://developers.arcgis.com/unity-sdk/reference/release-notes/) UnityPlugin
 - [OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
+- [SPORE-Creature-Creator](https://github.com/daniellochner/SPORE-Creature-Creator) Procedurally generate creatures in Unity - inspired by the incredible game, Spore!
+- [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) blender plugin proceDurally spaceShip
 #### Tree/Vegetation/Grass
 - [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
@@ -740,10 +745,7 @@ Table of Contents
 - https://www.guitar-pro.com/en/index.php 
 - https://sonicscores.com/
 
-## Procedurally Generate 
-- [SPORE-Creature-Creator](https://github.com/daniellochner/SPORE-Creature-Creator) Procedurally generate creatures in Unity - inspired by the incredible game, Spore!
-- [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
-- [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) blender plugin proceDurally spaceShip
+
 ## 3D Rendering Software/Plugin
 - [keyshot](https://www.keyshot.com/)
  
