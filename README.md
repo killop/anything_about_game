@@ -1585,7 +1585,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/daseyb/pathgraph
 
 #### Color
-- [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhih  u.com/p/23905865)
+- [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhihu.com/p/23905865)
 - [Photoshop blending modes in glsl ](https://github.com/jamieowen/glsl-blend)
 - [色彩空间基础](https://zhuanlan.zhihu.com/p/24214731)
 - [漫谈HDR和色彩管理](https://zhuanlan.zhihu.com/p/129095380)
