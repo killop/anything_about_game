@@ -178,6 +178,7 @@ Table of Contents
     - [Climb System](#climb-system)
     - [AI](#ai)
     - [UGUI](#ugui)
+    - [2D](#2d)
     - [Timeline](#timeline)
     - [Util](#util)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
@@ -370,6 +371,7 @@ Table of Contents
 - [Ulysses](http://117.51.146.36/)
 - [lt-tree](http://www.lt-tree.com/)
 - [Yimi的小天地](https://yimicgh.top/)
+- [manistein](https://manistein.github.io/blog/)
 - https://halfrost.com
  
 #### English
@@ -394,6 +396,7 @@ Table of Contents
 - [aras-p.info](http://aras-p.info/blog/) working at Unity Technologies on Unity.
 - [sandervanrossen](http://sandervanrossen.blogspot.com/) working at Unity Technologies on Unity.
 - [timjones](http://timjones.io/) working at Unity Technologies on Unity.
+- [mfatihmar]( https://mfatihmar.com/)  working at Unity Technologies on Unity.
 - [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
 - [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
 - https://simonschreibt.de/
@@ -407,6 +410,16 @@ Table of Contents
 - [prideout](https://prideout.net/blog/)
 - [filmicworlds](http://filmicworlds.com/)
 - [thetenthplanet](http://www.thetenthplanet.de/)
+- https://cmwdexint.com
+- http://www.andremcgrail.com/
+- https://artomatix.com/
+- https://www.mybdesign.com/
+- http://jonathanchambers.blogspot.com/
+- https://www.briangershon.com/
+- https://blog.aaronsee.media/
+- https://programing-fun.blogspot.com/
+- http://jonathanchambers.blogspot.com/
+- https://mynameismjp.wordpress.com 
 - https://www.jordanstevenstechart.com/
 - http://www.iryoku.com/
 - http://kode80.com/blog/
@@ -503,6 +516,7 @@ Table of Contents
 - https://technik90.blogspot.com/
 - http://www.yosoygames.com.ar/wp/category/graphics/
 - [0fps](https://0fps.net/)
+- [ashoulson](http://ashoulson.com/)
 - [interplayoflight](https://interplayoflight.wordpress.com/)
 - https://viclw17.github.io/
 - https://shihchinw.github.io/
@@ -934,6 +948,8 @@ Table of Contents
 - https://github.com/xoofx/zio vfs
 - https://github.com/psmacchia/NDepend.Path path helper
 - https://github.com/JosefPihrt/Orang file opreation
+- https://github.com/System-IO-Abstractions/System.IO.Abstractions
+- https://github.com/Singulink/Singulink.IO.FileSystem 
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 
 ## Hash
@@ -1018,6 +1034,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [FastTunnel](https://github.com/SpringHgui/FastTunnel.SuiDao) 二次开发的内网穿透服务
 * [BeetleX](https://github.com/IKende/BeetleX) high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution 
 * [BedrockFramework](https://github.com/davidfowl/BedrockFramework) High performance, low level networking APIs for building custom servers and clients. 
+* [RailgunNet](https://github.com/ashoulson/RailgunNet) A Client/Server Network State-Synchronization Layer for Games 
 #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -1966,6 +1983,11 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
+#### 2D
+- [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
+- [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
+- [pidi-2d-reflections-2-standard-edition](https://assetstore.unity.com/packages/tools/particles-effects/pidi-2d-reflections-2-standard-edition-148499)
+- [character-creator-2d](https://assetstore.unity.com/packages/2d/characters/character-creator-2d-111398)
 #### Timeline
 - https://github.com/pofulu/TimelineTool
 #### Util
@@ -1990,10 +2012,11 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167)
 - [aline](https://assetstore.unity.com/packages/tools/gui/aline-162772)
 #### SceneEditor
-- [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846)
-- [prefab-painter](https://assetstore.unity.com/packages/tools/painting/prefab-painter-2-61331)
-- [transform-tools](https://assetstore.unity.com/packages/tools/utilities/transform-tools-177218)
-- [grabbit-editor-physics-transforms](https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328)
+- [PrefabPainter](https://github.com/Roland09/PrefabPainter) github
+- [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
+- [prefab-painter](https://assetstore.unity.com/packages/tools/painting/prefab-painter-2-61331) unity-plugin
+- [transform-tools](https://assetstore.unity.com/packages/tools/utilities/transform-tools-177218) unity-plugin
+- [grabbit-editor-physics-transforms](https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328) unity-plugin
 #### Vertex Animation
 - [vertex-animation-tools](https://assetstore.unity.com/packages/tools/animation/vertex-animation-tools-128190)
 - [vertexmotion](https://assetstore.unity.com/packages/tools/animation/vertexmotion-pro-25127)
