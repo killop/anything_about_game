@@ -1,9 +1,11 @@
 
 Table of Contents
 - [Awesome-Game](#awesome-game)
-    - [Graphics](#graphics)
 - [Awesome-General](#awesome-general)
 - [News](#news)
+    - [Graphics](#graphics)
+    - [Digest](#digest)
+    - [Common](#common)
     - [Js/Web](#jsweb)
     - [Java](#java)
     - [Go](#go)
@@ -95,7 +97,7 @@ Table of Contents
 - [Softbodie](#softbodie)
 - [Vehicle](#vehicle)
 - [Game-BenchMark/Metric/Tool](#game-benchmarkmetrictool)
-    - [Common](#common)
+    - [Common](#common-1)
     - [GPU](#gpu)
 - [ComputerGraphics && Shading](#computergraphics--shading)
     - [Graphics-Library](#graphics-library)
@@ -104,6 +106,7 @@ Table of Contents
     - [Collection](#collection-2)
     - [Shading-Language](#shading-language)
     - [Course/Article](#coursearticle)
+    - [B站优秀博主](#b站优秀博主)
     - [OpenGL](#opengl)
     - [Tool](#tool)
     - [PlayGround](#playground)
@@ -267,9 +270,7 @@ Table of Contents
 - [awesome-wgpu](https://github.com/rofrol/awesome-wgpu) : A curated list of wgpu code and resources.
 - [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
 - [data-oriented-design](https://github.com/dbartolini/data-oriented-design) : A curated list of data oriented design resources.
-#### Graphics
-- [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
- 
+
 ## Awesome-General
 - http://nav.web-hub.cn/ 
 - https://libs.garden/
@@ -290,6 +291,15 @@ Table of Contents
 - https://github.com/terkelg/awesome-creative-coding 
 - https://github.com/33nano/awesome-Gentools
 ## News
+#### Graphics
+- [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
+- [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
+- [TA周刊](https://halisavakis.com/) 
+- [Arm](https://developer.arm.com/solutions/graphics-and-gaming)
+#### Digest
+- [80.lv](https://80.lv/articles/digest) 
+- [game-dev-digest](https://gamedevdigest.com/digests.html)
+#### Common
 - https://www.libhunt.com/
 - https://news.ycombinator.com/news hacker news
 - https://lobste.rs/ lobste
@@ -300,7 +310,6 @@ Table of Contents
 - https://geeker-read.com/#/latest
 - https://coolshell.cn/
 - https://insights.thoughtworks.cn/
-
 #### Js/Web
 - https://www.webaudioweekly.com/
 - https://github.com/dt-fe/weekly 
@@ -375,6 +384,13 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [granskog](http://granskog.xyz/) TA
+- [roystan](https://roystan.net/) TA
+- [darioseyb](https://darioseyb.com/post/unity-importer/) TA
+- [roar11](http://roar11.com/blog/) TA
+- [yiningkarlli](https://www.yiningkarlli.com/projects/takuarender.html) TA
+- [cyanilux](https://www.cyanilux.com/) TA
+- [ciechanow](https://ciechanow.ski/) TA
 - [gametorrahod](https://gametorrahod.com/)
 - [martindevans](https://martindevans.me/)
 - [mellinoe](https://mellinoe.dev/)
@@ -413,7 +429,6 @@ Table of Contents
 - https://cmwdexint.com
 - http://www.andremcgrail.com/
 - https://artomatix.com/
-- https://www.mybdesign.com/
 - http://jonathanchambers.blogspot.com/
 - https://www.briangershon.com/
 - https://blog.aaronsee.media/
@@ -422,7 +437,7 @@ Table of Contents
 - https://mynameismjp.wordpress.com 
 - https://www.jordanstevenstechart.com/
 - http://www.iryoku.com/
-- http://kode80.com/blog/
+- [kode80](http://kode80.com/blog/) TA
 - http://www.iquilezles.org/
 - http://www.edxgraphics.com/
 - https://casual-effects.com/#blog
@@ -463,6 +478,7 @@ Table of Contents
 - https://simonstechblog.blogspot.com/
 - [colinbarrebrisebois](https://colinbarrebrisebois.com/)
 - [martinsh](http://devlog-martinsh.blogspot.com/)
+- [interplayoflight](https://interplayoflight.wordpress.com/)
 - https://bartwronski.com/
 - https://knarkowicz.wordpress.com/
 - https://mynameismjp.wordpress.com/
@@ -510,14 +526,14 @@ Table of Contents
 - http://trevorius.com/scrapbook/
 - https://marc-b-reynolds.github.io/
 - http://www.gijskaerts.com/wordpress/
-- https://anteru.net/
+- [anteru](https://anteru.net/)
 - http://pharr.org/matt/blog/
 - https://schuttejoe.github.io/post/
 - https://technik90.blogspot.com/
 - http://www.yosoygames.com.ar/wp/category/graphics/
 - [0fps](https://0fps.net/)
 - [ashoulson](http://ashoulson.com/)
-- [interplayoflight](https://interplayoflight.wordpress.com/)
+
 - https://viclw17.github.io/
 - https://shihchinw.github.io/
 - https://www.sebastiansylvan.com/
@@ -526,7 +542,6 @@ Table of Contents
 - https://www.breakin.se/learn/index.html
 - https://kosmokleaner.wordpress.com/
 - http://the-witness.net/news/
-- http://jpgrenier.org/
 - [wunkolo](https://wunkolo.github.io/) c++ game 
 - [blackmatov](https://blackmatov.github.io/) unity c#
 - [joshpeterson](https://joshpeterson.github.io/) stuff of unity
@@ -536,10 +551,25 @@ Table of Contents
 - Ragnorium [Twitter](https://twitter.com/Ragnorium) 3d gameArt 
 - Ruben_Fro [Twitter](https://twitter.com/Ruben_Fro) 3d gameArt 
 - zeltergame [zeltergame](https://twitter.com/zeltergame) 3d gameArt
-
-
-
- 
+- [Scott Hanselman's Blog](https://www.hanselman.com/blog) c#
+- [alvinashcraft](https://www.alvinashcraft.com) c#
+- [ardalis](https://ardalis.com/blog) c#
+- [troyhunt](https://www.troyhunt.com/) c#
+- [timheuer](https://timheuer.com/blog) c#
+- [thedatafarm](https://thedatafarm.com/blog/) c#
+- [haacked](https://haacked.com/) c#
+- [ploeh](https://blog.ploeh.dk/) c#
+- [cazzulino](https://www.cazzulino.com/) c#
+- [visualstudio](https://devblogs.microsoft.com/visualstudio/) c#
+- [maartenballiauw](https://blog.maartenballiauw.be/) c#
+- [jonskeet](https://codeblog.jonskeet.uk) c#
+- [jimmybogard](https://jimmybogard.com) c#
+- [west-wind](https://weblog.west-wind.com/) c#
+- [jetbrains](https://blog.jetbrains.com/dotnet/) c#
+- [Shawn Wildermuth](http://wildermuth.com/) c#
+- [Fabulous adventures in coding](https://ericlippert.com) c#
+- [strathweb](https://www.strathweb.com/) c#
+- [dontcodetired](http://dontcodetired.com/blog) c#
 ## Game-Company
 - www.ryzom.com
 
@@ -628,6 +658,7 @@ Table of Contents
 - [dilay](https://abau.org/dilay/)  A 3D sculpting application that provides an intuitive workflow using a number of powerful modelling tools.
 
 ##### Hair
+- https://zhuanlan.zhihu.com/p/330259306 头发渲染
 - [hairstudio](https://assetstore.unity.com/packages/tools/modeling/hairstudio-early-access-164661) 
 - [ephere](https://ephere.com/)
 ##### Human
@@ -1287,6 +1318,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.sofa-framework.org/
 - https://github.com/jeffvella/UnityNativeCollision
 - https://www.bepuentertainment.com/
+- https://samuelpmish.github.io/notes/RocketLeague/#_navigation
 
 ## Fluid
 - [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
@@ -1340,6 +1372,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [ShaderDebugger](https://github.com/arigo/ShaderDebugger) unity-shader-debugger
 - [UnityShaderDebug](https://github.com/yujen/UnityShaderDebug) This material can print shader value. 
 - [ShaderDebug](https://github.com/zouchunyi/ShaderDebug) 详细文档参见知乎： https://zhuanlan.zhihu.com/p/104643601
+- [pix]( https://devblogs.microsoft.com/pix/documentation/)
 ## ComputerGraphics && Shading
 
 #### Graphics-Library
@@ -1424,8 +1457,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [ShaderLab 开发实战- 沈军](https://shenjun4shader.github.io/shaderhtml/)
 - [The Book of Shaders](https://thebookofshaders.com/?lan=ch)
 - [总结一些TA（技术美术）学习的网站](https://zhuanlan.zhihu.com/p/84550677) 
- 
-  
+- [全局光照:光线追踪、路径追踪与GI技术进化编年史](https://www.cnblogs.com/machong8183/p/7543724.html)
+#### B站优秀博主
+- [卡姐](https://www.bilibili.com/video/av14910105/)  
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -1710,6 +1744,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://surparallel.org unity 多线程优化工具
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
+- https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
 - https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
@@ -1999,12 +2034,14 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/IainS1986/UnityCoverFlow
 - https://github.com/blueberryzzz/UIAndShader
 - https://github.com/rfadeev/pump-editor
+- https://github.com/bradsc0tt/Unity-Extended-Transform-Editor
 - [PlayHooky](https://github.com/wledfor2/PlayHooky) PlayHooky is a simple C# Class that can be used to hook C# Methods at runtime.
 #### Unity 特色工程（精粹）
 
 -  https://github.com/Caeden117/ChroMapper -- 地图编辑器
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
+-  [介绍几个日本开源动画项目](https://connect.unity.com/p/jie-shao-ji-ge-ri-ben-kai-yuan-dong-hua-xiang-mu)
   
 #### Drawing
 - [linefy](https://assetstore.unity.com/packages/tools/particles-effects/linefy-165393) unity-plugin
@@ -2102,6 +2139,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [fast-skinned-mesh-combiner](https://github.com/joshcamas/fast-skinned-mesh-combiner)
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
+ - [BakerBoy](https://github.com/Fewes/BakerBoy) A tiny GPU-based ambient occlusion and bent normal baker for Unity
  - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
  - [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
  - [libigl](https://libigl.github.io/) libigl - A simple C++ geometry processing library
@@ -2269,6 +2307,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [北京买房](https://github.com/facert/beijing_house_knowledge#%E5%A4%96%E5%9C%B0%E4%BA%BA%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0%E6%88%BF%E6%9D%A1%E4%BB%B6%E5%8F%8A%E8%B5%84%E6%A0%BC)
 - https://wallroom.io 壁纸网站
 - https://wallhaven.cc/ 壁纸网站
+- https://github.com/Odaimoko/ACE-CPT-Notes 程序员如何健身
+- https://zhuanlan.zhihu.com/p/130216185 电子书下载
 ## 友情链接 
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
