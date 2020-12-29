@@ -399,6 +399,7 @@ Table of Contents
 - [gabormakesgames](https://gabormakesgames.com/) game math
 - [goatstream](https://www.goatstream.com) animation
 - [xoofx](https://xoofx.com/blog/) c# 
+- [realtimecollisiondetection](https://realtimecollisiondetection.net/blog/)
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
 - https://blog.selfshadow.com/
@@ -426,6 +427,7 @@ Table of Contents
 - [prideout](https://prideout.net/blog/)
 - [filmicworlds](http://filmicworlds.com/)
 - [thetenthplanet](http://www.thetenthplanet.de/)
+- [gamedevbill](https://gamedevbill.com//)
 - https://cmwdexint.com
 - http://www.andremcgrail.com/
 - https://artomatix.com/
@@ -479,7 +481,7 @@ Table of Contents
 - [colinbarrebrisebois](https://colinbarrebrisebois.com/)
 - [martinsh](http://devlog-martinsh.blogspot.com/)
 - [interplayoflight](https://interplayoflight.wordpress.com/)
-- https://bartwronski.com/
+- [bartwronski](https://bartwronski.com/)
 - https://knarkowicz.wordpress.com/
 - https://mynameismjp.wordpress.com/
 - https://ndotl.wordpress.com/
@@ -512,7 +514,7 @@ Table of Contents
 - https://lxjk.github.io/
 - http://trevorius.com/scrapbook/blog/
 - http://reedbeta.com/all/
-- https://seblagarde.wordpress.com/
+- [seblagarde](https://seblagarde.wordpress.com/)
 - https://ivokabel.github.io/
 - https://www.geeks3d.com/hacklab/
 - https://bitshifter.github.io/
@@ -609,6 +611,7 @@ Table of Contents
 - [creature](http://creature.kestrelmoon.com/index.html)
 - [spritestudio](http://www.webtech.co.jp/spritestudio/)
 - [mixamo](https://www.mixamo.com/#/)
+- https://www.creativebloq.com/advice/understand-the-12-principles-of-animation
 
 ##### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
@@ -931,6 +934,7 @@ Table of Contents
 - [RepoDB](https://github.com/mikependon/RepoDB) RepoDB is an open-source .NET ORM library that bridges the gaps of micro-ORMs and full-ORMs. It helps you simplify the switch-over of when to use the BASIC and ADVANCE operations during the development.
 - [FASTER](https://github.com/microsoft/FASTER) Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
 - [UltraLiteDB](https://github.com/rejemy/UltraLiteDB) Unity LiteDB
+- [DBreeze](https://github.com/hhblaze/DBreeze/)  LiteDB - A .NET NoSQL Document Store
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
@@ -1458,6 +1462,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [The Book of Shaders](https://thebookofshaders.com/?lan=ch)
 - [总结一些TA（技术美术）学习的网站](https://zhuanlan.zhihu.com/p/84550677) 
 - [全局光照:光线追踪、路径追踪与GI技术进化编年史](https://www.cnblogs.com/machong8183/p/7543724.html)
+- https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html
+- https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/
 #### B站优秀博主
 - [卡姐](https://www.bilibili.com/video/av14910105/)  
 #### OpenGL
@@ -1810,6 +1816,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/libgit2/libgit2sharp -git的c#实现
 - https://github.com/NetchX/Netch -nat打洞
 - https://github.com/natemcmaster/CommandLineUtils 命令行
+- https://github.com/Tyrrrz/CliFx 命令行
 - https://referencesource.microsoft.com/ C#源码
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://getakka.net/ - Akka.Net
@@ -2270,6 +2277,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - http://www.qijishow.com/down/navigation.html
 - https://www.iamxk.com/navigation
 - https://xclient.info/s/
+- https://github.com/mob-sakai/unity-activate
 
  
 
