@@ -1,3 +1,9 @@
+## Collection
+- http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/
+## 荒野大嫖客 2
+https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/
+## 赛博朋克2077
+http://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html
 ## LOL windows
 - [LOL渲染技巧](https://technology.riotgames.com/tags/performance)
 ## LOL mobile

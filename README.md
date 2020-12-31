@@ -385,6 +385,14 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [astralcode](https://astralcode.blogspot.com/) TA
+- [elopezr](http://www.elopezr.com/) TA
+- [kosmonautblog](https://kosmonautblog.wordpress.com/) TA
+- [thomaspoulet](https://blog.thomaspoulet.fr/) TA
+- [aschrein](https://aschrein.github.io/) TA
+- [morad](http://morad.in/) TA
+- [simoncoenen](https://simoncoenen.com/blog.html) TA
+- [alain](https://alain.xyz/blog) TA
 - [granskog](http://granskog.xyz/) TA
 - [roystan](https://roystan.net/) TA
 - [darioseyb](https://darioseyb.com/post/unity-importer/) TA
@@ -401,6 +409,8 @@ Table of Contents
 - [goatstream](https://www.goatstream.com) animation
 - [xoofx](https://xoofx.com/blog/) c# 
 - [realtimecollisiondetection](https://realtimecollisiondetection.net/blog/)
+- [imgeself](https://imgeself.github.io/posts/) TA
+- [Hallucinations ](http://c0de517e.blogspot.com/)
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
 - https://blog.selfshadow.com/
@@ -536,7 +546,6 @@ Table of Contents
 - http://www.yosoygames.com.ar/wp/category/graphics/
 - [0fps](https://0fps.net/)
 - [ashoulson](http://ashoulson.com/)
-
 - https://viclw17.github.io/
 - https://shihchinw.github.io/
 - https://www.sebastiansylvan.com/
@@ -996,7 +1005,8 @@ Table of Contents
 - [scriban](https://github.com/lunet-io/scriban) A fast, powerful, safe and lightweight text templating language and engine for .NET 
 - [dotliquid](https://github.com/dotliquid/dotliquid) .NET Port of Tobias Lütke's Liquid template language. 
 - [fluid](https://github.com/sebastienros/fluid/) Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language. 
-- [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET 
+- [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET
+- [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 ## NetWork
@@ -2012,6 +2022,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
 - [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
 - [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
+- [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
 #### Physics Based Animation
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
 - [goatstream](https://www.goatstream.com/research/)
