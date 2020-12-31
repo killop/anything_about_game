@@ -4,6 +4,7 @@
 https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/
 ## 赛博朋克2077
 http://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html
+https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 ## LOL windows
 - [LOL渲染技巧](https://technology.riotgames.com/tags/performance)
 ## LOL mobile
