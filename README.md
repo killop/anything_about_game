@@ -24,6 +24,8 @@ Table of Contents
       - [BitMap](#bitmap)
         - [Free-Font](#free-font)
     - [Audio](#audio)
+    - [Music-Tool/Editor](#music-tooleditor)
+    - [Video-Tool/Editor](#video-tooleditor)
     - [Modeling](#modeling)
       - [Sculpture](#sculpture)
       - [Hair](#hair)
@@ -32,6 +34,7 @@ Table of Contents
     - [Material](#material)
     - [Remesh](#remesh)
     - [List-of-game-middleware](#list-of-game-middleware)
+    - [CG Software API](#cg-software-api)
     - [Texture](#texture)
         - [PIX-Texture](#pix-texture)
     - [GPU-Texture](#gpu-texture)
@@ -44,12 +47,10 @@ Table of Contents
 - [CG](#cg)
 - [Scene](#scene)
     - [Terrain](#terrain)
-    - [Procedurally  Generation](#procedurally--generation)
+    - [Procedurally-Generation](#procedurally-generation)
     - [Tree/Vegetation/Grass](#treevegetationgrass)
     - [Road](#road)
     - [River](#river)
-- [Video-Tool/Editor](#video-tooleditor)
-- [Music-Tool/Editor](#music-tooleditor)
 - [3D Rendering Software/Plugin](#3d-rendering-softwareplugin)
 - [3D-File-Format](#3d-file-format)
 - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
@@ -133,6 +134,7 @@ Table of Contents
       - [Post-Process](#post-process)
       - [Fur](#fur)
       - [Holographic](#holographic)
+      - [Matrix](#matrix)
     - [MatCaps](#matcaps)
     - [Ray-Tracing](#ray-tracing-1)
     - [Color](#color)
@@ -147,6 +149,7 @@ Table of Contents
 - [高性能数据结构和算法](#高性能数据结构和算法)
     - [MMO](#mmo)
     - [String](#string)
+    - [Thread/Task](#threadtask)
 - [Utils](#utils)
     - [C](#c-4)
     - [C++](#c-5)
@@ -385,6 +388,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [maxkruf](https://maxkruf.com/) TA
 - [astralcode](https://astralcode.blogspot.com/) TA
 - [elopezr](http://www.elopezr.com/) TA
 - [kosmonautblog](https://kosmonautblog.wordpress.com/) TA
@@ -653,6 +657,28 @@ Table of Contents
 - [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) microsoft Audio-Manager-for-Unity
 - [vivaldi-audio-engine](https://assetstore.unity.com/packages/tools/audio/vivaldi-audio-engine-pro-64029) unity-plugin
 - [usfxr](https://github.com/grapefrukt/usfxr)
+#### Music-Tool/Editor
+- https://www.image-line.com/
+- https://www.goldwave.com
+- https://www.guitar-pro.com/en/index.php 
+- https://sonicscores.com/
+   
+#### Video-Tool/Editor
+* [CasparCG](https://github.com/CasparCG) - A Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor
+* [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
+* [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
+* [qctools](http://bavc.github.io/qctools/) - A free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering
+* [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
+* [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt
+* [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
+* [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media
+* [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics
+* [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
+- https://www.vegaschina.cn
+- https://www.edius.net/
+- [Davinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound
+  
+
 #### Modeling
 - https://www.substance3d.com/ sb
 - https://www.sidefx.com/ houdini 
@@ -662,6 +688,23 @@ Table of Contents
 - https://www.autodesk.com/products/maya/overview maya
 - https://www.foundry.com/products/modo modo
 - https://www.cheetah3d.com/ cheetah3d
+* [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
+* [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting
+* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
+* [Blender](https://blender.org) - Modeling and animation
+* [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
+ seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d).
+* [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes
+* [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - RealTime 3D Strange Attractors scout on GPU
+* [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) - Mandelbulber creatively generates three-dimensional fractals
+* [Mandelbulb3D](https://github.com/thargor6/mb3d) - A program designed for the Windows platform, for generating 3D views of different fractals
+* [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
+* [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks
+* [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface
+* [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers
+* [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design
+* [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art
+* [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use 
  
 ##### Sculpture
 - [sculptris](http://pixologic.com/sculptris/) 
@@ -693,8 +736,32 @@ Table of Contents
 
 #### List-of-game-middleware
 - https://en.wikipedia.org/wiki/List_of_game_middleware
+#### CG Software API
 
+* [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
+* [Cortex](https://github.com/ImageEngine/cortex) - Libraries for VFX software development
+* [Cross3D](https://github.com/blurstudio/cross3d) - Scene and node management abstraction
+* [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018
+* [mGui](https://github.com/theodox/mGui) - Portable pure-python GUI library for Maya
+* [minq](https://github.com/theodox/minq) - Maya query language for speeding up common scene operations
+* [NXT](https://nxt-dev.github.io/) - A layered code compositing application
+* [OpenWalter](https://github.com/rodeofx/OpenWalter) - USD Plugins Arnold, Houdini, Katana, Maya and USD
+* [Photoshop Python API](https://github.com/loonghao/photoshop-python-api) - Python API for Photoshop.
+* [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
+* [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
+* [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
 #### Texture
+* [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration
+* [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
+* [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
+* [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
+* [Krita](https://krita.org) - A professional painting program
+* [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
+* [Opentoonz](https://opentoonz.github.io/) - Animation production software
+* [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
+* [Synfig](https://www.synfig.org/) - 2D animation software
+* [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
+* [The Gimp](https://www.gimp.org) - A cross-platform image editor
 - https://github.com/kmkolasinski/AwesomeBump
 - http://www.crazybump.com/
 - http://renderhjs.net/shoebox/
@@ -770,7 +837,7 @@ Table of Contents
 - [World Streamer](https://assetstore.unity.com/packages/tools/terrain/world-streamer-2-176482) UnityPlugin
 - [Voxeland](https://assetstore.unity.com/packages/tools/terrain/voxeland-9180) UnityPlugin
 - [terrain-grid-system](https://assetstore.unity.com/packages/tools/terrain/terrain-grid-system-47215)UnityPlugin
-#### Procedurally  Generation
+#### Procedurally-Generation
 - [real-ivy-2-procedural-ivy-generator](https://assetstore.unity.com/packages/tools/modeling/real-ivy-2-procedural-ivy-generator-181402) unity-plugin
 - [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
 - [unity-procedural-tree](https://github.com/mattatz/unity-procedural-tree)
@@ -780,6 +847,8 @@ Table of Contents
 - [OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
 - [SPORE-Creature-Creator](https://github.com/daniellochner/SPORE-Creature-Creator) Procedurally generate creatures in Unity - inspired by the incredible game, Spore!
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) blender plugin proceDurally spaceShip
+- [3DWorld](https://github.com/fegennari/3DWorld)
+- [Edgar-Unity](https://github.com/OndrejNepozitek/Edgar-Unity)
 #### Tree/Vegetation/Grass
 - [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
@@ -792,16 +861,7 @@ Table of Contents
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
 #### River
 - [R.A.M 2019 - River Auto Material 2019](https://assetstore.unity.com/packages/tools/terrain/r-a-m-2019-river-auto-material-2019-145937) UnityPlugin
-## Video-Tool/Editor
-- https://www.vegaschina.cn
-- https://www.edius.net/
-- [Davinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound
-  
-## Music-Tool/Editor
-- https://www.image-line.com/
-- https://www.goldwave.com
-- https://www.guitar-pro.com/en/index.php 
-- https://sonicscores.com/
+
 
 
 ## 3D Rendering Software/Plugin
@@ -818,7 +878,27 @@ Table of Contents
 - [PLY](https://zh.wikipedia.org/wiki/PLY)
 - [USD](https://graphics.pixar.com/usd/docs/index.html)
 - [Niftools](https://github.com/niftools/niflib)
-
+* [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data
+* [luma_usd](https://github.com/LumaPictures/luma_usd) -  Plugins for USD
+* [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
+* [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come)
+* [OpenCV](https://opencv.org/) - An open source computer vision and machine learning software library
+* [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format
+* [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/AcademySoftwareFoundation/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM
+* [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
+* [OpenImageIO](https://github.com/OpenImageIO/oiio) - A library for reading and writing images in many common and VFX related formats
+* [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline
+* [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb)) - Volumetric data
+* [OpenVDB AX](https://github.com/dneg/openvdb_ax) - Fast expression language for manipulating OpenVDB files
+* [ImageMagick](https://imagemagick.org/index.php) - Use ImageMagick to create, edit, compose, or convert bitmap images
+* [pfstools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating high-dynamic range (HDR) images and video frames
+* [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - Example-based texture synthesis written in Rust
+* [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
+* [usd-arnold](https://github.com/LumaPictures/usd-arnold) - USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages
+* [USD Manager](http://www.usdmanager.org/) - Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files
+* [usd-noodle](https://github.com/chris-gardner/usd-noodle) - Pretty node graph showing dependencies of a USD file
+* [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
+* [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
 ## Metadata/Excel/Schema/Proto
 - https://github.com/NtreevSoft/Crema
 - https://github.com/vriad/zod
@@ -1009,6 +1089,7 @@ Table of Contents
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
+- https://github.com/casbin/Casbin.NET
 ## NetWork
 #### Articles
 - [硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484005&idx=1&sn=cb07ee1c891a7bdd0af3859543190202&chksm=f98e46cfcef9cfd9feb8b9df043a249eb5f226a927fd6d4065e99e62a645a584005d9921541b&scene=126&sessionid=1587373655&key=c1e3f751e477aefb2785e5e67e936b31e51cd2b2080391621fbd3fc27b4764cf9b02e0c6c25104fa7e3c90b7719ebe683a4fb3bc0a8bb16625e5b8696c4bb2133088ceea58e071e4f06742b5d6cf8225&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AQXqc918kP9oyoqf8cruy24%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding ）
@@ -1492,6 +1573,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [shaderfrog](https://shaderfrog.com/app/editor)
 - [glslEditor](https://github.com/patriciogonzalezvivo/glslEditor)
 - [glslb](http://glslb.in/)
+- [shader-playground](https://github.com/tgjones/shader-playground)
+- [UnityShaderViewer](https://github.com/Xibanya/UnityShaderViewer)
 #### GPU-Architecture
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
@@ -1645,7 +1728,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [XFur Studio 2 unity-plugin](https://assetstore.unity.com/packages/tools/particles-effects/pidi-xfur-studio-2-ultimate-edition-145885)
 #####  Holographic
 - [Unity切片类全息效果](https://mp.weixin.qq.com/s/vUmuq3Tek4vypJiy7da4Sw)
-
+##### Matrix
+- https://github.com/IRCSS/MatrixVFX
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps
 
@@ -1785,7 +1869,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/MikePopoloski/StringFormatter Zero-allocation string formatting for .NET. 
 - [stringHelper](https://github.com/Dogwei/Swifter.Json/blob/db6c0be4fa2bfac5583d5bce7b475a2d618e7d74/Swifter.Core/Tools/String/StringHelper.cs) unsafe zero alloc string from [swifter](https://github.com/Dogwei/Swifter.Core)
 - [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) ZeroLog is a zero-allocation .NET logging library
-
+#### Thread/Task
+- https://github.com/RichieSams/FiberTaskingLib
+- https://github.com/taskflow/taskflow
 ## Utils
 #### C
 *   APR：Apache Portable Runtime；另一个跨平台的实用函数库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](http://apr.apache.org/)
@@ -1828,6 +1914,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/NetchX/Netch -nat打洞
 - https://github.com/natemcmaster/CommandLineUtils 命令行
 - https://github.com/Tyrrrz/CliFx 命令行
+- https://github.com/Tyrrrz/CliWrap 命令行
 - https://referencesource.microsoft.com/ C#源码
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://getakka.net/ - Akka.Net
@@ -1839,7 +1926,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://www.newlifex.com/
 - https://github.com/night-moon-studio/Leo A high-performance type dynamic operation library.
 - [Chinese](https://github.com/zmjack/Chinese) 中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。
-- https://github.com/benaadams/Ben.Demystifier High performance understanding for stack traces (Make error logs more productive)
+- [Demystifier](https://github.com/benaadams/Ben.Demystifier) High performance understanding for stack traces (Make error logs more productive)
+- [ProductionStackTrace](https://github.com/gimelfarb/ProductionStackTrace) Without deploying PDBs, generate a .NET exception stack trace that can be processed to retrieve source file and line number info 
 - [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
 
 ## C
@@ -2161,6 +2249,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
  - [BakerBoy](https://github.com/Fewes/BakerBoy) A tiny GPU-based ambient occlusion and bent normal baker for Unity
  - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
+ - [UVPreview](https://github.com/AsehesL/UVPreview)
  - [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
  - [libigl](https://libigl.github.io/) libigl - A simple C++ geometry processing library
  - [Open3D](https://github.com/intel-isl/Open3D) Open3D: A Modern Library for 3D Data Processing 
@@ -2170,7 +2259,11 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Atlas
 - [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
 - [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool 
-- [xatlas](https://github.com/jpcy/xatlas) Mesh parameterization / UV unwrapping library 
+- [xatlas](https://github.com/jpcy/xatlas) Mesh parameterization / UV unwrapping library
+* [Thekla atlas](https://github.com/Thekla/thekla_atlas) | This tool performs mesh segmentation, surface
+ parameterization, and chart packing.
+* [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's
+ a library to generate an UV for -example- lightmap uv.  
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
@@ -2334,6 +2427,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
+* [GameAndUnity](https://github.com/m969/GameAndUnity-TechLib)
  
 这里主要是小伙伴们一起收集的跟游戏相关的精粹
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
