@@ -62,6 +62,7 @@ Table of Contents
     - [Article](#article-2)
     - [Lockstep](#lockstep)
     - [status-syn](#status-syn)
+    - [Library](#library)
 - [Serialization](#serialization)
     - [Json](#json)
 - [DataBase](#database)
@@ -114,7 +115,7 @@ Table of Contents
     - [GPU-Architecture](#gpu-architecture)
     - [Optimize](#optimize)
     - [Physically-Based-Render](#physically-based-render)
-- [Ray Tracing](#ray-tracing)
+    - [Ray Tracing](#ray-tracing)
       - [NPR](#npr)
     - [SDF](#sdf)
     - [Occlusion Culling](#occlusion-culling)
@@ -245,7 +246,7 @@ Table of Contents
 - [cpp_youtube_channels](https://github.com/shafik/cpp_youtube_channels) : Listing of C++ Youtube channels for conferences and user groups
 - [programming-talks](https://github.com/hellerve/programming-talks) : Awesome & interesting talks about programming
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) : A collection of resources on modern C++
-- [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
+- [awesome-behavior-trees](https://github.com/BehaviorTree/aweshttps://github.com/TonyChen56/GameReverseNotehackome-behavior-trees) : A list of awesome Behavior Trees resources
 - [GameDevelopmentLinks](https://github.com/UnterrainerInformatik/GameDevelopmentLinks) : This is a collection of useful game-development links including, but not restricted to, development with MonoGame.
 
 - [awesome-casestudy](https://github.com/luruke/awesome-casestudy) : Curated list of technical case studies on WebGL and creative development
@@ -299,6 +300,7 @@ Table of Contents
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
 - [Arm](https://developer.arm.com/solutions/graphics-and-gaming)
+- [vfx_good_night_reading](https://github.com/jtomori/vfx_good_night_reading)
 #### Digest
 - [80.lv](https://80.lv/articles/digest) 
 - [game-dev-digest](https://gamedevdigest.com/digests.html)
@@ -975,13 +977,17 @@ Table of Contents
 - https://github.com/Golangltd/LollipopGo
 - https://github.com/servicetitan/Stl.Fusion
 - https://github.com/naia-rs/naia
-
+- https://github.com/coolspeed/century
+- https://www.networknext.com/
 #### Article
+- [gafferongames](https://gafferongames.com/ )
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
 - [细谈网络同步在游戏历史中的发展变化 (上)](https://zhuanlan.zhihu.com/p/130702310)
 - [细谈网络同步在游戏历史中的发展变化 (中)](https://zhuanlan.zhihu.com/p/164686867)
-- [smooth-sync-unity-plugin](https://assetstore.unity.com/packages/tools/network/smooth-sync-96925) 
+- [smooth-sync-unity-plugin](https://assetstore.unity.com/packages/tools/network/smooth-sync-96925) unity-plugin
+- [dedicated-server-physics-synchronization](https://assetstore.unity.com/packages/tools/physics/dedicated-server-physics-synchronization-160594?locale=zh-CN) unity-plugin
 - [帧同步联机战斗（预测，快照，回滚）](https://zhuanlan.zhihu.com/p/38468615)
+
 #### Lockstep
 - http://netcoding4d.com/
 - https://cloud.tencent.com/product/mgobe
@@ -992,8 +998,9 @@ Table of Contents
 - https://github.com/dudu502/LittleBee
 #### status-syn
 - https://github.com/zpl-c/librg
-
-
+#### Library
+- https://github.com/spectre1989/unity_physics_csp
+- https://github.com/fbsamples/oculus-networked-physics-sample/
 ## Serialization
 - https://github.com/chronoxor/CppSerialization benckmark
 - https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
@@ -1415,6 +1422,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/jeffvella/UnityNativeCollision
 - https://www.bepuentertainment.com/
 - https://samuelpmish.github.io/notes/RocketLeague/#_navigation
+- https://github.com/devnio/Flowmo
 
 ## Fluid
 - [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
@@ -1603,7 +1611,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
 - [【基于物理渲染】业界主流GGX](https://zhuanlan.zhihu.com/p/32985996)
-## Ray Tracing
+#### Ray Tracing
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
 ##### NPR
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
@@ -1634,6 +1642,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/chrisloop
 - [URPToonShader2](https://github.com/chrisloop/URPToonShader2)
 - [kShading](https://github.com/Kink3d/kShading)
+- https://unity-chan.com/contents/news/unitychankagura/
 - https://github.com/ChiliMilk/URP_Toon
 - https://github.com/you-ri/LiliumToonGraph
 - https://github.com/SnutiHQ/Toon-Shader
@@ -1694,6 +1703,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
 
 ##### Comon-Collection
+- https://github.com/cinight/ShadersForFun
 - https://github.com/ellioman/ShaderProject
 - https://github.com/adrian-miasik/unity-shaders
 - https://github.com/CrowFea/ShaderToy
@@ -1806,6 +1816,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/ikesnowy/Algorithms-4th-Edition-in-Csharp
 - https://github.com/pinefor1983/CS-Growing-book
 - https://github.com/changgyhub/leetcode_101
+- https://github.com/youngyangyang04/leetcode-master
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -2162,6 +2173,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [prefab-painter](https://assetstore.unity.com/packages/tools/painting/prefab-painter-2-61331) unity-plugin
 - [transform-tools](https://assetstore.unity.com/packages/tools/utilities/transform-tools-177218) unity-plugin
 - [grabbit-editor-physics-transforms](https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328) unity-plugin
+- [Hey-Area-Object-Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner)
 #### Vertex Animation
 - [vertex-animation-tools](https://assetstore.unity.com/packages/tools/animation/vertex-animation-tools-128190)
 - [vertexmotion](https://assetstore.unity.com/packages/tools/animation/vertexmotion-pro-25127)
@@ -2194,7 +2206,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
-
+* [Reinterpret](https://github.com/HelloKitty/Reinterpret.Net) 
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
@@ -2384,6 +2396,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://www.iamxk.com/navigation
 - https://xclient.info/s/
 - https://github.com/mob-sakai/unity-activate
+- https://github.com/TonyChen56/GameReverseNote
 
  
 
