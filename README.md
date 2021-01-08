@@ -246,9 +246,8 @@ Table of Contents
 - [cpp_youtube_channels](https://github.com/shafik/cpp_youtube_channels) : Listing of C++ Youtube channels for conferences and user groups
 - [programming-talks](https://github.com/hellerve/programming-talks) : Awesome & interesting talks about programming
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) : A collection of resources on modern C++
-- [awesome-behavior-trees](https://github.com/BehaviorTree/aweshttps://github.com/TonyChen56/GameReverseNotehackome-behavior-trees) : A list of awesome Behavior Trees resources
+- [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
 - [GameDevelopmentLinks](https://github.com/UnterrainerInformatik/GameDevelopmentLinks) : This is a collection of useful game-development links including, but not restricted to, development with MonoGame.
-
 - [awesome-casestudy](https://github.com/luruke/awesome-casestudy) : Curated list of technical case studies on WebGL and creative development
 - [awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) : List of open-source technologies that help in the process of building a pipeline for CG and VFX productions
 - [awesome-glsl](https://github.com/radixzz/awesome-glsl) : Compilation of the best resources to learn programming OpenGL Shaders
