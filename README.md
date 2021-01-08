@@ -31,6 +31,7 @@ Table of Contents
       - [Hair](#hair)
       - [Human](#human)
     - [Effect](#effect)
+      - [Course](#course)
     - [Material](#material)
     - [Remesh](#remesh)
     - [List-of-game-middleware](#list-of-game-middleware)
@@ -232,7 +233,6 @@ Table of Contents
 - https://gamedev.net/
 - http://www.onrpg.com/
 - https://www.mmorpg.com/
-- https://gamedevdigest.com/
 - https://rust-gamedev.github.io/
 - https://www.nephasto.com/blog/awesomegamedev.html
 - https://osgameclones.com/ 
@@ -295,6 +295,8 @@ Table of Contents
 - https://github.com/33nano/awesome-Gentools
 ## News
 #### Graphics
+- [acm](https://dl.acm.org/loi/tog)
+- [replicability](https://replicability.graphics/index.html#project)
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
@@ -724,9 +726,12 @@ Table of Contents
 - [makehuman](http://www.makehumancommunity.org/)
   
 #### Effect
+- [Effekseer](https://github.com/effekseer/Effekseer)
 - [fusion](https://www.blackmagicdesign.com/products/fusion)
 - [nuke](https://www.foundry.com/products/nuke)
 - [emberGen](https://jangafx.com/software/embergen/)
+##### Course
+- https://study.163.com/course/introduction.htm?courseId=1002818014#/courseDetail?tab=1
 #### Material
 - https://github.com/Metric/Materia  substance designer的 c#实现
 - https://rodzilla.itch.io/material-maker material-maker
@@ -1457,6 +1462,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ## Game-BenchMark/Metric/Tool
 
 #### Common
+- [Remotery](https://github.com/Celtoys/Remotery)
 - [perfdog](https://perfdog.qq.com/) 移动全平台性能测试分析专家
 - [upr](https://upr.unity.com/) 一款Unity出的性能分析工具，基于UnityProfiler的基础上制作的UPR，UPR的数据来自与UnityProfiler，会比Profiler有更多细节信息
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
