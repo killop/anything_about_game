@@ -300,6 +300,7 @@ Table of Contents
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
+- [unity-grenoble](https://unity-grenoble.github.io)
 - [Arm](https://developer.arm.com/solutions/graphics-and-gaming)
 - [vfx_good_night_reading](https://github.com/jtomori/vfx_good_night_reading)
 - [betterexplained](https://betterexplained.com/)
@@ -392,6 +393,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [fasterthan](https://www.fasterthan.life/blog)
 - [maxkruf](https://maxkruf.com/) TA
 - [astralcode](https://astralcode.blogspot.com/) TA
 - [elopezr](http://www.elopezr.com/) TA
