@@ -302,6 +302,7 @@ Table of Contents
 - [TA周刊](https://halisavakis.com/) 
 - [Arm](https://developer.arm.com/solutions/graphics-and-gaming)
 - [vfx_good_night_reading](https://github.com/jtomori/vfx_good_night_reading)
+- [betterexplained](https://betterexplained.com/)
 #### Digest
 - [80.lv](https://80.lv/articles/digest) 
 - [game-dev-digest](https://gamedevdigest.com/digests.html)
@@ -779,6 +780,7 @@ Table of Contents
 - [PixPlant](https://www.pixplant.com/) PixPlant is a smart texturing app with the best tools to quickly transform a photo into seamless repeating textures and 3D maps. 
 - [Affinity Designer](https://affinity.serif.com/de/designer/) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 ###### PIX-Texture
+- [pixelover](https://deakcor.itch.io/pixelover)
 - [spritemate](http://www.spritemate.com/)
 - [pixelatorapp](http://pixelatorapp.com/) Pixelator is a smart software to convert images into pixel art sprites and cover arts. With Pixelator you can use any source picture to easily generate Pixelated graphics for games or posters.
 -  [PiskelApp](https://www.piskelapp.com/) Piskel is a free online editor for animated sprites & pixel art
@@ -855,6 +857,7 @@ Table of Contents
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) blender plugin proceDurally spaceShip
 - [3DWorld](https://github.com/fegennari/3DWorld)
 - [Edgar-Unity](https://github.com/OndrejNepozitek/Edgar-Unity)
+- [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)
 #### Tree/Vegetation/Grass
 - [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
@@ -1002,6 +1005,7 @@ Table of Contents
 - https://github.com/dudu502/LittleBee
 #### status-syn
 - https://github.com/zpl-c/librg
+- https://github.com/minism/fps-netcode
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -1021,7 +1025,7 @@ Table of Contents
 - https://github.com/1996v/Bssom.Net
 - https://github.com/Dogwei/Swifter.MessagePack
 - https://github.com/RainwayApp/bebop
-
+- https://github.com/Sergio0694/BinaryPack
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
@@ -1310,6 +1314,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [ezEngine](https://github.com/ezEngine/ezEngine) ezEngine is an open source C++ game engine in active development. It is currently mainly developed on Windows, and higher level functionality such as rendering and the tools are only available there, but the core libraries are also available for other platforms such as Mac and Linux.
 - [skylicht-engine](https://github.com/skylicht-lab/skylicht-engine) Skylicht Engine is C++ Game Engine based on Irrlicht 3D
 - [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
+- [rbfx](https://github.com/rokups/rbfx)
 ## 并发执行和多线程
 #### CPP
 *   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
@@ -1493,7 +1498,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [bs::framework](https://www.bsframework.io/) - Modern C++14 library for the development of real-time graphical applications  [[github](https://github.com/GameFoundry/bsf) ![GameFoundry/bsf](https://img.shields.io/github/stars/GameFoundry/bsf.svg?style=social&label=Star&maxAge=2592000)]
 - [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [[github](https://github.com/DiligentGraphics/DiligentEngine) ![DiligentGraphics/DiligentEngine](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine.svg?style=social&label=Star&maxAge=2592000)]
 - [Falcor](https://developer.nvidia.com/falcor) - Real-time rendering framework designed specifically for rapid prototyping. [[github](https://github.com/NVIDIAGameWorks/Falcor) ![NVIDIAGameWorks/Falcor](https://img.shields.io/github/stars/NVIDIAGameWorks/Falcor.svg?style=social&label=Star&maxAge=2592000)]
-- [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [[github](https://github.com/google/filament) ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social&label=Star&maxAge=2592000)]
+
 - [Magnum](https://magnum.graphics/) - Lightweight and modular graphics middleware for games and data visualization. [[github](https://github.com/mosra/magnum) ![mosra/magnum](https://img.shields.io/github/stars/mosra/magnum.svg?style=social&label=Star&maxAge=2592000)]
 - [OGRE3D](https://www.ogre3d.org/) - Scene-oriented flexible 3D engine written in C++. [[bitbucket](https://bitbucket.org/sinbad/ogre)]
 - [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [[github](https://github.com/openscenegraph/OpenSceneGraph) ![openscenegraph/OpenSceneGraph](https://img.shields.io/github/stars/openscenegraph/OpenSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
@@ -1615,9 +1620,16 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Physically-Based-Render
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
+- [smallvcm](http://www.smallvcm.com/)
+- [mitsuba](https://www.mitsuba-renderer.org/) which though focuses on advanced R&D on light transport
+- [lightmetrica](Lightmetrica : A modern, research-oriented renderer ) 
+- [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [[github](https://github.com/google/filament) ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social&label=Star&maxAge=2592000)] 
 - [【基于物理渲染】业界主流GGX](https://zhuanlan.zhihu.com/p/32985996)
 #### Ray Tracing
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
+- [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL 
+- [nori](https://wjakob.github.io/nori/) Nori: an educational ray tracer 
+- [minilight](https://www.hxa.name/minilight) another good educational path tracer.
 ##### NPR
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
@@ -2250,7 +2262,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/StbSharp
 - [CC0Textures](https://github.com/keijiro/CC0TexturesUtils) Unity Editor scripts for preprocessing CC0 Textures 
 - https://cc0textures.com/ CC0 Textures is a library of high quality PBR materials for 3D rendering and game design licensed under the Creative Commons CC0 License. 
-  
+- [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation 
  #### Create Model
  - [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-2-x-111418)
  - [Archimatix](https://assetstore.unity.com/packages/tools/modeling/archimatix-pro-59733)
