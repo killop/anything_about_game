@@ -130,6 +130,7 @@ Table of Contents
       - [Water](#water)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
+      - [Compute Shader](#compute-shader)
       - [URP/SPR/HDRP Course](#urpsprhdrp-course)
       - [UI](#ui)
       - [Mesh](#mesh)
@@ -138,7 +139,6 @@ Table of Contents
       - [Holographic](#holographic)
       - [Matrix](#matrix)
     - [MatCaps](#matcaps)
-    - [Ray-Tracing](#ray-tracing-1)
     - [Color](#color)
     - [WebSite/Blog](#websiteblog)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
@@ -393,7 +393,8 @@ Table of Contents
 - https://halfrost.com
  
 #### English
-- [fasterthan](https://www.fasterthan.life/blog)
+- [therealmjp](https://therealmjp.github.io/posts/) TA
+- [fasterthan](https://www.fasterthan.life/blog) TA
 - [maxkruf](https://maxkruf.com/) TA
 - [astralcode](https://astralcode.blogspot.com/) TA
 - [elopezr](http://www.elopezr.com/) TA
@@ -435,6 +436,7 @@ Table of Contents
 - [sandervanrossen](http://sandervanrossen.blogspot.com/) working at Unity Technologies on Unity.
 - [timjones](http://timjones.io/) working at Unity Technologies on Unity.
 - [mfatihmar]( https://mfatihmar.com/)  working at Unity Technologies on Unity.
+- [Ming Wai Chan](https://cmwdexint.com/)  working at Unity Technologies on Unity.
 - [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
 - [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
 - https://simonschreibt.de/
@@ -650,6 +652,7 @@ Table of Contents
 - https://www.dafont.com/   english font
 - https://www.1001fonts.com/ english font
 #### Audio
+- [dspmotion](http://tsugi-studio.com/web/en/products-dspmotion.html)
 - https://github.com/raysan5/rfxgen
 - https://ardour.org/
 - https://www.audacityteam.org/
@@ -682,6 +685,7 @@ Table of Contents
 * [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
 - https://www.vegaschina.cn
 - https://www.edius.net/
+- [mocha](https://borisfx.com/products/mocha-pro)
 - [Davinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound
   
 
@@ -860,6 +864,7 @@ Table of Contents
 - [3DWorld](https://github.com/fegennari/3DWorld)
 - [Edgar-Unity](https://github.com/OndrejNepozitek/Edgar-Unity)
 - [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)
+- [cityengine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
 #### Tree/Vegetation/Grass
 - [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
@@ -877,7 +882,7 @@ Table of Contents
 
 ## 3D Rendering Software/Plugin
 - [keyshot](https://www.keyshot.com/)
- 
+- [marmoset](https://marmoset.co/)
 ## 3D-File-Format
 - [Alembic](http://www.alembic.io/)
 - [BLEND](https://en.wikipedia.org/wiki/.blend_(file_format))
@@ -935,29 +940,29 @@ Table of Contents
 - https://github.com/pcottle/learnGitBranching -- 学习git 提交的网站
 - https://github.com/libgit2/libgit2sharp  -- git的 c# 实现
 * [Linus讲解git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Google大会演讲，Linus介绍他创造git的原因，对比了git和svn。
- * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
- * [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
- * [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) - 来自阮一峰的网络日志，列出了 Git 最常用的命令。
- * [Pro Git（中文版）](https://git.oschina.net/progit/) - 书
- * [Git权威指南](http://www.worldhello.net/gotgit/) - 书
- * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - git-flow 是一个 git 扩展集，按 Vincent Driessen 的分支模型提供高层次的库操作。
- * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) -stanford出品
- * [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository/) - atlassian出品
- * [Try Git ( Interactive)](https://try.github.io/levels/1/challenges/1) -互动性的教你使用git
- * [Git (简体中文)](https://wiki.archlinux.org/index.php/Git_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) -archlinux出品
- * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html) -这本书汇聚了Git社区的很多精华,  其目的就是帮助你尽快的掌握Git.
- * [git-recipes](https://github.com/geeeeeeeeek/git-recipes) -高质量的Git中文教程，来自国外社区的优秀文章和个人实践
- * [git-it](http://jlord.us/git-it/) - GitHub一位女员工写的Git教程，繁体中文版在这里可以找到: http://jlord.us/git-it/index-zhtw.html
- * [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用
- * [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
- * [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能
- * [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文
- * [git-style-guide](https://github.com/agis-/git-style-guide)- git风格指南
- * [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
- * [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - git 指南
- * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md)
- * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令。如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。
- * [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！ 
+* [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
+* [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
+* [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) - 来自阮一峰的网络日志，列出了 Git 最常用的命令。
+* [Pro Git（中文版）](https://git.oschina.net/progit/) - 书
+* [Git权威指南](http://www.worldhello.net/gotgit/) - 书
+* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - git-flow 是一个 git 扩展集，按 Vincent Driessen 的分支模型提供高层次的库操作。
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) -stanford出品
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository/) - atlassian出品
+* [Try Git ( Interactive)](https://try.github.io/levels/1/challenges/1) -互动性的教你使用git
+* [Git (简体中文)](https://wiki.archlinux.org/index.php/Git_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) -archlinux出品
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html) -这本书汇聚了Git社区的很多精华,  其目的就是帮助你尽快的掌握Git.
+* [git-recipes](https://github.com/geeeeeeeeek/git-recipes) -高质量的Git中文教程，来自国外社区的优秀文章和个人实践
+* [git-it](http://jlord.us/git-it/) - GitHub一位女员工写的Git教程，繁体中文版在这里可以找到: http://jlord.us/git-it/index-zhtw.html
+* [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用
+* [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
+* [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能
+* [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文
+* [git-style-guide](https://github.com/agis-/git-style-guide)- git风格指南
+* [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
+* [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - git 指南
+* [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md)
+* [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令。如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。
+* [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！ 
 
 #### article
 - [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
@@ -1530,6 +1535,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Silk](https://github.com/Ultz/Silk.NET) Silk.NET is a high-speed, advanced library, providing bindings to popular low-level APIs such as OpenGL and OpenAL. Use Silk.NET to add cross-platform 3D graphics, audio, compute and haptics to your C# application.
 - [helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) Helix Toolkit is a collection of 3D components for .NET Framework.
 - [SharpGame](https://github.com/BobbyBao/SharpGame) 基于Vulkan的多线程渲染引擎，采用C#9.0开发，支持.Net5.0
+- [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) C# bindings for the bgfx graphics library 
 #### Collection
 - [realtimerendering](http://www.realtimerendering.com/) 
 - https://github.com/luisnts/awesome-computer-graphics
@@ -1632,6 +1638,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL 
 - [nori](https://wjakob.github.io/nori/) Nori: an educational ray tracer 
 - [minilight](https://www.hxa.name/minilight) another good educational path tracer.
+- https://github.com/daseyb/pathgraph 
 ##### NPR
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
@@ -1701,7 +1708,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Unity中影响渲染顺序的因素总结](https://zhuanlan.zhihu.com/p/55762351)
 - [[2017.8]半透明的绘制顺序与接收阴影问题](https://zhuanlan.zhihu.com/p/113399133)
 - [unity 半透明渲染技巧合集](https://zhuanlan.zhihu.com/p/123023614)
-- [](https://zhuanlan.zhihu.com/p/263566318)
+- [图形学|shader|用一篇文章理解半透明渲染、透明度测试和混合、提前深度测试并彻底理清渲染顺序。](https://zhuanlan.zhihu.com/p/263566318)
 ##### Decal
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
@@ -1734,8 +1741,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
-
 - https://github.com/larsbertram69
+##### Compute Shader
+- https://github.com/cinight/MinimalCompute 
 ##### URP/SPR/HDRP Course
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
 - [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
@@ -1761,10 +1769,6 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/IRCSS/MatrixVFX
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps
-
-#### Ray-Tracing
-- https://github.com/daseyb/pathgraph
-
 #### Color
 - [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhih  u.com/p/23905865)
 - [Photoshop blending modes in glsl ](https://github.com/jamieowen/glsl-blend)
