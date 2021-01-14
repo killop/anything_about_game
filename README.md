@@ -38,6 +38,7 @@ Table of Contents
     - [CG Software API](#cg-software-api)
     - [Texture](#texture)
         - [PIX-Texture](#pix-texture)
+      - [Normal-Map](#normal-map)
     - [GPU-Texture](#gpu-texture)
     - [Visual-Logic](#visual-logic)
     - [Material](#material-1)
@@ -775,8 +776,7 @@ Table of Contents
 * [Synfig](https://www.synfig.org/) - 2D animation software
 * [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
 * [The Gimp](https://www.gimp.org) - A cross-platform image editor
-- https://github.com/kmkolasinski/AwesomeBump
-- http://www.crazybump.com/
+* http://www.snakehillgames.com/spritelamp/
 - http://renderhjs.net/shoebox/
 - https://www.autodraw.com/
 - [pixelandpolygon](https://pixelandpolygon.com/) Texture File Viewer
@@ -796,7 +796,11 @@ Table of Contents
 - [aseprite](http://www.aseprite.org/)
 - [GrafX2](http://pulkomandy.tk/projects/GrafX2)
 - [GraphicsGale](https://graphicsgale.com/us/)
-    
+##### Normal-Map
+- [cpetry](https://cpetry.github.io/NormalMap-Online/)
+- [crazybump](http://crazybump.com/mac/)  
+- https://github.com/kmkolasinski/AwesomeBump
+- https://www.codeandweb.com/spriteilluminator
 #### GPU-Texture
 - [basis_universal](https://github.com/BinomialLLC/basis_universal)
 - https://github.com/caosdoar/Fornos
@@ -1639,6 +1643,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [nori](https://wjakob.github.io/nori/) Nori: an educational ray tracer 
 - [minilight](https://www.hxa.name/minilight) another good educational path tracer.
 - https://github.com/daseyb/pathgraph 
+- [](https://github.com/64/cmake-raytracer)
 ##### NPR
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
@@ -2455,6 +2460,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://works.yangerxiao.com/honeyed-words-generator/ 土味情话
 - https://github.com/soulteary/tenant-point 程序员如何租房子
 - [北京买房](https://github.com/facert/beijing_house_knowledge#%E5%A4%96%E5%9C%B0%E4%BA%BA%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0%E6%88%BF%E6%9D%A1%E4%BB%B6%E5%8F%8A%E8%B5%84%E6%A0%BC)
+- [上海买房](https://github.com/ayuer/shanghai_house_knowledge)
 - https://wallroom.io 壁纸网站
 - https://wallhaven.cc/ 壁纸网站
 - https://github.com/Odaimoko/ACE-CPT-Notes 程序员如何健身
