@@ -301,7 +301,7 @@ Table of Contents
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
-- [unity-grenoble](https://unity-grenoble.github.io)
+- [unity-grenoble](https://unity-grenoble.github.io/website/)
 - [Arm](https://developer.arm.com/solutions/graphics-and-gaming)
 - [vfx_good_night_reading](https://github.com/jtomori/vfx_good_night_reading)
 - [betterexplained](https://betterexplained.com/)
@@ -666,6 +666,7 @@ Table of Contents
 - [native-audio](https://assetstore.unity.com/packages/tools/audio/native-audio-107067) unity-plugin
 - [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) microsoft Audio-Manager-for-Unity
 - [vivaldi-audio-engine](https://assetstore.unity.com/packages/tools/audio/vivaldi-audio-engine-pro-64029) unity-plugin
+- [Lasp](https://github.com/keijiro/Lasp) Low-latency Audio Signal Processing plugin for Unity 
 - [usfxr](https://github.com/grapefrukt/usfxr)
 #### Music-Tool/Editor
 - https://www.image-line.com/
@@ -1118,6 +1119,7 @@ Table of Contents
 - https://github.com/casbin/Casbin.NET
 ## NetWork
 #### Articles
+- [NetworkBenchmarkDotNet](https://github.com/JohannesDeml/NetworkBenchmarkDotNet)
 - [硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484005&idx=1&sn=cb07ee1c891a7bdd0af3859543190202&chksm=f98e46cfcef9cfd9feb8b9df043a249eb5f226a927fd6d4065e99e62a645a584005d9921541b&scene=126&sessionid=1587373655&key=c1e3f751e477aefb2785e5e67e936b31e51cd2b2080391621fbd3fc27b4764cf9b02e0c6c25104fa7e3c90b7719ebe683a4fb3bc0a8bb16625e5b8696c4bb2133088ceea58e071e4f06742b5d6cf8225&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AQXqc918kP9oyoqf8cruy24%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding ）
 - [你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484017&idx=1&sn=dc54d43bfd5dc088e48adcfa2e2bc13f&chksm=f98e46dbcef9cfcdab645e79138deb078d68ad843b3e424408974bd8f0ecea620a2502a79230&scene=126&sessionid=1587373655&key=caefaff9574fe7b57087d887de9c6a4c47d8f28df557255cc812869d270224df92f9bb319c0637c0755e2072e8a83e69667b4024c32f8447e1b8fbea51f25679a85b5b27be78ad02905b3a7220e63b0e&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AUqHBUf2HKUOvDs1c3m9p6g%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding )
 - [万字详文：TCP 拥塞控制详解](https://zhuanlan.zhihu.com/p/144273871)
@@ -1131,6 +1133,7 @@ Table of Contents
 - [面试官：换人！他连 TCP 这几个参数都不懂 ](https://mp.weixin.qq.com/s/fjnChU3MKNc_x-Wk7evLhg)
 - [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
 #### C#
+- [ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp) Reliable UDP networking library 
 - [NetworkToolkit](https://github.com/scalablecory/NetworkToolkit) This project contains networking primitives for use with .NET. 
 - http://www.hslcommunication.cn/
 - [normcore](https://normcore.io/) Normcore is the best way to add multiplayer to any project. Period.
@@ -1734,6 +1737,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
 
 ##### Comon-Collection
+- [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)
 - https://github.com/cinight/ShadersForFun
 - https://github.com/ellioman/ShaderProject
 - https://github.com/adrian-miasik/unity-shaders
@@ -1968,7 +1972,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Demystifier](https://github.com/benaadams/Ben.Demystifier) High performance understanding for stack traces (Make error logs more productive)
 - [ProductionStackTrace](https://github.com/gimelfarb/ProductionStackTrace) Without deploying PDBs, generate a .NET exception stack trace that can be processed to retrieve source file and line number info 
 - [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
-
+- https://github.com/madelson/DistributedLock
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -2331,6 +2335,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Asset Hunter PRO](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)
 - [A+ Assets Explorer](https://assetstore.unity.com/packages/tools/utilities/a-assets-explorer-57335)
 - [AssetBundle加密-fair-guard](https://www.fair-guard.com)
+- [Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker)
 - https://github.com/Unity-Technologies/asset-auditing-tools
 - https://github.com/MarkUnity/AssetAuditor
 - https://github.com/charcolle/CustomAssetImporter
@@ -2360,6 +2365,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [MessageKit](https://github.com/prime31/MessageKit) - Decoupled message sending system meant as a replacement for SendMessage and its variantslibrary
 - [edriven](https://github.com/dkozar/edriven) - Event-driven / asynchronous framework for Unity3d
 - [Brighter](https://github.com/BrighterCommand/Brighter) Command Dispatcher, Processor, and Distributed Task Queue 
+- [signals](https://github.com/supyrb/signals)
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
