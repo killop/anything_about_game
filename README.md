@@ -3,6 +3,7 @@ Table of Contents
 - [Awesome-Game](#awesome-game)
 - [Awesome-General](#awesome-general)
 - [News](#news)
+    - [Game](#game)
     - [Graphics](#graphics)
     - [Digest](#digest)
     - [Common](#common)
@@ -11,12 +12,13 @@ Table of Contents
     - [Go](#go)
     - [Rust](#rust)
 - [Person/Social/Blogs](#personsocialblogs)
+    - [Collection](#collection)
     - [Chinese](#chinese)
     - [English](#english)
 - [Game-Company](#game-company)
 - [Game-Asset](#game-asset)
 - [Game-Design-Tool](#game-design-tool)
-    - [Collection](#collection)
+    - [Collection](#collection-1)
     - [Voxel](#voxel)
     - [Animation](#animation)
       - [Unity-Tool](#unity-tool)
@@ -45,10 +47,10 @@ Table of Contents
     - [Tile](#tile)
     - [Design](#design)
 - [locale](#locale)
-- [Console](#console)
-- [CG](#cg)
+- [Console/Command/Shell](#consolecommandshell)
 - [Scene](#scene)
     - [Terrain](#terrain)
+      - [Unity-Tool](#unity-tool-1)
     - [Procedurally-Generation](#procedurally-generation)
     - [Tree/Vegetation/Grass](#treevegetationgrass)
     - [Road](#road)
@@ -70,7 +72,7 @@ Table of Contents
 - [DataBase](#database)
     - [c](#c)
 - [ECS Libraries](#ecs-libraries)
-    - [Collection](#collection-1)
+    - [Collection](#collection-2)
     - [C/C++](#cc)
     - [C](#c-1)
     - [Python](#python)
@@ -86,8 +88,10 @@ Table of Contents
     - [C](#c-2)
     - [C/CPP](#ccpp)
     - [Web/Http-fastest](#webhttp-fastest)
-- [2D Engines and Frameworks](#2d-engines-and-frameworks)
-- [3D Engines and Frameworks](#3d-engines-and-frameworks)
+- [GameEngine Design](#gameengine-design)
+    - [Article/Course](#articlecourse)
+    - [2D Engines and Frameworks](#2d-engines-and-frameworks)
+    - [3D Engines and Frameworks](#3d-engines-and-frameworks)
 - [并发执行和多线程](#并发执行和多线程)
     - [CPP](#cpp)
     - [C](#c-3)
@@ -107,7 +111,7 @@ Table of Contents
     - [Graphics-Library](#graphics-library)
     - [SoftWare-Render](#software-render)
     - [3rd-Binding](#3rd-binding)
-    - [Collection](#collection-2)
+    - [Collection](#collection-3)
     - [Shading-Language](#shading-language)
     - [Course/Article](#coursearticle)
     - [B站优秀博主](#b站优秀博主)
@@ -192,7 +196,6 @@ Table of Contents
     - [Util](#util)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Drawing](#drawing)
-    - [SceneEditor](#sceneeditor)
     - [Vertex Animation](#vertex-animation)
     - [Effect](#effect-1)
     - [Tween](#tween)
@@ -214,6 +217,7 @@ Table of Contents
     - [Message Bus](#message-bus)
     - [Time control](#time-control)
     - [Movement](#movement)
+- [GameReverse](#gamereverse)
 - [Data](#data)
     - [Exchange](#exchange)
     - [DataVisual&&Editor](#datavisualeditor)
@@ -231,10 +235,8 @@ Table of Contents
 
 ## Awesome-Game
 - https://www.gamasutra.com/category/programming/
-- https://gamedev.net/
 - http://www.onrpg.com/
 - https://www.mmorpg.com/
-- https://rust-gamedev.github.io/
 - https://www.nephasto.com/blog/awesomegamedev.html
 - https://osgameclones.com/ 
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
@@ -295,6 +297,10 @@ Table of Contents
 - https://github.com/terkelg/awesome-creative-coding 
 - https://github.com/33nano/awesome-Gentools
 ## News
+#### Game
+- [indienova](https://indienova.com/)
+- [gamedev](https://gamedev.net/)
+- [rust-gamedev](https://rust-gamedev.github.io/) 
 #### Graphics
 - [acm](https://dl.acm.org/loi/tog)
 - [replicability](https://replicability.graphics/index.html#project)
@@ -337,6 +343,8 @@ Table of Contents
 #### Rust
 - https://github.com/rust-lang/this-week-in-rust
 ## Person/Social/Blogs
+#### Collection
+- [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### Chinese
 - [skywind](http://www.skywind.me/blog/)
 - [行尸走肉的笔记](http://walkingfat.com/)
@@ -829,7 +837,7 @@ Table of Contents
 - https://weblate.org/zh-hans/
 - https://molingyu.github.io/RosettaDocs/  本地化
   
-## Console
+## Console/Command/Shell
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
 - [BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole)
 - [Reactor-Developer-Console](https://github.com/mustafayaya/Reactor-Developer-Console) 
@@ -837,8 +845,13 @@ Table of Contents
 - [srdebugger](https://assetstore.unity.com/packages/tools/gui/srdebugger-console-tools-on-device-27688) unity-plugin
 - [debugging-essentials](https://assetstore.unity.com/packages/tools/utilities/debugging-essentials-170773) unity-plugin
 - [hdg-remote-debug](https://assetstore.unity.com/packages/tools/utilities/hdg-remote-debug-live-update-tool-61863) unity-plugin
-## CG
-- [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
+- https://github.com/natemcmaster/CommandLineUtils 命令行
+- https://github.com/Tyrrrz/CliFx 命令行
+- https://github.com/Tyrrrz/CliWrap 命令行
+- https://github.com/jsakamoto/XProcess 命令行
+- https://github.com/adamralph/simple-exec 命令行
+- https://github.com/adamralph/bullseye 
+
 
 ## Scene
 #### Terrain
@@ -856,6 +869,15 @@ Table of Contents
 - [World Streamer](https://assetstore.unity.com/packages/tools/terrain/world-streamer-2-176482) UnityPlugin
 - [Voxeland](https://assetstore.unity.com/packages/tools/terrain/voxeland-9180) UnityPlugin
 - [terrain-grid-system](https://assetstore.unity.com/packages/tools/terrain/terrain-grid-system-47215)UnityPlugin
+##### Unity-Tool
+- [PrefabPainter](https://github.com/Roland09/PrefabPainter) github
+- [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
+- [prefab-painter](https://assetstore.unity.com/packages/tools/painting/prefab-painter-2-61331) unity-plugin
+- [transform-tools](https://assetstore.unity.com/packages/tools/utilities/transform-tools-177218) unity-plugin
+- [grabbit-editor-physics-transforms](https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328) unity-plugin
+- [Hey-Area-Object-Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner)
+- https://github.com/Ogbest/Unity_MapEditor_Terrain 动态渲染Unity地形网格，记录网格是否是玩家的行走范围，然后导出编辑好的网格用于服务器导航、验证使用 
+- https://github.com/Caeden117/ChroMapper -- 地图编辑器 
 #### Procedurally-Generation
 - [real-ivy-2-procedural-ivy-generator](https://assetstore.unity.com/packages/tools/modeling/real-ivy-2-procedural-ivy-generator-181402) unity-plugin
 - [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
@@ -1038,6 +1060,7 @@ Table of Contents
 - https://github.com/Dogwei/Swifter.MessagePack
 - https://github.com/RainwayApp/bebop
 - https://github.com/Sergio0694/BinaryPack
+- https://github.com/akkadotnet/Hyperion
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
@@ -1191,6 +1214,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [BeetleX](https://github.com/IKende/BeetleX) high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution 
 * [BedrockFramework](https://github.com/davidfowl/BedrockFramework) High performance, low level networking APIs for building custom servers and clients. 
 * [RailgunNet](https://github.com/ashoulson/RailgunNet) A Client/Server Network State-Synchronization Layer for Games 
+* [EuNet](https://github.com/zestylife/EuNet)  Peer to peer network solution for multiplayer games
 #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -1201,8 +1225,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 
-
-## 2D Engines and Frameworks
+## GameEngine Design
+#### Article/Course
+- https://isetta.io/resources/
+- https://ourmachinery.com/
+#### 2D Engines and Frameworks
 * [Agen](http://2dengine.com/page.php?p=features) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 * [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. :o2:
 * [AndEngine](http://www.andengine.org) - 2D Android Game Engine :o2:
@@ -1275,7 +1302,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games.
 
 
-## 3D Engines and Frameworks
+#### 3D Engines and Frameworks
 * [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D :o2:
 * [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. :o2:
@@ -1573,6 +1600,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
  
 #### Course/Article
+- [学习笔记：GAMES101-现代计算机图形学入门](https://blog.csdn.net/weixin_43803133/category_10303553.html)
+- [一个角色最终呈现在引擎里，美术制作上的思考以及注意事项](https://zhuanlan.zhihu.com/p/344991995)
 - [技术美术 (Technical Artist)](https://zhuanlan.zhihu.com/p/258861976)
 - [霜狼_may - TA技术美术学习体系框架](https://www.bilibili.com/video/av77755500)
 - https://github.com/lygyue/Books  （来自味精的图形学入门书籍）
@@ -1915,6 +1944,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Thread/Task
 - https://github.com/RichieSams/FiberTaskingLib
 - https://github.com/taskflow/taskflow
+
 ## Utils
 #### C
 *   APR：Apache Portable Runtime；另一个跨平台的实用函数库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](http://apr.apache.org/)
@@ -1955,9 +1985,6 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/gautema/cqrslite cqrs
 - https://github.com/libgit2/libgit2sharp -git的c#实现
 - https://github.com/NetchX/Netch -nat打洞
-- https://github.com/natemcmaster/CommandLineUtils 命令行
-- https://github.com/Tyrrrz/CliFx 命令行
-- https://github.com/Tyrrrz/CliWrap 命令行
 - https://referencesource.microsoft.com/ C#源码
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://getakka.net/ - Akka.Net
@@ -2163,7 +2190,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
-
+- https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
 #### UGUI
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
@@ -2188,8 +2215,6 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/bradsc0tt/Unity-Extended-Transform-Editor
 - [PlayHooky](https://github.com/wledfor2/PlayHooky) PlayHooky is a simple C# Class that can be used to hook C# Methods at runtime.
 #### Unity 特色工程（精粹）
-
--  https://github.com/Caeden117/ChroMapper -- 地图编辑器
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
 -  [介绍几个日本开源动画项目](https://connect.unity.com/p/jie-shao-ji-ge-ri-ben-kai-yuan-dong-hua-xiang-mu)
@@ -2199,13 +2224,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [fast-line-renderer](https://assetstore.unity.com/packages/tools/particles-effects/fast-line-renderer-for-unity-gpu-line-and-particle-system-54118)
 - [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167)
 - [aline](https://assetstore.unity.com/packages/tools/gui/aline-162772)
-#### SceneEditor
-- [PrefabPainter](https://github.com/Roland09/PrefabPainter) github
-- [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
-- [prefab-painter](https://assetstore.unity.com/packages/tools/painting/prefab-painter-2-61331) unity-plugin
-- [transform-tools](https://assetstore.unity.com/packages/tools/utilities/transform-tools-177218) unity-plugin
-- [grabbit-editor-physics-transforms](https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328) unity-plugin
-- [Hey-Area-Object-Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner)
+
 #### Vertex Animation
 - [vertex-animation-tools](https://assetstore.unity.com/packages/tools/animation/vertex-animation-tools-128190)
 - [vertexmotion](https://assetstore.unity.com/packages/tools/animation/vertexmotion-pro-25127)
@@ -2242,7 +2261,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
-
+* [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances. 
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
 * [actors](https://github.com/PixeyeHQ/actors.unity)
@@ -2290,6 +2309,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [fast-skinned-mesh-combiner](https://github.com/joshcamas/fast-skinned-mesh-combiner)
+ - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin
+ - [Mount Points](https://assetstore.unity.com/packages/tools/animation/mount-points-16318) unity-plugin
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
  - [BakerBoy](https://github.com/Fewes/BakerBoy) A tiny GPU-based ambient occlusion and bent normal baker for Unity
  - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
@@ -2384,7 +2405,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 -  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
 -  [AnimeTask](https://github.com/kyubuns/AnimeTask)
-
+## GameReverse
+- https://github.com/TonyChen56/GameReverseNote
+- https://github.com/mob-sakai/unity-activate
 ## Data
 #### Exchange
 - https://github.com/Cinchoo/ChoETL ETL Framework for .NET / c# (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml formatted files) 
@@ -2429,8 +2452,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - http://www.qijishow.com/down/navigation.html
 - https://www.iamxk.com/navigation
 - https://xclient.info/s/
-- https://github.com/mob-sakai/unity-activate
-- https://github.com/TonyChen56/GameReverseNote
+- https://zh.1lib.org/s/
 
  
 
