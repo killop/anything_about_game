@@ -399,6 +399,10 @@ Table of Contents
 - [Yimi的小天地](https://yimicgh.top/)
 - [manistein](https://manistein.github.io/blog/)
 - [蒋信厚](https://jiangxh1992.github.io/)
+- [只剩一瓶辣椒酱](https://space.bilibili.com/35723238)  b站 blender 教程
+- [庄懂-BoyanTat](https://space.bilibili.com/6373917/video) b站 美术向TA
+- [Flynnmnn](https://space.bilibili.com/398411802?spm_id_from=333.788.b_765f7570696e666f.2)  b站 unity shader 教程
+- [天守魂座_雪风](https://space.bilibili.com/5863867) b站 hlsl 教程
 - https://halfrost.com
  
 #### English
@@ -1439,8 +1443,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - http://penrose.ink/
 - https://www.keycurriculum.com/
 - http://tobyschachman.com/Shadershop/
+- [graphtoy](https://graphtoy.com/)
 
 #### Courses/Article/website
+- [傅里叶变换交互式入门](http://www.jezzamon.com/fourier/zh-cn.html)
 - https://www.wolfram.com/
 - [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
 - https://mathvault.ca/websites/
@@ -1500,7 +1506,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
 ## Softbodie
 * [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
-
+* [SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation) Squish! A quick exploration of mesh deformation in response to collision 
 ## Vehicle
 * [tork](https://github.com/adrenak/tork) Arcade vehicle physics for Unity
 * [Randomation-Vehicle-Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
@@ -1551,6 +1557,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
 #### SoftWare-Render 
+
 - [mesa3d](https://www.mesa3d.org/) nothing to say :)
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) A brief computer graphics / rendering course 
 - [renderer](https://github.com/zauonlok/renderer) A shader-based software renderer written from scratch in C89
@@ -1560,7 +1567,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [SoftRenderer](https://github.com/wlxklyh/SoftRenderer)
 - [rasterizr](https://github.com/tgjones/rasterizr)
 - https://github.com/kosua20/herebedragons
-- https://github.com/google/filament 
+- https://github.com/Litmin/SoftRenderer-Unity
 #### 3rd-Binding
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
 - [sharpdx](http://sharpdx.org/) SharpDX is an open-source managed .NET wrapper of the DirectX API.
@@ -1825,8 +1832,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [色彩基础知识](https://www.zcool.com.cn/search/content?&word=%E8%89%B2%E5%BD%A9%E7%9F%A5%E8%AF%86)
 - 微信公众号： 领略色彩之雅
 - [colorizer](http://colorizer.org/)
+- [光学原理在绘画中的应用](https://www.bilibili.com/video/BV1zE41167AH?p=9)
 - [配色网站一锅端](http://www.fenxitu.cn/peise/web.php)
-
+- [物理学大神如何研究颜色](https://www.bilibili.com/read/cv9334842?from=category_0)
 #### WebSite/Blog
 - [tech-artists](https://tech-artists.org/)
 - [artstation](https://www.artstation.com/)
@@ -1890,7 +1898,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [CPU Cache Latency](https://gist.github.com/hellerbarde/2843375)
 - [Linux内存 -1](https://mp.weixin.qq.com/s/Aj-A5ltGJoD5fkFiMlhjoA)
 - [Linux内存 -2](https://mp.weixin.qq.com/s/EvU7pV51ctPooREQt_8SaQ)
-   
+- [打开线程 | 进程 | 协程的大门 ](https://mp.weixin.qq.com/s/RLlNHgW6ilMqoFVHXf6x6g)   
 #### IO
 - [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
 - [IO 模型知多少](https://www.cnblogs.com/sheng-jie/p/how-much-you-know-about-io-models.html) 
@@ -2000,6 +2008,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [ProductionStackTrace](https://github.com/gimelfarb/ProductionStackTrace) Without deploying PDBs, generate a .NET exception stack trace that can be processed to retrieve source file and line number info 
 - [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
 - https://github.com/madelson/DistributedLock
+- https://github.com/thedmi/Equ
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -2186,6 +2195,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [goatstream](https://www.goatstream.com/research/)
 - [animation](https://www.animation.rwth-aachen.de/)
 - [interactive-graphics](http://www.interactive-graphics.de/) 
+- [ActiveRagdoll](https://github.com/hobogalaxy/ActiveRagdoll)
 #### Climb System
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 #### AI
@@ -2342,6 +2352,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code
 
 #### Asset-Management
+- [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
