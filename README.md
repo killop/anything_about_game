@@ -144,6 +144,7 @@ Table of Contents
       - [Holographic](#holographic)
       - [Matrix](#matrix)
     - [MatCaps](#matcaps)
+    - [Material-Cleaner](#material-cleaner)
     - [Color](#color)
     - [WebSite/Blog](#websiteblog)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
@@ -1814,6 +1815,12 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/IRCSS/MatrixVFX
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps
+#### Material-Cleaner
+- [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
+- [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
+- [MaterialCleaner](https://github.com/lujian101/UnityToolDist/blob/master/Assets/Editor/MaterialCleaner.cs)
+- [unity-material-cleaner](https://github.com/ina-amagami/unity-material-cleaner/blob/master/Assets/Editor/MaterialCleaner.cs)
+- [MotionFramework/Scripts/Editor/EditorTools](https://github.com/gmhevinci/MotionFramework/blob/master/Assets/MotionFramework/Scripts/Editor/EditorTools.cs)
 #### Color
 - [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhih  u.com/p/23905865)
 - [Photoshop blending modes in glsl ](https://github.com/jamieowen/glsl-blend)
@@ -2322,6 +2329,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin
  - [Mount Points](https://assetstore.unity.com/packages/tools/animation/mount-points-16318) unity-plugin
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
+ -  https://github.com/nementic-games/mesh-debugging
  - [BakerBoy](https://github.com/Fewes/BakerBoy) A tiny GPU-based ambient occlusion and bent normal baker for Unity
  - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
  - [UVPreview](https://github.com/AsehesL/UVPreview)
