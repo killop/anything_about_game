@@ -407,6 +407,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [Herman Tulleken](http://www.code-spot.co.za) PCG 
 - [therealmjp](https://therealmjp.github.io/posts/) TA
 - [fasterthan](https://www.fasterthan.life/blog) TA
 - [maxkruf](https://maxkruf.com/) TA
@@ -708,7 +709,6 @@ Table of Contents
 - https://www.substance3d.com/ sb
 - https://www.sidefx.com/ houdini 
 - https://github.com/Fe-Elf/FeELib-for-Houdini 精灵超可爱 
-- https://www.blender.org/ blender
 - https://www.autodesk.com/products/3ds-max/overview max
 - https://www.autodesk.com/products/maya/overview maya
 - https://www.foundry.com/products/modo modo
@@ -717,6 +717,7 @@ Table of Contents
 * [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting
 * [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
 * [Blender](https://blender.org) - Modeling and animation
+* [awesome-blender](https://github.com/agmmnn/awesome-blender)
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
  seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d).
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes
@@ -742,6 +743,7 @@ Table of Contents
 - https://zhuanlan.zhihu.com/p/330259306 头发渲染
 - [hairstudio](https://assetstore.unity.com/packages/tools/modeling/hairstudio-early-access-164661) 
 - [ephere](https://ephere.com/)
+- https://cgpal.com/fibershop/
 ##### Human
 - [poser](https://www.posersoftware.com/) 
 - [daz3d](https://www.daz3d.com/home)
@@ -830,6 +832,7 @@ Table of Contents
 - [Tiled 2D](https://www.mapeditor.org/) free, easy to use and flexible tile map editor
 - [autotilegen](https://pixelatto.com/products/autotilegen)
 - [SuperTiled2Unity] (https://github.com/Seanba/SuperTiled2Unity) Imports Tiled files to Unity. Better than regular Tiled2Unity. 
+- [tile-map-accelerator](https://forum.unity.com/threads/tile-map-accelerator-high-performance-shader-based-tile-map-renderer.708413/)
 
 #### Design
 - https://www.zcool.com.cn
@@ -1774,13 +1777,16 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
 
 ##### Comon-Collection
+- [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository)
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)
+- [ShaderPackager]( https://github.com/slipster216/ShaderPackager)
 - https://github.com/cinight/ShadersForFun
 - https://github.com/ellioman/ShaderProject
 - https://github.com/adrian-miasik/unity-shaders
 - https://github.com/CrowFea/ShaderToy
 - https://github.com/KaimaChen/Unity-Shader-Demo
 - https://github.com/marcozakaria/URP-LWRP-Shaders
+- https://github.com/madumpa/URP_StylizedLitShader
 - [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches)
 - https://github.com/przemyslawzaworski/Unity3D-CG-programming
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
@@ -1795,6 +1801,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
 - [[Universal RP]Unity通用渲染管线学习](https://zhuanlan.zhihu.com/p/84908168)
 - [HDRP高清渲染管线-学习资料汇总](https://connect.unity.com/p/hdrpgao-qing-xuan-ran-guan-xian-xue-xi-zi-liao-hui-zong)
+- [Unity自定义可编程渲染管线(SRP)](https://www.zhihu.com/column/c_1249285959101227008)
 ##### UI
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
@@ -1842,6 +1849,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [光学原理在绘画中的应用](https://www.bilibili.com/video/BV1zE41167AH?p=9)
 - [配色网站一锅端](http://www.fenxitu.cn/peise/web.php)
 - [物理学大神如何研究颜色](https://www.bilibili.com/read/cv9334842?from=category_0)
+- https://opencolorio.org/
 #### WebSite/Blog
 - [tech-artists](https://tech-artists.org/)
 - [artstation](https://www.artstation.com/)
@@ -2079,6 +2087,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [artichoke](https://github.com/artichoke/artichoke) python in dnasm
 - [Yuri AVG Engine](https://github.com/Project-AZUSA/YuriAVGEngine) Project Yuri将着眼于设计一个包含基本AVG游戏所需功能的引擎套装。
 - [chaos](https://chaos-lang.org/) Chaos is a purely functional programming language that achieves zero cyclomatic complexity. 
+- [RTCLI.Runtime](https://github.com/Team-RTCLI/RTCLI.Runtime)
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -2231,6 +2240,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/rfadeev/pump-editor
 - https://github.com/bradsc0tt/Unity-Extended-Transform-Editor
 - [PlayHooky](https://github.com/wledfor2/PlayHooky) PlayHooky is a simple C# Class that can be used to hook C# Methods at runtime.
+- https://github.com/doitian/unity-git-hooks
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -2387,6 +2397,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [几种主流贴图压缩算法的实现原理详解](https://www.2cto.com/kf/201603/493773.html)
 - [[小数派报告]-Shader加载的纹理压缩的原理](https://zhuanlan.zhihu.com/p/104006858)
 - [游戏图片纹理压缩相关总结](https://zhuanlan.zhihu.com/p/102416815)
+- [游戏资源常见贴图类型](https://zhuanlan.zhihu.com/p/260973533)
 - [你所需要了解的几种纹理压缩格式原理](https://zhuanlan.zhihu.com/p/237940807)
 - [各种移动GPU压缩纹理的使用方法](https://www.cnblogs.com/luming1979/archive/2013/02/04/2891421.html)
 ###### Article
@@ -2432,6 +2443,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/Cinchoo/ChoETL ETL Framework for .NET / c# (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml formatted files) 
 - https://github.com/alibaba/DataX 数据交换
 - https://github.com/mimetis/dotmim.sync A brand new database synchronization, multi platform, multi databases, developed on top of .Net Standard 2.0
+- [OpenDDL](https://github.com/EricLengyel/OpenDDL)
 #### DataVisual&&Editor
 - [SuperSet](https://github.com/apache/incubator-superset)
 - [Redash](https://github.com/getredash/redash)
@@ -2471,7 +2483,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - http://www.qijishow.com/down/navigation.html
 - https://www.iamxk.com/navigation
 - https://xclient.info/s/
-- https://zh.1lib.org/s/
+- https://github.com/cunyu1943/amazing-websites
 
  
 
