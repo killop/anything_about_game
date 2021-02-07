@@ -188,7 +188,9 @@ Table of Contents
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
     - [GPU-Animation](#gpu-animation)
+    - [Mesh Animation](#mesh-animation)
     - [Physics Based Animation](#physics-based-animation)
+      - [BOOKS](#books)
     - [Climb System](#climb-system)
     - [AI](#ai)
     - [UGUI](#ugui)
@@ -218,6 +220,7 @@ Table of Contents
     - [Message Bus](#message-bus)
     - [Time control](#time-control)
     - [Movement](#movement)
+    - [Tips](#tips)
 - [GameReverse](#gamereverse)
 - [Data](#data)
     - [Exchange](#exchange)
@@ -303,6 +306,7 @@ Table of Contents
 - [gamedev](https://gamedev.net/)
 - [rust-gamedev](https://rust-gamedev.github.io/) 
 #### Graphics
+- [realtimerendering-papers](http://kesen.realtimerendering.com/)
 - [acm](https://dl.acm.org/loi/tog)
 - [replicability](https://replicability.graphics/index.html#project)
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
@@ -1611,6 +1615,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
  
 #### Course/Article
+- [Scratchapixel](/www.scratchapixel.com/)
 - [学习笔记：GAMES101-现代计算机图形学入门](https://blog.csdn.net/weixin_43803133/category_10303553.html)
 - [一个角色最终呈现在引擎里，美术制作上的思考以及注意事项](https://zhuanlan.zhihu.com/p/344991995)
 - [技术美术 (Technical Artist)](https://zhuanlan.zhihu.com/p/258861976)
@@ -1854,7 +1859,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [tech-artists](https://tech-artists.org/)
 - [artstation](https://www.artstation.com/)
 - [polycount](https://polycount.com/)
-- [realtimerendering-papers](http://kesen.realtimerendering.com/)
+
 
 #### GameEngine-Design-Blog-Artcile
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
@@ -2206,12 +2211,31 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
 - [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
 - [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
+#### Mesh Animation
+- https://github.com/SaiTingHu/MeshEditor.Effects
 #### Physics Based Animation
+- [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
 - [goatstream](https://www.goatstream.com/research/)
 - [animation](https://www.animation.rwth-aachen.de/)
 - [interactive-graphics](http://www.interactive-graphics.de/) 
 - [ActiveRagdoll](https://github.com/hobogalaxy/ActiveRagdoll)
+- [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
+##### BOOKS
+- [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
+- [Physics Modeling for Game Programmers](https://www.amazon.com/Physics-Modeling-Programmers-David-Conger/dp/1592000932/)
+- [Fluid Simulation for Computer Graphics](https://www.amazon.ca/Simulation-Computer-Graphics-Second-Edition/dp/1482232839)
+- [The Art of Fluid Animation](https://www.amazon.ca/Art-Fluid-Animation-Jos-Stam/dp/1498700209)
+- [Computer Animation: Algorithms and Techniques ](https://www.amazon.com/Computer-Animation-Third-Edition-Algorithms/dp/0124158420/ref=dp_ob_title_bk)
+- [Physics Based Animation](https://www.amazon.com/Physics-Based-Animation-Graphics-Erleben/dp/1584503807)
+- [Game Physics ](https://www.amazon.com/Physics-Morgan-Kaufmann-Interactive-Technology/dp/1558607404)
+- [Real-Time Collision Detection ](https://www.amazon.com/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323)
+- [Guide to Dynamic Simulations of Rigid Bodies and Particle Systems ](https://www.amazon.com/Simulations-Particle-Simulation-Foundations-Applications/dp/1447144163)
+- [Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game ](https://www.amazon.com/dp/0123819768/?tag=stackoverfl08-20)
+- [Game Physics Pearls](https://www.amazon.ca/Game-Physics-Pearls-Gino-Bergen/dp/1568814747)
+- [Fluid Engine Development](https://www.amazon.ca/Fluid-Engine-Development-Doyub-Kim/dp/1498719929)
+- [Foundations of Physically Based Modeling and Animation](https://www.amazon.ca/Foundations-Physically-Based-Modeling-Animation/dp/1482234602/)
+- [Cloth Simulation for Computer Graphic](https://www.amazon.ca/Cloth-Simulation-Computer-Graphics-Stuyck/dp/1681734117/)
 #### Climb System
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 #### AI
@@ -2435,6 +2459,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 -  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
 -  [AnimeTask](https://github.com/kyubuns/AnimeTask)
+#### Tips
+- RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 ## GameReverse
 - https://github.com/TonyChen56/GameReverseNote
 - https://github.com/mob-sakai/unity-activate
