@@ -133,6 +133,7 @@ Table of Contents
       - [Decal](#decal)
       - [Face](#face)
       - [Water](#water)
+      - [Crystal](#crystal)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
       - [Compute Shader](#compute-shader)
@@ -242,7 +243,8 @@ Table of Contents
 - http://www.onrpg.com/
 - https://www.mmorpg.com/
 - https://www.nephasto.com/blog/awesomegamedev.html
-- https://osgameclones.com/ 
+- https://osgameclones.com/
+- https://github.com/radek-sprta/awesome-game-remakes
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
 - https://github.com/utilForever/game-developer-roadmap 如何成为一个优秀的game程序员
 - https://github.com/Kavex/GameDev-Resources
@@ -316,6 +318,9 @@ Table of Contents
 - [Arm](https://developer.arm.com/solutions/graphics-and-gaming)
 - [vfx_good_night_reading](https://github.com/jtomori/vfx_good_night_reading)
 - [betterexplained](https://betterexplained.com/)
+- [dreamworks](https://research.dreamworks.com/)
+- [pixar](https://graphics.pixar.com/)
+- [disney](https://studios.disneyresearch.com/)
 #### Digest
 - [80.lv](https://80.lv/articles/digest) 
 - [game-dev-digest](https://gamedevdigest.com/digests.html)
@@ -715,6 +720,7 @@ Table of Contents
 - https://github.com/Fe-Elf/FeELib-for-Houdini 精灵超可爱 
 - https://www.autodesk.com/products/3ds-max/overview max
 - https://www.autodesk.com/products/maya/overview maya
+- https://www.reddit.com/r/Maya/wiki/index
 - https://www.foundry.com/products/modo modo
 - https://www.cheetah3d.com/ cheetah3d
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
@@ -771,7 +777,6 @@ Table of Contents
 #### List-of-game-middleware
 - https://en.wikipedia.org/wiki/List_of_game_middleware
 #### CG Software API
-
 * [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
 * [Cortex](https://github.com/ImageEngine/cortex) - Libraries for VFX software development
 * [Cross3D](https://github.com/blurstudio/cross3d) - Scene and node management abstraction
@@ -805,13 +810,14 @@ Table of Contents
 - [cubemapgen](https://gpuopen.com/archived/cubemapgen/)
 - [PixPlant](https://www.pixplant.com/) PixPlant is a smart texturing app with the best tools to quickly transform a photo into seamless repeating textures and 3D maps. 
 - [Affinity Designer](https://affinity.serif.com/de/designer/) - Vector graphics editor with a bunch of features which also supports Adobe file formats
+- [doodad](https://doodad.dev/)
 ###### PIX-Texture
 - [pixelover](https://deakcor.itch.io/pixelover)
 - [spritemate](http://www.spritemate.com/)
 - [pixelatorapp](http://pixelatorapp.com/) Pixelator is a smart software to convert images into pixel art sprites and cover arts. With Pixelator you can use any source picture to easily generate Pixelated graphics for games or posters.
--  [PiskelApp](https://www.piskelapp.com/) Piskel is a free online editor for animated sprites & pixel art
--  [ProMotion](https://www.cosmigo.com/) pro motion is a pixel drawing and animation software designed similar to the famous Amiga Deluxe Paint (DPaint). Ideal for artists working on detailed and pixel precise graphics as required for mobile games and portable game consoles. It also suites well to create light weight graphics for web games.
--  [pixenapp](https://pixenapp.com/) Pixen is a professional pixel art editor designed for working with low-resolution raster art, such as those 8-bit sprites found in old-school video games. Pixen packs all the tools pixel artists need in an intuitive, native interface including support for high zoom levels, animation editing, color palettes, and a lot more.
+- [PiskelApp](https://www.piskelapp.com/) Piskel is a free online editor for animated sprites & pixel art
+- [ProMotion](https://www.cosmigo.com/) pro motion is a pixel drawing and animation software designed similar to the famous Amiga Deluxe Paint (DPaint). Ideal for artists working on detailed and pixel precise graphics as required for mobile games and portable game consoles. It also suites well to create light weight graphics for web games.
+- [pixenapp](https://pixenapp.com/) Pixen is a professional pixel art editor designed for working with low-resolution raster art, such as those 8-bit sprites found in old-school video games. Pixen packs all the tools pixel artists need in an intuitive, native interface including support for high zoom levels, animation editing, color palettes, and a lot more.
 - [pyxeledit](https://pyxeledit.com/)
 - [aseprite](http://www.aseprite.org/)
 - [GrafX2](http://pulkomandy.tk/projects/GrafX2)
@@ -863,7 +869,7 @@ Table of Contents
 - https://github.com/jsakamoto/XProcess 命令行
 - https://github.com/adamralph/simple-exec 命令行
 - https://github.com/adamralph/bullseye 
-
+- https://commanddotnet.bilal-fazlani.com/
 
 ## Scene
 #### Terrain
@@ -901,6 +907,7 @@ Table of Contents
 - [SPORE-Creature-Creator](https://github.com/daniellochner/SPORE-Creature-Creator) Procedurally generate creatures in Unity - inspired by the incredible game, Spore!
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) blender plugin proceDurally spaceShip
 - [3DWorld](https://github.com/fegennari/3DWorld)
+- [DeBroglie](https://boristhebrave.github.io/DeBroglie/) Generate tile based maps using Wave Function Collapse
 - [Edgar-Unity](https://github.com/OndrejNepozitek/Edgar-Unity)
 - [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)
 - [cityengine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
@@ -1040,7 +1047,7 @@ Table of Contents
 - [smooth-sync-unity-plugin](https://assetstore.unity.com/packages/tools/network/smooth-sync-96925) unity-plugin
 - [dedicated-server-physics-synchronization](https://assetstore.unity.com/packages/tools/physics/dedicated-server-physics-synchronization-160594?locale=zh-CN) unity-plugin
 - [帧同步联机战斗（预测，快照，回滚）](https://zhuanlan.zhihu.com/p/38468615)
-
+- [游戏服务端的高并发和高可用](https://zhuanlan.zhihu.com/p/342953318)
 #### Lockstep
 - http://netcoding4d.com/
 - https://cloud.tencent.com/product/mgobe
@@ -1440,7 +1447,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [cglm](https://github.com/recp/cglm)  Highly Optimized Graphics Math (glm) for C
 - [red3d](http://www.red3d.com)
 - [Realtime Math ](https://github.com/nfrechette/rtm)
-- [vectorial](https://github.com/scoopr/vectorial) Vector math library with NEON/SSE support 
+- [vectorial](https://github.com/scoopr/vectorial) Vector math library with NEON/SSE support
+- [MaxMath](https://github.com/MrUnbelievable92/MaxMath)
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -1465,6 +1473,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [空间划分](https://www.cnblogs.com/KillerAery/p/10878367.html)
 - 游戏相关的几何分支:欧式几何、射影几何、微分几何、代数几何和非交换几何
 - [comparison with math libraries](https://nfrechette.github.io/2019/01/19/introducing_realtime_math/)
+- [线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
 ## Physics Framework
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
@@ -1762,6 +1771,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [[2017.8]半透明的绘制顺序与接收阴影问题](https://zhuanlan.zhihu.com/p/113399133)
 - [unity 半透明渲染技巧合集](https://zhuanlan.zhihu.com/p/123023614)
 - [图形学|shader|用一篇文章理解半透明渲染、透明度测试和混合、提前深度测试并彻底理清渲染顺序。](https://zhuanlan.zhihu.com/p/263566318)
+- [to-z-prepass-or-not-to-z-prepass](https://interplayoflight.wordpress.com/2020/12/21/to-z-prepass-or-not-to-z-prepass/)
 ##### Decal
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
@@ -1780,7 +1790,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/Verasl/BoatAttack water
 - https://github.com/eliasts/Ocean_Community_Next_Gen
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
-
+##### Crystal
+- https://github.com/CJT-Jackton/URP-Anime-Crystal-Shader
 ##### Comon-Collection
 - [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository)
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)
@@ -1791,6 +1802,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/CrowFea/ShaderToy
 - https://github.com/KaimaChen/Unity-Shader-Demo
 - https://github.com/marcozakaria/URP-LWRP-Shaders
+- [InfinityRenderPipeline](https://github.com/haolange/InfinityRenderPipeline) Extreme Graphics Research for Unity Scriptable Render Pipeline(SRP). 
 - https://github.com/madumpa/URP_StylizedLitShader
 - [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches)
 - https://github.com/przemyslawzaworski/Unity3D-CG-programming
@@ -1807,6 +1819,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [[Universal RP]Unity通用渲染管线学习](https://zhuanlan.zhihu.com/p/84908168)
 - [HDRP高清渲染管线-学习资料汇总](https://connect.unity.com/p/hdrpgao-qing-xuan-ran-guan-xian-xue-xi-zi-liao-hui-zong)
 - [Unity自定义可编程渲染管线(SRP)](https://www.zhihu.com/column/c_1249285959101227008)
+- [How the URP unlocks games for you](https://zhuanlan.zhihu.com/p/105941187)
 ##### UI
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
@@ -2117,7 +2130,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/insthync/awesome-unity3d
 - https://github.com/RyanNielson/awesome-unity
 - https://github.com/Warl-G/GRUnityTools 
-
+- https://gdx.dotbunny.com/
 #### AssetBundle
 - [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
@@ -2322,6 +2335,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
 - [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) Alternative to Unity's NavMesh system where the agents avoid each other. 
+- [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
 #### Tile map 
  - Isometric
  - Ultimate Grids Engine
@@ -2335,7 +2349,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [AutomaticDynamicBone](https://github.com/OneYoungMean/AutomaticDynamicBone)
  - [uSpringBone](https://github.com/EsProgram/uSpringBone)
  - [Unity-DynamicBone-JobSystem-Opmized](https://github.com/dreamfairy/Unity-DynamicBone-JobSystem-Opmized)
- 
+ - [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics)
  
  
  #### Texture
@@ -2441,6 +2455,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [edriven](https://github.com/dkozar/edriven) - Event-driven / asynchronous framework for Unity3d
 - [Brighter](https://github.com/BrighterCommand/Brighter) Command Dispatcher, Processor, and Distributed Task Queue 
 - [signals](https://github.com/supyrb/signals)
+- [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
@@ -2505,12 +2520,13 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://www.kwgg2020.com/
 - https://jianwai.youdao.com/
 - https://github.com/zhaoolee/OnlineToolsBook 集锦
+- https://github.com/csdjk/ToolsShare
 - https://masuit.com/
 - http://www.qijishow.com/down/navigation.html
 - https://www.iamxk.com/navigation
 - https://xclient.info/s/
 - https://github.com/cunyu1943/amazing-websites
-
+- http://www.gfxcamp.com/houdini-185462/
  
 
 ## workflow
