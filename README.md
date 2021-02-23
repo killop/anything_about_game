@@ -5,6 +5,7 @@ Table of Contents
 - [News](#news)
     - [Game](#game)
     - [Graphics](#graphics)
+    - [CG](#cg)
     - [Digest](#digest)
     - [Common](#common)
     - [Js/Web](#jsweb)
@@ -147,7 +148,6 @@ Table of Contents
     - [MatCaps](#matcaps)
     - [Material-Cleaner](#material-cleaner)
     - [Color](#color)
-    - [WebSite/Blog](#websiteblog)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
   - [FPS](#fps)
 - [Interview/DataStruct-Algorithms](#interviewdatastruct-algorithms)
@@ -179,6 +179,7 @@ Table of Contents
 - [Unity](#unity)
     - [Awesome-Unity](#awesome-unity)
     - [AssetBundle](#assetbundle)
+    - [AutoUpdate](#autoupdate)
     - [Framework](#framework-1)
     - [UI](#ui-1)
     - [Moba](#moba)
@@ -247,6 +248,7 @@ Table of Contents
 - https://github.com/radek-sprta/awesome-game-remakes
 - https://zeef.com/?query=tag%3Aunity3d&in=null&start=10
 - https://github.com/utilForever/game-developer-roadmap 如何成为一个优秀的game程序员
+- [gamextech](https://github.com/miloyip/gamextech) A web-based knowledge management system for visualizing game related technologies.
 - https://github.com/Kavex/GameDev-Resources
 - https://github.com/raizam/gamedev_libraries
 - https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
@@ -321,8 +323,16 @@ Table of Contents
 - [dreamworks](https://research.dreamworks.com/)
 - [pixar](https://graphics.pixar.com/)
 - [disney](https://studios.disneyresearch.com/)
+#### CG
+- [artstation](https://www.artstation.com/)
+- [tech-artists](https://tech-artists.org/)
+- [cgchannel](http://www.cgchannel.com/)
+- [polycount](https://polycount.com/)
+- [80.lv](https://80.lv/)  
+- [deviantart](https://www.deviantart.com/)
+- [cgjoy](https://www.cgjoy.com/)
+- [element3ds](https://www.element3ds.com/)
 #### Digest
-- [80.lv](https://80.lv/articles/digest) 
 - [game-dev-digest](https://gamedevdigest.com/digests.html)
 #### Common
 - https://www.libhunt.com/
@@ -356,6 +366,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### Chinese
+- [mayidong](http://ma-yidong.com/blog/)
 - [skywind](http://www.skywind.me/blog/)
 - [行尸走肉的笔记](http://walkingfat.com/)
 - [TraceYang的空间 关注跨平台次世代游戏开发](https://www.cnblogs.com/TracePlus/default.html?page=2)
@@ -863,6 +874,7 @@ Table of Contents
 - [srdebugger](https://assetstore.unity.com/packages/tools/gui/srdebugger-console-tools-on-device-27688) unity-plugin
 - [debugging-essentials](https://assetstore.unity.com/packages/tools/utilities/debugging-essentials-170773) unity-plugin
 - [hdg-remote-debug](https://assetstore.unity.com/packages/tools/utilities/hdg-remote-debug-live-update-tool-61863) unity-plugin
+- [UnityExplorer](https://github.com/sinai-dev/UnityExplorer)
 - https://github.com/natemcmaster/CommandLineUtils 命令行
 - https://github.com/Tyrrrz/CliFx 命令行
 - https://github.com/Tyrrrz/CliWrap 命令行
@@ -962,6 +974,7 @@ Table of Contents
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
 * [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
 ## Metadata/Excel/Schema/Proto
+- [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
 - https://github.com/NtreevSoft/Crema
 - https://github.com/vriad/zod
 - https://github.com/ExpediaGroup/stream-registry
@@ -1820,6 +1833,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [HDRP高清渲染管线-学习资料汇总](https://connect.unity.com/p/hdrpgao-qing-xuan-ran-guan-xian-xue-xi-zi-liao-hui-zong)
 - [Unity自定义可编程渲染管线(SRP)](https://www.zhihu.com/column/c_1249285959101227008)
 - [How the URP unlocks games for you](https://zhuanlan.zhihu.com/p/105941187)
+- [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)
 ##### UI
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
@@ -1868,10 +1882,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [配色网站一锅端](http://www.fenxitu.cn/peise/web.php)
 - [物理学大神如何研究颜色](https://www.bilibili.com/read/cv9334842?from=category_0)
 - https://opencolorio.org/
-#### WebSite/Blog
-- [tech-artists](https://tech-artists.org/)
-- [artstation](https://www.artstation.com/)
-- [polycount](https://polycount.com/)
+
+
 
 
 #### GameEngine-Design-Blog-Artcile
@@ -2141,6 +2153,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [assetUpdater](https://github.com/sNaticY/assetUpdater-core) AssetUpdater is a Unity plugin which helps developers build assetbundles and download it easily 
 - [AddressableTools](https://github.com/UniGameTeam/UniGame.AddressableTools) Addressables utils for Unity3D
 - [addressable-asset-system-chinese-manual](https://github.com/xiexx-game/addressable-asset-system-chinese-manual)
+- [EZAddresser](https://github.com/Haruma-K/EZAddresser)
+#### AutoUpdate
+- https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
 #### Framework
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
@@ -2571,7 +2586,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
 * [GameAndUnity](https://github.com/m969/GameAndUnity-TechLib)
- 
+* [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
 这里主要是小伙伴们一起收集的跟游戏相关的精粹
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
 进群后跟群主(我)申请就好，群主是个很乐意分享的人
