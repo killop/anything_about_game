@@ -1,1 +1,1 @@
-- [RaycastCommand](httpsdocs.unity3d.comScriptReferenceRaycastCommand.html)
+- [RaycastCommand](https://docs.unity3d.com/ScriptReference/RaycastCommand.html)

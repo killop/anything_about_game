@@ -1815,6 +1815,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/CrowFea/ShaderToy
 - https://github.com/KaimaChen/Unity-Shader-Demo
 - https://github.com/marcozakaria/URP-LWRP-Shaders
+- https://github.com/haolange/ImproveUniversalRenderPipeline
+- https://github.com/you-ri/LiliumToonGraph
 - [InfinityRenderPipeline](https://github.com/haolange/InfinityRenderPipeline) Extreme Graphics Research for Unity Scriptable Render Pipeline(SRP). 
 - https://github.com/madumpa/URP_StylizedLitShader
 - [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches)
