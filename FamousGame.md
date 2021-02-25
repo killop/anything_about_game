@@ -30,6 +30,8 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - [《火影忍者：究级风暴》渲染技术究极解析](https://gameinstitute.qq.com/community/detail/106712)
 ## 楚留香
 - [楚留香《一梦江湖》捏脸美术制作和渲染分析](https://zhuanlan.zhihu.com/p/76979718)
+## 《盗墓笔记》使用的这套技术，让美术可以在场景中任意使用灯光
+- [《盗墓笔记》使用的这套技术，让美术可以在场景中任意使用灯光](https://zhuanlan.zhihu.com/p/337286513)
 ## war3
 - [War3Net](https://github.com/Drake53/War3Net) A .NET implementation of Warcraft III related libraries.
 ## 崩坏3

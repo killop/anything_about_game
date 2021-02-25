@@ -224,6 +224,7 @@ Table of Contents
     - [Movement](#movement)
     - [Tips](#tips)
 - [GameReverse](#gamereverse)
+    - [GamePlay](#gameplay)
 - [Data](#data)
     - [Exchange](#exchange)
     - [DataVisual&&Editor](#datavisualeditor)
@@ -1061,6 +1062,10 @@ Table of Contents
 - [dedicated-server-physics-synchronization](https://assetstore.unity.com/packages/tools/physics/dedicated-server-physics-synchronization-160594?locale=zh-CN) unity-plugin
 - [帧同步联机战斗（预测，快照，回滚）](https://zhuanlan.zhihu.com/p/38468615)
 - [游戏服务端的高并发和高可用](https://zhuanlan.zhihu.com/p/342953318)
+- [某百万DAU游戏的服务端优化工作](https://zhuanlan.zhihu.com/p/341855913)
+- [网络游戏开发中的通讯杂谈](https://zhuanlan.zhihu.com/p/347389861)
+- [端游、手游服务端常用的架构是什么样的？](https://www.zhihu.com/question/29779732/answer/45791817)
+- [网络游戏同步技术概述](https://zhuanlan.zhihu.com/p/56923109)
 #### Lockstep
 - http://netcoding4d.com/
 - https://cloud.tencent.com/product/mgobe
@@ -1261,6 +1266,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### Article/Course
 - https://isetta.io/resources/
 - https://ourmachinery.com/
+- [多线程渲染](https://zhuanlan.zhihu.com/p/44116722)
+- [UE4 关于主循环的资料](https://zhuanlan.zhihu.com/p/225465983)
 #### 2D Engines and Frameworks
 * [Agen](http://2dengine.com/page.php?p=features) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 * [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. :o2:
@@ -1945,6 +1952,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [CPU Cache Latency](https://gist.github.com/hellerbarde/2843375)
 - [Linux内存 -1](https://mp.weixin.qq.com/s/Aj-A5ltGJoD5fkFiMlhjoA)
 - [Linux内存 -2](https://mp.weixin.qq.com/s/EvU7pV51ctPooREQt_8SaQ)
+- [Cache的基本原理](https://zhuanlan.zhihu.com/p/102293437)
 - [打开线程 | 进程 | 协程的大门 ](https://mp.weixin.qq.com/s/RLlNHgW6ilMqoFVHXf6x6g)   
 #### IO
 - [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
@@ -2496,6 +2504,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ## GameReverse
 - https://github.com/TonyChen56/GameReverseNote
 - https://github.com/mob-sakai/unity-activate
+#### GamePlay
+- [我开发的角色动作系统概述-战斗,3C相关](https://zhuanlan.zhihu.com/p/67143501)
 ## Data
 #### Exchange
 - https://github.com/Cinchoo/ChoETL ETL Framework for .NET / c# (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml formatted files) 
