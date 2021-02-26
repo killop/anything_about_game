@@ -2430,7 +2430,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
-* [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code
+* [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code  
+* [Smart Hierarchy](https://github.com/neon-age/Smart-Hierarchy) Better hierarchy plugins for Unity  
 
 #### Asset-Management
 - [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
