@@ -309,6 +309,7 @@ Table of Contents
 #### Game
 - [indienova](https://indienova.com/)
 - [gamedev](https://gamedev.net/)
+- [gamefromscratch](https://gamefromscratch.com)
 - [rust-gamedev](https://rust-gamedev.github.io/) 
 #### Graphics
 - [realtimerendering-papers](http://kesen.realtimerendering.com/)
@@ -318,6 +319,7 @@ Table of Contents
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
 - [unity-grenoble](https://unity-grenoble.github.io/website/)
+- [ea.seed](https://www.ea.com/seed)
 - [Arm](https://developer.arm.com/solutions/graphics-and-gaming)
 - [vfx_good_night_reading](https://github.com/jtomori/vfx_good_night_reading)
 - [betterexplained](https://betterexplained.com/)
@@ -457,6 +459,7 @@ Table of Contents
 - [xoofx](https://xoofx.com/blog/) c# 
 - [realtimecollisiondetection](https://realtimecollisiondetection.net/blog/)
 - [imgeself](https://imgeself.github.io/posts/) TA
+- [lidia-martinez](http://blog.lidia-martinez.com/) TA
 - [Hallucinations ](http://c0de517e.blogspot.com/)
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
@@ -1053,6 +1056,7 @@ Table of Contents
 - https://github.com/naia-rs/naia
 - https://github.com/coolspeed/century
 - https://www.networknext.com/
+- https://github.com/DukeChiang/DCET
 #### Article
 - [gafferongames](https://gafferongames.com/ )
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
@@ -2259,6 +2263,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [interactive-graphics](http://www.interactive-graphics.de/) 
 - [ActiveRagdoll](https://github.com/hobogalaxy/ActiveRagdoll)
 - [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
+- [binh.graphics](http://binh.graphics/)
 ##### BOOKS
 - [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
 - [Physics Modeling for Game Programmers](https://www.amazon.com/Physics-Modeling-Programmers-David-Conger/dp/1592000932/)
@@ -2331,7 +2336,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [GoKit](https://github.com/prime31/GoKit) Lightweight tween library for Unity aimed at making tweening objects dead simple and completely flexible. The wiki contains some usage information and examples.
 * [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
 * [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API
-
+* [ApureEasing](https://github.com/kyubuns/ApureEasing) Easing library for Unity Visual Scripting 
 #### Scriptable Object
 * [ScriptableObjectCollection](https://github.com/brunomikoski/ScriptableObjectCollection) The ScriptableObjectCollection exists to help you deal with scriptable objects without losing your sanity! Its a set of tools that will make your life a lot easier.
 * [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
@@ -2402,6 +2407,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin
  - [Mount Points](https://assetstore.unity.com/packages/tools/animation/mount-points-16318) unity-plugin
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
+ - [mudbun-volumetric-vfx-mesh](https://assetstore.unity.com/packages/tools/particles-effects/mudbun-volumetric-vfx-mesh-tool-177891) unity plugin
+ - [clayxels](https://assetstore.unity.com/packages/tools/game-toolkits/clayxels-165312) unity plugin
  -  https://github.com/nementic-games/mesh-debugging
  - [BakerBoy](https://github.com/Fewes/BakerBoy) A tiny GPU-based ambient occlusion and bent normal baker for Unity
  - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
