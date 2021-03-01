@@ -927,6 +927,7 @@ Table of Contents
 - [Edgar-Unity](https://github.com/OndrejNepozitek/Edgar-Unity)
 - [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)
 - [cityengine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
+- https://www.raywenderlich.com/3169311-runtime-mesh-manipulation-with-unity
 #### Tree/Vegetation/Grass
 - [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
@@ -1741,6 +1742,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [这是一个Unity HDRP 卡通渲染管线，我会将学习到的NPR技术不断完善到这个管线中](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline)
 - [到目前为止的二次元渲染总结](https://zhuanlan.zhihu.com/p/126668414)
 - [Unity中二次元渲染算法总汇](https://zhuanlan.zhihu.com/p/69260586)
+- [程序干货：日式卡通渲染基础技术](https://zhuanlan.zhihu.com/p/352347502)
 - [Sunao Shader](https://booth.pm/ja/items/1723985)
 - https://github.com/poiyomi/PoiyomiToonShader
 - https://github.com/Xiexe/Xiexes-Unity-Shaders
@@ -1968,6 +1970,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [聊聊BIO，NIO和AIO](https://www.jianshu.com/p/ef418ccf2f7d)
 - [深度解析nio、epoll多路复用等网络编程模型](https://www.bilibili.com/video/BV1bK41177Mo/)
 - [清华大牛权威讲解nio,epoll,多路复用](https://www.bilibili.com/video/BV11K4y1C7rm?p=2)
+- [网络 IO 演变过程](https://zhuanlan.zhihu.com/p/353692786)
 - [Linux I/O 原理和 Zero-copy 技术全面揭秘](https://zhuanlan.zhihu.com/p/308054212)
 - [Linux 内核详解以及内核缓冲区技术](https://blog.csdn.net/qq_44919483/article/details/89509559)
 
