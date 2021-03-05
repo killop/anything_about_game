@@ -212,6 +212,7 @@ Table of Contents
     - [Texture](#texture-1)
     - [Create Model](#create-model)
     - [Mesh](#mesh-1)
+      - [Fracture Mesh](#fracture-mesh)
     - [Atlas](#atlas)
     - [Fog](#fog)
     - [Volumetric Mesh](#volumetric-mesh)
@@ -1521,6 +1522,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.bepuentertainment.com/
 - https://samuelpmish.github.io/notes/RocketLeague/#_navigation
 - https://github.com/devnio/Flowmo
+- https://parry.rs/
+- https://rapier.rs/
 
 ## Fluid
 - [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
@@ -1619,6 +1622,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) Helix Toolkit is a collection of 3D components for .NET Framework.
 - [SharpGame](https://github.com/BobbyBao/SharpGame) 基于Vulkan的多线程渲染引擎，采用C#9.0开发，支持.Net5.0
 - [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) C# bindings for the bgfx graphics library 
+- https://github.com/egorodet/MethaneKit
 #### Collection
 - [realtimerendering](http://www.realtimerendering.com/) 
 - https://github.com/luisnts/awesome-computer-graphics
@@ -1878,6 +1882,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Color
 - [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhih  u.com/p/23905865)
 - [Photoshop blending modes in glsl ](https://github.com/jamieowen/glsl-blend)
+- [blending modes](https://www.shadertoy.com/view/XdS3RW)
 - [色彩空间基础](https://zhuanlan.zhihu.com/p/24214731)
 - [漫谈HDR和色彩管理](https://zhuanlan.zhihu.com/p/129095380)
 - [色彩原理](https://docs.krita.org/zh_CN/general_concepts/colors.html)
@@ -2048,6 +2053,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ## Lua
 - http://cloudwu.github.io/lua53doc/manual.html
 - [Rxlua](https://github.com/bjornbytes/RxLua)
+- https://github.com/iwiniwin/LuaKit
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
@@ -2207,6 +2213,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/HalfLobsterMan/SkillSystem
 - [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
 - https://github.com/jewer3330/plato timeline skill
+- https://github.com/PxGame
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
 - [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
@@ -2389,6 +2396,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  #### Texture
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
+* [SmartTexture](https://github.com/phi-lira/SmartTexture) Unity tool to pack texture channels into a single texture. 
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
 * [mixture](https://openupm.com/packages/com.alelievr.mixture/) Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime. Mixture is very flexible, easily customizable through ShaderGraph and a simple C# API, fast with it's GPU based workflow and compatible with all the render pipelines thanks to the new Custom Render Texture API.
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
@@ -2423,6 +2431,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes meshes smaller and faster to render 
  - [trimesh](https://github.com/mikedh/trimesh) Python library for loading and using triangular meshes. 
  - [meshio](https://github.com/nschloe/meshio) There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts between them
+##### Fracture Mesh
+- https://gitlab.com/dima13230/unity-libre-fracture
 #### Atlas
 - [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
 - [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool 
