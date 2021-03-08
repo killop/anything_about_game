@@ -93,6 +93,7 @@ Table of Contents
     - [Article/Course](#articlecourse)
     - [2D Engines and Frameworks](#2d-engines-and-frameworks)
     - [3D Engines and Frameworks](#3d-engines-and-frameworks)
+- [Creative Code](#creative-code)
 - [并发执行和多线程](#并发执行和多线程)
     - [CPP](#cpp)
     - [C](#c-3)
@@ -135,6 +136,7 @@ Table of Contents
       - [Face](#face)
       - [Water](#water)
       - [Crystal](#crystal)
+      - [Ice](#ice)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
       - [Compute Shader](#compute-shader)
@@ -170,6 +172,7 @@ Table of Contents
 - [C](#c-7)
 - [CPP](#cpp-1)
 - [Java](#java-1)
+- [GPGPU](#gpgpu)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
     - [Garbage Collector](#garbage-collector)
@@ -887,6 +890,11 @@ Table of Contents
 - https://github.com/adamralph/simple-exec 命令行
 - https://github.com/adamralph/bullseye 
 - https://commanddotnet.bilal-fazlani.com/
+- https://github.com/gwaredd/unium
+- https://assetstore.unity.com/packages/tools/utilities/hdg-remote-debug-live-update-tool-61863
+- https://github.com/proletariatgames/CUDLR
+- https://github.com/Sacred-Seed-Studio/Unity-File-Debug
+- https://github.com/DragonBox/u3d
 
 ## Scene
 #### Terrain
@@ -1109,6 +1117,7 @@ Table of Contents
 - https://github.com/Dogwei/Swifter.Json  C#
 
 ## DataBase
+- https://github.com/dolthub/dolt
 #### c#
 - [realm](https://github.com/realm/realm-dotnet) Realm is a mobile database: a replacement for SQLite & ORMs 
 - [LiteDB](https://github.com/mbdavid/LiteDB) LiteDB - A .NET NoSQL Document Store in a single data file 
@@ -1329,7 +1338,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine. :o2:
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
-* [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
+
 * [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 * [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python. :free:
 * [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games. :heavy_dollar_sign:
@@ -1401,6 +1410,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [skylicht-engine](https://github.com/skylicht-lab/skylicht-engine) Skylicht Engine is C++ Game Engine based on Irrlicht 3D
 - [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
 - [rbfx](https://github.com/rokups/rbfx)
+## Creative Code
+- https://github.com/jasonwebb/morphogenesis-resources
+- [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
+- http://structuresynth.sourceforge.net/
 ## 并发执行和多线程
 #### CPP
 *   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
@@ -1809,6 +1822,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [Easy Decal](https://assetstore.unity.com/packages/tools/utilities/easy-decal-22867)
 * [Decal Master: Advanced Deferred Decals](https://assetstore.unity.com/packages/tools/utilities/decal-master-advanced-deferred-decals-145432)
 * [kDecals](https://github.com/Kink3d/kDecals) kDecals is a system for definition, placement and rendering of projection Decals in Unity's Universal Render Pipeline
+* [DynamicDecals](https://github.com/EricFreeman/DynamicDecals)
  ##### Face
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
 ##### Water
@@ -1822,6 +1836,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
 ##### Crystal
 - https://github.com/CJT-Jackton/URP-Anime-Crystal-Shader
+##### Ice
+- https://github.com/daniel-ilett/shaders-ice
 ##### Comon-Collection
 - [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository)
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)
@@ -2091,7 +2107,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [COLA](https://github.com/alibaba/COLA) Clean Object-Oriented and Layered Architecture
 - [SnowJena](https://github.com/ystcode/SnowJena) SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景。
 - [jodd](https://github.com/oblac/jodd)(Produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.)
-
+## GPGPU
+- https://github.com/tech-quantum/Amplifier.NET
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
 - https://github.com/ttroy50/cmake-examples
@@ -2155,7 +2172,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
 ## Unity
 
-#### Awesome-Unity 
+#### Awesome-Unity
+- https://github.com/michidk/Unity-Script-Collection
 - [needle](https://needle.tools/package-reference/)
 - https://github.com/agarcialeon/awesome-unity#awesome-unity 
 - https://github.com/baba-s/awesome-unity-open-source-on-github
@@ -2166,6 +2184,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/RyanNielson/awesome-unity
 - https://github.com/Warl-G/GRUnityTools 
 - https://gdx.dotbunny.com/
+- https://github.com/UnityCommunity/UnityLibrary
 #### AssetBundle
 - [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
@@ -2318,6 +2337,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/bradsc0tt/Unity-Extended-Transform-Editor
 - [PlayHooky](https://github.com/wledfor2/PlayHooky) PlayHooky is a simple C# Class that can be used to hook C# Methods at runtime.
 - https://github.com/doitian/unity-git-hooks
+- https://github.com/SirHall/Excessives
+- https://github.com/prime31/UtilityKit
+- https://github.com/laurenth-personal/lightmap-switching-tool
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -2365,12 +2387,16 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
-* [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances. 
+* [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job 
+* System performances. 
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
 * [actors](https://github.com/PixeyeHQ/actors.unity)
 * [ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)
 * [UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation)
+* https://github.com/nothke/UnityDOTSGotchas
+* https://github.com/Tree37/Unity-DOTS-RTS-Collision-System
+* https://github.com/unitycoder/Unity-DOTS-RTS-Collision-System
 #### Navmesh
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
@@ -2404,6 +2430,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [CC0Textures](https://github.com/keijiro/CC0TexturesUtils) Unity Editor scripts for preprocessing CC0 Textures 
 - https://cc0textures.com/ CC0 Textures is a library of high quality PBR materials for 3D rendering and game design licensed under the Creative Commons CC0 License. 
 - [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation 
+- https://github.com/weihaox/awesome-image-translation
  #### Create Model
  - [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-2-x-111418)
  - [Archimatix](https://assetstore.unity.com/packages/tools/modeling/archimatix-pro-59733)

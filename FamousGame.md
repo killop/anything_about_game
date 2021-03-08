@@ -16,6 +16,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - [《原神》部分效果的个人理解](https://zhuanlan.zhihu.com/p/246531456)
 - [原神图形技术简析及杂谈](https://zhuanlan.zhihu.com/p/260824391)
 - [](https://www.bilibili.com/video/BV1pt411w7jX)
+- https://qiita.com/uynet/items/f8b087d47f5cf316eb7e
 ## 塞尔达传说：荒野之息
 - [为你分析历代《塞尔达传说》的美术设定与动画技术](https://www.taptap.com/topic/2604022?region=jp)
 - [《塞尔达传说：旷野之息》技术分析文章](https://www.bilibili.com/read/cv3239418)
