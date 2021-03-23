@@ -126,6 +126,7 @@ Table of Contents
     - [Ray Tracing](#ray-tracing)
       - [NPR](#npr)
     - [SDF](#sdf)
+    - [VirturalTexture](#virturaltexture)
     - [Occlusion Culling](#occlusion-culling)
     - [Unity-Shader](#unity-shader)
       - [Article](#article-4)
@@ -773,6 +774,7 @@ Table of Contents
 - [hairstudio](https://assetstore.unity.com/packages/tools/modeling/hairstudio-early-access-164661) 
 - [ephere](https://ephere.com/)
 - https://cgpal.com/fibershop/
+- [flux-dynamic-hair](https://assetstore.unity.com/packages/tools/animation/flux-dynamic-hair-skirt-tail-bone-control-tool-164940?)
 ##### Human
 - [poser](https://www.posersoftware.com/) 
 - [daz3d](https://www.daz3d.com/home)
@@ -1177,6 +1179,7 @@ Table of Contents
 - https://github.com/JosefPihrt/Orang file opreation
 - https://github.com/System-IO-Abstractions/System.IO.Abstractions
 - https://github.com/Singulink/Singulink.IO.FileSystem 
+- https://github.com/tagcode/Lexical.FileSystem
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 
 ## Hash
@@ -1537,6 +1540,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/devnio/Flowmo
 - https://parry.rs/
 - https://rapier.rs/
+- https://github.com/fxredeemer/jitterphysics
 
 ## Fluid
 - [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
@@ -1793,6 +1797,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 * [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
 
+#### VirturalTexture
+- https://github.com/jackie2009/VirturalTextureFast
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
@@ -2109,6 +2115,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [jodd](https://github.com/oblac/jodd)(Produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.)
 ## GPGPU
 - https://github.com/tech-quantum/Amplifier.NET
+- https://www.ilgpu.net/
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
 - https://github.com/ttroy50/cmake-examples
@@ -2356,7 +2363,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [vertexmotion](https://assetstore.unity.com/packages/tools/animation/vertexmotion-pro-25127)
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
-
+- [Dynamic Radial Masks](https://assetstore.unity.com/packages/vfx/shaders/dynamic-radial-masks-144845)
 #### Tween
 - [Tween Player](https://assetstore.unity.com/packages/tools/animation/tween-player-158922) This is a simple & high performance & powerful interpolation animation tool. Unlike other interpolation animation tools, Tween Player is more data-driven and extensible. 
 - [dotween-pro](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416) famous unity plugin
@@ -2497,6 +2504,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [A+ Assets Explorer](https://assetstore.unity.com/packages/tools/utilities/a-assets-explorer-57335)
 - [AssetBundle加密-fair-guard](https://www.fair-guard.com)
 - [Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker)
+- https://github.com/ZxIce/AssetCheck
 - https://github.com/Unity-Technologies/asset-auditing-tools
 - https://github.com/MarkUnity/AssetAuditor
 - https://github.com/charcolle/CustomAssetImporter
@@ -2641,6 +2649,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://wallhaven.cc/ 壁纸网站
 - https://github.com/Odaimoko/ACE-CPT-Notes 程序员如何健身
 - https://zhuanlan.zhihu.com/p/130216185 电子书下载
+- https://github.com/pipiliang/hello-comic  程序员漫画
 ## 友情链接 
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
