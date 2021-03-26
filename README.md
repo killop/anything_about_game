@@ -110,6 +110,9 @@ Table of Contents
     - [Common](#common-1)
     - [GPU](#gpu)
 - [ComputerGraphics && Shading](#computergraphics--shading)
+    - [Conference](#conference)
+    - [Journal](#journal)
+    - [Group](#group)
     - [Graphics-Library](#graphics-library)
     - [SoftWare-Render](#software-render)
     - [3rd-Binding](#3rd-binding)
@@ -428,6 +431,7 @@ Table of Contents
 - [Yimi的小天地](https://yimicgh.top/)
 - [manistein](https://manistein.github.io/blog/)
 - [蒋信厚](https://jiangxh1992.github.io/)
+- [aicdg](http://aicdg.com/) cs
 - [只剩一瓶辣椒酱](https://space.bilibili.com/35723238)  b站 blender 教程
 - [庄懂-BoyanTat](https://space.bilibili.com/6373917/video) b站 美术向TA
 - [Flynnmnn](https://space.bilibili.com/398411802?spm_id_from=333.788.b_765f7570696e666f.2)  b站 unity shader 教程
@@ -466,6 +470,7 @@ Table of Contents
 - [imgeself](https://imgeself.github.io/posts/) TA
 - [lidia-martinez](http://blog.lidia-martinez.com/) TA
 - [Hallucinations ](http://c0de517e.blogspot.com/)
+- [elopezr](http://www.elopezr.com/) TA
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
 - https://blog.selfshadow.com/
@@ -1598,6 +1603,89 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [pix]( https://devblogs.microsoft.com/pix/documentation/)
 ## ComputerGraphics && Shading
 
+#### Conference
+- [ACM Siggraph 2020](https://s2020.siggraph.org/)
+- [ACM Siggraph ASIA 2020](https://sa2020.siggraph.org/)
+- [ACM SIGGRAPH/Eurographics Symposium on Computer Animation 2020](http://computeranimation.org/)
+- [China Israel Bi-National Conference 2009](http://cg.cs.tsinghua.edu.cn/ci2009/) [2011](http://www.cs.bgu.ac.il/IsraelChina2011/)
+- [Computational Visual Media 2012](http://iccvm.org/2012/) [2020](http://www.iccvm.org/2020/)
+- [Computer Animation and Social Agents 2020](http://casa2020.bournemouth.ac.uk/)
+- [Computer Graphics International 2020](http://www.cgs-network.org/cgi20/)
+- [Computer Vision and Pattern Recognition 2020](http://cvpr2020.thecvf.com//)
+- [Euographics EuroVis 2020](https://conferences.eg.org/egev20/)
+- [https://sgp2020.sites.uu.nl](Euographics Symposium on Geometry Processing 2020)
+- [>Euographics  Symposium on Rendering 2020](https://egsr2020.london)
+- [Geometry Modeling and Processing 2004](http://cg.cs.tsinghua.edu.cn/gmp2004/) [2020](https://indico.oist.jp/indico/event/10/)
+- [>International Conference of Computer Vision 2021](http://iccv2021.thecvf.com/)
+- [Pacific Graphics 2002](http://cg.cs.tsinghua.edu.cn/pg2002/)
+- [2015](http://cg.cs.tsinghua.edu.cn/pg2015/)
+- [2020](https://ecs.wgtn.ac.nz/Events/PG2020/)
+- [SIAM Geometric Design and Computing 2019](https://www.siam.org/conferences/CM/Main/gd19)
+- [https://smi2020.sciencesconf.org/](Shape Modeling International 2020)
+- [Solid and Physical Modeling 2007](http://cg.cs.tsinghua.edu.cn/spm2007/index.htm)
+- [2020](https://spm2020.sciencesconf.org/)
+  
+#### Journal
+- [ACM Transactions on Graphics](http://www.acm.org/tog/)
+- [Computer-Aided Design](http://www.journals.elsevier.com/computer-aided-design/)
+- [Computer Aided Geometric Design](http://www.journals.elsevier.com/computer-aided-geometric-design/)
+- [Computational Geometry](http://www.elsevier.com/locate/issn/09257721)
+- [Computer&Graphics](http://www.journals.elsevier.com/computers-and-graphics/)
+- [Computer Graphics Forum](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659)
+- [Computational Visual Media](http://www.springer.com/computer/image+processing/journal/41095)
+- [Graphical Models](http://www.journals.elsevier.com/graphical-models/)
+- [IEEE Computer Graphics and Applications](http://www.computer.org/portal/web/computingnow/cga)
+- [IEEE Transactions on Image Processing ](http://www.signalprocessingsociety.org/publications/periodicals/image-processing/)
+- [IEEE Transactions on Multimedia](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&amp;punumber=6046)
+- [IEEE Transactions on Pattern Analysis &amp; Machine Intelligence](http://www.computer.org/portal/web/tpami)
+- [IEEE Transaction on Visualizations and Computer Graphics](https://www.computer.org/csdl/journal/tg)
+- [International Journal of Computational Geometry and Application](http://www.worldscinet.com/ijcga/ijcga.shtml/)
+- [International Journal of Computer Vision](http://www.springer.com/east/home/computer/computer+journals?SGWID=5-40100-70-35547002-0)
+- [Journal of Computer Animation and Virtual Worlds](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1546-427X/issues)
+- [The Visual Computers](http://link.springer.com/journal/371)
+#### Group
+- [Arizona-CAGD](http://www.farinhansford.com/gerald/)
+- [Bath-Graphics](http://yongliangyang.net/)
+- [Brown-Graphics](http://www.cs.brown.edu/research/graphics/)
+- [City U HK-Creative Media](http://sweb.cityu.edu.hk/hongbofu/index.htm)
+- [Cardiff-Visual Computing](http://www.cs.cf.ac.uk/research/vis.php)
+- [Caltech-Graphics](http://www.gg.caltech.edu/)
+- [City University of Hong Kong - Graphics](http://sweb.cityu.edu.hk/hongbofu/)
+- [CMU-Graphics](http://graphics.cs.cmu.edu/)
+- [Cornell-Graphics](http://www.graphics.cornell.edu/)
+- [ETH Zurich-Graphics](http://graphics.ethz.ch/)
+- [Hanyang U-Voronoi Diagram](http://voronoi.hanyang.ac.kr/)
+- [Harvard-Graphics, Vision  &amp; Interaction](http://gvi.seas.harvard.edu/)
+- [HKU-Geometric Computing](http://www.csis.hku.hk/GraphicsGroup/)
+- [>HKUST-Vision&amp;Graphics](http://visgraph.cs.ust.hk/)
+- [Interdisciplinary Center -Graphics ](http://www.faculty.idc.ac.il/arik/site/index.asp)
+- [KAUST-GMSV](http://gmsv.kaust.edu.sa/)
+- [Kentucky-Graphics &amp; Geometric Modeling](http://www.cs.uky.edu/~cheng/)
+- [MIT-Graphics](http://graphics.lcs.mit.edu/)
+- [Princeton-Graphics](http://www.cs.princeton.edu/gfx/)
+- [Rice-Graphics  &amp; Geometric design](http://compsci.rice.edu/research.cfm?doc_id=4354)
+- [http://www-i8.informatik.rwth-aachen.de/](RWTH-Graphics &amp; Multimedia)
+- [SNU-3D modeling &amp; Processing](http://3map.snu.ac.kr/)
+- [South Florida-CAD](http://www.piegl.com/)
+- [Stanford-Graphics](http://graphics.stanford.edu)
+- [Stony Brook- Visual Computing](http://cvc.cs.sunysb.edu/)  
+- [Technion-Graphics &amp; Geometric Computing](http://www.cs.technion.ac.il/~cggc/)
+- [Tel Aviv University-Graphics](http://www.cs.tau.ac.il/~dcor/)
+- [The Hebrew University of Jerusalem Israel-Graphics](http://www.cs.huji.ac.il/labs/cglab/)
+- [The University of Toronto-Dynamic Graphics](http://www.dgp.toronto.edu/)
+- [TU Wien-Geometry ](http://www.geometrie.tuwien.ac.at)
+- [UC Berkeley-Graphics](http://graphics.cs.berkeley.edu/)
+- [UC Davis-CAD&amp;manufacturing](http://mae.ucdavis.edu/~farouki/)
+- [Computer Graphics and Visualization](http://www.cs.ucdavis.edu/research/cgv/)
+- [UC San Diego-Graphics](http://graphics.ucsd.edu/)
+- [UCL-Virtual Environments &amp; Computer Graphics](http://vecg.cs.ucl.ac.uk/)
+- [UIUC-Graphics](http://graphics.cs.uiuc.edu/)
+- [UNC at Chapel Hill- GAMMA](http://gamma.cs.unc.edu/)
+- [University of Virginia- Graphics](http://www.connellybarnes.com/work/)
+- [Utah-Geometric Design and Computation](http://www.cs.utah.edu/gdc/")
+- [Washington-Graphics and Image](http://grail.cs.washington.edu/)
+- [Washington Univ. St. Louis - Media and Machines](http://www.cs.wustl.edu/MediaAndMachines)
+- [Yale-Graphics](http://graphics.cs.yale.edu/)
 #### Graphics-Library
 
 - https://github.com/sinclairzx81/zero
@@ -1664,6 +1752,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://www.ronja-tutorials.com/
 - https://github.com/lettier/3d-game-shaders-for-beginners
 - https://github.com/vo01github/ComputerGraphics
+- https://github.com/mikbry/awesome-webgpu
 #### Shading-Language
 - https://github.com/wshxbqq/GLSL-Card
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
@@ -1865,6 +1954,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://github.com/larsbertram69
+
 ##### Compute Shader
 - https://github.com/cinight/MinimalCompute 
 ##### URP/SPR/HDRP Course
@@ -2220,6 +2310,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/hadashiA/VContainer
 - https://github.com/Justin-sky/Nice-Lua
 - https://github.com/Juce-Assets/
+- https://github.com/MattRix/Futile
 
 #### UI
 - https://uiforia.io/
