@@ -1728,6 +1728,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [SharpGame](https://github.com/BobbyBao/SharpGame) 基于Vulkan的多线程渲染引擎，采用C#9.0开发，支持.Net5.0
 - [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) C# bindings for the bgfx graphics library 
 - https://github.com/egorodet/MethaneKit
+- https://github.com/dotnet/Silk.NET
 #### Collection
 - [realtimerendering](http://www.realtimerendering.com/) 
 - https://github.com/luisnts/awesome-computer-graphics
