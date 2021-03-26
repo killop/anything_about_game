@@ -1277,7 +1277,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [BedrockFramework](https://github.com/davidfowl/BedrockFramework) High performance, low level networking APIs for building custom servers and clients. 
 * [RailgunNet](https://github.com/ashoulson/RailgunNet) A Client/Server Network State-Synchronization Layer for Games 
 * [EuNet](https://github.com/zestylife/EuNet)  Peer to peer network solution for multiplayer games
-#### C/CPP
+* [Telepathy](https://github.com/vis2k/Telepathy) Simple, message based, MMO Scale TCP networking in C#. And no magic.
+ #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
