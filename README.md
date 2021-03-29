@@ -487,6 +487,7 @@ Table of Contents
 - [timjones](http://timjones.io/) working at Unity Technologies on Unity.
 - [mfatihmar]( https://mfatihmar.com/)  working at Unity Technologies on Unity.
 - [Ming Wai Chan](https://cmwdexint.com/)  working at Unity Technologies on Unity.
+- [Jonathan Dupuy ](http://onrendering.com/)  working at Unity Technologies on Unity.
 - [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
 - [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
 - https://simonschreibt.de/
@@ -504,7 +505,6 @@ Table of Contents
 - https://cmwdexint.com
 - http://www.andremcgrail.com/
 - https://artomatix.com/
-- http://jonathanchambers.blogspot.com/
 - https://www.briangershon.com/
 - https://blog.aaronsee.media/
 - https://programing-fun.blogspot.com/
