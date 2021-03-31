@@ -1278,6 +1278,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [RailgunNet](https://github.com/ashoulson/RailgunNet) A Client/Server Network State-Synchronization Layer for Games 
 * [EuNet](https://github.com/zestylife/EuNet)  Peer to peer network solution for multiplayer games
 * [Telepathy](https://github.com/vis2k/Telepathy) Simple, message based, MMO Scale TCP networking in C#. And no magic.
+* [Megumin](https://github.com/KumoKyaku/Megumin.Net) 应用程序和游戏网络层解决方案 
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -2362,6 +2363,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/coryleach/UnityAsync
 - https://asyncexpert.com/
 - https://github.com/StephenCleary/AsyncEx
+- https://github.com/mehdihadeli/awesome-dotnet-async
 #### Node-Editor
 - [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
@@ -2655,6 +2657,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ## GameReverse
 - https://github.com/TonyChen56/GameReverseNote
 - https://github.com/mob-sakai/unity-activate
+- https://github.com/super-continent/game-reversing-resources
+- https://github.com/kovidomi/game-reversing
 #### GamePlay
 - [我开发的角色动作系统概述-战斗,3C相关](https://zhuanlan.zhihu.com/p/67143501)
 ## Data
