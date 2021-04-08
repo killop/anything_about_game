@@ -1422,6 +1422,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [skylicht-engine](https://github.com/skylicht-lab/skylicht-engine) Skylicht Engine is C++ Game Engine based on Irrlicht 3D
 - [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
 - [rbfx](https://github.com/rokups/rbfx)
+- [WolfEngine](https://github.com/WolfEngine/Wolf.Engine) The Wolf is a comprehensive set of C/C++ open source libraries for realtime rendering, realtime streaming and game developing 
 ## Creative Code
 - https://github.com/jasonwebb/morphogenesis-resources
 - [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
@@ -1757,6 +1758,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://www.ronja-tutorials.com/
 - https://github.com/lettier/3d-game-shaders-for-beginners
 - https://github.com/vo01github/ComputerGraphics
+- https://github.com/AngelMonica126/GraphicAlgorithm
 - https://github.com/mikbry/awesome-webgpu
 #### Shading-Language
 - https://github.com/wshxbqq/GLSL-Card
@@ -1827,6 +1829,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 -  https://software.intel.com/en-us/gamedev 
 -  http://developer.download.nvidia.com/GPU_Programming_Guide/GPU_Programming_Guide.pdf
 #### Physically-Based-Render
+- https://github.com/neil3d/awesome-pbr
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
 - [smallvcm](http://www.smallvcm.com/)
@@ -2068,6 +2071,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/pinefor1983/CS-Growing-book
 - https://github.com/changgyhub/leetcode_101
 - https://github.com/youngyangyang04/leetcode-master
+- https://light-city.club/
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -2208,6 +2212,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [COLA](https://github.com/alibaba/COLA) Clean Object-Oriented and Layered Architecture
 - [SnowJena](https://github.com/ystcode/SnowJena) SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景。
 - [jodd](https://github.com/oblac/jodd)(Produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.)
+- [sa-token](https://github.com/dromara/sa-token) sa-token是一个轻量级Java权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0 等一系列权限相关问题
 ## GPGPU
 - https://github.com/tech-quantum/Amplifier.NET
 - https://www.ilgpu.net/
@@ -2316,6 +2321,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/Justin-sky/Nice-Lua
 - https://github.com/Juce-Assets/
 - https://github.com/MattRix/Futile
+- https://github.com/dotmos/uGameFramework
 
 #### UI
 - https://uiforia.io/
@@ -2501,6 +2507,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * https://github.com/nothke/UnityDOTSGotchas
 * https://github.com/Tree37/Unity-DOTS-RTS-Collision-System
 * https://github.com/unitycoder/Unity-DOTS-RTS-Collision-System
+* https://github.com/quabug/EntitiesBT
 #### Navmesh
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
