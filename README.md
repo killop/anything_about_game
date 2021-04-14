@@ -47,6 +47,7 @@ Table of Contents
     - [Material](#material-1)
     - [Tile](#tile)
     - [Design](#design)
+    - [AI](#ai)
 - [locale](#locale)
 - [Console/Command/Shell](#consolecommandshell)
 - [Scene](#scene)
@@ -201,7 +202,7 @@ Table of Contents
     - [Physics Based Animation](#physics-based-animation)
       - [BOOKS](#books)
     - [Climb System](#climb-system)
-    - [AI](#ai)
+    - [AI](#ai-1)
     - [UGUI](#ugui)
     - [2D](#2d)
     - [Timeline](#timeline)
@@ -440,6 +441,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [danielilett](https://danielilett.com/) URP TA
 - [Herman Tulleken](http://www.code-spot.co.za) PCG 
 - [therealmjp](https://therealmjp.github.io/posts/) TA
 - [fasterthan](https://www.fasterthan.life/blog) TA
@@ -838,6 +840,7 @@ Table of Contents
 - [PixPlant](https://www.pixplant.com/) PixPlant is a smart texturing app with the best tools to quickly transform a photo into seamless repeating textures and 3D maps. 
 - [Affinity Designer](https://affinity.serif.com/de/designer/) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 - [doodad](https://doodad.dev/)
+- [ImageViewer](https://github.com/kopaka1822/ImageViewer) HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator 
 ###### PIX-Texture
 - [pixelover](https://deakcor.itch.io/pixelover)
 - [spritemate](http://www.spritemate.com/)
@@ -878,6 +881,8 @@ Table of Contents
 - https://dribbble.com/
 - https://www.pinterest.com/
  
+ #### AI
+- [appccelerate](https://github.com/appccelerate/statemachine) asyn fsm
 ## locale
 - https://weblate.org/zh-hans/
 - https://molingyu.github.io/RosettaDocs/  本地化
@@ -2659,6 +2664,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 -  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
 -  [AnimeTask](https://github.com/kyubuns/AnimeTask)
+-  [Fluent Animation - An incredible animation queue system](https://assetstore.unity.com/packages/tools/animation/fluent-animation-an-incredible-animation-queue-system-84715) unity-plugin
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 ## GameReverse
