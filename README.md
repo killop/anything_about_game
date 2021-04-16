@@ -1963,6 +1963,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches)
 - https://github.com/przemyslawzaworski/Unity3D-CG-programming
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
+- [kamakura](https://github.com/kayac/kamakura-shaders) toon shader
+- [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the world as a mask, allowing for various shader effects.
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/umutbebek/shadertoy-to-unity-URP
@@ -2297,6 +2299,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/Warl-G/GRUnityTools 
 - https://gdx.dotbunny.com/
 - https://github.com/UnityCommunity/UnityLibrary
+- https://github.com/crazyshader/GameDev
 #### AssetBundle
 - [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
@@ -2660,6 +2663,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 -  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
 -  https://github.com/Unity-Technologies/SuperScience 官方3rd 移动模拟
 -  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
+-  [unity-curve-utils](https://github.com/baba-s/unity-curve-utils) 曲线库
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 -  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
