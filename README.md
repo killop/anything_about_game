@@ -1914,6 +1914,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 * https://github.com/networm/ShaderVariantCollectionExporter
 * https://github.com/SixWays/UnityShaderStripper
+* https://gist.github.com/yasirkula/d8fa2fb5f22aefcc7a232f6feeb91db7
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
 ##### SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue
@@ -2766,6 +2767,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/Odaimoko/ACE-CPT-Notes 程序员如何健身
 - https://zhuanlan.zhihu.com/p/130216185 电子书下载
 - https://github.com/pipiliang/hello-comic  程序员漫画
+- https://github.com/easychen/one-person-businesses-methodology 一人公司方法论
 ## 友情链接 
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
