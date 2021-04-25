@@ -435,6 +435,7 @@ Table of Contents
 - [manistein](https://manistein.github.io/blog/)
 - [蒋信厚](https://jiangxh1992.github.io/)
 - [aicdg](http://aicdg.com/) cs
+- [xinzhuzi](https://xinzhuzi.github.io) unity 程序员
 - [只剩一瓶辣椒酱](https://space.bilibili.com/35723238)  b站 blender 教程
 - [庄懂-BoyanTat](https://space.bilibili.com/6373917/video) b站 美术向TA
 - [Flynnmnn](https://space.bilibili.com/398411802?spm_id_from=333.788.b_765f7570696e666f.2)  b站 unity shader 教程
