@@ -222,7 +222,7 @@ Table of Contents
     - [Create Model](#create-model)
     - [Mesh](#mesh-1)
       - [Fracture Mesh](#fracture-mesh)
-    - [Atlas](#atlas)
+    - [](#)
     - [Fog](#fog)
     - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
@@ -436,6 +436,7 @@ Table of Contents
 - [蒋信厚](https://jiangxh1992.github.io/)
 - [aicdg](http://aicdg.com/) cs
 - [xinzhuzi](https://xinzhuzi.github.io) unity 程序员
+- [Dezeming family ](https://dezeming.top/) 光线追踪
 - [只剩一瓶辣椒酱](https://space.bilibili.com/35723238)  b站 blender 教程
 - [庄懂-BoyanTat](https://space.bilibili.com/6373917/video) b站 美术向TA
 - [Flynnmnn](https://space.bilibili.com/398411802?spm_id_from=333.788.b_765f7570696e666f.2)  b站 unity shader 教程
@@ -1512,6 +1513,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Realtime Math ](https://github.com/nfrechette/rtm)
 - [vectorial](https://github.com/scoopr/vectorial) Vector math library with NEON/SSE support
 - [MaxMath](https://github.com/MrUnbelievable92/MaxMath)
+- [XUGL](https://github.com/monitor1394/XUGL)
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -2589,7 +2591,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
  - [meshio](https://github.com/nschloe/meshio) There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts between them
 ##### Fracture Mesh
 - https://gitlab.com/dima13230/unity-libre-fracture
-#### Atlas
+#### 
+- [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
 - [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool 
 - [xatlas](https://github.com/jpcy/xatlas) Mesh parameterization / UV unwrapping library
