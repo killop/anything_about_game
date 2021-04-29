@@ -441,6 +441,7 @@ Table of Contents
 - [庄懂-BoyanTat](https://space.bilibili.com/6373917/video) b站 美术向TA
 - [Flynnmnn](https://space.bilibili.com/398411802?spm_id_from=333.788.b_765f7570696e666f.2)  b站 unity shader 教程
 - [天守魂座_雪风](https://space.bilibili.com/5863867) b站 hlsl 教程
+- [尹豆](https://www.yindouyd.com/) 计算机图形学
 - https://halfrost.com
  
 #### English
@@ -1817,6 +1818,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [glslb](http://glslb.in/)
 - [shader-playground](https://github.com/tgjones/shader-playground)
 - [UnityShaderViewer](https://github.com/Xibanya/UnityShaderViewer)
+- [shader-playground](http://shader-playground.timjones.io/)
 #### GPU-Architecture
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
@@ -1996,6 +1998,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
 - [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results
+
 ##### Mesh
 * [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
 ##### Post-Process
@@ -2349,6 +2352,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/chexiongsheng/XUUI
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/506638093/RichText 头顶血条
+- https://github.com/mattak/Unidux
 #### Moba
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
 #### Skill
