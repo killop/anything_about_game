@@ -845,6 +845,8 @@ Table of Contents
 - [Affinity Designer](https://affinity.serif.com/de/designer/) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 - [doodad](https://doodad.dev/)
 - [ImageViewer](https://github.com/kopaka1822/ImageViewer) HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator 
+- [hdrview](https://github.com/wkjarosz/hdrview) hdrview
+- [hdrihaven](https://hdrihaven.com/)
 ###### PIX-Texture
 - [pixelover](https://deakcor.itch.io/pixelover)
 - [spritemate](http://www.spritemate.com/)
@@ -2041,6 +2043,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [光学原理在绘画中的应用](https://www.bilibili.com/video/BV1zE41167AH?p=9)
 - [配色网站一锅端](http://www.fenxitu.cn/peise/web.php)
 - [物理学大神如何研究颜色](https://www.bilibili.com/read/cv9334842?from=category_0)
+- [color-studio](https://assetstore.unity.com/packages/tools/painting/color-studio-151892) unity-plugin
 - https://opencolorio.org/
 
 
