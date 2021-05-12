@@ -2152,6 +2152,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
 - [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport)
 - [NativeOctree](https://github.com/marijnz/NativeOctree)
+- [SharedMemory](https://github.com/spazzarama/SharedMemory)  C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
@@ -2797,6 +2798,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
 * [GameAndUnity](https://github.com/m969/GameAndUnity-TechLib)
+* [programming-awesome-list](https://github.com/BredaUniversity/programming-awesome-list)
 * [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
 这里主要是小伙伴们一起收集的跟游戏相关的精粹
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
