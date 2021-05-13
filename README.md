@@ -2059,6 +2059,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://bbs.perfdog.qq.com/article-detail.html?id=5
 
 ## Interview/DataStruct-Algorithms
+- https://github.com/tayllan/awesome-algorithms
 - https://github.com/0voice/interview_internal_reference#1
 - https://github.com/ZXZxin/ZXBlog
 - https://github.com/awangdev/LintCode
@@ -2095,6 +2096,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/changgyhub/leetcode_101
 - https://github.com/youngyangyang04/leetcode-master
 - https://light-city.club/
+- https://oi-wiki.org/
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
