@@ -1852,6 +1852,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/neil3d/awesome-pbr
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
+- https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/
 - [smallvcm](http://www.smallvcm.com/)
 - [mitsuba](https://www.mitsuba-renderer.org/) which though focuses on advanced R&D on light transport
 - [lightmetrica](Lightmetrica : A modern, research-oriented renderer ) 
