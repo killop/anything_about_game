@@ -1006,6 +1006,7 @@ Table of Contents
 * [usd-noodle](https://github.com/chris-gardner/usd-noodle) - Pretty node graph showing dependencies of a USD file
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
 * [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
+* [DracoUnity](https://github.com/atteneder/DracoUnity) Unity package that integrates the Draco 3D data compression library within Unity.
 ## Metadata/Excel/Schema/Proto
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
 - https://github.com/NtreevSoft/Crema
@@ -1750,6 +1751,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) C# bindings for the bgfx graphics library 
 - https://github.com/egorodet/MethaneKit
 - https://github.com/dotnet/Silk.NET
+- https://github.com/gfx-rs/gfx
 #### Collection
 - [realtimerendering](http://www.realtimerendering.com/) 
 - [graphicscodex](https://graphicscodex.courses.nvidia.com/app.html?)
@@ -1853,7 +1855,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [smallvcm](http://www.smallvcm.com/)
 - [mitsuba](https://www.mitsuba-renderer.org/) which though focuses on advanced R&D on light transport
 - [lightmetrica](Lightmetrica : A modern, research-oriented renderer ) 
-- [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [[github](https://github.com/google/filament) ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social&label=Star&maxAge=2592000)] 
+- [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [[github](https://github.com/google/filament) ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social&label=Star&maxAge=2592000)] [中文翻译地址](https://jerkwin.github.io/filamentcn/)
 - [【基于物理渲染】业界主流GGX](https://zhuanlan.zhihu.com/p/32985996)
 #### Ray Tracing
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
@@ -2059,6 +2061,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://bbs.perfdog.qq.com/article-detail.html?id=5
 
 ## Interview/DataStruct-Algorithms
+- https://github.com/lnishan/awesome-competitive-programming
 - https://github.com/tayllan/awesome-algorithms
 - https://github.com/0voice/interview_internal_reference#1
 - https://github.com/ZXZxin/ZXBlog
