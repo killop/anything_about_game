@@ -315,6 +315,7 @@ Table of Contents
 - https://github.com/kelthuzadx/EffectiveModernCppChinese
 - https://github.com/terkelg/awesome-creative-coding 
 - https://github.com/33nano/awesome-Gentools
+- https://github.com/MattPD/cpplinks
 ## News
 #### Game
 - [indienova](https://indienova.com/)
@@ -914,6 +915,7 @@ Table of Contents
 - https://github.com/proletariatgames/CUDLR
 - https://github.com/Sacred-Seed-Studio/Unity-File-Debug
 - https://github.com/DragonBox/u3d
+- https://github.com/mayuki/Cocona
 
 ## Scene
 #### Terrain
@@ -1089,6 +1091,7 @@ Table of Contents
 - https://github.com/DukeChiang/DCET
 - https://github.com/node-pinus/pinus
 - https://agones.dev/site/
+- https://github.com/googleforgames/agones
 #### Article
 - [gafferongames](https://gafferongames.com/ )
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
@@ -1317,7 +1320,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [AndEngine](http://www.andengine.org) - 2D Android Game Engine :o2:
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games. :o2:
 * [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor. :o2:
-* [Box2D](http://box2d.org/) - A 2D Physics Engine for Games. :o2:
+* [Box2D](https://box2d.org/) - A 2D Physics Engine for Games. :o2:
+* [projectchrono](https://projectchrono.org/) An Open Source Multi-physics Simulation Engine
 * [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib. :o2:
 * [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 * [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language :o2:
@@ -1513,6 +1517,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 - [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu
 - [cglm](https://github.com/recp/cglm)  Highly Optimized Graphics Math (glm) for C
+- [eigen](https://github.com/PX4/eigen) Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms. 
 - [red3d](http://www.red3d.com)
 - [Realtime Math ](https://github.com/nfrechette/rtm)
 - [vectorial](https://github.com/scoopr/vectorial) Vector math library with NEON/SSE support
@@ -1574,6 +1579,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
 - [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
 - [PositionBasedFluids](https://github.com/JAGJ10/PositionBasedFluids) CUDA/C++ implementation of several papers in the spirit of developing a small demo similar to Nvidia's FleX framework
+- [Piranha](https://github.com/keenanwoodall/Piranha) A simple tool to make rigidbodies swarm a mesh in Unity.
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
 - [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
 - [SPHFluid](https://github.com/MangoSister/SPHFluid) Interactive 3D Fluid Simulation based on SPH
@@ -1610,6 +1616,10 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [uwa4d](https://www.uwa4d.com/)
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
 - [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
+- [optick](https://github.com/bombomby/optick) Optick is a super-lightweight C++ profiler for Games.
+It provides access for all the necessary tools required for efficient performance analysis and optimization:
+instrumentation, switch-contexts, sampling, GPU counters.
+- [performance.tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
 #### GPU
 - [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
 - [renderdoc](https://renderdoc.org/) 
@@ -1783,7 +1793,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/wshxbqq/GLSL-Card
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
- 
+- [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
 #### Course/Article
 - [Scratchapixel](/www.scratchapixel.com/)
 - [学习笔记：GAMES101-现代计算机图形学入门](https://blog.csdn.net/weixin_43803133/category_10303553.html)
@@ -1817,6 +1827,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
 #### PlayGround
 - [shadered](https://shadered.org/)
+- [vscode-shadered](https://github.com/dfranx/vscode-shadered)
 - [shader-school](https://github.com/stackgl/shader-school)
 - [shaderfrog](https://shaderfrog.com/app/editor)
 - [glslEditor](https://github.com/patriciogonzalezvivo/glslEditor)
@@ -1824,6 +1835,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [shader-playground](https://github.com/tgjones/shader-playground)
 - [UnityShaderViewer](https://github.com/Xibanya/UnityShaderViewer)
 - [shader-playground](http://shader-playground.timjones.io/)
+
 #### GPU-Architecture
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
@@ -1858,6 +1870,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [lightmetrica](Lightmetrica : A modern, research-oriented renderer ) 
 - [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [[github](https://github.com/google/filament) ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social&label=Star&maxAge=2592000)] [中文翻译地址](https://jerkwin.github.io/filamentcn/)
 - [【基于物理渲染】业界主流GGX](https://zhuanlan.zhihu.com/p/32985996)
+- [publications](https://www.ppsloan.org/publications/)
 #### Ray Tracing
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
 - [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL 
@@ -1989,6 +2002,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
 ##### Compute Shader
 - https://github.com/cinight/MinimalCompute 
+- https://github.com/googlefonts/compute-shader-101
 ##### URP/SPR/HDRP Course
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
 - [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
@@ -2101,6 +2115,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/youngyangyang04/leetcode-master
 - https://light-city.club/
 - https://oi-wiki.org/
+- https://www.geeksforgeeks.org/advanced-data-structures/
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -2300,6 +2315,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [chaos](https://chaos-lang.org/) Chaos is a purely functional programming language that achieves zero cyclomatic complexity. 
 - [RTCLI.Runtime](https://github.com/Team-RTCLI/RTCLI.Runtime)
 - [langs-in-rust](https://github.com/alilleybrinker/langs-in-rust)
+- [sol2](https://github.com/ThePhD/sol2) Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation: 
+- [lc3-vm](https://justinmeiners.github.io/lc3-vm/) Write your Own Virtual Machine
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -2801,6 +2818,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - https://github.com/easychen/one-person-businesses-methodology 一人公司方法论
 ## 友情链接 
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
+* [programming-awesome-list](https://github.com/BredaUniversity/programming-awesome-list)
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
 * [GameAndUnity](https://github.com/m969/GameAndUnity-TechLib)
