@@ -142,6 +142,7 @@ Table of Contents
       - [Water](#water)
       - [Crystal](#crystal)
       - [Ice](#ice)
+      - [Noise](#noise)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
       - [Compute Shader](#compute-shader)
@@ -222,7 +223,7 @@ Table of Contents
     - [Create Model](#create-model)
     - [Mesh](#mesh-1)
       - [Fracture Mesh](#fracture-mesh)
-    - [](#)
+    - [Atlas](#atlas)
     - [Fog](#fog)
     - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
@@ -316,6 +317,7 @@ Table of Contents
 - https://github.com/terkelg/awesome-creative-coding 
 - https://github.com/33nano/awesome-Gentools
 - https://github.com/MattPD/cpplinks
+- https://github.com/mehdihadeli/awesome-software-architecture
 ## News
 #### Game
 - [indienova](https://indienova.com/)
@@ -443,6 +445,7 @@ Table of Contents
 - [Flynnmnn](https://space.bilibili.com/398411802?spm_id_from=333.788.b_765f7570696e666f.2)  b站 unity shader 教程
 - [天守魂座_雪风](https://space.bilibili.com/5863867) b站 hlsl 教程
 - [尹豆](https://www.yindouyd.com/) 计算机图形学
+- [周明倫](http://allenchou.net/) unity
 - https://halfrost.com
  
 #### English
@@ -1192,6 +1195,7 @@ Table of Contents
 * Specs - Parallel entity component system written in Rust [[github](https://github.com/slide-rs/specs) ![slide-rs/specs](https://img.shields.io/github/stars/slide-rs/specs.svg?style=flat&label=Star&maxAge=86400)]
 #### Benchmark
 * [ecs_benchmark](https://github.com/abeimler/ecs_benchmark): EnTT vs. entityx vs. anax vs. Artemis-Cpp
+* [Ecs.CSharp.Benchmark](https://github.com/Doraku/Ecs.CSharp.Benchmark) Benchmarks of some C# ECS frameworks. 
 #### Article
 - [ecs-faq](https://github.com/SanderMertens/ecs-faq)
 ## File Systems
@@ -1460,6 +1464,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 *   HPX：用于任何规模的并行和分布式应用程序的通用C++运行时系统。[官网](https://github.com/STEllAR-GROUP/hpx/)
 *   VexCL：用于OpenCL/CUDA 的C++向量表达式模板库。[官网](https://github.com/ddemidov/vexcl)
 *   TBB Threading Building Blocks (TBB) lets you easily write parallel C++ programs that take full advantage of multicore performance, that are portable, composable and have future-proof scalability.[官网](https://github.com/oneapi-src/oneTBB)
+*   [fiber-job-system](https://github.com/Freeeaky/fiber-job-system) This library offers a multi-threaded job-system, powered by fibers.
 
 #### C 
 *   cchan：一个线程间通信通道构建的小型库。公共领域。[官网](http://repo.hu/projects/cchan/)
@@ -1927,6 +1932,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 * [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
+* [What-Are-SDFs-Anyway](https://joyrok.com/What-Are-SDFs-Anyway)
 
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
@@ -1976,6 +1982,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/CJT-Jackton/URP-Anime-Crystal-Shader
 ##### Ice
 - https://github.com/daniel-ilett/shaders-ice
+##### Noise
+- https://github.com/keijiro/NoiseShader
 ##### Comon-Collection
 - [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository)
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)
@@ -2375,6 +2383,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Juce-Assets/
 - https://github.com/MattRix/Futile
 - https://github.com/dotmos/uGameFramework
+- https://github.com/ManakhovN/FigmaToUnityImporter
 
 #### UI
 - https://uiforia.io/
@@ -2400,6 +2409,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
 - [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
+- [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/rurre/PumkinsAvatarTools unity 表情
@@ -2457,6 +2467,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ActiveRagdoll](https://github.com/hobogalaxy/ActiveRagdoll)
 - [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
 - [binh.graphics](http://binh.graphics/)
+- [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
 ##### BOOKS
 - [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
 - [Physics Modeling for Game Programmers](https://www.amazon.com/Physics-Modeling-Programmers-David-Conger/dp/1592000932/)
@@ -2626,7 +2637,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [meshio](https://github.com/nschloe/meshio) There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts between them
 ##### Fracture Mesh
 - https://gitlab.com/dima13230/unity-libre-fracture
-#### 
+#### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
 - [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool 
@@ -2635,6 +2646,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  parameterization, and chart packing.
 * [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's
  a library to generate an UV for -example- lightmap uv.  
+*  [AtlasGenerator](https://github.com/UniGameTeam/UniGame.AtlasGenerator) Rule based SpriteAtlas Generator for Unity3D 
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
