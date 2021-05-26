@@ -2124,6 +2124,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://light-city.club/
 - https://oi-wiki.org/
 - https://www.geeksforgeeks.org/advanced-data-structures/
+- https://doocs.github.io/#/README_CN
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
@@ -2830,11 +2831,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/easychen/one-person-businesses-methodology 一人公司方法论
 ## 友情链接 
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
-* [programming-awesome-list](https://github.com/BredaUniversity/programming-awesome-list)
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
 * [GameAndUnity](https://github.com/m969/GameAndUnity-TechLib)
 * [programming-awesome-list](https://github.com/BredaUniversity/programming-awesome-list)
+* [TechnicalNote](https://github.com/OtakuAndFitness/TechnicalNote)
 * [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
 这里主要是小伙伴们一起收集的跟游戏相关的精粹
 ， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
