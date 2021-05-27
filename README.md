@@ -446,6 +446,7 @@ Table of Contents
 - [天守魂座_雪风](https://space.bilibili.com/5863867) b站 hlsl 教程
 - [尹豆](https://www.yindouyd.com/) 计算机图形学
 - [周明倫](http://allenchou.net/) unity
+- [dotnetfly](https://github.com/ctripxchuang/dotnetfly)
 - https://halfrost.com
  
 #### English
@@ -1917,6 +1918,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ChiliMilk/URP_Toon
 - https://github.com/you-ri/LiliumToonGraph
 - https://github.com/SnutiHQ/Toon-Shader
+- https://github.com/Santarh/MToon
 
 #### SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
