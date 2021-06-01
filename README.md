@@ -1096,7 +1096,10 @@ Table of Contents
 - https://github.com/node-pinus/pinus
 - https://agones.dev/site/
 - https://github.com/googleforgames/agones
+- https://heroiclabs.com/
+- https://github.com/grofit/persistity
 #### Article
+- [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
 - [gafferongames](https://gafferongames.com/ )
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
 - [细谈网络同步在游戏历史中的发展变化 (上)](https://zhuanlan.zhihu.com/p/130702310)
@@ -1188,6 +1191,7 @@ Table of Contents
 * [LeoECS](https://github.com/Leopotam/ecs) LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
 * [unity-entity-component-system](https://github.com/elraccoone/unity-entity-component-system) A better approach to game design that allows you to concentrate on the actual problems you are solving: the data and behavior that make up your game. By moving from object-oriented to data-oriented design it will be easier for you to reuse the code and easier for others to understand and work on it.
 * [ME.ECS](https://github.com/chromealex/ecs) ECS for Unity with full game state automatic rollbacks 
+* [ME.ECSBurst](https://github.com/chromealex/ME.ECSBurst)
 #### Python
 * esper - A lightweight Entity System for Python [[github](https://github.com/benmoran56/esper) ![benmoran56/esper](https://img.shields.io/github/stars/benmoran56/esper.svg?style=flat&label=Star&maxAge=86400)]
 
@@ -1226,6 +1230,7 @@ Table of Contents
 - https://github.com/casbin/Casbin.NET
 ## NetWork
 #### Articles
+- [deterministic-netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
 - [NetworkBenchmarkDotNet](https://github.com/JohannesDeml/NetworkBenchmarkDotNet)
 - [硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484005&idx=1&sn=cb07ee1c891a7bdd0af3859543190202&chksm=f98e46cfcef9cfd9feb8b9df043a249eb5f226a927fd6d4065e99e62a645a584005d9921541b&scene=126&sessionid=1587373655&key=c1e3f751e477aefb2785e5e67e936b31e51cd2b2080391621fbd3fc27b4764cf9b02e0c6c25104fa7e3c90b7719ebe683a4fb3bc0a8bb16625e5b8696c4bb2133088ceea58e071e4f06742b5d6cf8225&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AQXqc918kP9oyoqf8cruy24%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding ）
 - [你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了 ](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247484017&idx=1&sn=dc54d43bfd5dc088e48adcfa2e2bc13f&chksm=f98e46dbcef9cfcdab645e79138deb078d68ad843b3e424408974bd8f0ecea620a2502a79230&scene=126&sessionid=1587373655&key=caefaff9574fe7b57087d887de9c6a4c47d8f28df557255cc812869d270224df92f9bb319c0637c0755e2072e8a83e69667b4024c32f8447e1b8fbea51f25679a85b5b27be78ad02905b3a7220e63b0e&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AUqHBUf2HKUOvDs1c3m9p6g%3D&pass_ticket=QdHP3k5%2FmrFq5WFcwZV4S%2BvR8mPmwfZtqWoh9PQiUYZE3cTJYTyDAx1P7teKSAck) 防止迷路，微信公众号：（ 小林coding )
@@ -1629,6 +1634,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### GPU
 - [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
 - [renderdoc](https://renderdoc.org/) 
+- [renderdocArticle](https://blog.kangkang.org/index.php/archives/504)
 - [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 - [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
 - [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
@@ -1801,6 +1807,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
 #### Course/Article
+- [adreno-gpu](https://developer.qualcomm.com/docs/adreno-gpu/developer-guide/gpu/best_practices_shaders.html)
 - [Scratchapixel](/www.scratchapixel.com/)
 - [学习笔记：GAMES101-现代计算机图形学入门](https://blog.csdn.net/weixin_43803133/category_10303553.html)
 - [一个角色最终呈现在引擎里，美术制作上的思考以及注意事项](https://zhuanlan.zhihu.com/p/344991995)
@@ -2586,6 +2593,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) Alternative to Unity's NavMesh system where the agents avoid each other. 
 - [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
+- [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
 #### Tile map 
  - Isometric
  - Ultimate Grids Engine
