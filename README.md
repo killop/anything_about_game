@@ -1121,6 +1121,8 @@ Table of Contents
 - https://github.com/CraneInForest/LockStepSimpleFramework-Client
 - https://github.com/dudu502/LittleBee
 - https://github.com/aaa719717747/TrueSyncExample
+- https://github.com/CraneInForest/LockStepSimpleFramework-Shared
+* [UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with serverside framerate for Unity
 #### status-syn
 - https://github.com/zpl-c/librg
 - https://github.com/minism/fps-netcode
@@ -1225,6 +1227,7 @@ Table of Contents
 - [fluid](https://github.com/sebastienros/fluid/) Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language. 
 - [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
+- [nevod](https://nevod.io) Nevod is a language and technology for pattern-based text search. It is specially aimed to rapidly reveal entities and their relationships in texts written in the natural language.
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -1292,7 +1295,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [NativeWebSocket](https://github.com/endel/NativeWebSocket) WebSocket client for Unity - with no external dependencies (WebGL, Native, Android, iOS, UWP) 
 * [RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types)
 * [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
-* [UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with serverside framerate for Unity
 * [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 * [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
 * [Entitas-Sync-Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Networking framework for Entitas ECS. Targeted at turnbased games or other slow-paced genres
@@ -1308,6 +1310,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Megumin](https://github.com/KumoKyaku/Megumin.Net) 应用程序和游戏网络层解决方案 
 * [Mirage](https://github.com/MirageNet/Mirage) Easy to use Network library for Unity 3d 
 * [HouraiNetworking](https://github.com/HouraiTeahouse/HouraiNetworking) Transport level library for peer-to-peer networking with multiple backends for the Unity. 
+* [Unity-Netcode.IO](https://github.com/GlaireDaggers/Unity-Netcode.IO) A lightweight plugin to allow Unity games to use Netcode.IO for secure UDP socket communication.
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -1635,6 +1638,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
 - [renderdoc](https://renderdoc.org/) 
 - [renderdocArticle](https://blog.kangkang.org/index.php/archives/504)
+- [RenderDocMeshParserForUnity](https://github.com/windsmoon/RenderDocMeshParserForUnity)
 - [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 - [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
 - [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
@@ -2363,6 +2367,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://gdx.dotbunny.com/
 - https://github.com/UnityCommunity/UnityLibrary
 - https://github.com/crazyshader/GameDev
+- https://www.zhihu.com/search?q=renderdoc%20unity&range=3m&type=content
 #### AssetBundle
 - [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
@@ -2469,6 +2474,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
 - [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
 - [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
+- [Unity下大量物体同屏渲染的性能优化思路](https://zhuanlan.zhihu.com/p/114646617)
 #### Mesh Animation
 - https://github.com/SaiTingHu/MeshEditor.Effects
 #### Physics Based Animation
@@ -2594,6 +2600,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
+- https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
+- https://github.com/dbrizov/Unity-PathFindingAlgorithms
 #### Tile map 
  - Isometric
  - Ultimate Grids Engine
@@ -2681,6 +2689,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
+* [UnityResourceStaticAnalyzeTool](https://github.com/AMikeW/UnityResourceStaticAnalyzeTool) 分析Unity资源，如贴图、精灵图、旧版图集, 新版图集SpriteAtlas，支持AB包资源冗余
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
 - [UnityComponent](https://github.com/GameBuildingBlocks/UnityComponent)
 - [Maintainer](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
@@ -2834,6 +2843,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - http://www.cbaigui.com/ 中国妖精合集
 - https://works.yangerxiao.com/honeyed-words-generator/ 土味情话
 - https://github.com/soulteary/tenant-point 程序员如何租房子
+- https://github.com/beiliangshizi/China_House 程序员如何租房子
 - [北京买房](https://github.com/facert/beijing_house_knowledge#%E5%A4%96%E5%9C%B0%E4%BA%BA%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0%E6%88%BF%E6%9D%A1%E4%BB%B6%E5%8F%8A%E8%B5%84%E6%A0%BC)
 - [上海买房](https://github.com/ayuer/shanghai_house_knowledge)
 - https://wallroom.io 壁纸网站
