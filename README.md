@@ -1559,7 +1559,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - http://www.matrix67.com/blog
 - https://mmaqa.com/
 - [空间划分](https://www.cnblogs.com/KillerAery/p/10878367.html)
+- [切线空间（Tangent Space）完全解析](https://zhuanlan.zhihu.com/p/139593847)
+- [图形学 | Shader |用一篇文章理解法线变换、切线空间、法线贴图](https://zhuanlan.zhihu.com/p/261667233)
 - 游戏相关的几何分支:欧式几何、射影几何、微分几何、代数几何和非交换几何
+- [projectivegeometricalgebra](http://projectivegeometricalgebra.org/) 摄影几何
 - [comparison with math libraries](https://nfrechette.github.io/2019/01/19/introducing_realtime_math/)
 - [线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
 ## Physics Framework
@@ -2060,6 +2063,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [unity-material-cleaner](https://github.com/ina-amagami/unity-material-cleaner/blob/master/Assets/Editor/MaterialCleaner.cs)
 - [MotionFramework/Scripts/Editor/EditorTools](https://github.com/gmhevinci/MotionFramework/blob/master/Assets/MotionFramework/Scripts/Editor/EditorTools.cs)
 #### Color
+- [伽马还是线性？用一张图理理在U3D中该如何设置。](https://zhuanlan.zhihu.com/p/271011254)
 - [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhih  u.com/p/23905865)
 - [Photoshop blending modes in glsl ](https://github.com/jamieowen/glsl-blend)
 - [blending modes](https://www.shadertoy.com/view/XdS3RW)
