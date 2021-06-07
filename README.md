@@ -1644,6 +1644,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [RenderDocMeshParserForUnity](https://github.com/windsmoon/RenderDocMeshParserForUnity)
 - [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 - [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
+- [Unity Arm Mobile Studio Article](https://blog.unity.com/games/enhanced-mobile-performance-analysis-with-arms-new-mobile-studio-package-for-unity)
 - [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
 - [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
 - [Intel-GPA](https://software.intel.com/content/www/us/en/develop/tools/graphics-performance-analyzers.html)
@@ -2456,6 +2457,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://asyncexpert.com/
 - https://github.com/StephenCleary/AsyncEx
 - https://github.com/mehdihadeli/awesome-dotnet-async
+- https://github.com/microsoft/coyote
 #### Node-Editor
 - [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
@@ -2597,6 +2599,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/unitycoder/Unity-DOTS-RTS-Collision-System
 * https://github.com/quabug/EntitiesBT
 * https://github.com/GilbertoGojira/DOTS-Stackr
+* https://github.com/Kimbatt/unity-deterministic-physics
+* https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-195567
 #### Navmesh
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
