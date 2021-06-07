@@ -728,6 +728,7 @@ Table of Contents
 - [vivaldi-audio-engine](https://assetstore.unity.com/packages/tools/audio/vivaldi-audio-engine-pro-64029) unity-plugin
 - [Lasp](https://github.com/keijiro/Lasp) Low-latency Audio Signal Processing plugin for Unity 
 - [usfxr](https://github.com/grapefrukt/usfxr)
+- [layersaudio](https://www.layersaudio.com/) unity audio plugin
 #### Music-Tool/Editor
 - https://www.image-line.com/
 - https://www.goldwave.com
