@@ -1538,6 +1538,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [vectorial](https://github.com/scoopr/vectorial) Vector math library with NEON/SSE support
 - [MaxMath](https://github.com/MrUnbelievable92/MaxMath)
 - [XUGL](https://github.com/monitor1394/XUGL)
+- [nalgebra](https://www.nalgebra.org/) rust math
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -1638,6 +1639,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 It provides access for all the necessary tools required for efficient performance analysis and optimization:
 instrumentation, switch-contexts, sampling, GPU counters.
 - [performance.tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
+- [profiling](https://github.com/aclysma/profiling)
 #### GPU
 - [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
 - [renderdoc](https://renderdoc.org/) 
@@ -1963,6 +1965,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/Wei_Yuan_2012/article/details/88677172?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
 - [网易技术美术总监：深度解析次世代手游的贴图与着色技巧 [UNITE SHANGHAI 2017qq.]](https://connect.unity.com/p/wang-yi-ji-zhu-mei-zhu-zong-jian-shen-du-jie-xi-ci-shi-dai-shou-you-de-tie-tu-yu-zhao-se-ji-qiao-unite-shanghai-2017)
 - [SRP到URP从原理到应用](https://www2.slideshare.net/MOMO145/srpurp)
+- [跨平台引擎Shader编译流程分析](https://zhuanlan.zhihu.com/p/56510874)
+- [如何阅读和还原分析器中的DXBC](https://zhuanlan.zhihu.com/p/346324622)
 ##### ShaderVariant
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 * https://github.com/networm/ShaderVariantCollectionExporter
@@ -2029,6 +2033,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Compute Shader
 - https://github.com/cinight/MinimalCompute 
 - https://github.com/googlefonts/compute-shader-101
+- https://www.youtube.com/watch?v=DZRn_jNZjbw
+- https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md
+- https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/
 ##### URP/SPR/HDRP Course
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
 - [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
@@ -2805,6 +2812,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
 - http://binaryconvert.com 专门做二进制转换的网站
+- [这样讲原码、反码、补码，帮学妹解决困扰了三天的问题 ](https://mp.weixin.qq.com/s/vKZleAIMivOxJ_kEB1uSqw)
 - [box3](www.box3.cn) 开发者工具箱
 - https://ihateregex.io/expr 正则表达式
 - https://www.toolnb.com  toolnb 
