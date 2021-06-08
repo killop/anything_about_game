@@ -1139,17 +1139,21 @@ Table of Contents
 - https://github.com/aaa719717747/TrueSyncExample
 - https://github.com/CraneInForest/LockStepSimpleFramework-Shared
 * [UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with serverside framerate for Unity
+* https://github.com/JiepengTan/LockstepCollision
 #### status-syn
 - https://github.com/zpl-c/librg
 - https://github.com/minism/fps-netcode
+- https://github.com/Yinmany/NetCode-FPS
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
 ## Serialization
+- https://en.wikipedia.org/wiki/Interface_description_language
 - https://github.com/chronoxor/CppSerialization benckmark
 - https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
 - https://capnproto.org/ capnproto
 - https://github.com/google/flatbuffers flatBuffer
+- https://github.com/jamescourtney/FlatSharp
 - https://developers.google.com/protocol-buffers pb
 - https://github.com/real-logic/simple-binary-encoding  sbe-fastest
 - https://github.com/neuecc/ZeroFormatter  zero
