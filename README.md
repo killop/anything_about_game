@@ -2,10 +2,14 @@
 <div align="center">
 	<img width="500" height="350" src="img/logo.png" alt="anyting_about_game">
 </div>
+
 <br>
 <p align="center">
     高端Unity资源分享QQ群：1067123079 
 </p>
+<br>
+
+
 Table of Contents
 - [Awesome-Game](#awesome-game)
 - [Awesome-General](#awesome-general)
