@@ -59,7 +59,10 @@ Table of Contents
     - [River](#river)
 - [3D Rendering Software/Plugin](#3d-rendering-softwareplugin)
 - [3D-File-Format](#3d-file-format)
-- [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
+- [Data](#data)
+    - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
+    - [Exchange](#exchange)
+    - [DataVisual&&Editor](#datavisualeditor)
 - [Archive](#archive)
     - [Article](#article)
 - [Version-Control](#version-control)
@@ -236,9 +239,6 @@ Table of Contents
     - [Tips](#tips)
 - [GameReverse](#gamereverse)
     - [GamePlay](#gameplay)
-- [Data](#data)
-    - [Exchange](#exchange)
-    - [DataVisual&&Editor](#datavisualeditor)
 - [知识库软件/笔记软件](#知识库软件笔记软件)
 - [Tool](#tool-1)
 - [Xcode](#xcode)
@@ -1014,7 +1014,8 @@ Table of Contents
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
 * [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
 * [DracoUnity](https://github.com/atteneder/DracoUnity) Unity package that integrates the Draco 3D data compression library within Unity.
-## Metadata/Excel/Schema/Proto
+## Data
+#### Metadata/Excel/Schema/Proto
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
 - https://github.com/NtreevSoft/Crema
 - https://github.com/vriad/zod
@@ -1030,7 +1031,20 @@ Table of Contents
 - https://github.com/vue-generators/vue-form-generator
 - https://github.com/quicktype/quicktype
 - https://github.com/dloss/binary-parsing
-
+#### Exchange
+- https://github.com/Cinchoo/ChoETL ETL Framework for .NET / c# (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml formatted files) 
+- https://github.com/alibaba/DataX 数据交换
+- https://github.com/mimetis/dotmim.sync A brand new database synchronization, multi platform, multi databases, developed on top of .Net Standard 2.0
+- [OpenDDL](https://github.com/EricLengyel/OpenDDL)
+- https://avro.apache.org/
+- https://awslabs.github.io/smithy/
+#### DataVisual&&Editor
+- [SuperSet](https://github.com/apache/incubator-superset)
+- [Redash](https://github.com/getredash/redash)
+- [metabase](https://github.com/metabase/metabase)
+- [rawgraphs](https://rawgraphs.io/) The missing link between spreadsheets and data visualization
+- https://datavizcatalogue.com/ZH/
+ 
 ## Archive
 #### Article
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
@@ -1079,6 +1093,7 @@ Table of Contents
 - https://aws.amazon.com/cn/gamelift/
 - https://github.com/9miao/G-Firefly
 - https://github.com/cloudwu/skynet
+- https://github.com/surparallel
 - https://github.com/xiaonanln/goworld
 - https://github.com/kbengine/kbengine
 - https://github.com/topfreegames/pitaya
@@ -1563,6 +1578,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [空间划分](https://www.cnblogs.com/KillerAery/p/10878367.html)
 - [切线空间（Tangent Space）完全解析](https://zhuanlan.zhihu.com/p/139593847)
 - [图形学 | Shader |用一篇文章理解法线变换、切线空间、法线贴图](https://zhuanlan.zhihu.com/p/261667233)
+- [谈谈法线图的压缩](https://gameinstitute.qq.com/community/detail/123850)
 - 游戏相关的几何分支:欧式几何、射影几何、微分几何、代数几何和非交换几何
 - [projectivegeometricalgebra](http://projectivegeometricalgebra.org/) 摄影几何
 - [comparison with math libraries](https://nfrechette.github.io/2019/01/19/introducing_realtime_math/)
@@ -2777,18 +2793,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/kovidomi/game-reversing
 #### GamePlay
 - [我开发的角色动作系统概述-战斗,3C相关](https://zhuanlan.zhihu.com/p/67143501)
-## Data
-#### Exchange
-- https://github.com/Cinchoo/ChoETL ETL Framework for .NET / c# (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml formatted files) 
-- https://github.com/alibaba/DataX 数据交换
-- https://github.com/mimetis/dotmim.sync A brand new database synchronization, multi platform, multi databases, developed on top of .Net Standard 2.0
-- [OpenDDL](https://github.com/EricLengyel/OpenDDL)
-#### DataVisual&&Editor
-- [SuperSet](https://github.com/apache/incubator-superset)
-- [Redash](https://github.com/getredash/redash)
-- [metabase](https://github.com/metabase/metabase)
-- [rawgraphs](https://rawgraphs.io/) The missing link between spreadsheets and data visualization
-- https://datavizcatalogue.com/ZH/
 
 ## 知识库软件/笔记软件
 - [印象笔记](https://www.yinxiang.com/)
