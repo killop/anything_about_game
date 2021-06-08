@@ -1,4 +1,11 @@
 
+<div align="center">
+	<img width="500" height="350" src="img/logo.png" alt="anyting_about_game">
+</div>
+<br>
+<p align="center">
+    高端Unity资源分享QQ群：1067123079 
+</p>
 Table of Contents
 - [Awesome-Game](#awesome-game)
 - [Awesome-General](#awesome-general)
@@ -2885,8 +2892,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [programming-awesome-list](https://github.com/BredaUniversity/programming-awesome-list)
 * [TechnicalNote](https://github.com/OtakuAndFitness/TechnicalNote)
 * [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
-这里主要是小伙伴们一起收集的跟游戏相关的精粹
-， 如果你要是有兴趣 ，想加入我们或添加你的资源，请加QQ群：1067123079 验证答案：game
-进群后跟群主(我)申请就好，群主是个很乐意分享的人
+
 
 ## 看完不star，小心没jj :）!
