@@ -1192,6 +1192,7 @@ Table of Contents
 - [FASTER](https://github.com/microsoft/FASTER) Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
 - [UltraLiteDB](https://github.com/rejemy/UltraLiteDB) Unity LiteDB
 - [DBreeze](https://github.com/hhblaze/DBreeze/)  LiteDB - A .NET NoSQL Document Store
+- [Siaqodb](https://github.com/morecraf/Siaqodb) Siaqodb is a NoSQL embedded object and document database engine that currently runs on .NET, MonoMac, Universal Windows Platform (UWP), Xamarin.iOS, Xamarin.Android, Xamarin.Mac and Unity3D.
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
@@ -2467,6 +2468,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
 - https://github.com/jewer3330/plato timeline skill
 - https://github.com/PxGame
+- https://github.com/WAYNGROUP/MGM-Ability
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
 - [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
