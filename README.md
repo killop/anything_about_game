@@ -9,7 +9,6 @@
 </p>
 <br>
 
-
 Table of Contents
 - [Awesome-Game](#awesome-game)
 - [Awesome-General](#awesome-general)
@@ -1342,6 +1341,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Mirage](https://github.com/MirageNet/Mirage) Easy to use Network library for Unity 3d 
 * [HouraiNetworking](https://github.com/HouraiTeahouse/HouraiNetworking) Transport level library for peer-to-peer networking with multiple backends for the Unity. 
 * [Unity-Netcode.IO](https://github.com/GlaireDaggers/Unity-Netcode.IO) A lightweight plugin to allow Unity games to use Netcode.IO for secure UDP socket communication.
+* [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) Reliable UDP networking solution for building multiplayer games. (In public testing phase) 
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
