@@ -158,7 +158,6 @@ Table of Contents
       - [Noise](#noise)
       - [Comon-Collection](#comon-collection)
       - [FrameWork](#framework)
-      - [Compute Shader](#compute-shader)
       - [URP/SPR/HDRP Course](#urpsprhdrp-course)
       - [UI](#ui)
       - [Mesh](#mesh)
@@ -193,6 +192,7 @@ Table of Contents
 - [CPP](#cpp-1)
 - [Java](#java-1)
 - [GPGPU](#gpgpu)
+    - [Compute Shader](#compute-shader)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
     - [Garbage Collector](#garbage-collector)
@@ -1344,6 +1344,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [HouraiNetworking](https://github.com/HouraiTeahouse/HouraiNetworking) Transport level library for peer-to-peer networking with multiple backends for the Unity. 
 * [Unity-Netcode.IO](https://github.com/GlaireDaggers/Unity-Netcode.IO) A lightweight plugin to allow Unity games to use Netcode.IO for secure UDP socket communication.
 * [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) Reliable UDP networking solution for building multiplayer games. (In public testing phase) 
+* [LiteNetwork](https://github.com/Eastrall/LiteNetwork)
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -2000,6 +2001,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [SRP到URP从原理到应用](https://www2.slideshare.net/MOMO145/srpurp)
 - [跨平台引擎Shader编译流程分析](https://zhuanlan.zhihu.com/p/56510874)
 - [如何阅读和还原分析器中的DXBC](https://zhuanlan.zhihu.com/p/346324622)
+- [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 ##### ShaderVariant
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 * https://github.com/networm/ShaderVariantCollectionExporter
@@ -2063,12 +2065,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://github.com/larsbertram69
 
-##### Compute Shader
-- https://github.com/cinight/MinimalCompute 
-- https://github.com/googlefonts/compute-shader-101
-- https://www.youtube.com/watch?v=DZRn_jNZjbw
-- https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md
-- https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/
+
 ##### URP/SPR/HDRP Course
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
 - [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
@@ -2333,6 +2330,24 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ## GPGPU
 - https://github.com/tech-quantum/Amplifier.NET
 - https://www.ilgpu.net/
+#### Compute Shader
+- https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
+- https://github.com/cinight/MinimalCompute 
+- https://github.com/googlefonts/compute-shader-101
+- https://www.youtube.com/watch?v=DZRn_jNZjbw
+- https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md
+- https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/
+- https://github.com/keijiro/NoiseBall6
+- https://logins.github.io/graphics/2020/10/31/D3D12ComputeShaders.html
+- https://www.3dgep.com/learning-directx-12-4/#Compute_Shaders
+- https://github.com/Robert-K/gpu-particles
+- https://github.com/Ninjajie/Fusion
+- https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
+- https://github.com/krylov-na/Compute-shader-particles
+- https://github.com/IRCSS/Procedural-painting
+- https://github.com/keijiro/Swarm
+- https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
+ 
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
 - https://github.com/ttroy50/cmake-examples
@@ -2560,6 +2575,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
+- https://github.com/scottcgi/MojoUnity-Packages
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
 - [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
