@@ -2102,6 +2102,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [unity-material-cleaner](https://github.com/ina-amagami/unity-material-cleaner/blob/master/Assets/Editor/MaterialCleaner.cs)
 - [MotionFramework/Scripts/Editor/EditorTools](https://github.com/gmhevinci/MotionFramework/blob/master/Assets/MotionFramework/Scripts/Editor/EditorTools.cs)
 #### Color
+- [实时渲染之how to render pixels](https://zhuanlan.zhihu.com/p/128090890)
 - [伽马还是线性？用一张图理理在U3D中该如何设置。](https://zhuanlan.zhihu.com/p/271011254)
 - [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhih  u.com/p/23905865)
 - [Photoshop blending modes in glsl ](https://github.com/jamieowen/glsl-blend)
