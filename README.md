@@ -47,6 +47,7 @@ Table of Contents
       - [Course](#course)
     - [Material](#material)
     - [Remesh](#remesh)
+    - [LOD](#lod)
     - [List-of-game-middleware](#list-of-game-middleware)
     - [CG Software API](#cg-software-api)
     - [Texture](#texture)
@@ -823,7 +824,13 @@ Table of Contents
 #### Remesh
 - https://github.com/huxingyi/autoremesher
 
-
+#### LOD
+- [simplygon](https://www.simplygon.com/)
+- [unity-mesh-simplifier](https://thegamedev.guru/unity-gpu-performance/unity-mesh-simplifier/)
+- [instalod](https://instalod.com/)
+- [pixyz](https://www.pixyz-software.com/documentations/html/2020.2/plugin4unity/)
+- [ultimate-lod-system](https://assetstore.unity.com/packages/tools/utilities/ultimate-lod-system-mt-170425)
+- [mantis-lod-editor](https://assetstore.unity.com/packages/tools/modeling/mantis-lod-editor-professional-edition-37086?)
 #### List-of-game-middleware
 - https://en.wikipedia.org/wiki/List_of_game_middleware
 #### CG Software API
@@ -1658,7 +1665,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ## Vehicle
 * [tork](https://github.com/adrenak/tork) Arcade vehicle physics for Unity
 * [Randomation-Vehicle-Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
- 
+
 ## Game-BenchMark/Metric/Tool
 
 #### Common
