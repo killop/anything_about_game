@@ -898,6 +898,7 @@ Table of Contents
 - https://artomatix.com/
 
 #### Tile
+- https://starscenesoftware.com/unifilebrowser.html
 - https://www.tilesetter.org/
 - [Tiled 2D](https://www.mapeditor.org/) free, easy to use and flexible tile map editor
 - [autotilegen](https://pixelatto.com/products/autotilegen)
@@ -939,6 +940,7 @@ Table of Contents
 - https://github.com/Sacred-Seed-Studio/Unity-File-Debug
 - https://github.com/DragonBox/u3d
 - https://github.com/mayuki/Cocona
+- https://github.com/cobbr
 
 ## Scene
 #### Terrain
@@ -1533,6 +1535,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 - [redblobgames](https://www.redblobgames.com/) 
 - [unityMath](https://github.com/Unity-Technologies/Unity.Mathematics)  c# unity
+- [komietty](https://github.com/komietty) Computational Geometry Programmer
 - [MathUtilities](https://github.com/zalo/MathUtilities) c# unity
 - [clipper](http://www.angusj.com/delphi/clipper.php)  clipper  Delphi, C++ and C#
 - [Math Library for Unity](https://assetstore.unity.com/packages/tools/math-library-for-unity-14912) c# unity plugin
@@ -2108,6 +2111,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MaterialCleaner](https://github.com/lujian101/UnityToolDist/blob/master/Assets/Editor/MaterialCleaner.cs)
 - [unity-material-cleaner](https://github.com/ina-amagami/unity-material-cleaner/blob/master/Assets/Editor/MaterialCleaner.cs)
 - [MotionFramework/Scripts/Editor/EditorTools](https://github.com/gmhevinci/MotionFramework/blob/master/Assets/MotionFramework/Scripts/Editor/EditorTools.cs)
+- [Unity材质冗余序列化数据清理](https://zhuanlan.zhihu.com/p/366636732)
 #### Color
 - [实时渲染之how to render pixels](https://zhuanlan.zhihu.com/p/128090890)
 - [伽马还是线性？用一张图理理在U3D中该如何设置。](https://zhuanlan.zhihu.com/p/271011254)
@@ -2678,6 +2682,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
 - https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
 - https://github.com/dbrizov/Unity-PathFindingAlgorithms
+- https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
 #### Tile map 
  - Isometric
  - Ultimate Grids Engine
@@ -2816,6 +2821,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
 - [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
 - [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
+- [Erbium](https://github.com/mikhomak/Erbium)  🤺Third Person Character Controller for unity🤺 
 - [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html) 
 - [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
 - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
