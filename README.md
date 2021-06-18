@@ -395,6 +395,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### Chinese
+- [大鹏的专栏](https://blog.csdn.net/yudianxia)
 - [mayidong](http://ma-yidong.com/blog/)
 - [skywind](http://www.skywind.me/blog/)
 - [行尸走肉的笔记](http://walkingfat.com/)
@@ -462,6 +463,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [alinloghin](http://alinloghin.com/) TA
 - [danielilett](https://danielilett.com/) URP TA
 - [Herman Tulleken](http://www.code-spot.co.za) PCG 
 - [therealmjp](https://therealmjp.github.io/posts/) TA
@@ -741,6 +743,7 @@ Table of Contents
 - [Lasp](https://github.com/keijiro/Lasp) Low-latency Audio Signal Processing plugin for Unity 
 - [usfxr](https://github.com/grapefrukt/usfxr)
 - [layersaudio](https://www.layersaudio.com/) unity audio plugin
+- https://github.com/nixon-voxell/UnityAudioVisualizer
 #### Music-Tool/Editor
 - https://www.image-line.com/
 - https://www.goldwave.com
@@ -1068,6 +1071,7 @@ Table of Contents
 ## Archive
 #### Article
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
+- https://github.com/KSP-CKAN/CKAN
 
 ## Version-Control
 - https://semver.org/lang/zh-CN/   -- 版本号规范
@@ -1135,6 +1139,11 @@ Table of Contents
 - https://heroiclabs.com/
 - https://github.com/grofit/persistity
 - https://github.com/kingston-csj/jforgame
+- https://github.com/LeagueSandbox/GameServer
+- https://github.com/Maufeat/MobileMOBA-Server
+- https://github.com/Uyouii/TPS-SLG-GAME
+- https://github.com/jwpttcg66
+- https://github.com/liuhaopen/SkynetMMO
 #### Article
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
 - [gafferongames](https://gafferongames.com/ )
@@ -1204,6 +1213,7 @@ Table of Contents
 - [UltraLiteDB](https://github.com/rejemy/UltraLiteDB) Unity LiteDB
 - [DBreeze](https://github.com/hhblaze/DBreeze/)  LiteDB - A .NET NoSQL Document Store
 - [Siaqodb](https://github.com/morecraf/Siaqodb) Siaqodb is a NoSQL embedded object and document database engine that currently runs on .NET, MonoMac, Universal Windows Platform (UWP), Xamarin.iOS, Xamarin.Android, Xamarin.Mac and Unity3D.
+- [UnityMemoryMappedFile](https://github.com/sh-akira/UnityMemoryMappedFile)
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
@@ -1364,6 +1374,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### Web/Http-fastest
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
+- https://github.com/codeskyblue/gohttpserver
 
 ## GameEngine Design
 #### Article/Course
@@ -1685,6 +1696,7 @@ It provides access for all the necessary tools required for efficient performanc
 instrumentation, switch-contexts, sampling, GPU counters.
 - [performance.tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
 - [profiling](https://github.com/aclysma/profiling)
+- [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
 #### GPU
 - [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
 - [renderdoc](https://renderdoc.org/) 
@@ -1788,6 +1800,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Yale-Graphics](http://graphics.cs.yale.edu/)
 #### Graphics-Library
 
+- https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
 - https://github.com/sinclairzx81/zero
 - http://www.mitsuba-renderer.org/
 - https://github.com/vurtun/nuklear nuklear-A single-header ANSI C gui library
@@ -1831,6 +1844,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/dotnet/Silk.NET
 - https://github.com/gfx-rs/gfx
 #### Collection
+- https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
 - [realtimerendering](http://www.realtimerendering.com/) 
 - [graphicscodex](https://graphicscodex.courses.nvidia.com/app.html?)
 - https://github.com/luisnts/awesome-computer-graphics
@@ -2325,6 +2339,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
 - https://github.com/madelson/DistributedLock
 - https://github.com/thedmi/Equ
+- https://github.com/bitwarden/server
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -2360,6 +2375,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/IRCSS/Procedural-painting
 - https://github.com/keijiro/Swarm
 - https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
+- https://github.com/voxell-tech/GPUClothSimulationInUnity
  
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
@@ -2559,6 +2575,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [goatstream](https://www.goatstream.com/research/)
 - [animation](https://www.animation.rwth-aachen.de/)
 - [interactive-graphics](http://www.interactive-graphics.de/) 
+- https://github.com/IndieVisualLab
 - [ActiveRagdoll](https://github.com/hobogalaxy/ActiveRagdoll)
 - [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
 - [binh.graphics](http://binh.graphics/)
@@ -2672,8 +2689,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/GilbertoGojira/DOTS-Stackr
 * https://github.com/Kimbatt/unity-deterministic-physics
 * https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-195567
+* https://github.com/AI-In-Games/FormationMovement
 ##### Article
 * https://coffeebraingames.wordpress.com
+* http://qiao.github.io/PathFinding.js/visual/
 #### Navmesh
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
