@@ -308,6 +308,7 @@ Table of Contents
 - [awesome-wgpu](https://github.com/rofrol/awesome-wgpu) : A curated list of wgpu code and resources.
 - [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
 - [data-oriented-design](https://github.com/dbartolini/data-oriented-design) : A curated list of data oriented design resources.
+- [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
 
 ## Awesome-General
 - http://nav.web-hub.cn/ 
@@ -2376,6 +2377,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/keijiro/Swarm
 - https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
+- https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/
  
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
