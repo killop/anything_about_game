@@ -2212,6 +2212,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://oi-wiki.org/
 - https://www.geeksforgeeks.org/advanced-data-structures/
 - https://doocs.github.io/#/README_CN
+- https://github.com/IceLanguage/LinHowe_GameAlgorithm
+- https://github.com/qq362946/AOI
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
 - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
