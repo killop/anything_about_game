@@ -1698,6 +1698,7 @@ It provides access for all the necessary tools required for efficient performanc
 instrumentation, switch-contexts, sampling, GPU counters.
 - [performance.tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
 - [profiling](https://github.com/aclysma/profiling)
+- [palanteer](https://github.com/dfeneyrou/palanteer)
 - [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
 #### GPU
 - [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
@@ -1878,6 +1879,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
+- [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
 #### Course/Article
 - [adreno-gpu](https://developer.qualcomm.com/docs/adreno-gpu/developer-guide/gpu/best_practices_shaders.html)
 - [Scratchapixel](/www.scratchapixel.com/)
@@ -2380,6 +2382,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
 - https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/
+- https://github.com/TarAlacrin/HeightmapOnTheGPU
  
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
@@ -2433,6 +2436,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [langs-in-rust](https://github.com/alilleybrinker/langs-in-rust)
 - [sol2](https://github.com/ThePhD/sol2) Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation: 
 - [lc3-vm](https://justinmeiners.github.io/lc3-vm/) Write your Own Virtual Machine
+- [nekovm](https://nekovm.org/)
+- [Jinx](https://jamesboer.github.io/Jinx/)
+- [terralang](https://terralang.org/)
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -2571,6 +2577,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
 - [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
 - [Unity下大量物体同屏渲染的性能优化思路](https://zhuanlan.zhihu.com/p/114646617)
+- [RenderHugeByGPUInstance](https://github.com/tkonexhh/RenderHugeByGPUInstance)
 #### Mesh Animation
 - https://github.com/SaiTingHu/MeshEditor.Effects
 #### Physics Based Animation
