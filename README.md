@@ -1880,6 +1880,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
+- [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 #### Course/Article
 - [adreno-gpu](https://developer.qualcomm.com/docs/adreno-gpu/developer-guide/gpu/best_practices_shaders.html)
 - [Scratchapixel](/www.scratchapixel.com/)
@@ -2531,6 +2532,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 - [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
+- [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
 #### Animation
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/rurre/PumkinsAvatarTools unity 表情
