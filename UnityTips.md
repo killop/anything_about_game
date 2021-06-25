@@ -4,3 +4,4 @@
 - [Unity3D - Personal Notebook](https://docs.google.com/document/d/1-EFSFLf8bJTZq60kwLzHBOTnb9nv6_Oelu5ho6J_-uI)
 - [Extract a .unitypackage to any directory (even outside the project folder) from within Unity ](https://gist.github.com/yasirkula/dfc43134fbfefb820d0adbc5d7c25fb3)
 - [Here is a nice and fast way to check if a polygon in 3D space is convex or concave.](https://twitter.com/BinaryImpactG/status/1381913049167065089)
+- [unity3dtips](https://www.unity3dtips.com/)
