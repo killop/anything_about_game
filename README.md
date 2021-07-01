@@ -2775,7 +2775,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [Open3D](https://github.com/intel-isl/Open3D) Open3D: A Modern Library for 3D Data Processing 
  - [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes meshes smaller and faster to render 
  - [trimesh](https://github.com/mikedh/trimesh) Python library for loading and using triangular meshes. 
- - [meshio](https://github.com/nschloe/meshio) There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts between them
+ - [meshio](https://github.com/nschloe/meshio) There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts  between them
+ - [MeshBoolean](https://github.com/KaimaChen/MeshBoolean) Make Boolean Operator on Mesh. In Unity.
 ##### Fracture Mesh
 - https://gitlab.com/dima13230/unity-libre-fracture
 #### Atlas
