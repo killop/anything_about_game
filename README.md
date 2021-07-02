@@ -105,6 +105,7 @@ Table of Contents
     - [C/CPP](#ccpp)
     - [Web/Http-fastest](#webhttp-fastest)
 - [GameEngine Design](#gameengine-design)
+    - [Collection](#collection-3)
     - [Article/Course](#articlecourse)
     - [2D Engines and Frameworks](#2d-engines-and-frameworks)
     - [3D Engines and Frameworks](#3d-engines-and-frameworks)
@@ -131,7 +132,7 @@ Table of Contents
     - [Graphics-Library](#graphics-library)
     - [SoftWare-Render](#software-render)
     - [3rd-Binding](#3rd-binding)
-    - [Collection](#collection-3)
+    - [Collection](#collection-4)
     - [Shading-Language](#shading-language)
     - [Course/Article](#coursearticle)
     - [B站优秀博主](#b站优秀博主)
@@ -1381,6 +1382,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/codeskyblue/gohttpserver
 
 ## GameEngine Design
+#### Collection
+- https://github.com/redorav/public_source_engines
 #### Article/Course
 - https://isetta.io/resources/
 - https://ourmachinery.com/
@@ -2444,6 +2447,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [nekovm](https://nekovm.org/)
 - [Jinx](https://jamesboer.github.io/Jinx/)
 - [terralang](https://terralang.org/)
+- [mana_lang](https://github.com/0xF6/mana_lang)
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -2647,6 +2651,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/SirHall/Excessives
 - https://github.com/prime31/UtilityKit
 - https://github.com/laurenth-personal/lightmap-switching-tool
+- https://github.com/vertxxyz/NTexturePreview
+- https://github.com/Unity-Technologies/AutoLOD/tree/master/Runtime/Helpers
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -2721,6 +2727,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
 - https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
 - https://github.com/dbrizov/Unity-PathFindingAlgorithms
+- https://github.com/samueltardieu/pathfinding
 - https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
 #### Tile map 
  - Isometric
