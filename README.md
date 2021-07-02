@@ -688,6 +688,7 @@ Table of Contents
 - http://www.polycount.com/forum/ - 他们有不同的招募论坛，包括有薪与无薪。- http://www.reddit.com/r/GameDevClassifieds - 发布你的工作，确认酬劳状态。浏览寻找艺术家。
 - http://www.gamedev.net/classifieds - GameDev.net 工作版块。
 - http://forum.deviantart.com/jobs/ - 太多具有才华的人了，不过许多都没有游戏工作经历，但还是一个值得看看的地方。只针对有酬劳的工作。
+- https://www.3dmodelscc0.com/ - Public domain 3D Models.
 
 
 ## Game-Design-Tool
