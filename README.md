@@ -24,7 +24,7 @@ Table of Contents
     - [Rust](#rust)
 - [Person/Social/Blogs](#personsocialblogs)
     - [Collection](#collection)
-    - [Chinese](#chinese)
+    - [中文](#中文)
     - [English](#english)
 - [Game-Company](#game-company)
 - [Game-Asset](#game-asset)
@@ -395,7 +395,8 @@ Table of Contents
 ## Person/Social/Blogs
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
-#### Chinese
+#### 中文
+- [查利鹏](https://imzlp.com/)
 - [大鹏的专栏](https://blog.csdn.net/yudianxia)
 - [mayidong](http://ma-yidong.com/blog/)
 - [skywind](http://www.skywind.me/blog/)
@@ -439,6 +440,7 @@ Table of Contents
 - [dev666](https://www.yuque.com/dev666)
 - [Unity - L.S的博客](http://www.lsngo.net/)
 - [杨文聪](https://yangwc.com/)
+- [Flyfish](http://trading-sutra.com/)
 - [wuch441692](http://rainyeve.com/wordpress/)
 - [A-SHIN](https://huangx916.github.io/)
 - [苍白的茧](http://www.dreamfairy.cn)
@@ -1727,6 +1729,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityShaderDebug](https://github.com/yujen/UnityShaderDebug) This material can print shader value. 
 - [ShaderDebug](https://github.com/zouchunyi/ShaderDebug) 详细文档参见知乎： https://zhuanlan.zhihu.com/p/104643601
 - [pix]( https://devblogs.microsoft.com/pix/documentation/)
+- [WaitForTargetFPS、Gfx.WaitForPresent](https://blog.csdn.net/yudianxia/article/details/79398590?)
+- [垂直同步，G-sync，Freesync](https://zhuanlan.zhihu.com/p/41848908)
 ## ComputerGraphics && Shading
 
 #### Conference
@@ -2456,6 +2460,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Jinx](https://jamesboer.github.io/Jinx/)
 - [terralang](https://terralang.org/)
 - [mana_lang](https://github.com/0xF6/mana_lang)
+- [halide](https://halide-lang.org/)
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -2736,7 +2741,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
 - https://github.com/dbrizov/Unity-PathFindingAlgorithms
 - https://github.com/samueltardieu/pathfinding
+- https://clementmihailescu.github.io/Pathfinding-Visualizer
+- https://github.com/zhm-real/PathPlanning
 - https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
+- https://github.com/ppiastucki/recast4j
 #### Tile map 
  - Isometric
  - Ultimate Grids Engine
