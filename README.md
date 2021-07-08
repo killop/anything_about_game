@@ -31,7 +31,6 @@ Table of Contents
 - [Game-Design-Tool](#game-design-tool)
     - [Collection](#collection-1)
     - [Voxel](#voxel)
-    - [Animation](#animation)
       - [Unity-Tool](#unity-tool)
     - [Font](#font)
       - [BitMap](#bitmap)
@@ -60,6 +59,13 @@ Table of Contents
     - [Design](#design)
     - [AI](#ai)
 - [locale](#locale)
+- [Animation](#animation)
+    - [Article/Collection](#articlecollection)
+    - [Animation DCC Tool](#animation-dcc-tool)
+    - [Animation Controller](#animation-controller)
+    - [GPU-Animation](#gpu-animation)
+    - [Mesh Animation](#mesh-animation)
+    - [Physics Based Animation](#physics-based-animation)
 - [Console/Command/Shell](#consolecommandshell)
 - [Scene](#scene)
     - [Terrain](#terrain)
@@ -116,12 +122,14 @@ Table of Contents
 - [Game-Math](#game-math)
     - [Math-Tool](#math-tool)
     - [Courses/Article/website](#coursesarticlewebsite)
-- [Physics Framework](#physics-framework)
-- [Fluid](#fluid)
-- [Cloth](#cloth)
-- [Position-Based-Dynamics](#position-based-dynamics)
-- [Softbodie](#softbodie)
-- [Vehicle](#vehicle)
+- [Physics](#physics)
+    - [Physics Framework](#physics-framework)
+    - [Physics BOOKS](#physics-books)
+    - [Fluid](#fluid)
+    - [Cloth](#cloth)
+    - [Position-Based-Dynamics](#position-based-dynamics)
+    - [Softbody](#softbody)
+    - [Vehicle](#vehicle)
 - [Game-BenchMark/Metric/Tool](#game-benchmarkmetrictool)
     - [Common](#common-1)
     - [GPU](#gpu)
@@ -210,15 +218,8 @@ Table of Contents
     - [Moba](#moba)
     - [Skill](#skill)
     - [Global illumination (GI)](#global-illumination-gi)
-    - [Animation](#animation-1)
-    - [Database](#database-1)
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
-    - [GPU-Animation](#gpu-animation)
-    - [Mesh Animation](#mesh-animation)
-    - [Physics Based Animation](#physics-based-animation)
-      - [BOOKS](#books)
-    - [Climb System](#climb-system)
     - [AI](#ai-1)
     - [UGUI](#ugui)
     - [2D](#2d)
@@ -704,16 +705,7 @@ Table of Contents
 *  [Sproxel](http://sproxel.blogspot.com.br/)
 *  [VoxelShop](https://blackflux.com/index.php)
 
-#### Animation
-- [Cascadeur](https://cascadeur.com/)
-- [spine](http://zh.esotericsoftware.com/)
-- [live3d](http://www.zingfront.cn/live3d/)
-- [live2d](https://www.live2d.com/)
-- [dragonbones](http://dragonbones.effecthub.com/) 
-- [creature](http://creature.kestrelmoon.com/index.html)
-- [spritestudio](http://www.webtech.co.jp/spritestudio/)
-- [mixamo](https://www.mixamo.com/#/)
-- https://www.creativebloq.com/advice/understand-the-12-principles-of-animation
+
 
 ##### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
@@ -925,7 +917,60 @@ Table of Contents
 ## locale
 - https://weblate.org/zh-hans/
 - https://molingyu.github.io/RosettaDocs/  本地化
-  
+
+## Animation
+#### Article/Collection
+- https://www.creativebloq.com/advice/understand-the-12-principles-of-animation
+#### Animation DCC Tool
+- [Cascadeur](https://cascadeur.com/)
+- [spine](http://zh.esotericsoftware.com/)
+- [live3d](http://www.zingfront.cn/live3d/)
+- [live2d](https://www.live2d.com/)
+- [dragonbones](http://dragonbones.effecthub.com/) 
+- [creature](http://creature.kestrelmoon.com/index.html)
+- [spritestudio](http://www.webtech.co.jp/spritestudio/)
+- [mixamo](https://www.mixamo.com/#/)
+#### Animation Controller
+- https://github.com/hiroki-o/VoxBlend unity  表情
+- https://github.com/rurre/PumkinsAvatarTools unity 表情
+- https://github.com/huailiang/knead_proj unity  捏脸
+- https://github.com/PixelWizards/BlendShapeController blendShapeController
+- https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
+- https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
+- [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
+- https://github.com/fengkan/RuntimeRetargeting
+- [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
+#### GPU-Animation
+- [Unity-Gpu-Skinning-Tool](https://github.com/ForeverZack/Unity-Gpu-Skinning-Tool)
+- [Animation-Texture-Bake](https://github.com/sugi-cho/Animation-Texture-Baker)
+- [GPU_Mesh_Instancing](https://github.com/studentutu/GPU_Mesh_Instancing)
+- [UnityGpuInstancing](https://github.com/kitasenjudesign/UnityGpuInstancing)
+- [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing)
+- [Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
+- [GPGPU Computing Animation & Skinning](https://zhuanlan.zhihu.com/p/50640269)
+- [GPUAnimation](https://github.com/joeante/Unity.GPUAnimation)
+- [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
+- [GPU Instancer - Crowd Animations](https://assetstore.unity.com/packages/tools/animation/gpu-instancer-crowd-animations-145114) unity-plugin
+- [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
+- [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
+- [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
+- [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
+- [Unity下大量物体同屏渲染的性能优化思路](https://zhuanlan.zhihu.com/p/114646617)
+- [RenderHugeByGPUInstance](https://github.com/tkonexhh/RenderHugeByGPUInstance)
+#### Mesh Animation
+- https://github.com/SaiTingHu/MeshEditor.Effects
+#### Physics Based Animation
+- [physicsbasedanimation](http://www.physicsbasedanimation.com/)
+- [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
+- [goatstream](https://www.goatstream.com/research/)
+- [animation](https://www.animation.rwth-aachen.de/)
+- [interactive-graphics](http://www.interactive-graphics.de/) 
+- https://github.com/IndieVisualLab
+- [ActiveRagdoll](https://github.com/hobogalaxy/ActiveRagdoll)
+- [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
+- [binh.graphics](http://binh.graphics/)
+- [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
+
 ## Console/Command/Shell
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
 - [BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole)
@@ -1639,7 +1684,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [projectivegeometricalgebra](http://projectivegeometricalgebra.org/) 摄影几何
 - [comparison with math libraries](https://nfrechette.github.io/2019/01/19/introducing_realtime_math/)
 - [线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
-## Physics Framework
+
+##  Physics
+#### Physics Framework
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
 - https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
@@ -1664,8 +1711,22 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://parry.rs/
 - https://rapier.rs/
 - https://github.com/fxredeemer/jitterphysics
-
-## Fluid
+#### Physics BOOKS
+- [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
+- [Physics Modeling for Game Programmers](https://www.amazon.com/Physics-Modeling-Programmers-David-Conger/dp/1592000932/)
+- [Fluid Simulation for Computer Graphics](https://www.amazon.ca/Simulation-Computer-Graphics-Second-Edition/dp/1482232839)
+- [The Art of Fluid Animation](https://www.amazon.ca/Art-Fluid-Animation-Jos-Stam/dp/1498700209)
+- [Computer Animation: Algorithms and Techniques ](https://www.amazon.com/Computer-Animation-Third-Edition-Algorithms/dp/0124158420/ref=dp_ob_title_bk)
+- [Physics Based Animation](https://www.amazon.com/Physics-Based-Animation-Graphics-Erleben/dp/1584503807)
+- [Game Physics ](https://www.amazon.com/Physics-Morgan-Kaufmann-Interactive-Technology/dp/1558607404)
+- [Real-Time Collision Detection ](https://www.amazon.com/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323)
+- [Guide to Dynamic Simulations of Rigid Bodies and Particle Systems ](https://www.amazon.com/Simulations-Particle-Simulation-Foundations-Applications/dp/1447144163)
+- [Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game ](https://www.amazon.com/dp/0123819768/?tag=stackoverfl08-20)
+- [Game Physics Pearls](https://www.amazon.ca/Game-Physics-Pearls-Gino-Bergen/dp/1568814747)
+- [Fluid Engine Development](https://www.amazon.ca/Fluid-Engine-Development-Doyub-Kim/dp/1498719929)
+- [Foundations of Physically Based Modeling and Animation](https://www.amazon.ca/Foundations-Physically-Based-Modeling-Animation/dp/1482234602/)
+- [Cloth Simulation for Computer Graphic](https://www.amazon.ca/Cloth-Simulation-Computer-Graphics-Stuyck/dp/1681734117/)
+#### Fluid
 - [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 - [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
 - [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
@@ -1681,24 +1742,22 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Trinity](https://github.com/portsmouth/Trinity) Programmable 3D GPU (WebGL) fluid simulator
 - [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
 
-## Cloth
+#### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
 * [opencloth](https://github.com/mmmovania/opencloth) A collection of source codes implementing cloth simulation algorithms in OpenGL 
 * [GPUClothSimulationInUnity](https://github.com/voxell-tech/GPUClothSimulationInUnity) About
 Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
-
-## Position-Based-Dynamics
+#### Position-Based-Dynamics
 - [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
-## Softbodie
+#### Softbody
 * [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
 * [SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation) Squish! A quick exploration of mesh deformation in response to collision 
-## Vehicle
+#### Vehicle
 * [tork](https://github.com/adrenak/tork) Arcade vehicle physics for Unity
 * [Randomation-Vehicle-Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
 
 ## Game-BenchMark/Metric/Tool
-
 #### Common
 - [Remotery](https://github.com/Celtoys/Remotery)
 - [perfdog](https://perfdog.qq.com/) 移动全平台性能测试分析专家
@@ -2555,18 +2614,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 - [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
-#### Animation
-- https://github.com/hiroki-o/VoxBlend unity  表情
-- https://github.com/rurre/PumkinsAvatarTools unity 表情
-- https://github.com/huailiang/knead_proj unity  捏脸
-- https://github.com/PixelWizards/BlendShapeController blendShapeController
-- https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
-- https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
-- [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
-- https://github.com/fengkan/RuntimeRetargeting
 
-#### Database
-- https://github.com/Cysharp/MasterMemory
 
 #### Asyn-Await
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
@@ -2587,53 +2635,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [XNode](https://github.com/Siccity/xNode)
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
 - [BlueGraph](https://github.com/McManning/BlueGraph)
-#### GPU-Animation
-- [Unity-Gpu-Skinning-Tool](https://github.com/ForeverZack/Unity-Gpu-Skinning-Tool)
-- [Animation-Texture-Bake](https://github.com/sugi-cho/Animation-Texture-Baker)
-- [GPU_Mesh_Instancing](https://github.com/studentutu/GPU_Mesh_Instancing)
-- [UnityGpuInstancing](https://github.com/kitasenjudesign/UnityGpuInstancing)
-- [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing)
-- [Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)
-- [GPGPU Computing Animation & Skinning](https://zhuanlan.zhihu.com/p/50640269)
-- [GPUAnimation](https://github.com/joeante/Unity.GPUAnimation)
-- [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
-- [GPU Instancer - Crowd Animations](https://assetstore.unity.com/packages/tools/animation/gpu-instancer-crowd-animations-145114) unity-plugin
-- [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
-- [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
-- [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
-- [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
-- [Unity下大量物体同屏渲染的性能优化思路](https://zhuanlan.zhihu.com/p/114646617)
-- [RenderHugeByGPUInstance](https://github.com/tkonexhh/RenderHugeByGPUInstance)
-#### Mesh Animation
-- https://github.com/SaiTingHu/MeshEditor.Effects
-#### Physics Based Animation
-- [physicsbasedanimation](http://www.physicsbasedanimation.com/)
-- [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
-- [goatstream](https://www.goatstream.com/research/)
-- [animation](https://www.animation.rwth-aachen.de/)
-- [interactive-graphics](http://www.interactive-graphics.de/) 
-- https://github.com/IndieVisualLab
-- [ActiveRagdoll](https://github.com/hobogalaxy/ActiveRagdoll)
-- [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
-- [binh.graphics](http://binh.graphics/)
-- [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
-##### BOOKS
-- [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
-- [Physics Modeling for Game Programmers](https://www.amazon.com/Physics-Modeling-Programmers-David-Conger/dp/1592000932/)
-- [Fluid Simulation for Computer Graphics](https://www.amazon.ca/Simulation-Computer-Graphics-Second-Edition/dp/1482232839)
-- [The Art of Fluid Animation](https://www.amazon.ca/Art-Fluid-Animation-Jos-Stam/dp/1498700209)
-- [Computer Animation: Algorithms and Techniques ](https://www.amazon.com/Computer-Animation-Third-Edition-Algorithms/dp/0124158420/ref=dp_ob_title_bk)
-- [Physics Based Animation](https://www.amazon.com/Physics-Based-Animation-Graphics-Erleben/dp/1584503807)
-- [Game Physics ](https://www.amazon.com/Physics-Morgan-Kaufmann-Interactive-Technology/dp/1558607404)
-- [Real-Time Collision Detection ](https://www.amazon.com/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323)
-- [Guide to Dynamic Simulations of Rigid Bodies and Particle Systems ](https://www.amazon.com/Simulations-Particle-Simulation-Foundations-Applications/dp/1447144163)
-- [Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game ](https://www.amazon.com/dp/0123819768/?tag=stackoverfl08-20)
-- [Game Physics Pearls](https://www.amazon.ca/Game-Physics-Pearls-Gino-Bergen/dp/1568814747)
-- [Fluid Engine Development](https://www.amazon.ca/Fluid-Engine-Development-Doyub-Kim/dp/1498719929)
-- [Foundations of Physically Based Modeling and Animation](https://www.amazon.ca/Foundations-Physically-Based-Modeling-Animation/dp/1482234602/)
-- [Cloth Simulation for Computer Graphic](https://www.amazon.ca/Cloth-Simulation-Computer-Graphics-Stuyck/dp/1681734117/)
-#### Climb System
-- [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
+
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
