@@ -31,7 +31,6 @@ Table of Contents
 - [Game-Design-Tool](#game-design-tool)
     - [Collection](#collection-1)
     - [Voxel](#voxel)
-      - [Unity-Tool](#unity-tool)
     - [Font](#font)
       - [BitMap](#bitmap)
         - [Free-Font](#free-font)
@@ -49,23 +48,28 @@ Table of Contents
     - [LOD](#lod)
     - [List-of-game-middleware](#list-of-game-middleware)
     - [CG Software API](#cg-software-api)
-    - [Texture](#texture)
-        - [PIX-Texture](#pix-texture)
-      - [Normal-Map](#normal-map)
-    - [GPU-Texture](#gpu-texture)
     - [Visual-Logic](#visual-logic)
     - [Material](#material-1)
     - [Tile](#tile)
     - [Design](#design)
     - [AI](#ai)
 - [locale](#locale)
+- [Texture](#texture)
+    - [PIX-Texture](#pix-texture)
+      - [Normal-Map](#normal-map)
+    - [GPU-Texture](#gpu-texture)
+    - [Texture Tool](#texture-tool)
+    - [Atlas](#atlas)
 - [Animation](#animation)
     - [Article/Collection](#articlecollection)
     - [Animation DCC Tool](#animation-dcc-tool)
     - [Animation Controller](#animation-controller)
     - [GPU-Animation](#gpu-animation)
     - [Mesh Animation](#mesh-animation)
+    - [Vertex Animation](#vertex-animation)
+    - [Tween](#tween)
     - [Physics Based Animation](#physics-based-animation)
+    - [Unity-Tool](#unity-tool)
 - [Console/Command/Shell](#consolecommandshell)
 - [Scene](#scene)
     - [Terrain](#terrain)
@@ -218,6 +222,7 @@ Table of Contents
     - [Moba](#moba)
     - [Skill](#skill)
     - [Global illumination (GI)](#global-illumination-gi)
+    - [Memory/GC](#memorygc)
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
     - [AI](#ai-1)
@@ -227,20 +232,16 @@ Table of Contents
     - [Util](#util)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Drawing](#drawing)
-    - [Vertex Animation](#vertex-animation)
     - [Effect](#effect-1)
-    - [Tween](#tween)
     - [Scriptable Object](#scriptable-object)
     - [DOTS](#dots)
       - [Article](#article-6)
     - [Navmesh](#navmesh)
     - [Tile map](#tile-map)
     - [Bone&&Spring](#bonespring)
-    - [Texture](#texture-1)
     - [Create Model](#create-model)
     - [Mesh](#mesh-1)
       - [Fracture Mesh](#fracture-mesh)
-    - [Atlas](#atlas)
     - [Fog](#fog)
     - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
@@ -258,6 +259,7 @@ Table of Contents
 - [Xcode](#xcode)
 - [Programmer-Common-Tool](#programmer-common-tool)
 - [workflow](#workflow)
+- [Auto Test](#auto-test)
 - [问答](#问答)
 - [文案排版](#文案排版)
 - [游戏策划](#游戏策划)
@@ -706,10 +708,6 @@ Table of Contents
 *  [VoxelShop](https://blackflux.com/index.php)
 
 
-
-##### Unity-Tool
-- [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
-
 #### Font
 ##### BitMap
 - [Unity-BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter)
@@ -846,51 +844,7 @@ Table of Contents
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
 * [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
-#### Texture
-* [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration
-* [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
-* [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
-* [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
-* [Krita](https://krita.org) - A professional painting program
-* [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
-* [Opentoonz](https://opentoonz.github.io/) - Animation production software
-* [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
-* [Synfig](https://www.synfig.org/) - 2D animation software
-* [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
-* [The Gimp](https://www.gimp.org) - A cross-platform image editor
-* http://www.snakehillgames.com/spritelamp/
-- http://renderhjs.net/shoebox/
-- https://www.autodraw.com/
-- [pixelandpolygon](https://pixelandpolygon.com/) Texture File Viewer
-- [pngquant](https://pngquant.org/)  pngquant is a command-line utility and a library for lossy compression of PNG images
-- [MaCrea - Material Creation Tool](https://www.zbrushcentral.com/t/macrea-material-creation-tool) MaCrea is a little material creation tool I wrote for use with Sculptris, while it simply creates material sphere images that can be used with Zbrush or any other App that takes advantage of that idea.
-- [cubemapgen](https://gpuopen.com/archived/cubemapgen/)
-- [PixPlant](https://www.pixplant.com/) PixPlant is a smart texturing app with the best tools to quickly transform a photo into seamless repeating textures and 3D maps. 
-- [Affinity Designer](https://affinity.serif.com/de/designer/) - Vector graphics editor with a bunch of features which also supports Adobe file formats
-- [doodad](https://doodad.dev/)
-- [ImageViewer](https://github.com/kopaka1822/ImageViewer) HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator 
-- [hdrview](https://github.com/wkjarosz/hdrview) hdrview
-- [hdrihaven](https://hdrihaven.com/)
-###### PIX-Texture
-- [pixelover](https://deakcor.itch.io/pixelover)
-- [spritemate](http://www.spritemate.com/)
-- [pixelatorapp](http://pixelatorapp.com/) Pixelator is a smart software to convert images into pixel art sprites and cover arts. With Pixelator you can use any source picture to easily generate Pixelated graphics for games or posters.
-- [PiskelApp](https://www.piskelapp.com/) Piskel is a free online editor for animated sprites & pixel art
-- [ProMotion](https://www.cosmigo.com/) pro motion is a pixel drawing and animation software designed similar to the famous Amiga Deluxe Paint (DPaint). Ideal for artists working on detailed and pixel precise graphics as required for mobile games and portable game consoles. It also suites well to create light weight graphics for web games.
-- [pixenapp](https://pixenapp.com/) Pixen is a professional pixel art editor designed for working with low-resolution raster art, such as those 8-bit sprites found in old-school video games. Pixen packs all the tools pixel artists need in an intuitive, native interface including support for high zoom levels, animation editing, color palettes, and a lot more.
-- [pyxeledit](https://pyxeledit.com/)
-- [aseprite](http://www.aseprite.org/)
-- [GrafX2](http://pulkomandy.tk/projects/GrafX2)
-- [GraphicsGale](https://graphicsgale.com/us/)
-##### Normal-Map
-- [cpetry](https://cpetry.github.io/NormalMap-Online/)
-- [crazybump](http://crazybump.com/mac/)  
-- https://github.com/kmkolasinski/AwesomeBump
-- https://www.codeandweb.com/spriteilluminator
-#### GPU-Texture
-- [basis_universal](https://github.com/BinomialLLC/basis_universal)
-- https://github.com/caosdoar/Fornos
-
+ 
 #### Visual-Logic
 - https://machinations.io/  
 
@@ -917,7 +871,75 @@ Table of Contents
 ## locale
 - https://weblate.org/zh-hans/
 - https://molingyu.github.io/RosettaDocs/  本地化
+## Texture
+* [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration
+* [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
+* [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
+* [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
+* [Krita](https://krita.org) - A professional painting program
+* [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
+* [Opentoonz](https://opentoonz.github.io/) - Animation production software
+* [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
+* [Synfig](https://www.synfig.org/) - 2D animation software
+* [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
+* [The Gimp](https://www.gimp.org) - A cross-platform image editor
+* http://www.snakehillgames.com/spritelamp/
+- http://renderhjs.net/shoebox/
+- https://www.autodraw.com/
+- [pixelandpolygon](https://pixelandpolygon.com/) Texture File Viewer
+- [pngquant](https://pngquant.org/)  pngquant is a command-line utility and a library for lossy compression of PNG images
+- [MaCrea - Material Creation Tool](https://www.zbrushcentral.com/t/macrea-material-creation-tool) MaCrea is a little material creation tool I wrote for use with Sculptris, while it simply creates material sphere images that can be used with Zbrush or any other App that takes advantage of that idea.
+- [cubemapgen](https://gpuopen.com/archived/cubemapgen/)
+- [PixPlant](https://www.pixplant.com/) PixPlant is a smart texturing app with the best tools to quickly transform a photo into seamless repeating textures and 3D maps. 
+- [Affinity Designer](https://affinity.serif.com/de/designer/) - Vector graphics editor with a bunch of features which also supports Adobe file formats
+- [doodad](https://doodad.dev/)
+- [ImageViewer](https://github.com/kopaka1822/ImageViewer) HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator 
+- [hdrview](https://github.com/wkjarosz/hdrview) hdrview
+- [hdrihaven](https://hdrihaven.com/)
+#### PIX-Texture
+- [pixelover](https://deakcor.itch.io/pixelover)
+- [spritemate](http://www.spritemate.com/)
+- [pixelatorapp](http://pixelatorapp.com/) Pixelator is a smart software to convert images into pixel art sprites and cover arts. With Pixelator you can use any source picture to easily generate Pixelated graphics for games or posters.
+- [PiskelApp](https://www.piskelapp.com/) Piskel is a free online editor for animated sprites & pixel art
+- [ProMotion](https://www.cosmigo.com/) pro motion is a pixel drawing and animation software designed similar to the famous Amiga Deluxe Paint (DPaint). Ideal for artists working on detailed and pixel precise graphics as required for mobile games and portable game consoles. It also suites well to create light weight graphics for web games.
+- [pixenapp](https://pixenapp.com/) Pixen is a professional pixel art editor designed for working with low-resolution raster art, such as those 8-bit sprites found in old-school video games. Pixen packs all the tools pixel artists need in an intuitive, native interface including support for high zoom levels, animation editing, color palettes, and a lot more.
+- [pyxeledit](https://pyxeledit.com/)
+- [aseprite](http://www.aseprite.org/)
+- [GrafX2](http://pulkomandy.tk/projects/GrafX2)
+- [GraphicsGale](https://graphicsgale.com/us/)
+##### Normal-Map
+- [cpetry](https://cpetry.github.io/NormalMap-Online/)
+- [crazybump](http://crazybump.com/mac/)  
+- https://github.com/kmkolasinski/AwesomeBump
+- https://www.codeandweb.com/spriteilluminator
+#### GPU-Texture
+- [basis_universal](https://github.com/BinomialLLC/basis_universal)
+- https://github.com/caosdoar/Fornos
 
+#### Texture Tool
+* [texturepacker](https://www.codeandweb.com/texturepacker)
+* [spriteuv](https://www.spriteuv.com/)
+* [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
+* [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
+* [SmartTexture](https://github.com/phi-lira/SmartTexture) Unity tool to pack texture channels into a single texture. 
+* [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
+* [mixture](https://openupm.com/packages/com.alelievr.mixture/) Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime. Mixture is very flexible, easily customizable through ShaderGraph and a simple C# API, fast with it's GPU based workflow and compatible with all the render pipelines thanks to the new Custom Render Texture API.
+* [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
+- https://github.com/StbSharp
+- [CC0Textures](https://github.com/keijiro/CC0TexturesUtils) Unity Editor scripts for preprocessing CC0 Textures 
+- https://cc0textures.com/ CC0 Textures is a library of high quality PBR materials for 3D rendering and game design licensed under the Creative Commons CC0 License. 
+- [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation 
+- https://github.com/weihaox/awesome-image-translation
+ #### Atlas
+- [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
+- [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
+- [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool 
+- [xatlas](https://github.com/jpcy/xatlas) Mesh parameterization / UV unwrapping library
+* [Thekla atlas](https://github.com/Thekla/thekla_atlas) | This tool performs mesh segmentation, surface
+ parameterization, and chart packing.
+* [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's
+ a library to generate an UV for -example- lightmap uv.  
+*  [AtlasGenerator](https://github.com/UniGameTeam/UniGame.AtlasGenerator) Rule based SpriteAtlas Generator for Unity3D
 ## Animation
 #### Article/Collection
 - https://www.creativebloq.com/advice/understand-the-12-principles-of-animation
@@ -959,6 +981,21 @@ Table of Contents
 - [RenderHugeByGPUInstance](https://github.com/tkonexhh/RenderHugeByGPUInstance)
 #### Mesh Animation
 - https://github.com/SaiTingHu/MeshEditor.Effects
+#### Vertex Animation
+- [vertex-animation-tools](https://assetstore.unity.com/packages/tools/animation/vertex-animation-tools-128190)
+- [vertexmotion](https://assetstore.unity.com/packages/tools/animation/vertexmotion-pro-25127)
+#### Tween
+- [Tween Player](https://assetstore.unity.com/packages/tools/animation/tween-player-158922) This is a simple & high performance & powerful interpolation animation tool. Unlike other interpolation animation tools, Tween Player is more data-driven and extensible. 
+- [dotween-pro](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416) famous unity plugin
+- [leantween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) LeanTween is an efficient tween engine that offers a many of the same features as the other tween engines (and more!) while having much less overhead.
+- [OneTween](https://github.com/onelei/OneTween) OneTween is a more efficient tween tool, easy to use in Unity UGUI animation. 
+- [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
+- [PlasticTween](https://github.com/PlasticApps/PlasticTween) - Tween Library for Unity3D(ECS+JOBS)
+- [unity-jtween](https://github.com/jeffcampbellmakesgames/unity-jtween) - A job-based tween library for Unity 
+- [GoKit](https://github.com/prime31/GoKit) Lightweight tween library for Unity aimed at making tweening objects dead simple and completely flexible. The wiki contains some usage information and examples.
+* [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
+* [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API
+* [ApureEasing](https://github.com/kyubuns/ApureEasing) Easing library for Unity Visual Scripting  
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -970,6 +1007,8 @@ Table of Contents
 - [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
 - [binh.graphics](http://binh.graphics/)
 - [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
+#### Unity-Tool
+- [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
 ## Console/Command/Shell
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
@@ -2615,7 +2654,15 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
 
-
+#### Memory/GC
+- [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
+- [解决unity3d mono内存问题的架构思路](https://zhuanlan.zhihu.com/p/379371712)
+- [关于unity mono内存优化的工具](https://zhuanlan.zhihu.com/p/99655489)
+- [Unity内存分配和回收的底层原理](https://zhuanlan.zhihu.com/p/381859536)
+- [Unity的内存管理与性能优化](https://zhuanlan.zhihu.com/p/362941227)
+- [Unity2019新特性增量式垃圾回收[译文]](https://www.bilibili.com/read/cv3260881)
+- [浅谈 Unity 内存管理](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)-
+- [[Unity 活动]-浅谈Unity内存管理](https://www.bilibili.com/video/av79798486/)
 #### Asyn-Await
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
 - https://github.com/Cysharp/UniTask
@@ -2680,24 +2727,12 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167)
 - [aline](https://assetstore.unity.com/packages/tools/gui/aline-162772)
 
-#### Vertex Animation
-- [vertex-animation-tools](https://assetstore.unity.com/packages/tools/animation/vertex-animation-tools-128190)
-- [vertexmotion](https://assetstore.unity.com/packages/tools/animation/vertexmotion-pro-25127)
+
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
 - [Dynamic Radial Masks](https://assetstore.unity.com/packages/vfx/shaders/dynamic-radial-masks-144845)
-#### Tween
-- [Tween Player](https://assetstore.unity.com/packages/tools/animation/tween-player-158922) This is a simple & high performance & powerful interpolation animation tool. Unlike other interpolation animation tools, Tween Player is more data-driven and extensible. 
-- [dotween-pro](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416) famous unity plugin
-- [leantween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) LeanTween is an efficient tween engine that offers a many of the same features as the other tween engines (and more!) while having much less overhead.
-- [OneTween](https://github.com/onelei/OneTween) OneTween is a more efficient tween tool, easy to use in Unity UGUI animation. 
-- [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
-- [PlasticTween](https://github.com/PlasticApps/PlasticTween) - Tween Library for Unity3D(ECS+JOBS)
-- [unity-jtween](https://github.com/jeffcampbellmakesgames/unity-jtween) - A job-based tween library for Unity 
-- [GoKit](https://github.com/prime31/GoKit) Lightweight tween library for Unity aimed at making tweening objects dead simple and completely flexible. The wiki contains some usage information and examples.
-* [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
-* [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API
-* [ApureEasing](https://github.com/kyubuns/ApureEasing) Easing library for Unity Visual Scripting 
+
+
 #### Scriptable Object
 * [ScriptableObjectCollection](https://github.com/brunomikoski/ScriptableObjectCollection) The ScriptableObjectCollection exists to help you deal with scriptable objects without losing your sanity! Its a set of tools that will make your life a lot easier.
 * [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
@@ -2764,18 +2799,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics)
  
  
- #### Texture
-* [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
-* [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
-* [SmartTexture](https://github.com/phi-lira/SmartTexture) Unity tool to pack texture channels into a single texture. 
-* [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
-* [mixture](https://openupm.com/packages/com.alelievr.mixture/) Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime. Mixture is very flexible, easily customizable through ShaderGraph and a simple C# API, fast with it's GPU based workflow and compatible with all the render pipelines thanks to the new Custom Render Texture API.
-* [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
-- https://github.com/StbSharp
-- [CC0Textures](https://github.com/keijiro/CC0TexturesUtils) Unity Editor scripts for preprocessing CC0 Textures 
-- https://cc0textures.com/ CC0 Textures is a library of high quality PBR materials for 3D rendering and game design licensed under the Creative Commons CC0 License. 
-- [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation 
-- https://github.com/weihaox/awesome-image-translation
+
  #### Create Model
  - [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-2-x-111418)
  - [Archimatix](https://assetstore.unity.com/packages/tools/modeling/archimatix-pro-59733)
@@ -2806,16 +2830,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [MeshBoolean](https://github.com/KaimaChen/MeshBoolean) Make Boolean Operator on Mesh. In Unity.
 ##### Fracture Mesh
 - https://gitlab.com/dima13230/unity-libre-fracture
-#### Atlas
-- [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
-- [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
-- [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool 
-- [xatlas](https://github.com/jpcy/xatlas) Mesh parameterization / UV unwrapping library
-* [Thekla atlas](https://github.com/Thekla/thekla_atlas) | This tool performs mesh segmentation, surface
- parameterization, and chart packing.
-* [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's
- a library to generate an UV for -example- lightmap uv.  
-*  [AtlasGenerator](https://github.com/UniGameTeam/UniGame.AtlasGenerator) Rule based SpriteAtlas Generator for Unity3D 
+
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
@@ -2953,7 +2968,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/fastlane/fastlane
 - https://github.com/aelassas/Wexflow
 - https://bonsai-rx.org
-
+##  Auto Test 
+- https://github.com/king3soft/UAutoIDE
+- https://github.com/AirtestProject
 ## 问答
 > 强烈推荐阅读 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)、[《如何向开源社区提问题》](https://github.com/seajs/seajs/issues/545) 和 [《如何有效地报告 Bug》](http://www.chiark.greenend.org.uk/%7Esgtatham/bugs-cn.html)、[《如何向开源项目提交无法解答的问题》](https://zhuanlan.zhihu.com/p/25795393)，更好的问题更容易获得帮助。
 
