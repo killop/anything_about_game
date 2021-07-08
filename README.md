@@ -113,7 +113,7 @@ Table of Contents
     - [Articles](#articles)
     - [C](#c-2)
     - [C/CPP](#ccpp)
-    - [Web/Http-fastest](#webhttp-fastest)
+    - [Web/Http](#webhttp)
 - [GameEngine Design](#gameengine-design)
     - [Collection](#collection-3)
     - [Article/Course](#articlecourse)
@@ -146,6 +146,7 @@ Table of Contents
     - [3rd-Binding](#3rd-binding)
     - [Collection](#collection-4)
     - [Shading-Language](#shading-language)
+    - [Shader Compiler](#shader-compiler)
     - [Course/Article](#coursearticle)
     - [B站优秀博主](#b站优秀博主)
     - [OpenGL](#opengl)
@@ -1466,11 +1467,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Muduo](https://github.com/chenshuo/muduo)
 - [NanoSockets](https://github.com/nxrighthere/NanoSockets) Lightweight UDP sockets abstraction for rapid implementation of message-oriented protocols 
 - [ggpo](https://github.com/pond3r/ggpo) Good Game, Peace Out Rollback Network SDK 
-#### Web/Http-fastest
+#### Web/Http
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 - https://github.com/codeskyblue/gohttpserver
-
+- https://github.com/filebrowser/filebrowser
 ## GameEngine Design
 #### Collection
 - https://github.com/redorav/public_source_engines
@@ -1995,6 +1996,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
+#### Shader Compiler
+- [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 #### Course/Article
 - [adreno-gpu](https://developer.qualcomm.com/docs/adreno-gpu/developer-guide/gpu/best_practices_shaders.html)
 - [Scratchapixel](/www.scratchapixel.com/)
@@ -2742,6 +2745,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy 
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
+- https://github.com/piruzhaolu/ActionFlow
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
@@ -3014,6 +3018,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [programming-awesome-list](https://github.com/BredaUniversity/programming-awesome-list)
 * [TechnicalNote](https://github.com/OtakuAndFitness/TechnicalNote)
 * [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
-
+* [GameDevelopTutorials](https://github.com/GamesTan/GameDevelopTutorials)
 
 ## 看完不star，小心没jj :）!
