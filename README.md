@@ -2783,6 +2783,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
 - https://github.com/dbrizov/Unity-PathFindingAlgorithms
 - https://github.com/samueltardieu/pathfinding
+- https://github.com/hugoscurti/hierarchical-pathfinding/
 - https://clementmihailescu.github.io/Pathfinding-Visualizer
 - https://github.com/zhm-real/PathPlanning
 - https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
