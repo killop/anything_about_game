@@ -450,6 +450,7 @@ Table of Contents
 - [苍白的茧](http://www.dreamfairy.cn)
 - [谢乃闻](https://sienaiwun.github.io/)
 - [房燕良](https://neil3d.github.io/)
+- [陆泽西](http://www.luzexi.com)
 - [KillerAery](https://www.cnblogs.com/KillerAery)
 - [笨木头](http://www.benmutou.com/)
 - [Ulysses](http://117.51.146.36/)
@@ -2780,6 +2781,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
+- https://github.com/idbrii/unity-navgen
 - https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
 - https://github.com/dbrizov/Unity-PathFindingAlgorithms
 - https://github.com/samueltardieu/pathfinding
