@@ -472,6 +472,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [theinstructionlimit](http://theinstructionlimit.com/) TA
 - [alinloghin](http://alinloghin.com/) TA
 - [danielilett](https://danielilett.com/) URP TA
 - [Herman Tulleken](http://www.code-spot.co.za) PCG 
@@ -2145,6 +2146,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
 - [适合于移动平台的预计算遮挡剔除](https://zhuanlan.zhihu.com/p/150448978)
+- [Vision](https://github.com/mackysoft/Vision) UnityEngine.CullingGroup API for everyone. 
 #### Unity-Shader
 ##### Article
 - [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/Wei_Yuan_2012/article/details/88677172?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
@@ -2786,6 +2788,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
 - https://github.com/idbrii/unity-navgen
+- https://github.com/h8man/NavMeshPlus
 - https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
 - https://github.com/dbrizov/Unity-PathFindingAlgorithms
 - https://github.com/samueltardieu/pathfinding
@@ -2979,6 +2982,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/fastlane/fastlane
 - https://github.com/aelassas/Wexflow
 - https://bonsai-rx.org
+- https://assetstore.unity.com/packages/tools/utilities/rocktomate-156311
 ##  Auto Test 
 - https://github.com/king3soft/UAutoIDE
 - https://github.com/AirtestProject
