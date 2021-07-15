@@ -5,3 +5,4 @@
 - [Extract a .unitypackage to any directory (even outside the project folder) from within Unity ](https://gist.github.com/yasirkula/dfc43134fbfefb820d0adbc5d7c25fb3)
 - [Here is a nice and fast way to check if a polygon in 3D space is convex or concave.](https://twitter.com/BinaryImpactG/status/1381913049167065089)
 - [unity3dtips](https://www.unity3dtips.com/)
+- [A solution to detecting Unity's active RenderPipeline ](https://gitlab.com/-/snippets/2026367)

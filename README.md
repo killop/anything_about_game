@@ -210,6 +210,7 @@ Table of Contents
     - [Compute Shader](#compute-shader)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
+    - [Collection](#collection-5)
     - [Garbage Collector](#garbage-collector)
     - [dynCall](#dyncall)
 - [DevOps](#devops)
@@ -2570,13 +2571,17 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [mana_lang](https://github.com/0xF6/mana_lang)
 - [halide](https://halide-lang.org/)
 - [ulox](https://github.com/stevehalliwell/ulox)
+
+#### Collection
+- https://github.com/alilleybrinker/langs-in-rust
+- https://github.com/prathyvsh/pl-catalog
+- [awesome-jit](https://github.com/wdv4758h/awesome-jit)
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
 #### dynCall
 - [libffi](http://sourceware.org/libffi/)
 - [dyncall](https://dyncall.org)
-- [awesome-jit](https://github.com/wdv4758h/awesome-jit)
 - [xbyak](https://github.com/herumi/xbyak) Xbyak is a C++ header library that enables dynamically to assemble x86(IA32), x64(AMD64, x86-64) mnemonic.
 ## DevOps
 #### Tools
