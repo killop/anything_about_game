@@ -1245,6 +1245,7 @@ Table of Contents
 - https://github.com/duanhf2012/origin
 - https://github.com/leeveel/GeekServer
 - https://github.com/v2v3v4/BigWorld-Engine-2.0.1
+- https://github.com/yekoufeng/seamless-world
 #### Article
 - https://github.com/briatte/awesome-network-analysis
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
