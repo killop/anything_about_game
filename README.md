@@ -2174,6 +2174,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity中影响渲染顺序的因素总结](https://zhuanlan.zhihu.com/p/55762351)
 - [[2017.8]半透明的绘制顺序与接收阴影问题](https://zhuanlan.zhihu.com/p/113399133)
 - [unity 半透明渲染技巧合集](https://zhuanlan.zhihu.com/p/123023614)
+- [关于理解 Premultiplied Alpha 的一些 Tips](https://zhuanlan.zhihu.com/p/344751308)
 - [图形学|shader|用一篇文章理解半透明渲染、透明度测试和混合、提前深度测试并彻底理清渲染顺序。](https://zhuanlan.zhihu.com/p/263566318)
 - [to-z-prepass-or-not-to-z-prepass](https://interplayoflight.wordpress.com/2020/12/21/to-z-prepass-or-not-to-z-prepass/)
 ##### Decal
