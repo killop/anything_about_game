@@ -1625,6 +1625,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - http://structuresynth.sourceforge.net/
 ## 并发执行和多线程
 #### CPP
+*   https://github.com/rigtorp/awesome-lockfree
 *   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
 *   Bolt：针对GPU进行优化的C++模板库。[官网](https://github.com/HSA-Libraries/Bolt)
 *   C++React：用于C++11的反应性编程库。[官网](https://github.com/schlangster/cpp.react)
@@ -2127,6 +2128,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/you-ri/LiliumToonGraph
 - https://github.com/SnutiHQ/Toon-Shader
 - https://github.com/Santarh/MToon
+- https://github.com/lilxyzw/lilToon
 
 #### SDF
 - https://github.com/CedricGuillemet/SDF
