@@ -1774,7 +1774,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Game Physics Pearls](https://www.amazon.ca/Game-Physics-Pearls-Gino-Bergen/dp/1568814747)
 - [Fluid Engine Development](https://www.amazon.ca/Fluid-Engine-Development-Doyub-Kim/dp/1498719929)
 - [Foundations of Physically Based Modeling and Animation](https://www.amazon.ca/Foundations-Physically-Based-Modeling-Animation/dp/1482234602/)
-- [Cloth Simulation for Computer Graphic](https://www.amazon.ca/Cloth-Simulation-Computer-Graphics-Stuyck/dp/1681734117/)
+
 #### Fluid
 - [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 - [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
@@ -1794,9 +1794,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
+* https://github.com/dragonbook/awesome-cloth
 * [opencloth](https://github.com/mmmovania/opencloth) A collection of source codes implementing cloth simulation algorithms in OpenGL 
 * [GPUClothSimulationInUnity](https://github.com/voxell-tech/GPUClothSimulationInUnity) About
 Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
+- [Cloth Simulation for Computer Graphic](https://www.amazon.ca/Cloth-Simulation-Computer-Graphics-Stuyck/dp/1681734117/)
 #### Position-Based-Dynamics
 - [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
 #### Softbody
