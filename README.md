@@ -2169,6 +2169,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/networm/ShaderVariantCollectionExporter
 * https://github.com/SixWays/UnityShaderStripper
 * https://gist.github.com/yasirkula/d8fa2fb5f22aefcc7a232f6feeb91db7
+* https://github.com/needle-tools/shader-variant-explorer
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
 ##### SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue
