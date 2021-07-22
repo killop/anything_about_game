@@ -2406,9 +2406,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
 - [caffeine](https://github.com/ben-manes/caffeine) A high performance caching library for Java 
 - [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
-- [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport)
+- [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport) Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. 
+- https://github.com/mono/Embeddinator-4000
 - [NativeOctree](https://github.com/marijnz/NativeOctree)
 - [SharedMemory](https://github.com/spazzarama/SharedMemory)  C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
+
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
@@ -2531,6 +2533,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/xiaoweiChen/Professional-CMake
 - https://www.bookstack.cn/books/CMake-Cookbook
 - https://github.com/SFUMECJF/cmake-examples-Chinese
+- https://github.com/xiaoweiChen/CMake-Cookbook
 
 ## Embed-Script/VM/JIT
 - [CS2X](https://github.com/reignstudios/CS2X) Transpiles a C# subset to non .NET languages and runtimes. (Powered by Roslyn) 
@@ -2681,6 +2684,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
 
 #### Memory/GC
+- https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
 - [解决unity3d mono内存问题的架构思路](https://zhuanlan.zhihu.com/p/379371712)
 - [关于unity mono内存优化的工具](https://zhuanlan.zhihu.com/p/99655489)
@@ -2792,6 +2796,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/GilbertoGojira/DOTS-Stackr
 * https://github.com/Kimbatt/unity-deterministic-physics
 * https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-195567
+* https://github.com/ssell/UnityDotsCharacterController
 * https://github.com/AI-In-Games/FormationMovement
 ##### Article
 * https://coffeebraingames.wordpress.com
@@ -2811,6 +2816,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/hugoscurti/hierarchical-pathfinding/
 - https://clementmihailescu.github.io/Pathfinding-Visualizer
 - https://github.com/zhm-real/PathPlanning
+- 
 - https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
 - https://github.com/ppiastucki/recast4j
 #### Tile map 
