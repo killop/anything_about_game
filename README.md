@@ -508,6 +508,7 @@ Table of Contents
 - [lidia-martinez](http://blog.lidia-martinez.com/) TA
 - [Hallucinations ](http://c0de517e.blogspot.com/)
 - [elopezr](http://www.elopezr.com/) TA
+- [rg3](https://rg3.name/index.html) TA
 - https://www.bruteforce-games.com/blog
 - https://www.martinpalko.com/
 - https://blog.selfshadow.com/
@@ -524,6 +525,12 @@ Table of Contents
 - [mfatihmar]( https://mfatihmar.com/)  working at Unity Technologies on Unity.
 - [Ming Wai Chan](https://cmwdexint.com/)  working at Unity Technologies on Unity.
 - [Jonathan Dupuy ](http://onrendering.com/)  working at Unity Technologies on Unity.
+- [Sebastian Aaltonen ](https://github.com/sebbbi) working at Unity Technologies on Unity.
+- [Laurent Belcour](https://belcour.github.io/blog/) working at Unity Technologies on Unity.
+- [Tim Cooper github ](https://github.com/stramit) and [blog](https://blog.unity.com/author/cap-stramit)  working at Unity Technologies on Unity.
+- [thomasdeliot](https://github.com/thomasdeliot) working at Unity Technologies on Unity.
+- [Kleber Garcia ](https://github.com/kecho) working at Unity Technologies on Unity.
+- [Natalya Tatarchuk](https://twitter.com/mirror2mask) working at Unity Technologies on Unity.
 - [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
 - [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
 - https://simonschreibt.de/
@@ -1562,13 +1569,13 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 
 #### 3D Engines and Frameworks
+* [SpartanEngine](https://github.com/PanosK92/SpartanEngine)
 * [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D :o2:
 * [ariyana](https://github.com/kochol/ariyana) Ariyana is an ECS work in progress game engine written in Orthodox C++ and Beef with a focus on cross-platform and multiplayer games 
 * [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. :o2:
 * [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. :o2:
 * [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++. :o2:
-
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. :o2:
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan. :o2:
 * [gameplay3d](http://gameplay3d.io/) - 2D + 3D game framework written in C++ :o2:
@@ -2054,6 +2061,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [shader-playground](http://shader-playground.timjones.io/)
 
 #### GPU-Architecture
+- [rastergrid](https://rastergrid.com/blog/)
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
 - https://www.jianshu.com/p/87cf95b1faa0
@@ -2068,6 +2076,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
 - 微信公众号：GPUer
 - [GPU/CPU性能天梯图](https://mubu.com/doc/explore/17532)
+- [gpu/cpu硬件信息](https://dench.flatlib.jp/)
 
 #### Optimize
 - [针对移动端TBDR架构GPU特性的渲染优化](https://gameinstitute.qq.com/community/detail/123220)
@@ -2077,6 +2086,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [深入剖析GPU Early Z优化](https://zhuanlan.zhihu.com/p/53092784)
 -  https://software.intel.com/en-us/gamedev 
 -  http://developer.download.nvidia.com/GPU_Programming_Guide/GPU_Programming_Guide.pdf
+-  [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 #### Physically-Based-Render
 - https://github.com/neil3d/awesome-pbr
 - https://github.com/Josh015/Alloy
