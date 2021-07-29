@@ -224,6 +224,7 @@ Table of Contents
     - [Moba](#moba)
     - [Skill](#skill)
     - [Global illumination (GI)](#global-illumination-gi)
+    - [ShaderGraph&&Effect](#shadergrapheffect)
     - [Memory/GC](#memorygc)
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
@@ -473,6 +474,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [joyrok](https://joyrok.com) TA sdf
 - [theinstructionlimit](http://theinstructionlimit.com/) TA
 - [alinloghin](http://alinloghin.com/) TA
 - [danielilett](https://danielilett.com/) URP TA
@@ -1732,6 +1734,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.3blue1brown.com/
 - http://www.matrix67.com/blog
 - https://mmaqa.com/
+- https://gist.github.com/munrocket/f247155fc22ecb8edf974d905c677de1?
 - [空间划分](https://www.cnblogs.com/KillerAery/p/10878367.html)
 - [切线空间（Tangent Space）完全解析](https://zhuanlan.zhihu.com/p/139593847)
 - [图形学 | Shader |用一篇文章理解法线变换、切线空间、法线贴图](https://zhuanlan.zhihu.com/p/261667233)
@@ -2061,7 +2064,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [shader-playground](http://shader-playground.timjones.io/)
 
 #### GPU-Architecture
-- [rastergrid](https://rastergrid.com/blog/)
+- [gpu-architecture-types-explained](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
 - https://www.jianshu.com/p/87cf95b1faa0
@@ -2104,7 +2107,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [nori](https://wjakob.github.io/nori/) Nori: an educational ray tracer 
 - [minilight](https://www.hxa.name/minilight) another good educational path tracer.
 - https://github.com/daseyb/pathgraph 
-- [](https://github.com/64/cmake-raytracer)
+- [cmake-raytracer](https://github.com/64/cmake-raytracer)
+- https://developer.download.nvidia.com/ray-tracing-gems/rtg2-chapter30-preprint.pdf
 ##### NPR
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
@@ -2693,6 +2697,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
 
+#### ShaderGraph&&Effect
+- [ShaderGraph暴力学习](https://www.bilibili.com/video/BV1ZE411W7Nz?)
+- [赵京宇](https://www.bilibili.com/video/BV1ut41197aQ)
+- [浮生若梦Jason](https://space.bilibili.com/20508311/)
+- [游戏特效优化指南—贴图篇](https://zhuanlan.zhihu.com/p/394084695)
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
