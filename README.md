@@ -350,6 +350,7 @@ Table of Contents
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
+- [Unity技术美术](https://www.zhihu.com/column/c_1348315318327132160)
 - [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
 - [unity-grenoble](https://unity-grenoble.github.io/website/)
 - [ea.seed](https://www.ea.com/seed)
@@ -1983,6 +1984,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/egorodet/MethaneKit
 - https://github.com/dotnet/Silk.NET
 - https://github.com/gfx-rs/gfx
+- https://github.com/threejs4net/threejs4net
 #### Collection
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
 - [realtimerendering](http://www.realtimerendering.com/) 
