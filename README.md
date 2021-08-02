@@ -1713,6 +1713,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [MaxMath](https://github.com/MrUnbelievable92/MaxMath)
 - [XUGL](https://github.com/monitor1394/XUGL)
 - [nalgebra](https://www.nalgebra.org/) rust math
+- [bezierjs](https://github.com/Pomax/bezierjs) A nodejs and client-side library for (cubic) Bezier curve work 
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -2960,6 +2961,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
 - [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
 - [Erbium](https://github.com/mikhomak/Erbium)  🤺Third Person Character Controller for unity🤺 
+- [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.). 
 - [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html) 
 - [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
 - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
