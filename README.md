@@ -944,6 +944,7 @@ Table of Contents
 - https://cc0textures.com/ CC0 Textures is a library of high quality PBR materials for 3D rendering and game design licensed under the Creative Commons CC0 License. 
 - [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation 
 - https://github.com/weihaox/awesome-image-translation
+- [procedural-stochastic-texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) Modified Shader Graph package implementing Procedural Stochastic Texturing 
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
@@ -1178,6 +1179,8 @@ Table of Contents
 #### Article
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
 - https://github.com/KSP-CKAN/CKAN
+- https://github.com/SteamDatabase/ValveResourceFormat
+- https://github.com/wattostudios/GameExtractor
 
 ## Version-Control
 - https://semver.org/lang/zh-CN/   -- 版本号规范
@@ -1825,6 +1828,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Remotery](https://github.com/Celtoys/Remotery)
 - [perfdog](https://perfdog.qq.com/) 移动全平台性能测试分析专家
 - [upr](https://upr.unity.com/) 一款Unity出的性能分析工具，基于UnityProfiler的基础上制作的UPR，UPR的数据来自与UnityProfiler，会比Profiler有更多细节信息
+- [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Excpetion-Crash)
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
 - [uwa4d](https://www.uwa4d.com/)
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
@@ -1987,6 +1991,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/gfx-rs/gfx
 - https://github.com/threejs4net/threejs4net
 #### Collection
+- https://github.com/neverfelly/awesome-light-transport
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
 - [realtimerendering](http://www.realtimerendering.com/) 
 - [graphicscodex](https://graphicscodex.courses.nvidia.com/app.html?)
