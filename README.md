@@ -472,6 +472,7 @@ Table of Contents
 - [周明倫](http://allenchou.net/) unity
 - [dotnetfly](https://github.com/ctripxchuang/dotnetfly)
 - [张蕾](https://www.lei.chat/) vulkan
+- [重归混沌](https://blog.gotocoding.com/)
 - https://halfrost.com
  
 #### English
@@ -947,6 +948,7 @@ Table of Contents
 - [procedural-stochastic-texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) Modified Shader Graph package implementing Procedural Stochastic Texturing 
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
+- [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
 - [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
 - [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool 
 - [xatlas](https://github.com/jpcy/xatlas) Mesh parameterization / UV unwrapping library
@@ -954,7 +956,7 @@ Table of Contents
  parameterization, and chart packing.
 * [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's
  a library to generate an UV for -example- lightmap uv.  
-*  [AtlasGenerator](https://github.com/UniGameTeam/UniGame.AtlasGenerator) Rule based SpriteAtlas Generator for Unity3D
+* [AtlasGenerator](https://github.com/UniGameTeam/UniGame.AtlasGenerator) Rule based SpriteAtlas Generator for Unity3D
 ## Animation
 #### Article/Collection
 - https://www.creativebloq.com/advice/understand-the-12-principles-of-animation
@@ -1274,10 +1276,18 @@ Table of Contents
 - [网络游戏开发中的通讯杂谈](https://zhuanlan.zhihu.com/p/347389861)
 - [端游、手游服务端常用的架构是什么样的？](https://www.zhihu.com/question/29779732/answer/45791817)
 - [网络游戏同步技术概述](https://zhuanlan.zhihu.com/p/56923109)
+- [Unity帧同步解决方案](https://zhuanlan.zhihu.com/p/66582899)
+- [帧同步：浮点精度测试](https://zhuanlan.zhihu.com/p/30422277)
+- [帧同步和状态同步该怎么选](https://zhuanlan.zhihu.com/p/104932624)
+- [A guide to understanding netcode](https://www.gamereplays.org/overwatch/portals.php?show=page&name=overwatch-a-guide-to-understanding-netcode)
+- [再谈网游同步技术](http://www.skywind.me/blog/archives/1343#more-1343)
+- [帧同步优化难点及解决方案](https://www.cnblogs.com/yptianma/p/11781083.html)
+- [帧同步整理](https://www.zhihu.com/search?type=content&q=%E5%B8%A7%E5%90%8C%E6%AD%A5%E6%95%B4%E7%90%86)
 #### Lockstep
 - http://netcoding4d.com/
 - https://cloud.tencent.com/product/mgobe
 - https://github.com/JiepengTan/LockstepECS 
+- https://github.com/JiepengTan/LockstepEngine
 - https://github.com/SnpM/LockstepFramework
 - https://github.com/proepkes/UnityLockstep
 - https://github.com/CraneInForest/LockStepSimpleFramework-Client
@@ -1990,6 +2000,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/dotnet/Silk.NET
 - https://github.com/gfx-rs/gfx
 - https://github.com/threejs4net/threejs4net
+- https://github.com/DigitalRune/DigitalRune
 #### Collection
 - https://github.com/neverfelly/awesome-light-transport
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
@@ -2029,6 +2040,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Shader Compiler
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 #### Course/Article
+- [图形学硬件拾遗](https://zhuanlan.zhihu.com/p/371469482)
+- [Life of a triangle](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
+- [GPU架构及运行机制学习笔记](https://zhuanlan.zhihu.com/p/393485253)
 - [adreno-gpu](https://developer.qualcomm.com/docs/adreno-gpu/developer-guide/gpu/best_practices_shaders.html)
 - [Scratchapixel](/www.scratchapixel.com/)
 - [学习笔记：GAMES101-现代计算机图形学入门](https://blog.csdn.net/weixin_43803133/category_10303553.html)
@@ -2432,7 +2446,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/mono/Embeddinator-4000
 - [NativeOctree](https://github.com/marijnz/NativeOctree)
 - [SharedMemory](https://github.com/spazzarama/SharedMemory)  C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
-
+- [DawgSharp](https://github.com/bzaar/DawgSharp) DAWG String Dictionary in C# 
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
