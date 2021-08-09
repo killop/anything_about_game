@@ -113,6 +113,7 @@ Table of Contents
     - [Articles](#articles)
     - [C](#c-2)
     - [C/CPP](#ccpp)
+    - [Rust](#rust-2)
     - [Web/Http](#webhttp)
 - [GameEngine Design](#gameengine-design)
     - [Collection](#collection-3)
@@ -1219,6 +1220,7 @@ Table of Contents
 
 ## Game-Server-framework
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
+- https://github.com/dotnwat/awesome-seastar
 - https://github.com/TrinityCore/TrinityCore
 - https://github.com/azerothcore/azerothcore-wotlk
 - https://github.com/ylmbtm/GameProject3
@@ -1494,12 +1496,15 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) Reliable UDP networking solution for building multiplayer games. (In public testing phase) 
 * [LiteNetwork](https://github.com/Eastrall/LiteNetwork)
 * [csharp-kcp](https://github.com/l42111996/csharp-kcp)
+* [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
 - [NanoSockets](https://github.com/nxrighthere/NanoSockets) Lightweight UDP sockets abstraction for rapid implementation of message-oriented protocols 
 - [ggpo](https://github.com/pond3r/ggpo) Good Game, Peace Out Rollback Network SDK 
+#### Rust
+- [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 #### Web/Http
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
@@ -2790,6 +2795,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/laurenth-personal/lightmap-switching-tool
 - https://github.com/vertxxyz/NTexturePreview
 - https://github.com/Unity-Technologies/AutoLOD/tree/master/Runtime/Helpers
+- https://github.com/renanwolf/UniRate/
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -2841,6 +2847,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/Kimbatt/unity-deterministic-physics
 * https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-195567
 * https://github.com/AI-In-Games/FormationMovement
+* https://github.com/NagaChiang/entity-tween
 ##### Article
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
