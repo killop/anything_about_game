@@ -2045,6 +2045,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
+- [common-shaders](https://github.com/libretro/common-shaders)
 #### Shader Compiler
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 #### Course/Article
