@@ -2212,6 +2212,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [如何阅读和还原分析器中的DXBC](https://zhuanlan.zhihu.com/p/346324622)
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 ##### ShaderVariant
+- [Shader变体收集与打包](https://github.com/Nicholas10128/AAAResearch/blob/master/Experiences/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97.md#shadervariantcollection%E7%94%9F%E6%88%90%E9%80%9A%E8%BF%87shaderfeature%E5%AE%9A%E4%B9%89%E7%9A%84%E5%8F%98%E4%BD%93%E8%A7%84%E5%88%99)
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 * https://github.com/networm/ShaderVariantCollectionExporter
 * https://github.com/SixWays/UnityShaderStripper
@@ -2723,6 +2724,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/WAYNGROUP/MGM-Ability
 - https://github.com/KrazyL/SkillSystem-3
 - https://github.com/qq362946/AOI
+- https://github.com/wqaetly/SkillEditorBasedOnSlate
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
 - [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
@@ -2826,6 +2828,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
 - https://github.com/piruzhaolu/ActionFlow
+- https://github.com/SinyavtsevIlya/BehaviorTree
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
