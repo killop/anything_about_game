@@ -2995,6 +2995,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
 - [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
 - [Erbium](https://github.com/mikhomak/Erbium)  🤺Third Person Character Controller for unity🤺 
+- [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.). 
 * https://github.com/ssell/UnityDotsCharacterController
 - [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html) 
@@ -3010,6 +3011,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 -  [AnimeTask](https://github.com/kyubuns/AnimeTask)
 -  https://github.com/GiovanniZambiasi/Client-Side-Prediction
 -  [Fluent Animation - An incredible animation queue system](https://assetstore.unity.com/packages/tools/animation/fluent-animation-an-incredible-animation-queue-system-84715) unity-plugin
+-  https://github.com/rygo6/CardExample-Unity
+-  https://github.com/ycarowr/UiCard
+-  https://github.com/CragonGame/CasinosClient
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 ## GameReverse
