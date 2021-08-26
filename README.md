@@ -159,6 +159,7 @@ Table of Contents
     - [Ray Tracing](#ray-tracing)
       - [NPR](#npr)
     - [SDF](#sdf)
+    - [Outline](#outline)
     - [VirturalTexture](#virturaltexture)
     - [Occlusion Culling](#occlusion-culling)
     - [Unity-Shader](#unity-shader)
@@ -1263,6 +1264,7 @@ Table of Contents
 - https://github.com/leeveel/GeekServer
 - https://github.com/v2v3v4/BigWorld-Engine-2.0.1
 - https://github.com/yekoufeng/seamless-world
+- https://github.com/googleforgames/quilkin
 #### Article
 - https://github.com/briatte/awesome-network-analysis
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
@@ -1807,6 +1809,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game ](https://www.amazon.com/dp/0123819768/?tag=stackoverfl08-20)
 - [Game Physics Pearls](https://www.amazon.ca/Game-Physics-Pearls-Gino-Bergen/dp/1568814747)
 - [Fluid Engine Development](https://www.amazon.ca/Fluid-Engine-Development-Doyub-Kim/dp/1498719929)
+- [zibra](https://zibra.ai/)
 - [Foundations of Physically Based Modeling and Animation](https://www.amazon.ca/Foundations-Physically-Based-Modeling-Animation/dp/1482234602/)
 
 #### Fluid
@@ -1882,6 +1885,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ## ComputerGraphics && Shading
 
 #### Conference
+- [siggraph-2021-links](https://blog.selfshadow.com/2021/08/18/siggraph-2021-links/)
 - [ACM Siggraph 2020](https://s2020.siggraph.org/)
 - [ACM Siggraph ASIA 2020](https://sa2020.siggraph.org/)
 - [ACM SIGGRAPH/Eurographics Symposium on Computer Animation 2020](http://computeranimation.org/)
@@ -2051,6 +2055,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Shader Compiler
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 #### Course/Article
+- [技术美术学习大纲](https://zhuanlan.zhihu.com/p/401525846)
 - [图形学硬件拾遗](https://zhuanlan.zhihu.com/p/371469482)
 - [Life of a triangle](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
 - [GPU架构及运行机制学习笔记](https://zhuanlan.zhihu.com/p/393485253)
@@ -2118,12 +2123,14 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [针对移动端TBDR架构GPU特性的渲染优化](https://gameinstitute.qq.com/community/detail/123220)
 - [Performance Tunning for Tile-Based Architecture/Tile-Based架构下的性能调校](https://www.cnblogs.com/gameknife/p/3515714.html)
 - [后处理效率问题和Tile-Based GPU](https://zhuanlan.zhihu.com/p/135285010)
+- [Loads, Stores, Passes, and Advanced GPU Pipelines]()
 - [再议移动平台的AlphaTest效率问题](https://zhuanlan.zhihu.com/p/33127345)
 - [深入剖析GPU Early Z优化](https://zhuanlan.zhihu.com/p/53092784)
 -  https://software.intel.com/en-us/gamedev 
 -  http://developer.download.nvidia.com/GPU_Programming_Guide/GPU_Programming_Guide.pdf
 -  [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 #### Physically-Based-Render
+- [Physica
 - https://github.com/neil3d/awesome-pbr
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
@@ -2140,6 +2147,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [nori](https://wjakob.github.io/nori/) Nori: an educational ray tracer 
 - [minilight](https://www.hxa.name/minilight) another good educational path tracer.
 - https://github.com/daseyb/pathgraph 
+- https://www.ospray.org/index.html
 - [cmake-raytracer](https://github.com/64/cmake-raytracer)
 - https://developer.download.nvidia.com/ray-tracing-gems/rtg2-chapter30-preprint.pdf
 ##### NPR
@@ -2195,7 +2203,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 * [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
 * [What-Are-SDFs-Anyway](https://joyrok.com/What-Are-SDFs-Anyway)
-
+#### Outline
+- https://alexanderameye.github.io/notes/rendering-outlines/
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
 #### Occlusion Culling
@@ -2632,6 +2641,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [mana_lang](https://github.com/0xF6/mana_lang)
 - [halide](https://halide-lang.org/)
 - [ulox](https://github.com/stevehalliwell/ulox)
+- [umka-lang](https://github.com/vtereshkov/umka-lang)
 
 #### Collection
 - https://github.com/alilleybrinker/langs-in-rust
@@ -3050,6 +3060,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [box3](www.box3.cn) 开发者工具箱
 - https://ihateregex.io/expr 正则表达式
 - https://www.toolnb.com  toolnb 
+- https://github.com/eastlakeside/awesome-productivity-cn
 - https://www.kwgg2020.com/
 - https://jianwai.youdao.com/
 - https://github.com/zhaoolee/OnlineToolsBook 集锦
