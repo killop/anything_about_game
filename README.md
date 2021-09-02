@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-    高端游戏开发资源干货分享QQ群：1067123079 &nbsp &nbsp &nbsp 职场灌水QQ群:659339471
+    高端游戏开发资源干货分享QQ群:1067123079 &nbsp &nbsp &nbsp 职场灌水QQ群:659339471
 </p>
 <br>
 
