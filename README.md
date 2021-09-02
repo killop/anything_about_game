@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-    高端游戏开发资源分享QQ群：1067123079 
+    高端游戏开发资源干货分享QQ群：1067123079,职场灌水QQ群:659339471
 </p>
 <br>
 
@@ -1400,6 +1400,7 @@ Table of Contents
 - https://github.com/System-IO-Abstractions/System.IO.Abstractions
 - https://github.com/Singulink/Singulink.IO.FileSystem 
 - https://github.com/tagcode/Lexical.FileSystem
+- https://github.com/dre0dru/LocalStorage
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 
 ## Hash
@@ -2812,6 +2813,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/vertxxyz/NTexturePreview
 - https://github.com/Unity-Technologies/AutoLOD/tree/master/Runtime/Helpers
 - https://github.com/renanwolf/UniRate/
+- https://github.com/ashblue/oyster-package-generator
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -2968,6 +2970,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Unity-Technologies/asset-auditing-tools
 - https://github.com/MarkUnity/AssetAuditor
 - https://github.com/charcolle/CustomAssetImporter
+- https://github.com/daihenka/asset-pipeline
 ##### Textrue Compression
 - [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
 - [常用纹理和纹理压缩格式](https://blog.csdn.net/ynnmnm/article/details/44983545)
@@ -3127,5 +3130,5 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [TechnicalNote](https://github.com/OtakuAndFitness/TechnicalNote)
 * [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
 * [GameDevelopTutorials](https://github.com/GamesTan/GameDevelopTutorials)
-
+* [秋秋群里面的日常讨论](https://gist.github.com/lexnewgate/01dc7a985b2c8d847adfb90758d24843)
 ## 看完不star，小心没jj :）!
