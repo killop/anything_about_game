@@ -405,6 +405,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
+- [musoucrow](https://musoucrow.github.io/)
 - [查利鹏](https://imzlp.com/)
 - [大鹏的专栏](https://blog.csdn.net/yudianxia)
 - [mayidong](http://ma-yidong.com/blog/)
