@@ -948,6 +948,7 @@ Table of Contents
 - [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation 
 - https://github.com/weihaox/awesome-image-translation
 - [procedural-stochastic-texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) Modified Shader Graph package implementing Procedural Stochastic Texturing 
+- [超强一键生成特效常用贴图网站介绍！](https://www.bilibili.com/video/BV1ub411U7Jc/?spm_id_from=autoNext)
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -1740,6 +1741,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [XUGL](https://github.com/monitor1394/XUGL)
 - [nalgebra](https://www.nalgebra.org/) rust math
 - [bezierjs](https://github.com/Pomax/bezierjs) A nodejs and client-side library for (cubic) Bezier curve work 
+- [DualQuaternionsForUnity](https://github.com/johannesugb/DualQuaternionsForUnity)
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -2593,6 +2595,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.bookstack.cn/books/CMake-Cookbook
 - https://github.com/SFUMECJF/cmake-examples-Chinese
 - https://github.com/xiaoweiChen/CMake-Cookbook
+- https://github.com/fenneishi/cmake
+- https://zhuanlan.zhihu.com/p/393316878
 
 ## Embed-Script/VM/JIT
 - [CS2X](https://github.com/reignstudios/CS2X) Transpiles a C# subset to non .NET languages and runtimes. (Powered by Roslyn) 
