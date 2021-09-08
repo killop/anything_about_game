@@ -284,6 +284,7 @@ Table of Contents
 - [gamextech](https://github.com/miloyip/gamextech) A web-based knowledge management system for visualizing game related technologies.
 - https://github.com/Kavex/GameDev-Resources
 - https://github.com/raizam/gamedev_libraries
+- https://github.com/qxiaofan/awesome_3d_restruction
 - https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
 - https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
 - https://github.com/soruly/awesome-acg 嗯！acg
@@ -2329,6 +2330,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MotionFramework/Scripts/Editor/EditorTools](https://github.com/gmhevinci/MotionFramework/blob/master/Assets/MotionFramework/Scripts/Editor/EditorTools.cs)
 - [Unity材质冗余序列化数据清理](https://zhuanlan.zhihu.com/p/366636732)
 #### Color
+- [色彩理论」颜色是怎么回事儿？以及如何高效使用 Adobe 颜色库](https://www.bilibili.com/video/BV114411R7x4?)
+- [皮克斯光线与色彩应用培训中文字幕](https://www.bilibili.com/video/BV1Dr4y1P7LW?)
+- [电脑颜色是错的](https://www.bilibili.com/video/BV1Js411S7w3?)
 - [实时渲染之how to render pixels](https://zhuanlan.zhihu.com/p/128090890)
 - [伽马还是线性？用一张图理理在U3D中该如何设置。](https://zhuanlan.zhihu.com/p/271011254)
 - [一篇文章彻底搞清PS混合模式的原理](https://zhuanlan.zhihu.com/p/23905865)
