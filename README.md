@@ -222,6 +222,7 @@ Table of Contents
     - [AssetBundle](#assetbundle)
     - [AutoUpdate](#autoupdate)
     - [Framework](#framework-1)
+    - [Dependency Injection](#dependency-injection)
     - [UI](#ui-1)
     - [Moba](#moba)
     - [Skill](#skill)
@@ -1505,6 +1506,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [csharp-kcp](https://github.com/l42111996/csharp-kcp)
 * [kcp-Code-annotation](https://gitee.com/he-linson/kcp-Code-annotation)
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
+* [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -2211,6 +2213,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [What-Are-SDFs-Anyway](https://joyrok.com/What-Are-SDFs-Anyway)
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
+- https://github.com/Shrimpey/UltimateOutline
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
 #### Occlusion Culling
@@ -2721,6 +2724,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/kyubuns/AkyuiUnity
 - [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131)
 - https://github.com/zs9024/quick_psd2ugui
+
+#### Dependency Injection 
+- https://github.com/gustavopsantos/reflex
+- https://github.com/ssannandeji/Zenject-2019
 
 #### UI
 - https://uiforia.io/
