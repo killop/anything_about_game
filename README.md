@@ -2134,7 +2134,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [针对移动端TBDR架构GPU特性的渲染优化](https://gameinstitute.qq.com/community/detail/123220)
 - [Performance Tunning for Tile-Based Architecture/Tile-Based架构下的性能调校](https://www.cnblogs.com/gameknife/p/3515714.html)
 - [后处理效率问题和Tile-Based GPU](https://zhuanlan.zhihu.com/p/135285010)
-- [Loads, Stores, Passes, and Advanced GPU Pipelines]()
+- [Loads, Stores, Passes, and Advanced GPU Pipelines](https://developer.oculus.com/blog/loads-stores-passes-and-advanced-gpu-pipelines/)
 - [再议移动平台的AlphaTest效率问题](https://zhuanlan.zhihu.com/p/33127345)
 - [深入剖析GPU Early Z优化](https://zhuanlan.zhihu.com/p/53092784)
 -  https://software.intel.com/en-us/gamedev 
