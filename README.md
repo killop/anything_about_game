@@ -1667,6 +1667,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/jasonwebb/morphogenesis-resources
 - [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 - http://structuresynth.sourceforge.net/
+- https://github.com/TheFuseLab/VL.Fuse
 ## 并发执行和多线程
 #### CPP
 *   https://github.com/rigtorp/awesome-lockfree
@@ -2026,6 +2027,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/gfx-rs/gfx
 - https://github.com/threejs4net/threejs4net
 - https://github.com/DigitalRune/DigitalRune
+- https://github.com/Raikiri/LegitEngine
 #### Collection
 - https://github.com/neverfelly/awesome-light-transport
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
