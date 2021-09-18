@@ -257,6 +257,7 @@ Table of Contents
     - [Message Bus](#message-bus)
     - [Time control](#time-control)
     - [Movement](#movement)
+    - [Character-Controller](#character-controller)
     - [Tips](#tips)
 - [GameReverse](#gamereverse)
     - [GamePlay](#gameplay)
@@ -708,6 +709,7 @@ Table of Contents
 - https://www.textures.com/
 - http://www.plaintextures.com/
 - https://sketchfab.com/
+- https://www.zhihu.com/question/298715376/answer/1277503311
 - www.cgsoso.com 
 - https://www.humblebundle.com/
 - https://www.rrcg.cn/
@@ -1090,6 +1092,7 @@ Table of Contents
 - [citygen3d](https://assetstore.unity.com/packages/tools/terrain/citygen3d-162468) UnityPlugin
 - [Arcgis](https://developers.arcgis.com/unity-sdk/reference/release-notes/) UnityPlugin
 - [OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
+- [cscape-city-system-](https://assetstore.unity.com/packages/tools/modeling/cscape-city-system-86716?aid=1011l8NVc&utm_source=aff) UnityPlugin
 - [SPORE-Creature-Creator](https://github.com/daniellochner/SPORE-Creature-Creator) Procedurally generate creatures in Unity - inspired by the incredible game, Spore!
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) blender plugin proceDurally spaceShip
 - [3DWorld](https://github.com/fegennari/3DWorld)
@@ -1763,6 +1766,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [graphtoy](https://graphtoy.com/)
 
 #### Courses/Article/website
+- https://zhuanlan.zhihu.com/p/362148370
 - https://github.com/rossant/awesome-math
 - [傅里叶变换交互式入门](http://www.jezzamon.com/fourier/zh-cn.html)
 - https://www.wolfram.com/
@@ -2832,6 +2836,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/SirHall/Excessives
 - https://github.com/prime31/UtilityKit
 - https://github.com/laurenth-personal/lightmap-switching-tool
+- https://github.com/Ayfel/PrefabLightmapping
 - https://github.com/vertxxyz/NTexturePreview
 - https://github.com/Unity-Technologies/AutoLOD/tree/master/Runtime/Helpers
 - https://github.com/renanwolf/UniRate/
@@ -2973,6 +2978,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Asset-Management
 - [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
+* [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 * [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
@@ -3026,14 +3032,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
 #### Movement
-- [UNet-Controlle](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
-- [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
-- [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
-- [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
-- [Erbium](https://github.com/mikhomak/Erbium)  🤺Third Person Character Controller for unity🤺 
-- [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
-- [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.). 
-* https://github.com/ssell/UnityDotsCharacterController
 - [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html) 
 - [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
 - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
@@ -3050,6 +3048,16 @@ instrumentation, switch-contexts, sampling, GPU counters.
 -  https://github.com/rygo6/CardExample-Unity
 -  https://github.com/ycarowr/UiCard
 -  https://github.com/CragonGame/CasinosClient
+#### Character-Controller
+- [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
+- [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
+- [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
+- [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
+- [Erbium](https://github.com/mikhomak/Erbium)  🤺Third Person Character Controller for unity🤺 
+- [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
+- [Traverser](https://aitorsimona.github.io/Traverser/) 
+- [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
+- https://github.com/ssell/UnityDotsCharacterController 
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 ## GameReverse
