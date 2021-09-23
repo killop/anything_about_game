@@ -191,6 +191,9 @@ Table of Contents
 - [Operating-System](#operating-system)
     - [IO](#io)
 - [Bad World Filter](#bad-world-filter)
+- [GPGPU](#gpgpu)
+    - [Compute Shader](#compute-shader)
+- [BVH](#bvh)
 - [高性能数据结构和算法](#高性能数据结构和算法)
     - [MMO](#mmo)
     - [OC](#oc)
@@ -207,8 +210,6 @@ Table of Contents
 - [C](#c-7)
 - [CPP](#cpp-1)
 - [Java](#java-1)
-- [GPGPU](#gpgpu)
-    - [Compute Shader](#compute-shader)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
     - [Collection](#collection-5)
@@ -2463,7 +2464,36 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [bad-word-filter](https://assetstore.unity.com/packages/tools/localization/bad-word-filter-pro-26255) unity-plugin
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
 - https://github.com/NewbieGameCoder/IllegalWordsDetection 敏感词过滤
-  
+
+## GPGPU
+- https://github.com/tech-quantum/Amplifier.NET
+- https://www.ilgpu.net/
+#### Compute Shader
+- https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
+- https://github.com/cinight/MinimalCompute 
+- https://github.com/googlefonts/compute-shader-101
+- https://www.youtube.com/watch?v=DZRn_jNZjbw
+- https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md
+- https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/
+- https://github.com/keijiro/NoiseBall6
+- https://logins.github.io/graphics/2020/10/31/D3D12ComputeShaders.html
+- https://www.3dgep.com/learning-directx-12-4/#Compute_Shaders
+- https://github.com/Robert-K/gpu-particles
+- https://github.com/Ninjajie/Fusion
+- https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
+- https://github.com/krylov-na/Compute-shader-particles
+- https://github.com/IRCSS/Procedural-painting
+- https://github.com/keijiro/Swarm
+- https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
+- https://github.com/voxell-tech/GPUClothSimulationInUnity
+- https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/
+- https://github.com/TarAlacrin/HeightmapOnTheGPU
+
+## BVH
+- [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
+- [NativePhysicsBVH](https://github.com/marijnz/NativePhysicsBVH) A Bounding Volume Hierarchy with basic physics queries for Unity DOTS
+- [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH) 
+- [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 ## 高性能数据结构和算法
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
@@ -2582,29 +2612,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [SnowJena](https://github.com/ystcode/SnowJena) SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景。
 - [jodd](https://github.com/oblac/jodd)(Produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.)
 - [sa-token](https://github.com/dromara/sa-token) sa-token是一个轻量级Java权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0 等一系列权限相关问题
-## GPGPU
-- https://github.com/tech-quantum/Amplifier.NET
-- https://www.ilgpu.net/
-#### Compute Shader
-- https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
-- https://github.com/cinight/MinimalCompute 
-- https://github.com/googlefonts/compute-shader-101
-- https://www.youtube.com/watch?v=DZRn_jNZjbw
-- https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md
-- https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/
-- https://github.com/keijiro/NoiseBall6
-- https://logins.github.io/graphics/2020/10/31/D3D12ComputeShaders.html
-- https://www.3dgep.com/learning-directx-12-4/#Compute_Shaders
-- https://github.com/Robert-K/gpu-particles
-- https://github.com/Ninjajie/Fusion
-- https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
-- https://github.com/krylov-na/Compute-shader-particles
-- https://github.com/IRCSS/Procedural-painting
-- https://github.com/keijiro/Swarm
-- https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
-- https://github.com/voxell-tech/GPUClothSimulationInUnity
-- https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/
-- https://github.com/TarAlacrin/HeightmapOnTheGPU
+
  
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
