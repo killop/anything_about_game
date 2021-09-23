@@ -2121,6 +2121,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [shader-playground](http://shader-playground.timjones.io/)
 
 #### GPU-Architecture
+- [英伟达GPU架构演进近十年，从费米到安培](https://zhuanlan.zhihu.com/p/413145211)
 - [gpu-architecture-types-explained](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
