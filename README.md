@@ -49,7 +49,6 @@ Table of Contents
     - [List-of-game-middleware](#list-of-game-middleware)
     - [CG Software API](#cg-software-api)
     - [Visual-Logic](#visual-logic)
-    - [Material](#material-1)
     - [Tile](#tile)
     - [Design](#design)
     - [AI](#ai)
@@ -701,6 +700,7 @@ Table of Contents
 - www.ryzom.com
 
 ## Game-Asset
+- https://casual-effects.com/data/
 - https://assetstore.unity.com/ 
 - https://itch.io/ 
 - http://www.3dmodelfree.com/  free model (免费模型,不能用于商业用途)
@@ -841,6 +841,8 @@ Table of Contents
 - https://github.com/Metric/Materia  substance designer的 c#实现
 - https://rodzilla.itch.io/material-maker material-maker
 - https://quixel.com/bridge
+- http://www.materialx.org/
+- https://artomatix.com/
 #### Remesh
 - https://github.com/huxingyi/autoremesher
 
@@ -869,9 +871,6 @@ Table of Contents
  
 #### Visual-Logic
 - https://machinations.io/  
-
-#### Material
-- https://artomatix.com/
 
 #### Tile
 - https://starscenesoftware.com/unifilebrowser.html
@@ -1075,6 +1074,7 @@ Table of Contents
 - [World Streamer](https://assetstore.unity.com/packages/tools/terrain/world-streamer-2-176482) UnityPlugin
 - [Voxeland](https://assetstore.unity.com/packages/tools/terrain/voxeland-9180) UnityPlugin
 - [terrain-grid-system](https://assetstore.unity.com/packages/tools/terrain/terrain-grid-system-47215)UnityPlugin
+- [terrain-slicing-dynamic-loading-kit](https://assetstore.unity.com/packages/tools/terrain/terrain-slicing-dynamic-loading-kit-5982) UnityPlugin
 ##### Unity-Tool
 - [PrefabPainter](https://github.com/Roland09/PrefabPainter) github
 - [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
@@ -1875,6 +1875,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 It provides access for all the necessary tools required for efficient performance analysis and optimization:
 instrumentation, switch-contexts, sampling, GPU counters.
 - [performance.tools](https://github.com/MattPD/cpplinks/blob/master/performance.tools.md)
+- [orbit](https://github.com/google/orbit) C/C++ Performance Profiler
 - [profiling](https://github.com/aclysma/profiling)
 - [palanteer](https://github.com/dfeneyrou/palanteer)
 - [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
@@ -2203,6 +2204,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/SnutiHQ/Toon-Shader
 - https://github.com/Santarh/MToon
 - https://github.com/lilxyzw/lilToon
+- [kamakura](https://github.com/kayac/kamakura-shaders) toon shader 
 
 #### SDF
 - https://github.com/CedricGuillemet/SDF
@@ -2291,13 +2293,13 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/KaimaChen/Unity-Shader-Demo
 - https://github.com/marcozakaria/URP-LWRP-Shaders
 - https://github.com/haolange/ImproveUniversalRenderPipeline
+- https://github.com/MatheusMarkies/MagicByte
 - https://github.com/you-ri/LiliumToonGraph
 - [InfinityRenderPipeline](https://github.com/haolange/InfinityRenderPipeline) Extreme Graphics Research for Unity Scriptable Render Pipeline(SRP). 
 - https://github.com/madumpa/URP_StylizedLitShader
 - [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches)
 - https://github.com/przemyslawzaworski/Unity3D-CG-programming
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
-- [kamakura](https://github.com/kayac/kamakura-shaders) toon shader
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the world as a mask, allowing for various shader effects.
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
@@ -2785,6 +2787,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity2019新特性增量式垃圾回收[译文]](https://www.bilibili.com/read/cv3260881)
 - [浅谈 Unity 内存管理](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)
 - [[Unity 活动]-浅谈Unity内存管理](https://www.bilibili.com/video/av79798486/)
+- [解读MONO内存管理：BOEHM GC原理及总结](https://zhuanlan.zhihu.com/p/41398507)
 #### Asyn-Await
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
 - https://github.com/Cysharp/UniTask
@@ -3105,6 +3108,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://xclient.info/s/
 - https://github.com/cunyu1943/amazing-websites
 - http://www.gfxcamp.com/houdini-185462/
+- https://www.iiicg.com/
  
 
 ## workflow
