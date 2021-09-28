@@ -1058,6 +1058,7 @@ Table of Contents
 - https://github.com/DragonBox/u3d
 - https://github.com/mayuki/Cocona
 - https://github.com/cobbr
+- https://github.com/Cysharp/Kokuban
 
 ## Scene
 #### Terrain
@@ -2322,6 +2323,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/daniel-ilett/shaders-ice
 ##### Noise
 - https://github.com/keijiro/NoiseShader
+- https://github.com/tuxalin/procedural-tileable-shader
 ##### Comon-Collection
 - [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository)
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)
