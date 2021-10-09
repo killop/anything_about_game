@@ -1005,6 +1005,7 @@ Table of Contents
 - [Unity下大量物体同屏渲染的性能优化思路](https://zhuanlan.zhihu.com/p/114646617)
 - [RenderHugeByGPUInstance](https://github.com/tkonexhh/RenderHugeByGPUInstance)
 - [Unity3D-ToolChain_StriteR](https://github.com/striter/Unity3D-ToolChain_StriteR/tree/master/Assets/Scripts/Runtime/Modules/Optimize)
+- [Dual quaternion skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
 #### Mesh Animation
 - https://github.com/SaiTingHu/MeshEditor.Effects
 #### Vertex Animation
@@ -2320,6 +2321,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Verasl/BoatAttack water
 - https://github.com/eliasts/Ocean_Community_Next_Gen
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
+- [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-) [Blog](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
 ##### Crystal
 - https://github.com/CJT-Jackton/URP-Anime-Crystal-Shader
 ##### Ice
@@ -2790,6 +2792,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/kyubuns/AkyuiUnity
 - [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131)
 - https://github.com/zs9024/quick_psd2ugui
+- https://github.com/dotmos/uGameFramework
 
 #### Dependency Injection 
 - https://github.com/gustavopsantos/reflex
@@ -2823,6 +2826,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
 - [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
+- [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambient occlusion in Unity baked at runtime.
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 - [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
