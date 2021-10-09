@@ -1004,6 +1004,7 @@ Table of Contents
 - [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
 - [Unity下大量物体同屏渲染的性能优化思路](https://zhuanlan.zhihu.com/p/114646617)
 - [RenderHugeByGPUInstance](https://github.com/tkonexhh/RenderHugeByGPUInstance)
+- [Unity3D-ToolChain_StriteR](https://github.com/striter/Unity3D-ToolChain_StriteR/tree/master/Assets/Scripts/Runtime/Modules/Optimize)
 #### Mesh Animation
 - https://github.com/SaiTingHu/MeshEditor.Effects
 #### Vertex Animation
@@ -1377,6 +1378,7 @@ Table of Contents
 - https://github.com/Sergio0694/BinaryPack
 - https://github.com/akkadotnet/Hyperion
 - https://github.com/leandromoh/RecordParser
+- https://github.com/wqaetly/OdinSerializerForNetCore
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
@@ -1793,6 +1795,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [nalgebra](https://www.nalgebra.org/) rust math
 - [bezierjs](https://github.com/Pomax/bezierjs) A nodejs and client-side library for (cubic) Bezier curve work 
 - [DualQuaternionsForUnity](https://github.com/johannesugb/DualQuaternionsForUnity)
+- [opengjk](https://www.mattiamontanari.com/opengjk/) C implementation of the GJK algorithm 
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -2334,7 +2337,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/CrowFea/ShaderToy
 - https://github.com/KaimaChen/Unity-Shader-Demo
 - https://github.com/marcozakaria/URP-LWRP-Shaders
-- https://github.com/haolange/ImproveUniversalRenderPipeline
 - https://github.com/MatheusMarkies/MagicByte
 - https://github.com/you-ri/LiliumToonGraph
 - [InfinityRenderPipeline](https://github.com/haolange/InfinityRenderPipeline) Extreme Graphics Research for Unity Scriptable Render Pipeline(SRP). 
@@ -2345,6 +2347,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the world as a mask, allowing for various shader effects.
 ##### FrameWork
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
+- https://github.com/haolange/InfinityRenderPipeline
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://github.com/larsbertram69
 
@@ -2722,6 +2725,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/alilleybrinker/langs-in-rust
 - https://github.com/prathyvsh/pl-catalog
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
+- [awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
