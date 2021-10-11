@@ -1555,6 +1555,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [kcp-Code-annotation](https://gitee.com/he-linson/kcp-Code-annotation)
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
 * [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
+* [zapnet](https://github.com/deadgg/zapnet)  Zapnet is a Unity framework for game networking built with Lidgren
 
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
@@ -2329,6 +2330,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Noise
 - https://github.com/keijiro/NoiseShader
 - https://github.com/tuxalin/procedural-tileable-shader
+- https://github.com/Auburn/FastNoiseLite
 ##### Comon-Collection
 - [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository)
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)
@@ -2569,6 +2571,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [NativeOctree](https://github.com/marijnz/NativeOctree)
 - [SharedMemory](https://github.com/spazzarama/SharedMemory)  C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
 - [DawgSharp](https://github.com/bzaar/DawgSharp) DAWG String Dictionary in C# 
+- [Towel](https://github.com/ZacharyPatten/Towel) A .NET library intended to make coding a bit more towelerable: data structures, algorithms, mathematics, metadata, extensions, console, and more. :)
+- [QuikGraph](https://github.com/KeRNeLith/QuikGraph) About Generic Graph Data Structures and Algorithms for .NET
 - [ObservableCollections](https://github.com/Cysharp/ObservableCollections) High performance observable collections and synchronized views, for WPF, Blazor, Unity. 
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
