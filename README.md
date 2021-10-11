@@ -2518,6 +2518,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ## GPGPU
 - https://github.com/tech-quantum/Amplifier.NET
 - https://www.ilgpu.net/
+- https://github.com/KomputeProject/kompute
 #### Compute Shader
 - https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
 - https://github.com/cinight/MinimalCompute 
