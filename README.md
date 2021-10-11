@@ -2157,7 +2157,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/przemyslawzaworski/Unity3D-CG-programming 
 - [ShaderLab 开发实战- 沈军](https://shenjun4shader.github.io/shaderhtml/)
 - [LearnUnityShader](https://github.com/csdjk/LearnUnityShader)
-- [shaderslab-shaders](- http://www.shaderslab.com/shaders.html)
+- [shaderslab-shaders](http://www.shaderslab.com/shaders.html)
 - [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository) 
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders) 
 - https://github.com/cinight/ShadersForFun 
