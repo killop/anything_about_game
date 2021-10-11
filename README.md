@@ -147,8 +147,9 @@ Table of Contents
     - [Collection](#collection-4)
     - [Shading-Language](#shading-language)
     - [Shader Compiler](#shader-compiler)
+      - [ShaderVariant](#shadervariant)
     - [Course/Article](#coursearticle)
-    - [B站优秀博主](#b站优秀博主)
+    - [ShaderCollection](#shadercollection)
     - [OpenGL](#opengl)
     - [Tool](#tool)
     - [PlayGround](#playground)
@@ -163,7 +164,6 @@ Table of Contents
     - [Occlusion Culling](#occlusion-culling)
     - [Unity-Shader](#unity-shader)
       - [Article](#article-4)
-      - [ShaderVariant](#shadervariant)
       - [Shader-GUI](#shader-gui)
       - [SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue](#sortingorderorderinlayerztestzwriterenderqueue)
       - [Decal](#decal)
@@ -172,7 +172,7 @@ Table of Contents
       - [Crystal](#crystal)
       - [Ice](#ice)
       - [Noise](#noise)
-      - [Comon-Collection](#comon-collection)
+      - [Trail](#trail)
       - [FrameWork](#framework)
       - [URP/SPR/HDRP Course](#urpsprhdrp-course)
       - [UI](#ui)
@@ -182,7 +182,6 @@ Table of Contents
       - [Holographic](#holographic)
       - [Matrix](#matrix)
     - [MatCaps](#matcaps)
-    - [Material-Cleaner](#material-cleaner)
     - [Color](#color)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
   - [FPS](#fps)
@@ -252,6 +251,7 @@ Table of Contents
     - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
+    - [Material-Cleaner](#material-cleaner)
       - [Textrue Compression](#textrue-compression)
         - [Article](#article-7)
     - [Message Bus](#message-bus)
@@ -353,6 +353,7 @@ Table of Contents
 - [acm](https://dl.acm.org/loi/tog)
 - [replicability](https://replicability.graphics/index.html#project)
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
+- [shaders](https://www.reddit.com/r/shaders/)
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
 - [Unity技术美术](https://www.zhihu.com/column/c_1348315318327132160)
@@ -479,6 +480,7 @@ Table of Contents
 - [dotnetfly](https://github.com/ctripxchuang/dotnetfly)
 - [张蕾](https://www.lei.chat/) vulkan
 - [重归混沌](https://blog.gotocoding.com/)
+- [卡姐](https://www.bilibili.com/video/av14910105/)  
 - https://halfrost.com
  
 #### English
@@ -2085,11 +2087,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [graphicscodex](https://graphicscodex.courses.nvidia.com/app.html?)
 - https://github.com/luisnts/awesome-computer-graphics
 - https://github.com/Go1c/AboutGameEngineGraphics
-- http://www.shaderslab.com/shaders.html
 - https://paroj.github.io/gltut/
 - https://www.interactiveshaderformat.com/popular 
-- http://glslsandbox.com/
-- https://www.shadertoy.com/browse
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
 - https://github.com/mattdesl/graphics-resources
@@ -2102,8 +2101,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/jslee02/awesome-graphics-libraries
 - https://github.com/FancyVin/fun-with-graphics
 - https://github.com/FaithZL/fun-with-graphics
-- https://www.ronja-tutorials.com/
-- https://github.com/lettier/3d-game-shaders-for-beginners
 - https://github.com/vo01github/ComputerGraphics
 - https://github.com/AngelMonica126/GraphicAlgorithm
 - https://github.com/mikbry/awesome-webgpu
@@ -2116,7 +2113,18 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - [common-shaders](https://github.com/libretro/common-shaders)
 #### Shader Compiler
+- [跨平台引擎Shader编译流程分析](https://zhuanlan.zhihu.com/p/56510874)
+- [如何阅读和还原分析器中的DXBC](https://zhuanlan.zhihu.com/p/346324622)
+- [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
+- [ShaderPackager]( https://github.com/slipster216/ShaderPackager) 
+##### ShaderVariant
+- [Shader变体收集与打包](https://github.com/Nicholas10128/AAAResearch/blob/master/Experiences/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97.md#shadervariantcollection%E7%94%9F%E6%88%90%E9%80%9A%E8%BF%87shaderfeature%E5%AE%9A%E4%B9%89%E7%9A%84%E5%8F%98%E4%BD%93%E8%A7%84%E5%88%99)
+* [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
+* https://github.com/networm/ShaderVariantCollectionExporter
+* https://github.com/SixWays/UnityShaderStripper
+* https://gist.github.com/yasirkula/d8fa2fb5f22aefcc7a232f6feeb91db7
+* https://github.com/needle-tools/shader-variant-explorer
 #### Course/Article
 - [技术美术学习大纲](https://zhuanlan.zhihu.com/p/401525846)
 - [图形学硬件拾遗](https://zhuanlan.zhihu.com/p/371469482)
@@ -2136,14 +2144,35 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity3D的渲染路径的细节一览表](http://www.xionggf.com/post/unity3d/u3d_render_path_detail/)
 - [深度探索Skinned Mesh【翻译】](http://www.xionggf.com/post/d3d/skinned_mesh_with_d3d9/)
 - [理解高动态范围光](http://www.xionggf.com/post/cg/inside_hdr/)
-- [ShaderLab 开发实战- 沈军](https://shenjun4shader.github.io/shaderhtml/)
 - [The Book of Shaders](https://thebookofshaders.com/?lan=ch)
 - [总结一些TA（技术美术）学习的网站](https://zhuanlan.zhihu.com/p/84550677) 
 - [全局光照:光线追踪、路径追踪与GI技术进化编年史](https://www.cnblogs.com/machong8183/p/7543724.html)
 - https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html
 - https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/
-#### B站优秀博主
-- [卡姐](https://www.bilibili.com/video/av14910105/)  
+
+#### ShaderCollection
+- https://www.zhihu.com/column/c_1347510841814691840
+- https://github.com/QianMo/Awesome-Unity-Shader
+- https://github.com/JiepengTan/FishManShaderTutorial
+- https://github.com/przemyslawzaworski/Unity3D-CG-programming 
+- [ShaderLab 开发实战- 沈军](https://shenjun4shader.github.io/shaderhtml/)
+- [LearnUnityShader](https://github.com/csdjk/LearnUnityShader)
+- [shaderslab-shaders](- http://www.shaderslab.com/shaders.html)
+- [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository) 
+- [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders) 
+- https://github.com/cinight/ShadersForFun 
+- https://github.com/ellioman/ShaderProject 
+- https://github.com/adrian-miasik/unity-shaders 
+- https://github.com/CrowFea/ShaderToy 
+- https://github.com/KaimaChen/Unity-Shader-Demo 
+- https://github.com/marcozakaria/URP-LWRP-Shaders 
+- [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) 
+- https://space.bilibili.com/5863867/article
+- https://space.bilibili.com/6373917/video
+- http://glslsandbox.com/ 
+- https://www.shadertoy.com/browse 
+- https://www.ronja-tutorials.com/ 
+- https://github.com/lettier/3d-game-shaders-for-beginners 
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -2251,6 +2280,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Santarh/MToon
 - https://github.com/lilxyzw/lilToon
 - [kamakura](https://github.com/kayac/kamakura-shaders) toon shader 
+- https://github.com/you-ri/LiliumToonGraph
+- https://github.com/madumpa/URP_StylizedLitShader 
 
 #### SDF
 - https://github.com/CedricGuillemet/SDF
@@ -2282,17 +2313,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Article
 - [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/Wei_Yuan_2012/article/details/88677172?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
 - [网易技术美术总监：深度解析次世代手游的贴图与着色技巧 [UNITE SHANGHAI 2017qq.]](https://connect.unity.com/p/wang-yi-ji-zhu-mei-zhu-zong-jian-shen-du-jie-xi-ci-shi-dai-shou-you-de-tie-tu-yu-zhao-se-ji-qiao-unite-shanghai-2017)
-- [SRP到URP从原理到应用](https://www2.slideshare.net/MOMO145/srpurp)
-- [跨平台引擎Shader编译流程分析](https://zhuanlan.zhihu.com/p/56510874)
-- [如何阅读和还原分析器中的DXBC](https://zhuanlan.zhihu.com/p/346324622)
-- [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
-##### ShaderVariant
-- [Shader变体收集与打包](https://github.com/Nicholas10128/AAAResearch/blob/master/Experiences/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97.md#shadervariantcollection%E7%94%9F%E6%88%90%E9%80%9A%E8%BF%87shaderfeature%E5%AE%9A%E4%B9%89%E7%9A%84%E5%8F%98%E4%BD%93%E8%A7%84%E5%88%99)
-* [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
-* https://github.com/networm/ShaderVariantCollectionExporter
-* https://github.com/SixWays/UnityShaderStripper
-* https://gist.github.com/yasirkula/d8fa2fb5f22aefcc7a232f6feeb91db7
-* https://github.com/needle-tools/shader-variant-explorer
+
+
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
 ##### SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue
@@ -2331,23 +2353,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/keijiro/NoiseShader
 - https://github.com/tuxalin/procedural-tileable-shader
 - https://github.com/Auburn/FastNoiseLite
-##### Comon-Collection
-- [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository)
-- [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)
-- [ShaderPackager]( https://github.com/slipster216/ShaderPackager)
-- https://github.com/cinight/ShadersForFun
-- https://github.com/ellioman/ShaderProject
-- https://github.com/adrian-miasik/unity-shaders
-- https://github.com/CrowFea/ShaderToy
-- https://github.com/KaimaChen/Unity-Shader-Demo
-- https://github.com/marcozakaria/URP-LWRP-Shaders
 
-- https://github.com/you-ri/LiliumToonGraph
-- [InfinityRenderPipeline](https://github.com/haolange/InfinityRenderPipeline) Extreme Graphics Research for Unity Scriptable Render Pipeline(SRP). 
-- https://github.com/madumpa/URP_StylizedLitShader
-- [ShaderSketches](https://github.com/setchi/Unity-ShaderSketches)
-- https://github.com/przemyslawzaworski/Unity3D-CG-programming
-- [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
+##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the world as a mask, allowing for various shader effects.
 ##### FrameWork
 - https://github.com/Hypnos-Render-Pipeline
@@ -2366,6 +2373,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity自定义可编程渲染管线(SRP)](https://www.zhihu.com/column/c_1249285959101227008)
 - [How the URP unlocks games for you](https://zhuanlan.zhihu.com/p/105941187)
 - [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)
+- [SRP到URP从原理到应用](https://www2.slideshare.net/MOMO145/srpurp)
+
 ##### UI
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
@@ -2387,13 +2396,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/IRCSS/MatrixVFX
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps
-#### Material-Cleaner
-- [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
-- [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
-- [MaterialCleaner](https://github.com/lujian101/UnityToolDist/blob/master/Assets/Editor/MaterialCleaner.cs)
-- [unity-material-cleaner](https://github.com/ina-amagami/unity-material-cleaner/blob/master/Assets/Editor/MaterialCleaner.cs)
-- [MotionFramework/Scripts/Editor/EditorTools](https://github.com/gmhevinci/MotionFramework/blob/master/Assets/MotionFramework/Scripts/Editor/EditorTools.cs)
-- [Unity材质冗余序列化数据清理](https://zhuanlan.zhihu.com/p/366636732)
+
 #### Color
 - [色彩理论」颜色是怎么回事儿？以及如何高效使用 Adobe 颜色库](https://www.bilibili.com/video/BV114411R7x4?)
 - [皮克斯光线与色彩应用培训中文字幕](https://www.bilibili.com/video/BV1Dr4y1P7LW?)
@@ -2539,6 +2542,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
 - https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/
 - https://github.com/TarAlacrin/HeightmapOnTheGPU
+- [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
 
 ## BVH
 - [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
@@ -2998,7 +3002,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics)
  
  
-
  #### Create Model
  - [ProBuilder](https://assetstore.unity.com/packages/tools/modeling/probuilder-2-x-111418)
  - [Archimatix](https://assetstore.unity.com/packages/tools/modeling/archimatix-pro-59733)
@@ -3066,6 +3069,13 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/MarkUnity/AssetAuditor
 - https://github.com/charcolle/CustomAssetImporter
 - https://github.com/daihenka/asset-pipeline
+#### Material-Cleaner
+- [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
+- [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
+- [MaterialCleaner](https://github.com/lujian101/UnityToolDist/blob/master/Assets/Editor/MaterialCleaner.cs)
+- [unity-material-cleaner](https://github.com/ina-amagami/unity-material-cleaner/blob/master/Assets/Editor/MaterialCleaner.cs)
+- [MotionFramework/Scripts/Editor/EditorTools](https://github.com/gmhevinci/MotionFramework/blob/master/Assets/MotionFramework/Scripts/Editor/EditorTools.cs)
+- [Unity材质冗余序列化数据清理](https://zhuanlan.zhihu.com/p/366636732) 
 ##### Textrue Compression
 - [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
 - [常用纹理和纹理压缩格式](https://blog.csdn.net/ynnmnm/article/details/44983545)
