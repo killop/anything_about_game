@@ -2080,6 +2080,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/threejs4net/threejs4net
 - https://github.com/DigitalRune/DigitalRune
 - https://github.com/Raikiri/LegitEngine
+- https://github.com/Trivaxy/WGPU.NET
 #### Collection
 - https://github.com/neverfelly/awesome-light-transport
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
@@ -2845,6 +2846,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [赵京宇](https://www.bilibili.com/video/BV1ut41197aQ)
 - [浮生若梦Jason](https://space.bilibili.com/20508311/)
 - [游戏特效优化指南—贴图篇](https://zhuanlan.zhihu.com/p/394084695)
+- [ShaderGraphAssets](https://github.com/keijiro/ShaderGraphAssets)
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
