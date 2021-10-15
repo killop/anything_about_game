@@ -192,6 +192,7 @@ Table of Contents
 - [Bad World Filter](#bad-world-filter)
 - [GPGPU](#gpgpu)
     - [Compute Shader](#compute-shader)
+    - [GPU Driven](#gpu-driven)
 - [BVH](#bvh)
 - [高性能数据结构和算法](#高性能数据结构和算法)
     - [MMO](#mmo)
@@ -2300,6 +2301,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 * [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
 * [What-Are-SDFs-Anyway](https://joyrok.com/What-Are-SDFs-Anyway)
+* [IsoMesh](https://github.com/EmmetOT/IsoMesh) IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -2524,6 +2526,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.ilgpu.net/
 - https://github.com/KomputeProject/kompute
 #### Compute Shader
+- https://zhuanlan.zhihu.com/p/368307575
 - https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
 - https://github.com/cinight/MinimalCompute 
 - https://github.com/googlefonts/compute-shader-101
@@ -2545,6 +2548,18 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/TarAlacrin/HeightmapOnTheGPU
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
 
+#### GPU Driven
+- [vkguide gpu_driven_engines](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/) 
+- [Max:GPU Driven Pipeline — 工具链与进阶渲染](https://zhuanlan.zhihu.com/p/44411827)
+- [GPU Driven Render Pipeline](https://zhuanlan.zhihu.com/p/37084925)
+- [撸一个GPU Driven Pipeline](https://zhuanlan.zhihu.com/p/109858034)
+- [现代渲染引擎开发-GPU Driven Render Pipeline](https://zhuanlan.zhihu.com/p/409244895)
+- [GPU-Driven Rendering 有没有可能应用到移动端呢？如果不能是什么原因导致的?](https://www.zhihu.com/question/427803115/answer/1548993170)
+- [[Siggraph15] GPU-Driven Rendering Pipelines](https://zhuanlan.zhihu.com/p/33881505)
+- [max:GPU Driven Rendering Pipeline 开发小结](https://zhuanlan.zhihu.com/p/58311222)
+- [游戏引擎随笔 0x13：现代图形 API 的 Bindless](https://zhuanlan.zhihu.com/p/136449475)
+- [Unity中实现高性能渲染遇到的问题](https://zhuanlan.zhihu.com/p/106388466)
+- [[GDC16] Optimizing the Graphics Pipeline with Compute](https://zhuanlan.zhihu.com/p/33881861)
 ## BVH
 - [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
 - [NativePhysicsBVH](https://github.com/marijnz/NativePhysicsBVH) A Bounding Volume Hierarchy with basic physics queries for Unity DOTS
@@ -2967,6 +2982,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-195567
 * https://github.com/AI-In-Games/FormationMovement
 * https://github.com/NagaChiang/entity-tween
+* https://github.com/nothke/UnityDOTSGotchas
 ##### Article
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
