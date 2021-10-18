@@ -1162,6 +1162,7 @@ Table of Contents
 * [DracoUnity](https://github.com/atteneder/DracoUnity) Unity package that integrates the Draco 3D data compression library within Unity.
 ## Data
 #### Metadata/Excel/Schema/Proto
+- [xresloader](https://github.com/xresloader/xresloader)
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
 - https://github.com/NtreevSoft/Crema
 - https://github.com/vriad/zod
