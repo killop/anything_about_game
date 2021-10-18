@@ -171,6 +171,7 @@ Table of Contents
       - [Water](#water)
       - [Crystal](#crystal)
       - [Ice](#ice)
+      - [Rimlight](#rimlight)
       - [Noise](#noise)
       - [Trail](#trail)
       - [FrameWork](#framework)
@@ -2175,6 +2176,12 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.shadertoy.com/browse 
 - https://www.ronja-tutorials.com/ 
 - https://github.com/lettier/3d-game-shaders-for-beginners 
+- https://github.com/andydbc/unity-shadergraph-sandbox
+- https://github.com/WorldOfZero/UnityVisualizations
+- https://github.com/knapeczadam/Unity-Shaders
+- https://github.com/ewersp/Shaders
+- https://github.com/igradeca/Unity-Shaders
+- https://github.com/netri/Neitri-Unity-Shaders
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -2352,6 +2359,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/CJT-Jackton/URP-Anime-Crystal-Shader
 ##### Ice
 - https://github.com/daniel-ilett/shaders-ice
+##### Rimlight
+- https://github.com/AdultLink/Rimlight 
 ##### Noise
 - https://github.com/keijiro/NoiseShader
 - https://github.com/tuxalin/procedural-tileable-shader
@@ -2566,6 +2575,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [NativePhysicsBVH](https://github.com/marijnz/NativePhysicsBVH) A Bounding Volume Hierarchy with basic physics queries for Unity DOTS
 - [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH) 
 - [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
+- [bvh](https://github.com/madmann91/bvh) About A modern C++ BVH construction and traversal library
 ## 高性能数据结构和算法
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
@@ -2595,6 +2605,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [DawgSharp](https://github.com/bzaar/DawgSharp) DAWG String Dictionary in C# 
 - [Towel](https://github.com/ZacharyPatten/Towel) A .NET library intended to make coding a bit more towelerable: data structures, algorithms, mathematics, metadata, extensions, console, and more. :)
 - [QuikGraph](https://github.com/KeRNeLith/QuikGraph) About Generic Graph Data Structures and Algorithms for .NET
+- [SparseSet](https://gdx.dotbunny.com/api/GDX.Collections.SparseSet.html)
 - [ObservableCollections](https://github.com/Cysharp/ObservableCollections) High performance observable collections and synchronized views, for WPF, Blazor, Unity. 
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
@@ -2832,6 +2843,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/506638093/RichText 头顶血条
 - https://github.com/mattak/Unidux
+- https://github.com/kirurobo/UniWindowController 
 #### Moba
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
 #### Skill
@@ -2863,6 +2875,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [浮生若梦Jason](https://space.bilibili.com/20508311/)
 - [游戏特效优化指南—贴图篇](https://zhuanlan.zhihu.com/p/394084695)
 - [ShaderGraphAssets](https://github.com/keijiro/ShaderGraphAssets)
+- [ShaderGraph_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
+- [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples)
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
