@@ -1204,6 +1204,7 @@ Table of Contents
 
 ## Version-Control
 - https://semver.org/lang/zh-CN/   -- 版本号规范
+- https://github.com/Artees/Unity-SemVer
 - https://github.com/pcottle/learnGitBranching -- 学习git 提交的网站
 - https://github.com/libgit2/libgit2sharp  -- git的 c# 实现
 * [Linus讲解git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Google大会演讲，Linus介绍他创造git的原因，对比了git和svn。
@@ -1384,6 +1385,7 @@ Table of Contents
 - https://github.com/Sergio0694/BinaryPack
 - https://github.com/akkadotnet/Hyperion
 - https://github.com/leandromoh/RecordParser
+- https://github.com/RudolfKurka/StructPacker
 - https://github.com/wqaetly/OdinSerializerForNetCore
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -1561,7 +1563,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
 * [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
 * [zapnet](https://github.com/deadgg/zapnet)  Zapnet is a Unity framework for game networking built with Lidgren
-
+* [Imp.NET](https://github.com/DouglasDwyer/Imp.NET) Imp.NET is a fast, high-level, object-oriented C# networking library that supports the invocation of remote methods through proxy interface objects.
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -2999,6 +3001,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/AI-In-Games/FormationMovement
 * https://github.com/NagaChiang/entity-tween
 * https://github.com/nothke/UnityDOTSGotchas
+* https://github.com/mikyll/UnityDOTS-Thesis
 ##### Article
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
