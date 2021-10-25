@@ -2331,6 +2331,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
+- https://www.patreon.com/posts/urp-mesh-part-1-55990741
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
 #### Occlusion Culling
@@ -2406,6 +2407,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [How the URP unlocks games for you](https://zhuanlan.zhihu.com/p/105941187)
 - [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)
 - [SRP到URP从原理到应用](https://www2.slideshare.net/MOMO145/srpurp)
+- [ProjectKaya](https://github.com/UnityKorea/ProjectKaya) Project Kaya for mobile game platform powered by urp
 
 ##### UI
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
