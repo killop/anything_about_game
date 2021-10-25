@@ -153,6 +153,7 @@ Table of Contents
     - [OpenGL](#opengl)
     - [Tool](#tool)
     - [PlayGround](#playground)
+    - [RenderingAssets](#renderingassets)
     - [GPU-Architecture](#gpu-architecture)
     - [Optimize](#optimize)
     - [Physically-Based-Render](#physically-based-render)
@@ -2124,6 +2125,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 - [ShaderPackager]( https://github.com/slipster216/ShaderPackager) 
+- [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
+- [The Shader Permutation Problem - Part 2: How Do We Fix It](https://therealmjp.github.io/posts/shader-permutations-part2/) 
+- [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf) 
 ##### ShaderVariant
 - [Shader变体收集与打包](https://github.com/Nicholas10128/AAAResearch/blob/master/Experiences/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97.md#shadervariantcollection%E7%94%9F%E6%88%90%E9%80%9A%E8%BF%87shaderfeature%E5%AE%9A%E4%B9%89%E7%9A%84%E5%8F%98%E4%BD%93%E8%A7%84%E5%88%99)
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
@@ -2135,7 +2139,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术学习大纲](https://zhuanlan.zhihu.com/p/401525846)
 - [图形学硬件拾遗](https://zhuanlan.zhihu.com/p/371469482)
 - [Life of a triangle](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
-- [GPU架构及运行机制学习笔记](https://zhuanlan.zhihu.com/p/393485253)
 - [adreno-gpu](https://developer.qualcomm.com/docs/adreno-gpu/developer-guide/gpu/best_practices_shaders.html)
 - [Scratchapixel](/www.scratchapixel.com/)
 - [学习笔记：GAMES101-现代计算机图形学入门](https://blog.csdn.net/weixin_43803133/category_10303553.html)
@@ -2157,6 +2160,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/
 
 #### ShaderCollection
+- https://github.com/ipud2/Unity-Basic-Shader
 - https://www.zhihu.com/column/c_1347510841814691840
 - https://github.com/QianMo/Awesome-Unity-Shader
 - https://github.com/JiepengTan/FishManShaderTutorial
@@ -2205,8 +2209,19 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityShaderViewer](https://github.com/Xibanya/UnityShaderViewer)
 - [shader-playground](http://shader-playground.timjones.io/)
 
+#### RenderingAssets
+- [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html) - OBJ format scenes
+- [ORCA: Open Research Content Archive](https://developer.nvidia.com/orca) - Free large graphics scene samples
+- [ambientCG](https://ambientcg.com/) - Public Domain materials for Physically Based Rendering
+- [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) 
+
 #### GPU-Architecture
+- [CIS 565 GPU Programming and Architecture](http://cis565-fall-2021.github.io/)
+- [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
+- [GCN – two ways of latency hiding and wave occupancy](https://bartwronski.com/2014/03/27/gcn-two-ways-of-latency-hiding-and-wave-occupancy/)
+- [Breaking Down Barriers](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)
 - [英伟达GPU架构演进近十年，从费米到安培](https://zhuanlan.zhihu.com/p/413145211)
+- [GPU架构及运行机制学习笔记](https://zhuanlan.zhihu.com/p/393485253 
 - [gpu-architecture-types-explained](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
 - [Modern-GPU-Architecture](http://download.nvidia.com/developer/cuda/seminar/TDCI_Arch.pdf)
 - [Samsung-GPU-DOC](https://developer.samsung.com/galaxy-gamedev/gpu-architecture.html)
@@ -2271,6 +2286,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [这是一个Unity HDRP 卡通渲染管线，我会将学习到的NPR技术不断完善到这个管线中](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline)
 - [到目前为止的二次元渲染总结](https://zhuanlan.zhihu.com/p/126668414)
 - [Unity中二次元渲染算法总汇](https://zhuanlan.zhihu.com/p/69260586)
+- [崩坏3卡通渲染 · 贺甲：《从移动端到高端PC：实现Unity卡通渲染》· 完整版](https://www.bilibili.com/video/BV1XE411R7Ue?)
 - [程序干货：日式卡通渲染基础技术](https://zhuanlan.zhihu.com/p/352347502)
 - [Sunao Shader](https://booth.pm/ja/items/1723985)
 - https://github.com/poiyomi/PoiyomiToonShader
@@ -2375,6 +2391,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Hypnos-Render-Pipeline
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/haolange/InfinityRenderPipeline
+- https://nkli.net/nigiri
 - https://github.com/MatheusMarkies/MagicByte
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://github.com/larsbertram69
@@ -2537,7 +2554,15 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/tech-quantum/Amplifier.NET
 - https://www.ilgpu.net/
 - https://github.com/KomputeProject/kompute
+- [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
+- [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
+- [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
+- [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/) 
 #### Compute Shader
+- [Introduction to Compute Shaders](https://anteru.net/blog/2018/intro-to-compute-shaders/)
+- [More Compute Shaders](https://anteru.net/blog/2018/more-compute-shaders/)
+- [Even more Compute Shaders](https://anteru.net/blog/2018/even-more-compute-shaders/)
+- [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
 - https://zhuanlan.zhihu.com/p/368307575
 - https://github.com/cabbibo/IMMATERIA/
 - https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
@@ -2557,8 +2582,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/keijiro/Swarm
 - https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
-- https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/
 - https://github.com/TarAlacrin/HeightmapOnTheGPU
+- [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
 
 #### GPU Driven
@@ -2580,6 +2605,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 - [bvh](https://github.com/madmann91/bvh) About A modern C++ BVH construction and traversal library
 ## 高性能数据结构和算法
+- [libcsp](https://github.com/shiyanhui/libcsp) A concurrency C library 10x faster than Golang.
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/giacomelli/GeneticSharp 遗传算法
