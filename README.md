@@ -487,6 +487,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [bgolus](https://bgolus.medium.com/)
 - [joyrok](https://joyrok.com) TA sdf
 - [theinstructionlimit](http://theinstructionlimit.com/) TA
 - [alinloghin](http://alinloghin.com/) TA
@@ -939,6 +940,9 @@ Table of Contents
 - [crazybump](http://crazybump.com/mac/)  
 - https://github.com/kmkolasinski/AwesomeBump
 - https://www.codeandweb.com/spriteilluminator
+- http://www.mikktspace.com/
+- [【教程】游戏流程如何烘焙出完美法线](https://mp.weixin.qq.com/s/-yDMD9hskzRPR_iq77-B5w)
+- [generating-perfect-normal-maps-for-unity](https://bgolus.medium.com/generating-perfect-normal-maps-for-unity-f929e673fc57)
 #### GPU-Texture
 - [basis_universal](https://github.com/BinomialLLC/basis_universal)
 - https://github.com/caosdoar/Fornos
@@ -3293,6 +3297,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://works.yangerxiao.com/honeyed-words-generator/ 土味情话
 - https://github.com/soulteary/tenant-point 程序员如何租房子
 - https://github.com/beiliangshizi/China_House 程序员如何租房子
+- [天涯 kkndme 神贴聊房价](https://github.com/shengcaishizhan/kkndme_tianya)
 - [北京买房](https://github.com/facert/beijing_house_knowledge#%E5%A4%96%E5%9C%B0%E4%BA%BA%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0%E6%88%BF%E6%9D%A1%E4%BB%B6%E5%8F%8A%E8%B5%84%E6%A0%BC)
 - [上海买房](https://github.com/ayuer/shanghai_house_knowledge)
 - https://wallroom.io 壁纸网站
