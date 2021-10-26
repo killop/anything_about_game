@@ -2112,6 +2112,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/vo01github/ComputerGraphics
 - https://github.com/AngelMonica126/GraphicAlgorithm
 - https://github.com/mikbry/awesome-webgpu
+- https://github.com/Graphics-Programming-Virtual-Meetup/Resources
 #### Shading-Language
 - https://github.com/wshxbqq/GLSL-Card
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
@@ -2158,6 +2159,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [全局光照:光线追踪、路径追踪与GI技术进化编年史](https://www.cnblogs.com/machong8183/p/7543724.html)
 
 #### ShaderCollection
+- https://github.com/nucleartide/Shaders-for-Game-Devs-Workbook
 - https://github.com/ipud2/Unity-Basic-Shader
 - https://www.zhihu.com/column/c_1347510841814691840
 - https://github.com/QianMo/Awesome-Unity-Shader
@@ -2909,6 +2911,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ShaderGraphAssets](https://github.com/keijiro/ShaderGraphAssets)
 - [ShaderGraph_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
 - [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples)
+- [Unity_ShaderGraphStudy](https://github.com/rito15/Unity_ShaderGraphStudy)
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
