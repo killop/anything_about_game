@@ -959,6 +959,7 @@ Table of Contents
 - https://github.com/weihaox/awesome-image-translation
 - [procedural-stochastic-texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) Modified Shader Graph package implementing Procedural Stochastic Texturing 
 - [超强一键生成特效常用贴图网站介绍！](https://www.bilibili.com/video/BV1ub411U7Jc/?spm_id_from=autoNext)
+- [texturelab](https://github.com/njbrown/texturelab) About Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -1724,6 +1725,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 - http://structuresynth.sourceforge.net/
 - https://github.com/TheFuseLab/VL.Fuse
+- https://github.com/nannou-org/nannou
 ## 并发执行和多线程
 #### CPP
 *   https://github.com/rigtorp/awesome-lockfree
