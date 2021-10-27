@@ -185,6 +185,7 @@ Table of Contents
       - [Matrix](#matrix)
     - [MatCaps](#matcaps)
     - [Color](#color)
+    - [Depth](#depth)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
   - [FPS](#fps)
 - [Interview/DataStruct-Algorithms](#interviewdatastruct-algorithms)
@@ -2470,8 +2471,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [color-studio](https://assetstore.unity.com/packages/tools/painting/color-studio-151892) unity-plugin
 - https://opencolorio.org/
 
-
-
+#### Depth
+- [Unity中深度值推导](https://zhuanlan.zhihu.com/p/393643084)
+- [【Unity】深度图（Depth Texture）的简单介绍](https://zhuanlan.zhihu.com/p/389971233?)
+- [UnityShader部分内置函数推导（周末随机更几个）](https://zhuanlan.zhihu.com/p/404516361)
 
 #### GameEngine-Design-Blog-Artcile
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
