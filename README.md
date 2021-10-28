@@ -1670,6 +1670,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 
 #### 3D Engines and Frameworks
+* [RenderLab](https://github.com/Ubpa/RenderLab) 渲染实验室，包含了实时渲染，离线渲染和场景编辑的功能
+* [neoGFX](https://github.com/i42output/neoGFX) Cross-platform GPU-oriented C++ application/game framework
 * [SpartanEngine](https://github.com/PanosK92/SpartanEngine)
 * [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D :o2:
 * [ariyana](https://github.com/kochol/ariyana) Ariyana is an ECS work in progress game engine written in Orthodox C++ and Beef with a focus on cross-platform and multiplayer games 
@@ -2175,6 +2177,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/JiepengTan/FishManShaderTutorial
 - https://github.com/przemyslawzaworski/Unity3D-CG-programming 
 - [ShaderLab 开发实战- 沈军](https://shenjun4shader.github.io/shaderhtml/)
+- [Shader实验室专栏](https://www.zhihu.com/column/c_1254807683619966976)
 - [LearnUnityShader](https://github.com/csdjk/LearnUnityShader)
 - [shaderslab-shaders](http://www.shaderslab.com/shaders.html)
 - [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository) 
@@ -2198,6 +2201,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ewersp/Shaders
 - https://github.com/igradeca/Unity-Shaders
 - https://github.com/netri/Neitri-Unity-Shaders
+- [ultimate-10-shaders](https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611) unity free plugin
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -2344,6 +2348,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
 - https://www.patreon.com/posts/urp-mesh-part-1-55990741
+- https://github.com/IronWarrior/UnityOutlineShader
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
 #### Occlusion Culling
