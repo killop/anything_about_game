@@ -361,6 +361,7 @@ Table of Contents
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
 - [Unity技术美术](https://www.zhihu.com/column/c_1348315318327132160)
+- [RedYans-收集狂](https://www.zhihu.com/people/tong-yan-yan-26/posts) 
 - [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
 - [unity-grenoble](https://unity-grenoble.github.io/website/)
 - [ea.seed](https://www.ea.com/seed)
@@ -490,6 +491,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [astroukoff](http://astroukoff.blogspot.com/) unity vfx houdini
 - [bgolus](https://bgolus.medium.com/)
 - [joyrok](https://joyrok.com) TA sdf
 - [theinstructionlimit](http://theinstructionlimit.com/) TA
@@ -967,6 +969,9 @@ Table of Contents
 - [procedural-stochastic-texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) Modified Shader Graph package implementing Procedural Stochastic Texturing 
 - [超强一键生成特效常用贴图网站介绍！](https://www.bilibili.com/video/BV1ub411U7Jc/?spm_id_from=autoNext)
 - [texturelab](https://github.com/njbrown/texturelab) About Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
+- [pixaflux](http://pixaflux.com/) Create custom CG materials using a non-destructive, node-based workflow.
+- [texturecauldron](https://soerbgames.itch.io/texturecauldron) Texture Cauldron is a node based tool to generate detailed tileable textures.
+- [filterforge](https://filterforge.com/) Mighty graphics software with thousands of photo effects and seamless textures, and an editor to create your own filters.
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -2401,7 +2406,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Noise
 - https://github.com/keijiro/NoiseShader
 - https://github.com/tuxalin/procedural-tileable-shader
-- https://github.com/Auburn/FastNoiseLite
+- https://github.com/Auburn/FastNoiseLite'
+- https://flogelz.itch.io/noisemixer
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the world as a mask, allowing for various shader effects.
