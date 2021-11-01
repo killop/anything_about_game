@@ -1508,6 +1508,7 @@ Table of Contents
 - [面试官：换人！他连 TCP 这几个参数都不懂 ](https://mp.weixin.qq.com/s/fjnChU3MKNc_x-Wk7evLhg)
 - [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
 #### C#
+- [DOTSNET](https://assetstore.unity.com/packages/tools/network/dotsnet-dots-networking-102633) unity -dots netcode plugin
 - [ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp) Reliable UDP networking library 
 - [NetworkToolkit](https://github.com/scalablecory/NetworkToolkit) This project contains networking primitives for use with .NET. 
 - http://www.hslcommunication.cn/
@@ -1950,7 +1951,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [palanteer](https://github.com/dfeneyrou/palanteer)
 - [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
 - [MemoryProfiler](https://github.com/larryhou/MemoryProfiler)
+
 #### GPU
+- https://github.com/taptap/render-doctor
+- https://github.com/taptap/perf-doctor
 - [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
 - [renderdoc](https://renderdoc.org/) 
 - [renderdocArticle](https://blog.kangkang.org/index.php/archives/504)
@@ -2862,6 +2866,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [AddressableTools](https://github.com/UniGameTeam/UniGame.AddressableTools) Addressables utils for Unity3D
 - [addressable-asset-system-chinese-manual](https://github.com/xiexx-game/addressable-asset-system-chinese-manual)
 - [EZAddresser](https://github.com/Haruma-K/EZAddresser)
+- [AssetBundle-ContentHasher](https://github.com/AndyMUnity/AssetBundle-ContentHasher) This tool can be integrated into a build pipeline in order to generate more reliable hashes for AssetBundles using Unity's built in pipeline.
 #### AutoUpdate
 - https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
 #### Framework
