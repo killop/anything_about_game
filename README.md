@@ -175,6 +175,7 @@ Table of Contents
       - [Noise](#noise)
       - [Trail](#trail)
       - [RenderPipelineFrameWork](#renderpipelineframework)
+      - [SphericalHarmonicLighting](#sphericalharmoniclighting)
       - [URP/SPR/HDRP Course](#urpsprhdrp-course)
       - [UI](#ui)
       - [Mesh](#mesh)
@@ -413,6 +414,8 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
+- [聂述龙](https://nashnie.github.io/) 网络同步
+- [](https://simalaoshi.github.io/)
 - [涂月观](http://tuyg.top/) urp
 - [恶毒的狗](https://baddogzz.github.io/)
 - [noodle1983](https://noodle1983.github.io/) 服务器
@@ -712,6 +715,7 @@ Table of Contents
 - www.ryzom.com
 
 ## Game-Asset
+- [CG艺术家都会去那些国内外的资源网站](https://zhuanlan.zhihu.com/p/91428684)
 - https://casual-effects.com/data/
 - https://assetstore.unity.com/ 
 - https://itch.io/ 
@@ -837,6 +841,7 @@ Table of Contents
 - [ephere](https://ephere.com/)
 - https://cgpal.com/fibershop/
 - [flux-dynamic-hair](https://assetstore.unity.com/packages/tools/animation/flux-dynamic-hair-skirt-tail-bone-control-tool-164940?)
+- [fluffy-grooming](https://assetstore.unity.com/packages/tools/modeling/fluffy-grooming-tool-193828)
 ##### Human
 - [poser](https://www.posersoftware.com/) 
 - [daz3d](https://www.daz3d.com/home)
@@ -1314,6 +1319,7 @@ Table of Contents
 - [端游、手游服务端常用的架构是什么样的？](https://www.zhihu.com/question/29779732/answer/45791817)
 - [网络游戏同步技术概述](https://zhuanlan.zhihu.com/p/56923109)
 - [Unity帧同步解决方案](https://zhuanlan.zhihu.com/p/66582899)
+- [网游帧同步的分析与设计](https://zhuanlan.zhihu.com/p/105390563)
 - [帧同步：浮点精度测试](https://zhuanlan.zhihu.com/p/30422277)
 - [帧同步和状态同步该怎么选](https://zhuanlan.zhihu.com/p/104932624)
 - [A guide to understanding netcode](https://www.gamereplays.org/overwatch/portals.php?show=page&name=overwatch-a-guide-to-understanding-netcode)
@@ -2161,7 +2167,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术学习大纲](https://zhuanlan.zhihu.com/p/401525846)
 - [图形学硬件拾遗](https://zhuanlan.zhihu.com/p/371469482)
 - [Life of a triangle](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
-- [Scratchapixel](/www.scratchapixel.com/)
+- [Scratchapixel](https://www.scratchapixel.com)
 - [学习笔记：GAMES101-现代计算机图形学入门](https://blog.csdn.net/weixin_43803133/category_10303553.html)
 - [一个角色最终呈现在引擎里，美术制作上的思考以及注意事项](https://zhuanlan.zhihu.com/p/344991995)
 - [技术美术 (Technical Artist)](https://zhuanlan.zhihu.com/p/258861976)
@@ -2425,7 +2431,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://github.com/JorenJoestar/DataDrivenRendering
 - https://github.com/larsbertram69
-
+##### SphericalHarmonicLighting
+- https://github.com/wlgys8/SHLearn 
 
 ##### URP/SPR/HDRP Course
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
@@ -2596,6 +2603,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [More Compute Shaders](https://anteru.net/blog/2018/more-compute-shaders/)
 - [Even more Compute Shaders](https://anteru.net/blog/2018/even-more-compute-shaders/)
 - [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
+- [MinimalCompute](https://github.com/cinight/MinimalCompute) Minimal Compute Shader Examples
 - https://zhuanlan.zhihu.com/p/368307575
 - https://github.com/cabbibo/IMMATERIA/
 - https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
@@ -2823,6 +2831,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [halide](https://halide-lang.org/)
 - [ulox](https://github.com/stevehalliwell/ulox)
 - [umka-lang](https://github.com/vtereshkov/umka-lang)
+- [luau](https://github.com/Roblox/luau)
 
 #### Collection
 - https://github.com/alilleybrinker/langs-in-rust
@@ -3014,6 +3023,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Unity-Technologies/AutoLOD/tree/master/Runtime/Helpers
 - https://github.com/renanwolf/UniRate/
 - https://github.com/ashblue/oyster-package-generator
+- https://github.com/Deadcows/MyBox
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -3221,6 +3231,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 -  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
 -  [unity-curve-utils](https://github.com/baba-s/unity-curve-utils) 曲线库
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
+-  https://github.com/jongallant/Unity-Bullet-Hell
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 -  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
 -  [AnimeTask](https://github.com/kyubuns/AnimeTask)
