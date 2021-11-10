@@ -86,6 +86,7 @@ Table of Contents
     - [Article](#article)
 - [Version-Control](#version-control)
     - [article](#article-1)
+    - [Patch](#patch)
 - [Game-Server-framework](#game-server-framework)
     - [Article](#article-2)
     - [Lockstep](#lockstep)
@@ -1253,7 +1254,8 @@ Table of Contents
 #### article
 - [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
 - [规范化git commit信息](https://blog.dteam.top/posts/2019-04/%E8%A7%84%E8%8C%83%E5%8C%96git-commit%E4%BF%A1%E6%81%AF.html)
-
+#### Patch
+- [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
 ## Game-Server-framework
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
 - https://github.com/dotnwat/awesome-seastar
@@ -2153,6 +2155,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 - [ShaderPackager]( https://github.com/slipster216/ShaderPackager) 
+- [Shader中的代码优化原理分析](https://blog.csdn.net/qq_36383623/article/details/107249625)
+- [HLSL中的MUL指令深层剖析](https://blog.csdn.net/u012871784/article/details/49250765)
+- [shader mad是汇编指令吗_Shader中的代码优化原理分析](https://blog.csdn.net/weixin_39634900/article/details/111584248)
 - [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 - [The Shader Permutation Problem - Part 2: How Do We Fix It](https://therealmjp.github.io/posts/shader-permutations-part2/) 
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf) 
