@@ -2883,6 +2883,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [addressable-asset-system-chinese-manual](https://github.com/xiexx-game/addressable-asset-system-chinese-manual)
 - [EZAddresser](https://github.com/Haruma-K/EZAddresser)
 - [AssetBundle-ContentHasher](https://github.com/AndyMUnity/AssetBundle-ContentHasher) This tool can be integrated into a build pipeline in order to generate more reliable hashes for AssetBundles using Unity's built in pipeline.
+- [AddressablesServices](https://github.com/dre0dru/AddressablesServices) A set of classes to convert Unity Addressables callbacks/coroutine workflow to async/await with UniTask.
 #### AutoUpdate
 - https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
 #### Framework
@@ -2907,6 +2908,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131)
 - https://github.com/zs9024/quick_psd2ugui
 - https://github.com/dotmos/uGameFramework
+- https://github.com/DonnYep/CosmosFramework
 
 #### Dependency Injection 
 - https://github.com/gustavopsantos/reflex
