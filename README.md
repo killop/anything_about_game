@@ -2308,6 +2308,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [cmake-raytracer](https://github.com/64/cmake-raytracer)
 - https://developer.download.nvidia.com/ray-tracing-gems/rtg2-chapter30-preprint.pdf
 ##### NPR
+- https://github.com/TechMiZ/ToonShadingCollection
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
 - [【NPR】卡通渲染](https://blog.csdn.net/candycat1992/article/details/50167285)及其对应的github库[NPR_Lab](https://github.com/candycat1992/NPR_Lab)
@@ -2843,6 +2844,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/prathyvsh/pl-catalog
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
 - [awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
+- [awesome-language-engineering](https://github.com/NLKNguyen/awesome-language-engineering)
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
