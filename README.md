@@ -2923,6 +2923,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chexiongsheng/XUUI
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/506638093/RichText 头顶血条
+- https://github.com/wuxiongbin/uHyperText
 - https://github.com/mattak/Unidux
 - https://github.com/kirurobo/UniWindowController 
 #### Moba
@@ -3259,6 +3260,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Traverser](https://aitorsimona.github.io/Traverser/) 
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
 - https://github.com/ssell/UnityDotsCharacterController 
+- https://github.com/nicholas-maltbie/OpenKCC
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 ## GameReverse
