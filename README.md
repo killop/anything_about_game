@@ -268,7 +268,7 @@ Table of Contents
     - [GamePlay](#gameplay)
 - [知识库软件/笔记软件](#知识库软件笔记软件)
 - [Tool](#tool-1)
-- [Xcode](#xcode)
+- [UnityBuild](#unitybuild)
 - [Programmer-Common-Tool](#programmer-common-tool)
 - [workflow](#workflow)
 - [Auto Test](#auto-test)
@@ -416,7 +416,7 @@ Table of Contents
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
 - [聂述龙](https://nashnie.github.io/) 网络同步
-- [](https://simalaoshi.github.io/)
+- [恶霸威](https://simalaoshi.github.io/)
 - [涂月观](http://tuyg.top/) urp
 - [恶毒的狗](https://baddogzz.github.io/)
 - [noodle1983](https://noodle1983.github.io/) 服务器
@@ -3285,16 +3285,15 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [withpinbox](https://withpinbox.com/)
 ## Tool
 
-
-## Xcode
+## UnityBuild
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
- 
+- [Usdk](https://github.com/honghuachen/Usdk) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
 ## Programmer-Common-Tool
 - https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
 - http://binaryconvert.com 专门做二进制转换的网站
-- [这样讲原码、反码、补码，帮学妹解决困扰了三天的问题 ](https://mp.weixin.qq.com/s/vKZleAIMivOxJ_kEB1uSqw)
-- [box3](www.box3.cn) 开发者工具箱
+- [这样讲原码、反码、补码，帮学妹解决困扰了三天的问题](https://mp.weixin.qq.com/s/vKZleAIMivOxJ_kEB1uSqw)
+- [box3](htttp://www.box3.cn) 开发者工具箱
 - https://ihateregex.io/expr 正则表达式
 - https://www.toolnb.com  toolnb 
 - https://github.com/eastlakeside/awesome-productivity-cn
