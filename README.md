@@ -3137,6 +3137,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
  - [mesh-baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017)
  - [skinned-mesh-combiner](https://assetstore.unity.com/packages/templates/systems/skinned-mesh-combiner-mt-135422)
+ - [costume](https://assetstore.unity.com/packages/tools/animation/q-costume-157049)
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [fast-skinned-mesh-combiner](https://github.com/joshcamas/fast-skinned-mesh-combiner)
