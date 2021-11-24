@@ -415,6 +415,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
+- [极客红叶会-geekbrh](https://space.bilibili.com/338248696/video)
 - [聂述龙](https://nashnie.github.io/) 网络同步
 - [恶霸威](https://simalaoshi.github.io/)
 - [涂月观](http://tuyg.top/) urp
@@ -2968,6 +2969,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ShaderGraph_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
 - [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples)
 - [Unity_ShaderGraphStudy](https://github.com/rito15/Unity_ShaderGraphStudy)
+- [Shader Graph所有节点讲解](https://www.bilibili.com/video/BV1qE411y7MJ?)
+- [[Brackeys] Unity Shader Graph教程合集](https://www.bilibili.com/video/BV1pV411U7sE)
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
