@@ -87,6 +87,7 @@ Table of Contents
 - [Version-Control](#version-control)
     - [article](#article-1)
     - [Patch](#patch)
+    - [PythonTool](#pythontool)
 - [Game-Server-framework](#game-server-framework)
     - [Article](#article-2)
     - [Lockstep](#lockstep)
@@ -125,6 +126,7 @@ Table of Contents
     - [C](#c-3)
 - [Game-Math](#game-math)
     - [Math-Tool](#math-tool)
+    - [Curve](#curve)
     - [Courses/Article/website](#coursesarticlewebsite)
 - [Physics](#physics)
     - [Physics Framework](#physics-framework)
@@ -280,6 +282,7 @@ Table of Contents
 - [看完不star，小心没jj :）!](#看完不star小心没jj-)
 
 ## Awesome-Game
+- https://github.com/wlxklyh/awesome-gamedev
 - https://www.gamasutra.com/category/programming/
 - http://www.onrpg.com/
 - https://www.mmorpg.com/
@@ -415,6 +418,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
+- [崔佬](https://cuihongzhi1991.github.io/blog)
 - [极客红叶会-geekbrh](https://space.bilibili.com/338248696/video)
 - [聂述龙](https://nashnie.github.io/) 网络同步
 - [恶霸威](https://simalaoshi.github.io/)
@@ -496,6 +500,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [frederikaalund](http://frederikaalund.com/)
 - [astroukoff](http://astroukoff.blogspot.com/) unity vfx houdini
 - [bgolus](https://bgolus.medium.com/)
 - [joyrok](https://joyrok.com) TA sdf
@@ -1252,11 +1257,14 @@ Table of Contents
 * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令。如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。
 * [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！ 
 
+
 #### article
 - [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
 - [规范化git commit信息](https://blog.dteam.top/posts/2019-04/%E8%A7%84%E8%8C%83%E5%8C%96git-commit%E4%BF%A1%E6%81%AF.html)
 #### Patch
 - [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
+#### PythonTool
+- [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
 - https://github.com/dotnwat/awesome-seastar
@@ -1795,7 +1803,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [game-math](https://github.com/npruehs/game-math) c#
 - [Unity GPU Nearest Neighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) c# gpu
 - [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
-- [nurbs](https://github.com/StandardCyborg/nurbs) js Non-Uniform Rational B-Splines (NURBS) of any dimensionality 
 - [3DMath](https://github.com/GregLukosek/3DMath) Unity C# 3D Math methods library. 
 - [Mathfs](https://github.com/FreyaHolmer/Mathfs) c# Expanded Math Functionality for Unity 
 - [Geometric Algorithms](https://github.com/volfegan/GeometricAlgorithms)  Java Geometric Algorithms implemented for Java and Processing v3 
@@ -1832,9 +1839,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [MaxMath](https://github.com/MrUnbelievable92/MaxMath)
 - [XUGL](https://github.com/monitor1394/XUGL)
 - [nalgebra](https://www.nalgebra.org/) rust math
-- [bezierjs](https://github.com/Pomax/bezierjs) A nodejs and client-side library for (cubic) Bezier curve work 
 - [DualQuaternionsForUnity](https://github.com/johannesugb/DualQuaternionsForUnity)
 - [opengjk](https://www.mattiamontanari.com/opengjk/) C implementation of the GJK algorithm 
+  
 #### Math-Tool
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -1847,6 +1854,12 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - http://tobyschachman.com/Shadershop/
 - [graphtoy](https://graphtoy.com/)
 
+#### Curve
+- [bezierjs](https://github.com/Pomax/bezierjs) A nodejs and client-side library for (cubic) Bezier curve work 
+- [CurveDesigner](https://github.com/cmacmillan/CurveDesigner) A free tool for designing tubes, ramps, curves, and half-pipes in unity
+- [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
+- [unity-curve-utils](https://github.com/baba-s/unity-curve-utils) 曲线 
+- [nurbs](https://github.com/StandardCyborg/nurbs) js Non-Uniform Rational B-Splines (NURBS) of any dimensionality 
 #### Courses/Article/website
 - https://zhuanlan.zhihu.com/p/362148370
 - https://github.com/rossant/awesome-math
@@ -3244,8 +3257,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
 -  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
 -  https://github.com/Unity-Technologies/SuperScience 官方3rd 移动模拟
--  [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
--  [unity-curve-utils](https://github.com/baba-s/unity-curve-utils) 曲线库
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 -  https://github.com/jongallant/Unity-Bullet-Hell
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
