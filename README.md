@@ -1541,6 +1541,7 @@ Fast, reliable, scalable.
 - [ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) This repository provides a managed C# abstraction of GameNetworkingSockets library which is created and maintained by Valve Software. You will need to build the native library with all required dependencies before you get started.
 - [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
 - [DotNetty](https://github.com/Azure/DotNetty) DotNetty project – a port of netty, event-driven asynchronous network application framework 
+- [SpanNetty](https://github.com/cuteant/SpanNetty) Port of Netty(v4.1.51.Final) for .NET
 - [HiSocket](https://github.com/hiramtan/HiSocket) It is a lightweight client socket solution, you can used it in Unity3d or C# project
 - [NetStack](https://github.com/nxrighthere/NetStack) Lightweight toolset for creating concurrent networking systems for multiplayer games.
 NetStack is self-contained and has no dependencies.
@@ -2453,6 +2454,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://github.com/JorenJoestar/DataDrivenRendering
 - https://github.com/larsbertram69
+- https://github.com/TakeshiCho/UI_RenderPipelineInLinearSpace
 ##### SphericalHarmonicLighting
 - https://github.com/wlgys8/SHLearn 
 
@@ -2854,6 +2856,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ulox](https://github.com/stevehalliwell/ulox)
 - [umka-lang](https://github.com/vtereshkov/umka-lang)
 - [luau](https://github.com/Roblox/luau)
+- [BorrowScript](https://github.com/alshdavid/BorrowScript)
 
 #### Collection
 - https://github.com/alilleybrinker/langs-in-rust
