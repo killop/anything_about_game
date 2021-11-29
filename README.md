@@ -1381,6 +1381,7 @@ Table of Contents
 - https://cloud.tencent.com/product/mgobe
 - https://github.com/JiepengTan/LockstepECS 
 - https://github.com/JiepengTan/LockstepEngine
+- https://github.com/Golangltd/LollipopUnity
 - https://github.com/SnpM/LockstepFramework
 - https://github.com/proepkes/UnityLockstep
 - https://github.com/CraneInForest/LockStepSimpleFramework-Client
