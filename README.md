@@ -56,12 +56,12 @@ Table of Contents
 - [Texture](#texture)
     - [PIX-Texture](#pix-texture)
       - [Normal-Map](#normal-map)
-    - [GPU-Texture](#gpu-texture)
-    - [Texture Tool](#texture-tool)
+    - [Texture-Compression](#texture-compression)
+    - [Texture-Tool](#texture-tool)
     - [Atlas](#atlas)
 - [Animation](#animation)
     - [Article/Collection](#articlecollection)
-    - [Animation DCC Tool](#animation-dcc-tool)
+    - [Animation-DCC-Tool](#animation-dcc-tool)
     - [Animation Controller](#animation-controller)
     - [GPU-Animation](#gpu-animation)
     - [Mesh Animation](#mesh-animation)
@@ -239,6 +239,7 @@ Table of Contents
     - [Node-Editor](#node-editor)
     - [AI](#ai-1)
     - [UGUI](#ugui)
+    - [UI-Animation](#ui-animation)
     - [2D](#2d)
     - [Timeline](#timeline)
     - [Util](#util)
@@ -960,11 +961,11 @@ Table of Contents
 - http://www.mikktspace.com/
 - [【教程】游戏流程如何烘焙出完美法线](https://mp.weixin.qq.com/s/-yDMD9hskzRPR_iq77-B5w)
 - [generating-perfect-normal-maps-for-unity](https://bgolus.medium.com/generating-perfect-normal-maps-for-unity-f929e673fc57)
-#### GPU-Texture
+#### Texture-Compression
 - [basis_universal](https://github.com/BinomialLLC/basis_universal)
-- https://github.com/caosdoar/Fornos
+- https://github.com/phoboslab/qoi
 
-#### Texture Tool
+#### Texture-Tool
 * [texturepacker](https://www.codeandweb.com/texturepacker)
 * [spriteuv](https://www.spriteuv.com/)
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
@@ -984,6 +985,7 @@ Table of Contents
 - [pixaflux](http://pixaflux.com/) Create custom CG materials using a non-destructive, node-based workflow.
 - [texturecauldron](https://soerbgames.itch.io/texturecauldron) Texture Cauldron is a node based tool to generate detailed tileable textures.
 - [filterforge](https://filterforge.com/) Mighty graphics software with thousands of photo effects and seamless textures, and an editor to create your own filters.
+- https://github.com/caosdoar/Fornos
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -998,7 +1000,7 @@ Table of Contents
 ## Animation
 #### Article/Collection
 - https://www.creativebloq.com/advice/understand-the-12-principles-of-animation
-#### Animation DCC Tool
+#### Animation-DCC-Tool
 - [Cascadeur](https://cascadeur.com/)
 - [spine](http://zh.esotericsoftware.com/)
 - [live3d](http://www.zingfront.cn/live3d/)
@@ -2389,6 +2391,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Shrimpey/UltimateOutline
 - https://www.patreon.com/posts/urp-mesh-part-1-55990741
 - https://github.com/IronWarrior/UnityOutlineShader
+
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
 #### Occlusion Culling
@@ -2456,6 +2459,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/JorenJoestar/DataDrivenRendering
 - https://github.com/larsbertram69
 - https://github.com/TakeshiCho/UI_RenderPipelineInLinearSpace
+- https://cmwdexint.com/2019/05/30/3d-scene-need-linear-but-ui-need-gamma/
+- https://github.com/tkweizhong/CustomURP
 ##### SphericalHarmonicLighting
 - https://github.com/wlgys8/SHLearn 
 
@@ -3028,6 +3033,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
 - https://github.com/scottcgi/MojoUnity-Packages
+#### UI-Animation
+- [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
+- [Dash](https://github.com/pshtif/Dash)
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
 - [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
