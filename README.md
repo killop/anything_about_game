@@ -1496,6 +1496,7 @@ Table of Contents
 - https://github.com/tagcode/Lexical.FileSystem
 - https://github.com/dre0dru/LocalStorage
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
+- https://www.betrfs.org/
 
 ## Hash
 - [Blake3](https://github.com/xoofx/Blake3.NET) Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
@@ -2461,6 +2462,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/TakeshiCho/UI_RenderPipelineInLinearSpace
 - https://cmwdexint.com/2019/05/30/3d-scene-need-linear-but-ui-need-gamma/
 - https://github.com/tkweizhong/CustomURP
+- https://github.com/wlgys8/SRPLearn
 ##### SphericalHarmonicLighting
 - https://github.com/wlgys8/SHLearn 
 
@@ -3122,6 +3124,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Article
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
+* https://space.bilibili.com/477041559
 #### Navmesh
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
