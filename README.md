@@ -3088,6 +3088,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/renanwolf/UniRate/
 - https://github.com/ashblue/oyster-package-generator
 - https://github.com/Deadcows/MyBox
+- https://github.com/handzlikchris/Unity.TransformSetterInterceptor
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
