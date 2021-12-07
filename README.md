@@ -97,6 +97,7 @@ Table of Contents
     - [Library](#library)
 - [Serialization](#serialization)
     - [Json](#json)
+      - [Huge-World](#huge-world)
 - [DataBase](#database)
     - [c](#c)
 - [ECS Libraries](#ecs-libraries)
@@ -880,8 +881,9 @@ Table of Contents
 - [unity-mesh-simplifier](https://thegamedev.guru/unity-gpu-performance/unity-mesh-simplifier/)
 - [instalod](https://instalod.com/)
 - [pixyz](https://www.pixyz-software.com/documentations/html/2020.2/plugin4unity/)
-- [ultimate-lod-system](https://assetstore.unity.com/packages/tools/utilities/ultimate-lod-system-mt-170425)
-- [mantis-lod-editor](https://assetstore.unity.com/packages/tools/modeling/mantis-lod-editor-professional-edition-37086?)
+- [ultimate-lod-system](https://assetstore.unity.com/packages/tools/utilities/ultimate-lod-system-mt-170425) unity-plugin
+- [mantis-lod-editor](https://assetstore.unity.com/packages/tools/modeling/mantis-lod-editor-professional-edition-37086?) unity-plugin
+- [poly-few](https://assetstore.unity.com/packages/tools/utilities/poly-few-mesh-simplifier-and-auto-lod-generator-160139) unity-plugin
 #### List-of-game-middleware
 - https://en.wikipedia.org/wiki/List_of_game_middleware
 #### CG Software API
@@ -1432,6 +1434,8 @@ Table of Contents
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
 
+##### Huge-World
+- [ScatterStream](https://github.com/ashleyseric/ScatterStream) A runtime object scattering/vegetation authoring, streaming and rendering tool for Unity optimised for instanced rendering a very large number of placed items.
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -1614,6 +1618,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Muduo](https://github.com/chenshuo/muduo)
 - [NanoSockets](https://github.com/nxrighthere/NanoSockets) Lightweight UDP sockets abstraction for rapid implementation of message-oriented protocols 
 - [ggpo](https://github.com/pond3r/ggpo) Good Game, Peace Out Rollback Network SDK 
+- [yasio](https://github.com/yasio/yasio/)  A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
+- [libhv](https://github.com/ithewei/libhv) 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
 #### Rust
 - [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 #### Web/Http
@@ -1989,6 +1995,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [palanteer](https://github.com/dfeneyrou/palanteer)
 - [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
 - [MemoryProfiler](https://github.com/larryhou/MemoryProfiler)
+- [speedscope](https://www.speedscope.app/)
 
 #### GPU
 - https://github.com/taptap/render-doctor
@@ -2716,11 +2723,14 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/mono/Embeddinator-4000
 - [NativeOctree](https://github.com/marijnz/NativeOctree)
 - [SharedMemory](https://github.com/spazzarama/SharedMemory)  C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
+- [interprocess](https://github.com/cloudtoid/interprocess) A cross-platform shared memory queue for fast communication between processes (Interprocess Communication or IPC).
 - [DawgSharp](https://github.com/bzaar/DawgSharp) DAWG String Dictionary in C# 
 - [Towel](https://github.com/ZacharyPatten/Towel) A .NET library intended to make coding a bit more towelerable: data structures, algorithms, mathematics, metadata, extensions, console, and more. :)
 - [QuikGraph](https://github.com/KeRNeLith/QuikGraph) About Generic Graph Data Structures and Algorithms for .NET
 - [SparseSet](https://gdx.dotbunny.com/api/GDX.Collections.SparseSet.html)
 - [ObservableCollections](https://github.com/Cysharp/ObservableCollections) High performance observable collections and synchronized views, for WPF, Blazor, Unity. 
+- [ObservableComputations](https://github.com/IgorBuchelnikov/ObservableComputations) Cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
+
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
