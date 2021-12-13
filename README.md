@@ -16,6 +16,7 @@ Table of Contents
     - [Game](#game)
     - [Graphics](#graphics)
     - [CG](#cg)
+    - [HardWare](#hardware)
     - [Digest](#digest)
     - [Common](#common)
     - [Js/Web](#jsweb)
@@ -148,6 +149,8 @@ Table of Contents
     - [Conference](#conference)
     - [Journal](#journal)
     - [Group](#group)
+    - [Vendor](#vendor)
+    - [Paper-Forums](#paper-forums)
     - [Graphics-Library](#graphics-library)
     - [SoftWare-Render](#software-render)
     - [3rd-Binding](#3rd-binding)
@@ -165,7 +168,7 @@ Table of Contents
     - [Optimize](#optimize)
     - [Physically-Based-Render](#physically-based-render)
     - [Ray Tracing](#ray-tracing)
-      - [NPR](#npr)
+    - [NPR](#npr)
     - [SDF](#sdf)
     - [Outline](#outline)
     - [VirturalTexture](#virturaltexture)
@@ -213,7 +216,6 @@ Table of Contents
 - [Utils](#utils)
     - [C](#c-4)
     - [C++](#c-5)
-    - [GPU-Accelerator](#gpu-accelerator)
 - [Javascript](#javascript)
 - [Lua](#lua-1)
 - [Typescript](#typescript)
@@ -359,6 +361,7 @@ Table of Contents
 - https://github.com/mehdihadeli/awesome-software-architecture
 ## News
 #### Game
+- [metacritic](https://www.metacritic.com/game)
 - [indienova](https://indienova.com/)
 - [gamedev](https://gamedev.net/)
 - [gamefromscratch](https://gamefromscratch.com)
@@ -391,6 +394,12 @@ Table of Contents
 - [deviantart](https://www.deviantart.com/)
 - [cgjoy](https://www.cgjoy.com/)
 - [element3ds](https://www.element3ds.com/)
+#### HardWare
+- [anandtech](https://www.anandtech.com/)
+- [bit-tech](https://www.bit-tech.net/)
+- [hothardware](https://hothardware.com/)
+- [bjorn3d](https://bjorn3d.com/)
+- [hardforum](https://hardforum.com/)
 #### Digest
 - [game-dev-digest](https://gamedevdigest.com/digests.html)
 #### Common
@@ -508,6 +517,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [andbc](http://andbc.co/home/) TA
 - [coffeebraingames](https://coffeebraingames.wordpress.com/) programmer
 - [frederikaalund](http://frederikaalund.com/) TA
 - [astroukoff](http://astroukoff.blogspot.com/) unity vfx houdini
@@ -571,6 +581,7 @@ Table of Contents
 - [thomasdeliot](https://github.com/thomasdeliot) working at Unity Technologies on Unity.
 - [Kleber Garcia ](https://github.com/kecho) working at Unity Technologies on Unity.
 - [Natalya Tatarchuk](https://twitter.com/mirror2mask) working at Unity Technologies on Unity.
+- [pbbastian](http://pbbastian.github.io/)  working at Unity Technologies on Unity 
 - [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
 - [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
 - https://simonschreibt.de/
@@ -1786,6 +1797,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - http://structuresynth.sourceforge.net/
 - https://github.com/TheFuseLab/VL.Fuse
 - https://github.com/nannou-org/nannou
+- https://ciphrd.com/
 ## 并发执行和多线程
 #### CPP
 *   https://github.com/rigtorp/awesome-lockfree
@@ -1891,7 +1903,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/rossant/awesome-math
 - [傅里叶变换交互式入门](http://www.jezzamon.com/fourier/zh-cn.html)
 - https://www.wolfram.com/
-- [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
 - https://mathvault.ca/websites/
 - https://brilliant.org/
 - https://www.3blue1brown.com/
@@ -2113,6 +2124,14 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Washington-Graphics and Image](http://grail.cs.washington.edu/)
 - [Washington Univ. St. Louis - Media and Machines](http://www.cs.wustl.edu/MediaAndMachines)
 - [Yale-Graphics](http://graphics.cs.yale.edu/)
+
+#### Vendor
+- https://www.disneyanimation.com/publications/
+- https://www.disneyanimation.com/technology/hyperion/
+- https://graphics.pixar.com/library/
+#### Paper-Forums
+- https://onlinelibrary.wiley.com/journal/14678659 
+- https://forums.ogre3d.org/index.php
 #### Graphics-Library
 
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
@@ -2130,7 +2149,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [OptiX](https://developer.nvidia.com/optix) - Application framework for achieving optimal ray tracing performance on the GPU
 - [OSPRay](http://www.ospray.org/) - Ray tracing based rendering engine for high-fidelity visualization. [[github](https://github.com/ospray/OSPRay) ![ospray/OSPRay](https://img.shields.io/github/stars/ospray/OSPRay.svg?style=social&label=Star&maxAge=2592000)]
 - [Polyscope](http://polyscope.run/) - Prototyping-oriented UI for geometric algorithms. [[github](https://github.com/nmwsharp/polyscope) ![nmwsharp/polyscope](https://img.shields.io/github/stars/nmwsharp/polyscope.svg?style=social&label=Star&maxAge=2592000)]
-- [Taichi](http://taichi.graphics/) - Computer graphics R&D infrastructure [[github](https://github.com/yuanming-hu/taichi) ![yuanming-hu/taichi](https://img.shields.io/github/stars/yuanming-hu/taichi.svg?style=social&label=Star&maxAge=2592000)]
+- [Taichi](http://taichi.graphics/) - Computer graphics R&D infrastructure [[github](https://github.com/yuanming-hu/taichi) ![yuanming-hu/taichi](https://img.shields.io/github/stars/yuanming-hu/taichi.svg?style=social&label=Star&maxAge=2592000)]https://michaelwalczyk.com/
 - The Forge - Cross-platform rendering framework. [[github](https://github.com/ConfettiFX/The-Forge) ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social&label=Star&maxAge=2592000)]
 - [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
@@ -2163,7 +2182,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Raikiri/LegitEngine
 - https://github.com/Trivaxy/WGPU.NET
 #### Collection
+- [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
 - https://github.com/neverfelly/awesome-light-transport
+- https://dl.acm.org/journal/tog/software
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
 - [realtimerendering](http://www.realtimerendering.com/) 
 - [graphicscodex](https://graphicscodex.courses.nvidia.com/app.html?)
@@ -2355,8 +2376,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.ospray.org/index.html
 - [cmake-raytracer](https://github.com/64/cmake-raytracer)
 - https://developer.download.nvidia.com/ray-tracing-gems/rtg2-chapter30-preprint.pdf
-##### NPR
+#### NPR
 - https://github.com/TechMiZ/ToonShadingCollection
+- http://stylized.realtimerendering.com/
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
 - [【NPR】卡通渲染](https://blog.csdn.net/candycat1992/article/details/50167285)及其对应的github库[NPR_Lab](https://github.com/candycat1992/NPR_Lab)
@@ -2651,9 +2673,13 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/NewbieGameCoder/IllegalWordsDetection 敏感词过滤
 
 ## GPGPU
+- https://github.com/arrayfire/arrayfire
+- [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp)
 - https://github.com/tech-quantum/Amplifier.NET
 - https://www.ilgpu.net/
 - https://github.com/KomputeProject/kompute
+- https://github.com/Sergio0694/ComputeSharp
+- https://github.com/kunzmi/managedCuda
 - [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
 - [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
@@ -2681,6 +2707,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/krylov-na/Compute-shader-particles
 - https://github.com/IRCSS/Procedural-painting
 - https://github.com/keijiro/Swarm
+- https://github.com/ToruNiina/lbvh
 - https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
 - https://github.com/TarAlacrin/HeightmapOnTheGPU
@@ -2715,6 +2742,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://surparallel.org unity 多线程优化工具
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
+- [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
@@ -2774,8 +2802,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 *   [libcstl](http://hao.importnew.com/libcstl/)：标准C语言通用数据结构和常用算法库。[官网](http://libcstl.org/)
 #### C++
 * https://github.com/electronicarts/EASTL
-#### GPU-Accelerator
-- https://github.com/arrayfire/arrayfire
+
 
 ## Javascript
 - https://github.com/ljianshu/Blog  -js优秀博主
@@ -3221,6 +3248,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [trimesh](https://github.com/mikedh/trimesh) Python library for loading and using triangular meshes. 
  - [meshio](https://github.com/nschloe/meshio) There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts  between them
  - [MeshBoolean](https://github.com/KaimaChen/MeshBoolean) Make Boolean Operator on Mesh. In Unity.
+ - [Open3D](https://github.com/isl-org/Open3D) Open3D: A Modern Library for 3D Data Processing
 ##### Fracture Mesh
 - https://gitlab.com/dima13230/unity-libre-fracture
 
