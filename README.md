@@ -172,7 +172,6 @@ Table of Contents
     - [SDF](#sdf)
     - [Outline](#outline)
     - [VirturalTexture](#virturaltexture)
-    - [Occlusion Culling](#occlusion-culling)
     - [Unity-Shader](#unity-shader)
       - [Article](#article-5)
       - [Shader-GUI](#shader-gui)
@@ -240,6 +239,8 @@ Table of Contents
     - [Moba](#moba)
     - [Skill](#skill)
     - [Global illumination (GI)](#global-illumination-gi)
+    - [Occlusion Culling](#occlusion-culling)
+    - [AO](#ao)
     - [ShaderGraph&&Effect](#shadergrapheffect)
     - [Memory/GC](#memorygc)
     - [Asyn-Await](#asyn-await)
@@ -434,6 +435,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
+- [小朋友](http://xiaopengyou.fun/public/index.h) 管线ta
 - [崔佬](https://cuihongzhi1991.github.io/blog)
 - [极客红叶会-geekbrh](https://space.bilibili.com/338248696/video)
 - [聂述龙](https://nashnie.github.io/) 网络同步
@@ -1049,6 +1051,7 @@ Table of Contents
 - [GPGPU Computing Animation & Skinning](https://zhuanlan.zhihu.com/p/50640269)
 - [GPUAnimation](https://github.com/joeante/Unity.GPUAnimation)
 - [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
+- [UnityGPUSkinning](https://github.com/BobLChen/UnityGPUSkinning)
 - [GPU Instancer - Crowd Animations](https://assetstore.unity.com/packages/tools/animation/gpu-instancer-crowd-animations-145114) unity-plugin
 - [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
 - [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
@@ -2219,6 +2222,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Shader Compiler
 - [跨平台引擎Shader编译流程分析](https://zhuanlan.zhihu.com/p/56510874)
 - [如何阅读和还原分析器中的DXBC](https://zhuanlan.zhihu.com/p/346324622)
+- [DXBC指令](http://xiaopengyou.fun/public/2021/01/16/DXBC%E6%8C%87%E4%BB%A4/#more)
+- [dxbc_reader](https://github.com/luxuia/dxbc_reader)
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 - [ShaderPackager]( https://github.com/slipster216/ShaderPackager) 
@@ -2228,6 +2233,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 - [The Shader Permutation Problem - Part 2: How Do We Fix It](https://therealmjp.github.io/posts/shader-permutations-part2/) 
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf) 
+- [ShaderLab](https://github.com/BobLChen/ShaderLab)
 ##### ShaderVariant
 - [Shader变体收集与打包](https://github.com/Nicholas10128/AAAResearch/blob/master/Experiences/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97.md#shadervariantcollection%E7%94%9F%E6%88%90%E9%80%9A%E8%BF%87shaderfeature%E5%AE%9A%E4%B9%89%E7%9A%84%E5%8F%98%E4%BD%93%E8%A7%84%E5%88%99)
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
@@ -2444,11 +2450,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
-#### Occlusion Culling
-- [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
-- [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
-- [适合于移动平台的预计算遮挡剔除](https://zhuanlan.zhihu.com/p/150448978)
-- [Vision](https://github.com/mackysoft/Vision) UnityEngine.CullingGroup API for everyone. 
+
 #### Unity-Shader
 ##### Article
 - [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/Wei_Yuan_2012/article/details/88677172?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
@@ -2511,6 +2513,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/TakeshiCho/UI_RenderPipelineInLinearSpace
 - https://cmwdexint.com/2019/05/30/3d-scene-need-linear-but-ui-need-gamma/
 - https://github.com/tkweizhong/CustomURP
+- https://github.com/AkilarLiao/ForwardPlusURP
 - https://github.com/wlgys8/SRPLearn
 ##### SphericalHarmonicLighting
 - https://github.com/wlgys8/SHLearn 
@@ -3042,7 +3045,13 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 - [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
-
+#### Occlusion Culling
+- [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
+- [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
+- [适合于移动平台的预计算遮挡剔除](https://zhuanlan.zhihu.com/p/150448978)
+- [Vision](https://github.com/mackysoft/Vision) UnityEngine.CullingGroup API for everyone. 
+#### AO
+- [游戏中的全局光照(三) 环境光遮蔽/AO](https://zhuanlan.zhihu.com/p/19419867 )
 #### ShaderGraph&&Effect
 - [ShaderGraph暴力学习](https://www.bilibili.com/video/BV1ZE411W7Nz?)
 - [赵京宇](https://www.bilibili.com/video/BV1ut41197aQ)
