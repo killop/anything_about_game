@@ -69,6 +69,7 @@ Table of Contents
     - [Vertex Animation](#vertex-animation)
     - [Tween](#tween)
     - [Physics Based Animation](#physics-based-animation)
+    - [MotionMatching](#motionmatching)
     - [Unity-Tool](#unity-tool)
 - [Console/Command/Shell](#consolecommandshell)
 - [Scenes](#scenes)
@@ -1089,6 +1090,11 @@ Table of Contents
 - [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
 - [binh.graphics](http://binh.graphics/)
 - [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
+
+#### MotionMatching
+- https://github.com/dreaw131313/Open-Source-Motion-Matching-System
+- https://www.zhihu.com/people/fengkan
+- https://assetstore.unity.com/packages/tools/animation/motion-matching-for-unity-145624 
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
@@ -2135,6 +2141,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Paper-Forums
 - https://onlinelibrary.wiley.com/journal/14678659 
 - https://forums.ogre3d.org/index.php
+- https://jcgt.org/read.html?reload=1
 #### Graphics-Library
 
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
