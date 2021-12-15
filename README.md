@@ -1174,6 +1174,8 @@ Table of Contents
 #### Tree/Vegetation/Grass
 - [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
+- [VegetationStudioProExtensions](https://github.com/Roland09/VegetationStudioProExtensions)
+- [vegetation-engine-amplify-impostors](https://assetstore.unity.com/packages/vfx/shaders/the-vegetation-engine-amplify-impostors-module-189099)
 - [Nature Renderer](https://assetstore.unity.com/packages/tools/terrain/nature-renderer-153552) UnityPlugin
 - [Open World Nature Kit](https://assetstore.unity.com/packages/3d/environments/landscapes/open-world-nature-kit-150748) UnityPlugin
 - [Alttrees System](https://assetstore.unity.com/packages/tools/terrain/alttrees-system-beta-76657) UnityPlugin
@@ -2727,6 +2729,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
 
 #### GPU Driven
+- [webgpu-compute-rasterizer](https://github.com/OmarShehata/webgpu-compute-rasterizer)
 - [vkguide gpu_driven_engines](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/) 
 - [Max:GPU Driven Pipeline — 工具链与进阶渲染](https://zhuanlan.zhihu.com/p/44411827)
 - [GPU Driven Render Pipeline](https://zhuanlan.zhihu.com/p/37084925)
