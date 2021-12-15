@@ -14,7 +14,8 @@ Table of Contents
 - [Awesome-General](#awesome-general)
 - [News](#news)
     - [Game](#game)
-    - [Graphics](#graphics)
+    - [Graphic](#graphic)
+      - [Papers](#papers)
     - [CG](#cg)
     - [HardWare](#hardware)
     - [Digest](#digest)
@@ -151,7 +152,6 @@ Table of Contents
     - [Journal](#journal)
     - [Group](#group)
     - [Vendor](#vendor)
-    - [Paper-Forums](#paper-forums)
     - [Graphics-Library](#graphics-library)
     - [SoftWare-Render](#software-render)
     - [3rd-Binding](#3rd-binding)
@@ -368,8 +368,7 @@ Table of Contents
 - [gamedev](https://gamedev.net/)
 - [gamefromscratch](https://gamefromscratch.com)
 - [rust-gamedev](https://rust-gamedev.github.io/) 
-#### Graphics
-- [realtimerendering-papers](http://kesen.realtimerendering.com/)
+#### Graphic
 - [acm](https://dl.acm.org/loi/tog)
 - [replicability](https://replicability.graphics/index.html#project)
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
@@ -387,6 +386,12 @@ Table of Contents
 - [dreamworks](https://research.dreamworks.com/)
 - [pixar](https://graphics.pixar.com/)
 - [disney](https://studios.disneyresearch.com/)
+##### Papers
+- [realtimerendering-papers](http://kesen.realtimerendering.com/)
+- [gpuopen papers](https://gpuopen.com/learn/publications/)
+- https://jcgt.org/read.html?reload=1
+- https://onlinelibrary.wiley.com/journal/14678659 
+- https://forums.ogre3d.org/index.php  
 #### CG
 - [artstation](https://www.artstation.com/)
 - [tech-artists](https://tech-artists.org/)
@@ -2138,10 +2143,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.disneyanimation.com/publications/
 - https://www.disneyanimation.com/technology/hyperion/
 - https://graphics.pixar.com/library/
-#### Paper-Forums
-- https://onlinelibrary.wiley.com/journal/14678659 
-- https://forums.ogre3d.org/index.php
-- https://jcgt.org/read.html?reload=1
+
 #### Graphics-Library
 
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
@@ -3208,6 +3210,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
+- https://github.com/KimHeeRyeong/SphereNavigation
 - https://github.com/idbrii/unity-navgen
 - https://github.com/h8man/NavMeshPlus
 - https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
