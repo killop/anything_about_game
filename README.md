@@ -2268,10 +2268,12 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity3D shader优化技巧集合](http://www.xionggf.com/post/unity3d/shader/u3d_shader_optimization/) 
 - [Unity3D的渲染路径的细节一览表](http://www.xionggf.com/post/unity3d/u3d_render_path_detail/)
 - [深度探索Skinned Mesh【翻译】](http://www.xionggf.com/post/d3d/skinned_mesh_with_d3d9/)
+- [MultiThread SkinnedMeshRenderer原理及实现](https://blog.csdn.net/huutu/article/details/113787863?)
 - [理解高动态范围光](http://www.xionggf.com/post/cg/inside_hdr/)
 - [The Book of Shaders](https://thebookofshaders.com/?lan=ch)
 - [总结一些TA（技术美术）学习的网站](https://zhuanlan.zhihu.com/p/84550677) 
 - [全局光照:光线追踪、路径追踪与GI技术进化编年史](https://www.cnblogs.com/machong8183/p/7543724.html)
+- [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
 - https://github.com/nucleartide/Shaders-for-Game-Devs-Workbook
@@ -2987,6 +2989,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [EZAddresser](https://github.com/Haruma-K/EZAddresser)
 - [AssetBundle-ContentHasher](https://github.com/AndyMUnity/AssetBundle-ContentHasher) This tool can be integrated into a build pipeline in order to generate more reliable hashes for AssetBundles using Unity's built in pipeline.
 - [AddressablesServices](https://github.com/dre0dru/AddressablesServices) A set of classes to convert Unity Addressables callbacks/coroutine workflow to async/await with UniTask.
+- [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
 #### AutoUpdate
 - https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
 #### Framework
@@ -3113,6 +3116,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
+- https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
 - https://github.com/scottcgi/MojoUnity-Packages
 #### UI-Animation
