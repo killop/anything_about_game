@@ -176,7 +176,6 @@ Table of Contents
     - [Unity-Shader](#unity-shader)
       - [Article](#article-5)
       - [Shader-GUI](#shader-gui)
-      - [SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue](#sortingorderorderinlayerztestzwriterenderqueue)
       - [Decal](#decal)
       - [Face](#face)
       - [Water](#water)
@@ -441,6 +440,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
+- [萤火之森](http://frankorz.com/)
 - [小朋友](http://xiaopengyou.fun/public/index.h) 管线ta
 - [崔佬](https://cuihongzhi1991.github.io/blog)
 - [极客红叶会-geekbrh](https://space.bilibili.com/338248696/video)
@@ -1229,6 +1229,7 @@ Table of Contents
 #### Metadata/Excel/Schema/Proto
 - [xresloader](https://github.com/xresloader/xresloader)
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
+- https://github.com/WoW-Tools/
 - https://github.com/NtreevSoft/Crema
 - https://github.com/vriad/zod
 - https://github.com/ExpediaGroup/stream-registry
@@ -1918,6 +1919,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://zhuanlan.zhihu.com/p/362148370
 - https://github.com/rossant/awesome-math
 - [傅里叶变换交互式入门](http://www.jezzamon.com/fourier/zh-cn.html)
+- [一分钟看完漫画搞懂卷积](https://blog.csdn.net/cubesky/article/details/117446164)
 - https://www.wolfram.com/
 - https://mathvault.ca/websites/
 - https://brilliant.org/
@@ -1937,6 +1939,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### Unity-Transform
 - [Unity坐标系变换那些事](https://zhuanlan.zhihu.com/p/438828654)
 - [图形学中常见的数学困惑](https://zhuanlan.zhihu.com/p/413224014)
+- [图形学常见的变换推导](http://frankorz.com/2020/07/26/transformation/)
 ##  Physics
 #### Physics Framework
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
@@ -2245,6 +2248,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [The Shader Permutation Problem - Part 2: How Do We Fix It](https://therealmjp.github.io/posts/shader-permutations-part2/) 
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf) 
 - [ShaderLab](https://github.com/BobLChen/ShaderLab)
+- [crossshader](https://github.com/alaingalvan/crossshader)
 ##### ShaderVariant
 - [Shader变体收集与打包](https://github.com/Nicholas10128/AAAResearch/blob/master/Experiences/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97.md#shadervariantcollection%E7%94%9F%E6%88%90%E9%80%9A%E8%BF%87shaderfeature%E5%AE%9A%E4%B9%89%E7%9A%84%E5%8F%98%E4%BD%93%E8%A7%84%E5%88%99)
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
@@ -2468,11 +2472,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Article
 - [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/Wei_Yuan_2012/article/details/88677172?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
 - [网易技术美术总监：深度解析次世代手游的贴图与着色技巧 [UNITE SHANGHAI 2017qq.]](https://connect.unity.com/p/wang-yi-ji-zhu-mei-zhu-zong-jian-shen-du-jie-xi-ci-shi-dai-shou-you-de-tie-tu-yu-zhao-se-ji-qiao-unite-shanghai-2017)
-
-
-##### Shader-GUI
-* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
-##### SortingOrder/OrderInLayer/ZTest/ZWrite/RenderQueue
 - [一口气解决RenderQueue、Ztest、Zwrite、AlphaTest、AlphaBlend和Stencil](https://zhuanlan.zhihu.com/p/28557283)
 - [Unity中影响渲染顺序的因素总结](https://zhuanlan.zhihu.com/p/55762351)
 - [[2017.8]半透明的绘制顺序与接收阴影问题](https://zhuanlan.zhihu.com/p/113399133)
@@ -2480,6 +2479,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [关于理解 Premultiplied Alpha 的一些 Tips](https://zhuanlan.zhihu.com/p/344751308)
 - [图形学|shader|用一篇文章理解半透明渲染、透明度测试和混合、提前深度测试并彻底理清渲染顺序。](https://zhuanlan.zhihu.com/p/263566318)
 - [to-z-prepass-or-not-to-z-prepass](https://interplayoflight.wordpress.com/2020/12/21/to-z-prepass-or-not-to-z-prepass/)
+- [渲染状态改变消耗详情](https://blog.csdn.net/cubesky/article/details/77674201)
+##### Shader-GUI
+* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
+
 ##### Decal
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
@@ -2525,6 +2528,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/larsbertram69
 - https://github.com/TakeshiCho/UI_RenderPipelineInLinearSpace
 - https://cmwdexint.com/2019/05/30/3d-scene-need-linear-but-ui-need-gamma/
+- https://github.com/chenjd/Unity_UI_Gamma
 - https://github.com/tkweizhong/CustomURP
 - https://github.com/AkilarLiao/ForwardPlusURP
 - https://github.com/wlgys8/SRPLearn
@@ -2557,6 +2561,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Fur
 - http://sorumi.xyz/posts/unity-fur-shader/
 - [XFur Studio 2 unity-plugin](https://assetstore.unity.com/packages/tools/particles-effects/pidi-xfur-studio-2-ultimate-edition-145885)
+- https://zhuanlan.zhihu.com/p/446221956
 #####  Holographic
 - [Unity切片类全息效果](https://mp.weixin.qq.com/s/vUmuq3Tek4vypJiy7da4Sw)
 ##### Matrix
@@ -2701,6 +2706,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
 - [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/) 
 #### Compute Shader
+- [Compute Shader 简介](http://frankorz.com/2021/04/17/compute-shader/)
 - [Introduction to Compute Shaders](https://anteru.net/blog/2018/intro-to-compute-shaders/)
 - [More Compute Shaders](https://anteru.net/blog/2018/more-compute-shaders/)
 - [Even more Compute Shaders](https://anteru.net/blog/2018/even-more-compute-shaders/)
@@ -2709,7 +2715,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://zhuanlan.zhihu.com/p/368307575
 - https://github.com/cabbibo/IMMATERIA/
 - https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
-- https://github.com/cinight/MinimalCompute 
 - https://github.com/googlefonts/compute-shader-101
 - https://www.youtube.com/watch?v=DZRn_jNZjbw
 - https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md
@@ -3117,11 +3122,13 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
+- https://github.com/redbluegames/unity-text-typer 
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
 - https://github.com/scottcgi/MojoUnity-Packages
 #### UI-Animation
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
+- https://github.com/brunomikoski/Animation-Sequencer
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
 - [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
@@ -3482,6 +3489,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://wallhaven.cc/ 壁纸网站
 - https://github.com/Odaimoko/ACE-CPT-Notes 程序员如何健身
 - https://zhuanlan.zhihu.com/p/130216185 电子书下载
+- https://www.zhihu.com/question/20915020/answer/2269578502
 - https://github.com/pipiliang/hello-comic  程序员漫画
 - https://github.com/easychen/one-person-businesses-methodology 一人公司方法论
 ## 友情链接 
