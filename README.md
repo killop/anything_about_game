@@ -1067,6 +1067,7 @@ Table of Contents
 - [RenderHugeByGPUInstance](https://github.com/tkonexhh/RenderHugeByGPUInstance)
 - [Unity3D-ToolChain_StriteR](https://github.com/striter/Unity3D-ToolChain_StriteR/tree/master/Assets/Scripts/Runtime/Modules/Optimize)
 - [Dual quaternion skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
+- [GPUInstance](https://github.com/mkrebser/GPUInstance) Instancing & Animation library for Unity3D
 #### Mesh Animation
 - https://github.com/SaiTingHu/MeshEditor.Effects
 #### Vertex Animation
@@ -1750,6 +1751,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### 3D Engines and Frameworks
 * [mach](https://github.com/hexops/mach) Mach is a game engine & graphics toolkit for the future.
 * [RenderLab](https://github.com/Ubpa/RenderLab) 渲染实验室，包含了实时渲染，离线渲染和场景编辑的功能
+* [kajiya](https://github.com/EmbarkStudios/kajiya) Experimental real-time global illumination renderer 
+* [ray-mmd](https://github.com/ray-cast/ray-mmd) The project is designed to create a physically-based rendering at mikumikudance
 * [neoGFX](https://github.com/i42output/neoGFX) Cross-platform GPU-oriented C++ application/game framework
 * [SpartanEngine](https://github.com/PanosK92/SpartanEngine)
 * [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D :o2:
@@ -2198,6 +2201,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/DigitalRune/DigitalRune
 - https://github.com/Raikiri/LegitEngine
 - https://github.com/Trivaxy/WGPU.NET
+- [LLGL](https://github.com/LukasBanana/LLGL) Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
 #### Collection
 - [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
 - https://github.com/neverfelly/awesome-light-transport
@@ -2532,6 +2536,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/tkweizhong/CustomURP
 - https://github.com/AkilarLiao/ForwardPlusURP
 - https://github.com/wlgys8/SRPLearn
+- https://github.com/Cyanilux/URP_BlitRenderFeature
 ##### SphericalHarmonicLighting
 - https://github.com/wlgys8/SHLearn 
 
@@ -2764,6 +2769,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://surparallel.org unity 多线程优化工具
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
+- [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
@@ -2790,7 +2796,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [SparseSet](https://gdx.dotbunny.com/api/GDX.Collections.SparseSet.html)
 - [ObservableCollections](https://github.com/Cysharp/ObservableCollections) High performance observable collections and synchronized views, for WPF, Blazor, Unity. 
 - [ObservableComputations](https://github.com/IgorBuchelnikov/ObservableComputations) Cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
-
+- [daachorse](https://github.com/legalforce-research/daachorse) A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
@@ -3070,6 +3076,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
 - [适合于移动平台的预计算遮挡剔除](https://zhuanlan.zhihu.com/p/150448978)
 - [Vision](https://github.com/mackysoft/Vision) UnityEngine.CullingGroup API for everyone. 
+- [ta-frustrum-culling](https://github.com/ThousandAnt/ta-frustrum-culling) Demo repository for URP + Frustrum Culling + Jobs
 #### AO
 - [游戏中的全局光照(三) 环境光遮蔽/AO](https://zhuanlan.zhihu.com/p/19419867 )
 #### ShaderGraph&&Effect
