@@ -1254,8 +1254,11 @@ Table of Contents
 - https://github.com/dloss/binary-parsing
 - https://github.com/yretenai/Cethleann
 #### Exchange
+- [juicefs](https://github.com/juicedata/juicefs)JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+- [datahub](https://github.com/linkedin/datahub) The Metadata Platform for the Modern Data Stack
 - https://github.com/Cinchoo/ChoETL ETL Framework for .NET / c# (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml formatted files) 
 - https://github.com/alibaba/DataX 数据交换
+- https://github.com/wgzhao/Addax 进化版 datax
 - https://github.com/mimetis/dotmim.sync A brand new database synchronization, multi platform, multi databases, developed on top of .Net Standard 2.0
 - [OpenDDL](https://github.com/EricLengyel/OpenDDL)
 - https://avro.apache.org/
@@ -1274,6 +1277,7 @@ Table of Contents
 - https://github.com/KSP-CKAN/CKAN
 - https://github.com/SteamDatabase/ValveResourceFormat
 - https://github.com/wattostudios/GameExtractor
+- https://github.com/nickworonekin/puyotools
 
 ## Version-Control
 - https://semver.org/lang/zh-CN/   -- 版本号规范
@@ -3433,6 +3437,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
 - [Usdk](https://github.com/honghuachen/Usdk) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
 - [buildtool](https://github.com/superunitybuild/buildtool)
+- [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
  
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
@@ -3474,6 +3479,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 
 ## 文案排版
+- [赫蹏](https://sivan.github.io/heti/)
 - [中文技术文档写作风格指南 ](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 - [中文文案排版](https://github.com/sparanoid/chinese-copywriting-guidelines) 
 - [掘金计划- 中文文案排版](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
