@@ -57,7 +57,7 @@ Table of Contents
 - [locale](#locale)
 - [Texture](#texture)
     - [PIX-Texture](#pix-texture)
-      - [Normal-Map](#normal-map)
+    - [Normal-Map](#normal-map)
     - [Texture-Compression](#texture-compression)
     - [Texture-Tool](#texture-tool)
     - [Atlas](#atlas)
@@ -949,6 +949,30 @@ Table of Contents
 - https://weblate.org/zh-hans/
 - https://molingyu.github.io/RosettaDocs/  本地化
 ## Texture
+#### PIX-Texture
+- [pixelover](https://deakcor.itch.io/pixelover)
+- [spritemate](http://www.spritemate.com/)
+- [pixelatorapp](http://pixelatorapp.com/) Pixelator is a smart software to convert images into pixel art sprites and cover arts. With Pixelator you can use any source picture to easily generate Pixelated graphics for games or posters.
+- [PiskelApp](https://www.piskelapp.com/) Piskel is a free online editor for animated sprites & pixel art
+- [ProMotion](https://www.cosmigo.com/) pro motion is a pixel drawing and animation software designed similar to the famous Amiga Deluxe Paint (DPaint). Ideal for artists working on detailed and pixel precise graphics as required for mobile games and portable game consoles. It also suites well to create light weight graphics for web games.
+- [pixenapp](https://pixenapp.com/) Pixen is a professional pixel art editor designed for working with low-resolution raster art, such as those 8-bit sprites found in old-school video games. Pixen packs all the tools pixel artists need in an intuitive, native interface including support for high zoom levels, animation editing, color palettes, and a lot more.
+- [pyxeledit](https://pyxeledit.com/)
+- [aseprite](http://www.aseprite.org/)
+- [GrafX2](http://pulkomandy.tk/projects/GrafX2)
+- [GraphicsGale](https://graphicsgale.com/us/)
+#### Normal-Map
+- [cpetry](https://cpetry.github.io/NormalMap-Online/)
+- [crazybump](http://crazybump.com/mac/)  
+- https://github.com/kmkolasinski/AwesomeBump
+- https://www.codeandweb.com/spriteilluminator
+- http://www.mikktspace.com/
+- [【教程】游戏流程如何烘焙出完美法线](https://mp.weixin.qq.com/s/-yDMD9hskzRPR_iq77-B5w)
+- [generating-perfect-normal-maps-for-unity](https://bgolus.medium.com/generating-perfect-normal-maps-for-unity-f929e673fc57)
+#### Texture-Compression
+- [basis_universal](https://github.com/BinomialLLC/basis_universal)
+- https://github.com/phoboslab/qoi
+
+#### Texture-Tool
 * [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration
 * [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
 * [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
@@ -967,36 +991,13 @@ Table of Contents
 - [pngquant](https://pngquant.org/)  pngquant is a command-line utility and a library for lossy compression of PNG images
 - [MaCrea - Material Creation Tool](https://www.zbrushcentral.com/t/macrea-material-creation-tool) MaCrea is a little material creation tool I wrote for use with Sculptris, while it simply creates material sphere images that can be used with Zbrush or any other App that takes advantage of that idea.
 - [cubemapgen](https://gpuopen.com/archived/cubemapgen/)
+- [EZTextureProcessor](https://github.com/EZhex1991/EZTextureProcessor) A bunch of texture tools for unity
 - [PixPlant](https://www.pixplant.com/) PixPlant is a smart texturing app with the best tools to quickly transform a photo into seamless repeating textures and 3D maps. 
 - [Affinity Designer](https://affinity.serif.com/de/designer/) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 - [doodad](https://doodad.dev/)
 - [ImageViewer](https://github.com/kopaka1822/ImageViewer) HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator 
 - [hdrview](https://github.com/wkjarosz/hdrview) hdrview
 - [hdrihaven](https://hdrihaven.com/)
-#### PIX-Texture
-- [pixelover](https://deakcor.itch.io/pixelover)
-- [spritemate](http://www.spritemate.com/)
-- [pixelatorapp](http://pixelatorapp.com/) Pixelator is a smart software to convert images into pixel art sprites and cover arts. With Pixelator you can use any source picture to easily generate Pixelated graphics for games or posters.
-- [PiskelApp](https://www.piskelapp.com/) Piskel is a free online editor for animated sprites & pixel art
-- [ProMotion](https://www.cosmigo.com/) pro motion is a pixel drawing and animation software designed similar to the famous Amiga Deluxe Paint (DPaint). Ideal for artists working on detailed and pixel precise graphics as required for mobile games and portable game consoles. It also suites well to create light weight graphics for web games.
-- [pixenapp](https://pixenapp.com/) Pixen is a professional pixel art editor designed for working with low-resolution raster art, such as those 8-bit sprites found in old-school video games. Pixen packs all the tools pixel artists need in an intuitive, native interface including support for high zoom levels, animation editing, color palettes, and a lot more.
-- [pyxeledit](https://pyxeledit.com/)
-- [aseprite](http://www.aseprite.org/)
-- [GrafX2](http://pulkomandy.tk/projects/GrafX2)
-- [GraphicsGale](https://graphicsgale.com/us/)
-##### Normal-Map
-- [cpetry](https://cpetry.github.io/NormalMap-Online/)
-- [crazybump](http://crazybump.com/mac/)  
-- https://github.com/kmkolasinski/AwesomeBump
-- https://www.codeandweb.com/spriteilluminator
-- http://www.mikktspace.com/
-- [【教程】游戏流程如何烘焙出完美法线](https://mp.weixin.qq.com/s/-yDMD9hskzRPR_iq77-B5w)
-- [generating-perfect-normal-maps-for-unity](https://bgolus.medium.com/generating-perfect-normal-maps-for-unity-f929e673fc57)
-#### Texture-Compression
-- [basis_universal](https://github.com/BinomialLLC/basis_universal)
-- https://github.com/phoboslab/qoi
-
-#### Texture-Tool
 * [texturepacker](https://www.codeandweb.com/texturepacker)
 * [spriteuv](https://www.spriteuv.com/)
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
@@ -1914,6 +1915,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [opengjk](https://www.mattiamontanari.com/opengjk/) C implementation of the GJK algorithm 
   
 #### Math-Tool
+- [Shadershop](http://tobyschachman.com/Shadershop/editor/)
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
 - [graphtoy](https://iquilezles.org/apps/graphtoy/index.html)
