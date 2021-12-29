@@ -527,6 +527,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [jasonbooth](https://medium.com/@jasonbooth_86226) TA
 - [andbc](http://andbc.co/home/) TA
 - [coffeebraingames](https://coffeebraingames.wordpress.com/) programmer
 - [frederikaalund](http://frederikaalund.com/) TA
