@@ -2302,6 +2302,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### Shader-Collection
 - https://github.com/cnlohr/shadertrixx shader tricks
+- https://github.com/McNopper/OpenGL 
 - https://github.com/nucleartide/Shaders-for-Game-Devs-Workbook
 - https://github.com/ipud2/Unity-Basic-Shader
 - https://www.zhihu.com/column/c_1347510841814691840
