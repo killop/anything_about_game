@@ -2254,6 +2254,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - [common-shaders](https://github.com/libretro/common-shaders)
 #### Shader Compiler
+- [spir](https://www.khronos.org/spir/) The Industry Open Standard Intermediate Language for Parallel Compute and Graphics
+- [DirectX Intermediate Language](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/DXIL.rst)
+- [AMD Developer Guides, Manuals & ISA Documents](https://developer.amd.com/resources/developer-guides-manuals/)
+- [Parallel Thread Execution ISA Version 7.5](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html)
+- [CUDA Binary Utilities](https://docs.nvidia.com/cuda/cuda-binary-utilities/index.html#instruction-set-ref)
 - [使用Mali Compiler对Unity Shader进行优化](https://zhuanlan.zhihu.com/p/448732749)
 - [跨平台引擎Shader编译流程分析](https://zhuanlan.zhihu.com/p/56510874)
 - [如何阅读和还原分析器中的DXBC](https://zhuanlan.zhihu.com/p/346324622)
@@ -3453,6 +3458,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [这样讲原码、反码、补码，帮学妹解决困扰了三天的问题](https://mp.weixin.qq.com/s/vKZleAIMivOxJ_kEB1uSqw)
 - [box3](htttp://www.box3.cn) 开发者工具箱
 - https://ihateregex.io/expr 正则表达式
+- https://github.com/loonggg/DevMoneySharing 独立开发者赚钱经验分享
 - https://www.toolnb.com  toolnb 
 - https://github.com/eastlakeside/awesome-productivity-cn
 - https://www.kwgg2020.com/
