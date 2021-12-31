@@ -87,14 +87,15 @@ Table of Contents
     - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
     - [Exchange](#exchange)
     - [DataVisual&&Editor](#datavisualeditor)
-- [Archive](#archive)
-    - [Article](#article-1)
+- [Archive-GameReverse](#archive-gamereverse)
+    - [Collection](#collection-2)
+    - [Archive-Format](#archive-format)
 - [Version-Control](#version-control)
-    - [article](#article-2)
+    - [article](#article-1)
     - [Patch](#patch)
     - [PythonTool](#pythontool)
 - [Game-Server-framework](#game-server-framework)
-    - [Article](#article-3)
+    - [Article](#article-2)
     - [Lockstep](#lockstep)
     - [status-syn](#status-syn)
     - [Library](#library)
@@ -104,7 +105,7 @@ Table of Contents
 - [DataBase](#database)
     - [c](#c)
 - [ECS Libraries](#ecs-libraries)
-    - [Collection](#collection-2)
+    - [Collection](#collection-3)
     - [C/C++](#cc)
     - [C](#c-1)
     - [Python](#python)
@@ -112,7 +113,7 @@ Table of Contents
     - [Lua](#lua)
     - [ts](#ts)
     - [Benchmark](#benchmark)
-    - [Article](#article-4)
+    - [Article](#article-3)
 - [File Systems](#file-systems)
 - [Hash](#hash)
 - [Text Template](#text-template)
@@ -124,7 +125,7 @@ Table of Contents
     - [Rust](#rust-2)
     - [Web/Http](#webhttp)
 - [GameEngine Design](#gameengine-design)
-    - [Collection](#collection-3)
+    - [Collection](#collection-4)
     - [Article/Course](#articlecourse)
     - [2D Engines and Frameworks](#2d-engines-and-frameworks)
     - [3D Engines and Frameworks](#3d-engines-and-frameworks)
@@ -156,7 +157,7 @@ Table of Contents
     - [Graphics-Library](#graphics-library)
     - [SoftWare-Render](#software-render)
     - [3rd-Binding](#3rd-binding)
-    - [Collection](#collection-4)
+    - [Collection](#collection-5)
     - [Shading-Language](#shading-language)
     - [Shader Compiler](#shader-compiler)
       - [ShaderVariant](#shadervariant)
@@ -175,7 +176,7 @@ Table of Contents
     - [Outline](#outline)
     - [VirturalTexture](#virturaltexture)
     - [Unity-Shader](#unity-shader)
-      - [Article](#article-5)
+      - [Article](#article-4)
       - [Shader-GUI](#shader-gui)
       - [Decal](#decal)
       - [Face](#face)
@@ -200,7 +201,7 @@ Table of Contents
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
   - [FPS](#fps)
 - [Interview/DataStruct-Algorithms](#interviewdatastruct-algorithms)
-    - [Article](#article-6)
+    - [Article](#article-5)
 - [Operating-System](#operating-system)
     - [IO](#io)
 - [Bad World Filter](#bad-world-filter)
@@ -225,7 +226,7 @@ Table of Contents
 - [Java](#java-1)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
-    - [Collection](#collection-5)
+    - [Collection](#collection-6)
     - [Garbage Collector](#garbage-collector)
     - [dynCall](#dyncall)
 - [DevOps](#devops)
@@ -257,7 +258,7 @@ Table of Contents
     - [Effect](#effect-1)
     - [Scriptable Object](#scriptable-object)
     - [DOTS](#dots)
-      - [Article](#article-7)
+      - [Article](#article-6)
     - [Navmesh](#navmesh)
     - [Tile map](#tile-map)
     - [Bone&&Spring](#bonespring)
@@ -270,13 +271,12 @@ Table of Contents
     - [Asset-Management](#asset-management)
     - [Material-Cleaner](#material-cleaner)
       - [Textrue Compression](#textrue-compression)
-        - [Article](#article-8)
+        - [Article](#article-7)
     - [Message Bus](#message-bus)
     - [Time control](#time-control)
     - [Movement](#movement)
     - [Character-Controller](#character-controller)
     - [Tips](#tips)
-- [GameReverse](#gamereverse)
     - [GamePlay](#gameplay)
 - [知识库软件/笔记软件](#知识库软件笔记软件)
 - [UnityBuild](#unitybuild)
@@ -1133,6 +1133,7 @@ Table of Contents
 - https://github.com/mayuki/Cocona
 - https://github.com/cobbr
 - https://github.com/Cysharp/Kokuban
+- https://github.com/alexrp/system-terminal
 
 ## Scenes
 #### Terrain
@@ -1273,14 +1274,27 @@ Table of Contents
 - https://datavizcatalogue.com/ZH/
 - https://github.com/fasouto/awesome-dataviz
  
-## Archive
-#### Article
-- [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
-- https://github.com/KSP-CKAN/CKAN
-- https://github.com/SteamDatabase/ValveResourceFormat
-- https://github.com/wattostudios/GameExtractor
-- https://github.com/nickworonekin/puyotools
+## Archive-GameReverse
 
+#### Collection
+- [GameExtractor](https://github.com/wattostudios/GameExtractor) Reads and writes thousands of different archive and image formats used in games.
+- [puyotools]( https://github.com/nickworonekin/puyotools) Puyo Tools is a collection of tools and libraries used to access the contents of various game files. Although it was initially built to handle files used in Puyo Puyo games, it can handle files used in other games as well
+- [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
+- [GameReverseNote](https://github.com/TonyChen56/GameReverseNote)
+- https://github.com/super-continent/game-reversing-resources
+- https://github.com/kovidomi/game-reversing
+ 
+#### Archive-Format
+- [ValveResource](https://github.com/SteamDatabase/ValveResourceFormat) Valve's Source 2 resource file format parser, decompiler, and exporter.
+- [RainbowForge](https://github.com/parzivail/RainbowForge) .NET managed toolkit for working with Rainbow Six: Siege .FORGE (Scimitar) archive files.
+- [Cethleann](https://github.com/yretenai/Cethleann) KTGL (Soft Engine) data exploration and research
+- [TACTLib](https://github.com/overtools/TACTLib/) A C# library for reading Blizzard's CASC storage
+- [OWLib](https://github.com/overtools/OWLib) Series of programs (tools) to interact with the Overwatch files.
+- [CUE4Parse](https://github.com/FabianFG/CUE4Parse) C# Parser for Unreal Engine packages & assets
+- [yordle](https://github.com/yretenai/yordle) League of Legends Research Project
+- [Snuggle](https://github.com/yretenai/Snuggle) WIP Unity AssetBundle Exporter
+- [CASCExplorer](https://github.com/WoW-Tools/CASCExplorer) CASCExplorer
+ 
 ## Version-Control
 - https://semver.org/lang/zh-CN/   -- 版本号规范
 - https://github.com/Artees/Unity-SemVer
@@ -1318,6 +1332,7 @@ Table of Contents
 #### Patch
 - [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
 - https://github.com/redwood/redwood
+- https://github.com/KSP-CKAN/CKAN
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
@@ -3421,11 +3436,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/nicholas-maltbie/OpenKCC
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
-## GameReverse
-- https://github.com/TonyChen56/GameReverseNote
-- https://github.com/mob-sakai/unity-activate
-- https://github.com/super-continent/game-reversing-resources
-- https://github.com/kovidomi/game-reversing
+
 #### GamePlay
 - [我开发的角色动作系统概述-战斗,3C相关](https://zhuanlan.zhihu.com/p/67143501)
 
