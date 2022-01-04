@@ -477,7 +477,6 @@ Table of Contents
 - [代码如诗](https://www.cnblogs.com/kex1n/)
 - [Dalton](http://www.zhust.com/)
 - [烟雨迷离半世殇](https://www.lfzxb.top/)
-- http://www.wjgbaby.com/category/3d-math/
 - [FishMan的技术专栏 ](https://jiepengtan.github.io/)
 - [刘利刚](http://staff.ustc.edu.cn/~lgliu/)
 - [东明的博客](https://hdmmy.github.io/page/2/)
@@ -2355,6 +2354,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ewersp/Shaders
 - https://github.com/igradeca/Unity-Shaders
 - https://github.com/netri/Neitri-Unity-Shaders
+- https://github.com/Delt06/urp-toon-shader
 - [ultimate-10-shaders](https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611) unity free plugin
 - [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) unity Uber shader for Particle System
 #### OpenGL
@@ -2793,6 +2793,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity中实现高性能渲染遇到的问题](https://zhuanlan.zhihu.com/p/106388466)
 - [[GDC16] Optimizing the Graphics Pipeline with Compute](https://zhuanlan.zhihu.com/p/33881861)
 - [unity-gpu-culling-experiment](https://www.mpc-rnd.com/unity-gpu-culling-experiment)
+- [VkGPUDrivenCNGuide](https://github.com/fangcun010/VkGPUDrivenCNGuide) 基于Vulkan的GPU Driven Rendering教程
 ## BVH
 - [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
 - [NativePhysicsBVH](https://github.com/marijnz/NativePhysicsBVH) A Bounding Volume Hierarchy with basic physics queries for Unity DOTS
@@ -3434,6 +3435,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
 - https://github.com/ssell/UnityDotsCharacterController 
 - https://github.com/nicholas-maltbie/OpenKCC
+- https://github.com/runevision/LocomotionSystem
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 
