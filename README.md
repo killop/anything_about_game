@@ -1105,6 +1105,7 @@ Table of Contents
 - https://www.zhihu.com/people/fengkan
 - https://assetstore.unity.com/packages/tools/animation/motion-matching-for-unity-145624 
 - https://github.com/orangeduck/Motion-Matching
+- https://forum.unity.com/threads/released-want-good-3d-character-animation-but-are-short-on-time-budget-or-training-help-is-here.392317/
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
@@ -2355,6 +2356,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/igradeca/Unity-Shaders
 - https://github.com/netri/Neitri-Unity-Shaders
 - https://github.com/Delt06/urp-toon-shader
+- https://github.com/Xiexe/Unity-Lit-Shader-Templates
 - [ultimate-10-shaders](https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611) unity free plugin
 - [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) unity Uber shader for Particle System
 #### OpenGL
@@ -2941,6 +2943,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://zhuanlan.zhihu.com/p/393316878
 
 ## Embed-Script/VM/JIT
+- [minivm](https://github.com/FastVM/minivm) A VM That is Dynamic and Fast
 - [CS2X](https://github.com/reignstudios/CS2X) Transpiles a C# subset to non .NET languages and runtimes. (Powered by Roslyn) 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) ts2lua
 - [titan](https://github.com/titan-lang/titan)
@@ -3316,6 +3319,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin
  - [Mount Points](https://assetstore.unity.com/packages/tools/animation/mount-points-16318) unity-plugin
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
+ - [LyumaMeshTools](https://github.com/lyuma/LyumaShader/blob/master/LyumaShader/Editor/LyumaMeshTools.cs)
  - [mudbun-volumetric-vfx-mesh](https://assetstore.unity.com/packages/tools/particles-effects/mudbun-volumetric-vfx-mesh-tool-177891) unity plugin
  - [clayxels](https://assetstore.unity.com/packages/tools/game-toolkits/clayxels-165312) unity plugin
  -  https://github.com/nementic-games/mesh-debugging
