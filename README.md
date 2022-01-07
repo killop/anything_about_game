@@ -101,7 +101,7 @@ Table of Contents
     - [Library](#library)
 - [Serialization](#serialization)
     - [Json](#json)
-      - [Huge-World](#huge-world)
+- [Huge-World](#huge-world)
 - [DataBase](#database)
     - [c](#c)
 - [ECS Libraries](#ecs-libraries)
@@ -237,7 +237,6 @@ Table of Contents
     - [AutoUpdate](#autoupdate)
     - [Framework](#framework)
     - [Dependency Injection](#dependency-injection)
-    - [UI](#ui-1)
     - [Moba](#moba)
     - [Skill](#skill)
     - [Global illumination (GI)](#global-illumination-gi)
@@ -248,7 +247,7 @@ Table of Contents
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
     - [AI](#ai-1)
-    - [UGUI](#ugui)
+    - [UI](#ui-1)
     - [UI-Animation](#ui-animation)
     - [2D](#2d)
     - [Timeline](#timeline)
@@ -373,6 +372,7 @@ Table of Contents
 - [replicability](https://replicability.graphics/index.html#project)
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
 - [shaders](https://www.reddit.com/r/shaders/)
+- [USTC3D](https://github.com/USTC3DV)
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
 - [Unity技术美术](https://www.zhihu.com/column/c_1348315318327132160)
@@ -1023,6 +1023,7 @@ Table of Contents
 - [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
 - [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool 
 - [xatlas](https://github.com/jpcy/xatlas) Mesh parameterization / UV unwrapping library
+- [DynamicSpriteSheets](https://github.com/dusanst/DynamicSpriteSheets?)
 * [Thekla atlas](https://github.com/Thekla/thekla_atlas) | This tool performs mesh segmentation, surface
  parameterization, and chart packing.
 * [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's
@@ -1283,6 +1284,12 @@ Table of Contents
 - [GameReverseNote](https://github.com/TonyChen56/GameReverseNote)
 - https://github.com/super-continent/game-reversing-resources
 - https://github.com/kovidomi/game-reversing
+- [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
+* [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
+* [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
+* [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
+* [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
+
  
 #### Archive-Format
 - [ValveResource](https://github.com/SteamDatabase/ValveResourceFormat) Valve's Source 2 resource file format parser, decompiler, and exporter.
@@ -1448,6 +1455,7 @@ Table of Contents
 - [Source_Multiplayer_Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
 - [Dead Reckoning: Latency Hiding for Networked Games](https://www.gamedeveloper.com/programming/dead-reckoning-latency-hiding-for-networked-games)
 #### Lockstep
+- https://github.com/Yinmany/NetCode-FPS
 - http://netcoding4d.com/
 - https://cloud.tencent.com/product/mgobe
 - https://github.com/JiepengTan/LockstepECS 
@@ -1495,8 +1503,10 @@ Table of Contents
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
 
-##### Huge-World
+## Huge-World
 - [ScatterStream](https://github.com/ashleyseric/ScatterStream) A runtime object scattering/vegetation authoring, streaming and rendering tool for Unity optimised for instanced rendering a very large number of placed items.
+- [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
+- https://github.com/NextGenSoftwareUK/
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -1847,6 +1857,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/TheFuseLab/VL.Fuse
 - https://github.com/nannou-org/nannou
 - https://ciphrd.com/
+- https://github.com/IxxyXR/polyhydra-upm
 ## 并发执行和多线程
 #### CPP
 *   https://github.com/rigtorp/awesome-lockfree
@@ -2557,8 +2568,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Noise
 - https://github.com/keijiro/NoiseShader
 - https://github.com/tuxalin/procedural-tileable-shader
-- https://github.com/Auburn/FastNoiseLite'
+- https://github.com/Auburn/FastNoiseLite
 - https://flogelz.itch.io/noisemixer
+- https://github.com/Hengle/FastNoiseLite
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -2578,6 +2590,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/AkilarLiao/ForwardPlusURP
 - https://github.com/wlgys8/SRPLearn
 - https://github.com/Cyanilux/URP_BlitRenderFeature
+- https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
 ##### SphericalHarmonicLighting
 - https://github.com/wlgys8/SHLearn 
 
@@ -2593,12 +2606,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ProjectKaya](https://github.com/UnityKorea/ProjectKaya) Project Kaya for mobile game platform powered by urp
 
 ##### UI
-- [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
-- [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
-- [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
-- [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
-- [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
-- [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results
+
 
 ##### Mesh
 * [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
@@ -3065,8 +3073,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/dotmos/uGameFramework
 - https://github.com/ManakhovN/FigmaToUnityImporter
 - https://github.com/kyubuns/AkyuiUnity
-- [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131)
-- https://github.com/zs9024/quick_psd2ugui
 - https://github.com/dotmos/uGameFramework
 - https://github.com/DonnYep/CosmosFramework
 
@@ -3074,17 +3080,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/gustavopsantos/reflex
 - https://github.com/ssannandeji/Zenject-2019
 
-#### UI
-- https://uiforia.io/
-- https://github.com/LudiKha/Graphene
-- https://github.com/ReactUnity/core
-- https://github.com/chexiongsheng/XUUI
-- https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
-- https://github.com/506638093/RichText 头顶血条
-- https://github.com/wuxiongbin/uHyperText
-- https://github.com/mattak/Unidux
-- https://github.com/kirurobo/UniWindowController 
-- https://github.com/liuhaopen/UGUI-Editor
+
 #### Moba
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
 #### Skill
@@ -3168,7 +3164,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
-#### UGUI
+#### UI
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
@@ -3176,7 +3172,26 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/redbluegames/unity-text-typer 
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
 - https://github.com/scottcgi/MojoUnity-Packages
+- https://github.com/coding2233/TextInlineSprite
 - [easy-multiple-healthbar](https://assetstore.unity.com/packages/tools/gui/easy-multiple-healthbar-193986)
+- https://uiforia.io/
+- https://github.com/LudiKha/Graphene
+- https://github.com/ReactUnity/core
+- https://github.com/chexiongsheng/XUUI
+- https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
+- https://github.com/506638093/RichText 头顶血条
+- https://github.com/wuxiongbin/uHyperText
+- https://github.com/mattak/Unidux
+- https://github.com/kirurobo/UniWindowController 
+- https://github.com/liuhaopen/UGUI-Editor
+- https://github.com/zs9024/quick_psd2ugui
+- [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131  
+- [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
+- [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
+- [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
+- [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
+- [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
+- [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results 
 #### UI-Animation
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
@@ -3351,10 +3366,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code
 
 #### Asset-Management
-- [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
-* [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
-* [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
-* [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
+
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 * [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
