@@ -510,6 +510,7 @@ Table of Contents
 - [Yimi的小天地](https://yimicgh.top/)
 - [manistein](https://manistein.github.io/blog/)
 - [蒋信厚](https://jiangxh1992.github.io/)
+- [风蚀之月](https://blog.ch-wind.com/) ue ta
 - [aicdg](http://aicdg.com/) cs
 - [xinzhuzi](https://xinzhuzi.github.io) unity 程序员
 - [Dezeming family ](https://dezeming.top/) 光线追踪
@@ -573,6 +574,7 @@ Table of Contents
 - https://www.martinpalko.com/
 - https://blog.selfshadow.com/
 - https://www.gabrielgambetta.com/
+- [techartaid](https://techartaid.com/) ue ta
 - [baba-s hatenablog](http://baba-s.hatenablog.com/)
 - [UnityGems](https://unitygem.wordpress.com/)
 - [Jackson Dunstan ](https://jacksondunstan.com/)
@@ -1301,6 +1303,7 @@ Table of Contents
 - [yordle](https://github.com/yretenai/yordle) League of Legends Research Project
 - [Snuggle](https://github.com/yretenai/Snuggle) WIP Unity AssetBundle Exporter
 - [CASCExplorer](https://github.com/WoW-Tools/CASCExplorer) CASCExplorer
+- [nefsedit](https://github.com/victorbush/ego.nefsedit) NeFS archive editor for Ego Engine
  
 ## Version-Control
 - https://semver.org/lang/zh-CN/   -- 版本号规范
@@ -1387,6 +1390,7 @@ Table of Contents
 - https://github.com/leeveel/GeekServer
 - https://github.com/v2v3v4/BigWorld-Engine-2.0.1
 - https://github.com/yekoufeng/seamless-world
+- https://github.com/yxinyi/YCServer
 - https://github.com/googleforgames/quilkin
 - https://jzyong.github.io/game-server/
 - [MST](https://github.com/aevien/MST) This is a framework that allows you to create game servers and services for your game inside Unity. It allows you to avoid using third-party services such as Playful, PAN, or Smartfox server. This framework does not claim to be a substitute for all these systems. No way! 
@@ -1507,6 +1511,7 @@ Table of Contents
 - [ScatterStream](https://github.com/ashleyseric/ScatterStream) A runtime object scattering/vegetation authoring, streaming and rendering tool for Unity optimised for instanced rendering a very large number of placed items.
 - [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
 - https://github.com/NextGenSoftwareUK/
+- https://assetstore.unity.com/packages/tools/terrain/easy-open-world-192659
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
