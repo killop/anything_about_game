@@ -186,7 +186,11 @@ Table of Contents
       - [Rimlight](#rimlight)
       - [Noise](#noise)
       - [Trail](#trail)
-      - [RenderPipelineFrameWork](#renderpipelineframework)
+- [RenderPipelineFrameWork](#renderpipelineframework)
+- [GPGPU](#gpgpu)
+    - [Compute Shader](#compute-shader)
+    - [GPU Driven](#gpu-driven)
+- [BVH](#bvh)
       - [SphericalHarmonicLighting](#sphericalharmoniclighting)
       - [URP/SPR/HDRP Course](#urpsprhdrp-course)
       - [UI](#ui)
@@ -205,10 +209,6 @@ Table of Contents
 - [Operating-System](#operating-system)
     - [IO](#io)
 - [Bad World Filter](#bad-world-filter)
-- [GPGPU](#gpgpu)
-    - [Compute Shader](#compute-shader)
-    - [GPU Driven](#gpu-driven)
-- [BVH](#bvh)
 - [高性能数据结构和算法](#高性能数据结构和算法)
     - [MMO](#mmo)
     - [OC](#oc)
@@ -783,7 +783,7 @@ Table of Contents
 *  [Q-Block](http://kyucon.com/qblock/)
 *  [Sproxel](http://sproxel.blogspot.com.br/)
 *  [VoxelShop](https://blackflux.com/index.php)
-
+*  [UnityRealtimeVoxelizer](https://github.com/seyakara/UnityRealtimeVoxelizer)
 
 #### Font
 ##### BitMap
@@ -1482,6 +1482,7 @@ Table of Contents
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
 ## Serialization
+- https://github.com/apache/arrow
 - https://en.wikipedia.org/wiki/Interface_description_language
 - https://github.com/chronoxor/CppSerialization benckmark
 - https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
@@ -1966,6 +1967,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [unity-curve-utils](https://github.com/baba-s/unity-curve-utils) 曲线 
 - [nurbs](https://github.com/StandardCyborg/nurbs) js Non-Uniform Rational B-Splines (NURBS) of any dimensionality 
 #### Courses/Article/website
+- https://d3gt.com/index.html
 - https://zhuanlan.zhihu.com/p/362148370
 - https://github.com/rossant/awesome-math
 - [傅里叶变换交互式入门](http://www.jezzamon.com/fourier/zh-cn.html)
@@ -2445,6 +2447,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
 - https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/
+- [基于物理的渲染—更精确的微表面分布函数GGX](https://blog.uwa4d.com/archives/1582.html)
+- [Physically Based Shading in Unity](https://aras-p.info/texts/files/201403-GDC_UnityPhysicallyBasedShading_notes.pdf)
 - [smallvcm](http://www.smallvcm.com/)
 - [mitsuba](https://www.mitsuba-renderer.org/) which though focuses on advanced R&D on light transport
 - [lightmetrica](Lightmetrica : A modern, research-oriented renderer ) 
@@ -2580,7 +2584,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
-##### RenderPipelineFrameWork
+## RenderPipelineFrameWork
 - https://github.com/Hypnos-Render-Pipeline
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/haolange/InfinityRenderPipeline
@@ -2597,6 +2601,72 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/wlgys8/SRPLearn
 - https://github.com/Cyanilux/URP_BlitRenderFeature
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
+
+## GPGPU
+- https://github.com/arrayfire/arrayfire
+- [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp)
+- https://github.com/tech-quantum/Amplifier.NET
+- https://www.ilgpu.net/
+- https://github.com/KomputeProject/kompute
+- https://github.com/Sergio0694/ComputeSharp
+- https://github.com/kunzmi/managedCuda
+- [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
+- [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
+- [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
+- [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/) 
+#### Compute Shader
+- [Compute Shader 简介](http://frankorz.com/2021/04/17/compute-shader/)
+- [Introduction to Compute Shaders](https://anteru.net/blog/2018/intro-to-compute-shaders/)
+- [More Compute Shaders](https://anteru.net/blog/2018/more-compute-shaders/)
+- [Even more Compute Shaders](https://anteru.net/blog/2018/even-more-compute-shaders/)
+- [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
+- [MinimalCompute](https://github.com/cinight/MinimalCompute) Minimal Compute Shader Examples
+- https://zhuanlan.zhihu.com/p/368307575
+- https://github.com/cabbibo/IMMATERIA/
+- https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
+- https://github.com/googlefonts/compute-shader-101
+- https://www.youtube.com/watch?v=DZRn_jNZjbw
+- https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md
+- https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/
+- https://github.com/keijiro/NoiseBall6
+- https://logins.github.io/graphics/2020/10/31/D3D12ComputeShaders.html
+- https://www.3dgep.com/learning-directx-12-4/#Compute_Shaders
+- https://github.com/Robert-K/gpu-particles
+- https://github.com/Ninjajie/Fusion
+- https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
+- https://github.com/krylov-na/Compute-shader-particles
+- https://github.com/IRCSS/Procedural-painting
+- https://github.com/keijiro/Swarm
+- https://github.com/ToruNiina/lbvh
+- https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
+- https://github.com/voxell-tech/GPUClothSimulationInUnity
+- https://github.com/TarAlacrin/HeightmapOnTheGPU
+- [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
+- [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
+
+#### GPU Driven
+- [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
+- [GPUDriven](https://github.com/GouGeLSJ/GPUDriven)
+- [webgpu-compute-rasterizer](https://github.com/OmarShehata/webgpu-compute-rasterizer)
+- [vkguide gpu_driven_engines](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/) 
+- [Max:GPU Driven Pipeline — 工具链与进阶渲染](https://zhuanlan.zhihu.com/p/44411827)
+- [GPU Driven Render Pipeline](https://zhuanlan.zhihu.com/p/37084925)
+- [撸一个GPU Driven Pipeline](https://zhuanlan.zhihu.com/p/109858034)
+- [现代渲染引擎开发-GPU Driven Render Pipeline](https://zhuanlan.zhihu.com/p/409244895)
+- [GPU-Driven Rendering 有没有可能应用到移动端呢？如果不能是什么原因导致的?](https://www.zhihu.com/question/427803115/answer/1548993170)
+- [[Siggraph15] GPU-Driven Rendering Pipelines](https://zhuanlan.zhihu.com/p/33881505)
+- [max:GPU Driven Rendering Pipeline 开发小结](https://zhuanlan.zhihu.com/p/58311222)
+- [游戏引擎随笔 0x13：现代图形 API 的 Bindless](https://zhuanlan.zhihu.com/p/136449475)
+- [Unity中实现高性能渲染遇到的问题](https://zhuanlan.zhihu.com/p/106388466)
+- [[GDC16] Optimizing the Graphics Pipeline with Compute](https://zhuanlan.zhihu.com/p/33881861)
+- [unity-gpu-culling-experiment](https://www.mpc-rnd.com/unity-gpu-culling-experiment)
+- [VkGPUDrivenCNGuide](https://github.com/fangcun010/VkGPUDrivenCNGuide) 基于Vulkan的GPU Driven Rendering教程
+## BVH
+- [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
+- [NativePhysicsBVH](https://github.com/marijnz/NativePhysicsBVH) A Bounding Volume Hierarchy with basic physics queries for Unity DOTS
+- [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH) 
+- [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
+- [bvh](https://github.com/madmann91/bvh) About A modern C++ BVH construction and traversal library 
 ##### SphericalHarmonicLighting
 - https://github.com/wlgys8/SHLearn 
 
@@ -2666,6 +2736,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityShader部分内置函数推导（周末随机更几个）](https://zhuanlan.zhihu.com/p/404516361)
 
 #### GameEngine-Design-Blog-Artcile
+- http://www.thisisgame.com.cn/book/makegameenginatnight/
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
@@ -2753,69 +2824,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
 - https://github.com/NewbieGameCoder/IllegalWordsDetection 敏感词过滤
 
-## GPGPU
-- https://github.com/arrayfire/arrayfire
-- [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp)
-- https://github.com/tech-quantum/Amplifier.NET
-- https://www.ilgpu.net/
-- https://github.com/KomputeProject/kompute
-- https://github.com/Sergio0694/ComputeSharp
-- https://github.com/kunzmi/managedCuda
-- [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
-- [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
-- [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
-- [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/) 
-#### Compute Shader
-- [Compute Shader 简介](http://frankorz.com/2021/04/17/compute-shader/)
-- [Introduction to Compute Shaders](https://anteru.net/blog/2018/intro-to-compute-shaders/)
-- [More Compute Shaders](https://anteru.net/blog/2018/more-compute-shaders/)
-- [Even more Compute Shaders](https://anteru.net/blog/2018/even-more-compute-shaders/)
-- [Compute Shader Glossary](https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md)
-- [MinimalCompute](https://github.com/cinight/MinimalCompute) Minimal Compute Shader Examples
-- https://zhuanlan.zhihu.com/p/368307575
-- https://github.com/cabbibo/IMMATERIA/
-- https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
-- https://github.com/googlefonts/compute-shader-101
-- https://www.youtube.com/watch?v=DZRn_jNZjbw
-- https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md
-- https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/
-- https://github.com/keijiro/NoiseBall6
-- https://logins.github.io/graphics/2020/10/31/D3D12ComputeShaders.html
-- https://www.3dgep.com/learning-directx-12-4/#Compute_Shaders
-- https://github.com/Robert-K/gpu-particles
-- https://github.com/Ninjajie/Fusion
-- https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
-- https://github.com/krylov-na/Compute-shader-particles
-- https://github.com/IRCSS/Procedural-painting
-- https://github.com/keijiro/Swarm
-- https://github.com/ToruNiina/lbvh
-- https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
-- https://github.com/voxell-tech/GPUClothSimulationInUnity
-- https://github.com/TarAlacrin/HeightmapOnTheGPU
-- [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
-- [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
 
-#### GPU Driven
-- [webgpu-compute-rasterizer](https://github.com/OmarShehata/webgpu-compute-rasterizer)
-- [vkguide gpu_driven_engines](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/) 
-- [Max:GPU Driven Pipeline — 工具链与进阶渲染](https://zhuanlan.zhihu.com/p/44411827)
-- [GPU Driven Render Pipeline](https://zhuanlan.zhihu.com/p/37084925)
-- [撸一个GPU Driven Pipeline](https://zhuanlan.zhihu.com/p/109858034)
-- [现代渲染引擎开发-GPU Driven Render Pipeline](https://zhuanlan.zhihu.com/p/409244895)
-- [GPU-Driven Rendering 有没有可能应用到移动端呢？如果不能是什么原因导致的?](https://www.zhihu.com/question/427803115/answer/1548993170)
-- [[Siggraph15] GPU-Driven Rendering Pipelines](https://zhuanlan.zhihu.com/p/33881505)
-- [max:GPU Driven Rendering Pipeline 开发小结](https://zhuanlan.zhihu.com/p/58311222)
-- [游戏引擎随笔 0x13：现代图形 API 的 Bindless](https://zhuanlan.zhihu.com/p/136449475)
-- [Unity中实现高性能渲染遇到的问题](https://zhuanlan.zhihu.com/p/106388466)
-- [[GDC16] Optimizing the Graphics Pipeline with Compute](https://zhuanlan.zhihu.com/p/33881861)
-- [unity-gpu-culling-experiment](https://www.mpc-rnd.com/unity-gpu-culling-experiment)
-- [VkGPUDrivenCNGuide](https://github.com/fangcun010/VkGPUDrivenCNGuide) 基于Vulkan的GPU Driven Rendering教程
-## BVH
-- [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
-- [NativePhysicsBVH](https://github.com/marijnz/NativePhysicsBVH) A Bounding Volume Hierarchy with basic physics queries for Unity DOTS
-- [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH) 
-- [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
-- [bvh](https://github.com/madmann91/bvh) About A modern C++ BVH construction and traversal library
 ## 高性能数据结构和算法
 - [libcsp](https://github.com/shiyanhui/libcsp) A concurrency C library 10x faster than Golang.
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
