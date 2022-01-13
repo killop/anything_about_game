@@ -1290,6 +1290,7 @@ Table of Contents
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
+* [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
 
  
 #### Archive-Format
@@ -1392,6 +1393,7 @@ Table of Contents
 - https://github.com/yxinyi/YCServer
 - https://github.com/googleforgames/quilkin
 - https://jzyong.github.io/game-server/
+- https://github.com/bobohume/gonet
 - https://github.com/ZerlenZhang/distributed-architecture-of-moba-game-server
 - [MST](https://github.com/aevien/MST) This is a framework that allows you to create game servers and services for your game inside Unity. It allows you to avoid using third-party services such as Playful, PAN, or Smartfox server. This framework does not claim to be a substitute for all these systems. No way! 
 - [zfoo](https://github.com/zfoo-project/zfoo) Extreme fast enterprise Java server framework, can be RPC, game server framework, web server framework.
