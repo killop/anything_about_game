@@ -1703,6 +1703,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [ggpo](https://github.com/pond3r/ggpo) Good Game, Peace Out Rollback Network SDK 
 - [yasio](https://github.com/yasio/yasio/)  A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
 - [libhv](https://github.com/ithewei/libhv) 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
+- [handy](https://github.com/yedf2/handy) 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
 #### Rust
 - [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 #### Web/Http
@@ -3116,6 +3117,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/dongweiPeng/SkillSystem (丰富的接口可便于使用扩展 完整的技能效果流程【如流程图】 配套的技能管理器 自定义的技能数据表)
 - https://github.com/sjai013/UnityGameplayAbilitySystem (The approach for this is taken from that used by Unreal's Gameplay Ability System, but implemented in Unity using the Data-Oriented Technology Stack (DOTS) where possible.)
 - https://github.com/dx50075/SkillSystem (skill system for unity ， 思路 http://blog.csdn.net/qq18052887/article/details/50358463 技能描述文件如下 skill(1000) //技能1 { FaceToTarget(0) PlayAnimation(1,Skill_1) Bullet(1.3,Bullet,7) PlayEffect(0,Explode8,3) })
+- [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
  
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 

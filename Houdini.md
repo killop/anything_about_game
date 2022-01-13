@@ -6,3 +6,10 @@
 - https://github.com/FofightFong/All_In_One
 - https://forums.odforce.net/
 - https://www.houdinikitchen.net/
+- https://github.com/ShoheiOkazaki/Nagamochi
+- https://github.com/jhorikawa/HoudiniHowtos
+- https://github.com/demiaster/houdiniAssets
+- https://github.com/melMass/vscode-vex
+- https://github.com/JoseZalez/Houdini-scripts
+- https://github.com/igor-elovikov/hipie
+- https://github.com/thi-ng/houdini
