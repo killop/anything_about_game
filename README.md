@@ -1343,6 +1343,7 @@ Table of Contents
 - [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
 - https://github.com/redwood/redwood
 - https://github.com/KSP-CKAN/CKAN
+- https://github.com/iwiniwin/unity-remote-file-explorer
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
@@ -1706,6 +1707,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [yasio](https://github.com/yasio/yasio/)  A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
 - [libhv](https://github.com/ithewei/libhv) 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
 - [handy](https://github.com/yedf2/handy) 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
+- [workflow](https://github.com/sogou/workflow) C++ Parallel Computing and Asynchronous Networking Engine
+- [Server](https://github.com/shenmingik/Server) 基于muduo网络库的集群聊天服务器
 #### Rust
 - [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 #### Web/Http
@@ -2635,6 +2638,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/KomputeProject/kompute
 - https://github.com/Sergio0694/ComputeSharp
 - https://github.com/kunzmi/managedCuda
+- https://github.com/andmax/gpufilter
 - [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
 - [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
@@ -2738,6 +2742,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### GameEngine-Design-Blog-Artcile
 - http://www.thisisgame.com.cn/book/makegameenginatnight/
+- https://github.com/Pikachuxxxx/Razix
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
