@@ -388,6 +388,7 @@ Table of Contents
 ##### Papers
 - [realtimerendering-papers](http://kesen.realtimerendering.com/)
 - [gpuopen papers](https://gpuopen.com/learn/publications/)
+- [nvlabs](https://nvlabs.github.io/instant-ngp/)
 - https://jcgt.org/read.html?reload=1
 - https://onlinelibrary.wiley.com/journal/14678659 
 - https://forums.ogre3d.org/index.php  
@@ -453,6 +454,7 @@ Table of Contents
 - [noodle1983](https://noodle1983.github.io/) 服务器
 - [musoucrow](https://musoucrow.github.io/)
 - [查利鹏](https://imzlp.com/)
+- [bentleyblanks](http://bentleyblanks.github.io/) ue ta
 - [大鹏的专栏](https://blog.csdn.net/yudianxia)
 - [mayidong](http://ma-yidong.com/blog/)
 - [skywind](http://www.skywind.me/blog/)
