@@ -14,3 +14,4 @@
 - https://github.com/igor-elovikov/hipie
 - https://github.com/thi-ng/houdini
 - https://github.com/toadstorm/MOPS/
+- https://github.com/jtomori/vex_tutorial

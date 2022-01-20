@@ -195,6 +195,7 @@ Table of Contents
     - [GPGPU](#gpgpu)
     - [Compute Shader](#compute-shader)
     - [GPU Driven](#gpu-driven)
+    - [GPU-Particle](#gpu-particle)
     - [BVH](#bvh)
     - [Post-Process](#post-process)
     - [MatCaps](#matcaps)
@@ -374,6 +375,7 @@ Table of Contents
 - [USTC3D](https://github.com/USTC3DV)
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
 - [TA周刊](https://halisavakis.com/) 
+- [pdcxs-专注计算机艺术，创意编程](https://space.bilibili.com/10707223/video?)
 - [Unity技术美术](https://www.zhihu.com/column/c_1348315318327132160)
 - [RedYans-收集狂](https://www.zhihu.com/people/tong-yan-yan-26/posts) 
 - [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
@@ -1969,6 +1971,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [graphtoy](https://graphtoy.com/)
 
 #### Curve
+- [unity-nurbs](https://github.com/komietty/unity-nurbs) Unity base NURBS spline and surface module
+- [Lagrange Interpolatio](https://www.youtube.com/watch?v=4S6G-zenbFM&t=621s)
 - [bezierjs](https://github.com/Pomax/bezierjs) A nodejs and client-side library for (cubic) Bezier curve work 
 - [CurveDesigner](https://github.com/cmacmillan/CurveDesigner) A free tool for designing tubes, ramps, curves, and half-pipes in unity
 - [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
@@ -2694,6 +2698,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [[GDC16] Optimizing the Graphics Pipeline with Compute](https://zhuanlan.zhihu.com/p/33881861)
 - [unity-gpu-culling-experiment](https://www.mpc-rnd.com/unity-gpu-culling-experiment)
 - [VkGPUDrivenCNGuide](https://github.com/fangcun010/VkGPUDrivenCNGuide) 基于Vulkan的GPU Driven Rendering教程
+  
+#### GPU-Particle
+- [KvantSpray](https://github.com/keijiro/KvantSpray) Object instancing/particle animation system for Unity
 #### BVH
 - [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
 - [NativePhysicsBVH](https://github.com/marijnz/NativePhysicsBVH) A Bounding Volume Hierarchy with basic physics queries for Unity DOTS
@@ -3479,6 +3486,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ssell/UnityDotsCharacterController 
 - https://github.com/nicholas-maltbie/OpenKCC
 - https://github.com/runevision/LocomotionSystem
+- [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 
