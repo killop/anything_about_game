@@ -1523,6 +1523,7 @@ Table of Contents
 - [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
 - https://github.com/NextGenSoftwareUK/
 - https://assetstore.unity.com/packages/tools/terrain/easy-open-world-192659
+- https://github.com/SimBlocks
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -3321,6 +3322,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/NagaChiang/entity-tween
 * https://github.com/nothke/UnityDOTSGotchas
 * https://github.com/mikyll/UnityDOTS-Thesis
+* https://github.com/sschoener/burst-simd-exercises
 ##### Article
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
