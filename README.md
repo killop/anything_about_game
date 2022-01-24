@@ -2642,6 +2642,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/AkilarLiao/ForwardPlusURP
 - https://github.com/wlgys8/SRPLearn
 - https://github.com/Cyanilux/URP_BlitRenderFeature
+- https://github.com/AKGWSB/ToyRenderPipeline
+- https://github.com/GuardHei/UltimateTAA
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
 
 #### GPGPU
