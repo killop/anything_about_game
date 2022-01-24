@@ -72,7 +72,7 @@ Table of Contents
     - [Physics Based Animation](#physics-based-animation)
     - [MotionMatching](#motionmatching)
     - [Unity-Tool](#unity-tool)
-- [Console/Command/Shell](#consolecommandshell)
+- [Console/Command/Shell/Debugger](#consolecommandshelldebugger)
 - [Scenes](#scenes)
     - [Terrain](#terrain)
       - [Unity-Tool](#unity-tool-1)
@@ -1116,7 +1116,7 @@ Table of Contents
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
-## Console/Command/Shell
+## Console/Command/Shell/Debugger
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
 - [BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole)
 - [Reactor-Developer-Console](https://github.com/mustafayaya/Reactor-Developer-Console) 
@@ -1125,6 +1125,7 @@ Table of Contents
 - [debugging-essentials](https://assetstore.unity.com/packages/tools/utilities/debugging-essentials-170773) unity-plugin
 - [hdg-remote-debug](https://assetstore.unity.com/packages/tools/utilities/hdg-remote-debug-live-update-tool-61863) unity-plugin
 - [UnityExplorer](https://github.com/sinai-dev/UnityExplorer)
+- [unity-remote-file-explorer](https://github.com/iwiniwin/unity-remote-file-explorer)
 - https://github.com/natemcmaster/CommandLineUtils 命令行
 - https://github.com/Tyrrrz/CliFx 命令行
 - https://github.com/Tyrrrz/CliWrap 命令行
@@ -1401,6 +1402,7 @@ Table of Contents
 - https://jzyong.github.io/game-server/
 - https://github.com/bobohume/gonet
 - https://github.com/ZerlenZhang/distributed-architecture-of-moba-game-server
+- [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO) Open-source MMORPG server emulator written in C#
 - [MST](https://github.com/aevien/MST) This is a framework that allows you to create game servers and services for your game inside Unity. It allows you to avoid using third-party services such as Playful, PAN, or Smartfox server. This framework does not claim to be a substitute for all these systems. No way! 
 - [zfoo](https://github.com/zfoo-project/zfoo) Extreme fast enterprise Java server framework, can be RPC, game server framework, web server framework.
 #### Article
@@ -1693,11 +1695,13 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Telepathy](https://github.com/vis2k/Telepathy) Simple, message based, MMO Scale TCP networking in C#. And no magic.
 * [Megumin](https://github.com/KumoKyaku/Megumin.Net) 应用程序和游戏网络层解决方案 
 * [Mirage](https://github.com/MirageNet/Mirage) Easy to use Network library for Unity 3d 
+* [NetworkPositionSync](https://github.com/James-Frowen/NetworkPositionSync) Network Transform using Snapshot Interpolation and other techniques to best sync position and rotation over the network.
 * [HouraiNetworking](https://github.com/HouraiTeahouse/HouraiNetworking) Transport level library for peer-to-peer networking with multiple backends for the Unity. 
 * [Unity-Netcode.IO](https://github.com/GlaireDaggers/Unity-Netcode.IO) A lightweight plugin to allow Unity games to use Netcode.IO for secure UDP socket communication.
 * [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) Reliable UDP networking solution for building multiplayer games. (In public testing phase) 
 * [LiteNetwork](https://github.com/Eastrall/LiteNetwork)
 * [csharp-kcp](https://github.com/l42111996/csharp-kcp)
+* [java-Kcp](https://github.com/l42111996/java-Kcp) 基于java的netty实现的可靠udp网络库(kcp算法)，包含fec实现，可用于游戏，视频，加速等业务
 * [kcp-Code-annotation](https://gitee.com/he-linson/kcp-Code-annotation)
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
 * [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
@@ -2256,6 +2260,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) Helix Toolkit is a collection of 3D components for .NET Framework.
 - [SharpGame](https://github.com/BobbyBao/SharpGame) 基于Vulkan的多线程渲染引擎，采用C#9.0开发，支持.Net5.0
 - [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) C# bindings for the bgfx graphics library 
+- [Vortice.GPU](https://github.com/amerkoleci/Vortice.GPU) A low-level, cross-platform .NET GPU library
 - https://github.com/egorodet/MethaneKit
 - https://github.com/dotnet/Silk.NET
 - https://github.com/gfx-rs/gfx
@@ -2695,6 +2700,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [max:GPU Driven Rendering Pipeline 开发小结](https://zhuanlan.zhihu.com/p/58311222)
 - [游戏引擎随笔 0x13：现代图形 API 的 Bindless](https://zhuanlan.zhihu.com/p/136449475)
 - [Unity中实现高性能渲染遇到的问题](https://zhuanlan.zhihu.com/p/106388466)
+- [Unity_GPU_Driven_Particles](https://github.com/sienaiwun/Unity_GPU_Driven_Particles)
 - [[GDC16] Optimizing the Graphics Pipeline with Compute](https://zhuanlan.zhihu.com/p/33881861)
 - [unity-gpu-culling-experiment](https://www.mpc-rnd.com/unity-gpu-culling-experiment)
 - [VkGPUDrivenCNGuide](https://github.com/fangcun010/VkGPUDrivenCNGuide) 基于Vulkan的GPU Driven Rendering教程
