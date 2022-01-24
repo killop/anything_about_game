@@ -3204,6 +3204,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
 #### UI
+- [OwlAndJackalope.UX](https://github.com/AnonyBob/OwlAndJackalope.UX) A simple property binding and UX management library for Unity.
+- [Rosalina](https://github.com/Eastrall/Rosalina) Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
