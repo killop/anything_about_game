@@ -3299,6 +3299,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy 
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
+- https://github.com/Wind-Coming/MultiUnitSameScreen
 - https://github.com/piruzhaolu/ActionFlow
 - https://github.com/SinyavtsevIlya/BehaviorTree
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
