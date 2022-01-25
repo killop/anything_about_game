@@ -531,6 +531,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [nvjob](https://nvjob.github.io/)TA
 - [jasonbooth](https://medium.com/@jasonbooth_86226) TA
 - [andbc](http://andbc.co/home/) TA
 - [coffeebraingames](https://coffeebraingames.wordpress.com/) programmer
@@ -2687,6 +2688,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
 - https://github.com/TarAlacrin/HeightmapOnTheGPU
+- https://github.com/LouisBavoil/ThreadGroupIDSwizzling
 - [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
 
@@ -3146,6 +3148,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/sjai013/UnityGameplayAbilitySystem (The approach for this is taken from that used by Unreal's Gameplay Ability System, but implemented in Unity using the Data-Oriented Technology Stack (DOTS) where possible.)
 - https://github.com/dx50075/SkillSystem (skill system for unity ， 思路 http://blog.csdn.net/qq18052887/article/details/50358463 技能描述文件如下 skill(1000) //技能1 { FaceToTarget(0) PlayAnimation(1,Skill_1) Bullet(1.3,Bullet,7) PlayEffect(0,Explode8,3) })
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
+- https://github.com/SuperCLine/actioneditor
  
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
