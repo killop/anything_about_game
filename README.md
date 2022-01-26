@@ -106,6 +106,7 @@ Table of Contents
     - [c](#c)
 - [ECS Libraries](#ecs-libraries)
     - [Collection](#collection-3)
+- [AI-ML](#ai-ml)
     - [C/C++](#cc)
     - [C](#c-1)
     - [Python](#python)
@@ -579,6 +580,7 @@ Table of Contents
 - https://www.martinpalko.com/
 - https://blog.selfshadow.com/
 - https://www.gabrielgambetta.com/
+- [falstad](http://www.falstad.com) math
 - [techartaid](https://techartaid.com/) ue ta
 - [baba-s hatenablog](http://baba-s.hatenablog.com/)
 - [UnityGems](https://unitygem.wordpress.com/)
@@ -1542,6 +1544,9 @@ Table of Contents
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
  
+ ## AI-ML
+ - https://github.com/luxonis/depthai-unity
+ - https://github.com/runwayml/RunwayML-for-Unity
 #### C/C++
 
 * anax - Open source C++ entity system [[github](https://github.com/miguelmartin75/anax) ![miguelmartin75/anax](https://img.shields.io/github/stars/miguelmartin75/anax.svg?style=flat&label=Star&maxAge=86400)]
@@ -2005,6 +2010,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [projectivegeometricalgebra](http://projectivegeometricalgebra.org/) 摄影几何
 - [comparison with math libraries](https://nfrechette.github.io/2019/01/19/introducing_realtime_math/)
 - [线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
+
 
 #### Unity-Transform
 - [Unity坐标系变换那些事](https://zhuanlan.zhihu.com/p/438828654)
@@ -3591,6 +3597,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 - http://www.iqsuperman.net/ IQ 超人
 - https://www.allhistory.com 全历史
+- https://new.shuge.org/ 博物馆
 - https://www.die.net/earth/ 白天和黑夜实时预览
 - https://humanbenchmark.com/ 脑力benckmark
 - https://chatroulette.com/ 全世界随机聊天
