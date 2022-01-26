@@ -15,9 +15,11 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - [技你太美_UE4_Ramp生成器_仿原神皮肤shader](https://zhuanlan.zhihu.com/p/248998437)
 - [《原神》部分效果的个人理解](https://zhuanlan.zhihu.com/p/246531456)
 - [原神图形技术简析及杂谈](https://zhuanlan.zhihu.com/p/260824391)
-- [](https://www.bilibili.com/video/BV1pt411w7jX)
-- https://qiita.com/uynet/items/f8b087d47f5cf316eb7e
-- https://zhuanlan.zhihu.com/p/360229590
+- [崩坏3卡通渲染完全攻略](https://www.bilibili.com/video/BV1pt411w7jX)
+- [【Unity , shader】原神の海を再現したい](https://qiita.com/uynet/items/f8b087d47f5cf316eb7e)
+- [原神角色渲染Shader分析还原](https://zhuanlan.zhihu.com/p/360229590)
+- [【Unity技术美术】 原神Shader渲染还原解析](https://zhuanlan.zhihu.com/p/435005339)
+- [卡通渲染介绍 及通过blender还原原神卡通渲染](https://zhuanlan.zhihu.com/p/459947825)
 ## 塞尔达传说：荒野之息
 - [为你分析历代《塞尔达传说》的美术设定与动画技术](https://www.taptap.com/topic/2604022?region=jp)
 - [《塞尔达传说：旷野之息》技术分析文章](https://www.bilibili.com/read/cv3239418)
