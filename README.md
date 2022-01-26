@@ -2367,6 +2367,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### Shader-Collection
 - https://github.com/cnlohr/shadertrixx shader tricks
+- https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
 - https://github.com/McNopper/OpenGL 
 - https://github.com/nucleartide/Shaders-for-Game-Devs-Workbook
 - https://github.com/ipud2/Unity-Basic-Shader
@@ -2482,6 +2483,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [【基于物理渲染】业界主流GGX](https://zhuanlan.zhihu.com/p/32985996)
 - [publications](https://www.ppsloan.org/publications/)
 - [图流：Unity 标准PBR材质 美术向数据流程](https://zhuanlan.zhihu.com/p/397501285)
+- [学习PBR路程（四、Specular）](https://zhuanlan.zhihu.com/p/454439797)
 #### Ray Tracing
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
 - [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL 
