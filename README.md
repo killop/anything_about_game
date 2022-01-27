@@ -1977,6 +1977,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.mathtype.cn/
 - https://zh.numberempire.com/
 - http://penrose.ink/
+- https://github.com/FXH1/C-CPP-function-development-library
 - https://www.keycurriculum.com/
 - http://tobyschachman.com/Shadershop/
 - [graphtoy](https://graphtoy.com/)
@@ -3451,6 +3452,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [unity-material-cleaner](https://github.com/ina-amagami/unity-material-cleaner/blob/master/Assets/Editor/MaterialCleaner.cs)
 - [MotionFramework/Scripts/Editor/EditorTools](https://github.com/gmhevinci/MotionFramework/blob/master/Assets/MotionFramework/Scripts/Editor/EditorTools.cs)
 - [Unity材质冗余序列化数据清理](https://zhuanlan.zhihu.com/p/366636732) 
+- [UnityClearMaterailsProperties](https://github.com/tkweizhong/UnityClearMaterailsProperties)
 ##### Textrue Compression
 - [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
 - [常用纹理和纹理压缩格式](https://blog.csdn.net/ynnmnm/article/details/44983545)
