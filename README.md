@@ -2576,6 +2576,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [to-z-prepass-or-not-to-z-prepass](https://interplayoflight.wordpress.com/2020/12/21/to-z-prepass-or-not-to-z-prepass/)
 - [渲染状态改变消耗详情](https://blog.csdn.net/cubesky/article/details/77674201)
 ##### URP/SPR/HDRP Course
+- [MeasuredMaterialLibraryURP](https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP)
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
 - [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
 - [[Universal RP]Unity通用渲染管线学习](https://zhuanlan.zhihu.com/p/84908168)
