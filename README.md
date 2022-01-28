@@ -1547,6 +1547,7 @@ Table of Contents
  ## AI-ML
  - https://github.com/luxonis/depthai-unity
  - https://github.com/runwayml/RunwayML-for-Unity
+ - https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer
 #### C/C++
 
 * anax - Open source C++ entity system [[github](https://github.com/miguelmartin75/anax) ![miguelmartin75/anax](https://img.shields.io/github/stars/miguelmartin75/anax.svg?style=flat&label=Star&maxAge=86400)]
