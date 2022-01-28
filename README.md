@@ -1256,6 +1256,7 @@ Table of Contents
 - https://github.com/liaochong/myexcel
 - https://github.com/SheetJS/sheetjs
 - https://github.com/alibaba/easyexcel
+- https://gitee.com/dotnetchina/MiniExcel
 - https://github.com/EPPlusSoftware/EPPlus
 - http://kaitai.io/
 - https://github.com/xaboy/form-create
@@ -1715,6 +1716,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
 * [zapnet](https://github.com/deadgg/zapnet)  Zapnet is a Unity framework for game networking built with Lidgren
 * [Imp.NET](https://github.com/DouglasDwyer/Imp.NET) Imp.NET is a fast, high-level, object-oriented C# networking library that supports the invocation of remote methods through proxy interface objects.
+* [RRQMSocket](https://github.com/RRQM/RRQMSocket) RRQMSocket是一个整合性网络通信框架，特点是支持高并发、事件驱动、易用性强、二次开发难度低等。其中主要内容包括:TCP、UDP服务通信框架、大文件传输、RPC、WebSocket、WebApi、XmlRpc、JsonRpc等内容
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
