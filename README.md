@@ -1640,6 +1640,7 @@ Table of Contents
 - [面试官：换人！他连 TCP 这几个参数都不懂 ](https://mp.weixin.qq.com/s/fjnChU3MKNc_x-Wk7evLhg)
 - [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
 #### C#
+- [netmq](https://github.com/zeromq/netmq) A 100% native C# implementation of ZeroMQ for .NET
 - [DOTSNET](https://assetstore.unity.com/packages/tools/network/dotsnet-dots-networking-102633) unity -dots netcode plugin
 - [ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp) Reliable UDP networking library 
 - [NetworkToolkit](https://github.com/scalablecory/NetworkToolkit) This project contains networking primitives for use with .NET. 
@@ -1920,7 +1921,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ## Game-Math
 - [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
-- [redblobgames](https://www.redblobgames.com/) 
+- [redblobgames](https://www.redblobgames.com/)
+  [CGALDotNetGeometry](https://github.com/Scrawk/CGALDotNetGeometry) 
 - [unityMath](https://github.com/Unity-Technologies/Unity.Mathematics)  c# unity
 - [komietty](https://github.com/komietty) Computational Geometry Programmer
 - [MathUtilities](https://github.com/zalo/MathUtilities) c# unity
@@ -2701,6 +2703,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
 - https://github.com/TarAlacrin/HeightmapOnTheGPU
+- https://github.com/Scrawk/GPU-GEMS-3D-Fluid-Simulation
 - https://github.com/LouisBavoil/ThreadGroupIDSwizzling
 - [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
@@ -3062,6 +3065,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [BorrowScript](https://github.com/alshdavid/BorrowScript)
 
 #### Collection
+- https://github.com/shining1984/PL-Compiler-Resource
 - https://github.com/alilleybrinker/langs-in-rust
 - https://github.com/prathyvsh/pl-catalog
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
