@@ -2102,6 +2102,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Remotery](https://github.com/Celtoys/Remotery)
 - [perfdog](https://perfdog.qq.com/) 移动全平台性能测试分析专家
 - [upr](https://upr.unity.com/) 一款Unity出的性能分析工具，基于UnityProfiler的基础上制作的UPR，UPR的数据来自与UnityProfiler，会比Profiler有更多细节信息
+- [loli_profiler](https://github.com/Tencent/loli_profiler) Memory instrumentation tool for android app&game developers.
 - [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Excpetion-Crash)
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
 - [uwa4d](https://www.uwa4d.com/)
