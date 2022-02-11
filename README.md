@@ -1200,6 +1200,7 @@ Table of Contents
 - [Open World Nature Kit](https://assetstore.unity.com/packages/3d/environments/landscapes/open-world-nature-kit-150748) UnityPlugin
 - [Alttrees System](https://assetstore.unity.com/packages/tools/terrain/alttrees-system-beta-76657) UnityPlugin
 - [infini-grass](https://assetstore.unity.com/packages/tools/particles-effects/infini-grass-gpu-vegetation-45188)  UnityPlugin
+- [BigworldPlants](https://github.com/tangwilliam/BigworldPlants)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1410,6 +1411,7 @@ Table of Contents
 - [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO) Open-source MMORPG server emulator written in C#
 - [MST](https://github.com/aevien/MST) This is a framework that allows you to create game servers and services for your game inside Unity. It allows you to avoid using third-party services such as Playful, PAN, or Smartfox server. This framework does not claim to be a substitute for all these systems. No way! 
 - [zfoo](https://github.com/zfoo-project/zfoo) Extreme fast enterprise Java server framework, can be RPC, game server framework, web server framework.
+- [unityai](https://github.com/lazytiger/unityai) golang port of Unity NavMesh module.
 #### Article
 - https://github.com/briatte/awesome-network-analysis
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
@@ -1488,6 +1490,7 @@ Table of Contents
 - https://github.com/CraneInForest/LockStepSimpleFramework-Shared
 * [UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with serverside framerate for Unity
 * https://github.com/JiepengTan/LockstepCollision
+* https://github.com/HeatXD/PleaseResync
 #### status-syn
 - https://github.com/zpl-c/librg
 - https://github.com/minism/fps-netcode
@@ -3236,6 +3239,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
+- https://github.com/JingFengJi/UpdateSpriteAssetTool
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/redbluegames/unity-text-typer 
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
