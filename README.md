@@ -363,6 +363,7 @@ Table of Contents
 - https://github.com/mehdihadeli/awesome-software-architecture
 ## News
 #### Game
+- [rawg](https://rawg.io/)
 - [metacritic](https://www.metacritic.com/game)
 - [indienova](https://indienova.com/)
 - [gamedev](https://gamedev.net/)
@@ -396,6 +397,7 @@ Table of Contents
 - https://onlinelibrary.wiley.com/journal/14678659 
 - https://forums.ogre3d.org/index.php  
 #### CG
+- [cgpress](https://cgpress.org/)
 - [artstation](https://www.artstation.com/)
 - [tech-artists](https://tech-artists.org/)
 - [cgchannel](http://www.cgchannel.com/)
@@ -785,6 +787,7 @@ Table of Contents
 ## Game-Design-Tool
 #### Collection
 - [magictools](https://github.com/ellisonleao/magictools)
+- https://orels.sh/p/tools/
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
 *  [MagicaVoxel](https://ephtracy.github.io/)
@@ -2378,6 +2381,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- https://github.com/orels1/orels-Unity-Shaders filament unity shader
 - https://github.com/cnlohr/shadertrixx shader tricks
 - https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
 - https://github.com/McNopper/OpenGL 
@@ -2482,6 +2486,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 -  http://developer.download.nvidia.com/GPU_Programming_Guide/GPU_Programming_Guide.pdf
 -  [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 #### Physically-Based-Render
+- https://blog.selfshadow.com/publications/
 - https://github.com/neil3d/awesome-pbr
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
@@ -2568,8 +2573,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
-- https://www.patreon.com/posts/urp-mesh-part-1-55990741
+- https://www.patreonm/posts/urp-mesh-part-1-55990741
 - https://github.com/IronWarrior/UnityOutlineShader
+- [sdf-outline](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/corgi-sdf-outlines-aka-stroke-outlines-for-urp-206960) unity-plugin
 
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
@@ -3497,6 +3503,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Brighter](https://github.com/BrighterCommand/Brighter) Command Dispatcher, Processor, and Distributed Task Queue 
 - [signals](https://github.com/supyrb/signals)
 - [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)
+- [ExtEvents](https://github.com/SolidAlloy/ExtEvents) A better replacement for UnityEvents
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
@@ -3644,4 +3651,5 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [TA后备隐藏能源(持续更新嗷)](https://zhuanlan.zhihu.com/p/265590519)
 * [GameDevelopTutorials](https://github.com/GamesTan/GameDevelopTutorials)
 * [秋秋群里面的日常讨论](https://gist.github.com/lexnewgate/01dc7a985b2c8d847adfb90758d24843)
+* [gamedev](https://github.com/DsoTsin/gamedev) ue gamedev
 ## 看完不star，小心没jj :）!
