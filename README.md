@@ -1999,6 +1999,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [unity-nurbs](https://github.com/komietty/unity-nurbs) Unity base NURBS spline and surface module
 - [Lagrange Interpolatio](https://www.youtube.com/watch?v=4S6G-zenbFM&t=621s)
 - [bezierjs](https://github.com/Pomax/bezierjs) A nodejs and client-side library for (cubic) Bezier curve work 
+- [bezierinfo中文版](https://pomax.github.io/bezierinfo/zh-CN/index.html)
 - [CurveDesigner](https://github.com/cmacmillan/CurveDesigner) A free tool for designing tubes, ramps, curves, and half-pipes in unity
 - [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
 - [unity-curve-utils](https://github.com/baba-s/unity-curve-utils) 曲线 
