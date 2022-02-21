@@ -10,6 +10,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 ## LOL mobile
 - [谈一谈英雄联盟手游渲染2](https://zhuanlan.zhihu.com/p/286836840)
 ## 原神
+- [从零开始的原神角色渲染](https://zhuanlan.zhihu.com/p/468209534)
 - [原神截帧分析(未完待续)](https://zhuanlan.zhihu.com/p/272495627)
 - [简单谈谈原神的渲染部分](https://zhuanlan.zhihu.com/p/259589537)
 - [技你太美_UE4_Ramp生成器_仿原神皮肤shader](https://zhuanlan.zhihu.com/p/248998437)

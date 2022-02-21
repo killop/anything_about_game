@@ -1426,6 +1426,7 @@ Table of Contents
 - [smooth-sync-unity-plugin](https://assetstore.unity.com/packages/tools/network/smooth-sync-96925) unity-plugin
 - [dedicated-server-physics-synchronization](https://assetstore.unity.com/packages/tools/physics/dedicated-server-physics-synchronization-160594?locale=zh-CN) unity-plugin
 - [帧同步联机战斗（预测，快照，回滚）](https://zhuanlan.zhihu.com/p/38468615)
+- [213的博客](https://blog.csdn.net/weixin_45610260/category_9805206.html)
 - [游戏服务端的高并发和高可用](https://zhuanlan.zhihu.com/p/342953318)
 - [某百万DAU游戏的服务端优化工作](https://zhuanlan.zhihu.com/p/341855913)
 - [网络游戏开发中的通讯杂谈](https://zhuanlan.zhihu.com/p/347389861)
@@ -2720,6 +2721,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/LouisBavoil/ThreadGroupIDSwizzling
 - [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
+- [Unity物理引擎实战-基于SPH方法的简单水体模拟](https://zhuanlan.zhihu.com/p/456696305)
 
 #### GPU Driven
 - [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
@@ -3561,6 +3563,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Usdk](https://github.com/honghuachen/Usdk) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
 - [buildtool](https://github.com/superunitybuild/buildtool)
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
+- [UnitySkipSplash](https://github.com/psygames/UnitySkipSplash) Skip Unity Splash Screen only one script
  
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
