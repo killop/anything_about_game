@@ -827,6 +827,7 @@ Table of Contents
 - [usfxr](https://github.com/grapefrukt/usfxr)
 - [layersaudio](https://www.layersaudio.com/) unity audio plugin
 - https://github.com/nixon-voxell/UnityAudioVisualizer
+- https://github.com/MathewHDYT/Unity-Audio-Manager
 #### Music-Tool/Editor
 - https://www.image-line.com/
 - https://www.goldwave.com
@@ -1617,7 +1618,7 @@ Table of Contents
 - https://github.com/ByronMayne/UnityIO
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 - https://www.betrfs.org/
-
+- https://github.com/MathewHDYT/Unity-Data-Manager
 ## Hash
 - [Blake3](https://github.com/xoofx/Blake3.NET) Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
 - [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm
@@ -2128,6 +2129,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
 - [MemoryProfiler](https://github.com/larryhou/MemoryProfiler)
 - [speedscope](https://www.speedscope.app/)
+- https://github.com/vertxxyz/Vertx.Debugging
 
 #### GPU
 - https://github.com/taptap/render-doctor
@@ -2422,6 +2424,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Delt06/urp-toon-shader
 - https://github.com/Xiexe/Unity-Lit-Shader-Templates
 - [ultimate-10-shaders](https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611) unity free plugin
+- [omnishade-mobile-optimized-shader](https://assetstore.unity.com/packages/vfx/shaders/omnishade-mobile-optimized-shader-213594)
 - [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) unity Uber shader for Particle System
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
@@ -2640,6 +2643,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Verasl/BoatAttack water
 - https://github.com/eliasts/Ocean_Community_Next_Gen
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
+- https://github.com/bearworks/URPOcean
 - [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-) [Blog](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
 ##### Crystal
 - https://github.com/CJT-Jackton/URP-Anime-Crystal-Shader
