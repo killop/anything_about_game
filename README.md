@@ -542,7 +542,7 @@ Table of Contents
 - [astroukoff](http://astroukoff.blogspot.com/) unity vfx houdini
 - [bgolus](https://bgolus.medium.com/)
 - [joyrok](https://joyrok.com) TA sdf
-- [psgraphics](http://psgraphics.blogspot.com/) TA RT
+- [psgraphics](http://psgraphics.blogspot.com/) TA PBR
 - [theinstructionlimit](http://theinstructionlimit.com/) TA
 - [alinloghin](http://alinloghin.com/) TA
 - [danielilett](https://danielilett.com/) URP TA
@@ -948,6 +948,7 @@ Table of Contents
 - [autotilegen](https://pixelatto.com/products/autotilegen)
 - [SuperTiled2Unity] (https://github.com/Seanba/SuperTiled2Unity) Imports Tiled files to Unity. Better than regular Tiled2Unity. 
 - [tile-map-accelerator](https://forum.unity.com/threads/tile-map-accelerator-high-performance-shader-based-tile-map-renderer.708413/)
+- [tileplus](https://assetstore.unity.com/packages/tools/sprite-management/tileplus-toolkit-201027)
 
 #### Design
 - https://www.zcool.com.cn
@@ -2386,6 +2387,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### Shader-Collection
 - https://github.com/orels1/orels-Unity-Shaders filament unity shader
+- https://github.com/poiyomi/PoiyomiToonShader A feature rich toon shader for unity and VR Chat
 - https://github.com/cnlohr/shadertrixx shader tricks
 - https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
 - https://github.com/McNopper/OpenGL 
