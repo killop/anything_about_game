@@ -1255,6 +1255,7 @@ Table of Contents
 #### Metadata/Excel/Schema/Proto
 - [xresloader](https://github.com/xresloader/xresloader)
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
+- [go-xlsx-exporter](https://github.com/wingcd/go-xlsx-exporter) a tool for parse xlsx and export to other fomart and data, such as: probuf3 file and buffers, golang, csharp and so on
 - https://github.com/WoW-Tools/
 - https://github.com/NtreevSoft/Crema
 - https://github.com/vriad/zod
