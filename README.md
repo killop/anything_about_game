@@ -2392,6 +2392,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Shader-Collection
 - https://github.com/orels1/orels-Unity-Shaders filament unity shader
 - https://github.com/poiyomi/PoiyomiToonShader A feature rich toon shader for unity and VR Chat
+- https://github.com/Alligrater/Shader-Practice
 - https://github.com/cnlohr/shadertrixx shader tricks
 - https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
 - https://github.com/McNopper/OpenGL 
