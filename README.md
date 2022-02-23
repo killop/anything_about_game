@@ -1757,6 +1757,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [多线程渲染](https://zhuanlan.zhihu.com/p/44116722)
 - [UE4 关于主循环的资料](https://zhuanlan.zhihu.com/p/225465983)
 #### 2D Engines and Frameworks
+- [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 - [Skybolt](https://github.com/Piraxus/Skybolt) Planetary rendering engine and aerospace simulation tools
 * [Agen](http://2dengine.com/page.php?p=features) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 * [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. :o2:
@@ -2335,6 +2336,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - [common-shaders](https://github.com/libretro/common-shaders)
 #### Shader Compiler
+- [a-review-of-shader-languages](https://alain.xyz/blog/a-review-of-shader-languages)
 - [spir](https://www.khronos.org/spir/) The Industry Open Standard Intermediate Language for Parallel Compute and Graphics
 - [DirectX Intermediate Language](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/DXIL.rst)
 - [AMD Developer Guides, Manuals & ISA Documents](https://developer.amd.com/resources/developer-guides-manuals/)
@@ -2429,6 +2431,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ultimate-10-shaders](https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611) unity free plugin
 - [omnishade-mobile-optimized-shader](https://assetstore.unity.com/packages/vfx/shaders/omnishade-mobile-optimized-shader-213594)
 - [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) unity Uber shader for Particle System
+- [shaders-impossible-geom](https://github.com/daniel-ilett/shaders-impossible-geom) A shader project for Unity URP featuring impossible geometry shaders like those seen in the game Antichamber.
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
