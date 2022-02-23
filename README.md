@@ -1184,6 +1184,7 @@ Table of Contents
 - [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
 - [unity-procedural-tree](https://github.com/mattatz/unity-procedural-tree)
 - [unity-procedural-flower](https://github.com/mattatz/unity-procedural-flower)
+- [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
 - [citygen3d](https://assetstore.unity.com/packages/tools/terrain/citygen3d-162468) UnityPlugin
 - [Arcgis](https://developers.arcgis.com/unity-sdk/reference/release-notes/) UnityPlugin
 - [OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
