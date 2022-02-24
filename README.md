@@ -3573,6 +3573,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ## UnityBuild
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
 - [Usdk](https://github.com/honghuachen/Usdk) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
+- https://github.com/UNSH/Unity-Apple-Distribution-Workflow
 - [buildtool](https://github.com/superunitybuild/buildtool)
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
 - [UnitySkipSplash](https://github.com/psygames/UnitySkipSplash) Skip Unity Splash Screen only one script
