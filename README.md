@@ -3277,6 +3277,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/506638093/RichText 头顶血条
 - https://github.com/wuxiongbin/uHyperText
+- https://github.com/coding2233/TextInlineprite
+- https://gitcode.net/linxinfa/UnityEmojiTextDemo
+- https://edu.uwa4d.com/course-intro/0/127
+- [modular](https://assetstore.unity.com/packages/3d/gui/modular-3d-text-in-game-3d-ui-system-159508) unity 3d ui
 - https://github.com/mattak/Unidux
 - https://github.com/kirurobo/UniWindowController 
 - https://github.com/liuhaopen/UGUI-Editor
