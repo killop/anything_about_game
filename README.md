@@ -3636,6 +3636,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ## 游戏策划
 - https://zhuanlan.zhihu.com/p/67963068
 - https://zhuanlan.zhihu.com/p/34213415
+- [有哪些非游戏领域的书籍读后有利于显著提升游戏策划和设计水平](https://www.zhihu.com/question/36162464)
+- [国外游戏理论研究的前沿都在研究什么？](https://www.zhihu.com/question/50253977/answer/120147034)
 
 #### 镜头
 - https://zhuanlan.zhihu.com/p/138144313 
