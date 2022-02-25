@@ -1986,6 +1986,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [nalgebra](https://www.nalgebra.org/) rust math
 - [DualQuaternionsForUnity](https://github.com/johannesugb/DualQuaternionsForUnity)
 - [opengjk](https://www.mattiamontanari.com/opengjk/) C implementation of the GJK algorithm 
+- [pcg-random](https://www.pcg-random.org/)
   
 #### Math-Tool
 - [Shadershop](http://tobyschachman.com/Shadershop/editor/)
@@ -2336,6 +2337,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - [common-shaders](https://github.com/libretro/common-shaders)
+- https://github.com/riccardoscalco/glsl-pcg-prng
 #### Shader Compiler
 - [a-review-of-shader-languages](https://alain.xyz/blog/a-review-of-shader-languages)
 - [spir](https://www.khronos.org/spir/) The Industry Open Standard Intermediate Language for Parallel Compute and Graphics
