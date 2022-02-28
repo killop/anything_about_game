@@ -1324,6 +1324,7 @@ Table of Contents
 - [Snuggle](https://github.com/yretenai/Snuggle) WIP Unity AssetBundle Exporter
 - [CASCExplorer](https://github.com/WoW-Tools/CASCExplorer) CASCExplorer
 - [nefsedit](https://github.com/victorbush/ego.nefsedit) NeFS archive editor for Ego Engine
+- [SoulsFormats](https://github.com/JKAnderson/SoulsFormats) A .NET library for reading and writing FromSoftware file formats.
  
 ## Version-Control
 - https://semver.org/lang/zh-CN/   -- 版本号规范
