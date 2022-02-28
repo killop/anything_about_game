@@ -1937,6 +1937,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 *   TinyCThread：一个可扩展，小型的 C11 标准线程 API 实现。[zlib](http://directory.fsf.org/wiki/License:Zlib)。[官网](https://tinycthread.github.io/)
 
 ## Game-Math
+- [Vortice.Mathematics](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform .NET math library.
 - [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 - [redblobgames](https://www.redblobgames.com/)
   [CGALDotNetGeometry](https://github.com/Scrawk/CGALDotNetGeometry) 
