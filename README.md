@@ -809,6 +809,7 @@ Table of Contents
 - https://www.fontspace.com/ english font
 - https://www.dafont.com/   english font
 - https://www.1001fonts.com/ english font
+- https://lana-ro.itch.io/sra-free-pixel-font-pack pixel-font-pack
 #### Audio
 - [dspmotion](http://tsugi-studio.com/web/en/products-dspmotion.html)
 - https://github.com/raysan5/rfxgen
@@ -1426,6 +1427,7 @@ Table of Contents
 - [gafferongames](https://gafferongames.com/ )
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
 - [Networking Scripted Weapons and Abilities in Overwatch](https://www.bilibili.com/video/av74390948) [中文版](https://www.lfzxb.top/ow-gdc-weapon-and-skillsystem/)
+- [基于状态帧同步的战斗系统教程——帧同步，状态同步，状态帧同步科普](https://www.bilibili.com/video/BV1RR4y1V7T2)
 - [细谈网络同步在游戏历史中的发展变化 (上)](https://zhuanlan.zhihu.com/p/130702310)
 - [细谈网络同步在游戏历史中的发展变化 (中)](https://zhuanlan.zhihu.com/p/164686867)
 - [smooth-sync-unity-plugin](https://assetstore.unity.com/packages/tools/network/smooth-sync-96925) unity-plugin
@@ -2668,6 +2670,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Auburn/FastNoiseLite
 - https://flogelz.itch.io/noisemixer
 - https://github.com/Hengle/FastNoiseLite
+- https://github.com/boppygames/FastNoiseEditorUnity
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -3166,6 +3169,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/kyubuns/AkyuiUnity
 - https://github.com/dotmos/uGameFramework
 - https://github.com/DonnYep/CosmosFramework
+- https://github.com/christides11/hack-and-slash-framework
 
 #### Dependency Injection 
 - https://github.com/gustavopsantos/reflex
