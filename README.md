@@ -482,6 +482,7 @@ Table of Contents
 - [uchart作者](http://uchart.club)
 - [宣雨松](https://www.xuanyusong.com/)
 - [代码如诗](https://www.cnblogs.com/kex1n/)
+- [Heskey0](https://www.cnblogs.com/Heskey0)
 - [Dalton](http://www.zhust.com/)
 - [烟雨迷离半世殇](https://www.lfzxb.top/)
 - [FishMan的技术专栏 ](https://jiepengtan.github.io/)
@@ -772,6 +773,8 @@ Table of Contents
 - https://www.gamedevmarket.net/
 - https://gametextures.com/
 - https://www.textures.com/
+- https://www.cgbookcase.com/
+- https://ambientcg.com/
 - http://www.plaintextures.com/
 - https://sketchfab.com/
 - https://www.zhihu.com/question/298715376/answer/1277503311

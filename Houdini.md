@@ -15,3 +15,4 @@
 - https://github.com/thi-ng/houdini
 - https://github.com/toadstorm/MOPS/
 - https://github.com/jtomori/vex_tutorial
+- https://github.com/nrosenstein-old/houdini-library
