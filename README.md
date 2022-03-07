@@ -1211,6 +1211,7 @@ Table of Contents
 - [Alttrees System](https://assetstore.unity.com/packages/tools/terrain/alttrees-system-beta-76657) UnityPlugin
 - [infini-grass](https://assetstore.unity.com/packages/tools/particles-effects/infini-grass-gpu-vegetation-45188)  UnityPlugin
 - [BigworldPlants](https://github.com/tangwilliam/BigworldPlants)
+- [InfinityFoliage](https://github.com/haolange/InfinityFoliage)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
