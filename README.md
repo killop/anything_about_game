@@ -1420,6 +1420,8 @@ Table of Contents
 - https://github.com/googleforgames/quilkin
 - https://jzyong.github.io/game-server/
 - https://github.com/bobohume/gonet
+- https://github.com/jzyong/game-server
+- https://github.com/jzyong/GameAI4j
 - https://github.com/ZerlenZhang/distributed-architecture-of-moba-game-server
 - [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO) Open-source MMORPG server emulator written in C#
 - [MST](https://github.com/aevien/MST) This is a framework that allows you to create game servers and services for your game inside Unity. It allows you to avoid using third-party services such as Playful, PAN, or Smartfox server. This framework does not claim to be a substitute for all these systems. No way! 
@@ -1549,6 +1551,7 @@ Table of Contents
 - https://github.com/NextGenSoftwareUK/
 - https://assetstore.unity.com/packages/tools/terrain/easy-open-world-192659
 - https://github.com/SimBlocks
+- https://github.com/tkonexhh/OpenWorld
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
