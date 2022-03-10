@@ -1428,6 +1428,7 @@ Table of Contents
 - [zfoo](https://github.com/zfoo-project/zfoo) Extreme fast enterprise Java server framework, can be RPC, game server framework, web server framework.
 - [unityai](https://github.com/lazytiger/unityai) golang port of Unity NavMesh module.
 - https://github.com/zhangqi-ulua/ServerFramework
+- https://github.com/mmogdeveloper/MO.Framework
 #### Article
 - https://github.com/briatte/awesome-network-analysis
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
@@ -1552,6 +1553,7 @@ Table of Contents
 - https://assetstore.unity.com/packages/tools/terrain/easy-open-world-192659
 - https://github.com/SimBlocks
 - https://github.com/tkonexhh/OpenWorld
+- https://github.com/Ermiq/GodotMono-InfiniteTerrain
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -3146,6 +3148,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
 - [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
+- [YooAsset](https://github.com/tuyoogame/YooAsset) 途游 unity3d resource system
 - [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) Yet another asset bundle manager for Unity.
 - [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) A rule based addressable asset importer 
 - [HiAssetBundle_unity](https://github.com/hiramtan/HiAssetBundle_unity) Unity's asset bundle solution for end-users to access resources dynamically at runtime. 
