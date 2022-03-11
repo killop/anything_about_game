@@ -1064,6 +1064,7 @@ Table of Contents
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/rurre/PumkinsAvatarTools unity 表情
 - https://github.com/huailiang/knead_proj unity  捏脸
+- https://assetstore.unity.com/packages/tools/animation/puppet-face-181312
 - https://github.com/PixelWizards/BlendShapeController blendShapeController
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
