@@ -1069,6 +1069,7 @@ Table of Contents
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
 - [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
 - https://github.com/fengkan/RuntimeRetargeting
+- https://github.com/robotron2084/animation-retargeting
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 #### GPU-Animation
 - [Unity-Gpu-Skinning-Tool](https://github.com/ForeverZack/Unity-Gpu-Skinning-Tool)
@@ -2599,6 +2600,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 * [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
 * [What-Are-SDFs-Anyway](https://joyrok.com/What-Are-SDFs-Anyway)
+* [NativeSDF](https://github.com/Amarcolina/NativeSDF) Evaluate signed-distance-fields with speed using Unity Jobs and Burst
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
