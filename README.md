@@ -193,6 +193,7 @@ Table of Contents
     - [Noise](#noise)
       - [Trail](#trail)
     - [RenderPipelineFrameWork](#renderpipelineframework)
+    - [Global illumination (GI)](#global-illumination-gi)
     - [GPGPU](#gpgpu)
     - [Compute Shader](#compute-shader)
     - [GPU Driven](#gpu-driven)
@@ -240,7 +241,6 @@ Table of Contents
     - [Dependency Injection](#dependency-injection)
     - [Moba](#moba)
     - [Skill](#skill)
-    - [Global illumination (GI)](#global-illumination-gi)
     - [Occlusion Culling](#occlusion-culling)
     - [AO](#ao)
     - [ShaderGraph&&Effect](#shadergrapheffect)
@@ -1176,6 +1176,7 @@ Table of Contents
 - [terrain-grid-system](https://assetstore.unity.com/packages/tools/terrain/terrain-grid-system-47215)UnityPlugin
 - [terrain-slicing-dynamic-loading-kit](https://assetstore.unity.com/packages/tools/terrain/terrain-slicing-dynamic-loading-kit-5982) UnityPlugin
 - [floating-origin](https://assetstore.unity.com/packages/tools/network/floating-origin-ultimate-infinite-multiplayer-world-solution-204179?) UnityPlugin
+- [gaia](https://forum.unity.com/threads/backwoods-gamings-addons-for-gaia.389067/)
 ##### Unity-Tool
 - [PrefabPainter](https://github.com/Roland09/PrefabPainter) github
 - [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
@@ -1208,6 +1209,7 @@ Table of Contents
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
 - [VegetationStudioProExtensions](https://github.com/Roland09/VegetationStudioProExtensions)
 - [vegetation-engine-amplify-impostors](https://assetstore.unity.com/packages/vfx/shaders/the-vegetation-engine-amplify-impostors-module-189099)
+- [vegetation-spawner](https://assetstore.unity.com/packages/tools/terrain/vegetation-spawner-177192)
 - [Nature Renderer](https://assetstore.unity.com/packages/tools/terrain/nature-renderer-153552) UnityPlugin
 - [Open World Nature Kit](https://assetstore.unity.com/packages/3d/environments/landscapes/open-world-nature-kit-150748) UnityPlugin
 - [Alttrees System](https://assetstore.unity.com/packages/tools/terrain/alttrees-system-beta-76657) UnityPlugin
@@ -2057,6 +2059,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [图形学常见的变换推导](http://frankorz.com/2020/07/26/transformation/)
 ##  Physics
 #### Physics Framework
+- [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
 - https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
@@ -2709,7 +2712,14 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/GuardHei/UltimateTAA
 - https://github.com/GuardHei/SRP
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
-
+- https://github.com/Looooong/Unity-SRP-VXGI
+#### Global illumination (GI)
+- [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
+- [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
+- [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambient occlusion in Unity baked at runtime.
+- [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
+- [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
+- [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
 #### GPGPU
 - https://github.com/arrayfire/arrayfire
 - [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp)
@@ -3217,13 +3227,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 - https://github.com/SuperCLine/actioneditor
  
-#### Global illumination (GI)
-- [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
-- [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
-- [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambient occlusion in Unity baked at runtime.
-- [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
-- [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
-- [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
+
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
 - [使用Unity DXR加速PVS烘焙](https://zhuanlan.zhihu.com/p/88905817)
