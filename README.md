@@ -1167,6 +1167,7 @@ Table of Contents
 - [SECTR COMPLETE](https://assetstore.unity.com/packages/tools/terrain/sectr-complete-2019-144433) UnityPlugin
 - [CTS](https://assetstore.unity.com/packages/tools/terrain/cts-2019-complete-terrain-shader-140806) UnityPlugin
 - [Map Magic](https://assetstore.unity.com/packages/tools/terrain/mapmagic-world-generator-56762) UnityPlugin
+- [UnityMapMagic2Extensions](https://github.com/yolanother/UnityMapMagic2Extensions)
 - [Terrain Composer](https://assetstore.unity.com/packages/tools/terrain/terrain-composer-2-65563) UnityPlugin
 - [Landscape Builder](https://assetstore.unity.com/packages/tools/terrain/landscape-builder-55463) UnityPlugin
 - [TerraLand 3](https://assetstore.unity.com/packages/tools/terrain/terraland-3-119097) UnityPlugin
@@ -1373,6 +1374,7 @@ Table of Contents
 - https://github.com/redwood/redwood
 - https://github.com/KSP-CKAN/CKAN
 - https://github.com/iwiniwin/unity-remote-file-explorer
+- https://github.com/OctopusDeploy/Octodiff
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
@@ -1387,6 +1389,7 @@ Table of Contents
 - https://aws.amazon.com/cn/gamelift/
 - https://github.com/9miao/G-Firefly
 - https://github.com/cloudwu/skynet
+- https://github.com/Manistein/SparkServer
 - https://github.com/surparallel
 - https://github.com/xiaonanln/goworld
 - https://github.com/kbengine/kbengine
@@ -1519,11 +1522,13 @@ Table of Contents
 - https://github.com/zpl-c/librg
 - https://github.com/minism/fps-netcode
 - https://github.com/Yinmany/NetCode-FPS
+- https://github.com/CodingCodingK/UnityMobaDemo
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
 ## Serialization
 - https://github.com/apache/arrow
+- https://github.com/koralium/Koralium
 - https://en.wikipedia.org/wiki/Interface_description_language
 - https://github.com/chronoxor/CppSerialization benckmark
 - https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
@@ -2412,6 +2417,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- https://github.com/sam20191128/shader_URP
 - https://github.com/orels1/orels-Unity-Shaders filament unity shader
 - https://github.com/poiyomi/PoiyomiToonShader A feature rich toon shader for unity and VR Chat
 - https://github.com/Alligrater/Shader-Practice
@@ -2742,6 +2748,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MinimalCompute](https://github.com/cinight/MinimalCompute) Minimal Compute Shader Examples
 - https://zhuanlan.zhihu.com/p/368307575
 - https://github.com/cabbibo/IMMATERIA/
+- https://github.com/luckyWjr/ComputeShaderDemo
 - https://bitbucket.org/catlikecodingunitytutorials/basics-05-compute-shaders/src/master/
 - https://github.com/googlefonts/compute-shader-101
 - https://www.youtube.com/watch?v=DZRn_jNZjbw
@@ -2795,6 +2802,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [bvh](https://github.com/madmann91/bvh) About A modern C++ BVH construction and traversal library 
 #### Post-Process
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
+- https://github.com/tkonexhh/X-PostProcessing-URP
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
 #### SphericalHarmonicLighting
