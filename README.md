@@ -1217,6 +1217,8 @@ Table of Contents
 - [infini-grass](https://assetstore.unity.com/packages/tools/particles-effects/infini-grass-gpu-vegetation-45188)  UnityPlugin
 - [BigworldPlants](https://github.com/tangwilliam/BigworldPlants)
 - [InfinityFoliage](https://github.com/haolange/InfinityFoliage)
+- [GrassBending](https://github.com/Elringus/GrassBending) A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect
+- [HiZ_grass_culling](https://github.com/jackie2009/HiZ_grass_culling)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -2459,6 +2461,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Delt06/urp-toon-shader
 - https://github.com/Xiexe/Unity-Lit-Shader-Templates
 - [ultimate-10-shaders](https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611) unity free plugin
+- [urpplus](https://assetstore.unity.com/packages/vfx/shaders/urpplus-215494)
 - [omnishade-mobile-optimized-shader](https://assetstore.unity.com/packages/vfx/shaders/omnishade-mobile-optimized-shader-213594)
 - [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) unity Uber shader for Particle System
 - [shaders-impossible-geom](https://github.com/daniel-ilett/shaders-impossible-geom) A shader project for Unity URP featuring impossible geometry shaders like those seen in the game Antichamber.
@@ -3559,6 +3562,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [signals](https://github.com/supyrb/signals)
 - [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)
 - [ExtEvents](https://github.com/SolidAlloy/ExtEvents) A better replacement for UnityEvents
+- [Unity.MissingUnityEvents](https://github.com/handzlikchris/Unity.MissingUnityEvents)
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
