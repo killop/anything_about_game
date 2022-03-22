@@ -2419,6 +2419,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- https://github.com/z3y/shaders
 - https://github.com/sam20191128/shader_URP
 - https://github.com/orels1/orels-Unity-Shaders filament unity shader
 - https://github.com/poiyomi/PoiyomiToonShader A feature rich toon shader for unity and VR Chat
