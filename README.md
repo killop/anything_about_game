@@ -183,6 +183,7 @@ Table of Contents
       - [Fur](#fur)
       - [Holographic](#holographic)
       - [Matrix](#matrix)
+      - [Dissolve](#dissolve)
       - [Shader-GUI](#shader-gui)
       - [Decal](#decal)
       - [Face](#face)
@@ -1183,6 +1184,7 @@ Table of Contents
 - [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
 - [prefab-painter](https://assetstore.unity.com/packages/tools/painting/prefab-painter-2-61331) unity-plugin
 - [transform-tools](https://assetstore.unity.com/packages/tools/utilities/transform-tools-177218) unity-plugin
+- [prefab-world-builder](https://assetstore.unity.com/packages/tools/level-design/prefab-world-builder-185406) unity-plugin
 - [grabbit-editor-physics-transforms](https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328) unity-plugin
 - [Hey-Area-Object-Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner)
 - https://github.com/Ogbest/Unity_MapEditor_Terrain 动态渲染Unity地形网格，记录网格是否是玩家的行走范围，然后导出编辑好的网格用于服务器导航、验证使用 
@@ -1529,6 +1531,7 @@ Table of Contents
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
 ## Serialization
+- https://github.com/space-wizards/netserializer
 - https://github.com/apache/arrow
 - https://github.com/koralium/Koralium
 - https://en.wikipedia.org/wiki/Interface_description_language
@@ -1694,6 +1697,7 @@ Fast, reliable, scalable.
 - [supersocket](https://docs.supersocket.net/) 国人的骄傲
 - [ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) This repository provides a managed C# abstraction of GameNetworkingSockets library which is created and maintained by Valve Software. You will need to build the native library with all required dependencies before you get started.
 - [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
+- [SpaceWizards.Lidgren.Network](https://github.com/space-wizards/SpaceWizards.Lidgren.Network)
 - [DotNetty](https://github.com/Azure/DotNetty) DotNetty project – a port of netty, event-driven asynchronous network application framework 
 - [SpanNetty](https://github.com/cuteant/SpanNetty) Port of Netty(v4.1.51.Final) for .NET
 - [Dotnetty-Practice](https://github.com/JusterZhu/Dotnetty-Practice) 主要讲解dotnetty企业级的应用开发，帮助开发者更容易的学习掌握该网络通讯框架。
@@ -2030,6 +2034,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 #### Curve
 - [unity-nurbs](https://github.com/komietty/unity-nurbs) Unity base NURBS spline and surface module
+- [Unity-Spline-Editor](https://github.com/vvrvvd/Unity-Spline-Editor)
 - [Lagrange Interpolatio](https://www.youtube.com/watch?v=4S6G-zenbFM&t=621s)
 - [bezierjs](https://github.com/Pomax/bezierjs) A nodejs and client-side library for (cubic) Bezier curve work 
 - [bezierinfo中文版](https://pomax.github.io/bezierinfo/zh-CN/index.html)
@@ -2661,7 +2666,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity切片类全息效果](https://mp.weixin.qq.com/s/vUmuq3Tek4vypJiy7da4Sw)
 ##### Matrix
 - https://github.com/IRCSS/MatrixVFX
- 
+ ##### Dissolve
+ - [hyperspace-teleport-urp](https://assetstore.unity.com/packages/vfx/hyperspace-teleport-urp-214050)
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
 
@@ -2716,6 +2722,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chenjd/Unity_UI_Gamma
 - https://github.com/tkweizhong/CustomURP
 - https://github.com/AkilarLiao/ForwardPlusURP
+- https://github.com/bcrusco/Forward-Plus-Renderer
 - https://github.com/wlgys8/SRPLearn
 - https://github.com/Cyanilux/URP_BlitRenderFeature
 - https://github.com/AKGWSB/ToyRenderPipeline
