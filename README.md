@@ -261,7 +261,6 @@ Table of Contents
     - [DOTS](#dots)
       - [Article](#article-6)
     - [Navmesh](#navmesh)
-    - [Tile map](#tile-map)
     - [Bone&&Spring](#bonespring)
     - [Create Model](#create-model)
     - [Mesh](#mesh)
@@ -954,7 +953,12 @@ Table of Contents
 - [SuperTiled2Unity] (https://github.com/Seanba/SuperTiled2Unity) Imports Tiled files to Unity. Better than regular Tiled2Unity. 
 - [tile-map-accelerator](https://forum.unity.com/threads/tile-map-accelerator-high-performance-shader-based-tile-map-renderer.708413/)
 - [tileplus](https://assetstore.unity.com/packages/tools/sprite-management/tileplus-toolkit-201027)
-
+-  https://github.com/Cammin/LDtkToUnity
+ - Isometric unity-plugin
+ - Ultimate Grids Engine unity-plugin
+ - KUBIKOS - 3D Cube World unity-plugin
+ - hex map unity-plugin
+ 
 #### Design
 - https://www.zcool.com.cn
 - https://www.gtn9.com/index.aspx
@@ -1034,7 +1038,7 @@ Table of Contents
 - [超强一键生成特效常用贴图网站介绍！](https://www.bilibili.com/video/BV1ub411U7Jc/?spm_id_from=autoNext)
 - [texturelab](https://github.com/njbrown/texturelab) About Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
 - [pixaflux](http://pixaflux.com/) Create custom CG materials using a non-destructive, node-based workflow.
-- [texturecauldron](https://soerbgames.itch.io/texturecauldron) Texture Cauldron is a node based tool to generate detailed tileable textures.
+- [texturecauldron](https://soerbgames.itch.io/texturecauldron) Texture Cauldron is a node based tool to generate detailed able textures.
 - [filterforge](https://filterforge.com/) Mighty graphics software with thousands of photo effects and seamless textures, and an editor to create your own filters.
 - https://github.com/caosdoar/Fornos
  #### Atlas
@@ -2601,6 +2605,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/lilxyzw/lilToon
 - [kamakura](https://github.com/kayac/kamakura-shaders) toon shader 
 - https://github.com/you-ri/LiliumToonGraph
+- https://github.com/yoship1639/UniToon
 - https://github.com/madumpa/URP_StylizedLitShader 
 
 #### SDF
@@ -3448,12 +3453,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://mp.weixin.qq.com/s/MIGnEW_VxOBAHNm9uAu5AQ
 - https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
 - https://github.com/ppiastucki/recast4j
-#### Tile map 
- - Isometric
- - Ultimate Grids Engine
- - KUBIKOS - 3D Cube World
- - hex map
- 
+
 #### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
  - [dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
