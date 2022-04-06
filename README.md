@@ -1764,6 +1764,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [zapnet](https://github.com/deadgg/zapnet)  Zapnet is a Unity framework for game networking built with Lidgren
 * [Imp.NET](https://github.com/DouglasDwyer/Imp.NET) Imp.NET is a fast, high-level, object-oriented C# networking library that supports the invocation of remote methods through proxy interface objects.
 * [RRQMSocket](https://github.com/RRQM/RRQMSocket) RRQMSocket是一个整合性网络通信框架，特点是支持高并发、事件驱动、易用性强、二次开发难度低等。其中主要内容包括:TCP、UDP服务通信框架、大文件传输、RPC、WebSocket、WebApi、XmlRpc、JsonRpc等内容
+* [FastTunnel](https://github.com/FastTunnel/FastTunnel) expose a local server to the internet. 高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
+* [weaving-socket](https://gitee.com/dotnetchina/weaving-socket) 支持.NET5.0，core, U3D,物联网，web,通用，网关 socket通讯,架构带有内置协议，保证数据完整.
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
