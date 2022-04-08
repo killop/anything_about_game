@@ -64,13 +64,15 @@ Table of Contents
 - [Animation](#animation)
     - [Article/Collection](#articlecollection)
     - [Animation-DCC-Tool](#animation-dcc-tool)
-    - [Animation Controller](#animation-controller)
     - [GPU-Animation](#gpu-animation)
     - [Mesh Animation](#mesh-animation)
     - [Vertex Animation](#vertex-animation)
     - [Tween](#tween)
     - [Physics Based Animation](#physics-based-animation)
     - [MotionMatching](#motionmatching)
+    - [Movement](#movement)
+    - [Animation Controller](#animation-controller)
+    - [Character-Controller](#character-controller)
     - [Unity-Tool](#unity-tool)
 - [Console/Command/Shell/Debugger](#consolecommandshelldebugger)
 - [Scenes](#scenes)
@@ -274,8 +276,6 @@ Table of Contents
         - [Article](#article-7)
     - [Message Bus](#message-bus)
     - [Time control](#time-control)
-    - [Movement](#movement)
-    - [Character-Controller](#character-controller)
     - [Tips](#tips)
     - [GamePlay](#gameplay)
 - [知识库软件/笔记软件](#知识库软件笔记软件)
@@ -1065,18 +1065,7 @@ Table of Contents
 - [creature](http://creature.kestrelmoon.com/index.html)
 - [spritestudio](http://www.webtech.co.jp/spritestudio/)
 - [mixamo](https://www.mixamo.com/#/)
-#### Animation Controller
-- https://github.com/hiroki-o/VoxBlend unity  表情
-- https://github.com/rurre/PumkinsAvatarTools unity 表情
-- https://github.com/huailiang/knead_proj unity  捏脸
-- https://assetstore.unity.com/packages/tools/animation/puppet-face-181312
-- https://github.com/PixelWizards/BlendShapeController blendShapeController
-- https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
-- https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
-- [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
-- https://github.com/fengkan/RuntimeRetargeting
-- https://github.com/robotron2084/animation-retargeting
-- [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
+
 #### GPU-Animation
 - [Unity-Gpu-Skinning-Tool](https://github.com/ForeverZack/Unity-Gpu-Skinning-Tool)
 - [Animation-Texture-Bake](https://github.com/sugi-cho/Animation-Texture-Baker)
@@ -1126,13 +1115,56 @@ Table of Contents
 - [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
 - [binh.graphics](http://binh.graphics/)
 - [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
-
 #### MotionMatching
 - https://github.com/dreaw131313/Open-Source-Motion-Matching-System
 - https://www.zhihu.com/people/fengkan
 - https://assetstore.unity.com/packages/tools/animation/motion-matching-for-unity-145624 
 - https://github.com/orangeduck/Motion-Matching
 - https://forum.unity.com/threads/released-want-good-3d-character-animation-but-are-short-on-time-budget-or-training-help-is-here.392317/
+#### Movement
+- [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html) 
+- [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
+- ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
+-  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
+-  https://github.com/Unity-Technologies/SuperScience 官方3rd 移动模拟
+-  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
+-  https://github.com/jongallant/Unity-Bullet-Hell
+-  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
+-  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
+-  [AnimeTask](https://github.com/kyubuns/AnimeTask)
+-  https://github.com/GiovanniZambiasi/Client-Side-Prediction
+-  [Fluent Animation - An incredible animation queue system](https://assetstore.unity.com/packages/tools/animation/fluent-animation-an-incredible-animation-queue-system-84715) unity-plugin
+-  https://github.com/rygo6/CardExample-Unity
+-  https://github.com/ycarowr/UiCard
+-  https://github.com/CragonGame/CasinosClient
+#### Animation Controller
+- https://github.com/hiroki-o/VoxBlend unity  表情
+- https://github.com/rurre/PumkinsAvatarTools unity 表情
+- https://github.com/huailiang/knead_proj unity  捏脸
+- https://assetstore.unity.com/packages/tools/animation/puppet-face-181312
+- https://github.com/PixelWizards/BlendShapeController blendShapeController
+- https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
+- https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
+- [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
+- https://github.com/fengkan/RuntimeRetargeting
+- https://github.com/robotron2084/animation-retargeting
+- [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
+- [protores](https://unity-technologies.github.io/Labs/protores.html) ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics
+- [UnityKinematicaX](https://github.com/voxell-tech/UnityKinematicaX) A next-generation character animation system built on top of Unity's Kinematica.
+- [kinematica](https://docs.unity3d.com/Packages/com.unity.kinematica@0.8/manual/index.html)
+#### Character-Controller
+- [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
+- [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
+- [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
+- [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
+- [Erbium](https://github.com/mikhomak/Erbium)  🤺Third Person Character Controller for unity🤺 
+- [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
+- [Traverser](https://aitorsimona.github.io/Traverser/) 
+- [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
+- https://github.com/ssell/UnityDotsCharacterController 
+- https://github.com/nicholas-maltbie/OpenKCC
+- https://github.com/runevision/LocomotionSystem
+- [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
@@ -3578,35 +3610,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
-#### Movement
-- [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html) 
-- [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
-- ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
--  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
--  https://github.com/Unity-Technologies/SuperScience 官方3rd 移动模拟
--  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
--  https://github.com/jongallant/Unity-Bullet-Hell
--  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
--  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
--  [AnimeTask](https://github.com/kyubuns/AnimeTask)
--  https://github.com/GiovanniZambiasi/Client-Side-Prediction
--  [Fluent Animation - An incredible animation queue system](https://assetstore.unity.com/packages/tools/animation/fluent-animation-an-incredible-animation-queue-system-84715) unity-plugin
--  https://github.com/rygo6/CardExample-Unity
--  https://github.com/ycarowr/UiCard
--  https://github.com/CragonGame/CasinosClient
-#### Character-Controller
-- [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
-- [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
-- [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
-- [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
-- [Erbium](https://github.com/mikhomak/Erbium)  🤺Third Person Character Controller for unity🤺 
-- [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
-- [Traverser](https://aitorsimona.github.io/Traverser/) 
-- [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
-- https://github.com/ssell/UnityDotsCharacterController 
-- https://github.com/nicholas-maltbie/OpenKCC
-- https://github.com/runevision/LocomotionSystem
-- [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
+
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 
