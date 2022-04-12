@@ -1036,6 +1036,7 @@ Table of Contents
 - https://github.com/weihaox/awesome-image-translation
 - [procedural-stochastic-texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) Modified Shader Graph package implementing Procedural Stochastic Texturing 
 - [超强一键生成特效常用贴图网站介绍！](https://www.bilibili.com/video/BV1ub411U7Jc/?spm_id_from=autoNext)
+- [noisegen](https://www.vertexfragment.com/noisegen/)
 - [texturelab](https://github.com/njbrown/texturelab) About Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
 - [pixaflux](http://pixaflux.com/) Create custom CG materials using a non-destructive, node-based workflow.
 - [texturecauldron](https://soerbgames.itch.io/texturecauldron) Texture Cauldron is a node based tool to generate detailed able textures.
@@ -1164,6 +1165,7 @@ Table of Contents
 - https://github.com/ssell/UnityDotsCharacterController 
 - https://github.com/nicholas-maltbie/OpenKCC
 - https://github.com/runevision/LocomotionSystem
+- https://github.com/ssell/UnityDotsCharacterController
 - [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
@@ -3346,13 +3348,15 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Rosalina](https://github.com/Eastrall/Rosalina) Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
-- https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库
 - https://github.com/JingFengJi/UpdateSpriteAssetTool
-- https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
-- https://github.com/redbluegames/unity-text-typer 
 - https://github.com/Elringus/SpriteDicing 这才叫图集工具
 - https://github.com/scottcgi/MojoUnity-Packages
 - https://github.com/coding2233/TextInlineSprite
+- https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
+- https://github.com/akof1314/Unity-TextMeshPro-DynamicText
+- https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
+- https://github.com/garsonlab/GText
+- https://github.com/redbluegames/unity-text-typer  
 - [easy-multiple-healthbar](https://assetstore.unity.com/packages/tools/gui/easy-multiple-healthbar-193986)
 - https://uiforia.io/
 - https://github.com/LudiKha/Graphene
@@ -3517,6 +3521,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [Mount Points](https://assetstore.unity.com/packages/tools/animation/mount-points-16318) unity-plugin
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
  - [LyumaMeshTools](https://github.com/lyuma/LyumaShader/blob/master/LyumaShader/Editor/LyumaMeshTools.cs)
+ - https://github.com/BennyKok/unity-hotspot-uv
  - [mudbun-volumetric-vfx-mesh](https://assetstore.unity.com/packages/tools/particles-effects/mudbun-volumetric-vfx-mesh-tool-177891) unity plugin
  - [clayxels](https://assetstore.unity.com/packages/tools/game-toolkits/clayxels-165312) unity plugin
  -  https://github.com/nementic-games/mesh-debugging
