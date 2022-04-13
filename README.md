@@ -1227,6 +1227,7 @@ Table of Contents
 - [Hey-Area-Object-Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner)
 - https://github.com/Ogbest/Unity_MapEditor_Terrain 动态渲染Unity地形网格，记录网格是否是玩家的行走范围，然后导出编辑好的网格用于服务器导航、验证使用 
 - https://github.com/Caeden117/ChroMapper -- 地图编辑器 
+- [real-world-terrai](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752) unity-plugin
 #### Procedurally-Generation
 - [real-ivy-2-procedural-ivy-generator](https://assetstore.unity.com/packages/tools/modeling/real-ivy-2-procedural-ivy-generator-181402) unity-plugin
 - [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
@@ -2602,6 +2603,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [cmake-raytracer](https://github.com/64/cmake-raytracer)
 - https://developer.download.nvidia.com/ray-tracing-gems/rtg2-chapter30-preprint.pdf
 #### NPR
+- https://space.bilibili.com/32731698/channel/collectiondetail?sid=153541
 - https://github.com/TechMiZ/ToonShadingCollection
 - http://stylized.realtimerendering.com/
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
