@@ -363,6 +363,7 @@ Table of Contents
 - https://github.com/mehdihadeli/awesome-software-architecture
 ## News
 #### Game
+- [独立游戏共建知识百科](https://docs.qq.com/sheet/DWWtxbVFWZ25OZWJU?tab=krff6o)
 - [rawg](https://rawg.io/)
 - [metacritic](https://www.metacritic.com/game)
 - [indienova](https://indienova.com/)
@@ -1644,6 +1645,7 @@ Table of Contents
 * matter - C++17/20 ECS implementation [[github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)]
 
 #### C#
+- https://github.com/ludaludaed/KECS/
 - https://github.com/PixeyeHQ/actors - ecs框架，代码不错
 * DefaultEcs - ECS for syntax and usage simplicity with maximum performance [[github](https://github.com/Doraku/DefaultEcs) ![Doraku/DefaultEcs](https://img.shields.io/github/stars/Doraku/DefaultEcs.svg?style=flat&label=Star&maxAge=86400)]
 * Svelto.ECS - Lightweight data oriented entity component system framework [[github](https://github.com/sebas77/Svelto.ECS) ![sebas77/Svelto.ECS](https://img.shields.io/github/stars/sebas77/Svelto.ECS.svg?style=flat&label=Star&maxAge=86400)] and here is a [example](https://github.com/sebas77/Svelto.MiniExamples)
@@ -1907,6 +1909,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### 3D Engines and Frameworks
 * [mach](https://github.com/hexops/mach) Mach is a game engine & graphics toolkit for the future.
 * [RenderLab](https://github.com/Ubpa/RenderLab) 渲染实验室，包含了实时渲染，离线渲染和场景编辑的功能
+* [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects
 * [kajiya](https://github.com/EmbarkStudios/kajiya) Experimental real-time global illumination renderer 
 * [ray-mmd](https://github.com/ray-cast/ray-mmd) The project is designed to create a physically-based rendering at mikumikudance
 * [neoGFX](https://github.com/i42output/neoGFX) Cross-platform GPU-oriented C++ application/game framework
@@ -2704,6 +2707,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 ##### Fur
 - http://sorumi.xyz/posts/unity-fur-shader/
+- https://github.com/hecomi/UnityFurURP
 - [XFur Studio 2 unity-plugin](https://assetstore.unity.com/packages/tools/particles-effects/pidi-xfur-studio-2-ultimate-edition-145885)
 - https://zhuanlan.zhihu.com/p/446221956
 #####  Holographic
@@ -2735,6 +2739,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/eliasts/Ocean_Community_Next_Gen
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
 - https://github.com/bearworks/URPOcean
+- https://github.com/wave-harmonic/water-resources
 - [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-) [Blog](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
 ##### Crystal
 - https://github.com/CJT-Jackton/URP-Anime-Crystal-Shader
@@ -2771,6 +2776,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Cyanilux/URP_BlitRenderFeature
 - https://github.com/AKGWSB/ToyRenderPipeline
 - https://github.com/GuardHei/UltimateTAA
+- https://github.com/sienaiwun/TAA_Unity_URP
 - https://github.com/GuardHei/SRP
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
 - https://github.com/Looooong/Unity-SRP-VXGI
@@ -3226,6 +3232,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
 - [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
 - [YooAsset](https://github.com/tuyoogame/YooAsset) 途游 unity3d resource system
+- [AssetBundleLoadManager](https://github.com/TonyTang1990/AssetBundleLoadManager)
 - [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) Yet another asset bundle manager for Unity.
 - [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) A rule based addressable asset importer 
 - [HiAssetBundle_unity](https://github.com/hiramtan/HiAssetBundle_unity) Unity's asset bundle solution for end-users to access resources dynamically at runtime. 
