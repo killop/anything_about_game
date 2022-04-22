@@ -21,6 +21,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - [原神角色渲染Shader分析还原](https://zhuanlan.zhihu.com/p/360229590)
 - [【Unity技术美术】 原神Shader渲染还原解析](https://zhuanlan.zhihu.com/p/435005339)
 - [卡通渲染介绍 及通过blender还原原神卡通渲染](https://zhuanlan.zhihu.com/p/459947825)
+- [Blender-miHoYo-Shaders](https://github.com/Festivize/Blender-miHoYo-Shaders)
 ## 塞尔达传说：荒野之息
 - [为你分析历代《塞尔达传说》的美术设定与动画技术](https://www.taptap.com/topic/2604022?region=jp)
 - [《塞尔达传说：旷野之息》技术分析文章](https://www.bilibili.com/read/cv3239418)

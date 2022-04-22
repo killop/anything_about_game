@@ -19,6 +19,7 @@ Table of Contents
     - [CG](#cg)
     - [HardWare](#hardware)
     - [Digest](#digest)
+    - [UnityRoadMap](#unityroadmap)
     - [Common](#common)
     - [Js/Web](#jsweb)
     - [Java](#java)
@@ -415,6 +416,8 @@ Table of Contents
 - [hardforum](https://hardforum.com/)
 #### Digest
 - [game-dev-digest](https://gamedevdigest.com/digests.html)
+#### UnityRoadMap
+- [UnityRoadMap](https://unity.com/cn/roadmap/unity-platform/)
 #### Common
 - https://www.libhunt.com/
 - https://news.ycombinator.com/news hacker news
@@ -536,6 +539,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [diharaw](https://diharaw.github.io/) TA GI
 - [nvjob](https://nvjob.github.io/)TA
 - [jasonbooth](https://medium.com/@jasonbooth_86226) TA
 - [andbc](http://andbc.co/home/) TA
@@ -1163,7 +1167,6 @@ Table of Contents
 - [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
 - [Traverser](https://aitorsimona.github.io/Traverser/) 
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
-- https://github.com/ssell/UnityDotsCharacterController 
 - https://github.com/nicholas-maltbie/OpenKCC
 - https://github.com/runevision/LocomotionSystem
 - https://github.com/ssell/UnityDotsCharacterController
@@ -1910,6 +1913,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [mach](https://github.com/hexops/mach) Mach is a game engine & graphics toolkit for the future.
 * [RenderLab](https://github.com/Ubpa/RenderLab) 渲染实验室，包含了实时渲染，离线渲染和场景编辑的功能
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects
+* [hybrid-rendering](https://github.com/diharaw/hybrid-rendering) A Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
 * [kajiya](https://github.com/EmbarkStudios/kajiya) Experimental real-time global illumination renderer 
 * [ray-mmd](https://github.com/ray-cast/ray-mmd) The project is designed to create a physically-based rendering at mikumikudance
 * [neoGFX](https://github.com/i42output/neoGFX) Cross-platform GPU-oriented C++ application/game framework
@@ -2446,6 +2450,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://gist.github.com/yasirkula/d8fa2fb5f22aefcc7a232f6feeb91db7
 * https://github.com/needle-tools/shader-variant-explorer
 #### Course/Article
+- https://techartaid.com/cheatsheet/
 - [技术美术学习大纲](https://zhuanlan.zhihu.com/p/401525846)
 - [图形学硬件拾遗](https://zhuanlan.zhihu.com/p/371469482)
 - [Life of a triangle](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
@@ -2777,6 +2782,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/AKGWSB/ToyRenderPipeline
 - https://github.com/GuardHei/UltimateTAA
 - https://github.com/sienaiwun/TAA_Unity_URP
+- https://github.com/Raphael2048/URPTAA 
 - https://github.com/GuardHei/SRP
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
 - https://github.com/Looooong/Unity-SRP-VXGI
@@ -3193,12 +3199,14 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [BorrowScript](https://github.com/alshdavid/BorrowScript)
 
 #### Collection
+- https://langium.org/
 - https://github.com/shining1984/PL-Compiler-Resource
 - https://github.com/alilleybrinker/langs-in-rust
 - https://github.com/prathyvsh/pl-catalog
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
 - [awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
 - [awesome-language-engineering](https://github.com/NLKNguyen/awesome-language-engineering)
+- https://github.com/ChessMax/awesome-programming-languages
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -3714,6 +3722,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://zhuanlan.zhihu.com/p/411366466
 ## Interest is the best teacher 
 - https://youquhome.com/ 
+- https://github.com/geekan/HowToLiveLonger
+- https://cook.yunyoujun.cn/
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 - http://www.iqsuperman.net/ IQ 超人
 - https://www.allhistory.com 全历史
