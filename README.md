@@ -106,12 +106,12 @@ Table of Contents
     - [Json](#json)
 - [Huge-World](#huge-world)
 - [DataBase](#database)
-    - [c](#c)
+    - [c#](#c)
 - [ECS Libraries](#ecs-libraries)
     - [Collection](#collection-3)
 - [AI-ML](#ai-ml)
     - [C/C++](#cc)
-    - [C](#c-1)
+    - [C#](#c-1)
     - [Python](#python)
     - [Rust](#rust-1)
     - [Lua](#lua)
@@ -124,7 +124,7 @@ Table of Contents
 - [Authorization](#authorization)
 - [NetWork](#network)
     - [Articles](#articles)
-    - [C](#c-2)
+    - [C#](#c-2)
     - [C/CPP](#ccpp)
     - [Rust](#rust-2)
     - [Web/Http](#webhttp)
@@ -226,7 +226,7 @@ Table of Contents
 - [Javascript](#javascript)
 - [Lua](#lua-1)
 - [Typescript](#typescript)
-- [C](#c-6)
+- [C#](#c-6)
 - [C](#c-7)
 - [CPP](#cpp-1)
 - [Java](#java-1)
@@ -2118,6 +2118,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Unity坐标系变换那些事](https://zhuanlan.zhihu.com/p/438828654)
 - [图形学中常见的数学困惑](https://zhuanlan.zhihu.com/p/413224014)
 - [图形学常见的变换推导](http://frankorz.com/2020/07/26/transformation/)
+- https://thenumbat.github.io/Exponential-Rotations/
 ##  Physics
 #### Physics Framework
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
@@ -2474,6 +2475,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- https://github.com/Xibanya/ShaderTutorials
 - https://github.com/z3y/shaders
 - https://github.com/sam20191128/shader_URP
 - https://github.com/orels1/orels-Unity-Shaders filament unity shader
@@ -2793,6 +2795,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 - [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
+- https://github.com/Eukky/UnityShadows
 #### GPGPU
 - https://github.com/arrayfire/arrayfire
 - [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp)
@@ -3338,6 +3341,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [[Unity 活动]-浅谈Unity内存管理](https://www.bilibili.com/video/av79798486/)
 - [解读MONO内存管理：BOEHM GC原理及总结](https://zhuanlan.zhihu.com/p/41398507)
 #### Asyn-Await
+- https://github.com/timcassell/ProtoPromise
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
 - https://github.com/Cysharp/UniTask
 - https://github.com/Arvtesh/UnityFx.Async
@@ -3721,6 +3725,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://zhuanlan.zhihu.com/p/22098814 
 - https://zhuanlan.zhihu.com/p/411366466
 ## Interest is the best teacher 
+- https://github.com/alaskasquirrel/Chinese-Podcasts
 - https://youquhome.com/ 
 - https://github.com/geekan/HowToLiveLonger
 - https://cook.yunyoujun.cn/
