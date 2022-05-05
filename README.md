@@ -2687,6 +2687,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [NativeSDF](https://github.com/Amarcolina/NativeSDF) Evaluate signed-distance-fields with speed using Unity Jobs and Burst
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 * [A Dataset and Explorer for 3D Signed Distance Functions](https://jcgt.org/published/0011/02/01/)
+* [sdf-explorer](https://github.com/tovacinni/sdf-explorer)
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
