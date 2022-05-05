@@ -173,6 +173,7 @@ Table of Contents
     - [RenderingAssets](#renderingassets)
     - [GPU-Architecture](#gpu-architecture)
     - [Optimize](#optimize)
+    - [imposters](#imposters)
     - [Physically-Based-Render](#physically-based-render)
     - [Ray Tracing](#ray-tracing)
     - [NPR](#npr)
@@ -539,6 +540,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [gamehacker1999](https://gamehacker1999.github.io/) TA GI
 - [diharaw](https://diharaw.github.io/) TA GI
 - [nvjob](https://nvjob.github.io/)TA
 - [jasonbooth](https://medium.com/@jasonbooth_86226) TA
@@ -1171,6 +1173,7 @@ Table of Contents
 - https://github.com/runevision/LocomotionSystem
 - https://github.com/ssell/UnityDotsCharacterController
 - [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
+- https://github.com/Wafflus/unity-genshin-impact-movement-system
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
@@ -1229,7 +1232,7 @@ Table of Contents
 - [prefab-world-builder](https://assetstore.unity.com/packages/tools/level-design/prefab-world-builder-185406) unity-plugin
 - [grabbit-editor-physics-transforms](https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328) unity-plugin
 - [Hey-Area-Object-Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner)
-- https://github.com/Ogbest/Unity_MapEditor_Terrain 动态渲染Unity地形网格，记录网格是否是玩家的行走范围，然后导出编辑好的网格用于服务器导航、验证使用 
+- https://github.com/Ogbest/Unity_MapEditor_Terrain 动态渲染Unity地形网格，记录网格是否是玩家的行走范围，然后导出编辑好的网格用于服务器导航、验证使用 https://github.com/frankhjwx/Unity-ShaderCharDisplay
 - https://github.com/Caeden117/ChroMapper -- 地图编辑器 
 - [real-world-terrai](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752) unity-plugin
 #### Procedurally-Generation
@@ -1264,6 +1267,7 @@ Table of Contents
 - [InfinityFoliage](https://github.com/haolange/InfinityFoliage)
 - [GrassBending](https://github.com/Elringus/GrassBending) A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect
 - [HiZ_grass_culling](https://github.com/jackie2009/HiZ_grass_culling)
+- https://github.com/Milk-Drinker01/Milk_Instancer01
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1381,6 +1385,7 @@ Table of Contents
 - [CASCExplorer](https://github.com/WoW-Tools/CASCExplorer) CASCExplorer
 - [nefsedit](https://github.com/victorbush/ego.nefsedit) NeFS archive editor for Ego Engine
 - [SoulsFormats](https://github.com/JKAnderson/SoulsFormats) A .NET library for reading and writing FromSoftware file formats.
+- [Switch-Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) A tool to edit many video game file formats
  
 ## Version-Control
 - https://semver.org/lang/zh-CN/   -- 版本号规范
@@ -1915,6 +1920,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects
 * [hybrid-rendering](https://github.com/diharaw/hybrid-rendering) A Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
 * [kajiya](https://github.com/EmbarkStudios/kajiya) Experimental real-time global illumination renderer 
+* [Cafe-Shader-Studio](https://github.com/KillzXGaming/Cafe-Shader-Studio)
+* [EveryRay-Rendering-Engine](https://github.com/steaklive/EveryRay-Rendering-Engine) Robust real-time rendering engine on DirectX 11 with many advanced graphics features for quick prototyping
 * [ray-mmd](https://github.com/ray-cast/ray-mmd) The project is designed to create a physically-based rendering at mikumikudance
 * [neoGFX](https://github.com/i42output/neoGFX) Cross-platform GPU-oriented C++ application/game framework
 * [SpartanEngine](https://github.com/PanosK92/SpartanEngine)
@@ -2119,6 +2126,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [图形学中常见的数学困惑](https://zhuanlan.zhihu.com/p/413224014)
 - [图形学常见的变换推导](http://frankorz.com/2020/07/26/transformation/)
 - https://thenumbat.github.io/Exponential-Rotations/
+- https://github.com/Milk-Drinker01/CoR-Skinning
 ##  Physics
 #### Physics Framework
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
@@ -2234,6 +2242,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Android GPU Inspector](https://gpuinspector.dev/)
 - [ShaderDebugger](https://github.com/arigo/ShaderDebugger) unity-shader-debugger
 - [UnityShaderDebug](https://github.com/yujen/UnityShaderDebug) This material can print shader value. 
+- [Unity-ShaderCharDisplay](https://github.com/frankhjwx/Unity-ShaderCharDisplay)
 - [ShaderDebug](https://github.com/zouchunyi/ShaderDebug) 详细文档参见知乎： https://zhuanlan.zhihu.com/p/104643601
 - [pix]( https://devblogs.microsoft.com/pix/documentation/)
 - [WaitForTargetFPS、Gfx.WaitForPresent](https://blog.csdn.net/yudianxia/article/details/79398590?)
@@ -2587,6 +2596,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 -  https://software.intel.com/en-us/gamedev 
 -  http://developer.download.nvidia.com/GPU_Programming_Guide/GPU_Programming_Guide.pdf
 -  [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
+####  imposters
+- [vrsi-imposters](https://assetstore.unity.com/packages/tools/modeling/vrsi-virtual-reality-stereo-imposters-206167) 
 #### Physically-Based-Render
 - https://blog.selfshadow.com/publications/
 - https://github.com/neil3d/awesome-pbr
@@ -2675,6 +2686,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [What-Are-SDFs-Anyway](https://joyrok.com/What-Are-SDFs-Anyway)
 * [NativeSDF](https://github.com/Amarcolina/NativeSDF) Evaluate signed-distance-fields with speed using Unity Jobs and Burst
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
+* [A Dataset and Explorer for 3D Signed Distance Functions](https://jcgt.org/published/0011/02/01/)
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -2830,10 +2842,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Robert-K/gpu-particles
 - https://github.com/Ninjajie/Fusion
 - https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
+- https://github.com/EmmetOT/BufferSorter
 - https://github.com/krylov-na/Compute-shader-particles
 - https://github.com/IRCSS/Procedural-painting
 - https://github.com/keijiro/Swarm
-- https://github.com/ToruNiina/lbvh
 - https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
 - https://github.com/TarAlacrin/HeightmapOnTheGPU
@@ -2871,6 +2883,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 - [bvh](https://github.com/madmann91/bvh) About A modern C++ BVH construction and traversal library 
 - [DragonSpace](https://github.com/Appleguysnake/DragonSpace-Demo) A simple boids simulation to show the difference between implementations of a few spatial partitioning structures in Unity.
+- https://github.com/ToruNiina/lbvh
+- https://github.com/EmmetOT/BoundingVolumeHierarchy
 #### Post-Process
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/tkonexhh/X-PostProcessing-URP
@@ -3375,6 +3389,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/coding2233/TextInlineSprite
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
 - https://github.com/akof1314/Unity-TextMeshPro-DynamicText
+- https://github.com/jp-netsis/RubyTextMeshPro
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/garsonlab/GText
 - https://github.com/redbluegames/unity-text-typer  
@@ -3389,6 +3404,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/coding2233/TextInlineprite
 - https://gitcode.net/linxinfa/UnityEmojiTextDemo
 - https://edu.uwa4d.com/course-intro/0/127
+- https://github.com/Unity-UI-Extensions/com.unity.uiextensions
 - [modular](https://assetstore.unity.com/packages/3d/gui/modular-3d-text-in-game-3d-ui-system-159508) unity 3d ui
 - https://github.com/mattak/Unidux
 - https://github.com/kirurobo/UniWindowController 
