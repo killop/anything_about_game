@@ -1434,6 +1434,7 @@ Table of Contents
 - https://github.com/dotnwat/awesome-seastar
 - https://github.com/TrinityCore/TrinityCore
 - https://github.com/azerothcore/azerothcore-wotlk
+- https://github.com/rathena/rathena 
 - https://github.com/ylmbtm/GameProject3
 - https://github.com/Cysharp/MagicOnion
 - https://github.com/egametang/ET
