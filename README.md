@@ -1606,6 +1606,7 @@ Table of Contents
 - https://github.com/leandromoh/RecordParser
 - https://github.com/RudolfKurka/StructPacker
 - https://github.com/wqaetly/OdinSerializerForNetCore
+- https://github.com/KrzysztofCwalina/POLE
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
