@@ -2698,6 +2698,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Shrimpey/UltimateOutline
 - https://www.patreonm/posts/urp-mesh-part-1-55990741
 - https://github.com/IronWarrior/UnityOutlineShader
+- https://github.com/Arvtesh/UnityFx.Outline
 - [sdf-outline](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/corgi-sdf-outlines-aka-stroke-outlines-for-urp-206960) unity-plugin
 
 #### VirturalTexture
