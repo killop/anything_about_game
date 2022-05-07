@@ -204,6 +204,7 @@ Table of Contents
     - [GPU Driven](#gpu-driven)
     - [GPU-Particle](#gpu-particle)
     - [BVH](#bvh)
+    - [SVG](#svg)
     - [Post-Process](#post-process)
     - [MatCaps](#matcaps)
     - [SphericalHarmonicLighting](#sphericalharmoniclighting)
@@ -2225,7 +2226,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
 - [MemoryProfiler](https://github.com/larryhou/MemoryProfiler)
 - [speedscope](https://www.speedscope.app/)
-- https://github.com/vertxxyz/Vertx.Debugging
+- [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Debugging Utilities for Unity
+- [lineburst](https://github.com/bassmit/lineburst)  Plot functions and draw large amounts of debug lines, shapes and text to the Unity game and scene view
 
 #### GPU
 - https://github.com/taptap/render-doctor
@@ -2887,6 +2889,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [DragonSpace](https://github.com/Appleguysnake/DragonSpace-Demo) A simple boids simulation to show the difference between implementations of a few spatial partitioning structures in Unity.
 - https://github.com/ToruNiina/lbvh
 - https://github.com/EmmetOT/BoundingVolumeHierarchy
+
+#### SVG
+- [Berny_Core](https://github.com/Reavenk/Berny_Core)
+- [UnityGPUVectorGraphics](https://github.com/voxell-tech/UnityGPUVectorGraphics)
 #### Post-Process
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/tkonexhh/X-PostProcessing-URP
@@ -3532,6 +3538,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://mp.weixin.qq.com/s/MIGnEW_VxOBAHNm9uAu5AQ
 - https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
 - https://github.com/ppiastucki/recast4j
+- https://github.com/Cr33zz/Nav
 
 #### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
