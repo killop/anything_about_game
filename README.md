@@ -1071,6 +1071,7 @@ Table of Contents
 - [live3d](http://www.zingfront.cn/live3d/)
 - [live2d](https://www.live2d.com/)
 - [dragonbones](http://dragonbones.effecthub.com/) 
+- [SpriterDotNet](https://github.com/loodakrawa/SpriterDotNet)
 - [creature](http://creature.kestrelmoon.com/index.html)
 - [spritestudio](http://www.webtech.co.jp/spritestudio/)
 - [mixamo](https://www.mixamo.com/#/)
@@ -1490,6 +1491,7 @@ Table of Contents
 - [unityai](https://github.com/lazytiger/unityai) golang port of Unity NavMesh module.
 - https://github.com/zhangqi-ulua/ServerFramework
 - https://github.com/mmogdeveloper/MO.Framework
+- https://github.com/Searchstars/Leekcutter
 #### Article
 - https://github.com/briatte/awesome-network-analysis
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
@@ -1657,6 +1659,7 @@ Table of Contents
 * matter - C++17/20 ECS implementation [[github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)]
 
 #### C#
+- https://github.com/neon-age/Ecstasy
 - https://github.com/ludaludaed/KECS/
 - https://github.com/PixeyeHQ/actors - ecs框架，代码不错
 * DefaultEcs - ECS for syntax and usage simplicity with maximum performance [[github](https://github.com/Doraku/DefaultEcs) ![Doraku/DefaultEcs](https://img.shields.io/github/stars/Doraku/DefaultEcs.svg?style=flat&label=Star&maxAge=86400)]
@@ -1748,6 +1751,7 @@ Fast, reliable, scalable.
 - [Ruffles](https://github.com/MidLevel/Ruffles) Lightweight and fully managed reliable UDP library. 
 - [libplanet](https://github.com/planetarium/libplanet) Blockchain core in C#/.NET for persistent peer-to-peer online games 
 - [supersocket](https://docs.supersocket.net/) 国人的骄傲
+- [SAEA](https://github.com/yswenli/SAEA) SAEA.Socket是一个高性能IOCP框架的 TCP，基于dotnet standard 2.0；Src中含有其应用测试场景，例如websocket、rpc、redis驱动、MVC WebAPI、轻量级消息服…
 - [ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) This repository provides a managed C# abstraction of GameNetworkingSockets library which is created and maintained by Valve Software. You will need to build the native library with all required dependencies before you get started.
 - [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
 - [SpaceWizards.Lidgren.Network](https://github.com/space-wizards/SpaceWizards.Lidgren.Network)
@@ -1919,6 +1923,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 
 #### 3D Engines and Frameworks
+* [flowers](https://github.com/ray-cast/flowers) 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
 * [mach](https://github.com/hexops/mach) Mach is a game engine & graphics toolkit for the future.
 * [RenderLab](https://github.com/Ubpa/RenderLab) 渲染实验室，包含了实时渲染，离线渲染和场景编辑的功能
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects
@@ -2815,6 +2820,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
 - https://github.com/Eukky/UnityShadows
+- https://github.com/GavinKG/PerObjectShadowSRP
 #### GPGPU
 - https://github.com/arrayfire/arrayfire
 - [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp)
@@ -3076,6 +3082,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### String
 - https://github.com/benaadams/Ben.StringIntern string intern
 - https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
+- https://github.com/871041532/zstring 零内存消耗的stringbuilder
 - https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
 - https://github.com/snozbot/FastString Alternative to StringBuilder class for Unity games, with minimal memory allocation and faster performance. 
 - https://github.com/MikePopoloski/StringFormatter Zero-allocation string formatting for .NET. 
@@ -3401,6 +3408,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
 - https://github.com/akof1314/Unity-TextMeshPro-DynamicText
 - https://github.com/jp-netsis/RubyTextMeshPro
+- https://github.com/Ikaroon/TMP3D
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/garsonlab/GText
 - https://github.com/redbluegames/unity-text-typer  
@@ -3432,6 +3440,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
 - https://github.com/brunomikoski/Animation-Sequencer
+- https://github.com/instance-id/ElementAnimationToolkit
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
 - [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
@@ -3689,6 +3698,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
 - [Usdk](https://github.com/honghuachen/Usdk) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
 - https://github.com/UNSH/Unity-Apple-Distribution-Workflow
+- https://github.com/tylearymf/UniHacker
 - [buildtool](https://github.com/superunitybuild/buildtool)
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
 - [UnitySkipSplash](https://github.com/psygames/UnitySkipSplash) Skip Unity Splash Screen only one script
@@ -3721,6 +3731,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  
 
 ## workflow
+- https://wiki.eryajf.net/pages/2415.html#_1-%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0%E3%80%82
 - https://github.com/n8n-io/n8n
 - https://github.com/fastlane/fastlane
 - https://github.com/aelassas/Wexflow
