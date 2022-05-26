@@ -1256,7 +1256,7 @@ Table of Contents
 - [cityengine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
 - https://www.raywenderlich.com/3169311-runtime-mesh-manipulation-with-unity
 #### Tree/Vegetation/Grass
-- [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improved
+- [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improve
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
 - [VegetationStudioProExtensions](https://github.com/Roland09/VegetationStudioProExtensions)
 - [vegetation-engine-amplify-impostors](https://assetstore.unity.com/packages/vfx/shaders/the-vegetation-engine-amplify-impostors-module-189099)
@@ -1267,6 +1267,7 @@ Table of Contents
 - [infini-grass](https://assetstore.unity.com/packages/tools/particles-effects/infini-grass-gpu-vegetation-45188)  UnityPlugin
 - [BigworldPlants](https://github.com/tangwilliam/BigworldPlants)
 - [InfinityFoliage](https://github.com/haolange/InfinityFoliage)
+- [OpenWorldGrassDemo](https://github.com/Gamu2059/OpenWorldGrassDemo)
 - [GrassBending](https://github.com/Elringus/GrassBending) A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect
 - [HiZ_grass_culling](https://github.com/jackie2009/HiZ_grass_culling)
 - https://github.com/Milk-Drinker01/Milk_Instancer01
@@ -1579,6 +1580,7 @@ Table of Contents
 - https://github.com/minism/fps-netcode
 - https://github.com/Yinmany/NetCode-FPS
 - https://github.com/CodingCodingK/UnityMobaDemo
+- https://github.com/Mun1z/KingNetwork
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -2494,6 +2496,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- https://github.com/MochiesCode/Mochies-Unity-Shaders
 - https://github.com/Xibanya/ShaderTutorials
 - https://github.com/z3y/shaders
 - https://github.com/sam20191128/shader_URP
@@ -2704,6 +2707,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.patreonm/posts/urp-mesh-part-1-55990741
 - https://github.com/IronWarrior/UnityOutlineShader
 - https://github.com/Arvtesh/UnityFx.Outline
+- https://github.com/malyawka/URP-ScreenSpaceCavity
 - [sdf-outline](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/corgi-sdf-outlines-aka-stroke-outlines-for-urp-206960) unity-plugin
 
 #### VirturalTexture
@@ -2819,6 +2823,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 - [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
+- [ltcgi](https://github.com/PiMaker/ltcgi) Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat.
 - https://github.com/Eukky/UnityShadows
 - https://github.com/GavinKG/PerObjectShadowSRP
 #### GPGPU
@@ -3066,7 +3071,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport) Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. 
 - https://github.com/mono/Embeddinator-4000
 - [NativeOctree](https://github.com/marijnz/NativeOctree)
-- [SharedMemory](https://github.com/spazzarama/SharedMemory)  C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
+- [SharedMemory](https://github.com/justinstenning/SharedMemory) C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
 - [interprocess](https://github.com/cloudtoid/interprocess) A cross-platform shared memory queue for fast communication between processes (Interprocess Communication or IPC).
 - [DawgSharp](https://github.com/bzaar/DawgSharp) DAWG String Dictionary in C# 
 - [Towel](https://github.com/ZacharyPatten/Towel) A .NET library intended to make coding a bit more towelerable: data structures, algorithms, mathematics, metadata, extensions, console, and more. :)
