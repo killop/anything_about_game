@@ -364,6 +364,7 @@ Table of Contents
 - https://github.com/33nano/awesome-Gentools
 - https://github.com/MattPD/cpplinks
 - https://github.com/mehdihadeli/awesome-software-architecture
+- https://github.com/sacridini/Awesome-Geospatial
 ## News
 #### Game
 - [独立游戏共建知识百科](https://docs.qq.com/sheet/DWWtxbVFWZ25OZWJU?tab=krff6o)
@@ -793,6 +794,7 @@ Table of Contents
 - http://www.gamedev.net/classifieds - GameDev.net 工作版块。
 - http://forum.deviantart.com/jobs/ - 太多具有才华的人了，不过许多都没有游戏工作经历，但还是一个值得看看的地方。只针对有酬劳的工作。
 - https://www.3dmodelscc0.com/ - Public domain 3D Models.
+- https://polyhaven.com/
 
 
 ## Game-Design-Tool
@@ -1050,6 +1052,7 @@ Table of Contents
 - [texturecauldron](https://soerbgames.itch.io/texturecauldron) Texture Cauldron is a node based tool to generate detailed able textures.
 - [filterforge](https://filterforge.com/) Mighty graphics software with thousands of photo effects and seamless textures, and an editor to create your own filters.
 - https://github.com/caosdoar/Fornos
+- [material-animation-curve](https://gist.github.com/ghysc/b4f9b3266ee82edf2b02e00cef0bc6b7) A Material Property Drawer for the Curve attribute which lets you edit curves and adds them to the shader as textures
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -1791,6 +1794,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [NativeWebSocket](https://github.com/endel/NativeWebSocket) WebSocket client for Unity - with no external dependencies (WebGL, Native, Android, iOS, UWP) 
 * [RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types)
+* [GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge) Yet Another gRPC over HTTP/1 using WebSocket implementation, primarily targets .NET platform.
 * [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
 * [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 * [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
@@ -1822,6 +1826,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [RRQMSocket](https://github.com/RRQM/RRQMSocket) RRQMSocket是一个整合性网络通信框架，特点是支持高并发、事件驱动、易用性强、二次开发难度低等。其中主要内容包括:TCP、UDP服务通信框架、大文件传输、RPC、WebSocket、WebApi、XmlRpc、JsonRpc等内容
 * [FastTunnel](https://github.com/FastTunnel/FastTunnel) expose a local server to the internet. 高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
 * [weaving-socket](https://gitee.com/dotnetchina/weaving-socket) 支持.NET5.0，core, U3D,物联网，web,通用，网关 socket通讯,架构带有内置协议，保证数据完整.
+* [Cube](https://github.com/MKSQD/Cube) Scalable high level network library for Unity
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -2593,6 +2598,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [移动设备GPU架构知识汇总](https://zhuanlan.zhihu.com/p/112120206)
 - [GPU架构 核心问题笔记](https://zhuanlan.zhihu.com/p/139118900)
 - [移动处理器CPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
+- [GPU-BenchMark](https://gfxbench.com/result.jsp)
 - [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
 - 微信公众号：GPUer
 - [GPU/CPU性能天梯图](https://mubu.com/doc/explore/17532)
@@ -2872,7 +2878,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 
 - [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) An example of drawing numerous instances using Unity3D, compute shaders and Graphics.DrawMeshInstancedIndirect with Frustum & Occlusion culling and LOD'ing. 
 - [Unity物理引擎实战-基于SPH方法的简单水体模拟](https://zhuanlan.zhihu.com/p/456696305)
-
+- https://github.com/aceyan/Unity3D_PBR_Path_Tracer
 #### GPU Driven
 - [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
 - [GPUDriven](https://github.com/GouGeLSJ/GPUDriven)
@@ -2903,6 +2909,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [DragonSpace](https://github.com/Appleguysnake/DragonSpace-Demo) A simple boids simulation to show the difference between implementations of a few spatial partitioning structures in Unity.
 - https://github.com/ToruNiina/lbvh
 - https://github.com/EmmetOT/BoundingVolumeHierarchy
+- https://github.com/Sylmerria/Spatial-Hashing
 
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
@@ -3276,6 +3283,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/crazyshader/GameDev
 - https://www.zhihu.com/search?q=renderdoc%20unity&range=3m&type=content
 #### AssetBundle
+- [UnityDataTools](https://github.com/Unity-Technologies/UnityDataTools)
 - [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
 - [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
@@ -3556,6 +3564,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
 - https://github.com/ppiastucki/recast4j
 - https://github.com/Cr33zz/Nav
+- [SimpleAI](https://github.com/OneManMonkeySquad/SimpleAI)
 
 #### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
