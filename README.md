@@ -2258,6 +2258,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 - [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
 - [Unity Arm Mobile Studio Article](https://blog.unity.com/games/enhanced-mobile-performance-analysis-with-arms-new-mobile-studio-package-for-unity)
+- [ARM Mobile Studio性能优化](https://developer.unity.cn/projects/5f9d13daedbc2a37b91122be)
+- [MaliCompiler](http://neozheng.cn/2021/12/22/MaliCompiler/)
+- [全新Arm Mobile Studio for Unity软件包，增强移动端性能分析](https://developer.unity.cn/projects/60d19990edbc2a1b2110acb7) 
 - [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
 - [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
 - [Intel-GPA](https://software.intel.com/content/www/us/en/develop/tools/graphics-performance-analyzers.html)
