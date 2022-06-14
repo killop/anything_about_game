@@ -232,6 +232,7 @@ Table of Contents
 - [C](#c-7)
 - [CPP](#cpp-1)
 - [Java](#java-1)
+- [Author](#author)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
     - [Collection](#collection-6)
@@ -1496,6 +1497,7 @@ Table of Contents
 - https://github.com/zhangqi-ulua/ServerFramework
 - https://github.com/mmogdeveloper/MO.Framework
 - https://github.com/Searchstars/Leekcutter
+- https://toscode.gitee.com/iohao/iogame 
 #### Article
 - https://github.com/briatte/awesome-network-analysis
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
@@ -1722,6 +1724,7 @@ Table of Contents
 - [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
 - [nevod](https://nevod.io) Nevod is a language and technology for pattern-based text search. It is specially aimed to rapidly reveal entities and their relationships in texts written in the natural language.
+- [AngouriMath](https://github.com/asc-community/AngouriMath) Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -1838,6 +1841,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [handy](https://github.com/yedf2/handy) 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
 - [workflow](https://github.com/sogou/workflow) C++ Parallel Computing and Asynchronous Networking Engine
 - [Server](https://github.com/shenmingik/Server) 基于muduo网络库的集群聊天服务器
+
 #### Rust
 - [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 #### Web/Http
@@ -2089,6 +2093,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [DualQuaternionsForUnity](https://github.com/johannesugb/DualQuaternionsForUnity)
 - [opengjk](https://www.mattiamontanari.com/opengjk/) C implementation of the GJK algorithm 
 - [pcg-random](https://www.pcg-random.org/)
+- [geogram](https://github.com/BrunoLevy/geogram) c++ a programming library with geometric algorithms
   
 #### Math-Tool
 - [Shadershop](http://tobyschachman.com/Shadershop/editor/)
@@ -2748,6 +2753,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 ##### Fur
 - http://sorumi.xyz/posts/unity-fur-shader/
+- https://github.com/jiaozi158/ShellFurURP
 - https://github.com/hecomi/UnityFurURP
 - [XFur Studio 2 unity-plugin](https://assetstore.unity.com/packages/tools/particles-effects/pidi-xfur-studio-2-ultimate-edition-145885)
 - https://zhuanlan.zhihu.com/p/446221956
@@ -3087,6 +3093,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ObservableCollections](https://github.com/Cysharp/ObservableCollections) High performance observable collections and synchronized views, for WPF, Blazor, Unity. 
 - [ObservableComputations](https://github.com/IgorBuchelnikov/ObservableComputations) Cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 - [daachorse](https://github.com/legalforce-research/daachorse) A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
+- [fasterflect](https://github.com/buunguyen/fasterflect)
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
@@ -3176,9 +3183,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [COLA](https://github.com/alibaba/COLA) Clean Object-Oriented and Layered Architecture
 - [SnowJena](https://github.com/ystcode/SnowJena) SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景。
 - [jodd](https://github.com/oblac/jodd)(Produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.)
-- [sa-token](https://github.com/dromara/sa-token) sa-token是一个轻量级Java权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0 等一系列权限相关问题
 
- 
+
+ ## Author
+ - https://github.com/AzureAD/microsoft-authentication-library-for-dotnet
+ - [sa-token](https://github.com/dromara/sa-token) sa-token是一个轻量级Java权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0 等一系列权限相关问题
 ## CMAKE
 - https://github.com/Akagi201/learning-cmake
 - https://github.com/ttroy50/cmake-examples
@@ -3190,6 +3199,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/xiaoweiChen/CMake-Cookbook
 - https://github.com/fenneishi/cmake
 - https://zhuanlan.zhihu.com/p/393316878
+- https://github.com/leetal/ios-cmake
 
 ## Embed-Script/VM/JIT
 - [minivm](https://github.com/FastVM/minivm) A VM That is Dynamic and Fast
@@ -3690,7 +3700,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
-
+- https://github.com/staggartcreations/Graphics-Raycast/
 #### GamePlay
 - [我开发的角色动作系统概述-战斗,3C相关](https://zhuanlan.zhihu.com/p/67143501)
 
