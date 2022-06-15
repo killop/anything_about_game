@@ -1230,6 +1230,7 @@ Table of Contents
 - [terrain-slicing-dynamic-loading-kit](https://assetstore.unity.com/packages/tools/terrain/terrain-slicing-dynamic-loading-kit-5982) UnityPlugin
 - [floating-origin](https://assetstore.unity.com/packages/tools/network/floating-origin-ultimate-infinite-multiplayer-world-solution-204179?) UnityPlugin
 - [gaia](https://forum.unity.com/threads/backwoods-gamings-addons-for-gaia.389067/)
+- https://github.com/JuniorDjjr/Unity-Procedural-Stochastic-Texture-Terrain-Shader
 ##### Unity-Tool
 - [PrefabPainter](https://github.com/Roland09/PrefabPainter) github
 - [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
@@ -2545,7 +2546,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.shadertoy.com/browse 
 - https://www.ronja-tutorials.com/ 
 - https://github.com/lettier/3d-game-shaders-for-beginners 
-- https://github.com/andydbc/unity-shadergraph-sandbox
 - https://github.com/WorldOfZero/UnityVisualizations
 - https://github.com/knapeczadam/Unity-Shaders
 - https://github.com/ewersp/Shaders
@@ -3082,6 +3082,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/AArnott/Nerdbank.Streams 高效流
 - [AsyncWorkerCollection](https://github.com/dotnet-campus/AsyncWorkerCollection) A collection of tools that support asynchronous methods and support high-performance multithreading.
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
+- [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
 - [caffeine](https://github.com/ben-manes/caffeine) A high performance caching library for Java 
 - [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
 - [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport) Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. 
@@ -3386,7 +3387,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples)
 - [Unity_ShaderGraphStudy](https://github.com/rito15/Unity_ShaderGraphStudy)
 - [Shader Graph所有节点讲解](https://www.bilibili.com/video/BV1qE411y7MJ?)
-- [[Brackeys] Unity Shader Graph教程合集](https://www.bilibili.com/video/BV1pV411U7sE)
+- [Brackeys] Unity Shader Graph教程合集](https://www.bilibili.com/video/BV1pV411U7sE)
+- https://github.com/andydbc/unity-shadergraph-sandbox
+- https://github.com/Zallist/unity-universal-shadergraph-extensions
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
