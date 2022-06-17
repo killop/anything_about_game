@@ -2236,6 +2236,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [uwa4d](https://www.uwa4d.com/)
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
 - [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
+- [selective-profiling](https://github.com/needle-tools/selective-profiling) Selectively deep profile code in Unity
 - [optick](https://github.com/bombomby/optick) Optick is a super-lightweight C++ profiler for Games.
 It provides access for all the necessary tools required for efficient performance analysis and optimization:
 instrumentation, switch-contexts, sampling, GPU counters.
