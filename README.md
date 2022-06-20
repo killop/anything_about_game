@@ -2753,8 +2753,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity自定义可编程渲染管线(SRP)](https://www.zhihu.com/column/c_1249285959101227008)
 - [How the URP unlocks games for you](https://zhuanlan.zhihu.com/p/105941187)
 - [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)
-- [Unity手游项目优化记录](https://www.jianshu.com/p/5712bf3c26ba)
 - [SRP Batcher工作原理探究](https://zhuanlan.zhihu.com/p/383158953)
+- [从DX角度看SRPBatcher](https://zhuanlan.zhihu.com/p/508206639)
+- [Unity手游项目优化记录](https://www.jianshu.com/p/5712bf3c26ba)
 - [SRP到URP从原理到应用](https://www2.slideshare.net/MOMO145/srpurp)
 - [ProjectKaya](https://github.com/UnityKorea/ProjectKaya) Project Kaya for mobile game platform powered by urp
 
