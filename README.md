@@ -543,6 +543,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [theorangeduck](https://theorangeduck.com/page/all) math animation
 - [gamehacker1999](https://gamehacker1999.github.io/) TA GI
 - [diharaw](https://diharaw.github.io/) TA GI
 - [nvjob](https://nvjob.github.io/)TA
@@ -1118,6 +1119,7 @@ Table of Contents
 * [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
 * [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API
 * [ApureEasing](https://github.com/kyubuns/ApureEasing) Easing library for Unity Visual Scripting  
+* [游戏开发中的阻尼器和阻尼弹簧](https://mp.weixin.qq.com/s/UMipfQ_09w0bnQOBIA9ttg)
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -2147,6 +2149,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Unity坐标系变换那些事](https://zhuanlan.zhihu.com/p/438828654)
 - [图形学中常见的数学困惑](https://zhuanlan.zhihu.com/p/413224014)
 - [图形学常见的变换推导](http://frankorz.com/2020/07/26/transformation/)
+- [四元数应用——顺序无关的旋转混合](https://zhuanlan.zhihu.com/p/28330428)
 - https://thenumbat.github.io/Exponential-Rotations/
 - https://github.com/Milk-Drinker01/CoR-Skinning
 ##  Physics
@@ -2586,6 +2589,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Rendering Resources - Benedikt Bitterli](https://benedikt-bitterli.me/resources/) 
 
 #### GPU-Architecture
+- [GPU 渲染管线和硬件架构浅谈](https://mp.weixin.qq.com/s/-ueKhxbsJOnUtV1SC5eyBQ)
 - [CIS 565 GPU Programming and Architecture](http://cis565-fall-2021.github.io/)
 - [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 - [GCN – two ways of latency hiding and wave occupancy](https://bartwronski.com/2014/03/27/gcn-two-ways-of-latency-hiding-and-wave-occupancy/)
@@ -2749,6 +2753,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity自定义可编程渲染管线(SRP)](https://www.zhihu.com/column/c_1249285959101227008)
 - [How the URP unlocks games for you](https://zhuanlan.zhihu.com/p/105941187)
 - [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)
+- [Unity手游项目优化记录](https://www.jianshu.com/p/5712bf3c26ba)
+- [SRP Batcher工作原理探究](https://zhuanlan.zhihu.com/p/383158953)
 - [SRP到URP从原理到应用](https://www2.slideshare.net/MOMO145/srpurp)
 - [ProjectKaya](https://github.com/UnityKorea/ProjectKaya) Project Kaya for mobile game platform powered by urp
 
