@@ -1093,6 +1093,7 @@ Table of Contents
 - [GPGPU Computing Animation & Skinning](https://zhuanlan.zhihu.com/p/50640269)
 - [GPUAnimation](https://github.com/joeante/Unity.GPUAnimation)
 - [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
+- [李恒的知乎文章](https://www.zhihu.com/people/li-heng-76-59/posts)
 - [UnityGPUSkinning](https://github.com/BobLChen/UnityGPUSkinning)
 - [GPU Instancer - Crowd Animations](https://assetstore.unity.com/packages/tools/animation/gpu-instancer-crowd-animations-145114) unity-plugin
 - [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
