@@ -178,6 +178,7 @@ Table of Contents
     - [Ray Tracing](#ray-tracing)
     - [NPR](#npr)
     - [SDF](#sdf)
+    - [#### SphericalHarmonicLighting/CubeMap/Probes](#-sphericalharmoniclightingcubemapprobes)
     - [Outline](#outline)
     - [VirturalTexture](#virturaltexture)
     - [Unity-Shader](#unity-shader)
@@ -208,7 +209,6 @@ Table of Contents
     - [SVG](#svg)
     - [Post-Process](#post-process)
     - [MatCaps](#matcaps)
-    - [SphericalHarmonicLighting](#sphericalharmoniclighting)
     - [Color](#color)
     - [Depth](#depth)
     - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
@@ -298,6 +298,7 @@ Table of Contents
 - [看完不star，小心没jj :）!](#看完不star小心没jj-)
 
 ## Awesome-Game
+- https://github.com/shadowcz007/awesome-metaverse
 - https://github.com/wlxklyh/awesome-gamedev
 - https://www.gamasutra.com/category/programming/
 - http://www.onrpg.com/
@@ -1440,6 +1441,7 @@ Table of Contents
 - https://github.com/KSP-CKAN/CKAN
 - https://github.com/iwiniwin/unity-remote-file-explorer
 - https://github.com/OctopusDeploy/Octodiff
+- https://github.com/canton7/SyncTrayzor
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
@@ -1828,6 +1830,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [kcp2k](https://github.com/vis2k/kcp2k)
 * [java-Kcp](https://github.com/l42111996/java-Kcp) 基于java的netty实现的可靠udp网络库(kcp算法)，包含fec实现，可用于游戏，视频，加速等业务
 * [kcp-Code-annotation](https://gitee.com/he-linson/kcp-Code-annotation)
+* [learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol) KCP协议基本数据结构和算法介绍
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
 * [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
 * [zapnet](https://github.com/deadgg/zapnet)  Zapnet is a Unity framework for game networking built with Lidgren
@@ -1942,6 +1945,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### 3D Engines and Frameworks
 * [flowers](https://github.com/ray-cast/flowers) 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
 * [mach](https://github.com/hexops/mach) Mach is a game engine & graphics toolkit for the future.
+* [zenustech](https://zenustech.com/) ZEn NOde system - a simulation & rendering engine in nodes
 * [RenderLab](https://github.com/Ubpa/RenderLab) 渲染实验室，包含了实时渲染，离线渲染和场景编辑的功能
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects
 * [hybrid-rendering](https://github.com/diharaw/hybrid-rendering) A Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
@@ -2119,6 +2123,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [unity-nurbs](https://github.com/komietty/unity-nurbs) Unity base NURBS spline and surface module
 - [Unity-Spline-Editor](https://github.com/vvrvvd/Unity-Spline-Editor)
 - [Lagrange Interpolatio](https://www.youtube.com/watch?v=4S6G-zenbFM&t=621s)
+- https://github.com/mxgmn/Blog/blob/master/squircles.md
 - [bezierjs](https://github.com/Pomax/bezierjs) A nodejs and client-side library for (cubic) Bezier curve work 
 - [bezierinfo中文版](https://pomax.github.io/bezierinfo/zh-CN/index.html)
 - [CurveDesigner](https://github.com/cmacmillan/CurveDesigner) A free tool for designing tubes, ramps, curves, and half-pipes in unity
@@ -2182,6 +2187,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://parry.rs/
 - https://rapier.rs/
 - https://github.com/fxredeemer/jitterphysics
+- https://github.com/irlanrobson/bounce
 #### Physics BOOKS
 - [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
 - [Physics Modeling for Game Programmers](https://www.amazon.com/Physics-Modeling-Programmers-David-Conger/dp/1592000932/)
@@ -2662,6 +2668,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://space.bilibili.com/32731698/channel/collectiondetail?sid=153541
 - https://github.com/TechMiZ/ToonShadingCollection
 - http://stylized.realtimerendering.com/
+- https://zhuanlan.zhihu.com/p/532600738
 - [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
 - [【NPR】卡通渲染](https://blog.csdn.net/candycat1992/article/details/50167285)及其对应的github库[NPR_Lab](https://github.com/candycat1992/NPR_Lab)
@@ -2723,6 +2730,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 * [A Dataset and Explorer for 3D Signed Distance Functions](https://jcgt.org/published/0011/02/01/)
 * [sdf-explorer](https://github.com/tovacinni/sdf-explorer)
+#### #### SphericalHarmonicLighting/CubeMap/Probes
+- [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
+- https://github.com/wlgys8/SHLearn 
+- [详解Cubemap、IBL与球谐光照](https://zhuanlan.zhihu.com/p/463309766)
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -2833,6 +2844,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chenjd/Unity_UI_Gamma
 - https://github.com/tkweizhong/CustomURP
 - https://github.com/AkilarLiao/ForwardPlusURP
+- https://github.com/Raphael2048/URP_ForwardPlus
 - https://github.com/bcrusco/Forward-Plus-Renderer
 - https://github.com/wlgys8/SRPLearn
 - https://github.com/Cyanilux/URP_BlitRenderFeature
@@ -2940,8 +2952,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/tkonexhh/X-PostProcessing-URP
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
-#### SphericalHarmonicLighting
-- https://github.com/wlgys8/SHLearn 
 
 
 #### Color
@@ -3588,6 +3598,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/samueltardieu/pathfinding
 - https://github.com/hugoscurti/hierarchical-pathfinding/
 - https://clementmihailescu.github.io/Pathfinding-Visualizer
+- https://www.zhihu.com/people/cong-zi-64/posts
 - https://github.com/zhm-real/PathPlanning
 - https://mp.weixin.qq.com/s/MIGnEW_VxOBAHNm9uAu5AQ
 - https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
