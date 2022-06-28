@@ -1626,6 +1626,7 @@ Table of Contents
 - https://github.com/RudolfKurka/StructPacker
 - https://github.com/wqaetly/OdinSerializerForNetCore
 - https://github.com/KrzysztofCwalina/POLE
+- https://github.com/JasonXuDeveloper/Nino
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
