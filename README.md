@@ -3750,6 +3750,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [微软 onenote](https://www.onenote.com)
 - [obsidian](https://obsidian.md/)
 - [withpinbox](https://withpinbox.com/)
+- [taskade](https://taskade.com/)
 
 ## UnityBuild
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
