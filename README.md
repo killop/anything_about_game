@@ -2277,6 +2277,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity Arm Mobile Studio Article](https://blog.unity.com/games/enhanced-mobile-performance-analysis-with-arms-new-mobile-studio-package-for-unity)
 - [ARM Mobile Studio性能优化](https://developer.unity.cn/projects/5f9d13daedbc2a37b91122be)
 - [MaliCompiler](http://neozheng.cn/2021/12/22/MaliCompiler/)
+- [使用Mali Compiler对Unity Shader进行优化](https://zhuanlan.zhihu.com/p/448732749) 
+- [Shader中的代码优化原理分析](https://zhuanlan.zhihu.com/p/210221918)
 - [全新Arm Mobile Studio for Unity软件包，增强移动端性能分析](https://developer.unity.cn/projects/60d19990edbc2a1b2110acb7) 
 - [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
 - [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
@@ -2478,7 +2480,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [AMD Developer Guides, Manuals & ISA Documents](https://developer.amd.com/resources/developer-guides-manuals/)
 - [Parallel Thread Execution ISA Version 7.5](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html)
 - [CUDA Binary Utilities](https://docs.nvidia.com/cuda/cuda-binary-utilities/index.html#instruction-set-ref)
-- [使用Mali Compiler对Unity Shader进行优化](https://zhuanlan.zhihu.com/p/448732749)
 - [跨平台引擎Shader编译流程分析](https://zhuanlan.zhihu.com/p/56510874)
 - [如何阅读和还原分析器中的DXBC](https://zhuanlan.zhihu.com/p/346324622)
 - [DXBC指令](http://xiaopengyou.fun/public/2021/01/16/DXBC%E6%8C%87%E4%BB%A4/#more)
@@ -2849,13 +2850,13 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/AkilarLiao/ForwardPlusURP
 - https://github.com/Raphael2048/URP_ForwardPlus
 - https://github.com/bcrusco/Forward-Plus-Renderer
+- https://github.com/GuardHei/SRP 
 - https://github.com/wlgys8/SRPLearn
 - https://github.com/Cyanilux/URP_BlitRenderFeature
 - https://github.com/AKGWSB/ToyRenderPipeline
 - https://github.com/GuardHei/UltimateTAA
 - https://github.com/sienaiwun/TAA_Unity_URP
 - https://github.com/Raphael2048/URPTAA 
-- https://github.com/GuardHei/SRP
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
 - https://github.com/Looooong/Unity-SRP-VXGI
 #### Global illumination (GI)
