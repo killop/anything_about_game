@@ -457,6 +457,7 @@ Table of Contents
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
 - [Neo Zheng](http://neozheng.cn/)
+- [guardhei](https://guardhei.github.io/#blog) 管线ta
 - [萤火之森](http://frankorz.com/)
 - [小朋友](http://xiaopengyou.fun/public/index.h) 管线ta
 - [崔佬](https://cuihongzhi1991.github.io/blog)
