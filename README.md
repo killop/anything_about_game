@@ -282,6 +282,7 @@ Table of Contents
     - [Message Bus](#message-bus)
     - [Time control](#time-control)
     - [Tips](#tips)
+    - [CameraController](#cameracontroller)
     - [GamePlay](#gameplay)
 - [知识库软件/笔记软件](#知识库软件笔记软件)
 - [UnityBuild](#unitybuild)
@@ -2576,6 +2577,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [omnishade-mobile-optimized-shader](https://assetstore.unity.com/packages/vfx/shaders/omnishade-mobile-optimized-shader-213594)
 - [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) unity Uber shader for Particle System
 - [shaders-impossible-geom](https://github.com/daniel-ilett/shaders-impossible-geom) A shader project for Unity URP featuring impossible geometry shaders like those seen in the game Antichamber.
+- [Anisotropy-Shader](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP)
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -3464,6 +3466,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
 - https://github.com/akof1314/Unity-TextMeshPro-DynamicText
 - https://github.com/jp-netsis/RubyTextMeshPro
+- https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/garsonlab/GText
@@ -3736,6 +3739,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 - https://github.com/staggartcreations/Graphics-Raycast/
+
+#### CameraController
+- https://github.com/XJINE/Unity_SceneCameraController 
 #### GamePlay
 - [我开发的角色动作系统概述-战斗,3C相关](https://zhuanlan.zhihu.com/p/67143501)
 
