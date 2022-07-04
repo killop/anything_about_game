@@ -1173,6 +1173,7 @@ Table of Contents
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
 - [protores](https://unity-technologies.github.io/Labs/protores.html) ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics
 - [UnityKinematicaX](https://github.com/voxell-tech/UnityKinematicaX) A next-generation character animation system built on top of Unity's Kinematica.
+- [DOTSAnimation](https://github.com/gamedev-pro/DOTSAnimation) A high level Animation State Machine Framework for Unity DOTS
 - [kinematica](https://docs.unity3d.com/Packages/com.unity.kinematica@0.8/manual/index.html)
 #### Character-Controller
 - [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
@@ -1836,6 +1837,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [java-Kcp](https://github.com/l42111996/java-Kcp) 基于java的netty实现的可靠udp网络库(kcp算法)，包含fec实现，可用于游戏，视频，加速等业务
 * [kcp-Code-annotation](https://gitee.com/he-linson/kcp-Code-annotation)
 * [learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol) KCP协议基本数据结构和算法介绍
+* [KCP](https://github.com/KumoKyaku/KCP) KCP C#版。线程安全，运行时无alloc，对gc无压力。,
+* [kcp-genshin](https://github.com/labalityowo/kcp-genshin)
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
 * [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
 * [zapnet](https://github.com/deadgg/zapnet)  Zapnet is a Unity framework for game networking built with Lidgren
@@ -3102,6 +3105,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
+- https://github.com/jackmott/LinqFaster  Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
 - https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
 - https://github.com/lujian101/GCFreeClosure A gc-free closure implementation for unity
 - https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
