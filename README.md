@@ -1285,6 +1285,7 @@ Table of Contents
 - [GrassBending](https://github.com/Elringus/GrassBending) A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect
 - [HiZ_grass_culling](https://github.com/jackie2009/HiZ_grass_culling)
 - https://github.com/Milk-Drinker01/Milk_Instancer01
+- [Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1739,9 +1740,11 @@ Table of Contents
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
 - [nevod](https://nevod.io) Nevod is a language and technology for pattern-based text search. It is specially aimed to rapidly reveal entities and their relationships in texts written in the natural language.
 - [AngouriMath](https://github.com/asc-community/AngouriMath) Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
+- [t4](https://github.com/faster-games/t4) T4 text template generative importer for Unity3D
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
+
 ## NetWork
 #### Articles
 - [deterministic-netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
@@ -2112,6 +2115,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [opengjk](https://www.mattiamontanari.com/opengjk/) C implementation of the GJK algorithm 
 - [pcg-random](https://www.pcg-random.org/)
 - [geogram](https://github.com/BrunoLevy/geogram) c++ a programming library with geometric algorithms
+- [FastMath](https://github.com/wiu-wiu/FastMath) C# library with very fast but not very accurate realisations of System.Math methods.
   
 #### Math-Tool
 - [Shadershop](http://tobyschachman.com/Shadershop/editor/)
@@ -2168,6 +2172,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [四元数应用——顺序无关的旋转混合](https://zhuanlan.zhihu.com/p/28330428)
 - https://thenumbat.github.io/Exponential-Rotations/
 - https://github.com/Milk-Drinker01/CoR-Skinning
+- [Unity Shader 各个空间坐标的获取方式及xyzw含义](https://zhuanlan.zhihu.com/p/505030222)
 ##  Physics
 #### Physics Framework
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
@@ -3736,6 +3741,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)
 - [ExtEvents](https://github.com/SolidAlloy/ExtEvents) A better replacement for UnityEvents
 - [Unity.MissingUnityEvents](https://github.com/handzlikchris/Unity.MissingUnityEvents)
+- [bovinelabs.event](https://github.com/tertle/com.bovinelabs.event) A high performance solution for safely creating events between systems in Unity ECS.
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
