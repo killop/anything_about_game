@@ -178,9 +178,10 @@ Table of Contents
     - [Ray Tracing](#ray-tracing)
     - [NPR](#npr)
     - [SDF](#sdf)
-    - [#### SphericalHarmonicLighting/CubeMap/Probes](#-sphericalharmoniclightingcubemapprobes)
+    - [SphericalHarmonicLighting/CubeMap/Probes](#sphericalharmoniclightingcubemapprobes)
     - [Outline](#outline)
     - [VirturalTexture](#virturaltexture)
+    - [FootPrint](#footprint)
     - [Unity-Shader](#unity-shader)
       - [Article](#article-4)
       - [URP/SPR/HDRP Course](#urpsprhdrp-course)
@@ -2745,7 +2746,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 * [A Dataset and Explorer for 3D Signed Distance Functions](https://jcgt.org/published/0011/02/01/)
 * [sdf-explorer](https://github.com/tovacinni/sdf-explorer)
-#### #### SphericalHarmonicLighting/CubeMap/Probes
+#### SphericalHarmonicLighting/CubeMap/Probes
 - [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 - https://github.com/wlgys8/SHLearn 
 - [详解Cubemap、IBL与球谐光照](https://zhuanlan.zhihu.com/p/463309766)
@@ -2761,6 +2762,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
 
+#### FootPrint 
+- https://github.com/edualvarado/
 #### Unity-Shader
 ##### Article
 - [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/Wei_Yuan_2012/article/details/88677172?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
