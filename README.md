@@ -1176,6 +1176,7 @@ Table of Contents
 - [UnityKinematicaX](https://github.com/voxell-tech/UnityKinematicaX) A next-generation character animation system built on top of Unity's Kinematica.
 - [DOTSAnimation](https://github.com/gamedev-pro/DOTSAnimation) A high level Animation State Machine Framework for Unity DOTS
 - [kinematica](https://docs.unity3d.com/Packages/com.unity.kinematica@0.8/manual/index.html)
+- [reanimation](https://github.com/aarthificial/reanimation) An alternative animator for Unity tailored for traditional animation
 #### Character-Controller
 - [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
@@ -1632,9 +1633,11 @@ Table of Contents
 - https://github.com/wqaetly/OdinSerializerForNetCore
 - https://github.com/KrzysztofCwalina/POLE
 - https://github.com/JasonXuDeveloper/Nino
+- https://github.com/chronoxor/FastBinaryEncoding
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
+- https://github.com/zachsaw/Binaron.Serializer
 - https://jsonvisio.com/editor
 
 ## Huge-World
@@ -2798,6 +2801,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - http://sorumi.xyz/posts/unity-fur-shader/
 - https://github.com/jiaozi158/ShellFurURP
 - https://github.com/hecomi/UnityFurURP
+- https://github.com/shyaZhou/UnityURPFurDemo
 - [XFur Studio 2 unity-plugin](https://assetstore.unity.com/packages/tools/particles-effects/pidi-xfur-studio-2-ultimate-edition-145885)
 - https://zhuanlan.zhihu.com/p/446221956
 #####  Holographic
@@ -2934,6 +2938,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
 - [GPUDriven](https://github.com/GouGeLSJ/GPUDriven)
 - [webgpu-compute-rasterizer](https://github.com/OmarShehata/webgpu-compute-rasterizer)
+- [URasterizer](https://github.com/happyfire/URasterizer) URasterizer: A software rasterizer on top of Unity, accelerated by Job system & Compute Shader
 - [vkguide gpu_driven_engines](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/) 
 - [Max:GPU Driven Pipeline — 工具链与进阶渲染](https://zhuanlan.zhihu.com/p/44411827)
 - [GPU Driven Render Pipeline](https://zhuanlan.zhihu.com/p/37084925)
