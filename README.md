@@ -102,6 +102,7 @@ Table of Contents
     - [Lockstep](#lockstep)
     - [status-syn](#status-syn)
     - [Library](#library)
+    - [Common-Server](#common-server)
 - [Serialization](#serialization)
     - [Json](#json)
 - [Huge-World](#huge-world)
@@ -1463,6 +1464,7 @@ Table of Contents
 - https://aws.amazon.com/cn/gamelift/
 - https://github.com/9miao/G-Firefly
 - https://github.com/cloudwu/skynet
+- https://github.com/hanxi/skynet-admin
 - https://github.com/Manistein/SparkServer
 - https://github.com/surparallel
 - https://github.com/xiaonanln/goworld
@@ -1504,6 +1506,7 @@ Table of Contents
 - https://github.com/jzyong/game-server
 - https://github.com/jzyong/GameAI4j
 - https://github.com/ZerlenZhang/distributed-architecture-of-moba-game-server
+- https://github.com/surparallel/luacluster
 - [OpenCoreMMO](https://github.com/caioavidal/OpenCoreMMO) Open-source MMORPG server emulator written in C#
 - [MST](https://github.com/aevien/MST) This is a framework that allows you to create game servers and services for your game inside Unity. It allows you to avoid using third-party services such as Playful, PAN, or Smartfox server. This framework does not claim to be a substitute for all these systems. No way! 
 - [zfoo](https://github.com/zfoo-project/zfoo) Extreme fast enterprise Java server framework, can be RPC, game server framework, web server framework.
@@ -1514,6 +1517,7 @@ Table of Contents
 - [iogame](https://toscode.gitee.com/iohao/iogame) 国内首个基于蚂蚁金服 SOFABolt 的 java 网络游戏服务器框架；无锁异步化、事件驱动的架构设计； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、分步式、高性能的网络java游戏服务器！ Netty + spring + protobuf + websocket + tcp + udp；全球同服；业务线程基于disruptor LMAX架构；FXGL、心跳、帧同步、状态同步
 - [iron](https://gitee.com/pink0453/iron) iron 基于vertx高性能游戏服务器框架
 - [NFShmServer](https://gitee.com/xiaoyi445_admin/NFShmServer) NFShmServer 是一个使用C++开发的轻量级,敏捷型,弹性的,分布式的共享内存的插件开发框架, 让你更快更简单的开发服务端应用. 部分思路来自UE4和Ogre.(当前主要用在游戏领域) 我写的开源架构，前几年开源过，后来自己做项目，又没开源了，现在没搞项目了，加上修改了2年了，打算重新开源
+- [hive](https://github.com/hero1s/hive) A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script
 #### Article
 - https://github.com/briatte/awesome-network-analysis
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
@@ -1605,6 +1609,8 @@ Table of Contents
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
+#### Common-Server
+- [sylar](https://github.com/sylar-yin/sylar)  C++高性能分布式服务器框架
 ## Serialization
 - https://github.com/space-wizards/netserializer
 - https://github.com/apache/arrow
