@@ -288,6 +288,7 @@ Table of Contents
     - [GamePlay](#gameplay)
 - [知识库软件/笔记软件](#知识库软件笔记软件)
 - [UnityBuild](#unitybuild)
+- [Mobile](#mobile)
 - [Unity-Games](#unity-games)
 - [Programmer-Common-Tool](#programmer-common-tool)
 - [workflow](#workflow)
@@ -945,6 +946,7 @@ Table of Contents
 - [ultimate-lod-system](https://assetstore.unity.com/packages/tools/utilities/ultimate-lod-system-mt-170425) unity-plugin
 - [mantis-lod-editor](https://assetstore.unity.com/packages/tools/modeling/mantis-lod-editor-professional-edition-37086?) unity-plugin
 - [poly-few](https://assetstore.unity.com/packages/tools/utilities/poly-few-mesh-simplifier-and-auto-lod-generator-160139) unity-plugin
+- [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) Mesh simplification for Unity.
 #### List-of-game-middleware
 - https://en.wikipedia.org/wiki/List_of_game_middleware
 #### CG Software API
@@ -2126,7 +2128,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [pcg-random](https://www.pcg-random.org/)
 - [geogram](https://github.com/BrunoLevy/geogram) c++ a programming library with geometric algorithms
 - [FastMath](https://github.com/wiu-wiu/FastMath) C# library with very fast but not very accurate realisations of System.Math methods.
-  
+- [MathLibrary](https://github.com/db300/MathLibrary)   数学计算相关类库
 #### Math-Tool
 - [Shadershop](http://tobyschachman.com/Shadershop/editor/)
 - [wolframalpha](https://www.wolframalpha.com)
@@ -2253,6 +2255,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Cloth Simulation for Computer Graphic](https://www.amazon.ca/Cloth-Simulation-Computer-Graphics-Stuyck/dp/1681734117/)
 #### Position-Based-Dynamics
 - [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
+- [unity-position_based_dynamic](https://github.com/wsiqq23/unity-position_based_dynamic) 在unity上实现的一些基于position based dynamic的效果
 #### Softbody
 * [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
 * [SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation) Squish! A quick exploration of mesh deformation in response to collision 
@@ -2596,6 +2599,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) unity Uber shader for Particle System
 - [shaders-impossible-geom](https://github.com/daniel-ilett/shaders-impossible-geom) A shader project for Unity URP featuring impossible geometry shaders like those seen in the game Antichamber.
 - [Anisotropy-Shader](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP)
+- https://github.com/eangulee/UnityShader
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -3792,6 +3796,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
 - [UnitySkipSplash](https://github.com/psygames/UnitySkipSplash) Skip Unity Splash Screen only one script
  
+ ## Mobile
+ - [UnityAndroidRuntimePermissions](https://github.com/yasirkula/UnityAndroidRuntimePermissions)A native Unity plugin to handle runtime permissions on Android M+
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
