@@ -1780,6 +1780,7 @@ Table of Contents
 #### C#
 - [netmq](https://github.com/zeromq/netmq) A 100% native C# implementation of ZeroMQ for .NET
 - [DOTSNET](https://assetstore.unity.com/packages/tools/network/dotsnet-dots-networking-102633) unity -dots netcode plugin
+- [multiplayer-community-contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions)
 - [ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp) Reliable UDP networking library 
 - [NetworkToolkit](https://github.com/scalablecory/NetworkToolkit) This project contains networking primitives for use with .NET. 
 - http://www.hslcommunication.cn/
@@ -2866,6 +2867,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://flogelz.itch.io/noisemixer
 - https://github.com/Hengle/FastNoiseLite
 - https://github.com/boppygames/FastNoiseEditorUnity
+- https://github.com/tuxalin/procedural-tileable-shaders
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
