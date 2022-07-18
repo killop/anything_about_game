@@ -25,6 +25,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - [GenshinLikeToonShading](https://github.com/RabiChora/GenshinLikeToonShading)
 - [genshin-model-viewer](https://github.com/emako/genshin-model-viewer)
 - https://github.com/Wafflus/unity-genshin-impact-movement-system 
+- https://github.com/tkonexhh/Genshin
 ## 塞尔达传说：荒野之息
 - [为你分析历代《塞尔达传说》的美术设定与动画技术](https://www.taptap.com/topic/2604022?region=jp)
 - [《塞尔达传说：旷野之息》技术分析文章](https://www.bilibili.com/read/cv3239418)
