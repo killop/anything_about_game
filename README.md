@@ -2898,6 +2898,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Looooong/Unity-SRP-VXGI
 #### Global illumination (GI)
 - [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
+- https://github.com/jose-villegas/VCTRenderer
+- https://zhuanlan.zhihu.com/p/466869586
 - [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
 - [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambient occlusion in Unity baked at runtime.
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
