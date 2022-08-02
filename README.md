@@ -461,6 +461,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
+- [eukky](https://eukky.github.io/) 管线ta
 - [Neo Zheng](http://neozheng.cn/)
 - [guardhei](https://guardhei.github.io/#blog) 管线ta
 - [萤火之森](http://frankorz.com/)
@@ -1395,6 +1396,7 @@ Table of Contents
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
+* [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact
 * [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
 
  
@@ -1868,6 +1870,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [FastTunnel](https://github.com/FastTunnel/FastTunnel) expose a local server to the internet. 高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
 * [weaving-socket](https://gitee.com/dotnetchina/weaving-socket) 支持.NET5.0，core, U3D,物联网，web,通用，网关 socket通讯,架构带有内置协议，保证数据完整.
 * [Cube](https://github.com/MKSQD/Cube) Scalable high level network library for Unity
+* [NewLife.Net](https://github.com/NewLifeX/NewLife.Net) 单机吞吐2266万tps的网络通信框架
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -1887,6 +1890,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://actix.rs/
 - https://github.com/codeskyblue/gohttpserver
 - https://github.com/filebrowser/filebrowser
+- https://github.com/jpgordon00/UnityFileDownloader
 ## GameEngine Design
 #### Collection
 - https://github.com/redorav/public_source_engines
@@ -2194,6 +2198,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ##  Physics
 #### Physics Framework
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
+- [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int) Pure C# deterministic fixed-point 3D real time physics simulation library
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
 - https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
@@ -2766,6 +2771,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 * [A Dataset and Explorer for 3D Signed Distance Functions](https://jcgt.org/published/0011/02/01/)
 * [sdf-explorer](https://github.com/tovacinni/sdf-explorer)
+* https://github.com/rgl-epfl/differentiable-sdf-rendering
 #### SphericalHarmonicLighting/CubeMap/Probes
 - [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 - https://github.com/wlgys8/SHLearn 
@@ -2830,6 +2836,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [hyperspace-teleport-urp](https://assetstore.unity.com/packages/vfx/hyperspace-teleport-urp-214050)
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
+* https://github.com/gasgiant/Markup-Attributes
 ##### Windows
 - https://github.com/Gaxil/Unity-InteriorMapping
 ##### Decal
@@ -2903,7 +2910,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity. 
 - [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambient occlusion in Unity baked at runtime.
 - [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
-- [NatRender](https://github.com/natsuite/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
+- [NatRender](https://github.com/unitycoder/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
 - [ltcgi](https://github.com/PiMaker/ltcgi) Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat.
 - https://github.com/Eukky/UnityShadows
@@ -2957,6 +2964,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Gornhoth/Unity-Smoothed-Particle-Hydrodynamics
 - https://github.com/aceyan/Unity3D_PBR_Path_Tracer
 #### GPU Driven
+- [Realtime-Compute-Shader-Unity-PathTracer](https://github.com/killop/Realtime-Compute-Shader-Unity-PathTracer) A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
 - [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
 - [GPUDriven](https://github.com/GouGeLSJ/GPUDriven)
 - [webgpu-compute-rasterizer](https://github.com/OmarShehata/webgpu-compute-rasterizer)
@@ -3611,6 +3619,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * System performances. 
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
+* [dmotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
 * [actors](https://github.com/PixeyeHQ/actors.unity)
 * [ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)
 * [UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation)
