@@ -3554,6 +3554,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [character-creator-2d](https://assetstore.unity.com/packages/2d/characters/character-creator-2d-111398)
 #### Timeline
 - https://github.com/pofulu/TimelineTool
+- https://github.com/needle-tools/custom-timeline-editor
 #### Util
 - https://github.com/Hertzole/runtime-options-manager
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
