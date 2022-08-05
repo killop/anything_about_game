@@ -27,6 +27,11 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - https://github.com/Wafflus/unity-genshin-impact-movement-system 
 - https://github.com/tkonexhh/Genshin
 - https://github.com/zeroruka/GI_Assets
+- https://github.com/Razmoth/MiHoYoAssets
+- https://github.com/khang06/Il2CppDumper-YuanShen
+- https://github.com/CallowBlack/Il2CppInspector-Genshin
+- https://github.com/keowu/mhyprot2
+- https://github.com/Dimbreath/GenshinData
 ## 塞尔达传说：荒野之息
 - [为你分析历代《塞尔达传说》的美术设定与动画技术](https://www.taptap.com/topic/2604022?region=jp)
 - [《塞尔达传说：旷野之息》技术分析文章](https://www.bilibili.com/read/cv3239418)

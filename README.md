@@ -913,6 +913,7 @@ Table of Contents
 - [dilay](https://abau.org/dilay/)  A 3D sculpting application that provides an intuitive workflow using a number of powerful modelling tools.
 
 ##### Hair
+- https://github.com/kennux/VHair
 - https://zhuanlan.zhihu.com/p/330259306 头发渲染
 - [hairstudio](https://assetstore.unity.com/packages/tools/modeling/hairstudio-early-access-164661) 
 - [ephere](https://ephere.com/)
@@ -1416,6 +1417,7 @@ Table of Contents
 - [Switch-Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) A tool to edit many video game file formats
  
 ## Version-Control
+- https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt
 - https://semver.org/lang/zh-CN/   -- 版本号规范
 - https://github.com/Artees/Unity-SemVer
 - https://github.com/pcottle/learnGitBranching -- 学习git 提交的网站
@@ -1872,6 +1874,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [weaving-socket](https://gitee.com/dotnetchina/weaving-socket) 支持.NET5.0，core, U3D,物联网，web,通用，网关 socket通讯,架构带有内置协议，保证数据完整.
 * [Cube](https://github.com/MKSQD/Cube) Scalable high level network library for Unity
 * [NewLife.Net](https://github.com/NewLifeX/NewLife.Net) 单机吞吐2266万tps的网络通信框架
+* [TouchSocket](https://github.com/RRQM/TouchSocket)  TouchSocket是 C# 的一个整合性的、超轻量级的网络通信框架。包含了 tcp、udp、ssl、http、websocket、rpc、jsonrpc、webapi、xmlrpc等一系列的通信模块。一键式解决 TCP 黏分包问题，udp大数据包分片组合问题等。使用协议模板，可快速实现「固定包头」、「固定长度」、「区间字符」等一系列的数据报文解析。
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -2698,6 +2701,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [图流：Unity 标准PBR材质 美术向数据流程](https://zhuanlan.zhihu.com/p/397501285)
 - [学习PBR路程（四、Specular）](https://zhuanlan.zhihu.com/p/454439797)
 #### Ray Tracing
+- https://github.com/fallingcat/ComputeRayTracingSamples
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
 - [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL 
 - [nori](https://wjakob.github.io/nori/) Nori: an educational ray tracer 
@@ -2876,6 +2880,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Hengle/FastNoiseLite
 - https://github.com/boppygames/FastNoiseEditorUnity
 - https://github.com/tuxalin/procedural-tileable-shaders
+- https://github.com/ToasterTub/UniNoise
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -3176,6 +3181,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ObservableComputations](https://github.com/IgorBuchelnikov/ObservableComputations) Cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 - [daachorse](https://github.com/legalforce-research/daachorse) A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
 - [fasterflect](https://github.com/buunguyen/fasterflect)
+- [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) A high-performance, zero-allocation .NET logging library.
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
@@ -3641,6 +3647,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Article
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
+* https://github.com/trgrote/JPS-Unity
 * https://space.bilibili.com/477041559
 #### Navmesh
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
@@ -3658,6 +3665,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/hugoscurti/hierarchical-pathfinding/
 - https://clementmihailescu.github.io/Pathfinding-Visualizer
 - https://www.zhihu.com/people/cong-zi-64/posts
+- https://wuzhiwei.net/group-path-movement/
 - https://github.com/zhm-real/PathPlanning
 - https://mp.weixin.qq.com/s/MIGnEW_VxOBAHNm9uAu5AQ
 - https://forum.unity.com/attachments/com-bovinelabs-navigation-7z.679287/
@@ -3913,9 +3921,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.zhihu.com/question/20915020/answer/2269578502
 - https://github.com/pipiliang/hello-comic  程序员漫画
 - https://github.com/easychen/one-person-businesses-methodology 一人公司方法论
+- https://github.com/itgoyo/TelegramGroup
 ## 友情链接 
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
+* [Game-Development-Notes](https://github.com/xiaxia9/Game-Development-Notes)
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
 * [GameAndUnity](https://github.com/m969/GameAndUnity-TechLib)
 * [programming-awesome-list](https://github.com/BredaUniversity/programming-awesome-list)
