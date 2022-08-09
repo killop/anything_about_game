@@ -2940,6 +2940,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [SHTest](https://github.com/dwilliamson/SHTest)
 * [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
 * [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
+* [实时PRTGI技术与实现](https://zhuanlan.zhihu.com/p/541137978)
 ##### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
 * [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTX Global Illumination (RTXGI) SDK
