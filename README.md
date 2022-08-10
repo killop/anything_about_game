@@ -2711,7 +2711,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 -  http://developer.download.nvidia.com/GPU_Programming_Guide/GPU_Programming_Guide.pdf
 -  [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
 ####  imposters
-- [vrsi-imposters](https://assetstore.unity.com/packages/tools/modeling/vrsi-virtual-reality-stereo-imposters-206167) 
+- [amplify-impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877)
 #### Physically-Based-Render
 - https://blog.selfshadow.com/publications/
 - https://github.com/neil3d/awesome-pbr
