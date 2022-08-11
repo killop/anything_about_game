@@ -407,6 +407,7 @@ Table of Contents
 - [gamedev](https://gamedev.net/)
 - [gamefromscratch](https://gamefromscratch.com)
 - [rust-gamedev](https://rust-gamedev.github.io/) 
+- [zig-gamedev](https://github.com/michal-z/zig-gamedev)
 #### Graphic
 - [acm](https://dl.acm.org/loi/tog)
 - [replicability](https://replicability.graphics/index.html#project)
@@ -1693,6 +1694,7 @@ Table of Contents
 - https://github.com/Ermiq/GodotMono-InfiniteTerrain
 - https://github.com/tkonexhh/LearnGPUDrivenTerrain
 - https://github.com/guchengyidao/OpenWorldTerrainToolset
+- https://github.com/emrecancubukcu/Terrain-Decorator
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -2715,6 +2717,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Physically-Based-Render
 - https://blog.selfshadow.com/publications/
 - https://github.com/neil3d/awesome-pbr
+- https://github.com/AntonPalmqvist/physically-based-api
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
 - https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/
@@ -3814,6 +3817,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/KimHeeRyeong/SphereNavigation
 - https://github.com/idbrii/unity-navgen
 - https://github.com/h8man/NavMeshPlus
+- https://github.com/llamacademy/ai-series-part-14.5/
 - https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
 - https://github.com/dbrizov/Unity-PathFindingAlgorithms
 - https://github.com/samueltardieu/pathfinding
