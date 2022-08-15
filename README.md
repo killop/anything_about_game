@@ -1095,6 +1095,7 @@ Table of Contents
 - [filterforge](https://filterforge.com/) Mighty graphics software with thousands of photo effects and seamless textures, and an editor to create your own filters.
 - https://github.com/caosdoar/Fornos
 - [material-animation-curve](https://gist.github.com/ghysc/b4f9b3266ee82edf2b02e00cef0bc6b7) A Material Property Drawer for the Curve attribute which lets you edit curves and adds them to the shader as textures
+- https://github.com/asus4/unity-texture-curve
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -2646,6 +2647,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [shaders-impossible-geom](https://github.com/daniel-ilett/shaders-impossible-geom) A shader project for Unity URP featuring impossible geometry shaders like those seen in the game Antichamber.
 - [Anisotropy-Shader](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP)
 - https://github.com/eangulee/UnityShader
+- https://github.com/soupday/cc_unity_tools_URP
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
