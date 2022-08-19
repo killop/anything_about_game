@@ -328,6 +328,7 @@ Table of Contents
 - [看完不star，小心没jj :）!](#看完不star小心没jj-)
 
 ## Awesome-Game
+- https://github.com/notpresident35/learn-awesome-gamedev
 - https://github.com/shadowcz007/awesome-metaverse
 - https://github.com/wlxklyh/awesome-gamedev
 - https://www.gamasutra.com/category/programming/
@@ -1651,6 +1652,7 @@ Table of Contents
 #### Common-Server
 - [sylar](https://github.com/sylar-yin/sylar)  C++高性能分布式服务器框架
 ## Serialization
+- https://github.com/dbolin/Apex.Serialization
 - https://github.com/space-wizards/netserializer
 - https://github.com/apache/arrow
 - https://github.com/koralium/Koralium
@@ -1683,6 +1685,7 @@ Table of Contents
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
 - https://github.com/zachsaw/Binaron.Serializer
+- https://github.com/smopu/DragonJson c#
 - https://jsonvisio.com/editor
 - https://jsonhero.io/
 
@@ -3163,6 +3166,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ToruNiina/lbvh
 - https://github.com/EmmetOT/BoundingVolumeHierarchy
 - https://github.com/Sylmerria/Spatial-Hashing
+- https://github.com/AdamYuan/SparseVoxelOctree
 
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
@@ -3417,6 +3421,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Demystifier](https://github.com/benaadams/Ben.Demystifier) High performance understanding for stack traces (Make error logs more productive)
 - [ProductionStackTrace](https://github.com/gimelfarb/ProductionStackTrace) Without deploying PDBs, generate a .NET exception stack trace that can be processed to retrieve source file and line number info 
 - [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
+- https://github.com/smopu/unity3d_quick_reflection
 - https://github.com/madelson/DistributedLock
 - https://github.com/thedmi/Equ
 - https://github.com/bitwarden/server
@@ -3930,6 +3935,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MotionFramework/Scripts/Editor/EditorTools](https://github.com/gmhevinci/MotionFramework/blob/master/Assets/MotionFramework/Scripts/Editor/EditorTools.cs)
 - [Unity材质冗余序列化数据清理](https://zhuanlan.zhihu.com/p/366636732) 
 - [UnityClearMaterailsProperties](https://github.com/tkweizhong/UnityClearMaterailsProperties)
+- https://github.com/Unity-Javier/SimpleEditorLogParser
 ##### Textrue Compression
 - [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
 - [常用纹理和纹理压缩格式](https://blog.csdn.net/ynnmnm/article/details/44983545)

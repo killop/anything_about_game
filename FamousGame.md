@@ -10,6 +10,8 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 ## LOL mobile
 - [谈一谈英雄联盟手游渲染2](https://zhuanlan.zhihu.com/p/286836840)
 ## 原神
+- https://www.artstation.com/artwork/wJZ4Gg
+- https://github.com/yaoling1997/GT-ToneMapping
 - [从零开始的原神角色渲染](https://zhuanlan.zhihu.com/p/468209534)
 - [原神截帧分析(未完待续)](https://zhuanlan.zhihu.com/p/272495627)
 - [简单谈谈原神的渲染部分](https://zhuanlan.zhihu.com/p/259589537)
@@ -32,6 +34,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - https://github.com/CallowBlack/Il2CppInspector-Genshin
 - https://github.com/keowu/mhyprot2
 - https://github.com/Dimbreath/GenshinData
+- https://github.com/Razmoth/HoYoStudio
 ## 塞尔达传说：荒野之息
 - [为你分析历代《塞尔达传说》的美术设定与动画技术](https://www.taptap.com/topic/2604022?region=jp)
 - [《塞尔达传说：旷野之息》技术分析文章](https://www.bilibili.com/read/cv3239418)
