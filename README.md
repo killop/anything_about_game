@@ -1559,7 +1559,10 @@ Table of Contents
 - [NFShmServer](https://gitee.com/xiaoyi445_admin/NFShmServer) NFShmServer 是一个使用C++开发的轻量级,敏捷型,弹性的,分布式的共享内存的插件开发框架, 让你更快更简单的开发服务端应用. 部分思路来自UE4和Ogre.(当前主要用在游戏领域) 我写的开源架构，前几年开源过，后来自己做项目，又没开源了，现在没搞项目了，加上修改了2年了，打算重新开源
 - [hive](https://github.com/hero1s/hive) A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script
 #### Article
+- https://github.com/yiv/blog
+- https://space.bilibili.com/3981300 
 - https://github.com/briatte/awesome-network-analysis
+- https://www.codersblock.org/blog/client-side-prediction-in-unity-2018
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
 - [gafferongames](https://gafferongames.com/ )
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
@@ -3336,6 +3339,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
 - [caffeine](https://github.com/ben-manes/caffeine) A high performance caching library for Java 
 - [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
+- [Downloader](https://github.com/bezzad/Downloader) Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 - [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport) Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. 
 - https://github.com/mono/Embeddinator-4000
 - [NativeOctree](https://github.com/marijnz/NativeOctree)
@@ -3569,6 +3573,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### AutoUpdate
 - https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
 #### Framework
+- https://qinzhuo.coding.net/public/
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
 - https://github.com/gmhevinci/MotionFramework
@@ -4099,6 +4104,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [Game-Development-Notes](https://github.com/xiaxia9/Game-Development-Notes)
+* [GithubRepositoryStudy](https://github.com/3-Delta/Unity-GithubRepositoryStudy) 一些UnityRepository的学习笔记
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
 * [GameAndUnity](https://github.com/m969/GameAndUnity-TechLib)
 * [programming-awesome-list](https://github.com/BredaUniversity/programming-awesome-list)
