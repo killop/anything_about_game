@@ -1326,6 +1326,7 @@ Table of Contents
 - https://github.com/Milk-Drinker01/Milk_Instancer01
 - [Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 - https://github.com/GarrettGunnell/Grass
+- [URP-HIZ](https://github.com/himma-bit/empty)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1649,6 +1650,7 @@ Table of Contents
 - https://github.com/Yinmany/NetCode-FPS
 - https://github.com/CodingCodingK/UnityMobaDemo
 - https://github.com/Mun1z/KingNetwork
+- https://github.com/moetsi/Unity-DOTS-Multiplayer-XR-Sample
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -1703,6 +1705,7 @@ Table of Contents
 - https://github.com/tkonexhh/LearnGPUDrivenTerrain
 - https://github.com/guchengyidao/OpenWorldTerrainToolset
 - https://github.com/emrecancubukcu/Terrain-Decorator
+- https://github.com/jintiao/VirtualTexture
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -2873,6 +2876,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
 * https://github.com/gasgiant/Markup-Attributes
+* https://github.com/JasonMa0012/LWGUI
+* https://github.com/Thryrallo/ThryEditor
 ##### Windows
 - https://github.com/Gaxil/Unity-InteriorMapping
 ##### Decal
@@ -4105,6 +4110,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [Game-Development-Notes](https://github.com/xiaxia9/Game-Development-Notes)
 * [GithubRepositoryStudy](https://github.com/3-Delta/Unity-GithubRepositoryStudy) 一些UnityRepository的学习笔记
+* [网络手游开发技术图谱](https://github.com/gonglei007/GameDevMind) 网络手游开发知识、技术与信息库，游戏研发技术从业者的导航地图
 * [大崔](https://github.com/Go1c/AboutGameEngineGraphics)
 * [GameAndUnity](https://github.com/m969/GameAndUnity-TechLib)
 * [programming-awesome-list](https://github.com/BredaUniversity/programming-awesome-list)
