@@ -416,7 +416,7 @@ Table of Contents
 - [shaders](https://www.reddit.com/r/shaders/)
 - [USTC3D](https://github.com/USTC3DV)
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
-- [TA周刊](https://halisavakis.com/) 
+- [TA周刊](https://halisavakis.com/) and [archive](https://halisavakis.com/archive/)
 - [pdcxs-专注计算机艺术，创意编程](https://space.bilibili.com/10707223/video?)
 - [Unity技术美术](https://www.zhihu.com/column/c_1348315318327132160)
 - [RedYans-收集狂](https://www.zhihu.com/people/tong-yan-yan-26/posts) 
@@ -579,6 +579,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [shaderbits](https://shaderbits.com/) TA
 - [theorangeduck](https://theorangeduck.com/page/all) math animation
 - [gamehacker1999](https://gamehacker1999.github.io/) TA GI
 - [diharaw](https://diharaw.github.io/) TA GI
@@ -1376,6 +1377,7 @@ Table of Contents
 #### Metadata/Excel/Schema/Proto
 - [xresloader](https://github.com/xresloader/xresloader)
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
+- [BakingSheet](https://github.com/cathei/BakingSheet) Easy datasheet management for C# and Unity. Supports Excel, Google Sheet, JSON and CSV format.
 - [go-xlsx-exporter](https://github.com/wingcd/go-xlsx-exporter) a tool for parse xlsx and export to other fomart and data, such as: probuf3 file and buffers, golang, csharp and so on
 - https://github.com/WoW-Tools/
 - https://github.com/NtreevSoft/Crema
@@ -2878,6 +2880,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/gasgiant/Markup-Attributes
 * https://github.com/JasonMa0012/LWGUI
 * https://github.com/Thryrallo/ThryEditor
+* https://github.com/ipud2/Unity-Basic-Shader/tree/master/SimpleShaderGUI
+* [shader-graph-markdown](https://assetstore.unity.com/packages/tools/gui/shader-graph-markdown-194781)
 ##### Windows
 - https://github.com/Gaxil/Unity-InteriorMapping
 ##### Decal
