@@ -329,6 +329,7 @@ Table of Contents
 
 ## Awesome-Game
 - https://github.com/notpresident35/learn-awesome-gamedev
+- https://github.com/gmh5225/awesome-game-security
 - https://github.com/shadowcz007/awesome-metaverse
 - https://github.com/wlxklyh/awesome-gamedev
 - https://www.gamasutra.com/category/programming/
@@ -484,6 +485,7 @@ Table of Contents
 - https://github.com/unknwon/go-study-index
 #### Rust
 - https://github.com/rust-lang/this-week-in-rust
+- https://github.com/RustMagazine/rust_magazine_2021
 ## Person/Social/Blogs
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
