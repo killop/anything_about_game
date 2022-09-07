@@ -1443,6 +1443,7 @@ Table of Contents
 * [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
  
 #### Archive-Format
+- [PakFiles](https://simoncoenen.com/blog/programming/PakFiles)
 - [ValveResource](https://github.com/SteamDatabase/ValveResourceFormat) Valve's Source 2 resource file format parser, decompiler, and exporter.
 - [RainbowForge](https://github.com/parzivail/RainbowForge) .NET managed toolkit for working with Rainbow Six: Siege .FORGE (Scimitar) archive files.
 - [Cethleann](https://github.com/yretenai/Cethleann) KTGL (Soft Engine) data exploration and research
