@@ -261,6 +261,7 @@ Table of Contents
 - [C](#c-7)
 - [CPP](#cpp-1)
 - [Java](#java-1)
+- [Lua](#lua-2)
 - [Author](#author)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/JIT](#embed-scriptvmjit)
@@ -1100,6 +1101,9 @@ Table of Contents
 - https://github.com/caosdoar/Fornos
 - [material-animation-curve](https://gist.github.com/ghysc/b4f9b3266ee82edf2b02e00cef0bc6b7) A Material Property Drawer for the Curve attribute which lets you edit curves and adds them to the shader as textures
 - https://github.com/asus4/unity-texture-curve
+- [Curves-And-Gradients-To-Texture](https://github.com/RoyTheunissen/Curves-And-Gradients-To-Texture) Contains utilities for defining a curve or gradient in the inspector and automatically generating a texture for that to pass on to shaders.
+- [SDF-LightMap](https://github.com/qjh5606/SDF-LightMap) 实现了基于SDF的卡通阴影图生成
+- [BakeShader](https://github.com/Cyanilux/BakeShader) Unity editor tool for baking shaders to textures. Blit2D, Blit3D, or MeshRenderer (uses model UV). Adds options to Material & MeshRenderer context menus and Editor Window (under Window/Cyanilux/BakeShader)
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -1178,6 +1182,7 @@ Table of Contents
 - [binh.graphics](http://binh.graphics/)
 - [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
 #### MotionMatching
+- https://github.com/dreaw131313/MotionMatchingByDreaw
 - https://github.com/dreaw131313/Open-Source-Motion-Matching-System
 - https://www.zhihu.com/people/fengkan
 - https://assetstore.unity.com/packages/tools/animation/motion-matching-for-unity-145624 
@@ -1435,7 +1440,7 @@ Table of Contents
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact
 * [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
-
+* [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
  
 #### Archive-Format
 - [ValveResource](https://github.com/SteamDatabase/ValveResourceFormat) Valve's Source 2 resource file format parser, decompiler, and exporter.
@@ -1451,6 +1456,7 @@ Table of Contents
 - [SoulsFormats](https://github.com/JKAnderson/SoulsFormats) A .NET library for reading and writing FromSoftware file formats.
 - [Switch-Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) A tool to edit many video game file formats
 - [libsbml](https://github.com/sbmlteam/libsbml)
+- [WoWDBDefs](https://github.com/wowdev/WoWDBDefs)
 ## Version-Control
 - https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt
 - https://semver.org/lang/zh-CN/   -- 版本号规范
@@ -2331,6 +2337,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [upr](https://upr.unity.com/) 一款Unity出的性能分析工具，基于UnityProfiler的基础上制作的UPR，UPR的数据来自与UnityProfiler，会比Profiler有更多细节信息
 - [loli_profiler](https://github.com/Tencent/loli_profiler) Memory instrumentation tool for android app&game developers.
 - [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Excpetion-Crash)
+- [MonitorTool](https://github.com/dingxiaowei/MonitorTool) Unity性能监控软件
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
 - [uwa4d](https://www.uwa4d.com/)
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
@@ -2611,6 +2618,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- https://github.com/HigashiSan/Next-Generation-Character-Rendering
 - https://github.com/MochiesCode/Mochies-Unity-Shaders
 - https://github.com/Xibanya/ShaderTutorials
 - https://github.com/z3y/shaders
@@ -3195,6 +3203,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 
 #### Color
+- [colour-unity](https://github.com/colour-science/colour-unity)
 - [万能的曲线——堪称调色之王（颜色篇）](https://zhuanlan.zhihu.com/p/375597094)
 - [色彩理论」颜色是怎么回事儿？以及如何高效使用 Adobe 颜色库](https://www.bilibili.com/video/BV114411R7x4?)
 - [皮克斯光线与色彩应用培训中文字幕](https://www.bilibili.com/video/BV1Dr4y1P7LW?)
@@ -3455,7 +3464,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [COLA](https://github.com/alibaba/COLA) Clean Object-Oriented and Layered Architecture
 - [SnowJena](https://github.com/ystcode/SnowJena) SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景。
 - [jodd](https://github.com/oblac/jodd)(Produce lightweight code and focus on unleashing your full potential. Jodd is a set of developer-friendly and open-source Java micro-frameworks. It's designed to make things simple, but not simpler.)
-
+## Lua
+- https://github.com/cfadmin-cn/cfadmin
 
  ## Author
  - https://github.com/AzureAD/microsoft-authentication-library-for-dotnet
@@ -3696,6 +3706,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### UI
 - [OwlAndJackalope.UX](https://github.com/AnonyBob/OwlAndJackalope.UX) A simple property binding and UX management library for Unity.
 - [Rosalina](https://github.com/Eastrall/Rosalina) Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
+- https://github.com/ChebanovDD/UnityMvvmToolkit
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/JingFengJi/UpdateSpriteAssetTool
@@ -3716,6 +3727,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ReactUnity/core
 - https://github.com/chexiongsheng/XUUI
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
+- https://github.com/chasinghope/CurveLayoutGroup
 - https://github.com/506638093/RichText 头顶血条
 - https://github.com/wuxiongbin/uHyperText
 - https://github.com/coding2233/TextInlineprite
@@ -3770,6 +3782,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ashblue/oyster-package-generator
 - https://github.com/Deadcows/MyBox
 - https://github.com/handzlikchris/Unity.TransformSetterInterceptor
+- https://github.com/SolarianZ/UnityPlayableGraphMonitorTool
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -3836,6 +3849,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Navmesh
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
+- [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one in Unity.
 - [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) Alternative to Unity's NavMesh system where the agents avoid each other. 
 - [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
@@ -3891,6 +3905,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [clayxels](https://assetstore.unity.com/packages/tools/game-toolkits/clayxels-165312) unity plugin
  -  https://github.com/nementic-games/mesh-debugging
  - [BakerBoy](https://github.com/Fewes/BakerBoy) A tiny GPU-based ambient occlusion and bent normal baker for Unity
+ - [GMesh](https://github.com/sitterheim/GMesh)  a node-based procedural geometry generator for Unity
  - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
  - [UVPreview](https://github.com/AsehesL/UVPreview)
  - [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
@@ -4023,6 +4038,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  
  ## Mobile
  - [UnityAndroidRuntimePermissions](https://github.com/yasirkula/UnityAndroidRuntimePermissions)A native Unity plugin to handle runtime permissions on Android M+
+ - [unity-background-service](https://github.com/nintendaii/unity-background-service)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
