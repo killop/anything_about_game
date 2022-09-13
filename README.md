@@ -456,6 +456,7 @@ Table of Contents
 - [hardforum](https://hardforum.com/)
 #### Digest
 - [game-dev-digest](https://gamedevdigest.com/digests.html)
+- [unity-weekly](https://blog.yucchiy.com/project/unity-weekly/)
 #### UnityRoadMap
 - [UnityRoadMap](https://unity.com/cn/roadmap/unity-platform/)
 #### Common
@@ -491,6 +492,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
+- [zznewclear13](https://zznewclear13.github.io/posts/) 管线ta
 - [eukky](https://eukky.github.io/) 管线ta
 - [Neo Zheng](http://neozheng.cn/)
 - [guardhei](https://guardhei.github.io/#blog) 管线ta
@@ -1236,6 +1238,7 @@ Table of Contents
 - [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
 - https://github.com/Wafflus/unity-genshin-impact-movement-system
 - https://github.com/joebinns/stylised-character-controller
+- [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller)
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
@@ -1655,6 +1658,7 @@ Table of Contents
 * [UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with serverside framerate for Unity
 * https://github.com/JiepengTan/LockstepCollision
 * https://github.com/HeatXD/PleaseResync
+* [open-netcode](https://github.com/polartron/open-netcode)
 #### status-syn
 - https://github.com/zpl-c/librg
 - https://github.com/minism/fps-netcode
@@ -2339,6 +2343,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [loli_profiler](https://github.com/Tencent/loli_profiler) Memory instrumentation tool for android app&game developers.
 - [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Excpetion-Crash)
 - [MonitorTool](https://github.com/dingxiaowei/MonitorTool) Unity性能监控软件
+- [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
 - [uwa4d](https://www.uwa4d.com/)
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
@@ -2619,7 +2624,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
-- https://github.com/HigashiSan/Next-Generation-Character-Rendering
+- [UNITY-Arc-system-Works-Shader](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader) Shader created to emulate the design style of Arc System Works games such as Guilty Gear and Dragon Ball FighterZ. Created using Amplify Shader Editor.
+- [Next-Generation-Character-Rendering](https://github.com/HigashiSan/Next-Generation-Character-Rendering)
 - https://github.com/MochiesCode/Mochies-Unity-Shaders
 - https://github.com/Xibanya/ShaderTutorials
 - https://github.com/z3y/shaders
@@ -3375,6 +3381,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [daachorse](https://github.com/legalforce-research/daachorse) A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
 - [fasterflect](https://github.com/buunguyen/fasterflect)
 - [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) A high-performance, zero-allocation .NET logging library.
+- [Varena](https://github.com/xoofx/Varena)
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
@@ -3626,6 +3633,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Moba
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
 #### Skill
+- https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/m969/EGamePlay
 - https://github.com/huailiang/seqence 剧情-技能编辑器
 - https://github.com/jewer3330/plato 技能编辑器
@@ -3784,6 +3792,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Deadcows/MyBox
 - https://github.com/handzlikchris/Unity.TransformSetterInterceptor
 - https://github.com/SolarianZ/UnityPlayableGraphMonitorTool
+- https://github.com/KybernetikGames/LinkAndSync
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
