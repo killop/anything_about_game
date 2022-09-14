@@ -2765,6 +2765,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [学习PBR路程（四、Specular）](https://zhuanlan.zhihu.com/p/454439797)
 
 #### NPR
+- [浅谈卡通渲染与真实感渲染结合思路](https://zhuanlan.zhihu.com/p/561494026)
 - https://space.bilibili.com/32731698/channel/collectiondetail?sid=153541
 - https://github.com/TechMiZ/ToonShadingCollection
 - http://stylized.realtimerendering.com/
