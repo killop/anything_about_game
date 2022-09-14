@@ -177,6 +177,7 @@ Table of Contents
     - [imposters](#imposters)
     - [Physically-Based-Render](#physically-based-render)
     - [NPR](#npr)
+    - [NPR-Tricks](#npr-tricks)
     - [SDF](#sdf)
     - [SphericalHarmonicLighting/CubeMap/Probes](#sphericalharmoniclightingcubemapprobes)
     - [Outline](#outline)
@@ -2808,7 +2809,15 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/you-ri/LiliumToonGraph
 - https://github.com/yoship1639/UniToon
 - https://github.com/madumpa/URP_StylizedLitShader 
-
+#### NPR-Tricks
+- [ToonShadingCollection阴影章节](https://github.com/TechMiZ/ToonShadingCollection/blob/main/%E6%AD%A3%E6%96%87/13_Shadow%E6%8A%95%E5%BD%B1%E7%AF%87.md)
+- [新的程序化面部光照修正，支持顶点动画](https://www.bilibili.com/video/BV1Ar4y1a7D7/?spm_id_from=pageDriver&vd_source=5c7d796f5431572d06618f01e5e55fd8)
+- [UnityURP管线实现高质量角色单独投影](https://zhuanlan.zhihu.com/p/501739296)
+- [UnityURP卡通渲染中的刘海投影·改](https://zhuanlan.zhihu.com/p/416577141)
+- [从零开始的原神角色渲染](https://zhuanlan.zhihu.com/p/468209534)
+- [神作面部阴影渲染还原](https://zhuanlan.zhihu.com/p/361716315)
+- [Unity URP 卡通渲染 原神角色渲染记录-Function-Based Light and Shadow: Emission + SDF脸部阴影](https://zhuanlan.zhihu.com/p/552097741)
+- [YuanShen_Face](https://github.com/ipud2/Unity-Basic-Shader/blob/master/YuanShen_Face.shader)
 #### SDF
 - https://github.com/CedricGuillemet/SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
@@ -2938,6 +2947,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/boppygames/FastNoiseEditorUnity
 - https://github.com/tuxalin/procedural-tileable-shaders
 - https://github.com/ToasterTub/UniNoise
+- https://zhuanlan.zhihu.com/p/560229938
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -4097,6 +4107,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [中文文案排版](https://github.com/sparanoid/chinese-copywriting-guidelines) 
 - [掘金计划- 中文文案排版](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
 - https://github.com/writing-resources/awesome-scientific-writing
+- https://github.com/wechatsync/Wechatsync
 
 
 ## 游戏策划
