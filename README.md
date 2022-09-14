@@ -3691,6 +3691,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
+- [分析Unity在移动设备的GPU内存机制](https://zhuanlan.zhihu.com/p/50632856)
 - [解决unity3d mono内存问题的架构思路](https://zhuanlan.zhihu.com/p/379371712)
 - [关于unity mono内存优化的工具](https://zhuanlan.zhihu.com/p/99655489)
 - [Unity内存分配和回收的底层原理](https://zhuanlan.zhihu.com/p/381859536)
