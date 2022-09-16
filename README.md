@@ -289,6 +289,7 @@ Table of Contents
     - [UI-Animation](#ui-animation)
     - [2D](#2d)
     - [Timeline](#timeline)
+    - [TextureStreaming](#texturestreaming)
     - [Util](#util)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Drawing](#drawing)
@@ -1105,6 +1106,7 @@ Table of Contents
 - [material-animation-curve](https://gist.github.com/ghysc/b4f9b3266ee82edf2b02e00cef0bc6b7) A Material Property Drawer for the Curve attribute which lets you edit curves and adds them to the shader as textures
 - https://github.com/asus4/unity-texture-curve
 - [Curves-And-Gradients-To-Texture](https://github.com/RoyTheunissen/Curves-And-Gradients-To-Texture) Contains utilities for defining a curve or gradient in the inspector and automatically generating a texture for that to pass on to shaders.
+- [GradientTexture](https://github.com/mitay-walle/GradientTexture)
 - [SDF-LightMap](https://github.com/qjh5606/SDF-LightMap) 实现了基于SDF的卡通阴影图生成
 - [BakeShader](https://github.com/Cyanilux/BakeShader) Unity editor tool for baking shaders to textures. Blit2D, Blit3D, or MeshRenderer (uses model UV). Adds options to Material & MeshRenderer context menus and Editor Window (under Window/Cyanilux/BakeShader)
  #### Atlas
@@ -1447,6 +1449,7 @@ Table of Contents
 * [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
  
 #### Archive-Format
+- [gbx-net](https://github.com/BigBang1112/gbx-net)GBX.NET is a C#/.NET parser for Gbx files from Nadeo games. Supports deserialization of 150+ classes, where 50 %+ can be serialized back to Gbx.
 - [PakFiles](https://simoncoenen.com/blog/programming/PakFiles)
 - [ValveResource](https://github.com/SteamDatabase/ValveResourceFormat) Valve's Source 2 resource file format parser, decompiler, and exporter.
 - [RainbowForge](https://github.com/parzivail/RainbowForge) .NET managed toolkit for working with Rainbow Six: Siege .FORGE (Scimitar) archive files.
@@ -3030,6 +3033,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
 * [GIGL](https://github.com/vgfx/GIGL) Tiny Global Illumination OpenGL Renderer
 ##### Ray tracing
+- https://github.com/Pjbomb2/Realtime-Compute-Shader-Unity-PathTracer
 - https://github.com/fallingcat/ComputeRayTracingSamples
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
 - [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL 
@@ -3101,6 +3105,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [HDR_Lightmapper](https://github.com/Naxela/HDR_Lightmapper)  Implements a cycles based lightmapper with denoiser
 * [The_Lightmapper](https://github.com/Naxela/The_Lightmapper) Fast and easy baked GI Lightmaps for Blender and Cycles
 * [LightmapperToy](https://github.com/candycat1992/LightmapperToy) This project is a hobby lightmapper completely based on Houdini geometry nodes. Basically it grew out of a re-implementation of Matt's The Baking Lab with some modification. 
+* https://github.com/laurenth-personal/lightmap-switching-tool
+* https://github.com/Ayfel/PrefabLightmapping
+* https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps 
 ##### MLGI
 * [DeepIllumination](https://github.com/CreativeCodingLab/DeepIllumination) Code and examples from our paper "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Networks," by Manu Mathew Thomas and Angus Forbes
 
@@ -3501,6 +3508,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/fenneishi/cmake
 - https://zhuanlan.zhihu.com/p/393316878
 - https://github.com/leetal/ios-cmake
+- https://zhuanlan.zhihu.com/p/534439206
 
 ## Embed-Script/VM/JIT
 - [minivm](https://github.com/FastVM/minivm) A VM That is Dynamic and Fast
@@ -3736,6 +3744,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/coding2233/TextInlineSprite
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
 - https://github.com/akof1314/Unity-TextMeshPro-DynamicText
+- https://github.com/TonyViT/CurvedTextMeshPro
 - https://github.com/jp-netsis/RubyTextMeshPro
 - https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
@@ -3780,6 +3789,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Timeline
 - https://github.com/pofulu/TimelineTool
 - https://github.com/needle-tools/custom-timeline-editor
+#### TextureStreaming
+- [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
+- [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
 #### Util
 - https://github.com/Hertzole/runtime-options-manager
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
@@ -3795,8 +3807,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/doitian/unity-git-hooks
 - https://github.com/SirHall/Excessives
 - https://github.com/prime31/UtilityKit
-- https://github.com/laurenth-personal/lightmap-switching-tool
-- https://github.com/Ayfel/PrefabLightmapping
 - https://github.com/vertxxyz/NTexturePreview
 - https://github.com/Unity-Technologies/AutoLOD/tree/master/Runtime/Helpers
 - https://github.com/renanwolf/UniRate/
