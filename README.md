@@ -305,6 +305,7 @@ Table of Contents
     - [Voxel](#voxel-1)
     - [Fog](#fog)
     - [Volumetric Mesh](#volumetric-mesh)
+    - [VolumetricClouds](#volumetricclouds)
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
     - [Material-Cleaner](#material-cleaner)
@@ -3378,9 +3379,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/LunaMultiplayer/CachedQuickLz Allows you to compress and decompress with QuickLz while keeping low the GC pressure
 - [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
 - [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
+- [trienet](https://github.com/gmamaladze/trienet) .NET Implementations of Trie Data Structures for Substring Search, Auto-completion and Intelli-sense. Includes: patricia trie, suffix trie and a trie implementation using Ukkonen's algorithm.
 - https://github.com/AArnott/Nerdbank.Streams 高效流
 - [AsyncWorkerCollection](https://github.com/dotnet-campus/AsyncWorkerCollection) A collection of tools that support asynchronous methods and support high-performance multithreading.
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
+- [BurstCollections](https://github.com/andywiecko/BurstCollections)
 - [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
 - [caffeine](https://github.com/ben-manes/caffeine) A high performance caching library for Java 
 - [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
@@ -3390,6 +3393,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [NativeOctree](https://github.com/marijnz/NativeOctree)
 - [SharedMemory](https://github.com/justinstenning/SharedMemory) C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
 - [interprocess](https://github.com/cloudtoid/interprocess) A cross-platform shared memory queue for fast communication between processes (Interprocess Communication or IPC).
+- [LeslieXin.SimpleMMF](https://github.com/lesliexinxin/LeslieXin.SimpleMMF) 简单、易用的进程间通信框架，基于共享内存实现。
 - [DawgSharp](https://github.com/bzaar/DawgSharp) DAWG String Dictionary in C# 
 - [Towel](https://github.com/ZacharyPatten/Towel) A .NET library intended to make coding a bit more towelerable: data structures, algorithms, mathematics, metadata, extensions, console, and more. :)
 - [QuikGraph](https://github.com/KeRNeLith/QuikGraph) About Generic Graph Data Structures and Algorithms for .NET
@@ -3400,6 +3404,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [fasterflect](https://github.com/buunguyen/fasterflect)
 - [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) A high-performance, zero-allocation .NET logging library.
 - [Varena](https://github.com/xoofx/Varena)
+- [NativeStringCollections](https://github.com/kawai125/NativeStringCollections) The toolset to parse text files using C# JobSystem on Unity.
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
@@ -3959,6 +3964,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 #### Volumetric Mesh
 -  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
+####  VolumetricClouds
+- https://github.com/vanish87/UnityVolumetricCloud
+- https://github.com/adrianpolimeni/RealTimeVolumetricClouds
 #### Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
@@ -4071,6 +4079,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  ## Mobile
  - [UnityAndroidRuntimePermissions](https://github.com/yasirkula/UnityAndroidRuntimePermissions)A native Unity plugin to handle runtime permissions on Android M+
  - [unity-background-service](https://github.com/nintendaii/unity-background-service)
+ - [unimgpicker](https://github.com/thedoritos/unimgpicker)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
