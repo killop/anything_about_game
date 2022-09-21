@@ -1583,6 +1583,7 @@ Table of Contents
 - [NFShmServer](https://gitee.com/xiaoyi445_admin/NFShmServer) NFShmServer 是一个使用C++开发的轻量级,敏捷型,弹性的,分布式的共享内存的插件开发框架, 让你更快更简单的开发服务端应用. 部分思路来自UE4和Ogre.(当前主要用在游戏领域) 我写的开源架构，前几年开源过，后来自己做项目，又没开源了，现在没搞项目了，加上修改了2年了，打算重新开源
 - [hive](https://github.com/hero1s/hive) A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script
 #### Article
+- https://zhuanlan.zhihu.com/p/565731139
 - https://zhuanlan.zhihu.com/p/565875153
 - https://github.com/yiv/blog
 - https://space.bilibili.com/3981300 
