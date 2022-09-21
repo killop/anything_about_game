@@ -72,7 +72,7 @@ Table of Contents
     - [Physics Based Animation](#physics-based-animation)
     - [MotionMatching](#motionmatching)
     - [Movement](#movement)
-    - [Animation Controller](#animation-controller)
+    - [Animation-Controller](#animation-controller)
     - [Character-Controller](#character-controller)
     - [Unity-Tool](#unity-tool)
 - [Console/Command/Shell/Debugger](#consolecommandshelldebugger)
@@ -1188,6 +1188,7 @@ Table of Contents
 - [binh.graphics](http://binh.graphics/)
 - [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
 #### MotionMatching
+- https://github.com/sssnidebaba/motionmatch
 - https://github.com/dreaw131313/MotionMatchingByDreaw
 - https://github.com/dreaw131313/Open-Source-Motion-Matching-System
 - https://www.zhihu.com/people/fengkan
@@ -1210,7 +1211,7 @@ Table of Contents
 -  https://github.com/rygo6/CardExample-Unity
 -  https://github.com/ycarowr/UiCard
 -  https://github.com/CragonGame/CasinosClient
-#### Animation Controller
+#### Animation-Controller
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/rurre/PumkinsAvatarTools unity 表情
 - https://github.com/huailiang/knead_proj unity  捏脸
@@ -1227,6 +1228,8 @@ Table of Contents
 - [DOTSAnimation](https://github.com/gamedev-pro/DOTSAnimation) A high level Animation State Machine Framework for Unity DOTS
 - [kinematica](https://docs.unity3d.com/Packages/com.unity.kinematica@0.8/manual/index.html)
 - [reanimation](https://github.com/aarthificial/reanimation) An alternative animator for Unity tailored for traditional animation
+- [dmotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
+- [Puppeteer](https://github.com/SolarianZ/Puppeteer) A graph based animation controller for Unity. 
 #### Character-Controller
 - [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
@@ -1450,6 +1453,7 @@ Table of Contents
 * [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
  
 #### Archive-Format
+- [VGO](https://github.com/izayoijiichan/VGO) VGO is a 3D data format for Unity that can store Mesh, Texture, Material, Collider, Rigidbody, Cloth and Particle information.
 - [gbx-net](https://github.com/BigBang1112/gbx-net)GBX.NET is a C#/.NET parser for Gbx files from Nadeo games. Supports deserialization of 150+ classes, where 50 %+ can be serialized back to Gbx.
 - [PakFiles](https://simoncoenen.com/blog/programming/PakFiles)
 - [ValveResource](https://github.com/SteamDatabase/ValveResourceFormat) Valve's Source 2 resource file format parser, decompiler, and exporter.
@@ -1579,6 +1583,7 @@ Table of Contents
 - [NFShmServer](https://gitee.com/xiaoyi445_admin/NFShmServer) NFShmServer 是一个使用C++开发的轻量级,敏捷型,弹性的,分布式的共享内存的插件开发框架, 让你更快更简单的开发服务端应用. 部分思路来自UE4和Ogre.(当前主要用在游戏领域) 我写的开源架构，前几年开源过，后来自己做项目，又没开源了，现在没搞项目了，加上修改了2年了，打算重新开源
 - [hive](https://github.com/hero1s/hive) A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script
 #### Article
+- https://zhuanlan.zhihu.com/p/565875153
 - https://github.com/yiv/blog
 - https://space.bilibili.com/3981300 
 - https://github.com/briatte/awesome-network-analysis
@@ -1844,6 +1849,7 @@ Table of Contents
 - [面试官：换人！他连 TCP 这几个参数都不懂 ](https://mp.weixin.qq.com/s/fjnChU3MKNc_x-Wk7evLhg)
 - [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
 #### C#
+- [Enclave.FastPacket](https://github.com/enclave-networks/Enclave.FastPacket) The FastPacket project provides efficient, zero-allocation mechanisms for reading and writing individual network packets
 - [netmq](https://github.com/zeromq/netmq) A 100% native C# implementation of ZeroMQ for .NET
 - [DOTSNET](https://assetstore.unity.com/packages/tools/network/dotsnet-dots-networking-102633) unity -dots netcode plugin
 - [multiplayer-community-contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions)
@@ -2094,6 +2100,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming :o2:
 * [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 - https://saeruhikari.github.io/SakuraEngine/#/ Sakura
+- https://github.com/SakuraEngine
 - https://github.com/magefree/mage
 - https://github.com/nem0/LumixEngine
 - https://github.com/tkgamegroup/flame An ECS Game Engine Based On Reflection.
@@ -3366,6 +3373,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - https://surparallel.org unity 多线程优化工具
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
+- https://github.com/wangjia184/HashedWheelTimer HashedWheelTimer implemented in C# and .Net Standard inspired by io.netty.util.HashedWheelTimer
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
@@ -3862,7 +3870,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * System performances. 
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
-* [dmotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
 * [actors](https://github.com/PixeyeHQ/actors.unity)
 * [ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)
 * [UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation)
@@ -4080,6 +4087,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [UnityAndroidRuntimePermissions](https://github.com/yasirkula/UnityAndroidRuntimePermissions)A native Unity plugin to handle runtime permissions on Android M+
  - [unity-background-service](https://github.com/nintendaii/unity-background-service)
  - [unimgpicker](https://github.com/thedoritos/unimgpicker)
+ - [Unity-iOS-Android-Download](https://github.com/LBCross/Unity-iOS-Android-Download)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
@@ -4138,6 +4146,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [国外游戏理论研究的前沿都在研究什么？](https://www.zhihu.com/question/50253977/answer/120147034)
 
 #### 镜头
+- https://www.zhihu.com/people/cptz-23
 - https://zhuanlan.zhihu.com/p/138144313 
 - https://zhuanlan.zhihu.com/p/371213488 
 - https://zhuanlan.zhihu.com/p/22098814 
