@@ -10,6 +10,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 ## LOL mobile
 - [谈一谈英雄联盟手游渲染2](https://zhuanlan.zhihu.com/p/286836840)
 ## 原神
+- [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
 - https://www.artstation.com/artwork/wJZ4Gg
 - https://github.com/yaoling1997/GT-ToneMapping
 - [从零开始的原神角色渲染](https://zhuanlan.zhihu.com/p/468209534)

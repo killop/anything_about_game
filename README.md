@@ -1210,6 +1210,7 @@ Table of Contents
 -  [Fluent Animation - An incredible animation queue system](https://assetstore.unity.com/packages/tools/animation/fluent-animation-an-incredible-animation-queue-system-84715) unity-plugin
 -  https://github.com/rygo6/CardExample-Unity
 -  https://github.com/ycarowr/UiCard
+-  https://github.com/IainS1986/UnityCoverFlow
 -  https://github.com/CragonGame/CasinosClient
 #### Animation-Controller
 - https://github.com/hiroki-o/VoxBlend unity  表情
@@ -1245,6 +1246,7 @@ Table of Contents
 - [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
 - https://github.com/Wafflus/unity-genshin-impact-movement-system
 - https://github.com/joebinns/stylised-character-controller
+- https://github.com/mixandjam/Batman-Arkham-Combat
 - [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller)
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
@@ -1677,6 +1679,7 @@ Table of Contents
 - https://github.com/CodingCodingK/UnityMobaDemo
 - https://github.com/Mun1z/KingNetwork
 - https://github.com/moetsi/Unity-DOTS-Multiplayer-XR-Sample
+- https://github.com/luoyikun/UnityMobaDemo
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -1732,6 +1735,7 @@ Table of Contents
 - https://github.com/guchengyidao/OpenWorldTerrainToolset
 - https://github.com/emrecancubukcu/Terrain-Decorator
 - https://github.com/jintiao/VirtualTexture
+- https://github.com/ACskyline/PVTUT
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -1863,6 +1867,7 @@ Whether you’re creating mobile games, the next esport title, enterprise collab
 Fast, reliable, scalable.
 - [darkriftnetworking](https://darkriftnetworking.com/) DarkRift Networking is a high performance, multithreaded networking system for Unity designed for speed and flexibility. It aims to be the ideal solution for every type of game, be it a First Person Shooter, a Trading card game or a Massively Multiplayer Online game. DarkRift Networking is the right choice for you.  
 - [Mirror](https://github.com/vis2k/Mirror) A community replacement for Unity's abandoned UNET Networking System. 
+- [Unity-Mirror-Helper-Scripts](https://github.com/Goodgulf281/Unity-Mirror-Helper-Scripts) A collection of helper scripts for (Unity3d) Mirror networking.
 - [Ruffles](https://github.com/MidLevel/Ruffles) Lightweight and fully managed reliable UDP library. 
 - [libplanet](https://github.com/planetarium/libplanet) Blockchain core in C#/.NET for persistent peer-to-peer online games 
 - [supersocket](https://docs.supersocket.net/) 国人的骄傲
@@ -2645,6 +2650,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/sam20191128/shader_URP
 - https://github.com/orels1/orels-Unity-Shaders filament unity shader
 - https://github.com/poiyomi/PoiyomiToonShader A feature rich toon shader for unity and VR Chat
+- https://github.com/AoiKamishiro/PoiyomiToonShader
 - https://github.com/Alligrater/Shader-Practice
 - https://github.com/cnlohr/shadertrixx shader tricks
 - https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
@@ -2961,6 +2967,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/tuxalin/procedural-tileable-shaders
 - https://github.com/ToasterTub/UniNoise
 - https://zhuanlan.zhihu.com/p/560229938
+- https://github.com/BrianSharpe/Wombat
+- https://github.com/BrianSharpe/GPU-Noise-Lib
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -3871,6 +3879,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * System performances. 
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
+* [bovinelabs](https://github.com/tertle/com.bovinelabs.core)
 * [actors](https://github.com/PixeyeHQ/actors.unity)
 * [ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)
 * [UniteAustinTechnicalPresentation](https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation)
@@ -3892,6 +3901,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/trgrote/JPS-Unity
 * https://space.bilibili.com/477041559
 #### Navmesh
+- [Unity-Formation-Movement2.0](https://github.com/Goodgulf281/Unity-Formation-Movement2.0)  Formation movement for Unity 3D using built in NavMesh navigation or A*Pathfinding
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
 - [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one in Unity.
@@ -3975,6 +3985,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ####  VolumetricClouds
 - https://github.com/vanish87/UnityVolumetricCloud
 - https://github.com/adrianpolimeni/RealTimeVolumetricClouds
+- https://github.com/Raphael2048/URP_SkyAtmosphere_VolumetricClouds
 #### Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
@@ -4089,6 +4100,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [unity-background-service](https://github.com/nintendaii/unity-background-service)
  - [unimgpicker](https://github.com/thedoritos/unimgpicker)
  - [Unity-iOS-Android-Download](https://github.com/LBCross/Unity-iOS-Android-Download)
+ - [Unity-NativePlugins](https://github.com/AlexMerzlikin/Unity-NativePlugins)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
