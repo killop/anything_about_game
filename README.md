@@ -1688,6 +1688,7 @@ Table of Contents
 #### Common-Server
 - [sylar](https://github.com/sylar-yin/sylar)  C++高性能分布式服务器框架
 ## Serialization
+- https://github.com/Cysharp/MemoryPack
 - https://github.com/dbolin/Apex.Serialization
 - https://github.com/space-wizards/netserializer
 - https://github.com/apache/arrow
