@@ -128,7 +128,7 @@ Table of Contents
     - [C#](#c-2)
     - [C/CPP](#ccpp)
     - [Rust](#rust-2)
-    - [Web/Http](#webhttp)
+    - [Web/Http/Server/Client](#webhttpserverclient)
 - [GameEngine Design](#gameengine-design)
     - [Collection](#collection-4)
     - [Article/Course](#articlecourse)
@@ -1964,12 +1964,15 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 #### Rust
 - [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
-#### Web/Http
+#### Web/Http/Server/Client
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 - https://github.com/codeskyblue/gohttpserver
 - https://github.com/filebrowser/filebrowser
-- https://github.com/jpgordon00/UnityFileDownloader
+- [UnityFileDownloader](https://github.com/jpgordon00/UnityFileDownloader) Download multiple files at a time in Unity.
+- [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
+- [Downloader](https://github.com/bezzad/Downloader) Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
+- [DownloadFile](https://github.com/GrayGuardian/DownloadFile)基于Unity平台 C#编写的断点续传、多线程下载模块 
 ## GameEngine Design
 #### Collection
 - https://github.com/redorav/public_source_engines
@@ -3406,8 +3409,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [BurstCollections](https://github.com/andywiecko/BurstCollections)
 - [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
 - [caffeine](https://github.com/ben-manes/caffeine) A high performance caching library for Java 
-- [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
-- [Downloader](https://github.com/bezzad/Downloader) Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 - [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport) Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. 
 - https://github.com/mono/Embeddinator-4000
 - [NativeOctree](https://github.com/marijnz/NativeOctree)
