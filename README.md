@@ -510,7 +510,8 @@ Table of Contents
 - [恶毒的狗](https://baddogzz.github.io/)
 - [noodle1983](https://noodle1983.github.io/) 服务器
 - [musoucrow](https://musoucrow.github.io/)
-- [查利鹏](https://imzlp.com/)
+- [查利鹏](https://imzlp.com/) ue
+- [王爱国](https://dawnarc.com/archives/)
 - [bentleyblanks](http://bentleyblanks.github.io/) ue ta
 - [huanime](https://huanime.com.cn/) unity ta
 - [大鹏的专栏](https://blog.csdn.net/yudianxia)
@@ -988,6 +989,7 @@ Table of Contents
 - [mantis-lod-editor](https://assetstore.unity.com/packages/tools/modeling/mantis-lod-editor-professional-edition-37086?) unity-plugin
 - [poly-few](https://assetstore.unity.com/packages/tools/utilities/poly-few-mesh-simplifier-and-auto-lod-generator-160139) unity-plugin
 - [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) Mesh simplification for Unity.
+- [Halfedge mesh handler on Unity](https://github.com/komietty/unity-halfedge)
 #### List-of-game-middleware
 - https://en.wikipedia.org/wiki/List_of_game_middleware
 #### CG Software API
@@ -2969,6 +2971,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://zhuanlan.zhihu.com/p/560229938
 - https://github.com/BrianSharpe/Wombat
 - https://github.com/BrianSharpe/GPU-Noise-Lib
+- https://github.com/ashima/webgl-noise
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -3483,11 +3486,12 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/kgrzybek/modular-monolith-with-ddd 领域设计驱动 
 - https://getakka.net/ - Akka.Net
 - https://dotnet.github.io/orleans/ actor
+- https://github.com/OrleansContrib/Orleankka actor 
+- https://github.com/ledjon-behluli/OrleanSpaces
+- https://github.com/RayTale/Vertex Vertex is a distributed, ultimately consistent, event traceable cross platform framework based on Orleans, which is used to build high-performance, high throughput, low latency, scalable distributed applications 
+- https://www.newlifex.com/ 
 - https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开框架 
 - https://github.com/nodatime/nodatime 时间管理
-- https://github.com/OrleansContrib/Orleankka actor 
-- https://github.com/RayTale/Vertex Vertex is a distributed, ultimately consistent, event traceable cross platform framework based on Orleans, which is used to build high-performance, high throughput, low latency, scalable distributed applications 
-- https://www.newlifex.com/
 - https://github.com/night-moon-studio/Leo A high-performance type dynamic operation library.
 - [Chinese](https://github.com/zmjack/Chinese) 中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。
 - [Demystifier](https://github.com/benaadams/Ben.Demystifier) High performance understanding for stack traces (Make error logs more productive)
@@ -3778,6 +3782,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/LudiKha/Graphene
 - https://github.com/ReactUnity/core
 - https://github.com/chexiongsheng/XUUI
+- [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/chasinghope/CurveLayoutGroup
 - https://github.com/506638093/RichText 头顶血条
