@@ -1331,6 +1331,7 @@ Table of Contents
 - [cityengine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
 - https://www.raywenderlich.com/3169311-runtime-mesh-manipulation-with-unity
 #### Tree/Vegetation/Grass
+- [AltTrees System](https://assetstore.unity.com/packages/tools/terrain/alttrees-system-beta-76657) UnityPlugin: AltTrees is an alternative tree system for Unity. Supports SpeedTree, Tree Creator, and meshes
 - [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improve
 - [Vegetation Studio](https://assetstore.unity.com/packages/tools/terrain/vegetation-studio-pro-131835) UnityPlugin
 - [VegetationStudioProExtensions](https://github.com/Roland09/VegetationStudioProExtensions)
