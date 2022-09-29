@@ -134,6 +134,7 @@ Table of Contents
     - [Article/Course](#articlecourse)
     - [2D Engines and Frameworks](#2d-engines-and-frameworks)
     - [3D Engines and Frameworks](#3d-engines-and-frameworks)
+- [GameAI](#gameai)
 - [Creative Code](#creative-code)
 - [并发执行和多线程](#并发执行和多线程)
     - [CPP](#cpp)
@@ -354,7 +355,6 @@ Table of Contents
 - [cpp_youtube_channels](https://github.com/shafik/cpp_youtube_channels) : Listing of C++ Youtube channels for conferences and user groups
 - [programming-talks](https://github.com/hellerve/programming-talks) : Awesome & interesting talks about programming
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) : A collection of resources on modern C++
-- [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
 - [GameDevelopmentLinks](https://github.com/UnterrainerInformatik/GameDevelopmentLinks) : This is a collection of useful game-development links including, but not restricted to, development with MonoGame.
 - [awesome-cg-vfx-pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) : List of open-source technologies that help in the process of building a pipeline for CG and VFX productions
 - [awesome-glsl](https://github.com/radixzz/awesome-glsl) : Compilation of the best resources to learn programming OpenGL Shaders
@@ -491,6 +491,7 @@ Table of Contents
 #### Rust
 - https://github.com/rust-lang/this-week-in-rust
 - https://github.com/RustMagazine/rust_magazine_2021
+- https://github.com/rustlang-cn/rust-weekly
 ## Person/Social/Blogs
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
@@ -951,6 +952,7 @@ Table of Contents
 - [dilay](https://abau.org/dilay/)  A 3D sculpting application that provides an intuitive workflow using a number of powerful modelling tools.
 
 ##### Hair
+- https://github.com/AdamFrisby/UnityHairShader
 - https://github.com/Unity-Technologies/com.unity.demoteam.hair
 - https://github.com/kennux/VHair
 - https://zhuanlan.zhihu.com/p/330259306 头发渲染
@@ -1166,6 +1168,7 @@ Table of Contents
 - [vertex-animation-tools](https://assetstore.unity.com/packages/tools/animation/vertex-animation-tools-128190)
 - [vertexmotion](https://assetstore.unity.com/packages/tools/animation/vertexmotion-pro-25127)
 #### Tween
+- [UrMotion](https://github.com/beinteractive/UrMotion) Flexible motion engine for non time-based animation in Unity.
 - [Tween Player](https://assetstore.unity.com/packages/tools/animation/tween-player-158922) This is a simple & high performance & powerful interpolation animation tool. Unlike other interpolation animation tools, Tween Player is more data-driven and extensible. 
 - [dotween-pro](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416) famous unity plugin
 - [leantween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) LeanTween is an efficient tween engine that offers a many of the same features as the other tween engines (and more!) while having much less overhead.
@@ -1520,6 +1523,7 @@ Table of Contents
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
+- https://github.com/networkprotocol/yojimbo
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
 - https://github.com/dotnwat/awesome-seastar
 - https://github.com/TrinityCore/TrinityCore
@@ -1659,6 +1663,7 @@ Table of Contents
 - [Source_Multiplayer_Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
 - [Dead Reckoning: Latency Hiding for Networked Games](https://www.gamedeveloper.com/programming/dead-reckoning-latency-hiding-for-networked-games)
 #### Lockstep
+- https://github.com/QinZhuo/IDG_Game_One
 - https://github.com/Yinmany/NetCode-FPS
 - http://netcoding4d.com/
 - https://cloud.tencent.com/product/mgobe
@@ -1875,6 +1880,7 @@ Fast, reliable, scalable.
 - [Ruffles](https://github.com/MidLevel/Ruffles) Lightweight and fully managed reliable UDP library. 
 - [libplanet](https://github.com/planetarium/libplanet) Blockchain core in C#/.NET for persistent peer-to-peer online games 
 - [supersocket](https://docs.supersocket.net/) 国人的骄傲
+- [BeetleX](https://github.com/beetlex-io/BeetleX) high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution
 - [SAEA](https://github.com/yswenli/SAEA) SAEA.Socket是一个高性能IOCP框架的 TCP，基于dotnet standard 2.0；Src中含有其应用测试场景，例如websocket、rpc、redis驱动、MVC WebAPI、轻量级消息服…
 - [ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) This repository provides a managed C# abstraction of GameNetworkingSockets library which is created and maintained by Valve Software. You will need to build the native library with all required dependencies before you get started.
 - [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
@@ -2125,7 +2131,15 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [skylicht-engine](https://github.com/skylicht-lab/skylicht-engine) Skylicht Engine is C++ Game Engine based on Irrlicht 3D
 - [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
 - [rbfx](https://github.com/rokups/rbfx)
-- [WolfEngine](https://github.com/WolfEngine/Wolf.Engine) The Wolf is a comprehensive set of C/C++ open source libraries for realtime rendering, realtime streaming and game developing 
+- [WolfEngine](https://github.com/WolfEngine/Wolf.Engine) The Wolf is a comprehensive set of C/C++ open source libraries for realtime rendering, realtime streaming and game developing
+## GameAI
+* [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
+- [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
+- [com.bananaparty.behaviortree](https://github.com/forcepusher/com.bananaparty.behaviortree) Unity package. Fully cross-platform Behavior Tree featuring support for deterministic simulation and prediction-rollback netcode.  
+- https://github.com/piruzhaolu/ActionFlow
+- https://github.com/SinyavtsevIlya/BehaviorTree
+- https://github.com/ls361664056/GameAI-paper-list
+- https://github.com/jzyong/GameAI4j
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -2571,6 +2585,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.interactiveshaderformat.com/popular 
 - https://github.com/Calence/BookContainer
 - https://github.com/Gforcex/OpenGraphic
+- https://github.com/ArturoNereu/ComputerGraphics
 - https://github.com/mattdesl/graphics-resources
 - https://docs.krita.org/zh_CN/general_concepts.html
 - https://github.com/jbhuang0604/awesome-computer-vision
@@ -2869,6 +2884,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 - https://github.com/wlgys8/SHLearn 
 - [详解Cubemap、IBL与球谐光照](https://zhuanlan.zhihu.com/p/463309766)
+- [AmbientProbesUnity](https://github.com/staggartcreations/AmbientProbesUnity) Ambient lighting probe sampling
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -2977,6 +2993,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/BrianSharpe/Wombat
 - https://github.com/BrianSharpe/GPU-Noise-Lib
 - https://github.com/ashima/webgl-noise
+- https://github.com/Fewes/CloudNoiseGen
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -3872,8 +3889,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
 - https://github.com/Wind-Coming/MultiUnitSameScreen
-- https://github.com/piruzhaolu/ActionFlow
-- https://github.com/SinyavtsevIlya/BehaviorTree
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
@@ -3883,9 +3898,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
-* [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job 
-* System performances. 
-* [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
+* [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances. 
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
 * [bovinelabs](https://github.com/tertle/com.bovinelabs.core)
 * [actors](https://github.com/PixeyeHQ/actors.unity)
@@ -3989,6 +4002,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [unity-voxel-SC-WGRDemo](https://github.com/betairylia/unity-voxel-SC-WGRDemo) Unity playground for voxel world generation / rendering.
 #### Fog
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
+- [FogOfWar](https://github.com/QinZhuo/FogOfWar_ForUnity) unity实现的基于视野的战争迷雾
 #### Volumetric Mesh
 -  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
 ####  VolumetricClouds
