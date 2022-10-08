@@ -232,7 +232,7 @@ Table of Contents
       - [ltcgi](#ltcgi)
     - [Shadow](#shadow)
     - [GPGPU](#gpgpu)
-    - [Compute Shader](#compute-shader)
+    - [Compute-Shader](#compute-shader)
     - [GPU Driven](#gpu-driven)
     - [GPU-Particle](#gpu-particle)
     - [BVH](#bvh)
@@ -515,6 +515,7 @@ Table of Contents
 - [王爱国](https://dawnarc.com/archives/)
 - [bentleyblanks](http://bentleyblanks.github.io/) ue ta
 - [huanime](https://huanime.com.cn/) unity ta
+- [yuqiaozhang](https://yuqiaozhang.github.io/) 管线ta
 - [大鹏的专栏](https://blog.csdn.net/yudianxia)
 - [mayidong](http://ma-yidong.com/blog/)
 - [skywind](http://www.skywind.me/blog/)
@@ -1193,6 +1194,7 @@ Table of Contents
 - [binh.graphics](http://binh.graphics/)
 - [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
 #### MotionMatching
+- https://github.com/JLPM22/MotionMatching
 - https://github.com/sssnidebaba/motionmatch
 - https://github.com/dreaw131313/MotionMatchingByDreaw
 - https://github.com/dreaw131313/Open-Source-Motion-Matching-System
@@ -1748,6 +1750,7 @@ Table of Contents
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
+- [ZoneTree](https://github.com/koculu/ZoneTree) ZoneTree is a persistent, high-performance, transactional, ACID-compliant ordered key-value database for NET. It can operate in memory or on local/cloud storage.
 - [realm](https://github.com/realm/realm-dotnet) Realm is a mobile database: a replacement for SQLite & ORMs 
 - [LiteDB](https://github.com/mbdavid/LiteDB) LiteDB - A .NET NoSQL Document Store in a single data file 
 - [ravendb](https://github.com/ravendb/ravendb) ACID Document Database 
@@ -1842,6 +1845,7 @@ Table of Contents
 - [nevod](https://nevod.io) Nevod is a language and technology for pattern-based text search. It is specially aimed to rapidly reveal entities and their relationships in texts written in the natural language.
 - [AngouriMath](https://github.com/asc-community/AngouriMath) Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
 - [t4](https://github.com/faster-games/t4) T4 text template generative importer for Unity3D
+- [t4-templates-unity3d](https://github.com/deniszykov/t4-templates-unity3d) T4 Text Template Processor for Unity3D
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -2384,6 +2388,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [MonitorTool](https://github.com/dingxiaowei/MonitorTool) Unity性能监控软件
 - [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
+- [UnityMemorySnapshotThing](https://github.com/SamboyCoding/UnityMemorySnapshotThing) Tool to work with unity memory snapshots
 - [uwa4d](https://www.uwa4d.com/)
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
 - [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
@@ -2885,6 +2890,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/wlgys8/SHLearn 
 - [详解Cubemap、IBL与球谐光照](https://zhuanlan.zhihu.com/p/463309766)
 - [AmbientProbesUnity](https://github.com/staggartcreations/AmbientProbesUnity) Ambient lighting probe sampling
+- [light_probe_placement](https://github.com/cgaueb/light_probe_placement) Unity component for the implementation of the Eurographics 2021 Poster: Illumination-driven Light Probe Placement.
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -2994,6 +3000,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/BrianSharpe/GPU-Noise-Lib
 - https://github.com/ashima/webgl-noise
 - https://github.com/Fewes/CloudNoiseGen
+- https://github.com/stegu/psrdnoise
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -3187,7 +3194,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
 - [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/) 
-#### Compute Shader
+#### Compute-Shader
 - [Compute Shader 简介](http://frankorz.com/2021/04/17/compute-shader/)
 - [Introduction to Compute Shaders](https://anteru.net/blog/2018/intro-to-compute-shaders/)
 - [More Compute Shaders](https://anteru.net/blog/2018/more-compute-shaders/)
@@ -3397,6 +3404,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [bad-word-filter](https://assetstore.unity.com/packages/tools/localization/bad-word-filter-pro-26255) unity-plugin
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
 - https://github.com/NewbieGameCoder/IllegalWordsDetection 敏感词过滤
+- https://github.com/871041532/ZMatchForLua
 
 
 ## 高性能数据结构和算法
@@ -4124,10 +4132,12 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [unimgpicker](https://github.com/thedoritos/unimgpicker)
  - [Unity-iOS-Android-Download](https://github.com/LBCross/Unity-iOS-Android-Download)
  - [Unity-NativePlugins](https://github.com/AlexMerzlikin/Unity-NativePlugins)
+ - [Android-Auxiliary](https://github.com/JYX-MOD/Android-Auxiliary) Unity开发过程中部分安卓操作会用到的函数
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
 - https://github.com/skyteks
+- https://github.com/judah4/MMO-Dragon-Game-Framwork
 ## Programmer-Common-Tool
 - https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
