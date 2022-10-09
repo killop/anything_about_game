@@ -241,7 +241,6 @@ Table of Contents
     - [MatCaps](#matcaps)
     - [Color](#color)
     - [Depth](#depth)
-    - [GameEngine-Design-Blog-Artcile](#gameengine-design-blog-artcile)
   - [FPS](#fps)
 - [Interview/DataStruct-Algorithms](#interviewdatastruct-algorithms)
     - [Article](#article-5)
@@ -278,7 +277,6 @@ Table of Contents
     - [AutoUpdate](#autoupdate)
     - [Framework](#framework)
     - [Dependency Injection](#dependency-injection)
-    - [Moba](#moba)
     - [Skill](#skill)
     - [Occlusion Culling](#occlusion-culling)
     - [ShaderGraph&&Effect](#shadergrapheffect)
@@ -330,7 +328,7 @@ Table of Contents
     - [镜头](#镜头)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
 - [友情链接](#友情链接)
-- [看完不star，小心没jj :）!](#看完不star小心没jj-)
+- [看完不star，小心没jj :)!](#看完不star小心没jj-)
 
 ## Awesome-Game
 - https://github.com/notpresident35/learn-awesome-gamedev
@@ -1690,6 +1688,8 @@ Table of Contents
 - https://github.com/Mun1z/KingNetwork
 - https://github.com/moetsi/Unity-DOTS-Multiplayer-XR-Sample
 - https://github.com/luoyikun/UnityMobaDemo
+- https://github.com/celojevic/NetworkParticleSystem
+- https://github.com/LambdaTheDev/NetworkAudioSync
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -1993,6 +1993,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://ourmachinery.com/
 - [多线程渲染](https://zhuanlan.zhihu.com/p/44116722)
 - [UE4 关于主循环的资料](https://zhuanlan.zhihu.com/p/225465983)
+- http://www.thisisgame.com.cn/book/makegameenginatnight/
+- https://github.com/Pikachuxxxx/Razix
+- https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
+- https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
+- https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源 
 #### 2D Engines and Frameworks
 - [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 - [Skybolt](https://github.com/Piraxus/Skybolt) Planetary rendering engine and aerospace simulation tools
@@ -2358,7 +2363,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) A PBD fluid in unity running on the GPU
 - [Trinity](https://github.com/portsmouth/Trinity) Programmable 3D GPU (WebGL) fluid simulator
 - [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
-
+- [Fluid-Simulator](https://github.com/Al-Asl/Fluid-Simulator) Case study on fluid dynamics, Volumetric GPU-Based fluid simulator
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
@@ -2891,6 +2896,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [详解Cubemap、IBL与球谐光照](https://zhuanlan.zhihu.com/p/463309766)
 - [AmbientProbesUnity](https://github.com/staggartcreations/AmbientProbesUnity) Ambient lighting probe sampling
 - [light_probe_placement](https://github.com/cgaueb/light_probe_placement) Unity component for the implementation of the Eurographics 2021 Poster: Illumination-driven Light Probe Placement.
+- [Unity-Specular-Probes](https://github.com/frostbone25/Unity-Specular-Probes)
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -3042,6 +3048,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
 * [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
 * [实时PRTGI技术与实现](https://zhuanlan.zhihu.com/p/541137978)
+* [预计算辐照度全局光照（PRTGI）从理论到实战](https://zhuanlan.zhihu.com/p/571673961)
+* [Unity-Baked-Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics)
+* [CasualPRT](https://github.com/AKGWSB/CasualPRT) 
 ##### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
 * [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTX Global Illumination (RTXGI) SDK
@@ -3165,6 +3174,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### Shadow
 * [realtimeshadows](https://www.realtimeshadows.com/?q=node/12) <Realtime Shadows> codes
+* [Unity SRP 实战（三）PCSS 软阴影与性能优化](https://zhuanlan.zhihu.com/p/462371147)
 * [UnityShadows](https://github.com/Eukky/UnityShadows) Shadow map in unity, include hard shadow, PCF, PCSS, VSSM.
 - [PerObjectShadowSRP](https://github.com/GavinKG/PerObjectShadowSRP) Per-object shadow implementation using Unity SRP.
 * [Shadows](https://github.com/TheRealMJP/Shadows) :thumbsup: A sample app that demonstrates several techniques for rendering real-time shadow maps
@@ -3313,12 +3323,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [【Unity】深度图（Depth Texture）的简单介绍](https://zhuanlan.zhihu.com/p/389971233?)
 - [UnityShader部分内置函数推导（周末随机更几个）](https://zhuanlan.zhihu.com/p/404516361)
 
-#### GameEngine-Design-Blog-Artcile
-- http://www.thisisgame.com.cn/book/makegameenginatnight/
-- https://github.com/Pikachuxxxx/Razix
-- https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
-- https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
-- https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源
+
  
 ### FPS
 - https://mp.weixin.qq.com/s/RS3KYxq5hmLAGrmijk3FtQ 
@@ -3435,6 +3440,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
 - [BurstCollections](https://github.com/andywiecko/BurstCollections)
 - [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
+- [Faster.Map](https://github.com/Wsm2110/Faster.Map) A fast & densely stored hashtable based on robin-hood backshift deletion c#
 - [caffeine](https://github.com/ben-manes/caffeine) A high performance caching library for Java 
 - [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport) Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. 
 - https://github.com/mono/Embeddinator-4000
@@ -3703,8 +3709,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ssannandeji/Zenject-2019
 
 
-#### Moba
-- https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！ 
+ 
 #### Skill
 - https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/m969/EGamePlay
@@ -4138,6 +4143,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/jynew/jynew
 - https://github.com/skyteks
 - https://github.com/judah4/MMO-Dragon-Game-Framwork
+- https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！
 ## Programmer-Common-Tool
 - https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
@@ -4239,4 +4245,4 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [GameDevelopTutorials](https://github.com/GamesTan/GameDevelopTutorials)
 * [秋秋群里面的日常讨论](https://gist.github.com/lexnewgate/01dc7a985b2c8d847adfb90758d24843)
 * [gamedev](https://github.com/DsoTsin/gamedev) ue gamedev
-## 看完不star，小心没jj :）!
+## 看完不star，小心没jj :)!
