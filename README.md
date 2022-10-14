@@ -435,6 +435,7 @@ Table of Contents
 ##### Papers
 - [realtimerendering-papers](http://kesen.realtimerendering.com/)
 - [gpuopen papers](https://gpuopen.com/learn/publications/)
+- [paperbug](https://www.jeremyong.com/paperbug/)
 - [nvlabs](https://nvlabs.github.io/instant-ngp/)
 - https://jcgt.org/read.html?reload=1
 - https://onlinelibrary.wiley.com/journal/14678659 
@@ -588,6 +589,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [jeremyong](https://www.jeremyong.com/) TA GI
 - [shaderbits](https://shaderbits.com/) TA
 - [theorangeduck](https://theorangeduck.com/page/all) math animation
 - [gamehacker1999](https://gamehacker1999.github.io/) TA GI
@@ -848,6 +850,7 @@ Table of Contents
 ## Game-Design-Tool
 #### Collection
 - [magictools](https://github.com/ellisonleao/magictools)
+- [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
 - https://orels.sh/p/tools/
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
@@ -1461,6 +1464,7 @@ Table of Contents
 * [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
  
 #### Archive-Format
+- [FCBConverter](https://github.com/JakubMarecek/FCBConverter)
 - [VGO](https://github.com/izayoijiichan/VGO) VGO is a 3D data format for Unity that can store Mesh, Texture, Material, Collider, Rigidbody, Cloth and Particle information.
 - [gbx-net](https://github.com/BigBang1112/gbx-net)GBX.NET is a C#/.NET parser for Gbx files from Nadeo games. Supports deserialization of 150+ classes, where 50 %+ can be serialized back to Gbx.
 - [PakFiles](https://simoncoenen.com/blog/programming/PakFiles)
@@ -2303,6 +2307,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://thenumbat.github.io/Exponential-Rotations/
 - https://github.com/Milk-Drinker01/CoR-Skinning
 - [Unity Shader 各个空间坐标的获取方式及xyzw含义](https://zhuanlan.zhihu.com/p/505030222)
+- [decoding-a-projection-matrix](http://xdpixel.com/decoding-a-projection-matrix/)
 ##  Physics
 #### Physics Framework
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
@@ -2419,13 +2424,15 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [renderdocArticle](https://blog.kangkang.org/index.php/archives/504)
 - [RenderDocMeshParserForUnity](https://github.com/windsmoon/RenderDocMeshParserForUnity)
 - [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
+- [Shader中的代码优化原理分析](https://zhuanlan.zhihu.com/p/210221918)
 - [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
 - [Unity Arm Mobile Studio Article](https://blog.unity.com/games/enhanced-mobile-performance-analysis-with-arms-new-mobile-studio-package-for-unity)
 - [ARM Mobile Studio性能优化](https://developer.unity.cn/projects/5f9d13daedbc2a37b91122be)
 - [MaliCompiler](http://neozheng.cn/2021/12/22/MaliCompiler/)
 - [使用Mali Compiler对Unity Shader进行优化](https://zhuanlan.zhihu.com/p/448732749) 
-- [Shader中的代码优化原理分析](https://zhuanlan.zhihu.com/p/210221918)
-- [全新Arm Mobile Studio for Unity软件包，增强移动端性能分析](https://developer.unity.cn/projects/60d19990edbc2a1b2110acb7) 
+- [全新Arm Mobile Studio for Unity软件包，增强移动端性能分析](https://developer.unity.cn/projects/60d19990edbc2a1b2110acb7)
+- [Arm Mali GPU Training Series](https://www.youtube.com/watch?v=tnR4mExVClY&list=PLKjl7IFAwc4QUTejaX2vpIwXstbgf8Ik7&index=1) 
+- [Authoring Efficient Shaders for Optimal Mobile Performance](https://www.dropbox.com/s/ic0c6k0yzf2uk81/Authoring%20Efficient%20Shaders%20for%20Optimal%20Mobile%20Performance%20-%20GDC2022%20-Arm%20%26%20NaturalMotion.pdf?dl=0) David Sena and Zandro Fargnoli's 2022 GDC session
 - [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
 - [perfTest](https://github.com/sebbbi/perftest)A simple GPU shader memory operation performance test tool. Current implementation is DirectX 11.0 based.
 - [Intel-GPA](https://software.intel.com/content/www/us/en/develop/tools/graphics-performance-analyzers.html)
@@ -2651,6 +2658,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/needle-tools/shader-variant-explorer
 #### Course/Article
 - https://techartaid.com/cheatsheet/
+- [branching-in-shaders](https://forum.unity.com/threads/branching-in-shaders.1231695/)
 - [技术美术学习大纲](https://zhuanlan.zhihu.com/p/401525846)
 - [图形学硬件拾遗](https://zhuanlan.zhihu.com/p/371469482)
 - [Life of a triangle](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
@@ -2686,6 +2694,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Alligrater/Shader-Practice
 - https://github.com/cnlohr/shadertrixx shader tricks
 - https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
+- [avoiding-shader-conditionals](https://theorangeduck.com/page/avoiding-shader-conditionals)
 - https://github.com/McNopper/OpenGL 
 - https://github.com/nucleartide/Shaders-for-Game-Devs-Workbook
 - https://github.com/ipud2/Unity-Basic-Shader
@@ -2896,7 +2905,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [详解Cubemap、IBL与球谐光照](https://zhuanlan.zhihu.com/p/463309766)
 - [AmbientProbesUnity](https://github.com/staggartcreations/AmbientProbesUnity) Ambient lighting probe sampling
 - [light_probe_placement](https://github.com/cgaueb/light_probe_placement) Unity component for the implementation of the Eurographics 2021 Poster: Illumination-driven Light Probe Placement.
-- [Unity-Specular-Probes](https://github.com/frostbone25/Unity-Specular-Probes)
+- [Unity-Specular-Probes](https://github.com/frostbone25/Unity-Specular-Probes) A simple editor script that emulates specular highlighting for every light in the scene on reflection probes when baking them.
+- [magic-light-probes](https://assetstore.unity.com/packages/tools/utilities/magic-light-probes-157812) unity-plugin
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -2975,6 +2985,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  ##### Face
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
 ##### Water
+- [unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water)
 - [Unity中实现瓶中液体晃动的效果(从建模开始)](https://zhuanlan.zhihu.com/p/159913409)
 - [AQUAS Water](https://assetstore.unity.com/packages/tools/particles-effects/aquas-water-river-set-52103) UnityPlugin
 - [Stylized Water For URP](https://assetstore.unity.com/packages/vfx/shaders/stylized-water-for-urp-162025)  UnityPlugin
@@ -3091,6 +3102,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
 * [GIGL](https://github.com/vgfx/GIGL) Tiny Global Illumination OpenGL Renderer
 ##### Ray tracing
+- [gpurt](https://github.com/GPUOpen-Drivers/gpurt)
 - https://github.com/Pjbomb2/Realtime-Compute-Shader-Unity-PathTracer
 - https://github.com/fallingcat/ComputeRayTracingSamples
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
@@ -3711,6 +3723,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
  
 #### Skill
+- https://github.com/lsunky/SkillEditorDemo
 - https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/m969/EGamePlay
 - https://github.com/huailiang/seqence 剧情-技能编辑器
