@@ -845,12 +845,13 @@ Table of Contents
 - http://forum.deviantart.com/jobs/ - 太多具有才华的人了，不过许多都没有游戏工作经历，但还是一个值得看看的地方。只针对有酬劳的工作。
 - https://www.3dmodelscc0.com/ - Public domain 3D Models.
 - https://polyhaven.com/
-
+- [Classic-Sponza](https://github.com/Unity-Technologies/Classic-Sponza) Unity remaster of the classic Sponza scene.
 
 ## Game-Design-Tool
 #### Collection
 - [magictools](https://github.com/ellisonleao/magictools)
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
+- [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 - https://orels.sh/p/tools/
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
@@ -1349,7 +1350,18 @@ Table of Contents
 - [infini-grass](https://assetstore.unity.com/packages/tools/particles-effects/infini-grass-gpu-vegetation-45188)  UnityPlugin
 - [BigworldPlants](https://github.com/tangwilliam/BigworldPlants)
 - [InfinityFoliage](https://github.com/haolange/InfinityFoliage)
-- [OpenWorldGrassDemo](https://github.com/Gamu2059/OpenWorldGrassDemo)
+- [OpenWorldGrassDemo](https://github.com/Gamu2059/OpenWorldGrassDemo) 
+- [Interactive-Grass](https://github.com/IRCSS/Interactive-Grass) A continueshion of this grass shader
+- [Grass-Shader](https://github.com/charliebratches/Grass-Shader) Implementation of a GPU grass shader in Unity with fancy scripting features
+- [Grass-Tool](https://github.com/starfaerie/Grass-Tool) A GPU-based real-time grass placement tool for Unity by Astrid Wilde. Currently only works in Unity's Standard Rendering Pipeline
+- [Grass-N-Stuff](https://github.com/vince0220/Grass-N-Stuff)  Grass N Stuff is a high performance foliage rendering system designed to be able to render a lot of foliage and handle runtime editing of foliage placement without performance issues.
+- [Procedural-Plant-and-Foliage-Generator](https://github.com/adremeaux/Procedural-Plant-and-Foliage-Generator) The Procedural Plant and Foliage Generator is a tool written in C# and Unity URP to dynamically generate a stunning array of foliage and full plants from a set of over 100 parameters
+- [URP-foliage-shader](https://github.com/MidoriMeng/URP-foliage-shader) wrote with shader graph. Lambert direct diffuse + blinn-phong direct specular + fast approximate translucency + indirect light
+- [Instanced-Foliage](https://github.com/h33p/Instanced-Foliage) Foliage System to Replace Default Terrain Foliage
+- [Critias-FoliageSystem](https://github.com/AssemblyJohn/Critias-FoliageSystem) Critias Foliage System' is an system that is designed to paint, render and extract millions of instances of foliage without taking into account all the foliage but only the one that is in the proximity of the player
+- [1msRenderVegetation](https://github.com/irontree2022/1msRenderVegetation) 基于Unity，在1ms内渲染大规模植被
+- [unity-optimized-grass](https://github.com/willlogs/unity-optimized-grass) Optimized 3D grass for unity that works on Mobile. OpenGL 3.5+
+- [Unity-StylizedGrass](https://github.com/SirMishMash/Unity-StylizedGrass) Create numerous stylized grass blades with this highly performant and scalable HDRP grass asset that makes use of VFX Graph.
 - [GrassBending](https://github.com/Elringus/GrassBending) A replacement for Unity's terrain grass shader with alpha blended rendering and touch bending effect
 - [HiZ_grass_culling](https://github.com/jackie2009/HiZ_grass_culling)
 - https://github.com/Milk-Drinker01/Milk_Instancer01
@@ -1565,6 +1577,7 @@ Table of Contents
 - https://github.com/grofit/persistity
 - https://github.com/kingston-csj/jforgame
 - https://github.com/LeagueSandbox/GameServer
+- https://github.com/frog-game/frog-game-framework
 - https://github.com/nykwil/UnityGGPO
 - https://github.com/Maufeat/MobileMOBA-Server
 - https://github.com/Uyouii/TPS-SLG-GAME
@@ -2080,6 +2093,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 #### 3D Engines and Frameworks
 * [flowers](https://github.com/ray-cast/flowers) 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
+* [garEnginePublic](https://github.com/garlfin/garEnginePublic) C# Engine - Features: Directional Shadows, PBR, SSAO, Bloom, IBL, ECS, Render/Frame Buffers, Baked Cubemaps
 * [mach](https://github.com/hexops/mach) Mach is a game engine & graphics toolkit for the future.
 * [zenustech](https://zenustech.com/) ZEn NOde system - a simulation & rendering engine in nodes
 * [RenderLab](https://github.com/Ubpa/RenderLab) 渲染实验室，包含了实时渲染，离线渲染和场景编辑的功能
@@ -2410,6 +2424,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [orbit](https://github.com/google/orbit) C/C++ Performance Profiler
 - [profiling](https://github.com/aclysma/profiling)
 - [palanteer](https://github.com/dfeneyrou/palanteer)
+- [WatchDog](https://github.com/IzyPro/WatchDog) WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs.
 - [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
 - [MemoryProfiler](https://github.com/larryhou/MemoryProfiler)
 - [speedscope](https://www.speedscope.app/)
@@ -2824,6 +2839,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [学习PBR路程（四、Specular）](https://zhuanlan.zhihu.com/p/454439797)
 
 #### NPR
+- [UnityURP-AnimeStyleCelShader](https://github.com/Jameslroll/UnityURP-AnimeStyleCelShader) A custom shader and post-processing effect for achieving anime-style characters or levels in Unity using the Universal Render Pipeline.
+- [NPR_ResearchFactory](https://github.com/hahahuahai/NPR_ResearchFactory) NPR相关实验，基于Unity。
 - [浅谈卡通渲染与真实感渲染结合思路](https://zhuanlan.zhihu.com/p/561494026)
 - https://space.bilibili.com/32731698/channel/collectiondetail?sid=153541
 - https://github.com/TechMiZ/ToonShadingCollection
@@ -4156,6 +4173,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/jynew/jynew
 - https://github.com/skyteks
 - https://github.com/judah4/MMO-Dragon-Game-Framwork
+- [DarkGod](https://github.com/mGitup/DarkGod) 基于 Unity 的 3D ARPG 移动端网游
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！
 ## Programmer-Common-Tool
 - https://learn-english.dev/ 程序员 常用英语
