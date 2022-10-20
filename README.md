@@ -1368,6 +1368,7 @@ Table of Contents
 - [Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 - https://github.com/GarrettGunnell/Grass
 - [URP-HIZ](https://github.com/himma-bit/empty)
+* [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1702,6 +1703,7 @@ Table of Contents
 - https://github.com/minism/fps-netcode
 - https://github.com/Yinmany/NetCode-FPS
 - https://github.com/CodingCodingK/UnityMobaDemo
+- https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
 - https://github.com/Mun1z/KingNetwork
 - https://github.com/moetsi/Unity-DOTS-Multiplayer-XR-Sample
 - https://github.com/luoyikun/UnityMobaDemo
@@ -2093,6 +2095,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 #### 3D Engines and Frameworks
 * [flowers](https://github.com/ray-cast/flowers) 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
+* [LuisaRender](https://github.com/LuisaGroup/LuisaRender)
 * [garEnginePublic](https://github.com/garlfin/garEnginePublic) C# Engine - Features: Directional Shadows, PBR, SSAO, Bloom, IBL, ECS, Render/Frame Buffers, Baked Cubemaps
 * [mach](https://github.com/hexops/mach) Mach is a game engine & graphics toolkit for the future.
 * [zenustech](https://zenustech.com/) ZEn NOde system - a simulation & rendering engine in nodes
@@ -2322,10 +2325,13 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Milk-Drinker01/CoR-Skinning
 - [Unity Shader 各个空间坐标的获取方式及xyzw含义](https://zhuanlan.zhihu.com/p/505030222)
 - [decoding-a-projection-matrix](http://xdpixel.com/decoding-a-projection-matrix/)
+- [从MVP矩阵提取Frustum平面](https://zhuanlan.zhihu.com/p/573372287)
 ##  Physics
 #### Physics Framework
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
 - [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int) Pure C# deterministic fixed-point 3D real time physics simulation library
+- https://github.com/Kimbatt/unity-deterministic-physics
+- https://github.com/devlinzhou/deterministic_physics
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
 - https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
@@ -2445,6 +2451,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ARM Mobile Studio性能优化](https://developer.unity.cn/projects/5f9d13daedbc2a37b91122be)
 - [MaliCompiler](http://neozheng.cn/2021/12/22/MaliCompiler/)
 - [使用Mali Compiler对Unity Shader进行优化](https://zhuanlan.zhihu.com/p/448732749) 
+- [com.unity.profiling.systemmetrics.mali](https://github.com/needle-mirror/com.unity.profiling.systemmetrics.mali)
 - [全新Arm Mobile Studio for Unity软件包，增强移动端性能分析](https://developer.unity.cn/projects/60d19990edbc2a1b2110acb7)
 - [Arm Mali GPU Training Series](https://www.youtube.com/watch?v=tnR4mExVClY&list=PLKjl7IFAwc4QUTejaX2vpIwXstbgf8Ik7&index=1) 
 - [Authoring Efficient Shaders for Optimal Mobile Performance](https://www.dropbox.com/s/ic0c6k0yzf2uk81/Authoring%20Efficient%20Shaders%20for%20Optimal%20Mobile%20Performance%20-%20GDC2022%20-Arm%20%26%20NaturalMotion.pdf?dl=0) David Sena and Zandro Fargnoli's 2022 GDC session
@@ -3061,6 +3068,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/GuardHei/UltimateTAA
 - https://github.com/sienaiwun/TAA_Unity_URP
 - https://github.com/Raphael2048/URPTAA 
+- https://github.com/CMDRSpirit/URPTemporalAA
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
 - https://github.com/Looooong/Unity-SRP-VXGI
 #### Global illumination (GI)
@@ -3677,7 +3685,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### Awesome-Unity
 - https://github.com/michidk/Unity-Script-Collection
-- [needle](https://needle.tools/package-reference/)
+- [needle](https://github.com/needle-mirror)
 - https://github.com/agarcialeon/awesome-unity#awesome-unity 
 - https://github.com/baba-s/awesome-unity-open-source-on-github
 - https://lab.uwa4d.com/
@@ -3879,6 +3887,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Timeline
 - https://github.com/pofulu/TimelineTool
 - https://github.com/needle-tools/custom-timeline-editor
+- https://github.com/corle-bell/UnityTimeLineEvent
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
@@ -3934,6 +3943,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Wind-Coming/MultiUnitSameScreen
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
+* [NSprites](https://github.com/Antoshidza/NSprites) DOTS based sprite render system
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
@@ -3952,7 +3962,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/unitycoder/Unity-DOTS-RTS-Collision-System
 * https://github.com/quabug/EntitiesBT
 * https://github.com/GilbertoGojira/DOTS-Stackr
-* https://github.com/Kimbatt/unity-deterministic-physics
 * https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-195567
 * https://github.com/AI-In-Games/FormationMovement
 * https://github.com/NagaChiang/entity-tween
