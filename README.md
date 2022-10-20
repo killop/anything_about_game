@@ -2849,6 +2849,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityURP-AnimeStyleCelShader](https://github.com/Jameslroll/UnityURP-AnimeStyleCelShader) A custom shader and post-processing effect for achieving anime-style characters or levels in Unity using the Universal Render Pipeline.
 - [NPR_ResearchFactory](https://github.com/hahahuahai/NPR_ResearchFactory) NPR相关实验，基于Unity。
 - [浅谈卡通渲染与真实感渲染结合思路](https://zhuanlan.zhihu.com/p/561494026)
+- [卡通渲染漫谈](https://zhuanlan.zhihu.com/p/575096572)
+- [卡通渲染流程2.0-【罪恶装备效果解析与优化】](https://zhuanlan.zhihu.com/p/555060305)
 - https://space.bilibili.com/32731698/channel/collectiondetail?sid=153541
 - https://github.com/TechMiZ/ToonShadingCollection
 - http://stylized.realtimerendering.com/
@@ -2931,6 +2933,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [light_probe_placement](https://github.com/cgaueb/light_probe_placement) Unity component for the implementation of the Eurographics 2021 Poster: Illumination-driven Light Probe Placement.
 - [Unity-Specular-Probes](https://github.com/frostbone25/Unity-Specular-Probes) A simple editor script that emulates specular highlighting for every light in the scene on reflection probes when baking them.
 - [magic-light-probes](https://assetstore.unity.com/packages/tools/utilities/magic-light-probes-157812) unity-plugin
+- [LightProbeBinder](https://github.com/tsujihaneta/LightProbeBinder)An editor extension that restores light probes when the specified game object is loaded; Multi-Scene and Timeline support are also available.
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -3202,7 +3205,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [LightmapperToy](https://github.com/candycat1992/LightmapperToy) This project is a hobby lightmapper completely based on Houdini geometry nodes. Basically it grew out of a re-implementation of Matt's The Baking Lab with some modification. 
 * https://github.com/laurenth-personal/lightmap-switching-tool
 * https://github.com/Ayfel/PrefabLightmapping
+* https://github.com/Burn1ngApe/Prefab_Lighting_Baker
 * https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps 
+* https://github.com/liuwenjiexx/Unity.BakedLightmap
 ##### MLGI
 * [DeepIllumination](https://github.com/CreativeCodingLab/DeepIllumination) Code and examples from our paper "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Networks," by Manu Mathew Thomas and Angus Forbes
 
