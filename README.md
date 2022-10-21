@@ -193,7 +193,7 @@ Table of Contents
       - [Matrix](#matrix)
       - [Dissolve](#dissolve)
       - [Shader-GUI](#shader-gui)
-      - [Windows](#windows)
+      - [Interior](#interior)
       - [Decal](#decal)
       - [Face](#face)
       - [Water](#water)
@@ -295,8 +295,7 @@ Table of Contents
     - [Effect](#effect-1)
     - [Scriptable Object](#scriptable-object)
     - [DOTS](#dots)
-      - [Article](#article-6)
-    - [Navmesh](#navmesh)
+    - [PathFinding](#pathfinding)
     - [Bone&&Spring](#bonespring)
     - [Create Model](#create-model)
     - [Mesh](#mesh)
@@ -309,7 +308,7 @@ Table of Contents
     - [Asset-Management](#asset-management)
     - [Material-Cleaner](#material-cleaner)
       - [Textrue Compression](#textrue-compression)
-        - [Article](#article-7)
+        - [Article](#article-6)
     - [Message Bus](#message-bus)
     - [Time control](#time-control)
     - [Tips](#tips)
@@ -851,7 +850,9 @@ Table of Contents
 #### Collection
 - [magictools](https://github.com/ellisonleao/magictools)
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
+- [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+- [元素法典——Novel AI 元素魔法全收录](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs)
 - https://orels.sh/p/tools/
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
@@ -2999,8 +3000,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/Thryrallo/ThryEditor
 * https://github.com/ipud2/Unity-Basic-Shader/tree/master/SimpleShaderGUI
 * [shader-graph-markdown](https://assetstore.unity.com/packages/tools/gui/shader-graph-markdown-194781)
-##### Windows
+##### Interior
 - https://github.com/Gaxil/Unity-InteriorMapping
+- https://zhuanlan.zhihu.com/p/575453172
 ##### Decal
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
@@ -3012,6 +3014,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  ##### Face
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
 ##### Water
+- [boat-attack-water](https://github.com/Unity-Technologies/boat-attack-water) Package repo containing the water system created for the URP Boat Attack demo project
 - [unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water)
 - [Unity中实现瓶中液体晃动的效果(从建模开始)](https://zhuanlan.zhihu.com/p/159913409)
 - [AQUAS Water](https://assetstore.unity.com/packages/tools/particles-effects/aquas-water-river-set-52103) UnityPlugin
@@ -3939,6 +3942,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Scriptable Object
 * [ScriptableObjectCollection](https://github.com/brunomikoski/ScriptableObjectCollection) The ScriptableObjectCollection exists to help you deal with scriptable objects without losing your sanity! Its a set of tools that will make your life a lot easier.
 * [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
+* [SoCreator](https://github.com/NullTale/SoCreator) ScriptableObject creation menu
 * [Scriptable-Framework](https://github.com/pablothedolphin/Scriptable-Framework) - A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
 * [SOFlow](https://github.com/BLUDRAG/SOFlow) - A ScriptableObject oriented design SDK.
@@ -3973,12 +3977,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/nothke/UnityDOTSGotchas
 * https://github.com/mikyll/UnityDOTS-Thesis
 * https://github.com/sschoener/burst-simd-exercises
-##### Article
+#### PathFinding
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
 * https://github.com/trgrote/JPS-Unity
 * https://space.bilibili.com/477041559
-#### Navmesh
 - [Unity-Formation-Movement2.0](https://github.com/Goodgulf281/Unity-Formation-Movement2.0)  Formation movement for Unity 3D using built in NavMesh navigation or A*Pathfinding
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
@@ -3986,6 +3989,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) Alternative to Unity's NavMesh system where the agents avoid each other. 
 - [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
+- [unity-rrt](https://github.com/markus-exler/unity-rrt)
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
 - https://github.com/KimHeeRyeong/SphereNavigation
 - https://github.com/idbrii/unity-navgen
