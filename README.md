@@ -3227,6 +3227,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 ##### ltcgi
 - [ltcgi](https://github.com/PiMaker/ltcgi) Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat.
+- [LTC-Polygon-Light-For-URP](https://github.com/DaiZiLing/LTC-Polygon-Light-For-URP)
 ##### Beam
 - [Unity_LightBeamPerformance](https://github.com/kodai100/Unity_LightBeamPerformance) This package can create light beam performance with Unity's timeline functionality.
 #### Shadow
