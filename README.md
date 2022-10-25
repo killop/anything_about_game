@@ -1732,6 +1732,7 @@ Table of Contents
 - https://capnproto.org/ capnproto
 - https://github.com/google/flatbuffers flatBuffer
 - https://github.com/jamescourtney/FlatSharp
+- https://github.com/Unity-Technologies/FlatSharp
 - https://developers.google.com/protocol-buffers pb
 - https://github.com/real-logic/simple-binary-encoding  sbe-fastest
 - https://github.com/neuecc/ZeroFormatter  zero
@@ -3824,6 +3825,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [浅谈 Unity 内存管理](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)
 - [[Unity 活动]-浅谈Unity内存管理](https://www.bilibili.com/video/av79798486/)
 - [解读MONO内存管理：BOEHM GC原理及总结](https://zhuanlan.zhihu.com/p/41398507)
+- [.NET内存性能分析指南](https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html)
 #### Asyn-Await
 - https://github.com/timcassell/ProtoPromise
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
