@@ -230,6 +230,7 @@ Table of Contents
       - [LightMap](#lightmap)
       - [MLGI](#mlgi)
       - [ltcgi](#ltcgi)
+      - [Beam](#beam)
     - [Shadow](#shadow)
     - [GPGPU](#gpgpu)
     - [Compute-Shader](#compute-shader)
@@ -823,6 +824,8 @@ Table of Contents
 - www.ryzom.com
 
 ## Game-Asset
+- [awesome-3D-Morphable-Model-software-and-data](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data)
+- [cgi-resources](https://github.com/afichet/cgi-resources) List of some useful databases and resources for Computer Graphics
 - [CG艺术家都会去那些国内外的资源网站](https://zhuanlan.zhihu.com/p/91428684)
 - https://casual-effects.com/data/
 - https://assetstore.unity.com/ 
@@ -853,6 +856,7 @@ Table of Contents
 - [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 - [元素法典——Novel AI 元素魔法全收录](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs)
+- [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation)
 - https://orels.sh/p/tools/
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
@@ -1185,6 +1189,7 @@ Table of Contents
 * [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API
 * [ApureEasing](https://github.com/kyubuns/ApureEasing) Easing library for Unity Visual Scripting  
 * [游戏开发中的阻尼器和阻尼弹簧](https://mp.weixin.qq.com/s/UMipfQ_09w0bnQOBIA9ttg)
+* [unity-tweening-system](https://github.com/zigurous/unity-tweening-system)
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -2142,6 +2147,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Three.js](http://threejs.org/) - Javascript 3D Library.
 * [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 * [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
+* [o3de](https://www.o3de.org/)
 * [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 * [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine. :o2:
 * [Wave](http://waveengine.net/) - Cross-platform engine written in C#
@@ -2333,6 +2339,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int) Pure C# deterministic fixed-point 3D real time physics simulation library
 - https://github.com/Kimbatt/unity-deterministic-physics
 - https://github.com/devlinzhou/deterministic_physics
+- https://github.com/PetteriAimonen/libfixmath
+- https://github.com/Fractural/GodotFixedVolatilePhysics
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
 - https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
@@ -2705,6 +2713,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- [Unity-Advanced-Shaders-Tutorial](https://github.com/Habrador/Unity-Advanced-Shaders-Tutorial) Implementation of advanced shaders in Unity like raytracing, interior mapping, parallax mapping
 - [UNITY-Arc-system-Works-Shader](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader) Shader created to emulate the design style of Arc System Works games such as Guilty Gear and Dragon Ball FighterZ. Created using Amplify Shader Editor.
 - [Next-Generation-Character-Rendering](https://github.com/HigashiSan/Next-Generation-Character-Rendering)
 - https://github.com/MochiesCode/Mochies-Unity-Shaders
@@ -2835,6 +2844,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Josh015/Alloy
 - https://github.com/xelatihy/yocto-gl
 - https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/
+- https://github.com/DassaultSystemes-Technology/EnterprisePBRShadingModel
 - [基于物理的渲染—更精确的微表面分布函数GGX](https://blog.uwa4d.com/archives/1582.html)
 - [Physically Based Shading in Unity](https://aras-p.info/texts/files/201403-GDC_UnityPhysicallyBasedShading_notes.pdf)
 - [smallvcm](http://www.smallvcm.com/)
@@ -3216,7 +3226,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 ##### ltcgi
 - [ltcgi](https://github.com/PiMaker/ltcgi) Optimized plug-and-play realtime area lighting using the linearly transformed cosine algorithm for Unity/VRChat.
-
+##### Beam
+- [Unity_LightBeamPerformance](https://github.com/kodai100/Unity_LightBeamPerformance) This package can create light beam performance with Unity's timeline functionality.
 #### Shadow
 * [realtimeshadows](https://www.realtimeshadows.com/?q=node/12) <Realtime Shadows> codes
 * [Unity SRP 实战（三）PCSS 软阴影与性能优化](https://zhuanlan.zhihu.com/p/462371147)
@@ -3864,6 +3875,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/chasinghope/CurveLayoutGroup
+- https://github.com/mitay-walle/com.mitay-walle.ui-circle-segmented
 - https://github.com/506638093/RichText 头顶血条
 - https://github.com/wuxiongbin/uHyperText
 - https://github.com/coding2233/TextInlineprite
@@ -4186,6 +4198,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [Unity-iOS-Android-Download](https://github.com/LBCross/Unity-iOS-Android-Download)
  - [Unity-NativePlugins](https://github.com/AlexMerzlikin/Unity-NativePlugins)
  - [Android-Auxiliary](https://github.com/JYX-MOD/Android-Auxiliary) Unity开发过程中部分安卓操作会用到的函数
+ - [AppIconChangerUnity](https://github.com/kyubuns/AppIconChangerUnity)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
