@@ -121,7 +121,7 @@ Table of Contents
     - [Article](#article-3)
 - [File Systems](#file-systems)
 - [Hash](#hash)
-- [Text Template](#text-template)
+- [Text-Template](#text-template)
 - [Authorization](#authorization)
 - [NetWork](#network)
     - [Articles](#articles)
@@ -629,7 +629,7 @@ Table of Contents
 - [martindevans](https://martindevans.me/)
 - [mellinoe](https://mellinoe.dev/)
 - [nfrechette](http://nfrechette.github.io)
-- [atteneder](https://pixel.engineer/)
+- [atteneder](https://pixel.engineer/) game asset load,math
 - [gabormakesgames](https://gabormakesgames.com/) game math
 - [goatstream](https://www.goatstream.com) animation
 - [xoofx](https://xoofx.com/blog/) c# 
@@ -1259,6 +1259,7 @@ Table of Contents
 - https://github.com/runevision/LocomotionSystem
 - https://github.com/ssell/UnityDotsCharacterController
 - [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
+- [Celeste-Movement](https://github.com/mixandjam/Celeste-Movement) Recreating the movement and feel from Celeste
 - https://github.com/Wafflus/unity-genshin-impact-movement-system
 - https://github.com/joebinns/stylised-character-controller
 - https://github.com/mixandjam/Batman-Arkham-Combat
@@ -1287,7 +1288,6 @@ Table of Contents
 - https://assetstore.unity.com/packages/tools/utilities/hdg-remote-debug-live-update-tool-61863
 - https://github.com/proletariatgames/CUDLR
 - https://github.com/Sacred-Seed-Studio/Unity-File-Debug
-- https://github.com/DragonBox/u3d
 - https://github.com/mayuki/Cocona
 - https://github.com/cobbr
 - https://github.com/Cysharp/Kokuban
@@ -1472,6 +1472,7 @@ Table of Contents
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
 - [GameReverseNote](https://github.com/TonyChen56/GameReverseNote)
 - https://github.com/super-continent/game-reversing-resources
+- https://github.com/dsasmblr/game-hacking/
 - https://github.com/kovidomi/game-reversing
 - [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
@@ -1483,6 +1484,7 @@ Table of Contents
 * [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
  
 #### Archive-Format
+- [Http-Multipart-Data-Parser](https://github.com/Http-Multipart-Data-Parser/Http-Multipart-Data-Parser) A C# Http Multipart/form-data parser that works correctly on binary data and very large files.
 - [FCBConverter](https://github.com/JakubMarecek/FCBConverter)
 - [VGO](https://github.com/izayoijiichan/VGO) VGO is a 3D data format for Unity that can store Mesh, Texture, Material, Collider, Rigidbody, Cloth and Particle information.
 - [gbx-net](https://github.com/BigBang1112/gbx-net)GBX.NET is a C#/.NET parser for Gbx files from Nadeo games. Supports deserialization of 150+ classes, where 50 %+ can be serialized back to Gbx.
@@ -1762,6 +1764,7 @@ Table of Contents
 
 ## Huge-World
 - [ScatterStream](https://github.com/ashleyseric/ScatterStream) A runtime object scattering/vegetation authoring, streaming and rendering tool for Unity optimised for instanced rendering a very large number of placed items.
+- [mega-scatter-14954](https://assetstore.unity.com/packages/tools/modeling/mega-scatter-14954) unity-plugin
 - [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
 - https://github.com/NextGenSoftwareUK/
 - https://assetstore.unity.com/packages/tools/terrain/easy-open-world-192659
@@ -1861,7 +1864,8 @@ Table of Contents
 ## Hash
 - [Blake3](https://github.com/xoofx/Blake3.NET) Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
 - [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm
-## Text Template
+## Text-Template
+- [Gridify](https://github.com/alirezanet/Gridify) Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
 - [cottle](https://github.com/r3c/cottle) High performance template engine for C# 
 - [scriban](https://github.com/lunet-io/scriban) A fast, powerful, safe and lightweight text templating language and engine for .NET 
 - [dotliquid](https://github.com/dotliquid/dotliquid) .NET Port of Tobias Lütke's Liquid template language. 
@@ -3224,6 +3228,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/Burn1ngApe/Prefab_Lighting_Baker
 * https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps 
 * https://github.com/liuwenjiexx/Unity.BakedLightmap
+* https://github.com/laurenth-personal/LODLightmapScripts
 ##### MLGI
 * [DeepIllumination](https://github.com/CreativeCodingLab/DeepIllumination) Code and examples from our paper "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Networks," by Manu Mathew Thomas and Angus Forbes
 
@@ -3232,6 +3237,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [LTC-Polygon-Light-For-URP](https://github.com/DaiZiLing/LTC-Polygon-Light-For-URP)
 ##### Beam
 - [Unity_LightBeamPerformance](https://github.com/kodai100/Unity_LightBeamPerformance) This package can create light beam performance with Unity's timeline functionality.
+- [volumetric-light-beam](https://assetstore.unity.com/packages/vfx/shaders/volumetric-light-beam-99888) unity-plugin
 #### Shadow
 * [realtimeshadows](https://www.realtimeshadows.com/?q=node/12) <Realtime Shadows> codes
 * [Unity SRP 实战（三）PCSS 软阴影与性能优化](https://zhuanlan.zhihu.com/p/462371147)
@@ -3473,6 +3479,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 
 ## 高性能数据结构和算法
+- [Arithmetics](https://github.com/Lombiq/Arithmetics) Next-generation arithmetic implementations, improved floating point number types for .NET, written in C#. Includes the following number types:
 - [libcsp](https://github.com/shiyanhui/libcsp) A concurrency C library 10x faster than Golang.
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
@@ -3896,6 +3903,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
+- [UnityUiParticles](https://github.com/ken48/UnityUiParticles)
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
 - [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results 
@@ -4189,10 +4197,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 ## UnityBuild
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
-- [Usdk](https://github.com/honghuachen/Usdk) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
+- [Usdk](~~https://github.com/honghuachen/Usdk~~) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
 - https://github.com/UNSH/Unity-Apple-Distribution-Workflow
 - https://github.com/tylearymf/UniHacker
 - [buildtool](https://github.com/superunitybuild/buildtool)
+- [u3d](https://github.com/DragonBox/u3d/) fast lane
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
 - [UnitySkipSplash](https://github.com/psygames/UnitySkipSplash) Skip Unity Splash Screen only one script
  
