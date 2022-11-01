@@ -110,7 +110,7 @@ Table of Contents
     - [c#](#c)
 - [ECS Libraries](#ecs-libraries)
     - [Collection](#collection-3)
-- [AI-ML](#ai-ml)
+    - [AI-ML](#ai-ml)
     - [C/C++](#cc)
     - [C#](#c-1)
     - [Python](#python)
@@ -1794,7 +1794,7 @@ Table of Contents
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
  
- ## AI-ML
+ #### AI-ML
  - https://github.com/luxonis/depthai-unity
  - https://github.com/runwayml/RunwayML-for-Unity
  - https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer
@@ -3335,6 +3335,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 - [bvh](https://github.com/madmann91/bvh) About A modern C++ BVH construction and traversal library 
 - [DragonSpace](https://github.com/Appleguysnake/DragonSpace-Demo) A simple boids simulation to show the difference between implementations of a few spatial partitioning structures in Unity.
+- [BoidsUnity](https://github.com/jtsorlinis/BoidsUnity)
 - https://github.com/ToruNiina/lbvh
 - https://github.com/EmmetOT/BoundingVolumeHierarchy
 - https://github.com/Sylmerria/Spatial-Hashing
@@ -3921,6 +3922,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/pofulu/TimelineTool
 - https://github.com/needle-tools/custom-timeline-editor
 - https://github.com/corle-bell/UnityTimeLineEvent
+- https://github.com/k-okawa/WaypointSystemForTimeline
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
