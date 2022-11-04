@@ -1122,6 +1122,7 @@ Table of Contents
 - [GradientTexture](https://github.com/mitay-walle/GradientTexture)
 - [SDF-LightMap](https://github.com/qjh5606/SDF-LightMap) 实现了基于SDF的卡通阴影图生成
 - [BakeShader](https://github.com/Cyanilux/BakeShader) Unity editor tool for baking shaders to textures. Blit2D, Blit3D, or MeshRenderer (uses model UV). Adds options to Material & MeshRenderer context menus and Editor Window (under Window/Cyanilux/BakeShader)
+- [UnityTexture2DArrayImportPipeline](https://github.com/pschraut/UnityTexture2DArrayImportPipeline) A Texture2DArray Import Pipeline for Unity 2019.3 and newer.
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -1548,6 +1549,7 @@ Table of Contents
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
+- https://github.com/mirbeta/OpenMir2
 - https://github.com/networkprotocol/yojimbo
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
 - https://github.com/dotnwat/awesome-seastar
@@ -1876,6 +1878,7 @@ Table of Contents
 - [AngouriMath](https://github.com/asc-community/AngouriMath) Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
 - [t4](https://github.com/faster-games/t4) T4 text template generative importer for Unity3D
 - [t4-templates-unity3d](https://github.com/deniszykov/t4-templates-unity3d) T4 Text Template Processor for Unity3D
+- [UriTemplates](https://github.com/tavis-software/Tavis.UriTemplates)
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -2924,6 +2927,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [YuanShen_Face](https://github.com/ipud2/Unity-Basic-Shader/blob/master/YuanShen_Face.shader)
 #### SDF
 - https://github.com/CedricGuillemet/SDF
+- https://github.com/cecarlsen/SDFTextureGenerator
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
@@ -2984,7 +2988,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
 - [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
 - [[Universal RP]Unity通用渲染管线学习](https://zhuanlan.zhihu.com/p/84908168)
-- [HDRP高清渲染管线-学习资料汇总](https://connect.unity.com/p/hdrpgao-qing-xuan-ran-guan-xian-xue-xi-zi-liao-hui-zong)
+- [HDRP高清渲染管线-学习资料汇总](https://zhuanlan.zhihu.com/p/106646409)
 - [Unity自定义可编程渲染管线(SRP)](https://www.zhihu.com/column/c_1249285959101227008)
 - [How the URP unlocks games for you](https://zhuanlan.zhihu.com/p/105941187)
 - [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)
@@ -3527,6 +3531,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) A high-performance, zero-allocation .NET logging library.
 - [Varena](https://github.com/xoofx/Varena)
 - [NativeStringCollections](https://github.com/kawai125/NativeStringCollections) The toolset to parse text files using C# JobSystem on Unity.
+- [c#零成本抽象](https://mp.weixin.qq.com/s/jenoW4Ls0yKLknSdLEEa0g)
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
@@ -3691,6 +3696,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [umka-lang](https://github.com/vtereshkov/umka-lang)
 - [luau](https://github.com/Roblox/luau)
 - [BorrowScript](https://github.com/alshdavid/BorrowScript)
+- [tuyin](http://www.tuyin.org/)
 
 #### Collection
 - https://langium.org/
@@ -3775,6 +3781,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Dependency Injection 
 - https://github.com/gustavopsantos/reflex
 - https://github.com/ssannandeji/Zenject-2019
+- https://github.com/hadashiA/VContainer
 
 
  
