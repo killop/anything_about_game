@@ -495,6 +495,7 @@ Table of Contents
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 #### 中文
+- [blurredcode](https://www.blurredcode.com/) 管线ta
 - [zznewclear13](https://zznewclear13.github.io/posts/) 管线ta
 - [eukky](https://eukky.github.io/) 管线ta
 - [Neo Zheng](http://neozheng.cn/)
@@ -969,6 +970,8 @@ Table of Contents
 - https://cgpal.com/fibershop/
 - [flux-dynamic-hair](https://assetstore.unity.com/packages/tools/animation/flux-dynamic-hair-skirt-tail-bone-control-tool-164940?)
 - [fluffy-grooming](https://assetstore.unity.com/packages/tools/modeling/fluffy-grooming-tool-193828)
+- [Unity-HairFX-Tutorial](https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial?
+)
 ##### Human
 - [poser](https://www.posersoftware.com/) 
 - [daz3d](https://www.daz3d.com/home)
@@ -1191,6 +1194,7 @@ Table of Contents
 * [ApureEasing](https://github.com/kyubuns/ApureEasing) Easing library for Unity Visual Scripting  
 * [游戏开发中的阻尼器和阻尼弹簧](https://mp.weixin.qq.com/s/UMipfQ_09w0bnQOBIA9ttg)
 * [unity-tweening-system](https://github.com/zigurous/unity-tweening-system)
+* [unity-animation](https://github.com/KleinerHacker/unity-animation/) Extended Animation Framework for Unity based on Coroutines
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1247,6 +1251,9 @@ Table of Contents
 - [reanimation](https://github.com/aarthificial/reanimation) An alternative animator for Unity tailored for traditional animation
 - [dmotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
 - [Puppeteer](https://github.com/SolarianZ/Puppeteer) A graph based animation controller for Unity. 
+- [nkgmoba-animsystem-dawn-blossoms-plucked-at-dusk](https://www.lfzxb.top/nkgmoba-animsystem-dawn-blossoms-plucked-at-dusk/)
+- [uPlayableAnimation](https://github.com/EricHu33/uPlayableAnimation)
+- [Vortex](https://github.com/kaiyumcg/Vortex) Play/blend animations, animator controllers in runtime. Uses playable API
 #### Character-Controller
 - [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
@@ -1485,6 +1492,7 @@ Table of Contents
 * [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
  
 #### Archive-Format
+- [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) Tool for extract PAK archives from games based on RE Engine
 - [Http-Multipart-Data-Parser](https://github.com/Http-Multipart-Data-Parser/Http-Multipart-Data-Parser) A C# Http Multipart/form-data parser that works correctly on binary data and very large files.
 - [FCBConverter](https://github.com/JakubMarecek/FCBConverter)
 - [VGO](https://github.com/izayoijiichan/VGO) VGO is a 3D data format for Unity that can store Mesh, Texture, Material, Collider, Rigidbody, Cloth and Particle information.
@@ -3219,6 +3227,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [GzRNM](https://github.com/Geenz/GzRNM) brings Radiosity Normal Mapping/Directional Light Mapping to Unity 3D!
 * [SSbumpGenerator](https://sourceforge.net/projects/ssbumpgenerator/) A GUI interface to a tool for generating SSBumps (Self Shadowed Bump Maps).
 ##### LightMap
+- [lightmapping-troubleshooting-guide](https://forum.unity.com/threads/lightmapping-troubleshooting-guide.1340936/)
 * [lightmapper](https://github.com/ands/lightmapper) A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
 * [seamoptimizer](https://github.com/ands/seamoptimizer) A C/C++ single-file library that minimizes the hard transition errors of disjoint edges in lightmaps.
 * [BakingLab](https://github.com/TheRealMJP/BakingLab) A D3D11 application for experimenting with Spherical Gaussian lightmaps

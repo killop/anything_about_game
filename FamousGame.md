@@ -39,6 +39,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - https://github.com/Razmoth/HoYoStudio
 - https://github.com/festivize/Cheddar
 ## 塞尔达传说：荒野之息
+- [塞尔达荒野之息各类渲染效果研究与实践笔记（1）](https://zhuanlan.zhihu.com/p/580141974)
 - [为你分析历代《塞尔达传说》的美术设定与动画技术](https://www.taptap.com/topic/2604022?region=jp)
 - [《塞尔达传说：旷野之息》技术分析文章](https://www.bilibili.com/read/cv3239418)
 - [《塞尔达传说：荒野之息》美术风格剖析](https://zhuanlan.zhihu.com/p/25328476)
