@@ -282,7 +282,7 @@ Table of Contents
     - [Occlusion Culling](#occlusion-culling)
     - [ShaderGraph&&Effect](#shadergrapheffect)
     - [Memory/GC](#memorygc)
-    - [Asyn-Await](#asyn-await)
+    - [Asyn-](#asyn-)
     - [Node-Editor](#node-editor)
     - [AI](#ai-1)
     - [UI](#ui)
@@ -859,6 +859,7 @@ Table of Contents
 - [元素法典——Novel AI 元素魔法全收录](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs)
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation)
 - https://orels.sh/p/tools/
+- [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
 *  [MagicaVoxel](https://ephtracy.github.io/)
@@ -1873,7 +1874,9 @@ Table of Contents
 - https://github.com/MathewHDYT/Unity-Data-Manager
 ## Hash
 - [Blake3](https://github.com/xoofx/Blake3.NET) Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
-- [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm
+- [HashDepot](https://github.com/ssg/HashDepot)
+- [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm ,implement by c
+- [xxHash](https://github.com/uranium62/xxHash) xxhash c# implement
 ## Text-Template
 - [Gridify](https://github.com/alirezanet/Gridify) Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
 - [cottle](https://github.com/r3c/cottle) High performance template engine for C# 
@@ -3228,6 +3231,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [SSbumpGenerator](https://sourceforge.net/projects/ssbumpgenerator/) A GUI interface to a tool for generating SSBumps (Self Shadowed Bump Maps).
 ##### LightMap
 - [lightmapping-troubleshooting-guide](https://forum.unity.com/threads/lightmapping-troubleshooting-guide.1340936/)
+- [Unity Global Illumination Learning Resources](https://forum.unity.com/threads/global-illumination-learning-resources.1290662/)
 * [lightmapper](https://github.com/ands/lightmapper) A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
 * [seamoptimizer](https://github.com/ands/seamoptimizer) A C/C++ single-file library that minimizes the hard transition errors of disjoint edges in lightmaps.
 * [BakingLab](https://github.com/TheRealMJP/BakingLab) A D3D11 application for experimenting with Spherical Gaussian lightmaps
@@ -3517,6 +3521,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
 - [trienet](https://github.com/gmamaladze/trienet) .NET Implementations of Trie Data Structures for Substring Search, Auto-completion and Intelli-sense. Includes: patricia trie, suffix trie and a trie implementation using Ukkonen's algorithm.
 - https://github.com/AArnott/Nerdbank.Streams 高效流
+- [NaturalSort](https://github.com/tompazourek/NaturalSort.Extension) Extension method for StringComparison that adds support for natural sorting (e.g. "abc1", "abc2", "abc10" instead of "abc1", "abc10", "abc2").
 - [AsyncWorkerCollection](https://github.com/dotnet-campus/AsyncWorkerCollection) A collection of tools that support asynchronous methods and support high-performance multithreading.
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
 - [BurstCollections](https://github.com/andywiecko/BurstCollections)
@@ -3853,7 +3858,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [[Unity 活动]-浅谈Unity内存管理](https://www.bilibili.com/video/av79798486/)
 - [解读MONO内存管理：BOEHM GC原理及总结](https://zhuanlan.zhihu.com/p/41398507)
 - [.NET内存性能分析指南](https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html)
-#### Asyn-Await
+#### Asyn-
+- https://www.zhihu.com/question/554133167/answer/2690808608
 - https://github.com/timcassell/ProtoPromise
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
 - https://github.com/Cysharp/UniTask
