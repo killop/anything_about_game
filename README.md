@@ -2479,6 +2479,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
 - [Unity Arm Mobile Studio Article](https://blog.unity.com/games/enhanced-mobile-performance-analysis-with-arms-new-mobile-studio-package-for-unity)
 - [ARM Mobile Studio性能优化](https://developer.unity.cn/projects/5f9d13daedbc2a37b91122be)
+- [UnityShaderAnalyzer](https://github.com/liamcary/UnityShaderAnalyzer) powered by mali
+- [com.unity.shaderanalysis](https://github.com/Unity-Technologies/Graphics/tree/master/Packages/com.unity.shaderanalysis)
 - [MaliCompiler](http://neozheng.cn/2021/12/22/MaliCompiler/)
 - [使用Mali Compiler对Unity Shader进行优化](https://zhuanlan.zhihu.com/p/448732749) 
 - [com.unity.profiling.systemmetrics.mali](https://github.com/needle-mirror/com.unity.profiling.systemmetrics.mali)
@@ -2689,6 +2691,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [跨平台引擎Shader编译流程分析](https://zhuanlan.zhihu.com/p/56510874)
 - [如何阅读和还原分析器中的DXBC](https://zhuanlan.zhihu.com/p/346324622)
 - [DXBC指令](http://xiaopengyou.fun/public/2021/01/16/DXBC%E6%8C%87%E4%BB%A4/#more)
+- [MFShaderRecover](https://github.com/Reguluz/MFShaderRecover) ■■Updating■■ A simple tool to recognize DXBC language then translate to unity shaderlab typed shader
 - [dxbc_reader](https://github.com/luxuia/dxbc_reader)
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
@@ -4057,6 +4060,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ppiastucki/recast4j
 - https://github.com/Cr33zz/Nav
 - https://github.com/snape/RVO2-CS
+- https://github.com/Nebukam/com.nebukam.orca
 - [SimpleAI](https://github.com/OneManMonkeySquad/SimpleAI)
 
 #### Bone&&Spring
