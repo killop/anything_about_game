@@ -89,7 +89,7 @@ Table of Contents
 - [Data](#data)
     - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
     - [Exchange](#exchange)
-    - [DataVisual&&Editor](#datavisualeditor)
+    - [DataVisual\&\&Editor](#datavisualeditor)
 - [Archive-GameReverse](#archive-gamereverse)
     - [Collection](#collection-2)
     - [Archive-Format](#archive-format)
@@ -155,7 +155,7 @@ Table of Contents
 - [Game-BenchMark/Metric/Tool](#game-benchmarkmetrictool)
     - [Common](#common-1)
     - [GPU](#gpu)
-- [ComputerGraphics && Shading](#computergraphics--shading)
+- [ComputerGraphics \&\& Shading](#computergraphics--shading)
     - [Conference](#conference)
     - [Journal](#journal)
     - [Group](#group)
@@ -280,7 +280,7 @@ Table of Contents
     - [Dependency Injection](#dependency-injection)
     - [Skill](#skill)
     - [Occlusion Culling](#occlusion-culling)
-    - [ShaderGraph&&Effect](#shadergrapheffect)
+    - [ShaderGraph\&\&Effect](#shadergrapheffect)
     - [Memory/GC](#memorygc)
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
@@ -297,7 +297,7 @@ Table of Contents
     - [Scriptable Object](#scriptable-object)
     - [DOTS](#dots)
     - [PathFinding](#pathfinding)
-    - [Bone&&Spring](#bonespring)
+    - [Bone\&\&Spring](#bonespring)
     - [Create Model](#create-model)
     - [Mesh](#mesh)
       - [Fracture Mesh](#fracture-mesh)
@@ -964,6 +964,7 @@ Table of Contents
 ##### Hair
 - https://github.com/AdamFrisby/UnityHairShader
 - https://github.com/Unity-Technologies/com.unity.demoteam.hair
+- https://github.com/Unity-China/cn.unity.hairfx.core
 - https://github.com/kennux/VHair
 - https://zhuanlan.zhihu.com/p/330259306 头发渲染
 - [hairstudio](https://assetstore.unity.com/packages/tools/modeling/hairstudio-early-access-164661) 
@@ -972,12 +973,13 @@ Table of Contents
 - [flux-dynamic-hair](https://assetstore.unity.com/packages/tools/animation/flux-dynamic-hair-skirt-tail-bone-control-tool-164940?)
 - [fluffy-grooming](https://assetstore.unity.com/packages/tools/modeling/fluffy-grooming-tool-193828)
 - [Unity-HairFX-Tutorial](https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial?
-)
 ##### Human
 - [poser](https://www.posersoftware.com/) 
 - [daz3d](https://www.daz3d.com/home)
 - [makehuman](http://www.makehumancommunity.org/)
-  
+- [studio](https://vroid.com/en/studio) 3D Character Creation Software
+- [reallusion](https://www.reallusion.com/) URP Support:[cc_unity_tools_URP](https://github.com/soupday/cc_unity_tools_URP)
+- [com.unity.demoteam.digital-human](https://github.com/Unity-Technologies/com.unity.demoteam.digital-human) Library of tech features used to realize the digital human from The Heretic and Enemies.
 #### Effect
 - [Effekseer](https://github.com/effekseer/Effekseer)
 - [fusion](https://www.blackmagicdesign.com/products/fusion)
@@ -1196,6 +1198,7 @@ Table of Contents
 * [游戏开发中的阻尼器和阻尼弹簧](https://mp.weixin.qq.com/s/UMipfQ_09w0bnQOBIA9ttg)
 * [unity-tweening-system](https://github.com/zigurous/unity-tweening-system)
 * [unity-animation](https://github.com/KleinerHacker/unity-animation/) Extended Animation Framework for Unity based on Coroutines
+* [PlasticTween](https://github.com/PlasticApps/PlasticTween) Tween Library for Unity3D(ECS+JOBS)
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1635,6 +1638,7 @@ Table of Contents
 - https://space.bilibili.com/3981300 
 - https://github.com/briatte/awesome-network-analysis
 - https://www.codersblock.org/blog/client-side-prediction-in-unity-2018
+- https://docs.google.com/spreadsheets/d/1Bj5uLdnxZYlJykBg3Qd9BNOtvE8sp1ZQ4EgX1sI0RFA/edit#gid=127892449
 - [52im](http://www.52im.net/thread-561-1-1.html) 高手在这里
 - [gafferongames](https://gafferongames.com/ )
 - [服务端高并发分布式架构 14 次演进之路](https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247489277&idx=1&sn=ce3b70c631fa0e8c39f63fc302e7e9ff&chksm=fa49694ccd3ee05ae5ae665886a671e73ee5af98ae0f6144aa9e41a72f77dbd84cd43136b171&scene=126&sessionid=1585802695&key=e105728d74a847446e19a0c602b7735f31ddd53f9869dd2dae4c2e1c6dc722f4c4e0c1d67fc6dcdb7e5dafa961b0c4d30694217edab11f0e7205b6ececf3861f9d2f449840e34c94818a68c4318ff645&ascene=1&uin=MTUzMzg4NDYwNA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Adi7rMQABUZyWowjJQoiHXg%3D&pass_ticket=wxWXZ7se5AXmrvlB%2BDSVsbzubdPTVegGwyaK32OUIFmgepVOkwPJLE4dpzv2ejLW)
@@ -1925,6 +1929,7 @@ Fast, reliable, scalable.
 - [darkriftnetworking](https://darkriftnetworking.com/) DarkRift Networking is a high performance, multithreaded networking system for Unity designed for speed and flexibility. It aims to be the ideal solution for every type of game, be it a First Person Shooter, a Trading card game or a Massively Multiplayer Online game. DarkRift Networking is the right choice for you.  
 - [Mirror](https://github.com/vis2k/Mirror) A community replacement for Unity's abandoned UNET Networking System. 
 - [Unity-Mirror-Helper-Scripts](https://github.com/Goodgulf281/Unity-Mirror-Helper-Scripts) A collection of helper scripts for (Unity3d) Mirror networking.
+- [aurora-engine-mirror-network-229925](https://assetstore.unity.com/packages/tools/game-toolkits/aurora-engine-mirror-network-229925) Aurora Engine - Mirror Network is ready made network solution for Aurora FPS Engine!
 - [Ruffles](https://github.com/MidLevel/Ruffles) Lightweight and fully managed reliable UDP library. 
 - [libplanet](https://github.com/planetarium/libplanet) Blockchain core in C#/.NET for persistent peer-to-peer online games 
 - [supersocket](https://docs.supersocket.net/) 国人的骄傲
@@ -2881,6 +2886,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [学习PBR路程（四、Specular）](https://zhuanlan.zhihu.com/p/454439797)
 
 #### NPR
+- [FernNPR](https://github.com/DeJhon-Huang/FernNPR) NPR相关实验，基于Unity。
 - [UnityURP-AnimeStyleCelShader](https://github.com/Jameslroll/UnityURP-AnimeStyleCelShader) A custom shader and post-processing effect for achieving anime-style characters or levels in Unity using the Universal Render Pipeline.
 - [NPR_ResearchFactory](https://github.com/hahahuahai/NPR_ResearchFactory) NPR相关实验，基于Unity。
 - [浅谈卡通渲染与真实感渲染结合思路](https://zhuanlan.zhihu.com/p/561494026)
@@ -3112,6 +3118,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/CMDRSpirit/URPTemporalAA
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
 - https://github.com/Looooong/Unity-SRP-VXGI
+- [dots-renderer](https://github.com/vectorized-runner/dots-renderer)
 #### Global illumination (GI)
 
 ##### Collection
@@ -3834,6 +3841,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [适合于移动平台的预计算遮挡剔除](https://zhuanlan.zhihu.com/p/150448978)
 - [Vision](https://github.com/mackysoft/Vision) UnityEngine.CullingGroup API for everyone. 
 - [ta-frustrum-culling](https://github.com/ThousandAnt/ta-frustrum-culling) Demo repository for URP + Frustrum Culling + Jobs
+- [culling](https://github.com/zcvdf/culling) Unity ECS implementation of a typical Culling system supporting Frustrum Culling and Occlusion Culling
 
 #### ShaderGraph&&Effect
 - [ShaderGraph暴力学习](https://www.bilibili.com/video/BV1ZE411W7Nz?)
@@ -4006,6 +4014,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NSprites](https://github.com/Antoshidza/NSprites) DOTS based sprite render system
+* [IsoSorting](https://github.com/Sylmerria/IsoSorting) Isometric sorting system for Unity using ECS
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
@@ -4062,6 +4071,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Cr33zz/Nav
 - https://github.com/snape/RVO2-CS
 - https://github.com/Nebukam/com.nebukam.orca
+- [local-avoidance](https://assetstore.unity.com/packages/tools/ai/local-avoidance-214347) unity-plugin
 - [SimpleAI](https://github.com/OneManMonkeySquad/SimpleAI)
 
 #### Bone&&Spring
@@ -4247,6 +4257,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/jynew/jynew
 - https://github.com/skyteks
 - https://github.com/judah4/MMO-Dragon-Game-Framwork
+- https://github.com/TastSong/CrazyCar 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis；后台为Vue + Element；游戏端采用QFramework框架，支持KCP和WebSocket网络(商用级)
 - [DarkGod](https://github.com/mGitup/DarkGod) 基于 Unity 的 3D ARPG 移动端网游
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！
 ## Programmer-Common-Tool
