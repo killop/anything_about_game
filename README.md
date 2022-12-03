@@ -1387,6 +1387,7 @@ Table of Contents
 - [BigworldPlants](https://github.com/tangwilliam/BigworldPlants)
 - [InfinityFoliage](https://github.com/haolange/InfinityFoliage)
 - [OpenWorldGrassDemo](https://github.com/Gamu2059/OpenWorldGrassDemo) 
+- [shaders-6grass](https://github.com/daniel-ilett/shaders-6grass) Six varied methods for drawing grass with a range of use cases
 - [Interactive-Grass](https://github.com/IRCSS/Interactive-Grass) A continueshion of this grass shader
 - [Grass-Shader](https://github.com/charliebratches/Grass-Shader) Implementation of a GPU grass shader in Unity with fancy scripting features
 - [Grass-Tool](https://github.com/starfaerie/Grass-Tool) A GPU-based real-time grass placement tool for Unity by Astrid Wilde. Currently only works in Unity's Standard Rendering Pipeline
