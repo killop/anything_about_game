@@ -74,8 +74,8 @@ Table of Contents
     - [Movement](#movement)
     - [Animation-Controller](#animation-controller)
     - [Character-Controller](#character-controller)
-    - [Unity-Tool](#unity-tool)
     - [PCG-Animation](#pcg-animation)
+    - [Unity-Tool](#unity-tool)
 - [Console/Command/Shell/Debugger](#consolecommandshelldebugger)
 - [Scenes](#scenes)
     - [Terrain](#terrain)
@@ -110,7 +110,6 @@ Table of Contents
     - [c#](#c)
 - [ECS Libraries](#ecs-libraries)
     - [Collection](#collection-3)
-    - [AI-ML](#ai-ml)
     - [C/C++](#cc)
     - [C#](#c-1)
     - [Python](#python)
@@ -854,13 +853,15 @@ Table of Contents
 ## Game-Design-Tool
 #### Collection
 - [magictools](https://github.com/ellisonleao/magictools)
+- https://orels.sh/p/tools/
+- [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) 
+- [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
 - [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
-- [元素法典——Novel AI 元素魔法全收录](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs)
-- [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation)
-- https://orels.sh/p/tools/
-- [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
+- [元素法典——Novel AI 元素魔法全收录](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs) 
+- https://github.com/JPhilipp/AIConnectors 
+- https://github.com/3DFaceBody/awesome-3dbody-papers
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
 *  [MagicaVoxel](https://ephtracy.github.io/)
@@ -983,6 +984,11 @@ Table of Contents
 - [com.unity.demoteam.digital-human](https://github.com/Unity-Technologies/com.unity.demoteam.digital-human) Library of tech features used to realize the digital human from The Heretic and Enemies.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting) VR-Stage-Lighting
 - [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin)
+ - https://github.com/luxonis/depthai-unity
+ - https://github.com/runwayml/RunwayML-for-Unity
+ - https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer
+ - https://github.com/DanielSWolf/rhubarb-lip-sync
+
 #### Effect
 - [Effekseer](https://github.com/effekseer/Effekseer)
 - [fusion](https://www.blackmagicdesign.com/products/fusion)
@@ -1117,6 +1123,7 @@ Table of Contents
 - [CC0Textures](https://github.com/keijiro/CC0TexturesUtils) Unity Editor scripts for preprocessing CC0 Textures 
 - https://cc0textures.com/ CC0 Textures is a library of high quality PBR materials for 3D rendering and game design licensed under the Creative Commons CC0 License. 
 - [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation 
+- [uAnime4K](https://github.com/SharkShooter/uAnime4K)  Anime4K port to Unity
 - https://github.com/weihaox/awesome-image-translation
 - [procedural-stochastic-texturing](https://github.com/UnityLabs/procedural-stochastic-texturing) Modified Shader Graph package implementing Procedural Stochastic Texturing 
 - [超强一键生成特效常用贴图网站介绍！](https://www.bilibili.com/video/BV1ub411U7Jc/?spm_id_from=autoNext)
@@ -1151,6 +1158,8 @@ Table of Contents
 #### Animation-DCC-Tool
 - [Cascadeur](https://cascadeur.com/)
 - [spine](http://zh.esotericsoftware.com/)
+- [spine-optimize
+](https://github.com/506638093/spine-optimize)
 - [live3d](http://www.zingfront.cn/live3d/)
 - [live2d](https://www.live2d.com/)
 - [dragonbones](http://dragonbones.effecthub.com/) 
@@ -1281,10 +1290,12 @@ Table of Contents
 - https://github.com/mixandjam/Batman-Arkham-Combat
 - [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller)
 - [2D-Character-Controller](https://github.com/Brackeys/2D-Character-Controller)
-#### Unity-Tool
-- [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
+- [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
+#### Unity-Tool
+- [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
+
 
 ## Console/Command/Shell/Debugger
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
@@ -1391,7 +1402,7 @@ Table of Contents
 - [HiZ_grass_culling](https://github.com/jackie2009/HiZ_grass_culling)
 - https://github.com/Milk-Drinker01/Milk_Instancer01
 - [Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
-- https://github.com/GarrettGunnell/Grass
+- https://github.com/GarrettGunnell/
 - [URP-HIZ](https://github.com/himma-bit/empty)
 - https://github.com/SoSoReally/RenderFeature_HizCull
 * [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
@@ -1526,6 +1537,7 @@ Table of Contents
 - https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt
 - https://semver.org/lang/zh-CN/   -- 版本号规范
 - https://github.com/Artees/Unity-SemVer
+- https://github.com/adamreeve/semver.net
 - https://github.com/pcottle/learnGitBranching -- 学习git 提交的网站
 - https://github.com/libgit2/libgit2sharp  -- git的 c# 实现
 * [Linus讲解git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Google大会演讲，Linus介绍他创造git的原因，对比了git和svn。
@@ -1638,6 +1650,7 @@ Table of Contents
 - [iron](https://gitee.com/pink0453/iron) iron 基于vertx高性能游戏服务器框架
 - [NFShmServer](https://gitee.com/xiaoyi445_admin/NFShmServer) NFShmServer 是一个使用C++开发的轻量级,敏捷型,弹性的,分布式的共享内存的插件开发框架, 让你更快更简单的开发服务端应用. 部分思路来自UE4和Ogre.(当前主要用在游戏领域) 我写的开源架构，前几年开源过，后来自己做项目，又没开源了，现在没搞项目了，加上修改了2年了，打算重新开源
 - [hive](https://github.com/hero1s/hive) A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script
+- [wind](https://github.com/ferris1/wind) Wind是一款面向云的高性能、高效率以及高扩展性的分布式游戏服务器引擎框架
 #### Article
 - https://zhuanlan.zhihu.com/p/565731139
 - https://zhuanlan.zhihu.com/p/565875153
@@ -1817,10 +1830,7 @@ Table of Contents
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
  
- #### AI-ML
- - https://github.com/luxonis/depthai-unity
- - https://github.com/runwayml/RunwayML-for-Unity
- - https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer
+
 #### C/C++
 
 * anax - Open source C++ entity system [[github](https://github.com/miguelmartin75/anax) ![miguelmartin75/anax](https://img.shields.io/github/stars/miguelmartin75/anax.svg?style=flat&label=Star&maxAge=86400)]
@@ -1884,6 +1894,7 @@ Table of Contents
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 - https://www.betrfs.org/
 - https://github.com/MathewHDYT/Unity-Data-Manager
+- https://github.com/coryleach/UnitySaveLoad
 ## Hash
 - [Blake3](https://github.com/xoofx/Blake3.NET) Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
 - [HashDepot](https://github.com/ssg/HashDepot)
@@ -2138,11 +2149,13 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [cycles-renderer](https://www.cycles-renderer.org/) Cycles is a physically based production renderer developed by the Blender project.
 * [flowers](https://github.com/ray-cast/flowers) 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
 * [LuisaRender](https://github.com/LuisaGroup/LuisaRender)
+* [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
 * [garEnginePublic](https://github.com/garlfin/garEnginePublic) C# Engine - Features: Directional Shadows, PBR, SSAO, Bloom, IBL, ECS, Render/Frame Buffers, Baked Cubemaps
 * [mach](https://github.com/hexops/mach) Mach is a game engine & graphics toolkit for the future.
 * [zenustech](https://zenustech.com/) ZEn NOde system - a simulation & rendering engine in nodes
 * [RenderLab](https://github.com/Ubpa/RenderLab) 渲染实验室，包含了实时渲染，离线渲染和场景编辑的功能
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects
+* [Turbo](https://github.com/FuXiii/Turbo) Turbo is rendering engine base Vulkan
 * [hybrid-rendering](https://github.com/diharaw/hybrid-rendering) A Vulkan sample that demonstrates a Rasterization and Ray Tracing Hybrid Rendering Pipeline.
 * [kajiya](https://github.com/EmbarkStudios/kajiya) Experimental real-time global illumination renderer 
 * [Cafe-Shader-Studio](https://github.com/KillzXGaming/Cafe-Shader-Studio)
@@ -2213,6 +2226,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/SinyavtsevIlya/BehaviorTree
 - https://github.com/ls361664056/GameAI-paper-list
 - https://github.com/jzyong/GameAI4j
+- https://github.com/kietran99/BehaviorTree
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -2269,6 +2283,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [game-math](https://github.com/npruehs/game-math) c#
 - [Unity GPU Nearest Neighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) c# gpu
 - [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
+- [Unity-BatchRendererGroup-Boids](https://github.com/AlexMerzlikin/Unity-BatchRendererGroup-Boids)
 - [3DMath](https://github.com/GregLukosek/3DMath) Unity C# 3D Math methods library. 
 - [Mathfs](https://github.com/FreyaHolmer/Mathfs) c# Expanded Math Functionality for Unity 
 - [Geometric Algorithms](https://github.com/volfegan/GeometricAlgorithms)  Java Geometric Algorithms implemented for Java and Processing v3 
@@ -2755,6 +2770,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- [CgFX-Shader-Compilation](https://github.com/steaklive/CgFX-Shader-Compilation)
 - [Unity-Advanced-Shaders-Tutorial](https://github.com/Habrador/Unity-Advanced-Shaders-Tutorial) Implementation of advanced shaders in Unity like raytracing, interior mapping, parallax mapping
 - [UNITY-Arc-system-Works-Shader](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader) Shader created to emulate the design style of Arc System Works games such as Guilty Gear and Dragon Ball FighterZ. Created using Amplify Shader Editor.
 - [Next-Generation-Character-Rendering](https://github.com/HigashiSan/Next-Generation-Character-Rendering)
@@ -2989,6 +3005,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity-Specular-Probes](https://github.com/frostbone25/Unity-Specular-Probes) A simple editor script that emulates specular highlighting for every light in the scene on reflection probes when baking them.
 - [magic-light-probes](https://assetstore.unity.com/packages/tools/utilities/magic-light-probes-157812) unity-plugin
 - [LightProbeBinder](https://github.com/tsujihaneta/LightProbeBinder)An editor extension that restores light probes when the specified game object is loaded; Multi-Scene and Timeline support are also available.
+- [OBBReflectionProbeSupport](https://github.com/noisecrime/Unity-OBBReflectionProbeSupport)
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -3030,6 +3047,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity手游项目优化记录](https://www.jianshu.com/p/5712bf3c26ba)
 - [SRP到URP从原理到应用](https://www2.slideshare.net/MOMO145/srpurp)
 - [ProjectKaya](https://github.com/UnityKorea/ProjectKaya) Project Kaya for mobile game platform powered by urp
+- [HDRP-Custom-Passes](https://github.com/alelievr/HDRP-Custom-Passes)
 
 ##### Mask
 * [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
@@ -3066,6 +3084,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Decal Master: Advanced Deferred Decals](https://assetstore.unity.com/packages/tools/utilities/decal-master-advanced-deferred-decals-145432)
 * [kDecals](https://github.com/Kink3d/kDecals) kDecals is a system for definition, placement and rendering of projection Decals in Unity's Universal Render Pipeline
 * [DynamicDecals](https://github.com/EricFreeman/DynamicDecals)
+* [driven-decals](https://github.com/Anatta336/driven-decals)
  ##### Face
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
 ##### Water
@@ -3140,6 +3159,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
 * [DXR-Sandbox-GI](https://github.com/steaklive/DXR-Sandbox-GI) Simple DirectX 12 toy framework for testing Global Illumination: Reflective Shadow Mapping, Light Propagation Volume, Voxel Cone Tracing, DXR
 *  [NatRender](https://github.com/unitycoder/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
+*  [A voxel cone traced realtime Global Illumination rendering engine in dx12, wip](https://github.com/LanLou123/DXE)
 ##### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
@@ -3298,6 +3318,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes) A realization of computing soft shadow by shadow fields
 * [voxelized-shadows-improved](https://github.com/loinesg/voxelized-shadows-improved) Construction and sampling of precomputed shadows in a compressed voxel octree
 * [DeepShadowMap](https://github.com/ecidevilin/DeepShadowMap) Real-Time Deep Shadow Maps for Unity3D 
+* [CachedShadowMaps](https://github.com/aivclab/CachedShadowMaps) Cached Shadow Map Solution for Unity
 #### GPGPU
 - https://github.com/arrayfire/arrayfire
 - [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp)
@@ -3333,6 +3354,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Ninjajie/Fusion
 - https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
 - https://github.com/EmmetOT/BufferSorter
+- https://github.com/hiroakioishi/UnityGPUBitonicSort
 - https://github.com/krylov-na/Compute-shader-particles
 - https://github.com/IRCSS/Procedural-painting
 - https://github.com/keijiro/Swarm
@@ -3381,6 +3403,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/EmmetOT/BoundingVolumeHierarchy
 - https://github.com/Sylmerria/Spatial-Hashing
 - https://github.com/AdamYuan/SparseVoxelOctree
+- https://github.com/bartofzo/NativeTrees
 
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
@@ -3635,6 +3658,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://dotnet.github.io/orleans/ actor
 - https://github.com/OrleansContrib/Orleankka actor 
 - https://github.com/ledjon-behluli/OrleanSpaces
+- https://github.com/PiotrJustyna/road-to-orleans
 - https://github.com/RayTale/Vertex Vertex is a distributed, ultimately consistent, event traceable cross platform framework based on Orleans, which is used to build high-performance, high throughput, low latency, scalable distributed applications 
 - https://www.newlifex.com/ 
 - https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开框架 
@@ -3684,6 +3708,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://zhuanlan.zhihu.com/p/534439206
 
 ## Embed-Script/VM/JIT
+- [luajit-remake](https://github.com/luajit-remake/luajit-remake)
 - [minivm](https://github.com/FastVM/minivm) A VM That is Dynamic and Fast
 - [CS2X](https://github.com/reignstudios/CS2X) Transpiles a C# subset to non .NET languages and runtimes. (Powered by Roslyn) 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) ts2lua
@@ -3819,6 +3844,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/christides11/hack-and-slash-framework
 
 #### Dependency Injection 
+- https://github.com/danielpalme/IocPerformance
 - https://github.com/gustavopsantos/reflex
 - https://github.com/ssannandeji/Zenject-2019
 - https://github.com/hadashiA/VContainer
@@ -3873,6 +3899,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Brackeys] Unity Shader Graph教程合集](https://www.bilibili.com/video/BV1pV411U7sE)
 - https://github.com/andydbc/unity-shadergraph-sandbox
 - https://github.com/Zallist/unity-universal-shadergraph-extensions
+- https://github.com/gilescoope/shader-graph-nodes
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
@@ -4002,6 +4029,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/KybernetikGames/LinkAndSync
 - https://github.com/Rhinox-Training/rhinox-lightspeed
 - https://github.com/natsuneko-laboratory/refined-animation-property
+- [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -4043,6 +4071,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances. 
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
+* [ReactiveDots](https://github.com/PanMadzior/ReactiveDots) Reactive systems and other utilities for Unity DOTS.
+* [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray) https://github.com/GilbertoGojira/DOTS-Stackray
 * [bovinelabs](https://github.com/tertle/com.bovinelabs.core)
 * [actors](https://github.com/PixeyeHQ/actors.unity)
 * [ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)
@@ -4137,6 +4167,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [meshio](https://github.com/nschloe/meshio) There are various mesh formats available for representing unstructured meshes. meshio can read and write all of the following and smoothly converts  between them
  - [MeshBoolean](https://github.com/KaimaChen/MeshBoolean) Make Boolean Operator on Mesh. In Unity.
  - [Open3D](https://github.com/isl-org/Open3D) Open3D: A Modern Library for 3D Data Processing
+ - [MonoManifold](https://github.com/komietty/MonoManifold) Differencial Geometry library on Unity
 ##### Fracture Mesh
 - https://gitlab.com/dima13230/unity-libre-fracture
 
@@ -4253,6 +4284,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [withpinbox](https://withpinbox.com/)
 - [taskade](https://taskade.com/)
 - [思源](https://github.com/siyuan-note/siyuan)
+- [日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
 ## UnityBuild
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
 - [Usdk](~~https://github.com/honghuachen/Usdk~~) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
@@ -4274,6 +4306,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [AppIconChangerUnity](https://github.com/kyubuns/AppIconChangerUnity)
  - [BlankDeviceUniqueIdentifier](https://github.com/AlianBlank/BlankDeviceUniqueIdentifier) 用于在 Unity3D 中获取Android 和 iOS 平台上唯一机器码的插件
  - [BlankOperationClipboard](https://github.com/AlianBlank/BlankOperationClipboard) Unity 读写Android 和 iOS 的粘贴板插件
+ - [UnityWebBrowser](https://github.com/Voltstro-Studios/UnityWebBrowser)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
@@ -4386,4 +4419,5 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [GameDevelopTutorials](https://github.com/GamesTan/GameDevelopTutorials)
 * [秋秋群里面的日常讨论](https://gist.github.com/lexnewgate/01dc7a985b2c8d847adfb90758d24843)
 * [gamedev](https://github.com/DsoTsin/gamedev) ue gamedev
+* [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 ## 看完不star，小心没jj :)!
