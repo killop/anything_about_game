@@ -2439,8 +2439,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### Fluid
 - [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 - [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
-- [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
-- [PositionBasedFluids](https://github.com/JAGJ10/PositionBasedFluids) CUDA/C++ implementation of several papers in the spirit of developing a small demo similar to Nvidia's FleX framework
 - [Piranha](https://github.com/keenanwoodall/Piranha) A simple tool to make rigidbodies swarm a mesh in Unity.
 - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
 - [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
@@ -2464,6 +2462,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
 - [unity-position_based_dynamic](https://github.com/wsiqq23/unity-position_based_dynamic) 在unity上实现的一些基于position based dynamic的效果
 - [PBD2D](https://github.com/andywiecko/PBD2D) Unity Position Based Dynamics in two dimensions
+- [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
+- [PositionBasedFluids](https://github.com/JAGJ10/PositionBasedFluids) CUDA/C++ implementation of several papers in the spirit of developing a small demo similar to Nvidia's FleX framework
 #### Softbody
 * [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
 * [SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation) Squish! A quick exploration of mesh deformation in response to collision 
