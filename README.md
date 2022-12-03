@@ -43,7 +43,7 @@ Table of Contents
     - [Modeling](#modeling)
       - [Sculpture](#sculpture)
       - [Hair](#hair)
-      - [Human](#human)
+      - [Human/Stage](#humanstage)
     - [Effect](#effect)
       - [Course](#course)
     - [Material](#material)
@@ -75,6 +75,7 @@ Table of Contents
     - [Animation-Controller](#animation-controller)
     - [Character-Controller](#character-controller)
     - [Unity-Tool](#unity-tool)
+    - [PCG-Animation](#pcg-animation)
 - [Console/Command/Shell/Debugger](#consolecommandshelldebugger)
 - [Scenes](#scenes)
     - [Terrain](#terrain)
@@ -84,7 +85,6 @@ Table of Contents
     - [Road](#road)
     - [River](#river)
     - [Article](#article)
-- [3D Rendering Software/Plugin](#3d-rendering-softwareplugin)
 - [3D-File-Format](#3d-file-format)
 - [Data](#data)
     - [Metadata/Excel/Schema/Proto](#metadataexcelschemaproto)
@@ -586,7 +586,8 @@ Table of Contents
 - [dotnetfly](https://github.com/ctripxchuang/dotnetfly)
 - [张蕾](https://www.lei.chat/) vulkan
 - [重归混沌](https://blog.gotocoding.com/)
-- [卡姐](https://www.bilibili.com/video/av14910105/)  
+- [卡姐](https://www.bilibili.com/video/av14910105/)
+- [glooow1024](https://glooow1024.github.io/) 数学
 - https://halfrost.com
  
 #### English
@@ -973,13 +974,15 @@ Table of Contents
 - [flux-dynamic-hair](https://assetstore.unity.com/packages/tools/animation/flux-dynamic-hair-skirt-tail-bone-control-tool-164940?)
 - [fluffy-grooming](https://assetstore.unity.com/packages/tools/modeling/fluffy-grooming-tool-193828)
 - [Unity-HairFX-Tutorial](https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial?
-##### Human
+##### Human/Stage
 - [poser](https://www.posersoftware.com/) 
 - [daz3d](https://www.daz3d.com/home)
 - [makehuman](http://www.makehumancommunity.org/)
 - [studio](https://vroid.com/en/studio) 3D Character Creation Software
 - [reallusion](https://www.reallusion.com/) URP Support:[cc_unity_tools_URP](https://github.com/soupday/cc_unity_tools_URP)
 - [com.unity.demoteam.digital-human](https://github.com/Unity-Technologies/com.unity.demoteam.digital-human) Library of tech features used to realize the digital human from The Heretic and Enemies.
+- [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting) VR-Stage-Lighting
+- [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin)
 #### Effect
 - [Effekseer](https://github.com/effekseer/Effekseer)
 - [fusion](https://www.blackmagicdesign.com/products/fusion)
@@ -1034,10 +1037,11 @@ Table of Contents
 - [tile-map-accelerator](https://forum.unity.com/threads/tile-map-accelerator-high-performance-shader-based-tile-map-renderer.708413/)
 - [tileplus](https://assetstore.unity.com/packages/tools/sprite-management/tileplus-toolkit-201027)
 -  https://github.com/Cammin/LDtkToUnity
- - Isometric unity-plugin
- - Ultimate Grids Engine unity-plugin
- - KUBIKOS - 3D Cube World unity-plugin
- - hex map unity-plugin
+-  https://www.slynyrd.com/blog
+- Isometric unity-plugin
+- Ultimate Grids Engine unity-plugin
+- KUBIKOS - 3D Cube World unity-plugin
+- hex map unity-plugin
  
 #### Design
 - https://www.zcool.com.cn
@@ -1276,8 +1280,11 @@ Table of Contents
 - https://github.com/joebinns/stylised-character-controller
 - https://github.com/mixandjam/Batman-Arkham-Combat
 - [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller)
+- [2D-Character-Controller](https://github.com/Brackeys/2D-Character-Controller)
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
+#### PCG-Animation
+- [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 
 ## Console/Command/Shell/Debugger
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
@@ -1386,6 +1393,7 @@ Table of Contents
 - [Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 - https://github.com/GarrettGunnell/Grass
 - [URP-HIZ](https://github.com/himma-bit/empty)
+- https://github.com/SoSoReally/RenderFeature_HizCull
 * [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
@@ -1396,9 +1404,6 @@ Table of Contents
 - [地形渲染概览](https://zhuanlan.zhihu.com/p/436879101)
 
 
-## 3D Rendering Software/Plugin
-- [keyshot](https://www.keyshot.com/)
-- [marmoset](https://marmoset.co/)
 ## 3D-File-Format
 - [Alembic](http://www.alembic.io/)
 - [BLEND](https://en.wikipedia.org/wiki/.blend_(file_format))
@@ -1516,6 +1521,7 @@ Table of Contents
 - [Switch-Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) A tool to edit many video game file formats
 - [libsbml](https://github.com/sbmlteam/libsbml)
 - [WoWDBDefs](https://github.com/wowdev/WoWDBDefs)
+- [flaclibsharp](https://github.com/AaronLenoir/flaclibsharp)
 ## Version-Control
 - https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt
 - https://semver.org/lang/zh-CN/   -- 版本号规范
@@ -1561,6 +1567,7 @@ Table of Contents
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
+- https://github.com/mangoszero/server
 - https://github.com/mirbeta/OpenMir2
 - https://github.com/networkprotocol/yojimbo
 - https://github.com/MFatihMAR/Game-Networking-Resources#readme 游戏服务器汇总网站-爸爸级别
@@ -1791,6 +1798,7 @@ Table of Contents
 - https://github.com/emrecancubukcu/Terrain-Decorator
 - https://github.com/jintiao/VirtualTexture
 - https://github.com/ACskyline/PVTUT
+- https://github.com/Unity-Technologies/Megacity-Sample
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -2059,6 +2067,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [projectchrono](https://projectchrono.org/) An Open Source Multi-physics Simulation Engine
 * [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib. :o2:
 * [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
+* [VelcroPhysics](https://github.com/Genbox/VelcroPhysics) High performance 2D collision detection system with realistic physics responses.
 * [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language :o2:
 * [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. :free:
 * [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting. :triangular_flag_on_post:
@@ -2124,6 +2133,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 
 #### 3D Engines and Frameworks
+* [keyshot](https://www.keyshot.com/)
+* [marmoset](https://marmoset.co/)
+* [cycles-renderer](https://www.cycles-renderer.org/) Cycles is a physically based production renderer developed by the Blender project.
 * [flowers](https://github.com/ray-cast/flowers) 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
 * [LuisaRender](https://github.com/LuisaGroup/LuisaRender)
 * [garEnginePublic](https://github.com/garlfin/garEnginePublic) C# Engine - Features: Directional Shadows, PBR, SSAO, Bloom, IBL, ECS, Render/Frame Buffers, Baked Cubemaps
@@ -2435,6 +2447,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Position-Based-Dynamics
 - [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
 - [unity-position_based_dynamic](https://github.com/wsiqq23/unity-position_based_dynamic) 在unity上实现的一些基于position based dynamic的效果
+- [PBD2D](https://github.com/andywiecko/PBD2D) Unity Position Based Dynamics in two dimensions
 #### Softbody
 * [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
 * [SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation) Squish! A quick exploration of mesh deformation in response to collision 
@@ -3041,6 +3054,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/Thryrallo/ThryEditor
 * https://github.com/ipud2/Unity-Basic-Shader/tree/master/SimpleShaderGUI
 * [shader-graph-markdown](https://assetstore.unity.com/packages/tools/gui/shader-graph-markdown-194781)
+* [OpenGraphGUI](https://github.com/RobProductions/OpenGraphGUI)
 ##### Interior
 - https://github.com/Gaxil/Unity-InteriorMapping
 - https://zhuanlan.zhihu.com/p/575453172
@@ -3381,6 +3395,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 
 #### Color
+- [exposure](https://bruop.github.io/exposure/)
 - [colour-unity](https://github.com/colour-science/colour-unity)
 - [万能的曲线——堪称调色之王（颜色篇）](https://zhuanlan.zhihu.com/p/375597094)
 - [色彩理论」颜色是怎么回事儿？以及如何高效使用 Adobe 颜色库](https://www.bilibili.com/video/BV114411R7x4?)
@@ -3519,6 +3534,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
+- [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
@@ -3806,7 +3822,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/gustavopsantos/reflex
 - https://github.com/ssannandeji/Zenject-2019
 - https://github.com/hadashiA/VContainer
-
+- https://github.com/ipjohnson/Grace
+- https://github.com/dadhi/DryIoc
 
  
 #### Skill
@@ -3956,6 +3973,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/needle-tools/custom-timeline-editor
 - https://github.com/corle-bell/UnityTimeLineEvent
 - https://github.com/k-okawa/WaypointSystemForTimeline
+- https://github.com/ddionisio/MateAnimator
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
@@ -3983,6 +4001,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/SolarianZ/UnityPlayableGraphMonitorTool
 - https://github.com/KybernetikGames/LinkAndSync
 - https://github.com/Rhinox-Training/rhinox-lightspeed
+- https://github.com/natsuneko-laboratory/refined-animation-property
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -4233,7 +4252,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [obsidian](https://obsidian.md/)
 - [withpinbox](https://withpinbox.com/)
 - [taskade](https://taskade.com/)
-
+- [思源](https://github.com/siyuan-note/siyuan)
 ## UnityBuild
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
 - [Usdk](~~https://github.com/honghuachen/Usdk~~) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
@@ -4247,19 +4266,24 @@ instrumentation, switch-contexts, sampling, GPU counters.
  ## Mobile
  - [UnityAndroidRuntimePermissions](https://github.com/yasirkula/UnityAndroidRuntimePermissions)A native Unity plugin to handle runtime permissions on Android M+
  - [unity-background-service](https://github.com/nintendaii/unity-background-service)
- - [unimgpicker](https://github.com/thedoritos/unimgpicker)
+ - [unimgpicker](https://github.com/thedoritos/unimgpicker)]
+ - [BlankGalleryScreenshot](https://github.com/AlianBlank/BlankGalleryScreenshot) Unity 3D Gallery Screenshot
  - [Unity-iOS-Android-Download](https://github.com/LBCross/Unity-iOS-Android-Download)
  - [Unity-NativePlugins](https://github.com/AlexMerzlikin/Unity-NativePlugins)
  - [Android-Auxiliary](https://github.com/JYX-MOD/Android-Auxiliary) Unity开发过程中部分安卓操作会用到的函数
  - [AppIconChangerUnity](https://github.com/kyubuns/AppIconChangerUnity)
+ - [BlankDeviceUniqueIdentifier](https://github.com/AlianBlank/BlankDeviceUniqueIdentifier) 用于在 Unity3D 中获取Android 和 iOS 平台上唯一机器码的插件
+ - [BlankOperationClipboard](https://github.com/AlianBlank/BlankOperationClipboard) Unity 读写Android 和 iOS 的粘贴板插件
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
+- [Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) 仙剑奇侠传三（以及外传）C#/Unity实现
 - https://github.com/skyteks
 - https://github.com/judah4/MMO-Dragon-Game-Framwork
 - https://github.com/TastSong/CrazyCar 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis；后台为Vue + Element；游戏端采用QFramework框架，支持KCP和WebSocket网络(商用级)
 - [DarkGod](https://github.com/mGitup/DarkGod) 基于 Unity 的 3D ARPG 移动端网游
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！
+- [NineChronicles](https://github.com/planetarium/NineChronicles) Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
 ## Programmer-Common-Tool
 - https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
@@ -4348,6 +4372,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/itgoyo/TelegramGroup
 ## 友情链接 
 * [Article_About_GameDevelopment](https://github.com/tkonexhh/Article_About_GameDevelopment)
+* [AwesomeUnityTutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
 * [马三小伙儿的Unity杂货铺](https://github.com/XINCGer/Unity3DTraining)  
 * [Game-Development-Notes](https://github.com/xiaxia9/Game-Development-Notes)

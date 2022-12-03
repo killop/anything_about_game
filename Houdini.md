@@ -16,3 +16,4 @@
 - https://github.com/toadstorm/MOPS/
 - https://github.com/jtomori/vex_tutorial
 - https://github.com/nrosenstein-old/houdini-library
+- https://github.com/Bonjour-Interactive-Lab/Unity3D-VATUtils
