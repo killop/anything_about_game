@@ -44,6 +44,7 @@ Table of Contents
       - [Sculpture](#sculpture)
       - [Hair](#hair)
       - [Human/Stage](#humanstage)
+      - [Unity 官方教程及开发者经验分享：](#unity-官方教程及开发者经验分享)
     - [Effect](#effect)
       - [Course](#course)
     - [Material](#material)
@@ -147,6 +148,7 @@ Table of Contents
     - [Physics Framework](#physics-framework)
     - [Physics BOOKS](#physics-books)
     - [Fluid](#fluid)
+    - [Water](#water)
     - [Cloth](#cloth)
     - [Position-Based-Dynamics](#position-based-dynamics)
     - [Softbody](#softbody)
@@ -195,7 +197,6 @@ Table of Contents
       - [Interior](#interior)
       - [Decal](#decal)
       - [Face](#face)
-      - [Water](#water)
       - [Crystal](#crystal)
       - [Ice](#ice)
       - [Rimlight](#rimlight)
@@ -274,7 +275,6 @@ Table of Contents
 - [Unity](#unity)
     - [Awesome-Unity](#awesome-unity)
     - [AssetBundle](#assetbundle)
-    - [AutoUpdate](#autoupdate)
     - [Framework](#framework)
     - [Dependency Injection](#dependency-injection)
     - [Skill](#skill)
@@ -290,6 +290,7 @@ Table of Contents
     - [Timeline](#timeline)
     - [TextureStreaming](#texturestreaming)
     - [Util](#util)
+    - [Windows-Show](#windows-show)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Drawing](#drawing)
     - [Effect](#effect-1)
@@ -988,6 +989,14 @@ Table of Contents
  - https://github.com/runwayml/RunwayML-for-Unity
  - https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer
  - https://github.com/DanielSWolf/rhubarb-lip-sync
+ - https://github.com/bilibili/UnityBVA
+ - https://github.com/Danial-Kord/DigiHuman
+##### Unity 官方教程及开发者经验分享：
+1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
+2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
+3. Unity数字人制作不求人 - 卡通风格 https://learn.u3d.cn/tutorial/unity-making-digital-human-cartoon-style  
+4. 一个角色最终呈现在引擎里，美术制作上的思考以及注意事项 https://developer.unity.cn/projects/5ff27be7edbc2a60edd32ead 
+5. Unity HDRP数字偶像登场 Project SU-A https://developer.unity.cn/projects/5ea4e43cedbc2a0021a295db
 
 #### Effect
 - [Effekseer](https://github.com/effekseer/Effekseer)
@@ -1158,8 +1167,7 @@ Table of Contents
 #### Animation-DCC-Tool
 - [Cascadeur](https://cascadeur.com/)
 - [spine](http://zh.esotericsoftware.com/)
-- [spine-optimize
-](https://github.com/506638093/spine-optimize)
+- [spine-optimize](https://github.com/506638093/spine-optimize)
 - [live3d](http://www.zingfront.cn/live3d/)
 - [live2d](https://www.live2d.com/)
 - [dragonbones](http://dragonbones.effecthub.com/) 
@@ -1293,11 +1301,13 @@ Table of Contents
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 - [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
+- [ProceduralAnimation](https://github.com/BattleDawnNZ/ProceduralAnimation) Procedural Animation Scripts For Unity
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 
 
 ## Console/Command/Shell/Debugger
+- [Unity-DeveloperConsole](https://github.com/DavidF-Dev/Unity-DeveloperConsole)
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
 - [BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole)
 - [Reactor-Developer-Console](https://github.com/mustafayaya/Reactor-Developer-Console) 
@@ -1535,6 +1545,7 @@ Table of Contents
 - [WoWDBDefs](https://github.com/wowdev/WoWDBDefs)
 - [flaclibsharp](https://github.com/AaronLenoir/flaclibsharp)
 ## Version-Control
+- https://github.com/meaf75/GitNity
 - https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt
 - https://semver.org/lang/zh-CN/   -- 版本号规范
 - https://github.com/Artees/Unity-SemVer
@@ -1577,6 +1588,8 @@ Table of Contents
 - https://github.com/iwiniwin/unity-remote-file-explorer
 - https://github.com/OctopusDeploy/Octodiff
 - https://github.com/canton7/SyncTrayzor
+- https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
+- https://github.com/Reloaded-Project/Reloaded-II Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
@@ -1848,8 +1861,9 @@ Table of Contents
 * matter - C++17/20 ECS implementation [[github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)]
 
 #### C#
-- https://github.com/neon-age/Ecstasy
-- https://github.com/ludaludaed/KECS/
+- [Entitas](https://github.com/sschmid/Entitas) Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+- [Ecstasy](https://github.com/neon-age/Ecstasy) Simplest powerful ECS for Unity. Flexible and fast. Works w/ Burst
+- [KECS](https://github.com/ludaludaed/KECS/) KECS is a fast and easy C# Entity Component System framework for writing your own games.
 - https://github.com/PixeyeHQ/actors - ecs框架，代码不错
 * DefaultEcs - ECS for syntax and usage simplicity with maximum performance [[github](https://github.com/Doraku/DefaultEcs) ![Doraku/DefaultEcs](https://img.shields.io/github/stars/Doraku/DefaultEcs.svg?style=flat&label=Star&maxAge=86400)]
 * Svelto.ECS - Lightweight data oriented entity component system framework [[github](https://github.com/sebas77/Svelto.ECS) ![sebas77/Svelto.ECS](https://img.shields.io/github/stars/sebas77/Svelto.ECS.svg?style=flat&label=Star&maxAge=86400)] and here is a [example](https://github.com/sebas77/Svelto.MiniExamples)
@@ -2394,6 +2408,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Kimbatt/unity-deterministic-physics
 - https://github.com/devlinzhou/deterministic_physics
 - https://github.com/PetteriAimonen/libfixmath
+- https://github.com/BXRan/PEMath
+- https://github.com/chenwansal/FPPhysics2D
+- https://github.com/CodingCodingK/CodingKPhysx
 - https://github.com/Fractural/GodotFixedVolatilePhysics
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
@@ -2450,6 +2467,22 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Trinity](https://github.com/portsmouth/Trinity) Programmable 3D GPU (WebGL) fluid simulator
 - [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
 - [Fluid-Simulator](https://github.com/Al-Asl/Fluid-Simulator) Case study on fluid dynamics, Volumetric GPU-Based fluid simulator
+- [Liquid-Simulation](https://github.com/ivuecode/Liquid-Simulation)
+#### Water
+- [FluxInUnity](https://github.com/DaiZiLing/FluxInUnity)
+- [boat-attack-water](https://github.com/Unity-Technologies/boat-attack-water) Package repo containing the water system created for the URP Boat Attack demo project
+- [unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water)
+- [Unity中实现瓶中液体晃动的效果(从建模开始)](https://zhuanlan.zhihu.com/p/159913409)
+- [AQUAS Water](https://assetstore.unity.com/packages/tools/particles-effects/aquas-water-river-set-52103) UnityPlugin
+- [Stylized Water For URP](https://assetstore.unity.com/packages/vfx/shaders/stylized-water-for-urp-162025)  UnityPlugin
+- [Dynamic Water Physics 2 ](https://assetstore.unity.com/packages/tools/physics/dynamic-water-physics-2-147990) UnityPlugin
+- https://github.com/Scrawk/Brunetons-Ocean
+- https://github.com/Verasl/BoatAttack water
+- https://github.com/eliasts/Ocean_Community_Next_Gen
+- [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
+- https://github.com/bearworks/URPOcean
+- https://github.com/wave-harmonic/water-resources
+- [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-) [Blog](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) 
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
@@ -3000,6 +3033,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### SphericalHarmonicLighting/CubeMap/Probes
 - [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 - https://github.com/wlgys8/SHLearn 
+- https://github.com/pema99/BakeSH
 - [详解Cubemap、IBL与球谐光照](https://zhuanlan.zhihu.com/p/463309766)
 - [AmbientProbesUnity](https://github.com/staggartcreations/AmbientProbesUnity) Ambient lighting probe sampling
 - [light_probe_placement](https://github.com/cgaueb/light_probe_placement) Unity component for the implementation of the Eurographics 2021 Poster: Illumination-driven Light Probe Placement.
@@ -3007,6 +3041,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [magic-light-probes](https://assetstore.unity.com/packages/tools/utilities/magic-light-probes-157812) unity-plugin
 - [LightProbeBinder](https://github.com/tsujihaneta/LightProbeBinder)An editor extension that restores light probes when the specified game object is loaded; Multi-Scene and Timeline support are also available.
 - [OBBReflectionProbeSupport](https://github.com/noisecrime/Unity-OBBReflectionProbeSupport)
+- [InfLightProbe](https://github.com/limztudio/InfLightProbe) Automatic Light probe generator for Unity engine. Based on "Light Grid" of "Precomputed Lighting in CoD IW 2017". and "Light probe interpolation using tetrahedral tessellations" by "Robert Cupisz".
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -3088,20 +3123,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [driven-decals](https://github.com/Anatta336/driven-decals)
  ##### Face
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
-##### Water
-- [boat-attack-water](https://github.com/Unity-Technologies/boat-attack-water) Package repo containing the water system created for the URP Boat Attack demo project
-- [unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water)
-- [Unity中实现瓶中液体晃动的效果(从建模开始)](https://zhuanlan.zhihu.com/p/159913409)
-- [AQUAS Water](https://assetstore.unity.com/packages/tools/particles-effects/aquas-water-river-set-52103) UnityPlugin
-- [Stylized Water For URP](https://assetstore.unity.com/packages/vfx/shaders/stylized-water-for-urp-162025)  UnityPlugin
-- [Dynamic Water Physics 2 ](https://assetstore.unity.com/packages/tools/physics/dynamic-water-physics-2-147990) UnityPlugin
-- https://github.com/Scrawk/Brunetons-Ocean
-- https://github.com/Verasl/BoatAttack water
-- https://github.com/eliasts/Ocean_Community_Next_Gen
-- [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
-- https://github.com/bearworks/URPOcean
-- https://github.com/wave-harmonic/water-resources
-- [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-) [Blog](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac)
+
 ##### Crystal
 - https://github.com/CJT-Jackton/URP-Anime-Crystal-Shader
 ##### Ice
@@ -3291,6 +3313,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps 
 * https://github.com/liuwenjiexx/Unity.BakedLightmap
 * https://github.com/laurenth-personal/LODLightmapScripts
+* https://github.com/nukadelic/Unity-Lightmap-Prefab-Baker
+* https://github.com/lujian101/LightmapRepacker_FixedDemo
+* https://github.com/gordonbest/UnityCullMaskBake
 ##### MLGI
 * [DeepIllumination](https://github.com/CreativeCodingLab/DeepIllumination) Code and examples from our paper "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Networks," by Manu Mathew Thomas and Angus Forbes
 
@@ -3556,6 +3581,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
 - https://github.com/wangjia184/HashedWheelTimer HashedWheelTimer implemented in C# and .Net Standard inspired by io.netty.util.HashedWheelTimer
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
+- https://github.com/ZiggyCreatures/FusionCache 高性能cache 
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
 - [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
@@ -3818,8 +3844,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [AssetBundle-ContentHasher](https://github.com/AndyMUnity/AssetBundle-ContentHasher) This tool can be integrated into a build pipeline in order to generate more reliable hashes for AssetBundles using Unity's built in pipeline.
 - [AddressablesServices](https://github.com/dre0dru/AddressablesServices) A set of classes to convert Unity Addressables callbacks/coroutine workflow to async/await with UniTask.
 - [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
-#### AutoUpdate
-- https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
+- [AssetBundles-Browser](https://github.com/Rootjhon/AssetBundles-Browser)
+
 #### Framework
 - https://qinzhuo.coding.net/public/
 - https://github.com/cocowolf/loxodon-framework
@@ -3928,6 +3954,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/StephenCleary/AsyncEx
 - https://github.com/mehdihadeli/awesome-dotnet-async
 - https://github.com/microsoft/coyote
+- https://github.com/edubart/minicoro
 #### Node-Editor
 - [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
@@ -3956,6 +3983,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
+- https://github.com/Wilson403/Html2UnityRich
 - https://github.com/garsonlab/GText
 - https://github.com/redbluegames/unity-text-typer  
 - [easy-multiple-healthbar](https://assetstore.unity.com/packages/tools/gui/easy-multiple-healthbar-193986)
@@ -3963,6 +3991,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/LudiKha/Graphene
 - https://github.com/ReactUnity/core
 - https://github.com/chexiongsheng/XUUI
+- [Unity-RuntimeEditorWindow](https://github.com/994935108/Unity-RuntimeEditorWindow)
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/chasinghope/CurveLayoutGroup
@@ -4002,6 +4031,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/corle-bell/UnityTimeLineEvent
 - https://github.com/k-okawa/WaypointSystemForTimeline
 - https://github.com/ddionisio/MateAnimator
+- https://github.com/snaphat/UnityTimelineTools
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
@@ -4026,11 +4056,17 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ashblue/oyster-package-generator
 - https://github.com/Deadcows/MyBox
 - https://github.com/handzlikchris/Unity.TransformSetterInterceptor
+- https://github.com/handzlikchris/Unity.TransformChangesDebugger.API
 - https://github.com/SolarianZ/UnityPlayableGraphMonitorTool
 - https://github.com/KybernetikGames/LinkAndSync
 - https://github.com/Rhinox-Training/rhinox-lightspeed
 - https://github.com/natsuneko-laboratory/refined-animation-property
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
+
+#### Windows-Show
+- https://github.com/Blinue/Magpie 使游戏窗口全屏显示
+- https://github.com/sator-imaging/AppWindowUtility
+- https://github.com/XJINE/Unity_TransparentWindowManager
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
 -  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
@@ -4106,6 +4142,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/KimHeeRyeong/SphereNavigation
 - https://github.com/idbrii/unity-navgen
 - https://github.com/h8man/NavMeshPlus
+- https://github.com/jzyong/NavMeshDemo
 - https://github.com/llamacademy/ai-series-part-14.5/
 - https://github.com/brunomikoski/Simple-optimized-A-Pathfinder
 - https://github.com/dbrizov/Unity-PathFindingAlgorithms
@@ -4123,6 +4160,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Nebukam/com.nebukam.orca
 - [local-avoidance](https://assetstore.unity.com/packages/tools/ai/local-avoidance-214347) unity-plugin
 - [SimpleAI](https://github.com/OneManMonkeySquad/SimpleAI)
+- [WZCQ](https://github.com/FengQuanLi/WZCQ) 用基于策略梯度得强化学习方法训练AI玩王者荣耀
 
 #### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
@@ -4132,6 +4170,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [uSpringBone](https://github.com/EsProgram/uSpringBone)
  - [Unity-DynamicBone-JobSystem-Opmized](https://github.com/dreamfairy/Unity-DynamicBone-JobSystem-Opmized)
  - [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics)
+ - [UnityHighPerformanceDynamicBone](https://github.com/ldh/UnityHighPerformanceDynamicBone)
  
  
  #### Create Model
@@ -4205,6 +4244,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Maintainer](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
 - [find reference2](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
 - [Unity-Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter)
+- [asset-relations-viewer](https://github.com/innogames/asset-relations-viewer)
 - [shader control](https://assetstore.unity.com/packages/vfx/shaders/shader-control-74817) 
 - [Asset Hunter PRO](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)
 - [A+ Assets Explorer](https://assetstore.unity.com/packages/tools/utilities/a-assets-explorer-57335)
@@ -4260,6 +4300,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
+- https://github.com/AkiKurisu/Time-Control
 
 #### Tips
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
