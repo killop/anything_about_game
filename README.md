@@ -312,7 +312,7 @@ Table of Contents
         - [Article](#article-6)
     - [Message Bus](#message-bus)
     - [Time control](#time-control)
-    - [Tips](#tips)
+    - [Raycast\&\&Sensor](#raycastsensor)
     - [CameraController](#cameracontroller)
     - [GamePlay](#gameplay)
 - [知识库软件/笔记软件](#知识库软件笔记软件)
@@ -1232,6 +1232,7 @@ Table of Contents
 - [binh.graphics](http://binh.graphics/)
 - [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
 #### MotionMatching
+- https://github.com/nashnie/MotionMatching
 - https://github.com/JLPM22/MotionMatching
 - https://github.com/sssnidebaba/motionmatch
 - https://github.com/dreaw131313/MotionMatchingByDreaw
@@ -1545,6 +1546,7 @@ Table of Contents
 - [WoWDBDefs](https://github.com/wowdev/WoWDBDefs)
 - [flaclibsharp](https://github.com/AaronLenoir/flaclibsharp)
 ## Version-Control
+- https://github.com/unixorn/git-extra-commands
 - https://github.com/meaf75/GitNity
 - https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt
 - https://semver.org/lang/zh-CN/   -- 版本号规范
@@ -2161,6 +2163,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### 3D Engines and Frameworks
 * [keyshot](https://www.keyshot.com/)
 * [marmoset](https://marmoset.co/)
+* [RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) Render Pipeline Shaders SDK
 * [cycles-renderer](https://www.cycles-renderer.org/) Cycles is a physically based production renderer developed by the Blender project.
 * [flowers](https://github.com/ray-cast/flowers) 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
 * [LuisaRender](https://github.com/LuisaGroup/LuisaRender)
@@ -2511,7 +2514,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [perfdog](https://perfdog.qq.com/) 移动全平台性能测试分析专家
 - [upr](https://upr.unity.com/) 一款Unity出的性能分析工具，基于UnityProfiler的基础上制作的UPR，UPR的数据来自与UnityProfiler，会比Profiler有更多细节信息
 - [loli_profiler](https://github.com/Tencent/loli_profiler) Memory instrumentation tool for android app&game developers.
-- [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Excpetion-Crash)
+- [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Exception-Crash)
 - [MonitorTool](https://github.com/dingxiaowei/MonitorTool) Unity性能监控软件
 - [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
@@ -3572,7 +3575,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 ## 高性能数据结构和算法
 - [Arithmetics](https://github.com/Lombiq/Arithmetics) Next-generation arithmetic implementations, improved floating point number types for .NET, written in C#. Includes the following number types:
-- [libcsp](https://github.com/shiyanhui/libcsp) A concurrency C library 10x faster than Golang.
+- [BreakInfinity](https://github.com/Razenpok/BreakInfinity.cs） Double replacement for numbers that go over 1e308
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/giacomelli/GeneticSharp 遗传算法
@@ -3954,7 +3957,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/StephenCleary/AsyncEx
 - https://github.com/mehdihadeli/awesome-dotnet-async
 - https://github.com/microsoft/coyote
-- https://github.com/edubart/minicoro
+- [minicoro](https://github.com/edubart/minicoro) Single header asymmetric stackful cross-platform coroutine library in pure C.
+- [libcsp](https://github.com/shiyanhui/libcsp) A concurrency C library 10x faster than Golang.
 #### Node-Editor
 - [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
@@ -4302,9 +4306,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
 - https://github.com/AkiKurisu/Time-Control
 
-#### Tips
+#### Raycast&&Sensor
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 - https://github.com/staggartcreations/Graphics-Raycast/
+- https://github.com/muveso/Unity-Detection-Sensor
 
 #### CameraController
 - https://github.com/XJINE/Unity_SceneCameraController 
