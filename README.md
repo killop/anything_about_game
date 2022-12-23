@@ -1418,6 +1418,8 @@ Table of Contents
 - [URP-HIZ](https://github.com/himma-bit/empty)
 - https://github.com/SoSoReally/RenderFeature_HizCull
 * [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
+* [Unity 程序化生成草地](https://zhuanlan.zhihu.com/p/592938734)
+* [风格化树——树叶分析与实现](https://zhuanlan.zhihu.com/p/593500186)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -2412,6 +2414,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/devlinzhou/deterministic_physics
 - https://github.com/PetteriAimonen/libfixmath
 - https://github.com/BXRan/PEMath
+- https://github.com/yingyugang/FixedPointPhysics
 - https://github.com/chenwansal/FPPhysics2D
 - https://github.com/CodingCodingK/CodingKPhysx
 - https://github.com/Fractural/GodotFixedVolatilePhysics
@@ -2486,6 +2489,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/bearworks/URPOcean
 - https://github.com/wave-harmonic/water-resources
 - [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-) [Blog](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) 
+- [UnityInteractableWater-Grass-Wind_URP](https://github.com/Zoroiscrying/UnityInteractableWater-Grass-Wind_URP)
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
@@ -2763,6 +2767,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [DXBC指令](http://xiaopengyou.fun/public/2021/01/16/DXBC%E6%8C%87%E4%BB%A4/#more)
 - [MFShaderRecover](https://github.com/Reguluz/MFShaderRecover) ■■Updating■■ A simple tool to recognize DXBC language then translate to unity shaderlab typed shader
 - [dxbc_reader](https://github.com/luxuia/dxbc_reader)
+- [RenderDoc截帧DXBC编译 一文详解](https://zhuanlan.zhihu.com/p/590676458)
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 - [ShaderPackager]( https://github.com/slipster216/ShaderPackager) 
@@ -2812,6 +2817,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UNITY-Arc-system-Works-Shader](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader) Shader created to emulate the design style of Arc System Works games such as Guilty Gear and Dragon Ball FighterZ. Created using Amplify Shader Editor.
 - [Next-Generation-Character-Rendering](https://github.com/HigashiSan/Next-Generation-Character-Rendering)
 - https://github.com/MochiesCode/Mochies-Unity-Shaders
+- [Unity_Shader_Library_Zoroiscrying](https://github.com/Zoroiscrying/Unity_Shader_Library_Zoroiscrying) This is a shader library used for unity shader coding, pointing to different shader effects found from various sources. Several library topics may become public in the future. This project is mainly for personal study and lack the knowledge of code management and formal name formatting.
 - https://github.com/Xibanya/ShaderTutorials
 - https://github.com/z3y/shaders
 - https://github.com/sam20191128/shader_URP
@@ -2952,6 +2958,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [学习PBR路程（四、Specular）](https://zhuanlan.zhihu.com/p/454439797)
 
 #### NPR
+- [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
 - [FernNPR](https://github.com/DeJhon-Huang/FernNPR) NPR相关实验，基于Unity。
 - [UnityURP-AnimeStyleCelShader](https://github.com/Jameslroll/UnityURP-AnimeStyleCelShader) A custom shader and post-processing effect for achieving anime-style characters or levels in Unity using the Universal Render Pipeline.
 - [NPR_ResearchFactory](https://github.com/hahahuahai/NPR_ResearchFactory) NPR相关实验，基于Unity。
@@ -3112,6 +3119,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/ipud2/Unity-Basic-Shader/tree/master/SimpleShaderGUI
 * [shader-graph-markdown](https://assetstore.unity.com/packages/tools/gui/shader-graph-markdown-194781)
 * [OpenGraphGUI](https://github.com/RobProductions/OpenGraphGUI)
+* [chroma-creative-shader-ui](https://assetstore.unity.com/packages/tools/utilities/chroma-creative-shader-ui-231313)
 ##### Interior
 - https://github.com/Gaxil/Unity-InteriorMapping
 - https://zhuanlan.zhihu.com/p/575453172
@@ -4098,6 +4106,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy 
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
+- https://github.com/Unity-Technologies/ECS-Network-Racing-Sample
 - https://github.com/Wind-Coming/MultiUnitSameScreen
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
@@ -4162,7 +4171,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Cr33zz/Nav
 - https://github.com/snape/RVO2-CS
 - https://github.com/Nebukam/com.nebukam.orca
-- [local-avoidance](https://assetstore.unity.com/packages/tools/ai/local-avoidance-214347) unity-plugin
+- [agents-navigation](https://assetstore.unity.com/packages/tools/ai/agents-navigation-239233) unity-plugin
 - [SimpleAI](https://github.com/OneManMonkeySquad/SimpleAI)
 - [WZCQ](https://github.com/FengQuanLi/WZCQ) 用基于策略梯度得强化学习方法训练AI玩王者荣耀
 
