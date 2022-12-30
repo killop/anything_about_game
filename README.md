@@ -859,10 +859,12 @@ Table of Contents
 - [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
 - [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
+- [最大的 AI 工具目录库](https://zhuanlan.zhihu.com/p/593615901)
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 - [元素法典——Novel AI 元素魔法全收录](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs) 
 - https://github.com/JPhilipp/AIConnectors 
 - https://github.com/3DFaceBody/awesome-3dbody-papers
+- https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
 *  [MagicaVoxel](https://ephtracy.github.io/)
@@ -1323,6 +1325,7 @@ Table of Contents
 - https://github.com/Tyrrrz/CliWrap 命令行
 - https://github.com/jsakamoto/XProcess 命令行
 - https://github.com/adamralph/simple-exec 命令行
+- https://github.com/wingcd/UnityToolExtender
 - https://github.com/adamralph/bullseye 
 - https://commanddotnet.bilal-fazlani.com/
 - https://github.com/gwaredd/unium
@@ -1669,6 +1672,7 @@ Table of Contents
 - [NFShmServer](https://gitee.com/xiaoyi445_admin/NFShmServer) NFShmServer 是一个使用C++开发的轻量级,敏捷型,弹性的,分布式的共享内存的插件开发框架, 让你更快更简单的开发服务端应用. 部分思路来自UE4和Ogre.(当前主要用在游戏领域) 我写的开源架构，前几年开源过，后来自己做项目，又没开源了，现在没搞项目了，加上修改了2年了，打算重新开源
 - [hive](https://github.com/hero1s/hive) A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script
 - [wind](https://github.com/ferris1/wind) Wind是一款面向云的高性能、高效率以及高扩展性的分布式游戏服务器引擎框架
+- [seastar](https://github.com/scylladb/seastar) High performance server-side application framework
 #### Article
 - https://zhuanlan.zhihu.com/p/565731139
 - https://zhuanlan.zhihu.com/p/565875153
@@ -1768,7 +1772,6 @@ Table of Contents
 - https://github.com/Mun1z/KingNetwork
 - https://github.com/moetsi/Unity-DOTS-Multiplayer-XR-Sample
 - https://github.com/luoyikun/UnityMobaDemo
-- https://github.com/celojevic/NetworkParticleSystem
 - https://github.com/LambdaTheDev/NetworkAudioSync
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
@@ -1785,6 +1788,7 @@ Table of Contents
 - https://github.com/chronoxor/CppSerialization benckmark
 - https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
 - https://capnproto.org/ capnproto
+- https://github.com/c80k/capnproto-dotnetcore
 - https://github.com/google/flatbuffers flatBuffer
 - https://github.com/jamescourtney/FlatSharp
 - https://github.com/Unity-Technologies/FlatSharp
@@ -1807,6 +1811,7 @@ Table of Contents
 - https://github.com/KrzysztofCwalina/POLE
 - https://github.com/JasonXuDeveloper/Nino
 - https://github.com/chronoxor/FastBinaryEncoding
+
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
@@ -1914,6 +1919,7 @@ Table of Contents
 - https://www.betrfs.org/
 - https://github.com/MathewHDYT/Unity-Data-Manager
 - https://github.com/coryleach/UnitySaveLoad
+- https://github.com/FronkonGames/GameWork-Local-Data
 ## Hash
 - [Blake3](https://github.com/xoofx/Blake3.NET) Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
 - [HashDepot](https://github.com/ssg/HashDepot)
@@ -2041,6 +2047,12 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [kcp-genshin](https://github.com/labalityowo/kcp-genshin)
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
 * [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
+* [FFO-FishNet-Floating-Origin](https://github.com/hudmarc/FFO-FishNet-Floating-Origin) Floating Origin for FishNet. Tested with FN versions 2.5.4, 2.5.10 and 2.6.3. Should work with everything in between as well.
+* [TurtlePass](https://github.com/DanielSnd/TurtlePass) Turtle Pass is an addon for Fishnet that allows you to send large byte arrays over several frames so it doesn't overwhelm more limiting transports like FishySteamworks and FishyUtp
+* [NetworkTilemap](https://github.com/celojevic/NetworkTilemap) Networked tilemap synchronizer for FishNet.
+* [FishNet-ThirdPersonPrediction](https://github.com/RidefortGames/FishNet-ThirdPersonPrediction)
+* [RVPFishNet-Multiplayer-Car-Controller](https://github.com/Roceh/RVPFishNet-Multiplayer-Car-Controller)
+* [NetworkParticleSystem](- https://github.com/celojevic/NetworkParticleSystem)
 * [zapnet](https://github.com/deadgg/zapnet)  Zapnet is a Unity framework for game networking built with Lidgren
 * [Imp.NET](https://github.com/DouglasDwyer/Imp.NET) Imp.NET is a fast, high-level, object-oriented C# networking library that supports the invocation of remote methods through proxy interface objects.
 * [RRQMSocket](https://github.com/RRQM/RRQMSocket) RRQMSocket是一个整合性网络通信框架，特点是支持高并发、事件驱动、易用性强、二次开发难度低等。其中主要内容包括:TCP、UDP服务通信框架、大文件传输、RPC、WebSocket、WebApi、XmlRpc、JsonRpc等内容
@@ -2068,6 +2080,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://actix.rs/
 - https://github.com/codeskyblue/gohttpserver
 - https://github.com/filebrowser/filebrowser
+- https://github.com/SrejonKhan/AnotherFileBrowser
 - [UnityFileDownloader](https://github.com/jpgordon00/UnityFileDownloader) Download multiple files at a time in Unity.
 - [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
 - [Downloader](https://github.com/bezzad/Downloader) Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
@@ -2700,6 +2713,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/kosua20/herebedragons
 - https://github.com/Litmin/SoftRenderer-Unity
 #### 3rd-Binding
+- [EmberGL](https://github.com/EmberGL-org/EmberGL) EmberGL (Ember Graphics Library) is a low-level open source graphics library
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
 - [sharpdx](http://sharpdx.org/) SharpDX is an open-source managed .NET wrapper of the DirectX API.
 - [SharpVulkan](https://github.com/jwollen/SharpVulkan) C# bindings for the Vulkan graphics API, used by the Xenko game engine.
@@ -3295,7 +3309,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
 * [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
 * [SSRT](https://github.com/cdrinmatane/SSRT) Real-time indirect diffuse illuminaton using screen-space information for Unity.
-* [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion) Full source-code for Amplify Occlusion plugin for Unity 
+* [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion) Full source-code for Amplify Occlusion plugin for Unity  [AmplifyOcclusion-URP](https://github.com/neon-age/AmplifyOcclusion-URP)
 * [Unity-Ground-Truth-Ambient-Occlusion](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion) A physically based screen space ambient occulsion post processing effect  
 * [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambien occlusion in Unity at runtime
 * [ConeSphereOcclusionLUT](https://github.com/knarkowicz/ConeSphereOcclusionLUT) ConeSphereOcclusionLUT generates a cone sphere occlusion LUT to be used with TLoU style **capsule AO shadows**. For details "Lighting Technology Of "The Last Of Us".
@@ -3888,6 +3902,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/hadashiA/VContainer
 - https://github.com/ipjohnson/Grace
 - https://github.com/dadhi/DryIoc
+- https://github.com/Mathijs-Bakker/Extenject
 
  
 #### Skill
@@ -3952,6 +3967,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [解读MONO内存管理：BOEHM GC原理及总结](https://zhuanlan.zhihu.com/p/41398507)
 - [.NET内存性能分析指南](https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html)
 #### Asyn-Await
+- https://www.albahari.com/threading
 - https://www.zhihu.com/question/554133167/answer/2690808608
 - https://github.com/timcassell/ProtoPromise
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
@@ -3995,6 +4011,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
+- https://github.com/gwaredd/UnityMarkdownViewer
 - https://github.com/Wilson403/Html2UnityRich
 - https://github.com/garsonlab/GText
 - https://github.com/redbluegames/unity-text-typer  
