@@ -106,6 +106,7 @@ Table of Contents
     - [Common-Server](#common-server)
 - [Serialization](#serialization)
     - [Json](#json)
+    - [Yaml](#yaml)
 - [Huge-World](#huge-world)
 - [DataBase](#database)
     - [c#](#c)
@@ -1527,6 +1528,7 @@ Table of Contents
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact
 * [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
 * [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
+* [O-Z-Unity-Protector](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)
  
 #### Archive-Format
 - [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) Tool for extract PAK archives from games based on RE Engine
@@ -1773,6 +1775,7 @@ Table of Contents
 - https://github.com/moetsi/Unity-DOTS-Multiplayer-XR-Sample
 - https://github.com/luoyikun/UnityMobaDemo
 - https://github.com/LambdaTheDev/NetworkAudioSync
+- https://github.com/dz0039/NetworkPhysics
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -1819,6 +1822,8 @@ Table of Contents
 - https://github.com/smopu/DragonJson c#
 - https://jsonvisio.com/editor
 - https://jsonhero.io/
+#### Yaml
+- https://github.com/hadashiA/VYaml
 
 ## Huge-World
 - [ScatterStream](https://github.com/ashleyseric/ScatterStream) A runtime object scattering/vegetation authoring, streaming and rendering tool for Unity optimised for instanced rendering a very large number of placed items.
@@ -2033,7 +2038,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Telepathy](https://github.com/vis2k/Telepathy) Simple, message based, MMO Scale TCP networking in C#. And no magic.
 * [Megumin](https://github.com/KumoKyaku/Megumin.Net) 应用程序和游戏网络层解决方案 
 * [Mirage](https://github.com/MirageNet/Mirage) Easy to use Network library for Unity 3d 
-* [NetworkPositionSync](https://github.com/James-Frowen/NetworkPositionSync) Network Transform using Snapshot Interpolation and other techniques to best sync position and rotation over the network.
 * [HouraiNetworking](https://github.com/HouraiTeahouse/HouraiNetworking) Transport level library for peer-to-peer networking with multiple backends for the Unity. 
 * [Unity-Netcode.IO](https://github.com/GlaireDaggers/Unity-Netcode.IO) A lightweight plugin to allow Unity games to use Netcode.IO for secure UDP socket communication.
 * [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) Reliable UDP networking solution for building multiplayer games. (In public testing phase) 
@@ -2053,6 +2057,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [FishNet-ThirdPersonPrediction](https://github.com/RidefortGames/FishNet-ThirdPersonPrediction)
 * [RVPFishNet-Multiplayer-Car-Controller](https://github.com/Roceh/RVPFishNet-Multiplayer-Car-Controller)
 * [NetworkParticleSystem](- https://github.com/celojevic/NetworkParticleSystem)
+* [NetworkPositionSync](https://github.com/James-Frowen/NetworkPositionSync) Network Transform using Snapshot Interpolation and other techniques to best sync position and rotation over the network.
+* [Snapshooter](https://github.com/agustin-golmar/Snapshooter) An implementation of the snapshot interpolation algorithm on Unity 3D, with client-server architecture and possibly, prediction.
 * [zapnet](https://github.com/deadgg/zapnet)  Zapnet is a Unity framework for game networking built with Lidgren
 * [Imp.NET](https://github.com/DouglasDwyer/Imp.NET) Imp.NET is a fast, high-level, object-oriented C# networking library that supports the invocation of remote methods through proxy interface objects.
 * [RRQMSocket](https://github.com/RRQM/RRQMSocket) RRQMSocket是一个整合性网络通信框架，特点是支持高并发、事件驱动、易用性强、二次开发难度低等。其中主要内容包括:TCP、UDP服务通信框架、大文件传输、RPC、WebSocket、WebApi、XmlRpc、JsonRpc等内容
@@ -2061,6 +2067,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Cube](https://github.com/MKSQD/Cube) Scalable high level network library for Unity
 * [NewLife.Net](https://github.com/NewLifeX/NewLife.Net) 单机吞吐2266万tps的网络通信框架
 * [TouchSocket](https://github.com/RRQM/TouchSocket)  TouchSocket是 C# 的一个整合性的、超轻量级的网络通信框架。包含了 tcp、udp、ssl、http、websocket、rpc、jsonrpc、webapi、xmlrpc等一系列的通信模块。一键式解决 TCP 黏分包问题，udp大数据包分片组合问题等。使用协议模板，可快速实现「固定包头」、「固定长度」、「区间字符」等一系列的数据报文解析。
+* [Netcode.IO.NET](https://github.com/GlaireDaggers/Netcode.IO.NET) A pure managed C# implementation of the Netcode.IO spec
+* [NetCoreGameServer](https://github.com/sam2/NetCoreGameServer) a udp game server for .net core
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -2427,6 +2435,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/devlinzhou/deterministic_physics
 - https://github.com/PetteriAimonen/libfixmath
 - https://github.com/BXRan/PEMath
+- https://github.com/GameArki/FPPhysics2D
 - https://github.com/yingyugang/FixedPointPhysics
 - https://github.com/chenwansal/FPPhysics2D
 - https://github.com/CodingCodingK/CodingKPhysx
@@ -2526,6 +2535,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 
 ## Game-BenchMark/Metric/Tool
 #### Common
+- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)
 - [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
 - [Remotery](https://github.com/Celtoys/Remotery)
 - [perfdog](https://perfdog.qq.com/) 移动全平台性能测试分析专家
@@ -2836,6 +2846,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/z3y/shaders
 - https://github.com/sam20191128/shader_URP
 - https://github.com/orels1/orels-Unity-Shaders filament unity shader
+- https://github.com/momoma-null/GeneLit GeneLit is an alternative to standard shader for Unity built-in pipeline.
 - https://github.com/poiyomi/PoiyomiToonShader A feature rich toon shader for unity and VR Chat
 - https://github.com/AoiKamishiro/PoiyomiToonShader
 - https://github.com/Alligrater/Shader-Practice
@@ -3370,6 +3381,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [voxelized-shadows-improved](https://github.com/loinesg/voxelized-shadows-improved) Construction and sampling of precomputed shadows in a compressed voxel octree
 * [DeepShadowMap](https://github.com/ecidevilin/DeepShadowMap) Real-Time Deep Shadow Maps for Unity3D 
 * [CachedShadowMaps](https://github.com/aivclab/CachedShadowMaps) Cached Shadow Map Solution for Unity
+* [Unity-Capsule-Shadows](https://github.com/frostbone25/Unity-Capsule-Shadows) A work in progress solution for capsule shadows in Unity.
 #### GPGPU
 - https://github.com/arrayfire/arrayfire
 - [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp)
@@ -3419,6 +3431,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity物理引擎实战-基于SPH方法的简单水体模拟](https://zhuanlan.zhihu.com/p/456696305)
 - https://github.com/Gornhoth/Unity-Smoothed-Particle-Hydrodynamics
 - https://github.com/aceyan/Unity3D_PBR_Path_Tracer
+- https://github.com/b0nes164/SimpleComputeShaderHashTable
+
 #### GPU Driven
 - [Realtime-Compute-Shader-Unity-PathTracer](https://github.com/killop/Realtime-Compute-Shader-Unity-PathTracer) A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
 - [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
@@ -3558,7 +3572,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://doocs.github.io/#/README_CN
 - https://github.com/IceLanguage/LinHowe_GameAlgorithm
 - https://github.com/afatcoder/LeetcodeTop
-- https://www.scaler.com/topics/data-structures/	
+- https://www.scaler.com/topics/data-structures/
+- https://github.com/krahets/hello-algo	
 	
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
@@ -4270,6 +4285,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
 * [UnityResourceStaticAnalyzeTool](https://github.com/AMikeW/UnityResourceStaticAnalyzeTool) 分析Unity资源，如贴图、精灵图、旧版图集, 新版图集SpriteAtlas，支持AB包资源冗余
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
+* [UnityAddressablesBuildLayoutExplorer](https://github.com/pschraut/UnityAddressablesBuildLayoutExplorer)
 - [UnityComponent](https://github.com/GameBuildingBlocks/UnityComponent)
 - [Maintainer](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
 - [find reference2](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
@@ -4376,6 +4392,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [Unity-iOS-Android-Download](https://github.com/LBCross/Unity-iOS-Android-Download)
  - [Unity-NativePlugins](https://github.com/AlexMerzlikin/Unity-NativePlugins)
  - [Android-Auxiliary](https://github.com/JYX-MOD/Android-Auxiliary) Unity开发过程中部分安卓操作会用到的函数
+ - [APKToolGUI](https://github.com/AndnixSH/APKToolGUI)
  - [AppIconChangerUnity](https://github.com/kyubuns/AppIconChangerUnity)
  - [BlankDeviceUniqueIdentifier](https://github.com/AlianBlank/BlankDeviceUniqueIdentifier) 用于在 Unity3D 中获取Android 和 iOS 平台上唯一机器码的插件
  - [BlankOperationClipboard](https://github.com/AlianBlank/BlankOperationClipboard) Unity 读写Android 和 iOS 的粘贴板插件
