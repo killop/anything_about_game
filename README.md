@@ -3626,6 +3626,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - https://surparallel.org unity 多线程优化工具
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
+- https://github.com/HalfLobsterMan/TimingWheel c# 时间轮优化
 - https://github.com/wangjia184/HashedWheelTimer HashedWheelTimer implemented in C# and .Net Standard inspired by io.netty.util.HashedWheelTimer
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
 - https://github.com/ZiggyCreatures/FusionCache 高性能cache 
