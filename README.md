@@ -1552,6 +1552,7 @@ Table of Contents
 - [libsbml](https://github.com/sbmlteam/libsbml)
 - [WoWDBDefs](https://github.com/wowdev/WoWDBDefs)
 - [flaclibsharp](https://github.com/AaronLenoir/flaclibsharp)
+- [CathodeLib](https://github.com/OpenCAGE/CathodeLib) Functionality to parse and write various formats from the Cathode engine, used for modding Alien: Isolation.
 ## Version-Control
 - https://github.com/unixorn/git-extra-commands
 - https://github.com/meaf75/GitNity
@@ -2068,7 +2069,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [NewLife.Net](https://github.com/NewLifeX/NewLife.Net) 单机吞吐2266万tps的网络通信框架
 * [TouchSocket](https://github.com/RRQM/TouchSocket)  TouchSocket是 C# 的一个整合性的、超轻量级的网络通信框架。包含了 tcp、udp、ssl、http、websocket、rpc、jsonrpc、webapi、xmlrpc等一系列的通信模块。一键式解决 TCP 黏分包问题，udp大数据包分片组合问题等。使用协议模板，可快速实现「固定包头」、「固定长度」、「区间字符」等一系列的数据报文解析。
 * [Netcode.IO.NET](https://github.com/GlaireDaggers/Netcode.IO.NET) A pure managed C# implementation of the Netcode.IO spec
-* [NetCoreGameServer](https://github.com/sam2/NetCoreGameServer) a udp game server for .net core
+
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -2895,6 +2896,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Anisotropy-Shader](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP)
 - https://github.com/eangulee/UnityShader
 - https://github.com/soupday/cc_unity_tools_URP
+- https://github.com/AnCG7/URPShaderCodeSample
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
