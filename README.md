@@ -1225,6 +1225,7 @@ Table of Contents
 * [unity-tweening-system](https://github.com/zigurous/unity-tweening-system)
 * [unity-animation](https://github.com/KleinerHacker/unity-animation/) Extended Animation Framework for Unity based on Coroutines
 * [PlasticTween](https://github.com/PlasticApps/PlasticTween) Tween Library for Unity3D(ECS+JOBS)
+* [unity-tweens](https://github.com/jeffreylanters/unity-tweens)
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1310,7 +1311,8 @@ Table of Contents
 - [ProceduralAnimation](https://github.com/BattleDawnNZ/ProceduralAnimation) Procedural Animation Scripts For Unity
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
-
+- [unity-flash-tools](https://github.com/BlackMATov/unity-flash-tools) Convert your flash animation for Unity easy!
+ 
 
 ## Console/Command/Shell/Debugger
 - [Unity-DeveloperConsole](https://github.com/DavidF-Dev/Unity-DeveloperConsole)
@@ -1774,6 +1776,7 @@ Table of Contents
 - https://github.com/Yinmany/NetCode-FPS
 - https://github.com/CodingCodingK/UnityMobaDemo
 - https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+- https://github.com/RevenantX/LiteEntitySystem
 - https://github.com/Mun1z/KingNetwork
 - https://github.com/moetsi/Unity-DOTS-Multiplayer-XR-Sample
 - https://github.com/luoyikun/UnityMobaDemo
@@ -3108,6 +3111,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [图形学|shader|用一篇文章理解半透明渲染、透明度测试和混合、提前深度测试并彻底理清渲染顺序。](https://zhuanlan.zhihu.com/p/263566318)
 - [to-z-prepass-or-not-to-z-prepass](https://interplayoflight.wordpress.com/2020/12/21/to-z-prepass-or-not-to-z-prepass/)
 - [渲染状态改变消耗详情](https://blog.csdn.net/cubesky/article/details/77674201)
+- [Notes on ddx/ddy](http://fushigi-hako.site/2019/08/25/Notes-on-ddx-ddy/)
+- [关于ddx/ddy的一些思考和测试](https://zhuanlan.zhihu.com/p/594028291)
 ##### URP/SPR/HDRP Course
 - [MeasuredMaterialLibraryURP](https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP)
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
@@ -3917,6 +3922,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/dotmos/uGameFramework
 - https://github.com/DonnYep/CosmosFramework
 - https://github.com/christides11/hack-and-slash-framework
+- https://github.com/526077247/ETPro
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
