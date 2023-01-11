@@ -1312,6 +1312,7 @@ Table of Contents
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 - [unity-flash-tools](https://github.com/BlackMATov/unity-flash-tools) Convert your flash animation for Unity easy!
+- https://github.com/qwe321qwe321qwe321/Unity-EasingAnimationCurve
  
 
 ## Console/Command/Shell/Debugger
@@ -1830,6 +1831,7 @@ Table of Contents
 - https://github.com/smopu/DragonJson c#
 - https://jsonvisio.com/editor
 - https://jsonhero.io/
+- https://altearius.github.io/tools/json/index.html
 #### Yaml
 - https://github.com/hadashiA/VYaml
 
@@ -2566,6 +2568,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [profiling](https://github.com/aclysma/profiling)
 - [palanteer](https://github.com/dfeneyrou/palanteer)
 - [WatchDog](https://github.com/IzyPro/WatchDog) WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs.
+- [lnav](https://lnav.org/)
 - [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
 - [MemoryProfiler](https://github.com/larryhou/MemoryProfiler)
 - [speedscope](https://www.speedscope.app/)
@@ -3141,6 +3144,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/shyaZhou/UnityURPFurDemo
 - [XFur Studio 2 unity-plugin](https://assetstore.unity.com/packages/tools/particles-effects/pidi-xfur-studio-2-ultimate-edition-145885)
 - https://zhuanlan.zhihu.com/p/446221956
+- https://github.com/HigashiSan/Fur-Rendering
 #####  Holographic
 - [Unity切片类全息效果](https://mp.weixin.qq.com/s/vUmuq3Tek4vypJiy7da4Sw)
 ##### Matrix
@@ -3222,6 +3226,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
 - https://github.com/Looooong/Unity-SRP-VXGI
 - [dots-renderer](https://github.com/vectorized-runner/dots-renderer)
+- https://github.com/flwmxd/LuxGI
 #### Global illumination (GI)
 
 ##### Collection
@@ -3727,6 +3732,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - http://cloudwu.github.io/lua53doc/manual.html
 - [Rxlua](https://github.com/bjornbytes/RxLua)
 - https://github.com/iwiniwin/LuaKit
+- https://github.com/frog-game/lua-5.4.4-comments
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
