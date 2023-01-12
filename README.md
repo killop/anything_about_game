@@ -1305,6 +1305,7 @@ Table of Contents
 - https://github.com/mixandjam/Batman-Arkham-Combat
 - [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller)
 - [2D-Character-Controller](https://github.com/Brackeys/2D-Character-Controller)
+- [UnityAdvancedFPSCharacterController](https://github.com/NecroMarX/UnityAdvancedFPSCharacterController)
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 - [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
@@ -1561,6 +1562,7 @@ Table of Contents
 ## Version-Control
 - https://github.com/unixorn/git-extra-commands
 - https://github.com/meaf75/GitNity
+- https://github.com/alirezanet/Husky.Net
 - https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/git.txt
 - https://semver.org/lang/zh-CN/   -- 版本号规范
 - https://github.com/Artees/Unity-SemVer
@@ -1791,6 +1793,7 @@ Table of Contents
 #### Common-Server
 - [sylar](https://github.com/sylar-yin/sylar)  C++高性能分布式服务器框架
 ## Serialization
+- https://github.com/Levchenkov/NetCode
 - https://github.com/Cysharp/MemoryPack
 - https://github.com/dbolin/Apex.Serialization
 - https://github.com/space-wizards/netserializer
@@ -2446,6 +2449,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/BXRan/PEMath
 - https://github.com/GameArki/FPPhysics2D
 - https://github.com/yingyugang/FixedPointPhysics
+- https://github.com/zeroerror/ZeroPhysics
 - https://github.com/chenwansal/FPPhysics2D
 - https://github.com/CodingCodingK/CodingKPhysx
 - https://github.com/Fractural/GodotFixedVolatilePhysics
@@ -2803,6 +2807,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MFShaderRecover](https://github.com/Reguluz/MFShaderRecover) ■■Updating■■ A simple tool to recognize DXBC language then translate to unity shaderlab typed shader
 - [dxbc_reader](https://github.com/luxuia/dxbc_reader)
 - [RenderDoc截帧DXBC编译 一文详解](https://zhuanlan.zhihu.com/p/590676458)
+- [DXBCShaderRecover](https://github.com/Moonflow-Studio/DXBCShaderRecover)
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 - [ShaderPackager]( https://github.com/slipster216/ShaderPackager) 
@@ -2955,6 +2960,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [PowerVR](http://cdn.imgtec.com/sdk-documentation/PowerVR.Performance+Recommendations.pdf)
 - [移动设备GPU架构知识汇总](https://zhuanlan.zhihu.com/p/112120206)
 - [GPU架构 核心问题笔记](https://zhuanlan.zhihu.com/p/139118900)
+- [Awesome-GPU](https://github.com/Jokeren/Awesome-GPU)
 - [移动处理器CPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
 - [GPU-BenchMark](https://gfxbench.com/result.jsp)
 - [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
@@ -3227,6 +3233,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Looooong/Unity-SRP-VXGI
 - [dots-renderer](https://github.com/vectorized-runner/dots-renderer)
 - https://github.com/flwmxd/LuxGI
+- https://github.com/jiaozi158/UnitySSPathTracingURP
 #### Global illumination (GI)
 
 ##### Collection
@@ -4420,6 +4427,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [BlankDeviceUniqueIdentifier](https://github.com/AlianBlank/BlankDeviceUniqueIdentifier) 用于在 Unity3D 中获取Android 和 iOS 平台上唯一机器码的插件
  - [BlankOperationClipboard](https://github.com/AlianBlank/BlankOperationClipboard) Unity 读写Android 和 iOS 的粘贴板插件
  - [UnityWebBrowser](https://github.com/Voltstro-Studios/UnityWebBrowser)
+ - [UnityNativeFilePicker](https://github.com/yasirkula/UnityNativeFilePicker)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/jynew/jynew
