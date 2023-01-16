@@ -1684,8 +1684,13 @@ Table of Contents
 - [wind](https://github.com/ferris1/wind) Wind是一款面向云的高性能、高效率以及高扩展性的分布式游戏服务器引擎框架
 - [seastar](https://github.com/scylladb/seastar) High performance server-side application framework
 #### Article
-- https://zhuanlan.zhihu.com/p/565731139
-- https://zhuanlan.zhihu.com/p/565875153
+- [网络游戏的进阶架构](https://zhuanlan.zhihu.com/p/565731139）
+- [游戏网络同步绿皮书](https://zhuanlan.zhihu.com/p/565875153)
+- [图形引擎实战：战斗同步分享](https://zhuanlan.zhihu.com/p/598582277)
+- [网络游戏移动同步那点事](https://zhuanlan.zhihu.com/p/581744996)
+- [如何使用unity做帧同步模式的网络游戏？](https://www.zhihu.com/question/64395491/answer/2841269890)
+- [帧同步和状态同步是如何处理断线重连的？](https://www.zhihu.com/question/538642699/answer/2828664931)
+- [我的收藏](https://www.zhihu.com/collection/823582261)
 - https://github.com/yiv/blog
 - https://space.bilibili.com/3981300 
 - https://github.com/briatte/awesome-network-analysis
@@ -2785,6 +2790,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/mikbry/awesome-webgpu
 - https://github.com/toji/webgpu-best-practices
 - https://github.com/Graphics-Programming-Virtual-Meetup/Resources
+- https://github.com/tensorush/Awesome-Graphics-Programming
 #### Shading-Language
 - https://github.com/wshxbqq/GLSL-Card
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
@@ -3740,6 +3746,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Rxlua](https://github.com/bjornbytes/RxLua)
 - https://github.com/iwiniwin/LuaKit
 - https://github.com/frog-game/lua-5.4.4-comments
+- https://zhuanlan.zhihu.com/p/597188766
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
@@ -3973,6 +3980,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/dx50075/SkillSystem (skill system for unity ， 思路 http://blog.csdn.net/qq18052887/article/details/50358463 技能描述文件如下 skill(1000) //技能1 { FaceToTarget(0) PlayAnimation(1,Skill_1) Bullet(1.3,Bullet,7) PlayEffect(0,Explode8,3) })
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 - https://github.com/SuperCLine/actioneditor
+- https://github.com/PhysaliaStudio/Flexi
  
 
 #### Occlusion Culling
