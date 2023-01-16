@@ -1306,6 +1306,7 @@ Table of Contents
 - [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller)
 - [2D-Character-Controller](https://github.com/Brackeys/2D-Character-Controller)
 - [UnityAdvancedFPSCharacterController](https://github.com/NecroMarX/UnityAdvancedFPSCharacterController)
+- [Unity-Proportional-Navigation-Collection](https://github.com/Woreira/Unity-Proportional-Navigation-Collection) A collection of PN guidance systems, in Unity
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 - [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
@@ -1372,6 +1373,7 @@ Table of Contents
 - [transform-tools](https://assetstore.unity.com/packages/tools/utilities/transform-tools-177218) unity-plugin
 - [prefab-world-builder](https://assetstore.unity.com/packages/tools/level-design/prefab-world-builder-185406) unity-plugin
 - [grabbit-editor-physics-transforms](https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328) unity-plugin
+- [flexalon-3d-layouts](https://assetstore.unity.com/packages/tools/utilities/flexalon-3d-layouts-230509)
 - [Hey-Area-Object-Spawner](https://github.com/JahnStar/Hey-Area-Object-Spawner)
 - https://github.com/Ogbest/Unity_MapEditor_Terrain 动态渲染Unity地形网格，记录网格是否是玩家的行走范围，然后导出编辑好的网格用于服务器导航、验证使用 https://github.com/frankhjwx/Unity-ShaderCharDisplay
 - https://github.com/Caeden117/ChroMapper -- 地图编辑器 
@@ -1872,6 +1874,7 @@ Table of Contents
 - [DBreeze](https://github.com/hhblaze/DBreeze/)  LiteDB - A .NET NoSQL Document Store
 - [Siaqodb](https://github.com/morecraf/Siaqodb) Siaqodb is a NoSQL embedded object and document database engine that currently runs on .NET, MonoMac, Universal Windows Platform (UWP), Xamarin.iOS, Xamarin.Android, Xamarin.Mac and Unity3D.
 - [UnityMemoryMappedFile](https://github.com/sh-akira/UnityMemoryMappedFile)
+- [SliccDB](https://github.com/pmikstacki/SliccDB) Light Embedded Graph Database for .net
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
@@ -2813,6 +2816,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MFShaderRecover](https://github.com/Reguluz/MFShaderRecover) ■■Updating■■ A simple tool to recognize DXBC language then translate to unity shaderlab typed shader
 - [dxbc_reader](https://github.com/luxuia/dxbc_reader)
 - [RenderDoc截帧DXBC编译 一文详解](https://zhuanlan.zhihu.com/p/590676458)
+- [GLSLShaderShrinker](https://github.com/deanthecoder/GLSLShaderShrinker) Optimizes the size of GLSL shader code.
 - [DXBCShaderRecover](https://github.com/Moonflow-Studio/DXBCShaderRecover)
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
@@ -3256,6 +3260,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [实时PRTGI技术与实现](https://zhuanlan.zhihu.com/p/541137978)
 * [预计算辐照度全局光照（PRTGI）从理论到实战](https://zhuanlan.zhihu.com/p/571673961)
 * [Unity-Baked-Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics)
+* [Volumetrics_URP](https://github.com/bladesero/Volumetrics_URP) A render feature to recover Unity 5.x's offical volumetric fog in Adam demo
 * [CasualPRT](https://github.com/AKGWSB/CasualPRT) 
 ##### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
@@ -4144,6 +4149,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Rhinox-Training/rhinox-lightspeed
 - https://github.com/natsuneko-laboratory/refined-animation-property
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
+- https://github.com/joshcamas/unity-domain-reload-helper
 
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
@@ -4446,6 +4452,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [DarkGod](https://github.com/mGitup/DarkGod) 基于 Unity 的 3D ARPG 移动端网游
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！
 - [NineChronicles](https://github.com/planetarium/NineChronicles) Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
+- [CodeFPS](https://github.com/Zhao-666/CodeFPS) Unity引擎实现的一款FPS游戏，实现《使命召唤4》训练靶场关卡
 ## Programmer-Common-Tool
 - https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
