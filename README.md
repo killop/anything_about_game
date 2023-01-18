@@ -885,6 +885,7 @@ Table of Contents
 ###### Free-Font
 - https://www.100font.com/  chinese font
 - https://www.hellofont.cn/ chinese font
+- https://github.com/lxgw/LxgwNeoXiHei chinese font
 - https://github.com/DrXie/OSFCC chinese font
 - https://www.fontspace.com/ english font
 - https://www.dafont.com/   english font
@@ -2799,6 +2800,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/wshxbqq/GLSL-Card
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
+- https://github.com/microsoft/hlsl-specs
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
