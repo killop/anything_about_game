@@ -235,7 +235,7 @@ Table of Contents
     - [Shadow](#shadow)
     - [GPGPU](#gpgpu)
     - [Compute-Shader](#compute-shader)
-    - [Flocks](#flocks)
+    - [Boids](#boids)
     - [GPU Driven](#gpu-driven)
     - [GPU-Particle](#gpu-particle)
     - [BVH](#bvh)
@@ -1297,6 +1297,7 @@ Table of Contents
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
 - https://github.com/nicholas-maltbie/OpenKCC
 - https://github.com/runevision/LocomotionSystem
+- https://github.com/Goodgulf281/Unity-Formation-Movement2.0
 - https://github.com/ssell/UnityDotsCharacterController
 - [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
 - [Celeste-Movement](https://github.com/mixandjam/Celeste-Movement) Recreating the movement and feel from Celeste
@@ -1315,6 +1316,7 @@ Table of Contents
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 - [unity-flash-tools](https://github.com/BlackMATov/unity-flash-tools) Convert your flash animation for Unity easy!
 - https://github.com/qwe321qwe321qwe321/Unity-EasingAnimationCurve
+- https://github.com/akof1314/AnimationPath
  
 
 ## Console/Command/Shell/Debugger
@@ -2344,7 +2346,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [random-from-distributions](https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873) c# unity-plugin
 - [game-math](https://github.com/npruehs/game-math) c#
 - [Unity GPU Nearest Neighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) c# gpu
-- [Unity-BatchRendererGroup-Boids](https://github.com/AlexMerzlikin/Unity-BatchRendererGroup-Boids)
 - [3DMath](https://github.com/GregLukosek/3DMath) Unity C# 3D Math methods library. 
 - [Mathfs](https://github.com/FreyaHolmer/Mathfs) c# Expanded Math Functionality for Unity 
 - [Geometric Algorithms](https://github.com/volfegan/GeometricAlgorithms)  Java Geometric Algorithms implemented for Java and Processing v3 
@@ -3455,7 +3456,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/krylov-na/Compute-shader-particles
 - https://github.com/IRCSS/Procedural-painting
 - https://github.com/keijiro/Swarm
-- https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
 - https://github.com/TarAlacrin/HeightmapOnTheGPU
 - https://github.com/Scrawk/GPU-GEMS-3D-Fluid-Simulation
@@ -3467,11 +3467,16 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/aceyan/Unity3D_PBR_Path_Tracer
 - https://github.com/b0nes164/SimpleComputeShaderHashTable
 
-#### Flocks
-- [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
-- [DragonSpace](https://github.com/Appleguysnake/DragonSpace-Demo) A simple boids simulation to show the difference between implementations of a few spatial partitioning structures in Unity. 
-- [BoidsUnity](https://github.com/jtsorlinis/BoidsUnity)
-- [Unity-Flocking-CPU-GPU](https://github.com/CristianQiu/Unity-Flocking-CPU-GPU) CPU and GPU flocking implementations in the Unity game engine. Based on Unity's ECS implementation using DOTS, presented by Mike Acton.
+#### Boids
+* [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
+* [Boids](https://github.com/Unity-Technologies/EntityComponentSystemSamples/tree/master/EntitiesSamples/Boids) EntityComponentSystemSamples Boids
+* [nvjob-boids](https://github.com/nvjob/nvjob-boids) #NVJOB Simple Boids (Flocks of Birds, Fish and Insects). Flocking Simulation. nvjob.github.io/unity/nvjob-boids 
+* [DragonSpace](https://github.com/Appleguysnake/DragonSpace-Demo) A simple boids simulation to show the difference between implementations of a few spatial partitioning structures in Unity. 
+* [BoidsUnity](https://github.com/jtsorlinis/BoidsUnity)
+* [Unity-Flocking-CPU-GPU](https://github.com/CristianQiu/Unity-Flocking-CPU-GPU) CPU and GPU flocking implementations in the Unity game engine. Based on Unity's ECS implementation using DOTS, presented by Mike Acton.
+* [Unity-BatchRendererGroup-Boids](https://github.com/AlexMerzlikin/Unity-BatchRendererGroup-Boids)
+* [Unity-Boids-Behavior-on-GPGPU](https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU)
+* [unity-jobsystem-boids](https://github.com/komietty/unity-jobsystem-boids) Superfast CPU boids for Unity
 #### GPU Driven
 - [Realtime-Compute-Shader-Unity-PathTracer](https://github.com/killop/Realtime-Compute-Shader-Unity-PathTracer) A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
 - [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
