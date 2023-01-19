@@ -1299,6 +1299,7 @@ Table of Contents
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
 - https://github.com/nicholas-maltbie/OpenKCC
 - https://github.com/runevision/LocomotionSystem
+- https://assetstore.unity.com/packages/templates/packs/advanced-locomotion-controller-234390
 - https://github.com/Goodgulf281/Unity-Formation-Movement2.0
 - https://github.com/ssell/UnityDotsCharacterController
 - [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
