@@ -1204,6 +1204,7 @@ Table of Contents
 - [Unity3D-ToolChain_StriteR](https://github.com/striter/Unity3D-ToolChain_StriteR/tree/master/Assets/Scripts/Runtime/Modules/Optimize)
 - [Dual quaternion skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
 - [GPUInstance](https://github.com/mkrebser/GPUInstance) Instancing & Animation library for Unity3D
+- [VertexAnimation](https://github.com/Maximilian-Winter/VertexAnimation)
 #### Mesh Animation
 - https://github.com/SaiTingHu/MeshEditor.Effects
 #### Vertex Animation
