@@ -73,6 +73,7 @@ Table of Contents
     - [Physics Based Animation](#physics-based-animation)
     - [MotionMatching](#motionmatching)
     - [Movement](#movement)
+    - [Interaction](#interaction)
     - [Animation-Controller](#animation-controller)
     - [Character-Controller](#character-controller)
     - [PCG-Animation](#pcg-animation)
@@ -1204,10 +1205,10 @@ Table of Contents
 - [Unity3D-ToolChain_StriteR](https://github.com/striter/Unity3D-ToolChain_StriteR/tree/master/Assets/Scripts/Runtime/Modules/Optimize)
 - [Dual quaternion skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
 - [GPUInstance](https://github.com/mkrebser/GPUInstance) Instancing & Animation library for Unity3D
-- [VertexAnimation](https://github.com/Maximilian-Winter/VertexAnimation)
 #### Mesh Animation
 - https://github.com/SaiTingHu/MeshEditor.Effects
 #### Vertex Animation
+- [VertexAnimation](https://github.com/Maximilian-Winter/VertexAnimation)
 - [vertex-animation-tools](https://assetstore.unity.com/packages/tools/animation/vertex-animation-tools-128190)
 - [vertexmotion](https://assetstore.unity.com/packages/tools/animation/vertexmotion-pro-25127)
 #### Tween
@@ -1266,6 +1267,10 @@ Table of Contents
 -  https://github.com/ycarowr/UiCard
 -  https://github.com/IainS1986/UnityCoverFlow
 -  https://github.com/CragonGame/CasinosClient
+#### Interaction
+- [istep](https://assetstore.unity.com/packages/tools/animation/istep-215843)
+- [interactor-interaction-handler-for-ik](https://assetstore.unity.com/packages/tools/animation/interactor-interaction-handler-for-ik-178062)
+- [footstepper-complete-footstep-solution](https://assetstore.unity.com/packages/tools/animation/footstepper-complete-footstep-solution-159431)   
 #### Animation-Controller
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/rurre/PumkinsAvatarTools unity 表情
@@ -2627,6 +2632,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ## ComputerGraphics && Shading
 
 #### Conference
+- [highperformancegraphics](https://www.highperformancegraphics.org/)
 - [siggraph-2021-links](https://blog.selfshadow.com/2021/08/18/siggraph-2021-links/)
 - [ACM Siggraph 2020](https://s2020.siggraph.org/)
 - [ACM Siggraph ASIA 2020](https://sa2020.siggraph.org/)
@@ -4549,6 +4555,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/easychen/one-person-businesses-methodology 一人公司方法论
 - https://github.com/itgoyo/TelegramGroup
 ## 友情链接 
+* [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
 * [Article_About_GameDevelopment](https://github.com/tkonexhh/Article_About_GameDevelopment)
 * [AwesomeUnityTutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
