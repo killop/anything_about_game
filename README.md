@@ -1885,6 +1885,7 @@ Table of Contents
 - [Siaqodb](https://github.com/morecraf/Siaqodb) Siaqodb is a NoSQL embedded object and document database engine that currently runs on .NET, MonoMac, Universal Windows Platform (UWP), Xamarin.iOS, Xamarin.Android, Xamarin.Mac and Unity3D.
 - [UnityMemoryMappedFile](https://github.com/sh-akira/UnityMemoryMappedFile)
 - [SliccDB](https://github.com/pmikstacki/SliccDB) Light Embedded Graph Database for .net
+- [VeloxDB](https://github.com/VeloxDB/VeloxDB)
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
