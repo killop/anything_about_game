@@ -168,7 +168,7 @@ Table of Contents
     - [3rd-Binding](#3rd-binding)
     - [Collection](#collection-5)
     - [Shading-Language](#shading-language)
-    - [Shader Compiler](#shader-compiler)
+    - [Shader-Compiler](#shader-compiler)
     - [ShaderVariant](#shadervariant)
     - [Course/Article](#coursearticle)
     - [Shader-Collection](#shader-collection)
@@ -868,6 +868,7 @@ Table of Contents
 - https://github.com/JPhilipp/AIConnectors 
 - https://github.com/3DFaceBody/awesome-3dbody-papers
 - https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
+- https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
 *  [MagicaVoxel](https://ephtracy.github.io/)
@@ -1229,6 +1230,7 @@ Table of Contents
 * [unity-animation](https://github.com/KleinerHacker/unity-animation/) Extended Animation Framework for Unity based on Coroutines
 * [PlasticTween](https://github.com/PlasticApps/PlasticTween) Tween Library for Unity3D(ECS+JOBS)
 * [unity-tweens](https://github.com/jeffreylanters/unity-tweens)
+* [TweenRx](https://github.com/fumobox/TweenRx) Reactive animation utility for Unity
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1261,7 +1263,6 @@ Table of Contents
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 -  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
 -  [AnimeTask](https://github.com/kyubuns/AnimeTask)
--  https://github.com/GiovanniZambiasi/Client-Side-Prediction
 -  [Fluent Animation - An incredible animation queue system](https://assetstore.unity.com/packages/tools/animation/fluent-animation-an-incredible-animation-queue-system-84715) unity-plugin
 -  https://github.com/rygo6/CardExample-Unity
 -  https://github.com/ycarowr/UiCard
@@ -1325,6 +1326,7 @@ Table of Contents
 - [unity-flash-tools](https://github.com/BlackMATov/unity-flash-tools) Convert your flash animation for Unity easy!
 - https://github.com/qwe321qwe321qwe321/Unity-EasingAnimationCurve
 - https://github.com/akof1314/AnimationPath
+- https://github.com/ecidevilin/UnityBoneTools 
  
 
 ## Console/Command/Shell/Debugger
@@ -1442,6 +1444,7 @@ Table of Contents
 * [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
 * [Unity 程序化生成草地](https://zhuanlan.zhihu.com/p/592938734)
 * [风格化树——树叶分析与实现](https://zhuanlan.zhihu.com/p/593500186)
+* [unity-geometry-grass-shader](https://github.com/Velorexe/unity-geometry-grass-shader)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1547,6 +1550,7 @@ Table of Contents
 * [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
 * [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
 * [O-Z-Unity-Protector](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)
+* [Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector) An Integrated Encryption & Protection Scheme for Unity Project(Mono & IL2CPP)
  
 #### Archive-Format
 - [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) Tool for extract PAK archives from games based on RE Engine
@@ -1619,6 +1623,7 @@ Table of Contents
 - https://github.com/canton7/SyncTrayzor
 - https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
 - https://github.com/Reloaded-Project/Reloaded-II Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
+- [FastRsyncNet](https://github.com/GrzegorzBlok/FastRsyncNet)
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
@@ -1804,6 +1809,9 @@ Table of Contents
 - https://github.com/luoyikun/UnityMobaDemo
 - https://github.com/LambdaTheDev/NetworkAudioSync
 - https://github.com/dz0039/NetworkPhysics
+- https://github.com/GiovanniZambiasi/Client-Side-Prediction
+* [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
+* https://github.com/atrakeur/unity-unet-authoritative-networking 
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -1870,6 +1878,7 @@ Table of Contents
 - https://github.com/jintiao/VirtualTexture
 - https://github.com/ACskyline/PVTUT
 - https://github.com/Unity-Technologies/Megacity-Sample
+- https://github.com/decentraland/unity-renderer
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -1970,6 +1979,7 @@ Table of Contents
 - [fluid](https://github.com/sebastienros/fluid/) Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language. 
 - [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
+- [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [nevod](https://nevod.io) Nevod is a language and technology for pattern-based text search. It is specially aimed to rapidly reveal entities and their relationships in texts written in the natural language.
 - [AngouriMath](https://github.com/asc-community/AngouriMath) Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
 - [t4](https://github.com/faster-games/t4) T4 text template generative importer for Unity3D
@@ -2057,7 +2067,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge) Yet Another gRPC over HTTP/1 using WebSocket implementation, primarily targets .NET platform.
 * [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
 * [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
-* [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
 * [Entitas-Sync-Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Networking framework for Entitas ECS. Targeted at turnbased games or other slow-paced genres
 * [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 
 * [Davinet](https://github.com/IronWarrior/Davinet) - Minimalist Unity networking package with goals of responsive physics, loose coupling, extensibility and encapsulation of netcode. 
@@ -2422,6 +2431,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [2d 曲线](https://github.com/gabrielgiordan/Unity3D-Curves)
 - [unity-curve-utils](https://github.com/baba-s/unity-curve-utils) 曲线 
 - [nurbs](https://github.com/StandardCyborg/nurbs) js Non-Uniform Rational B-Splines (NURBS) of any dimensionality 
+- [BGCurve](https://github.com/bansheeGz/BGCurve)
 #### Courses/Article/website
 - https://d3gt.com/index.html
 - https://zhuanlan.zhihu.com/p/362148370
@@ -2443,7 +2453,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [projectivegeometricalgebra](http://projectivegeometricalgebra.org/) 摄影几何
 - [comparison with math libraries](https://nfrechette.github.io/2019/01/19/introducing_realtime_math/)
 - [线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
-
+- [lir](https://github.com/Evryway/lir) Largest Interior Rectangle implementation in C# for Unity.
 
 #### Unity-Transform
 - [Unity坐标系变换那些事](https://zhuanlan.zhihu.com/p/438828654)
@@ -2815,7 +2825,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - [common-shaders](https://github.com/libretro/common-shaders)
 - https://github.com/riccardoscalco/glsl-pcg-prng
-#### Shader Compiler
+- https://github.com/polymonster/pmfx-shader
+#### Shader-Compiler
 - [a-review-of-shader-languages](https://alain.xyz/blog/a-review-of-shader-languages)
 - [spir](https://www.khronos.org/spir/) The Industry Open Standard Intermediate Language for Parallel Compute and Graphics
 - [DirectX Intermediate Language](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/DXIL.rst)
@@ -2830,6 +2841,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [RenderDoc截帧DXBC编译 一文详解](https://zhuanlan.zhihu.com/p/590676458)
 - [GLSLShaderShrinker](https://github.com/deanthecoder/GLSLShaderShrinker) Optimizes the size of GLSL shader code.
 - [DXBCShaderRecover](https://github.com/Moonflow-Studio/DXBCShaderRecover)
+- [DXDecompiler](https://github.com/spacehamster/DXDecompiler) DXDecompiler is a Direct3D shader bytecode decompiler for .NET. It is in currently in very early development.
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
 - [ShaderPackager]( https://github.com/slipster216/ShaderPackager) 
@@ -2934,6 +2946,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/eangulee/UnityShader
 - https://github.com/soupday/cc_unity_tools_URP
 - https://github.com/AnCG7/URPShaderCodeSample
+- https://github.com/neon-age/VFX-Lab
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -3477,6 +3490,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Gornhoth/Unity-Smoothed-Particle-Hydrodynamics
 - https://github.com/aceyan/Unity3D_PBR_Path_Tracer
 - https://github.com/b0nes164/SimpleComputeShaderHashTable
+- https://github.com/happy-turtle/oit-unity
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -3668,6 +3682,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [BreakInfinity](https://github.com/Razenpok/BreakInfinity.cs） Double replacement for numbers that go over 1e308
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
+- [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - https://surparallel.org unity 多线程优化工具
@@ -3692,7 +3707,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [trienet](https://github.com/gmamaladze/trienet) .NET Implementations of Trie Data Structures for Substring Search, Auto-completion and Intelli-sense. Includes: patricia trie, suffix trie and a trie implementation using Ukkonen's algorithm.
 - https://github.com/AArnott/Nerdbank.Streams 高效流
 - [NaturalSort](https://github.com/tompazourek/NaturalSort.Extension) Extension method for StringComparison that adds support for natural sorting (e.g. "abc1", "abc2", "abc10" instead of "abc1", "abc10", "abc2").
-- [AsyncWorkerCollection](https://github.com/dotnet-campus/AsyncWorkerCollection) A collection of tools that support asynchronous methods and support high-performance multithreading.
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
 - [BurstCollections](https://github.com/andywiecko/BurstCollections)
 - [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
@@ -3768,6 +3782,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/iwiniwin/LuaKit
 - https://github.com/frog-game/lua-5.4.4-comments
 - https://zhuanlan.zhihu.com/p/597188766
+- https://github.com/PlutoLang/Pluto
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
@@ -4056,6 +4071,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/microsoft/coyote
 - [minicoro](https://github.com/edubart/minicoro) Single header asymmetric stackful cross-platform coroutine library in pure C.
 - [libcsp](https://github.com/shiyanhui/libcsp) A concurrency C library 10x faster than Golang.
+- [ZeroAllocJobScheduler](https://github.com/genaray/ZeroAllocJobScheduler) A high-performance alloc free c# Jobscheduler.
+- [durabletask](https://github.com/Azure/durabletask) Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
+- [AsyncWorkerCollection](https://github.com/dotnet-campus/AsyncWorkerCollection) A collection of tools that support asynchronous methods and support high-performance multithreading. 
 #### Node-Editor
 - [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
@@ -4078,6 +4096,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/scottcgi/MojoUnity-Packages
 - https://github.com/coding2233/TextInlineSprite
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
+- https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set
 - https://github.com/akof1314/Unity-TextMeshPro-DynamicText
 - https://github.com/TonyViT/CurvedTextMeshPro
 - https://github.com/jp-netsis/RubyTextMeshPro
@@ -4140,6 +4159,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
 #### Util
 - https://github.com/Hertzole/runtime-options-manager
+- https://github.com/joebinns/asteroids-scriptable-objects
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 - https://github.com/lujian101
 - https://github.com/shinn716/ShinnUtils
@@ -4166,6 +4186,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/natsuneko-laboratory/refined-animation-property
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
 - https://github.com/joshcamas/unity-domain-reload-helper
+- https://github.com/stonesheltergames/Unity-GUID
 
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
@@ -4407,7 +4428,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
 - https://github.com/AkiKurisu/Time-Control
-
+- https://github.com/SitronX/UnityTimeRewinder
 #### Raycast&&Sensor
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 - https://github.com/staggartcreations/Graphics-Raycast/
@@ -4557,6 +4578,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/itgoyo/TelegramGroup
 ## 友情链接 
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
+* [图形学随笔](https://github.com/Tianji95/CG_learning_note)
 * [Article_About_GameDevelopment](https://github.com/tkonexhh/Article_About_GameDevelopment)
 * [AwesomeUnityTutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)
 * [OpenGraphic](https://github.com/Gforcex/OpenGraphic) 
