@@ -95,9 +95,11 @@ Table of Contents
 - [Archive-GameReverse](#archive-gamereverse)
     - [Collection](#collection-2)
     - [Archive-Format](#archive-format)
+- [Patch](#patch)
+- [File Systems](#file-systems)
+- [IO](#io)
 - [Version-Control](#version-control)
     - [article](#article-1)
-    - [Patch](#patch)
     - [PythonTool](#pythontool)
 - [Game-Server-framework](#game-server-framework)
     - [Article](#article-2)
@@ -121,7 +123,6 @@ Table of Contents
     - [ts](#ts)
     - [Benchmark](#benchmark)
     - [Article](#article-3)
-- [File Systems](#file-systems)
 - [Hash](#hash)
 - [Text-Template](#text-template)
 - [Authorization](#authorization)
@@ -249,7 +250,6 @@ Table of Contents
 - [Interview/DataStruct-Algorithms](#interviewdatastruct-algorithms)
     - [Article](#article-5)
 - [Operating-System](#operating-system)
-    - [IO](#io)
 - [Bad World Filter](#bad-world-filter)
 - [高性能数据结构和算法](#高性能数据结构和算法)
     - [MMO](#mmo)
@@ -293,6 +293,7 @@ Table of Contents
     - [Timeline](#timeline)
     - [TextureStreaming](#texturestreaming)
     - [Util](#util)
+    - [Code-Reload](#code-reload)
     - [Windows-Show](#windows-show)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Drawing](#drawing)
@@ -1327,6 +1328,8 @@ Table of Contents
 - https://github.com/qwe321qwe321qwe321/Unity-EasingAnimationCurve
 - https://github.com/akof1314/AnimationPath
 - https://github.com/ecidevilin/UnityBoneTools 
+- https://github.com/natsuneko-laboratory/refined-animation-property
+- https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier
  
 
 ## Console/Command/Shell/Debugger
@@ -1445,6 +1448,7 @@ Table of Contents
 * [Unity 程序化生成草地](https://zhuanlan.zhihu.com/p/592938734)
 * [风格化树——树叶分析与实现](https://zhuanlan.zhihu.com/p/593500186)
 * [unity-geometry-grass-shader](https://github.com/Velorexe/unity-geometry-grass-shader)
+* [TerrainGrassShader](https://github.com/TerraUnity/TerrainGrassShader)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1575,6 +1579,50 @@ Table of Contents
 - [WoWDBDefs](https://github.com/wowdev/WoWDBDefs)
 - [flaclibsharp](https://github.com/AaronLenoir/flaclibsharp)
 - [CathodeLib](https://github.com/OpenCAGE/CathodeLib) Functionality to parse and write various formats from the Cathode engine, used for modding Alien: Isolation.
+
+## Patch
+- [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
+- https://github.com/redwood/redwood
+- https://github.com/KSP-CKAN/CKAN
+- https://github.com/iwiniwin/unity-remote-file-explorer
+- https://github.com/OctopusDeploy/Octodiff
+- https://github.com/canton7/SyncTrayzor
+- https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
+- https://github.com/Reloaded-Project/Reloaded-II Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
+- [FastRsyncNet](https://github.com/GrzegorzBlok/FastRsyncNet) 
+ ## File Systems
+- https://github.com/mattiasgustavsson/libs
+- https://icculus.org/physfs/
+- https://github.com/Tape-Worm/Gorgon/tree/master/Gorgon/Gorgon.FileSystem
+- https://github.com/xoofx/zio vfs
+- https://github.com/psmacchia/NDepend.Path path helper
+- https://github.com/JosefPihrt/Orang file opreation
+- https://github.com/System-IO-Abstractions/System.IO.Abstractions
+- https://github.com/Singulink/Singulink.IO.FileSystem 
+- https://github.com/tagcode/Lexical.FileSystem
+- https://github.com/dre0dru/LocalStorage
+- https://github.com/ByronMayne/UnityIO
+- GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
+- https://www.betrfs.org/
+- https://github.com/MathewHDYT/Unity-Data-Manager
+- https://github.com/coryleach/UnitySaveLoad
+- https://github.com/FronkonGames/GameWork-Local-Data
+- https://github.com/Lurler/VirtualFileSystem
+
+## IO
+- [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
+- [IO 模型知多少](https://www.cnblogs.com/sheng-jie/p/how-much-you-know-about-io-models.html) 
+- [IO复用模型同步，异步，阻塞，非阻塞及实例详解](https://www.jianshu.com/p/511b9cffbdac)
+- [服务器端网络编程之 IO 模型](https://www.cnblogs.com/zhuwbox/p/10163973.html)
+- [The von Neumann Computer Model ](http://www.c-jump.com/CIS77/CPU/VonNeumann/lecture.html)
+- [I/O模型（同步、非同步、阻塞、非阻塞）总结](https://www.cnblogs.com/z-sm/p/6680141.html)
+- [聊聊BIO，NIO和AIO](https://www.jianshu.com/p/ef418ccf2f7d)
+- [深度解析nio、epoll多路复用等网络编程模型](https://www.bilibili.com/video/BV1bK41177Mo/)
+- [清华大牛权威讲解nio,epoll,多路复用](https://www.bilibili.com/video/BV11K4y1C7rm?p=2)
+- [网络 IO 演变过程](https://zhuanlan.zhihu.com/p/353692786)
+- [Linux I/O 原理和 Zero-copy 技术全面揭秘](https://zhuanlan.zhihu.com/p/308054212)
+- [Linux 内核详解以及内核缓冲区技术](https://blog.csdn.net/qq_44919483/article/details/89509559) 
+- https://github.com/microsoft/CopyOnWrite  
 ## Version-Control
 - https://github.com/unixorn/git-extra-commands
 - https://github.com/meaf75/GitNity
@@ -1610,20 +1658,10 @@ Table of Contents
 * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令。如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。
 * [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！ 
 
-
 #### article
 - [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
 - [规范化git commit信息](https://blog.dteam.top/posts/2019-04/%E8%A7%84%E8%8C%83%E5%8C%96git-commit%E4%BF%A1%E6%81%AF.html)
-#### Patch
-- [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
-- https://github.com/redwood/redwood
-- https://github.com/KSP-CKAN/CKAN
-- https://github.com/iwiniwin/unity-remote-file-explorer
-- https://github.com/OctopusDeploy/Octodiff
-- https://github.com/canton7/SyncTrayzor
-- https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
-- https://github.com/Reloaded-Project/Reloaded-II Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
-- [FastRsyncNet](https://github.com/GrzegorzBlok/FastRsyncNet)
+
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
@@ -1647,6 +1685,7 @@ Table of Contents
 - https://github.com/surparallel
 - https://github.com/xiaonanln/goworld
 - https://github.com/kbengine/kbengine
+- https://github.com/imgamer/kbengine
 - https://github.com/topfreegames/pitaya
 - https://github.com/liangdas/mqant
 - https://github.com/name5566/leaf
@@ -1700,6 +1739,7 @@ Table of Contents
 - [hive](https://github.com/hero1s/hive) A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script
 - [wind](https://github.com/ferris1/wind) Wind是一款面向云的高性能、高效率以及高扩展性的分布式游戏服务器引擎框架
 - [seastar](https://github.com/scylladb/seastar) High performance server-side application framework
+- [SLikeNet](https://github.com/SLikeSoft/SLikeNet)  SLikeNet is an Open Source/Free Software cross-platform network engine written in C++ and specifially designed for games
 #### Article
 - [网络游戏的进阶架构](https://zhuanlan.zhihu.com/p/565731139）
 - [游戏网络同步绿皮书](https://zhuanlan.zhihu.com/p/565875153)
@@ -1707,7 +1747,7 @@ Table of Contents
 - [网络游戏移动同步那点事](https://zhuanlan.zhihu.com/p/581744996)
 - [如何使用unity做帧同步模式的网络游戏？](https://www.zhihu.com/question/64395491/answer/2841269890)
 - [帧同步和状态同步是如何处理断线重连的？](https://www.zhihu.com/question/538642699/answer/2828664931)
-- [我的收藏](https://www.zhihu.com/collection/823582261)
+- [我的收藏](https://www.zhihu.com/collection/823582261) 
 - https://github.com/yiv/blog
 - https://space.bilibili.com/3981300 
 - https://github.com/briatte/awesome-network-analysis
@@ -1857,8 +1897,8 @@ Table of Contents
 - https://github.com/Dogwei/Swifter.Json  C#
 - https://github.com/zachsaw/Binaron.Serializer
 - https://github.com/smopu/DragonJson c#
-- https://jsonvisio.com/editor
 - https://jsonhero.io/
+- https://jsoncrack.com/editor
 - https://altearius.github.io/tools/json/index.html
 #### Yaml
 - https://github.com/hadashiA/VYaml
@@ -1879,6 +1919,7 @@ Table of Contents
 - https://github.com/ACskyline/PVTUT
 - https://github.com/Unity-Technologies/Megacity-Sample
 - https://github.com/decentraland/unity-renderer
+- https://github.com/CesiumGS/cesium-unity
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -1949,23 +1990,7 @@ Table of Contents
 * [Ecs.CSharp.Benchmark](https://github.com/Doraku/Ecs.CSharp.Benchmark) Benchmarks of some C# ECS frameworks. 
 #### Article
 - [ecs-faq](https://github.com/SanderMertens/ecs-faq)
-## File Systems
-- https://github.com/mattiasgustavsson/libs
-- https://icculus.org/physfs/
-- https://github.com/Tape-Worm/Gorgon/tree/master/Gorgon/Gorgon.FileSystem
-- https://github.com/xoofx/zio vfs
-- https://github.com/psmacchia/NDepend.Path path helper
-- https://github.com/JosefPihrt/Orang file opreation
-- https://github.com/System-IO-Abstractions/System.IO.Abstractions
-- https://github.com/Singulink/Singulink.IO.FileSystem 
-- https://github.com/tagcode/Lexical.FileSystem
-- https://github.com/dre0dru/LocalStorage
-- https://github.com/ByronMayne/UnityIO
-- GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
-- https://www.betrfs.org/
-- https://github.com/MathewHDYT/Unity-Data-Manager
-- https://github.com/coryleach/UnitySaveLoad
-- https://github.com/FronkonGames/GameWork-Local-Data
+
 ## Hash
 - [Blake3](https://github.com/xoofx/Blake3.NET) Blake3.NET is a fast managed wrapper around the SIMD Rust implementations of the BLAKE3 cryptographic hash function.
 - [HashDepot](https://github.com/ssg/HashDepot)
@@ -2122,6 +2147,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [handy](https://github.com/yedf2/handy) 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
 - [workflow](https://github.com/sogou/workflow) C++ Parallel Computing and Asynchronous Networking Engine
 - [Server](https://github.com/shenmingik/Server) 基于muduo网络库的集群聊天服务器
+- [slikesoft](https://www.slikesoft.com/)
 
 #### Rust
 - [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
@@ -2948,6 +2974,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/soupday/cc_unity_tools_URP
 - https://github.com/AnCG7/URPShaderCodeSample
 - https://github.com/neon-age/VFX-Lab
+- https://github.com/MirzaBeig/Post-Processing-Scan
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -3140,6 +3167,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/malyawka/URP-ScreenSpaceCavity
 - https://github.com/Robinseibold/Unity-URP-Outlines
 - [sdf-outline](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/corgi-sdf-outlines-aka-stroke-outlines-for-urp-206960) unity-plugin
+- [ultimate-outlines-highlights](https://assetstore.unity.com/packages/vfx/shaders/ultimate-outlines-highlights-235063)  unity-plugin
 
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
@@ -3253,6 +3281,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/TakeshiCho/UI_RenderPipelineInLinearSpace
 - https://cmwdexint.com/2019/05/30/3d-scene-need-linear-but-ui-need-gamma/
 - https://github.com/chenjd/Unity_UI_Gamma
+- https://github.com/alelievr/HDRP-UI-Camera-Stacking
 - https://github.com/tkweizhong/CustomURP
 - https://github.com/AkilarLiao/ForwardPlusURP
 - https://github.com/Raphael2048/URP_ForwardPlus
@@ -3657,19 +3686,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Linux内存 -2](https://mp.weixin.qq.com/s/EvU7pV51ctPooREQt_8SaQ)
 - [Cache的基本原理](https://zhuanlan.zhihu.com/p/102293437)
 - [打开线程 | 进程 | 协程的大门 ](https://mp.weixin.qq.com/s/RLlNHgW6ilMqoFVHXf6x6g)   
-#### IO
-- [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
-- [IO 模型知多少](https://www.cnblogs.com/sheng-jie/p/how-much-you-know-about-io-models.html) 
-- [IO复用模型同步，异步，阻塞，非阻塞及实例详解](https://www.jianshu.com/p/511b9cffbdac)
-- [服务器端网络编程之 IO 模型](https://www.cnblogs.com/zhuwbox/p/10163973.html)
-- [The von Neumann Computer Model ](http://www.c-jump.com/CIS77/CPU/VonNeumann/lecture.html)
-- [I/O模型（同步、非同步、阻塞、非阻塞）总结](https://www.cnblogs.com/z-sm/p/6680141.html)
-- [聊聊BIO，NIO和AIO](https://www.jianshu.com/p/ef418ccf2f7d)
-- [深度解析nio、epoll多路复用等网络编程模型](https://www.bilibili.com/video/BV1bK41177Mo/)
-- [清华大牛权威讲解nio,epoll,多路复用](https://www.bilibili.com/video/BV11K4y1C7rm?p=2)
-- [网络 IO 演变过程](https://zhuanlan.zhihu.com/p/353692786)
-- [Linux I/O 原理和 Zero-copy 技术全面揭秘](https://zhuanlan.zhihu.com/p/308054212)
-- [Linux 内核详解以及内核缓冲区技术](https://blog.csdn.net/qq_44919483/article/details/89509559)
+
 
 ## Bad World Filter
 - [bad-word-filter](https://assetstore.unity.com/packages/tools/localization/bad-word-filter-pro-26255) unity-plugin
@@ -3744,6 +3761,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/MikePopoloski/StringFormatter Zero-allocation string formatting for .NET. 
 - [stringHelper](https://github.com/Dogwei/Swifter.Json/blob/db6c0be4fa2bfac5583d5bce7b475a2d618e7d74/Swifter.Core/Tools/String/StringHelper.cs) unsafe zero alloc string from [swifter](https://github.com/Dogwei/Swifter.Core)
 - [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) ZeroLog is a zero-allocation .NET logging library
+- https://github.com/Misaka-Mikoto-Tech/MutableString
 #### Thread/Task
 - https://github.com/RichieSams/FiberTaskingLib
 - https://github.com/taskflow/taskflow
@@ -4184,11 +4202,16 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/SolarianZ/UnityPlayableGraphMonitorTool
 - https://github.com/KybernetikGames/LinkAndSync
 - https://github.com/Rhinox-Training/rhinox-lightspeed
-- https://github.com/natsuneko-laboratory/refined-animation-property
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
-- https://github.com/joshcamas/unity-domain-reload-helper
+- https://github.com/ehakram/FrameRateBooster
+
 - https://github.com/stonesheltergames/Unity-GUID
 
+#### Code-Reload
+- https://github.com/joshcamas/unity-domain-reload-helper
+- https://github.com/Misaka-Mikoto-Tech/UnityScriptHotReload
+- [fast-script-reload-239351](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351) unity-plugin
+- [hotreload](https://hotreload.net/)
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -4288,7 +4311,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [agents-navigation](https://assetstore.unity.com/packages/tools/ai/agents-navigation-239233) unity-plugin
 - [SimpleAI](https://github.com/OneManMonkeySquad/SimpleAI)
 - [WZCQ](https://github.com/FengQuanLi/WZCQ) 用基于策略梯度得强化学习方法训练AI玩王者荣耀
-
+- https://github.com/RubenFrans/ContextSteering-Unity
+- https://github.com/friedforfun/ContextSteering
 #### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
  - [dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
@@ -4385,6 +4409,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/daihenka/asset-pipeline
 - [render-order-settings-editor](https://assetstore.unity.com/packages/tools/utilities/render-order-settings-editor-226896?)
 - [Choosing the Right Load Type in Unity’s Audio Import Settings](https://medium.com/@made-indrayana/choosing-the-right-load-type-in-unitys-audio-import-settings-1880a61134c7)
+- [Unity 下网格内存的优化](https://mp.weixin.qq.com/s/OB5oyokEhf1psyzsFvgjoQ)
+- https://github.com/starburst997/Unity.Trimmer 
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
 - [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
@@ -4394,6 +4420,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity材质冗余序列化数据清理](https://zhuanlan.zhihu.com/p/366636732) 
 - [UnityClearMaterailsProperties](https://github.com/tkweizhong/UnityClearMaterailsProperties)
 - https://github.com/Unity-Javier/SimpleEditorLogParser
+
 ##### Textrue Compression
 - [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
 - [常用纹理和纹理压缩格式](https://blog.csdn.net/ynnmnm/article/details/44983545)
