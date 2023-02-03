@@ -1296,6 +1296,7 @@ Table of Contents
 - [uPlayableAnimation](https://github.com/EricHu33/uPlayableAnimation)
 - [Vortex](https://github.com/kaiyumcg/Vortex) Play/blend animations, animator controllers in runtime. Uses playable API
 #### Character-Controller
+- [rival](https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-for-unity-225129) Unity Plugin
 - [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
 - [character-movement-fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966) unity-plugin
@@ -2975,6 +2976,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/AnCG7/URPShaderCodeSample
 - https://github.com/neon-age/VFX-Lab
 - https://github.com/MirzaBeig/Post-Processing-Scan
+- https://github.com/sacshadow/3D_ChineseInkPaintingStyleShader
+- https://github.com/mixandjam/Okami-Celestial-Brush
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -4269,7 +4272,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/unitycoder/Unity-DOTS-RTS-Collision-System
 * https://github.com/quabug/EntitiesBT
 * https://github.com/GilbertoGojira/DOTS-Stackr
-* https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-195567
 * https://github.com/AI-In-Games/FormationMovement
 * https://github.com/NagaChiang/entity-tween
 * https://github.com/nothke/UnityDOTSGotchas
