@@ -1000,6 +1000,7 @@ Table of Contents
  - https://github.com/DanielSWolf/rhubarb-lip-sync
  - https://github.com/bilibili/UnityBVA
  - https://github.com/Danial-Kord/DigiHuman
+ - https://github.com/TheRamU/Fay
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -2507,6 +2508,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/yingyugang/FixedPointPhysics
 - https://github.com/zeroerror/ZeroPhysics
 - https://github.com/chenwansal/FPPhysics2D
+- https://github.com/GameArki/FPMath
 - https://github.com/CodingCodingK/CodingKPhysx
 - https://github.com/Fractural/GodotFixedVolatilePhysics
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
@@ -4164,6 +4166,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Dash](https://github.com/pshtif/Dash)
 - https://github.com/brunomikoski/Animation-Sequencer
 - https://github.com/instance-id/ElementAnimationToolkit
+- http://zh.esotericsoftware.com/spine-unity
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
 - [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
