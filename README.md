@@ -1289,6 +1289,7 @@ Table of Contents
 - [protores](https://unity-technologies.github.io/Labs/protores.html) ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics
 - [UnityKinematicaX](https://github.com/voxell-tech/UnityKinematicaX) A next-generation character animation system built on top of Unity's Kinematica.
 - [DOTSAnimation](https://github.com/gamedev-pro/DOTSAnimation) A high level Animation State Machine Framework for Unity DOTS
+- [unity-dots-animation](https://github.com/Bendzae/unity-dots-animation) Simple animation system for the unity dots stack.
 - [kinematica](https://docs.unity3d.com/Packages/com.unity.kinematica@0.8/manual/index.html)
 - [reanimation](https://github.com/aarthificial/reanimation) An alternative animator for Unity tailored for traditional animation
 - [dmotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
@@ -1349,6 +1350,7 @@ Table of Contents
 - https://github.com/Tyrrrz/CliFx 命令行
 - https://github.com/Tyrrrz/CliWrap 命令行
 - https://github.com/jsakamoto/XProcess 命令行
+- [process-governor](https://github.com/lowleveldesign/process-governor) This application allows you to put various limits on a Windows process.
 - https://github.com/adamralph/simple-exec 命令行
 - https://github.com/wingcd/UnityToolExtender
 - https://github.com/adamralph/bullseye 
@@ -2502,6 +2504,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int) Pure C# deterministic fixed-point 3D real time physics simulation library
 - https://github.com/Kimbatt/unity-deterministic-physics
 - https://github.com/devlinzhou/deterministic_physics
+- https://github.com/jonjon007/unity-deterministic-physics
 - https://github.com/PetteriAimonen/libfixmath
 - https://github.com/BXRan/PEMath
 - https://github.com/GameArki/FPPhysics2D
@@ -2850,6 +2853,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
 - https://github.com/microsoft/hlsl-specs
+- https://github.com/NaitorStudios/FusionShaderRepo
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
@@ -3220,6 +3224,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [XFur Studio 2 unity-plugin](https://assetstore.unity.com/packages/tools/particles-effects/pidi-xfur-studio-2-ultimate-edition-145885)
 - https://zhuanlan.zhihu.com/p/446221956
 - https://github.com/HigashiSan/Fur-Rendering
+- https://github.com/Acshy/FurShaderUnity
 #####  Holographic
 - [Unity切片类全息效果](https://mp.weixin.qq.com/s/vUmuq3Tek4vypJiy7da4Sw)
 ##### Matrix
@@ -3304,6 +3309,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [dots-renderer](https://github.com/vectorized-runner/dots-renderer)
 - https://github.com/flwmxd/LuxGI
 - https://github.com/jiaozi158/UnitySSPathTracingURP
+- https://github.com/Pjbomb2/TrueTrace-Pathtracer
 #### Global illumination (GI)
 
 ##### Collection
@@ -3806,7 +3812,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/iwiniwin/LuaKit
 - https://github.com/frog-game/lua-5.4.4-comments
 - https://zhuanlan.zhihu.com/p/597188766
+- https://zhuanlan.zhihu.com/p/603584772
+- https://mp.weixin.qq.com/s/Ya9nQRBPLPkeaO2vpIg7-w 
 - https://github.com/PlutoLang/Pluto
+
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
@@ -4312,6 +4321,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ppiastucki/recast4j
 - https://github.com/Cr33zz/Nav
 - https://github.com/snape/RVO2-CS
+- https://github.com/warmtrue/RVO2-Unity
 - https://github.com/Nebukam/com.nebukam.orca
 - [agents-navigation](https://assetstore.unity.com/packages/tools/ai/agents-navigation-239233) unity-plugin
 - [SimpleAI](https://github.com/OneManMonkeySquad/SimpleAI)
@@ -4416,6 +4426,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Choosing the Right Load Type in Unity’s Audio Import Settings](https://medium.com/@made-indrayana/choosing-the-right-load-type-in-unitys-audio-import-settings-1880a61134c7)
 - [Unity 下网格内存的优化](https://mp.weixin.qq.com/s/OB5oyokEhf1psyzsFvgjoQ)
 - https://github.com/starburst997/Unity.Trimmer 
+- [missing-component-info](https://github.com/zhaoguohao/missing-component-info)
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
 - [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
