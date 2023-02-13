@@ -95,6 +95,7 @@ Table of Contents
 - [Archive-GameReverse](#archive-gamereverse)
     - [Collection](#collection-2)
     - [Archive-Format](#archive-format)
+    - [Disassembly](#disassembly)
 - [Patch](#patch)
 - [File Systems](#file-systems)
 - [IO](#io)
@@ -1344,7 +1345,6 @@ Table of Contents
 - [srdebugger](https://assetstore.unity.com/packages/tools/gui/srdebugger-console-tools-on-device-27688) unity-plugin
 - [debugging-essentials](https://assetstore.unity.com/packages/tools/utilities/debugging-essentials-170773) unity-plugin
 - [hdg-remote-debug](https://assetstore.unity.com/packages/tools/utilities/hdg-remote-debug-live-update-tool-61863) unity-plugin
-- [UnityExplorer](https://github.com/sinai-dev/UnityExplorer)
 - [unity-remote-file-explorer](https://github.com/iwiniwin/unity-remote-file-explorer)
 - https://github.com/natemcmaster/CommandLineUtils 命令行
 - https://github.com/Tyrrrz/CliFx 命令行
@@ -1363,6 +1363,7 @@ Table of Contents
 - https://github.com/cobbr
 - https://github.com/Cysharp/Kokuban
 - https://github.com/alexrp/system-terminal
+
 
 ## Scenes
 #### Terrain
@@ -1556,10 +1557,11 @@ Table of Contents
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact
 * [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
-* [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
+
 * [O-Z-Unity-Protector](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)
 * [Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector) An Integrated Encryption & Protection Scheme for Unity Project(Mono & IL2CPP)
- 
+* [RemoteNET](https://github.com/theXappy/RemoteNET) Examine, create and interact with remote objects in other .NET processes.
+  
 #### Archive-Format
 - [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) Tool for extract PAK archives from games based on RE Engine
 - [Http-Multipart-Data-Parser](https://github.com/Http-Multipart-Data-Parser/Http-Multipart-Data-Parser) A C# Http Multipart/form-data parser that works correctly on binary data and very large files.
@@ -1583,7 +1585,14 @@ Table of Contents
 - [WoWDBDefs](https://github.com/wowdev/WoWDBDefs)
 - [flaclibsharp](https://github.com/AaronLenoir/flaclibsharp)
 - [CathodeLib](https://github.com/OpenCAGE/CathodeLib) Functionality to parse and write various formats from the Cathode engine, used for modding Alien: Isolation.
-
+#### Disassembly
+* [ILSpy](https://github.com/icsharpcode/ILSpy) .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+* [dnSpy](https://github.com/dnSpy/dnSpy) .NET debugger and assembly editor
+* [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
+* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) Unity il2cpp reverse engineer
+* [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI) 
+* [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) Powerful automated tool for reverse engineering Unity IL2CPP binaries www.djkaty.com
+* [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) Work-in-progress tool to reverse unity's IL2CPP toolchain.
 ## Patch
 - [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
 - https://github.com/redwood/redwood
@@ -2463,6 +2472,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [unity-curve-utils](https://github.com/baba-s/unity-curve-utils) 曲线 
 - [nurbs](https://github.com/StandardCyborg/nurbs) js Non-Uniform Rational B-Splines (NURBS) of any dimensionality 
 - [BGCurve](https://github.com/bansheeGz/BGCurve)
+- [NaughtyBezierCurves](https://github.com/dbrizov/NaughtyBezierCurves) Bezier Curve Game Object for Unity
 #### Courses/Article/website
 - https://d3gt.com/index.html
 - https://zhuanlan.zhihu.com/p/362148370
@@ -2532,6 +2542,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.geforce.cn/hardware/technology/physx
 - https://www.sofa-framework.org/
 - https://github.com/jeffvella/UnityNativeCollision
+- https://github.com/lwwhb/OptimizingUnityCollision
 - https://www.bepuentertainment.com/
 - https://samuelpmish.github.io/notes/RocketLeague/#_navigation
 - https://github.com/devnio/Flowmo
@@ -4219,14 +4230,16 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Rhinox-Training/rhinox-lightspeed
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
 - https://github.com/ehakram/FrameRateBooster
-
 - https://github.com/stonesheltergames/Unity-GUID
+- https://github.com/Baste-RainGames/PlayerLoopInterface
+- https://github.com/williamrjackson/UnityScriptingUtilities
 
 #### Code-Reload
-- https://github.com/joshcamas/unity-domain-reload-helper
-- https://github.com/Misaka-Mikoto-Tech/UnityScriptHotReload
+- [unity-domain-reload-helper](https://github.com/joshcamas/unity-domain-reload-helper)
+- [UnityScriptHotReload](https://github.com/Misaka-Mikoto-Tech/UnityScriptHotReload)
 - [fast-script-reload-239351](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351) unity-plugin
-- [hotreload](https://hotreload.net/)
+- [hotreload](https://hotreload.net/) and his free version [gitlab-freeVersion](https://gitlab.com/singularitygroup/hot-reload-for-unity) [github-freeVersion](https://github.com/pancake-llc/hot-reload)
+- [BuildingHotReloadForUnity](https://github.com/handzlikchris/BuildingHotReloadForUnity)
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -4535,6 +4548,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！
 - [NineChronicles](https://github.com/planetarium/NineChronicles) Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
 - [CodeFPS](https://github.com/Zhao-666/CodeFPS) Unity引擎实现的一款FPS游戏，实现《使命召唤4》训练靶场关卡
+- [GameKit](https://github.com/FirstGearGames/GameKit) Pre-built commonly needed gameplay elements, with examples. Developed for Fish-Networking.
 ## Programmer-Common-Tool
 - https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
