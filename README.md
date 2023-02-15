@@ -62,6 +62,7 @@ Table of Contents
     - [Normal-Map](#normal-map)
     - [Texture-Compression](#texture-compression)
     - [Texture-Tool](#texture-tool)
+    - [Animation2Shader](#animation2shader)
     - [Atlas](#atlas)
 - [Animation](#animation)
     - [Article/Collection](#articlecollection)
@@ -1153,13 +1154,14 @@ Table of Contents
 - [texturecauldron](https://soerbgames.itch.io/texturecauldron) Texture Cauldron is a node based tool to generate detailed able textures.
 - [filterforge](https://filterforge.com/) Mighty graphics software with thousands of photo effects and seamless textures, and an editor to create your own filters.
 - https://github.com/caosdoar/Fornos
-- [material-animation-curve](https://gist.github.com/ghysc/b4f9b3266ee82edf2b02e00cef0bc6b7) A Material Property Drawer for the Curve attribute which lets you edit curves and adds them to the shader as textures
-- https://github.com/asus4/unity-texture-curve
-- [Curves-And-Gradients-To-Texture](https://github.com/RoyTheunissen/Curves-And-Gradients-To-Texture) Contains utilities for defining a curve or gradient in the inspector and automatically generating a texture for that to pass on to shaders.
-- [GradientTexture](https://github.com/mitay-walle/GradientTexture)
-- [SDF-LightMap](https://github.com/qjh5606/SDF-LightMap) 实现了基于SDF的卡通阴影图生成
 - [BakeShader](https://github.com/Cyanilux/BakeShader) Unity editor tool for baking shaders to textures. Blit2D, Blit3D, or MeshRenderer (uses model UV). Adds options to Material & MeshRenderer context menus and Editor Window (under Window/Cyanilux/BakeShader)
 - [UnityTexture2DArrayImportPipeline](https://github.com/pschraut/UnityTexture2DArrayImportPipeline) A Texture2DArray Import Pipeline for Unity 2019.3 and newer.
+#### Animation2Shader
+- [VatBaker](https://github.com/fuqunaga/VatBaker) A tool to bake VAT (Vertex Animation Texture) from AnimationClip with sample shaders for Unity.
+- [material-animation-curve](https://gist.github.com/ghysc/b4f9b3266ee82edf2b02e00cef0bc6b7) A Material Property Drawer for the Curve attribute which lets you edit curves and adds them to the shader as textures
+- [unity-texture-curve](https://github.com/asus4/unity-texture-curve) Example showing how to bake an AnimatedCurve into a Texture and use it in a shader
+- [Curves-And-Gradients-To-Texture](https://github.com/RoyTheunissen/Curves-And-Gradients-To-Texture) Contains utilities for defining a curve or gradient in the inspector and automatically generating a texture for that to pass on to shaders.
+- [GradientTexture](https://github.com/mitay-walle/GradientTexture) Unity Gradient Texture generator
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -1271,6 +1273,7 @@ Table of Contents
 -  https://github.com/ycarowr/UiCard
 -  https://github.com/IainS1986/UnityCoverFlow
 -  https://github.com/CragonGame/CasinosClient
+- [Unity-Proportional-Navigation-Collection](https://github.com/Woreira/Unity-Proportional-Navigation-Collection) A collection of PN guidance systems, in Unity
 #### Interaction
 - [istep](https://assetstore.unity.com/packages/tools/animation/istep-215843)
 - [interactor-interaction-handler-for-ik](https://assetstore.unity.com/packages/tools/animation/interactor-interaction-handler-for-ik-178062)
@@ -1321,7 +1324,7 @@ Table of Contents
 - [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller)
 - [2D-Character-Controller](https://github.com/Brackeys/2D-Character-Controller)
 - [UnityAdvancedFPSCharacterController](https://github.com/NecroMarX/UnityAdvancedFPSCharacterController)
-- [Unity-Proportional-Navigation-Collection](https://github.com/Woreira/Unity-Proportional-Navigation-Collection) A collection of PN guidance systems, in Unity
+
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 - [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
@@ -1546,6 +1549,7 @@ Table of Contents
 - [GameExtractor](https://github.com/wattostudios/GameExtractor) Reads and writes thousands of different archive and image formats used in games.
 - [puyotools]( https://github.com/nickworonekin/puyotools) Puyo Tools is a collection of tools and libraries used to access the contents of various game files. Although it was initially built to handle files used in Puyo Puyo games, it can handle files used in other games as well
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
+- https://github.com/uustory/u-mpq
 - [GameReverseNote](https://github.com/TonyChen56/GameReverseNote)
 - https://github.com/super-continent/game-reversing-resources
 - https://github.com/dsasmblr/game-hacking/
@@ -3143,6 +3147,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [从零开始的原神角色渲染](https://zhuanlan.zhihu.com/p/468209534)
 - [神作面部阴影渲染还原](https://zhuanlan.zhihu.com/p/361716315)
 - [Unity URP 卡通渲染 原神角色渲染记录-Function-Based Light and Shadow: Emission + SDF脸部阴影](https://zhuanlan.zhihu.com/p/552097741)
+- [SDF-LightMap](https://github.com/qjh5606/SDF-LightMap) 实现了基于SDF的卡通阴影图生成
 - [YuanShen_Face](https://github.com/ipud2/Unity-Basic-Shader/blob/master/YuanShen_Face.shader)
 #### SDF
 - https://github.com/CedricGuillemet/SDF
@@ -4158,6 +4163,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chexiongsheng/XUUI
 - [Unity-RuntimeEditorWindow](https://github.com/994935108/Unity-RuntimeEditorWindow)
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
+- [UI-Toolkit-Plus](https://github.com/ErnSur/UI-Toolkit-Plus)
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/chasinghope/CurveLayoutGroup
 - https://github.com/mitay-walle/com.mitay-walle.ui-circle-segmented
