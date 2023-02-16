@@ -11,8 +11,14 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 ## LOL mobile
 - [谈一谈英雄联盟手游渲染2](https://zhuanlan.zhihu.com/p/286836840)
 ## 原神
+- [GenshinCelShaderURP](https://github.com/Gaolingx/GenshinCelShaderURP)
+- [Unity 原神角色渲染学习](https://zhuanlan.zhihu.com/p/434053030)
+- [【从零到零点一的原神卡渲还原】记录还原的尝试和思考](https://zhuanlan.zhihu.com/p/376094989)
 - [《原神》动作系统拆解与复刻](https://zhuanlan.zhihu.com/p/588726929)
+- [Unity URP 卡通渲染 原神角色渲染记录](https://zhuanlan.zhihu.com/p/551104542)
+- [原神角色渲染还原](https://zhuanlan.zhihu.com/p/547129280)
 - [浅谈《原神》中的图形渲染技术](https://blog.csdn.net/weixin_44176696/article/details/114176844?)
+- [TA技术美术-原神角色还原学习笔记](https://zhuanlan.zhihu.com/p/511540455)
 - [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
 - https://www.artstation.com/artwork/wJZ4Gg
 - https://github.com/yaoling1997/GT-ToneMapping
