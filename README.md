@@ -2553,6 +2553,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://parry.rs/
 - https://rapier.rs/
 - https://github.com/fxredeemer/jitterphysics
+- https://github.com/jrouwe/JoltPhysics
 - https://github.com/irlanrobson/bounce
 #### Physics BOOKS
 - [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
@@ -4107,6 +4108,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.albahari.com/threading
 - https://www.zhihu.com/question/554133167/answer/2690808608
 - https://github.com/timcassell/ProtoPromise
+- https://github.com/Enderlook/Unity-Threading
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
 - https://github.com/Cysharp/UniTask
 - https://github.com/Arvtesh/UnityFx.Async
@@ -4246,6 +4248,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [fast-script-reload-239351](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351) unity-plugin
 - [hotreload](https://hotreload.net/) and his free version [gitlab-freeVersion](https://gitlab.com/singularitygroup/hot-reload-for-unity) [github-freeVersion](https://github.com/pancake-llc/hot-reload)
 - [BuildingHotReloadForUnity](https://github.com/handzlikchris/BuildingHotReloadForUnity)
+- [editoriterationprofiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler) Assists in capturing frames from the Profiler of Domain Reloads in the Unity Editor. Compatible with Unity 2019.3
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
