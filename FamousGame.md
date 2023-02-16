@@ -70,3 +70,5 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - [崩坏3卡通渲染完全攻略](https://www.bilibili.com/video/BV1pt411w7jX)
 ## Diablerie
 - [Diablo 2 reimplementation on unity ](https://github.com/mofr/Diablerie)
+## 和平精英
+- [UE4项目《和平精英》渲染技术浅析](https://www.magesbox.com/article/detail/id/991.html)
