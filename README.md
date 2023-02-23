@@ -295,7 +295,7 @@ Table of Contents
     - [Timeline](#timeline)
     - [TextureStreaming](#texturestreaming)
     - [Util](#util)
-    - [Code-Reload](#code-reload)
+    - [Code-Reload\&\&Unity-Editor-Compiler](#code-reloadunity-editor-compiler)
     - [Windows-Show](#windows-show)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Drawing](#drawing)
@@ -1867,6 +1867,7 @@ Table of Contents
 - https://github.com/LambdaTheDev/NetworkAudioSync
 - https://github.com/dz0039/NetworkPhysics
 - https://github.com/GiovanniZambiasi/Client-Side-Prediction
+- https://github.com/bluejayboy/Unity-Network-Prediction
 * [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
 * https://github.com/atrakeur/unity-unet-authoritative-networking 
 #### Library
@@ -2152,6 +2153,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [NewLife.Net](https://github.com/NewLifeX/NewLife.Net) 单机吞吐2266万tps的网络通信框架
 * [TouchSocket](https://github.com/RRQM/TouchSocket)  TouchSocket是 C# 的一个整合性的、超轻量级的网络通信框架。包含了 tcp、udp、ssl、http、websocket、rpc、jsonrpc、webapi、xmlrpc等一系列的通信模块。一键式解决 TCP 黏分包问题，udp大数据包分片组合问题等。使用协议模板，可快速实现「固定包头」、「固定长度」、「区间字符」等一系列的数据报文解析。
 * [Netcode.IO.NET](https://github.com/GlaireDaggers/Netcode.IO.NET) A pure managed C# implementation of the Netcode.IO spec
+* [Nethostfire](https://github.com/treviasxk/Nethostfire) Nethostfire is a UDP server/client created with C# (netstandard2.0), it's a simple and easy-to-understand project, with it you can set up your game server, video calls, file transfers and more.
 
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
@@ -2638,8 +2640,6 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
 - [UnityMemorySnapshotThing](https://github.com/SamboyCoding/UnityMemorySnapshotThing) Tool to work with unity memory snapshots
 - [uwa4d](https://www.uwa4d.com/)
-- [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
-- [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
 - [selective-profiling](https://github.com/needle-tools/selective-profiling) Selectively deep profile code in Unity
 - [optick](https://github.com/bombomby/optick) Optick is a super-lightweight C++ profiler for Games.
 It provides access for all the necessary tools required for efficient performance analysis and optimization:
@@ -3172,6 +3172,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [A Dataset and Explorer for 3D Signed Distance Functions](https://jcgt.org/published/0011/02/01/)
 * [sdf-explorer](https://github.com/tovacinni/sdf-explorer)
 * https://github.com/rgl-epfl/differentiable-sdf-rendering
+* [mesh-to-sdf](https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf)
 #### SphericalHarmonicLighting/CubeMap/Probes
 - [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 - https://github.com/wlgys8/SHLearn 
@@ -4242,13 +4243,16 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Baste-RainGames/PlayerLoopInterface
 - https://github.com/williamrjackson/UnityScriptingUtilities
 
-#### Code-Reload
+#### Code-Reload&&Unity-Editor-Compiler
 - [unity-domain-reload-helper](https://github.com/joshcamas/unity-domain-reload-helper)
 - [UnityScriptHotReload](https://github.com/Misaka-Mikoto-Tech/UnityScriptHotReload)
 - [fast-script-reload-239351](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351) unity-plugin
 - [hotreload](https://hotreload.net/) and his free version [gitlab-freeVersion](https://gitlab.com/singularitygroup/hot-reload-for-unity) [github-freeVersion](https://github.com/pancake-llc/hot-reload)
 - [BuildingHotReloadForUnity](https://github.com/handzlikchris/BuildingHotReloadForUnity)
 - [editoriterationprofiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler) Assists in capturing frames from the Profiler of Domain Reloads in the Unity Editor. Compatible with Unity 2019.3
+- [CSharpCompilerSettingsForUnity](https://github.com/mob-sakai/CSharpCompilerSettingsForUnity)
+- [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
+- [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
