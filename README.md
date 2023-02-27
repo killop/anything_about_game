@@ -252,7 +252,7 @@ Table of Contents
 - [Interview/DataStruct-Algorithms](#interviewdatastruct-algorithms)
     - [Article](#article-5)
 - [Operating-System](#operating-system)
-- [Bad World Filter](#bad-world-filter)
+- [Bad Words Filter](#bad-words-filter)
 - [高性能数据结构和算法](#高性能数据结构和算法)
     - [MMO](#mmo)
     - [OC](#oc)
@@ -310,7 +310,7 @@ Table of Contents
     - [Voxel](#voxel-1)
     - [Fog](#fog)
     - [Volumetric Mesh](#volumetric-mesh)
-    - [VolumetricClouds](#volumetricclouds)
+    - [VolumetricClouds\&\&Atmospheric](#volumetriccloudsatmospheric)
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
     - [Material-Cleaner](#material-cleaner)
@@ -1757,6 +1757,7 @@ Table of Contents
 - [wind](https://github.com/ferris1/wind) Wind是一款面向云的高性能、高效率以及高扩展性的分布式游戏服务器引擎框架
 - [seastar](https://github.com/scylladb/seastar) High performance server-side application framework
 - [SLikeNet](https://github.com/SLikeSoft/SLikeNet)  SLikeNet is an Open Source/Free Software cross-platform network engine written in C++ and specifially designed for games
+- [Summer](https://github.com/SwingFrog/Summer)
 #### Article
 - [网络游戏的进阶架构](https://zhuanlan.zhihu.com/p/565731139）
 - [游戏网络同步绿皮书](https://zhuanlan.zhihu.com/p/565875153)
@@ -2194,6 +2195,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源 
 #### 2D Engines and Frameworks
+- [Ambient](https://github.com/AmbientRun/Ambient) The multiplayer game engine
 - [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 - [Skybolt](https://github.com/Piraxus/Skybolt) Planetary rendering engine and aerospace simulation tools
 * [Agen](http://2dengine.com/page.php?p=features) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
@@ -3536,6 +3538,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
 - https://github.com/EmmetOT/BufferSorter
 - https://github.com/hiroakioishi/UnityGPUBitonicSort
+- https://github.com/ruccho/BitonicPixelSorter
 - https://github.com/krylov-na/Compute-shader-particles
 - https://github.com/IRCSS/Procedural-painting
 - https://github.com/keijiro/Swarm
@@ -3717,12 +3720,13 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [打开线程 | 进程 | 协程的大门 ](https://mp.weixin.qq.com/s/RLlNHgW6ilMqoFVHXf6x6g)   
 
 
-## Bad World Filter
+## Bad Words Filter
 - [bad-word-filter](https://assetstore.unity.com/packages/tools/localization/bad-word-filter-pro-26255) unity-plugin
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
 - https://github.com/NewbieGameCoder/IllegalWordsDetection 敏感词过滤
 - https://github.com/871041532/ZMatchForLua
-
+- https://github.com/yuanjie-ai/ChineseSensitiveVocabulary 敏感词库
+ 
 
 ## 高性能数据结构和算法
 - [Arithmetics](https://github.com/Lombiq/Arithmetics) Next-generation arithmetic implementations, improved floating point number types for .NET, written in C#. Includes the following number types:
@@ -4187,6 +4191,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
 - [UnityUiParticles](https://github.com/ken48/UnityUiParticles)
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
+- [Sample file of Unity SYNC2022 "Rich UI effects created with shader and animation"](https://github.com/applibot-inc/sync2022-ui-sample-techbot)
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
 - [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results 
 - [UnityUIOptimizationTool](https://github.com/JoanStinson/UnityUIOptimizationTool)
@@ -4412,10 +4417,12 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [FogOfWar](https://github.com/QinZhuo/FogOfWar_ForUnity) unity实现的基于视野的战争迷雾
 #### Volumetric Mesh
 -  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
-####  VolumetricClouds
+####  VolumetricClouds&&Atmospheric
 - https://github.com/vanish87/UnityVolumetricCloud
 - https://github.com/adrianpolimeni/RealTimeVolumetricClouds
 - https://github.com/Raphael2048/URP_SkyAtmosphere_VolumetricClouds
+- https://github.com/ebruneton/precomputed_atmospheric_scattering
+- https://github.com/Reguluz/Moonflow-Lensflare-System
 #### Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
