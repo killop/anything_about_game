@@ -3256,6 +3256,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/gasgiant/Markup-Attributes
 * https://github.com/JasonMa0012/LWGUI
 * https://github.com/Thryrallo/ThryEditor
+* https://github.com/Straw1997/UnityCustomShaderGUI
 * https://github.com/ipud2/Unity-Basic-Shader/tree/master/SimpleShaderGUI
 * [shader-graph-markdown](https://assetstore.unity.com/packages/tools/gui/shader-graph-markdown-194781)
 * [OpenGraphGUI](https://github.com/RobProductions/OpenGraphGUI)
