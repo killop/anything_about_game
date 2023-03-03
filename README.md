@@ -4536,7 +4536,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
 ## UnityBuild
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
-- [Usdk](~~https://github.com/honghuachen/Usdk~~) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
+- [Usdk](https://github.com/honghuachen/Usdk) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
+  [Game-ci](https://github.com/game-ci)自动测试和构建游戏项目的最快、最简单的方法
 - https://github.com/UNSH/Unity-Apple-Distribution-Workflow
 - https://github.com/tylearymf/UniHacker
 - [buildtool](https://github.com/superunitybuild/buildtool)
