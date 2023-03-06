@@ -582,6 +582,7 @@ Table of Contents
 - [风蚀之月](https://blog.ch-wind.com/) ue ta
 - [aicdg](http://aicdg.com/) cs
 - [xinzhuzi](https://xinzhuzi.github.io) unity 程序员
+- [x-tesla](https://www.zhihu.com/people/x-tesla/) 神的知乎
 - [Dezeming family ](https://dezeming.top/) 光线追踪
 - [只剩一瓶辣椒酱](https://space.bilibili.com/35723238)  b站 blender 教程
 - [庄懂-BoyanTat](https://space.bilibili.com/6373917/video) b站 美术向TA
@@ -1457,6 +1458,7 @@ Table of Contents
 * [风格化树——树叶分析与实现](https://zhuanlan.zhihu.com/p/593500186)
 * [unity-geometry-grass-shader](https://github.com/Velorexe/unity-geometry-grass-shader)
 * [TerrainGrassShader](https://github.com/TerraUnity/TerrainGrassShader)
+* [GPUInstanceManager](https://github.com/supremepanda/GPUInstanceManager)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1546,6 +1548,7 @@ Table of Contents
 ## Archive-GameReverse
 
 #### Collection
+- [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
 - [GameExtractor](https://github.com/wattostudios/GameExtractor) Reads and writes thousands of different archive and image formats used in games.
 - [puyotools]( https://github.com/nickworonekin/puyotools) Puyo Tools is a collection of tools and libraries used to access the contents of various game files. Although it was initially built to handle files used in Puyo Puyo games, it can handle files used in other games as well
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
@@ -1674,6 +1677,7 @@ Table of Contents
 * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md)
 * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令。如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。
 * [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！ 
+* [unity-gitattributes](https://gist.github.com/JoaoBorks/9cc68762f5d2f5573c00b3aacbb3a57f)
 
 #### article
 - [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
@@ -4186,7 +4190,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/kirurobo/UniWindowController 
 - https://github.com/liuhaopen/UGUI-Editor
 - https://github.com/zs9024/quick_psd2ugui
-- [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131  
+- [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131)  
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
@@ -4196,6 +4200,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
 - [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results 
 - [UnityUIOptimizationTool](https://github.com/JoanStinson/UnityUIOptimizationTool)
+- [ui-shapes-kit](https://github.com/thisotherthing/ui-shapes-kit)
+- [raganddrop-unity3d](https://github.com/Xander93/draganddrop-unity3d)
 #### UI-Animation
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
@@ -4220,6 +4226,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Util
 - https://github.com/Hertzole/runtime-options-manager
 - https://github.com/joebinns/asteroids-scriptable-objects
+- https://github.com/gilzoide/unity-easy-project-settings
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 - https://github.com/lujian101
 - https://github.com/shinn716/ShinnUtils
@@ -4246,8 +4253,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
 - https://github.com/ehakram/FrameRateBooster
 - https://github.com/stonesheltergames/Unity-GUID
-- https://github.com/Baste-RainGames/PlayerLoopInterface
 - https://github.com/williamrjackson/UnityScriptingUtilities
+- https://github.com/sotanmochi/PlayerLooper
+- https://github.com/Refsa/PlayerLoopInjector
+- https://github.com/Baste-RainGames/PlayerLoopInterface
 
 #### Code-Reload&&Unity-Editor-Compiler
 - [unity-domain-reload-helper](https://github.com/joshcamas/unity-domain-reload-helper)
@@ -4295,6 +4304,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NSprites](https://github.com/Antoshidza/NSprites) DOTS based sprite render system
+* [UnitySpriteGPUInstancing](https://github.com/ownself/UnitySpriteGPUInstancing)
 * [IsoSorting](https://github.com/Sylmerria/IsoSorting) Isometric sorting system for Unity using ECS
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
@@ -4508,6 +4518,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
 - https://github.com/AkiKurisu/Time-Control
 - https://github.com/SitronX/UnityTimeRewinder
+- https://github.com/CyberSys/ChronosTimeControl
 #### Raycast&&Sensor
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 - https://github.com/staggartcreations/Graphics-Raycast/
