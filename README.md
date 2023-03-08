@@ -2521,17 +2521,36 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [lir](https://github.com/Evryway/lir) Largest Interior Rectangle implementation in C# for Unity.
 
 #### Unity-Transform
+- [Unity 和 Unreal 渲染中的坐标变换和跨平台兼容](https://zhuanlan.zhihu.com/p/590584851)
+- [矩阵变换的本质 --- 欧拉角与矩阵与万向锁问题](https://zhuanlan.zhihu.com/p/394141773)
+- [视图变换和投影变换矩阵的原理及推导，以及OpenGL，DirectX和Unity的对应矩阵](https://zhuanlan.zhihu.com/p/362713511)
+- [一篇文章彻底弄懂齐次裁剪](https://zhuanlan.zhihu.com/p/102758967)
+- [计算机图形学六：透视矫正插值和图形渲染管线总结](https://zhuanlan.zhihu.com/p/144331875)
+- [渲染管线中MVP矩阵的推导](https://zhuanlan.zhihu.com/p/373489211)
 - [Unity坐标系变换那些事](https://zhuanlan.zhihu.com/p/438828654)
 - [图形学中常见的数学困惑](https://zhuanlan.zhihu.com/p/413224014)
+- [Unity空间坐标转换的矩阵应用](https://zhuanlan.zhihu.com/p/453431538)
+- [动态与静态欧拉角视角下的万向节死锁（Gimbal Lock）问题](https://zhuanlan.zhihu.com/p/474447990)
+- [对于MVP矩阵变换以及其推导过程浅析](https://zhuanlan.zhihu.com/p/548044461)
+- [计算机图形学:一文读懂透视投影](https://zhuanlan.zhihu.com/p/574538351)
 - [图形学常见的变换推导](http://frankorz.com/2020/07/26/transformation/)
-- [四元数应用——顺序无关的旋转混合](https://zhuanlan.zhihu.com/p/28330428)
-- https://thenumbat.github.io/Exponential-Rotations/
-- https://github.com/Milk-Drinker01/CoR-Skinning
+- [关于unity shader中偏导重建法向量](https://zhuanlan.zhihu.com/p/460718461)
+- [彻底理解投影矩阵（一）](https://zhuanlan.zhihu.com/p/586364840)
+- [彻底理解投影矩阵（二）](https://zhuanlan.zhihu.com/p/586577757)
+- [OpenGL中投影矩阵(Projection Matrix)详解](https://zhuanlan.zhihu.com/p/588659397)
 - [Unity Shader 各个空间坐标的获取方式及xyzw含义](https://zhuanlan.zhihu.com/p/505030222)
 - [decoding-a-projection-matrix](http://xdpixel.com/decoding-a-projection-matrix/)
 - [从MVP矩阵提取Frustum平面](https://zhuanlan.zhihu.com/p/573372287)
 - [Matrix-crash-course](https://github.com/Bunny83/Unity-Articles/blob/master/Matrix%20crash%20course.md)
 - [《RTR4》第4章 变换（Transforms）（上）](https://zhuanlan.zhihu.com/p/447927462)
+- [为什么Unity3d旋转默认采用了有万向节死锁的欧拉角，而不用四元数？](https://www.zhihu.com/question/321381903/answer/667753991)
+- [Unity从深度缓冲重建世界空间位置](https://zhuanlan.zhihu.com/p/92315967)
+- [可视化理解四元数，愿你不再掉头发](https://zhuanlan.zhihu.com/p/53872740)
+- [四元数与旋转](https://zhuanlan.zhihu.com/p/442146306) 
+- [四元数应用——顺序无关的旋转混合](https://zhuanlan.zhihu.com/p/28330428)
+- https://github.com/Krasjet/quaternion
+- https://thenumbat.github.io/Exponential-Rotations/
+- https://github.com/Milk-Drinker01/CoR-Skinning 
 ##  Physics
 #### Physics Framework
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
