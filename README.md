@@ -2471,6 +2471,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [MathLibrary](https://github.com/db300/MathLibrary)   数学计算相关类库
 - [Unity.Mathematics-Extensions](https://github.com/LTMX/Unity.Mathematics-Extensions)
 #### Math-Tool
+- [awesome-manim](https://github.com/ManimCommunity/awesome-manim)
+- [manim](https://github.com/ManimCommunity/manim)
 - [Shadershop](http://tobyschachman.com/Shadershop/editor/)
 - [wolframalpha](https://www.wolframalpha.com)
 - [geogebra](https://www.geogebra.org/)
@@ -2540,6 +2542,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [OpenGL中投影矩阵(Projection Matrix)详解](https://zhuanlan.zhihu.com/p/588659397)
 - [Unity Shader 各个空间坐标的获取方式及xyzw含义](https://zhuanlan.zhihu.com/p/505030222)
 - [decoding-a-projection-matrix](http://xdpixel.com/decoding-a-projection-matrix/)
+- [Unity_ShaderMatrixHacks](https://github.com/XJINE/Unity_ShaderMatrixHacks)
 - [从MVP矩阵提取Frustum平面](https://zhuanlan.zhihu.com/p/573372287)
 - [Matrix-crash-course](https://github.com/Bunny83/Unity-Articles/blob/master/Matrix%20crash%20course.md)
 - [《RTR4》第4章 变换（Transforms）（上）](https://zhuanlan.zhihu.com/p/447927462)
@@ -4150,7 +4153,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity的内存管理与性能优化](https://zhuanlan.zhihu.com/p/362941227)
 - [Unity2019新特性增量式垃圾回收[译文]](https://www.bilibili.com/read/cv3260881)
 - [浅谈 Unity 内存管理](https://www.notion.so/Unity-f79bb1d4ccfc483fbd8f8eb859ae55fe)
-- [[Unity 活动]-浅谈Unity内存管理](https://www.bilibili.com/video/av79798486/)
+- [Unity 活动-浅谈Unity内存管理](https://www.bilibili.com/video/av79798486/)
 - [解读MONO内存管理：BOEHM GC原理及总结](https://zhuanlan.zhihu.com/p/41398507)
 - [.NET内存性能分析指南](https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html)
 #### Asyn-Await
