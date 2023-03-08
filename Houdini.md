@@ -20,3 +20,4 @@
 - https://github.com/Bonjour-Interactive-Lab/Unity3D-VATUtils
 - https://github.com/metaaaa/AlembicToVAT
 - https://github.com/Gaxil/Unity-AlembicToVAT
+- https://github.com/lex-ikoon/qq

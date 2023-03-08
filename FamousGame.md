@@ -42,6 +42,8 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - https://github.com/Razmoth/MiHoYoAssets
 - https://github.com/khang06/Il2CppDumper-YuanShen
 - https://github.com/CallowBlack/Il2CppInspector-Genshin
+- https://github.com/YuiLu/GenshinCharacterShading
+- https://github.com/ashyukiha/GenshinCharacterShaderZhihuVer
 - https://github.com/keowu/mhyprot2
 - https://github.com/Dimbreath/GenshinData
 - https://github.com/Razmoth/HoYoStudio

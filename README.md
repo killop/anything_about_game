@@ -873,6 +873,7 @@ Table of Contents
 - https://github.com/3DFaceBody/awesome-3dbody-papers
 - https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
 - https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
+- https://github.com/mochi-neko/ChatGPT-API-unity
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
 *  [MagicaVoxel](https://ephtracy.github.io/)
@@ -932,6 +933,7 @@ Table of Contents
 * [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt
 * [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
 * [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media
+* [BlazePoseBarracuda](https://github.com/creativeIKEP/BlazePoseBarracuda)
 * [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics
 * [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
 - https://www.vegaschina.cn
@@ -1191,6 +1193,7 @@ Table of Contents
 - [mixamo](https://www.mixamo.com/#/)
 
 #### GPU-Animation
+- [GPU-Skinning-Demo](https://github.com/Minghou-Lei/GPU-Skinning-Demo)
 - [Unity-Gpu-Skinning-Tool](https://github.com/ForeverZack/Unity-Gpu-Skinning-Tool)
 - [Animation-Texture-Bake](https://github.com/sugi-cho/Animation-Texture-Baker)
 - [GPU_Mesh_Instancing](https://github.com/studentutu/GPU_Mesh_Instancing)
@@ -1303,6 +1306,7 @@ Table of Contents
 - [uPlayableAnimation](https://github.com/EricHu33/uPlayableAnimation)
 - [Vortex](https://github.com/kaiyumcg/Vortex) Play/blend animations, animator controllers in runtime. Uses playable API
 #### Character-Controller
+- [GenshinImpactMovementSystem](https://github.com/JiaoziDani/GenshinImpactMovementSystem)
 - [rival](https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-for-unity-225129) Unity Plugin
 - [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
@@ -1459,6 +1463,7 @@ Table of Contents
 * [unity-geometry-grass-shader](https://github.com/Velorexe/unity-geometry-grass-shader)
 * [TerrainGrassShader](https://github.com/TerraUnity/TerrainGrassShader)
 * [GPUInstanceManager](https://github.com/supremepanda/GPUInstanceManager)
+* [ways-to-render-1M-cubes](https://github.com/GeorgeAdamon/ways-to-render-1M-cubes)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1562,6 +1567,7 @@ Table of Contents
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
+* [UABEA](https://github.com/nesrak1/UABEA) Cross-platform Asset Bundle/Serialized File reader and writer. Originally based on (but not a fork of) UABE.
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact
 * [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
 
@@ -1872,9 +1878,12 @@ Table of Contents
 - https://github.com/LambdaTheDev/NetworkAudioSync
 - https://github.com/dz0039/NetworkPhysics
 - https://github.com/GiovanniZambiasi/Client-Side-Prediction
+- https://github.com/TheVypur/UnityMovementPrediction
 - https://github.com/bluejayboy/Unity-Network-Prediction
 * [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
 * https://github.com/atrakeur/unity-unet-authoritative-networking 
+* https://github.com/FlameskyDexive/Legends-Of-Heroes
+* https://github.com/wqaetly/NKGMobaBasedOnET
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -1943,6 +1952,7 @@ Table of Contents
 - https://github.com/Unity-Technologies/Megacity-Sample
 - https://github.com/decentraland/unity-renderer
 - https://github.com/CesiumGS/cesium-unity
+
 ## DataBase
 - https://github.com/dolthub/dolt
 #### c#
@@ -1966,26 +1976,26 @@ Table of Contents
 
 #### C/C++
 
-* anax - Open source C++ entity system [[github](https://github.com/miguelmartin75/anax) ![miguelmartin75/anax](https://img.shields.io/github/stars/miguelmartin75/anax.svg?style=flat&label=Star&maxAge=86400)]
-* ECS - C++ single-header entity component system library [[github](https://github.com/redxdev/ECS) ![redxdev/ECS](https://img.shields.io/github/stars/redxdev/ECS.svg?style=flat&label=Star&maxAge=86400)]
-* ecs.hpp - A single header C++14 entity component system library [[github](https://github.com/BlackMATov/ecs.hpp) ![BlackMATov/ecs.hpp](https://img.shields.io/github/stars/BlackMATov/ecs.hpp.svg?style=flat&label=Star&maxAge=86400)]
-* ecst - Experimental C++14 multithreaded compile-time entity-compnent-system library [[github](https://github.com/SuperV1234/ecst) ![SuperV1234/ecst](https://img.shields.io/github/stars/SuperV1234/ecst.svg?style=flat&label=Star&maxAge=86400)]
-* EntityFu - A simple, fast entity component system written in C++ [[github](https://github.com/NatWeiss/EntityFu) ![NatWeiss/EntityFu](https://img.shields.io/github/stars/NatWeiss/EntityFu.svg?style=flat&label=Star&maxAge=86400)]
-* EntityPlus - C++14 entity component system [[github](https://github.com/Yelnats321/EntityPlus) ![Yelnats321/EntityPlus](https://img.shields.io/github/stars/Yelnats321/EntityPlus.svg?style=flat&label=Star&maxAge=86400)]
-* EntityX - Fast, type-safe C++ entity component system [[github](https://github.com/alecthomas/entityx) ![alecthomas/entityx](https://img.shields.io/github/stars/alecthomas/entityx.svg?style=flat&label=Star&maxAge=86400)]
-* entt - Fast and reliable entity-component system [[github](https://github.com/skypjack/entt) ![skypjack/entt](https://img.shields.io/github/stars/skypjack/entt.svg?style=flat&label=Star&maxAge=86400)]
-* Flecs - A Multithreaded Entity Component System written for C89 & C99 [[github](https://github.com/SanderMertens/flecs) ![SanderMertens/flecs](https://img.shields.io/github/stars/SanderMertens/flecs.svg?style=flat&label=Star&maxAge=86400)]
-* goomy - A tiny, experimental ECS framework [[github](https://github.com/vberlier/goomy) ![vberlier/goomy](https://img.shields.io/github/stars/vberlier/goomy.svg?style=flat&label=Star&maxAge=86400)]
-* Kengine - Type-safe and self-documenting implementation of an Entity-Component-System [[github](https://github.com/phisko/kengine) ![phisko/kengine](https://img.shields.io/github/stars/phisko/kengine.svg?style=flat&label=Star&maxAge=86400)]
-* matter - C++17/20 ECS implementation [[github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)]
+* anax - Open source C++ entity system [github](https://github.com/miguelmartin75/anax) ![miguelmartin75/anax](https://img.shields.io/github/stars/miguelmartin75/anax.svg?style=flat&label=Star&maxAge=86400)
+* ECS - C++ single-header entity component system library [github](https://github.com/redxdev/ECS) ![redxdev/ECS](https://img.shields.io/github/stars/redxdev/ECS.svg?style=flat&label=Star&maxAge=86400)
+* ecs.hpp - A single header C++14 entity component system library [github](https://github.com/BlackMATov/ecs.hpp) ![BlackMATov/ecs.hpp](https://img.shields.io/github/stars/BlackMATov/ecs.hpp.svg?style=flat&label=Star&maxAge=86400)
+* ecst - Experimental C++14 multithreaded compile-time entity-compnent-system library [github](https://github.com/SuperV1234/ecst) ![SuperV1234/ecst](https://img.shields.io/github/stars/SuperV1234/ecst.svg?style=flat&label=Star&maxAge=86400)
+* EntityFu - A simple, fast entity component system written in C++ [github](https://github.com/NatWeiss/EntityFu) ![NatWeiss/EntityFu](https://img.shields.io/github/stars/NatWeiss/EntityFu.svg?style=flat&label=Star&maxAge=86400)
+* EntityPlus - C++14 entity component system [github](https://github.com/Yelnats321/EntityPlus) ![Yelnats321/EntityPlus](https://img.shields.io/github/stars/Yelnats321/EntityPlus.svg?style=flat&label=Star&maxAge=86400)
+* EntityX - Fast, type-safe C++ entity component system [github](https://github.com/alecthomas/entityx) ![alecthomas/entityx](https://img.shields.io/github/stars/alecthomas/entityx.svg?style=flat&label=Star&maxAge=86400)
+* entt - Fast and reliable entity-component system [github](https://github.com/skypjack/entt) ![skypjack/entt](https://img.shields.io/github/stars/skypjack/entt.svg?style=flat&label=Star&maxAge=86400)
+* Flecs - A Multithreaded Entity Component System written for C89 & C99 [github](https://github.com/SanderMertens/flecs) ![SanderMertens/flecs](https://img.shields.io/github/stars/SanderMertens/flecs.svg?style=flat&label=Star&maxAge=86400)
+* goomy - A tiny, experimental ECS framework [github](https://github.com/vberlier/goomy) ![vberlier/goomy](https://img.shields.io/github/stars/vberlier/goomy.svg?style=flat&label=Star&maxAge=86400)
+* Kengine - Type-safe and self-documenting implementation of an Entity-Component-System [github](https://github.com/phisko/kengine) ![phisko/kengine](https://img.shields.io/github/stars/phisko/kengine.svg?style=flat&label=Star&maxAge=86400)
+* matter - C++17/20 ECS implementation [github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)
 
 #### C#
 - [Entitas](https://github.com/sschmid/Entitas) Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 - [Ecstasy](https://github.com/neon-age/Ecstasy) Simplest powerful ECS for Unity. Flexible and fast. Works w/ Burst
 - [KECS](https://github.com/ludaludaed/KECS/) KECS is a fast and easy C# Entity Component System framework for writing your own games.
 - https://github.com/PixeyeHQ/actors - ecs框架，代码不错
-* DefaultEcs - ECS for syntax and usage simplicity with maximum performance [[github](https://github.com/Doraku/DefaultEcs) ![Doraku/DefaultEcs](https://img.shields.io/github/stars/Doraku/DefaultEcs.svg?style=flat&label=Star&maxAge=86400)]
-* Svelto.ECS - Lightweight data oriented entity component system framework [[github](https://github.com/sebas77/Svelto.ECS) ![sebas77/Svelto.ECS](https://img.shields.io/github/stars/sebas77/Svelto.ECS.svg?style=flat&label=Star&maxAge=86400)] and here is a [example](https://github.com/sebas77/Svelto.MiniExamples)
+* DefaultEcs - ECS for syntax and usage simplicity with maximum performance [github](https://github.com/Doraku/DefaultEcs) ![Doraku/DefaultEcs](https://img.shields.io/github/stars/Doraku/DefaultEcs.svg?style=flat&label=Star&maxAge=86400)
+* Svelto.ECS - Lightweight data oriented entity component system framework [github](https://github.com/sebas77/Svelto.ECS) ![sebas77/Svelto.ECS](https://img.shields.io/github/stars/sebas77/Svelto.ECS.svg?style=flat&label=Star&maxAge=86400) and here is a [example](https://github.com/sebas77/Svelto.MiniExamples)
 * [Hydrogen.Entities](https://github.com/periodyctom/Hydrogen.Entities) - A collection of helpers for work with Unity's ECS framework, used in our games.
 * [Morpeh](https://github.com/X-Crew/Morpeh) ECS Framework for Unity Game Engine.
 * https://github.com/hdmmY/BillionsUnit
@@ -1998,11 +2008,11 @@ Table of Contents
 * [ecsrx.unity](https://github.com/EcsRx/ecsrx.unity) A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems. 
 * [morpeh](https://github.com/scellecs/morpeh) Fast and Simple Entity Component System (ECS) Framework for Unity Game Engine 
 #### Python
-* esper - A lightweight Entity System for Python [[github](https://github.com/benmoran56/esper) ![benmoran56/esper](https://img.shields.io/github/stars/benmoran56/esper.svg?style=flat&label=Star&maxAge=86400)]
+* esper - A lightweight Entity System for Python [github](https://github.com/benmoran56/esper) ![benmoran56/esper](https://img.shields.io/github/stars/benmoran56/esper.svg?style=flat&label=Star&maxAge=86400)
 
 #### Rust
-* Shipyard - Entity Component System written in Rust [[github](https://github.com/leudz/shipyard) ![leudz/shipyard](https://img.shields.io/github/stars/leudz/shipyard.svg?style=flat&label=Star&maxAge=86400)]
-* Specs - Parallel entity component system written in Rust [[github](https://github.com/slide-rs/specs) ![slide-rs/specs](https://img.shields.io/github/stars/slide-rs/specs.svg?style=flat&label=Star&maxAge=86400)]
+* Shipyard - Entity Component System written in Rust [github](https://github.com/leudz/shipyard) ![leudz/shipyard](https://img.shields.io/github/stars/leudz/shipyard.svg?style=flat&label=Star&maxAge=86400)
+* Specs - Parallel entity component system written in Rust [github](https://github.com/slide-rs/specs) ![slide-rs/specs](https://img.shields.io/github/stars/slide-rs/specs.svg?style=flat&label=Star&maxAge=86400)
 
 #### Lua
 - https://github.com/bakpakin/tiny-ecs 
@@ -2145,6 +2155,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [TurtlePass](https://github.com/DanielSnd/TurtlePass) Turtle Pass is an addon for Fishnet that allows you to send large byte arrays over several frames so it doesn't overwhelm more limiting transports like FishySteamworks and FishyUtp
 * [NetworkTilemap](https://github.com/celojevic/NetworkTilemap) Networked tilemap synchronizer for FishNet.
 * [FishNet-ThirdPersonPrediction](https://github.com/RidefortGames/FishNet-ThirdPersonPrediction)
+* [UnityCustomRaycastVehicle](https://github.com/Roceh/UnityCustomRaycastVehicle)
 * [RVPFishNet-Multiplayer-Car-Controller](https://github.com/Roceh/RVPFishNet-Multiplayer-Car-Controller)
 * [NetworkParticleSystem](- https://github.com/celojevic/NetworkParticleSystem)
 * [NetworkPositionSync](https://github.com/James-Frowen/NetworkPositionSync) Network Transform using Snapshot Interpolation and other techniques to best sync position and rotation over the network.
@@ -2458,6 +2469,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [geogram](https://github.com/BrunoLevy/geogram) c++ a programming library with geometric algorithms
 - [FastMath](https://github.com/wiu-wiu/FastMath) C# library with very fast but not very accurate realisations of System.Math methods.
 - [MathLibrary](https://github.com/db300/MathLibrary)   数学计算相关类库
+- [Unity.Mathematics-Extensions](https://github.com/LTMX/Unity.Mathematics-Extensions)
 #### Math-Tool
 - [Shadershop](http://tobyschachman.com/Shadershop/editor/)
 - [wolframalpha](https://www.wolframalpha.com)
@@ -3212,8 +3224,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity3D之DrawCalls、Batches和SetPassCalls的关系](https://blog.csdn.net/Wei_Yuan_2012/article/details/88677172?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
 - [网易技术美术总监：深度解析次世代手游的贴图与着色技巧 [UNITE SHANGHAI 2017qq.]](https://connect.unity.com/p/wang-yi-ji-zhu-mei-zhu-zong-jian-shen-du-jie-xi-ci-shi-dai-shou-you-de-tie-tu-yu-zhao-se-ji-qiao-unite-shanghai-2017)
 - [一口气解决RenderQueue、Ztest、Zwrite、AlphaTest、AlphaBlend和Stencil](https://zhuanlan.zhihu.com/p/28557283)
+- [渲染杂谈：early-z、z-culling、hi-z、z-perpass到底是什么？](https://zhuanlan.zhihu.com/p/389396050)
 - [Unity中影响渲染顺序的因素总结](https://zhuanlan.zhihu.com/p/55762351)
-- [[2017.8]半透明的绘制顺序与接收阴影问题](https://zhuanlan.zhihu.com/p/113399133)
+- [2017.8]半透明的绘制顺序与接收阴影问题](https://zhuanlan.zhihu.com/p/113399133)
 - [unity 半透明渲染技巧合集](https://zhuanlan.zhihu.com/p/123023614)
 - [关于理解 Premultiplied Alpha 的一些 Tips](https://zhuanlan.zhihu.com/p/344751308)
 - [图形学|shader|用一篇文章理解半透明渲染、透明度测试和混合、提前深度测试并彻底理清渲染顺序。](https://zhuanlan.zhihu.com/p/263566318)
@@ -3558,6 +3571,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/aceyan/Unity3D_PBR_Path_Tracer
 - https://github.com/b0nes164/SimpleComputeShaderHashTable
 - https://github.com/happy-turtle/oit-unity
+- https://github.com/candycat1992/OIT_Lab
+- https://github.com/przemyslawzaworski/Unity-GPU-Based-Tetrahedralization
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -3603,12 +3618,15 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Sylmerria/Spatial-Hashing
 - https://github.com/AdamYuan/SparseVoxelOctree
 - https://github.com/bartofzo/NativeTrees
+- https://github.com/EmmetOT/BoundingVolumeHierarchy
 
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
 - [UnityGPUVectorGraphics](https://github.com/voxell-tech/UnityGPUVectorGraphics)
+- https://github.com/yasuohasegawa/SVGPainterUnity
 #### Post-Process
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
+- https://github.com/AKGWSB/FFTConvolutionBloom
 - https://github.com/tkonexhh/X-PostProcessing-URP
 - https://github.com/GarrettGunnell/Post-Processing
 - https://github.com/xwidghet/StereoCancer
@@ -3962,6 +3980,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [tuyin](http://www.tuyin.org/)
 
 #### Collection
+- [cosmopolitan](https://github.com/jart/cosmopolitan) build-once run-anywhere c library
 - https://langium.org/
 - https://github.com/shining1984/PL-Compiler-Resource
 - https://github.com/alilleybrinker/langs-in-rust
@@ -4004,6 +4023,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) Extension to Unity Engine's Addressables for making it easier to distribute large projects and keep mobile download size small.
 - [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
 - [YooAsset](https://github.com/tuyoogame/YooAsset) 途游 unity3d resource system
+- [WooAsset](https://github.com/OnClick9927/WooAsset)
 - [AssetBundleLoadManager](https://github.com/TonyTang1990/AssetBundleLoadManager)
 - [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) Yet another asset bundle manager for Unity.
 - [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) A rule based addressable asset importer 
@@ -4142,6 +4162,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [XNode](https://github.com/Siccity/xNode)
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
 - [BlueGraph](https://github.com/McManning/BlueGraph)
+- [NewGraph](https://github.com/Gentlymad-Studios/NewGraph)
 
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
@@ -4165,6 +4186,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/gwaredd/UnityMarkdownViewer
+- https://github.com/mitay-walle/com.mitay-walle.text-asset-inspector-edit
 - https://github.com/Wilson403/Html2UnityRich
 - https://github.com/garsonlab/GText
 - https://github.com/redbluegames/unity-text-typer  
@@ -4173,11 +4195,13 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/LudiKha/Graphene
 - https://github.com/ReactUnity/core
 - https://github.com/chexiongsheng/XUUI
+- [GentlyUI](https://github.com/Gentlymad-Studios/GentlyUI) Custom Unity UI solution by Gentlymad Studios.
 - [Unity-RuntimeEditorWindow](https://github.com/994935108/Unity-RuntimeEditorWindow)
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
 - [UI-Toolkit-Plus](https://github.com/ErnSur/UI-Toolkit-Plus)
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/chasinghope/CurveLayoutGroup
+- https://github.com/niwatly/SectorLayoutGroup
 - https://github.com/mitay-walle/com.mitay-walle.ui-circle-segmented
 - https://github.com/506638093/RichText 头顶血条
 - https://github.com/wuxiongbin/uHyperText
@@ -4202,6 +4226,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityUIOptimizationTool](https://github.com/JoanStinson/UnityUIOptimizationTool)
 - [ui-shapes-kit](https://github.com/thisotherthing/ui-shapes-kit)
 - [raganddrop-unity3d](https://github.com/Xander93/draganddrop-unity3d)
+- [SLGDrawLine](https://github.com/871041532/SLGDrawLine) SLG游戏画行军线
 #### UI-Animation
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
@@ -4456,6 +4481,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [find reference2](https://assetstore.unity.com/packages/tools/utilities/find-reference-2-59092)
 - [Unity-Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter)
 - [asset-relations-viewer](https://github.com/innogames/asset-relations-viewer)
+- [InspectorGraph](https://github.com/giantparticlegames/InspectorGraph)
 - [shader control](https://assetstore.unity.com/packages/vfx/shaders/shader-control-74817) 
 - [Asset Hunter PRO](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)
 - [A+ Assets Explorer](https://assetstore.unity.com/packages/tools/utilities/a-assets-explorer-57335)
@@ -4552,6 +4578,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/UNSH/Unity-Apple-Distribution-Workflow
 - https://github.com/tylearymf/UniHacker
 - [buildtool](https://github.com/superunitybuild/buildtool)
+- [unity-build-system](https://github.com/kwnetzwelt/unity-build-system)
 - [u3d](https://github.com/DragonBox/u3d/) fast lane
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
 - [UnitySkipSplash](https://github.com/psygames/UnitySkipSplash) Skip Unity Splash Screen only one script
@@ -4572,6 +4599,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [UnityNativeFilePicker](https://github.com/yasirkula/UnityNativeFilePicker)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
+- https://github.com/136512892/Unity-Multiplayer
 - https://github.com/jynew/jynew
 - [Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) 仙剑奇侠传三（以及外传）C#/Unity实现
 - https://github.com/skyteks
