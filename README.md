@@ -1307,6 +1307,7 @@ Table of Contents
 - [Vortex](https://github.com/kaiyumcg/Vortex) Play/blend animations, animator controllers in runtime. Uses playable API
 #### Character-Controller
 - [GenshinImpactMovementSystem](https://github.com/JiaoziDani/GenshinImpactMovementSystem)
+- [Netick-KCC](https://github.com/Milk-Drinker01/Netick-KCC) An implementation of Kinematic Character Controller with Netick Networking
 - [rival](https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-for-unity-225129) Unity Plugin
 - [UNet-Controller](https://github.com/h33p/UNet-Controller) A CharacterController based controller for Unity's new Networking system
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) unity-plugin
@@ -1932,6 +1933,7 @@ Table of Contents
 - https://jsonhero.io/
 - https://jsoncrack.com/editor
 - https://altearius.github.io/tools/json/index.html
+- https://github.com/nemesissoft/Nemesis.TextParsers
 #### Yaml
 - https://github.com/hadashiA/VYaml
 
@@ -2195,7 +2197,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [UnityFileDownloader](https://github.com/jpgordon00/UnityFileDownloader) Download multiple files at a time in Unity.
 - [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
 - [Downloader](https://github.com/bezzad/Downloader) Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
-- [DownloadFile](https://github.com/GrayGuardian/DownloadFile)基于Unity平台 C#编写的断点续传、多线程下载模块 
+- [DownloadFile](https://github.com/GrayGuardian/DownloadFile)基于Unity平台 C#编写的断点续传、多线程下载模块
+- [BackgroundDownload](https://github.com/Unity-Technologies/BackgroundDownload) 
+- [手游Android端后台下载技术分享](https://zhuanlan.zhihu.com/p/612923726)
 ## GameEngine Design
 #### Collection
 - https://github.com/redorav/public_source_engines
@@ -2828,20 +2832,20 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/sinclairzx81/zero
 - http://www.mitsuba-renderer.org/
 - https://github.com/vurtun/nuklear nuklear-A single-header ANSI C gui library
-- [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [[github](https://github.com/bkaradzic/bgfx) ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social&label=Star&maxAge=2592000)]
-- [bs::framework](https://www.bsframework.io/) - Modern C++14 library for the development of real-time graphical applications  [[github](https://github.com/GameFoundry/bsf) ![GameFoundry/bsf](https://img.shields.io/github/stars/GameFoundry/bsf.svg?style=social&label=Star&maxAge=2592000)]
-- [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [[github](https://github.com/DiligentGraphics/DiligentEngine) ![DiligentGraphics/DiligentEngine](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine.svg?style=social&label=Star&maxAge=2592000)]
-- [Falcor](https://developer.nvidia.com/falcor) - Real-time rendering framework designed specifically for rapid prototyping. [[github](https://github.com/NVIDIAGameWorks/Falcor) ![NVIDIAGameWorks/Falcor](https://img.shields.io/github/stars/NVIDIAGameWorks/Falcor.svg?style=social&label=Star&maxAge=2592000)]
+- [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [github](https://github.com/bkaradzic/bgfx) ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social&label=Star&maxAge=2592000)]
+- [bs::framework](https://www.bsframework.io/) - Modern C++14 library for the development of real-time graphical applications  [github](https://github.com/GameFoundry/bsf) ![GameFoundry/bsf](https://img.shields.io/github/stars/GameFoundry/bsf.svg?style=social&label=Star&maxAge=2592000)]
+- [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [github](https://github.com/DiligentGraphics/DiligentEngine) ![DiligentGraphics/DiligentEngine](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine.svg?style=social&label=Star&maxAge=2592000)]
+- [Falcor](https://developer.nvidia.com/falcor) - Real-time rendering framework designed specifically for rapid prototyping. [github](https://github.com/NVIDIAGameWorks/Falcor) ![NVIDIAGameWorks/Falcor](https://img.shields.io/github/stars/NVIDIAGameWorks/Falcor.svg?style=social&label=Star&maxAge=2592000)]
 
-- [Magnum](https://magnum.graphics/) - Lightweight and modular graphics middleware for games and data visualization. [[github](https://github.com/mosra/magnum) ![mosra/magnum](https://img.shields.io/github/stars/mosra/magnum.svg?style=social&label=Star&maxAge=2592000)]
-- [OGRE3D](https://www.ogre3d.org/) - Scene-oriented flexible 3D engine written in C++. [[bitbucket](https://bitbucket.org/sinbad/ogre)]
-- [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [[github](https://github.com/openscenegraph/OpenSceneGraph) ![openscenegraph/OpenSceneGraph](https://img.shields.io/github/stars/openscenegraph/OpenSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
+- [Magnum](https://magnum.graphics/) - Lightweight and modular graphics middleware for games and data visualization. [github](https://github.com/mosra/magnum) ![mosra/magnum](https://img.shields.io/github/stars/mosra/magnum.svg?style=social&label=Star&maxAge=2592000)]
+- [OGRE3D](https://www.ogre3d.org/) - Scene-oriented flexible 3D engine written in C++. [bitbucket](https://bitbucket.org/sinbad/ogre)]
+- [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [github](https://github.com/openscenegraph/OpenSceneGraph) ![openscenegraph/OpenSceneGraph](https://img.shields.io/github/stars/openscenegraph/OpenSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 - [OptiX](https://developer.nvidia.com/optix) - Application framework for achieving optimal ray tracing performance on the GPU
-- [OSPRay](http://www.ospray.org/) - Ray tracing based rendering engine for high-fidelity visualization. [[github](https://github.com/ospray/OSPRay) ![ospray/OSPRay](https://img.shields.io/github/stars/ospray/OSPRay.svg?style=social&label=Star&maxAge=2592000)]
-- [Polyscope](http://polyscope.run/) - Prototyping-oriented UI for geometric algorithms. [[github](https://github.com/nmwsharp/polyscope) ![nmwsharp/polyscope](https://img.shields.io/github/stars/nmwsharp/polyscope.svg?style=social&label=Star&maxAge=2592000)]
-- [Taichi](http://taichi.graphics/) - Computer graphics R&D infrastructure [[github](https://github.com/yuanming-hu/taichi) ![yuanming-hu/taichi](https://img.shields.io/github/stars/yuanming-hu/taichi.svg?style=social&label=Star&maxAge=2592000)]https://michaelwalczyk.com/
-- The Forge - Cross-platform rendering framework. [[github](https://github.com/ConfettiFX/The-Forge) ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social&label=Star&maxAge=2592000)]
-- [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
+- [OSPRay](http://www.ospray.org/) - Ray tracing based rendering engine for high-fidelity visualization. [github](https://github.com/ospray/OSPRay) ![ospray/OSPRay](https://img.shields.io/github/stars/ospray/OSPRay.svg?style=social&label=Star&maxAge=2592000)]
+- [Polyscope](http://polyscope.run/) - Prototyping-oriented UI for geometric algorithms. [github](https://github.com/nmwsharp/polyscope) ![nmwsharp/polyscope](https://img.shields.io/github/stars/nmwsharp/polyscope.svg?style=social&label=Star&maxAge=2592000)]
+- [Taichi](http://taichi.graphics/) - Computer graphics R&D infrastructure [github](https://github.com/yuanming-hu/taichi) ![yuanming-hu/taichi](https://img.shields.io/github/stars/yuanming-hu/taichi.svg?style=social&label=Star&maxAge=2592000)]https://michaelwalczyk.com/
+- The Forge - Cross-platform rendering framework. [github](https://github.com/ConfettiFX/The-Forge) ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social&label=Star&maxAge=2592000)]
+- [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
 #### SoftWare-Render 
 
@@ -3646,6 +3650,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
 - [UnityGPUVectorGraphics](https://github.com/voxell-tech/UnityGPUVectorGraphics)
 - https://github.com/yasuohasegawa/SVGPainterUnity
+- https://github.com/CiaccoDavide/Unity-UI-Polygon
+- https://github.com/anyuser/vectorshapes-unity
 #### Post-Process
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/AKGWSB/FFTConvolutionBloom
@@ -4058,6 +4064,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [AddressablesServices](https://github.com/dre0dru/AddressablesServices) A set of classes to convert Unity Addressables callbacks/coroutine workflow to async/await with UniTask.
 - [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
 - [AssetBundles-Browser](https://github.com/Rootjhon/AssetBundles-Browser)
+- [AssetManagement](https://github.com/dre0dru/AssetManagement)
 
 #### Framework
 - https://qinzhuo.coding.net/public/
@@ -4160,6 +4167,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.albahari.com/threading
 - https://www.zhihu.com/question/554133167/answer/2690808608
 - https://github.com/timcassell/ProtoPromise
+- https://github.com/RageAgainstThePixel/com.utilities.async
 - https://github.com/Enderlook/Unity-Threading
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
 - https://github.com/Cysharp/UniTask
@@ -4190,6 +4198,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
 #### UI
+- [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
+- [MVI4Unity](https://github.com/Wilson403/MVI4Unity) 基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）
 - [OwlAndJackalope.UX](https://github.com/AnonyBob/OwlAndJackalope.UX) A simple property binding and UX management library for Unity.
 - [Rosalina](https://github.com/Eastrall/Rosalina) Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
 - https://github.com/ChebanovDD/UnityMvvmToolkit
@@ -4622,6 +4632,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/136512892/Unity-Multiplayer
+- https://github.com/insthync/UnityMultiplayerARPG_MMO
 - https://github.com/jynew/jynew
 - [Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) 仙剑奇侠传三（以及外传）C#/Unity实现
 - https://github.com/skyteks
