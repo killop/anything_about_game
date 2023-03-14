@@ -869,9 +869,11 @@ Table of Contents
 - [最大的 AI 工具目录库](https://zhuanlan.zhihu.com/p/593615901)
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 - [元素法典——Novel AI 元素魔法全收录](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs) 
+- [AI ART](https://www.zhihu.com/column/c_1563238376853258240)
 - https://github.com/JPhilipp/AIConnectors 
 - https://github.com/3DFaceBody/awesome-3dbody-papers
 - https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
+- https://github.com/gongminmin/awesome-aigc
 - https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
 - https://github.com/mochi-neko/ChatGPT-API-unity
 #### Voxel 
@@ -2192,6 +2194,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/uNetworking/uWebSockets
 - https://actix.rs/
 - https://github.com/codeskyblue/gohttpserver
+- https://github.com/Dreamacro/clash
 - https://github.com/filebrowser/filebrowser
 - https://github.com/SrejonKhan/AnotherFileBrowser
 - [UnityFileDownloader](https://github.com/jpgordon00/UnityFileDownloader) Download multiple files at a time in Unity.
@@ -2352,6 +2355,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games :o2:
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 * [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming :o2:
+* [NeoAxisEngine](https://github.com/NeoAxis/NeoAxisEngine) NeoAxis Engine is a versatile real-time platform for making 3D, 2D games and apps.
 * [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 - https://saeruhikari.github.io/SakuraEngine/#/ Sakura
 - https://github.com/SakuraEngine
@@ -4372,6 +4376,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances. 
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
+* [tertle](https://gitlab.com/tertle)
 * [ReactiveDots](https://github.com/PanMadzior/ReactiveDots) Reactive systems and other utilities for Unity DOTS.
 * [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray) https://github.com/GilbertoGojira/DOTS-Stackray
 * [bovinelabs](https://github.com/tertle/com.bovinelabs.core)
@@ -4502,6 +4507,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Asset-Management
 
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
+* [analyzers](https://github.com/tertle/com.bovinelabs.analyzers) Package to add Roslyn Analyzers to Unity projects.
 * [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
