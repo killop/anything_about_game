@@ -1322,6 +1322,7 @@ Table of Contents
 - https://github.com/nicholas-maltbie/OpenKCC
 - https://github.com/runevision/LocomotionSystem
 - https://assetstore.unity.com/packages/templates/packs/advanced-locomotion-controller-234390
+- https://github.com/Another-Axiom/GorillaLocomotion
 - https://github.com/Goodgulf281/Unity-Formation-Movement2.0
 - https://github.com/ssell/UnityDotsCharacterController
 - [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
@@ -1397,6 +1398,7 @@ Table of Contents
 - [floating-origin](https://assetstore.unity.com/packages/tools/network/floating-origin-ultimate-infinite-multiplayer-world-solution-204179?) UnityPlugin
 - [gaia](https://forum.unity.com/threads/backwoods-gamings-addons-for-gaia.389067/)
 - https://github.com/JuniorDjjr/Unity-Procedural-Stochastic-Texture-Terrain-Shader
+- https://github.com/staggartcreations/UnityTerrainLayerSampler
 ##### Unity-Tool
 - [PrefabPainter](https://github.com/Roland09/PrefabPainter) github
 - [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
@@ -2572,6 +2574,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/devlinzhou/deterministic_physics
 - https://github.com/jonjon007/unity-deterministic-physics
 - https://github.com/PetteriAimonen/libfixmath
+- https://github.com/Unity-X/FixMath
 - https://github.com/BXRan/PEMath
 - https://github.com/GameArki/FPPhysics2D
 - https://github.com/yingyugang/FixedPointPhysics
@@ -3050,6 +3053,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/MirzaBeig/Post-Processing-Scan
 - https://github.com/sacshadow/3D_ChineseInkPaintingStyleShader
 - https://github.com/mixandjam/Okami-Celestial-Brush
+- https://github.com/julienkay/genesis
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -4141,7 +4145,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Vision](https://github.com/mackysoft/Vision) UnityEngine.CullingGroup API for everyone. 
 - [ta-frustrum-culling](https://github.com/ThousandAnt/ta-frustrum-culling) Demo repository for URP + Frustrum Culling + Jobs
 - [culling](https://github.com/zcvdf/culling) Unity ECS implementation of a typical Culling system supporting Frustrum Culling and Occlusion Culling
-
+- [Unity GPU Based Occlusion Culling](https://github.com/przemyslawzaworski/Unity-GPU-Based-Occlusion-Culling)
 #### ShaderGraph&&Effect
 - [ShaderGraph暴力学习](https://www.bilibili.com/video/BV1ZE411W7Nz?)
 - [赵京宇](https://www.bilibili.com/video/BV1ut41197aQ)
@@ -4268,6 +4272,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ui-shapes-kit](https://github.com/thisotherthing/ui-shapes-kit)
 - [raganddrop-unity3d](https://github.com/Xander93/draganddrop-unity3d)
 - [SLGDrawLine](https://github.com/871041532/SLGDrawLine) SLG游戏画行军线
+- [ui-toolkit-safe-area](https://github.com/artstorm/ui-toolkit-safe-area)
 #### UI-Animation
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
