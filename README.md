@@ -1469,6 +1469,7 @@ Table of Contents
 * [TerrainGrassShader](https://github.com/TerraUnity/TerrainGrassShader)
 * [GPUInstanceManager](https://github.com/supremepanda/GPUInstanceManager)
 * [ways-to-render-1M-cubes](https://github.com/GeorgeAdamon/ways-to-render-1M-cubes)
+* [shaders-botw-grass](https://github.com/daniel-ilett/shaders-botw-grass)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1926,6 +1927,7 @@ Table of Contents
 - https://github.com/leandromoh/RecordParser
 - https://github.com/RudolfKurka/StructPacker
 - https://github.com/wqaetly/OdinSerializerForNetCore
+- https://github.com/quabug/AnySerialize
 - https://github.com/KrzysztofCwalina/POLE
 - https://github.com/JasonXuDeveloper/Nino
 - https://github.com/chronoxor/FastBinaryEncoding
@@ -2046,6 +2048,7 @@ Table of Contents
 - [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
+- [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
 - [nevod](https://nevod.io) Nevod is a language and technology for pattern-based text search. It is specially aimed to rapidly reveal entities and their relationships in texts written in the natural language.
 - [AngouriMath](https://github.com/asc-community/AngouriMath) Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
 - [t4](https://github.com/faster-games/t4) T4 text template generative importer for Unity3D
@@ -3387,6 +3390,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Global illumination (GI)
 
 ##### Collection
+* [gi-study](https://github.com/JMS55/gi-study)
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
 * [DXR-Sandbox-GI](https://github.com/steaklive/DXR-Sandbox-GI) Simple DirectX 12 toy framework for testing Global Illumination: Reflective Shadow Mapping, Light Propagation Volume, Voxel Cone Tracing, DXR
