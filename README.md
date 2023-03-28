@@ -876,6 +876,7 @@ Table of Contents
 - https://github.com/gongminmin/awesome-aigc
 - https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
 - https://github.com/mochi-neko/ChatGPT-API-unity
+- http://www.aiyjs.com/
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
 *  [MagicaVoxel](https://ephtracy.github.io/)
@@ -2181,6 +2182,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [TouchSocket](https://github.com/RRQM/TouchSocket)  TouchSocket是 C# 的一个整合性的、超轻量级的网络通信框架。包含了 tcp、udp、ssl、http、websocket、rpc、jsonrpc、webapi、xmlrpc等一系列的通信模块。一键式解决 TCP 黏分包问题，udp大数据包分片组合问题等。使用协议模板，可快速实现「固定包头」、「固定长度」、「区间字符」等一系列的数据报文解析。
 * [Netcode.IO.NET](https://github.com/GlaireDaggers/Netcode.IO.NET) A pure managed C# implementation of the Netcode.IO spec
 * [Nethostfire](https://github.com/treviasxk/Nethostfire) Nethostfire is a UDP server/client created with C# (netstandard2.0), it's a simple and easy-to-understand project, with it you can set up your game server, video calls, file transfers and more.
+* [Netly](https://github.com/alec1o/Netly?) Netly is a open source socket library for c# (C-Sharp). It facilitates the use of socket (UDP and TCP, Client and Server) with which it is compatible (Android, iOS, macOS, Linux, Windows, ...) as long as it is compiled with its destination.
 
  #### C/CPP
 - https://github.com/ValveSoftware/GameNetworkingSockets
@@ -2302,6 +2304,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 
 #### 3D Engines and Frameworks
+* [LinaEngine](https://github.com/inanevin/LinaEngine) Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 * [keyshot](https://www.keyshot.com/)
 * [marmoset](https://marmoset.co/)
 * [RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) Render Pipeline Shaders SDK
@@ -4066,6 +4069,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
 - [YooAsset](https://github.com/tuyoogame/YooAsset) 途游 unity3d resource system
 - [WooAsset](https://github.com/OnClick9927/WooAsset)
+- [TaoTie](https://github.com/526077247/TaoTie) 基于YooAsset资源管理的轻量级UI框架
 - [AssetBundleLoadManager](https://github.com/TonyTang1990/AssetBundleLoadManager)
 - [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) Yet another asset bundle manager for Unity.
 - [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) A rule based addressable asset importer 
@@ -4140,6 +4144,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 - https://github.com/SuperCLine/actioneditor
 - https://github.com/PhysaliaStudio/Flexi
+- https://github.com/smartgrass/XCSkillEditor_Unity
+- https://github.com/526077247/GenshinGamePlay
  
 
 #### Occlusion Culling
@@ -4295,6 +4301,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/k-okawa/WaypointSystemForTimeline
 - https://github.com/ddionisio/MateAnimator
 - https://github.com/snaphat/UnityTimelineTools
+- https://github.com/AnnulusGames/TweenPlayables
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
