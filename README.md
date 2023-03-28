@@ -1573,6 +1573,7 @@ Table of Contents
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
+* [CNStudio](https://github.com/Razmoth/CNStudio)
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
 * [UABEA](https://github.com/nesrak1/UABEA) Cross-platform Asset Bundle/Serialized File reader and writer. Originally based on (but not a fork of) UABE.
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact
@@ -1623,6 +1624,7 @@ Table of Contents
 - https://github.com/LavaGang/MelonLoader The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono 
 - https://github.com/Reloaded-Project/Reloaded-II Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
 - [FastRsyncNet](https://github.com/GrzegorzBlok/FastRsyncNet) 
+- [bsdiff.net](https://github.com/LogosBible/bsdiff.net) A .NET port of Colin Percival's bsdiff & bspatch
  ## File Systems
 - https://github.com/mattiasgustavsson/libs
 - https://icculus.org/physfs/
@@ -2579,6 +2581,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Kimbatt/unity-deterministic-physics
 - https://github.com/devlinzhou/deterministic_physics
 - https://github.com/jonjon007/unity-deterministic-physics
+- https://github.com/labbbirder/DecimalNavigation
 - https://github.com/PetteriAimonen/libfixmath
 - https://github.com/Unity-X/FixMath
 - https://github.com/BXRan/PEMath
