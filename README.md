@@ -868,6 +868,7 @@ Table of Contents
 - [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
 - [最大的 AI 工具目录库](https://zhuanlan.zhihu.com/p/593615901)
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+- [stablediffusion WebUI](https://docs.google.com/document/d/1hjtuTGaGsi6RNRAhJhceh2qwA7LlH6a44Kma8BIcjX4/edit#heading=h.s72p8wkeghot)
 - [元素法典——Novel AI 元素魔法全收录](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs) 
 - [AI ART](https://www.zhihu.com/column/c_1563238376853258240)
 - https://github.com/JPhilipp/AIConnectors 
@@ -1334,6 +1335,7 @@ Table of Contents
 - [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller)
 - [2D-Character-Controller](https://github.com/Brackeys/2D-Character-Controller)
 - [UnityAdvancedFPSCharacterController](https://github.com/NecroMarX/UnityAdvancedFPSCharacterController)
+- [CustomBody](https://github.com/MusouCrow/CustomBody) A wheel of KinematicBody
 
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
@@ -1571,6 +1573,7 @@ Table of Contents
 - https://github.com/kovidomi/game-reversing
 - [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
+* [AssetRipper](https://github.com/AssetRipper/AssetRipper) GUI Application to work with engine assets, asset bundles, and serialized files
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * [CNStudio](https://github.com/Razmoth/CNStudio)
@@ -1894,6 +1897,8 @@ Table of Contents
 * https://github.com/atrakeur/unity-unet-authoritative-networking 
 * https://github.com/FlameskyDexive/Legends-Of-Heroes
 * https://github.com/wqaetly/NKGMobaBasedOnET
+* https://github.com/VergilUa/EntitiesExt
+* https://github.com/kidagine/Darklings-FightingGame
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -2392,6 +2397,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/ls361664056/GameAI-paper-list
 - https://github.com/jzyong/GameAI4j
 - https://github.com/kietran99/BehaviorTree
+- https://github.com/thekiwicoder0/UnityBehaviourTreeEditor
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -2895,6 +2901,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/DigitalRune/DigitalRune
 - https://github.com/Raikiri/LegitEngine
 - https://github.com/Trivaxy/WGPU.NET
+- https://github.com/haolange/SharpGPU
 - [LLGL](https://github.com/LukasBanana/LLGL) Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
 #### Collection
 - [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
@@ -3452,6 +3459,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
 * [GIGL](https://github.com/vgfx/GIGL) Tiny Global Illumination OpenGL Renderer
 ##### Ray tracing
+- [openmoonray](https://github.com/dreamworksanimation/openmoonray) MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer
 - [gpurt](https://github.com/GPUOpen-Drivers/gpurt)
 - https://github.com/Pjbomb2/Realtime-Compute-Shader-Unity-PathTracer
 - https://github.com/fallingcat/ComputeRayTracingSamples
@@ -4072,7 +4080,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [xasset](https://github.com/xasset/xasset) Fast & powerful, asset system for unity. 
 - [YooAsset](https://github.com/tuyoogame/YooAsset) 途游 unity3d resource system
 - [WooAsset](https://github.com/OnClick9927/WooAsset)
-- [TaoTie](https://github.com/526077247/TaoTie) 基于YooAsset资源管理的轻量级UI框架
 - [AssetBundleLoadManager](https://github.com/TonyTang1990/AssetBundleLoadManager)
 - [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) Yet another asset bundle manager for Unity.
 - [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) A rule based addressable asset importer 
@@ -4110,7 +4117,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/dotmos/uGameFramework
 - https://github.com/DonnYep/CosmosFramework
 - https://github.com/christides11/hack-and-slash-framework
-
+- https://github.com/ALEXTANGXIAO/GameFramework-at-YooAsset
+- [TaoTie](https://github.com/526077247/TaoTie) 基于YooAsset资源管理的轻量级UI框架
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
@@ -4400,6 +4408,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances. 
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
+* [Tdbe-2023-URP-DOTS-ECS-Graphics-Physics](https://github.com/tdbe/Tdbe-2023-URP-DOTS-ECS-Graphics-Physics)
 * [tertle](https://gitlab.com/tertle)
 * [ReactiveDots](https://github.com/PanMadzior/ReactiveDots) Reactive systems and other utilities for Unity DOTS.
 * [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray) https://github.com/GilbertoGojira/DOTS-Stackray
