@@ -857,6 +857,7 @@ Table of Contents
 - https://www.3dmodelscc0.com/ - Public domain 3D Models.
 - https://polyhaven.com/
 - [Classic-Sponza](https://github.com/Unity-Technologies/Classic-Sponza) Unity remaster of the classic Sponza scene.
+- [objaverse.allenai](https://objaverse.allenai.org/) Objaverse is a Massive Dataset with 800K+ Annotated 3D Objects
 
 ## Game-Design-Tool
 #### Collection
@@ -1473,6 +1474,7 @@ Table of Contents
 * [GPUInstanceManager](https://github.com/supremepanda/GPUInstanceManager)
 * [ways-to-render-1M-cubes](https://github.com/GeorgeAdamon/ways-to-render-1M-cubes)
 * [shaders-botw-grass](https://github.com/daniel-ilett/shaders-botw-grass)
+* [Unity-Grass](https://github.com/cainrademan/Unity-Grass)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -3401,6 +3403,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/flwmxd/LuxGI
 - https://github.com/jiaozi158/UnitySSPathTracingURP
 - https://github.com/Pjbomb2/TrueTrace-Pathtracer
+- https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP
 #### Global illumination (GI)
 
 ##### Collection
