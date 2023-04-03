@@ -2967,6 +2967,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Shader中的代码优化原理分析](https://blog.csdn.net/qq_36383623/article/details/107249625)
 - [HLSL中的MUL指令深层剖析](https://blog.csdn.net/u012871784/article/details/49250765)
 - [shader mad是汇编指令吗_Shader中的代码优化原理分析](https://blog.csdn.net/weixin_39634900/article/details/111584248)
+- [EpicFixShader](https://github.com/pema99/EpicFixShader) Patch shaders in AssetBundles to support Single Pass Stereo Instancing
 - [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 - [The Shader Permutation Problem - Part 2: How Do We Fix It](https://therealmjp.github.io/posts/shader-permutations-part2/) 
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf) 
