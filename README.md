@@ -129,7 +129,7 @@ Table of Contents
 - [Text-Template](#text-template)
 - [Authorization](#authorization)
 - [NetWork](#network)
-    - [Articles](#articles)
+    - [Collection\&\&Articles](#collectionarticles)
     - [C#](#c-2)
     - [C/CPP](#ccpp)
     - [Rust](#rust-2)
@@ -321,7 +321,7 @@ Table of Contents
     - [Raycast\&\&Sensor](#raycastsensor)
     - [CameraController](#cameracontroller)
     - [GamePlay](#gameplay)
-- [知识库软件/笔记软件](#知识库软件笔记软件)
+- [知识库软件/笔记软件/思维构造工具](#知识库软件笔记软件思维构造工具)
 - [UnityBuild](#unitybuild)
 - [Mobile](#mobile)
 - [Unity-Games](#unity-games)
@@ -1011,6 +1011,7 @@ Table of Contents
  - https://github.com/bilibili/UnityBVA
  - https://github.com/Danial-Kord/DigiHuman
  - https://github.com/TheRamU/Fay
+ - https://github.com/yuzu-unity/HumanoidCollider
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -1357,6 +1358,7 @@ Table of Contents
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
 - [BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole)
 - [Reactor-Developer-Console](https://github.com/mustafayaya/Reactor-Developer-Console) 
+- [proxima-inspector-244788](https://assetstore.unity.com/packages/tools/utilities/proxima-inspector-244788)
 - [Quantum Console](https://assetstore.unity.com/packages/tools/utilities/quantum-console-128881) unity-plugin
 - [srdebugger](https://assetstore.unity.com/packages/tools/gui/srdebugger-console-tools-on-device-27688) unity-plugin
 - [debugging-essentials](https://assetstore.unity.com/packages/tools/utilities/debugging-essentials-170773) unity-plugin
@@ -1783,6 +1785,8 @@ Table of Contents
 - [seastar](https://github.com/scylladb/seastar) High performance server-side application framework
 - [SLikeNet](https://github.com/SLikeSoft/SLikeNet)  SLikeNet is an Open Source/Free Software cross-platform network engine written in C++ and specifially designed for games
 - [Summer](https://github.com/SwingFrog/Summer)
+- https://github.com/vu-luong/ezy-smashers
+- [hotel](https://github.com/minism/hotel) A simple master/lobby server for multiplayer games.
 #### Article
 - [网络游戏的进阶架构](https://zhuanlan.zhihu.com/p/565731139）
 - [游戏网络同步绿皮书](https://zhuanlan.zhihu.com/p/565875153)
@@ -1958,6 +1962,7 @@ Table of Contents
 - [ScatterStream](https://github.com/ashleyseric/ScatterStream) A runtime object scattering/vegetation authoring, streaming and rendering tool for Unity optimised for instanced rendering a very large number of placed items.
 - [mega-scatter-14954](https://assetstore.unity.com/packages/tools/modeling/mega-scatter-14954) unity-plugin
 - [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
+- [mountains-beyond-mountains](https://github.com/xshazwar/mountains-beyond-mountains)
 - https://github.com/NextGenSoftwareUK/
 - https://assetstore.unity.com/packages/tools/terrain/easy-open-world-192659
 - https://github.com/SimBlocks
@@ -1971,6 +1976,7 @@ Table of Contents
 - https://github.com/Unity-Technologies/Megacity-Sample
 - https://github.com/decentraland/unity-renderer
 - https://github.com/CesiumGS/cesium-unity
+- https://github.com/SimBlocks/OneWorldSDKforUnity
 
 ## DataBase
 - https://github.com/dolthub/dolt
@@ -2069,7 +2075,9 @@ Table of Contents
 - https://github.com/casbin/Casbin.NET
 
 ## NetWork
-#### Articles
+#### Collection&&Articles
+- [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
+- [clumsy](https://github.com/jagt/clumsy) clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Explaining how fighting games use delay-based and rollback netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/)
 - [deterministic-netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
 - [NetworkBenchmarkDotNet](https://github.com/JohannesDeml/NetworkBenchmarkDotNet)
@@ -2194,7 +2202,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Netly](https://github.com/alec1o/Netly?) Netly is a open source socket library for c# (C-Sharp). It facilitates the use of socket (UDP and TCP, Client and Server) with which it is compatible (Android, iOS, macOS, Linux, Windows, ...) as long as it is compiled with its destination.
 
  #### C/CPP
-- https://github.com/ValveSoftware/GameNetworkingSockets
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
 - [NanoSockets](https://github.com/nxrighthere/NanoSockets) Lightweight UDP sockets abstraction for rapid implementation of message-oriented protocols 
@@ -2498,6 +2505,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [FastMath](https://github.com/wiu-wiu/FastMath) C# library with very fast but not very accurate realisations of System.Math methods.
 - [MathLibrary](https://github.com/db300/MathLibrary)   数学计算相关类库
 - [Unity.Mathematics-Extensions](https://github.com/LTMX/Unity.Mathematics-Extensions)
+- [dots-plus-227492](https://assetstore.unity.com/packages/tools/utilities/dots-plus-227492)
+- [gimme-dots-geometry-241774](https://assetstore.unity.com/packages/tools/utilities/gimme-dots-geometry-241774)
 #### Math-Tool
 - [awesome-manim](https://github.com/ManimCommunity/awesome-manim)
 - [manim](https://github.com/ManimCommunity/manim)
@@ -2627,6 +2636,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/fxredeemer/jitterphysics
 - https://github.com/jrouwe/JoltPhysics
 - https://github.com/irlanrobson/bounce
+- https://github.com/Scrawk/CyclonePhysicsEngine
 #### Physics BOOKS
 - [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
 - [Physics Modeling for Game Programmers](https://www.amazon.com/Physics-Modeling-Programmers-David-Conger/dp/1592000932/)
@@ -2674,6 +2684,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/wave-harmonic/water-resources
 - [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-) [Blog](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) 
 - [UnityInteractableWater-Grass-Wind_URP](https://github.com/Zoroiscrying/UnityInteractableWater-Grass-Wind_URP)
+- https://github.com/aniruddhahar/URP-WaterShaders
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
@@ -3369,6 +3380,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ashima/webgl-noise
 - https://github.com/Fewes/CloudNoiseGen
 - https://github.com/stegu/psrdnoise
+- https://github.com/xshazwar/noize-job
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -3404,6 +3416,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/jiaozi158/UnitySSPathTracingURP
 - https://github.com/Pjbomb2/TrueTrace-Pathtracer
 - https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP
+- https://github.com/draftPRD/URP_PlanarReflections
+- https://github.com/NineTwoMay1st/URP_PlanerReflection
 #### Global illumination (GI)
 
 ##### Collection
@@ -4097,6 +4111,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
 - [AssetBundles-Browser](https://github.com/Rootjhon/AssetBundles-Browser)
 - [AssetManagement](https://github.com/dre0dru/AssetManagement)
+- [AssetBundleLoadManager](https://github.com/TonyTang1990/AssetBundleLoadManager)
+- [QuarkAsset](https://github.com/DonnYep/QuarkAsset)
 
 #### Framework
 - https://qinzhuo.coding.net/public/
@@ -4289,6 +4305,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
 - [UnityUiParticles](https://github.com/ken48/UnityUiParticles)
+- [ui-particle-image](https://assetstore.unity.com/packages/tools/gui/ui-particle-image-235001) unity-plugin
+- [canvas-particle-system](https://assetstore.unity.com/packages/tools/particles-effects/canvas-particle-system-64134) unity-plugin
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
 - [Sample file of Unity SYNC2022 "Rich UI effects created with shader and animation"](https://github.com/applibot-inc/sync2022-ui-sample-techbot)
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
@@ -4317,6 +4335,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ddionisio/MateAnimator
 - https://github.com/snaphat/UnityTimelineTools
 - https://github.com/AnnulusGames/TweenPlayables
+- https://github.com/nmxi/Unity_AbstractTimelineExtention
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
@@ -4631,7 +4650,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### GamePlay
 - [我开发的角色动作系统概述-战斗,3C相关](https://zhuanlan.zhihu.com/p/67143501)
 
-## 知识库软件/笔记软件
+## 知识库软件/笔记软件/思维构造工具
 - [A hackable markdown note application for programmers](https://github.com/purocean/yn)
 - [印象笔记](https://www.yinxiang.com/)
 - [有道云笔记](http://note.youdao.com/)
@@ -4647,7 +4666,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [taskade](https://taskade.com/)
 - [思源](https://github.com/siyuan-note/siyuan)
 - [日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
+- [zhixi](https://www.zhixi.com/) 国人做的xmind
 ## UnityBuild
+- [JenkinsUnityPyAutoMator](https://github.com/Eerrly/JenkinsUnityPyAutoMator) 通过Jenkins服务使用python语言来对Unity和周边进行构建和自动化操作
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
 - [Usdk](https://github.com/honghuachen/Usdk) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
   [Game-ci](https://github.com/game-ci)自动测试和构建游戏项目的最快、最简单的方法
