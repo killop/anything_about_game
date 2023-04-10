@@ -3269,6 +3269,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [LightProbeBinder](https://github.com/tsujihaneta/LightProbeBinder)An editor extension that restores light probes when the specified game object is loaded; Multi-Scene and Timeline support are also available.
 - [OBBReflectionProbeSupport](https://github.com/noisecrime/Unity-OBBReflectionProbeSupport)
 - [InfLightProbe](https://github.com/limztudio/InfLightProbe) Automatic Light probe generator for Unity engine. Based on "Light Grid" of "Precomputed Lighting in CoD IW 2017". and "Light probe interpolation using tetrahedral tessellations" by "Robert Cupisz".
+- https://github.com/pieroaccardi/Unity_SphericalHarmonics_Tools
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
