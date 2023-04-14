@@ -2065,6 +2065,7 @@ Table of Contents
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
+- [UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen)
 - [nevod](https://nevod.io) Nevod is a language and technology for pattern-based text search. It is specially aimed to rapidly reveal entities and their relationships in texts written in the natural language.
 - [AngouriMath](https://github.com/asc-community/AngouriMath) Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
 - [t4](https://github.com/faster-games/t4) T4 text template generative importer for Unity3D
@@ -4385,6 +4386,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [CSharpCompilerSettingsForUnity](https://github.com/mob-sakai/CSharpCompilerSettingsForUnity)
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
 - [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
+- [MethodChangeWithILPostProcessor](https://github.com/sune2/MethodChangeWithILPostProcessor)
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
