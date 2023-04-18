@@ -2526,6 +2526,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.keycurriculum.com/
 - http://tobyschachman.com/Shadershop/
 - [graphtoy](https://graphtoy.com/)
+- https://www.andre-gaschler.com/rotationconverter/
 
 #### Curve
 - [unity-nurbs](https://github.com/komietty/unity-nurbs) Unity base NURBS spline and surface module
