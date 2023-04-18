@@ -4162,14 +4162,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/m969/EGamePlay
 - https://github.com/huailiang/seqence 剧情-技能编辑器
-- https://github.com/jewer3330/plato 技能编辑器
+- https://github.com/jewer3330/plato timeline-技能编辑器
 - https://github.com/Elfansoer/dota-2-lua-abilities
-- https://github.com/sjai013/unity-gameplay-ability-system
+- https://github.com/sjai013/unity-gameplay-ability-system(The approach for this is taken from that used by Unreal's Gameplay Ability System, but implemented in Unity using the Data-Oriented Technology Stack (DOTS) where possible.)
 - https://github.com/taotao111/SkillSystem
-- https://github.com/emreCanbazoglu/SkillSystem
-- https://github.com/HalfLobsterMan/SkillSystem
 - [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
-- https://github.com/jewer3330/plato timeline skill
 - https://github.com/PxGame
 - https://github.com/WAYNGROUP/MGM-Ability
 - https://github.com/qq362946/AOI
@@ -4177,7 +4174,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/KrazyL/SkillSystem-3 (Dota2 alike Skill System Implementation for KnightPhone)
 - https://github.com/weichx/AbilitySystem
 - https://github.com/dongweiPeng/SkillSystem (丰富的接口可便于使用扩展 完整的技能效果流程【如流程图】 配套的技能管理器 自定义的技能数据表)
-- https://github.com/sjai013/UnityGameplayAbilitySystem (The approach for this is taken from that used by Unreal's Gameplay Ability System, but implemented in Unity using the Data-Oriented Technology Stack (DOTS) where possible.)
 - https://github.com/dx50075/SkillSystem (skill system for unity ， 思路 http://blog.csdn.net/qq18052887/article/details/50358463 技能描述文件如下 skill(1000) //技能1 { FaceToTarget(0) PlayAnimation(1,Skill_1) Bullet(1.3,Bullet,7) PlayEffect(0,Explode8,3) })
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 - https://github.com/SuperCLine/actioneditor
