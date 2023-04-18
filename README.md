@@ -1012,6 +1012,7 @@ Table of Contents
  - https://github.com/Danial-Kord/DigiHuman
  - https://github.com/TheRamU/Fay
  - https://github.com/yuzu-unity/HumanoidCollider
+ - https://github.com/mochi-neko/facial-expressions-unity
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -1351,6 +1352,7 @@ Table of Contents
 - https://github.com/ecidevilin/UnityBoneTools 
 - https://github.com/natsuneko-laboratory/refined-animation-property
 - https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier
+- https://github.com/rrazgriz/RATS
  
 
 ## Console/Command/Shell/Debugger
@@ -2229,6 +2231,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [DownloadFile](https://github.com/GrayGuardian/DownloadFile)基于Unity平台 C#编写的断点续传、多线程下载模块
 - [BackgroundDownload](https://github.com/Unity-Technologies/BackgroundDownload) 
 - [手游Android端后台下载技术分享](https://zhuanlan.zhihu.com/p/612923726)
+- [RestClient](https://github.com/proyecto26/RestClient) A Promise based REST and HTTP client for Unity 
 ## GameEngine Design
 #### Collection
 - https://github.com/redorav/public_source_engines
@@ -3439,6 +3442,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Unity-Baked-Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics)
 * [Volumetrics_URP](https://github.com/bladesero/Volumetrics_URP) A render feature to recover Unity 5.x's offical volumetric fog in Adam demo
 * [CasualPRT](https://github.com/AKGWSB/CasualPRT) 
+* [lighting-data-asset-reverse](https://github.com/guycalledfrank/lighting-data-asset-reverse)
 ##### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
 * [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTX Global Illumination (RTXGI) SDK
@@ -3858,6 +3862,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/AArnott/Nerdbank.Streams 高效流
 - [NaturalSort](https://github.com/tompazourek/NaturalSort.Extension) Extension method for StringComparison that adds support for natural sorting (e.g. "abc1", "abc2", "abc10" instead of "abc1", "abc10", "abc2").
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
+- [Collections.Pooled](https://github.com/Zitga-Tech/ZBase.Collections.Pooled)
 - [BurstCollections](https://github.com/andywiecko/BurstCollections)
 - [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
 - [Faster.Map](https://github.com/Wsm2110/Faster.Map) A fast & densely stored hashtable based on robin-hood backshift deletion c#
@@ -4562,6 +4567,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code
+* [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
+* [BetterAttributes](https://github.com/uurha/BetterAttributes)
 
 #### Asset-Management
 
@@ -4726,6 +4733,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/zhaoolee/OnlineToolsBook 集锦
 - https://github.com/csdjk/ToolsShare
 - https://masuit.com/
+- https://github.com/hoochanlon/NeiJuan
 - http://www.qijishow.com/down/navigation.html
 - https://www.iamxk.com/navigation
 - https://xclient.info/s/
