@@ -271,7 +271,7 @@ Table of Contents
 - [Lua](#lua-2)
 - [Author](#author)
 - [CMAKE](#cmake)
-- [Embed-Script/VM/JIT](#embed-scriptvmjit)
+- [Embed-Script/VM/](#embed-scriptvm)
     - [Collection](#collection-7)
     - [Garbage Collector](#garbage-collector)
     - [dynCall](#dyncall)
@@ -879,6 +879,7 @@ Table of Contents
 - https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
 - https://github.com/mochi-neko/ChatGPT-API-unity
 - http://www.aiyjs.com/
+- https://github.com/sudoskys/StableDiffusionBook
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
 *  [MagicaVoxel](https://ephtracy.github.io/)
@@ -2902,6 +2903,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [rasterizr](https://github.com/tgjones/rasterizr)
 - https://github.com/kosua20/herebedragons
 - https://github.com/Litmin/SoftRenderer-Unity
+* [SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) SALVIA is the rasterizer based software renderer. The goal of SALVIA is capacity of Direct3D 10+.
 #### 3rd-Binding
 - [EmberGL](https://github.com/EmberGL-org/EmberGL) EmberGL (Ember Graphics Library) is a low-level open source graphics library
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
@@ -4006,7 +4008,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/leetal/ios-cmake
 - https://zhuanlan.zhihu.com/p/534439206
 
-## Embed-Script/VM/JIT
+## Embed-Script/VM/
+- [IwasmUnity](https://github.com/HoloLabInc/IwasmUnity)
 - [luajit-remake](https://github.com/luajit-remake/luajit-remake)
 - [minivm](https://github.com/FastVM/minivm) A VM That is Dynamic and Fast
 - [CS2X](https://github.com/reignstudios/CS2X) Transpiles a C# subset to non .NET languages and runtimes. (Powered by Roslyn) 
