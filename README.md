@@ -1339,6 +1339,7 @@ Table of Contents
 - [2D-Character-Controller](https://github.com/Brackeys/2D-Character-Controller)
 - [UnityAdvancedFPSCharacterController](https://github.com/NecroMarX/UnityAdvancedFPSCharacterController)
 - [CustomBody](https://github.com/MusouCrow/CustomBody) A wheel of KinematicBody
+- [platformer-project-206584](https://assetstore.unity.com/packages/templates/systems/platformer-project-206584)
 
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
