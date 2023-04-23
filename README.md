@@ -863,23 +863,7 @@ Table of Contents
 #### Collection
 - [magictools](https://github.com/ellisonleao/magictools)
 - https://orels.sh/p/tools/
-- [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) 
-- [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
-- [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
-- [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
-- [最大的 AI 工具目录库](https://zhuanlan.zhihu.com/p/593615901)
-- [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
-- [stablediffusion WebUI](https://docs.google.com/document/d/1hjtuTGaGsi6RNRAhJhceh2qwA7LlH6a44Kma8BIcjX4/edit#heading=h.s72p8wkeghot)
-- [元素法典——Novel AI 元素魔法全收录](https://docs.qq.com/doc/DWHl3am5Zb05QbGVs) 
-- [AI ART](https://www.zhihu.com/column/c_1563238376853258240)
-- https://github.com/JPhilipp/AIConnectors 
-- https://github.com/3DFaceBody/awesome-3dbody-papers
-- https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
-- https://github.com/gongminmin/awesome-aigc
-- https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
-- https://github.com/mochi-neko/ChatGPT-API-unity
-- http://www.aiyjs.com/
-- https://github.com/sudoskys/StableDiffusionBook
+
 #### Voxel 
 *  [goxel](https://github.com/guillaumechereau/goxel)
 *  [MagicaVoxel](https://ephtracy.github.io/)
@@ -1314,6 +1298,7 @@ Table of Contents
 - [uPlayableAnimation](https://github.com/EricHu33/uPlayableAnimation)
 - [Vortex](https://github.com/kaiyumcg/Vortex) Play/blend animations, animator controllers in runtime. Uses playable API
 #### Character-Controller
+- [CharacterControllerSamples](https://github.com/Unity-Technologies/CharacterControllerSamples)
 - [GenshinImpactMovementSystem](https://github.com/JiaoziDani/GenshinImpactMovementSystem)
 - [Netick-KCC](https://github.com/Milk-Drinker01/Netick-KCC) An implementation of Kinematic Character Controller with Netick Networking
 - [rival](https://assetstore.unity.com/packages/tools/physics/rival-dots-character-controller-for-unity-225129) Unity Plugin
@@ -1671,6 +1656,7 @@ Table of Contents
 - [Linux 内核详解以及内核缓冲区技术](https://blog.csdn.net/qq_44919483/article/details/89509559) 
 - https://github.com/microsoft/CopyOnWrite  
 ## Version-Control
+- https://github.com/kekyo/GitReader
 - https://github.com/unixorn/git-extra-commands
 - https://github.com/meaf75/GitNity
 - https://github.com/alirezanet/Husky.Net
@@ -1793,7 +1779,16 @@ Table of Contents
 - [hotel](https://github.com/minism/hotel) A simple master/lobby server for multiplayer games.
 #### Article
 - [网络游戏的进阶架构](https://zhuanlan.zhihu.com/p/565731139）
+- [Sakura Engine 中的状态同步](https://zhuanlan.zhihu.com/p/623969345)
+- [漫话帧同步](https://zhuanlan.zhihu.com/p/381339755)
+- [载具的物理同步](https://zhuanlan.zhihu.com/p/623356428)
 - [游戏网络同步绿皮书](https://zhuanlan.zhihu.com/p/565875153)
+- [从零开始的Unity网络同步 6.客户端本地预测(预表现)](https://zhuanlan.zhihu.com/p/49483875)
+- [如何理解游戏引擎中的逻辑帧？](https://www.zhihu.com/question/568766453/answer/2774815968)
+- [网络游戏是如何同步的？](https://www.zhihu.com/question/30553462/answer/2780039356)
+- [技能系统的同步机制](https://zhuanlan.zhihu.com/p/26188869)
+- [手游中的载具物理同步的实现方案](https://zhuanlan.zhihu.com/p/387842360)
+- [游戏中的网络延迟](https://zhuanlan.zhihu.com/p/28617637)
 - [图形引擎实战：战斗同步分享](https://zhuanlan.zhihu.com/p/598582277)
 - [网络游戏移动同步那点事](https://zhuanlan.zhihu.com/p/581744996)
 - [如何使用unity做帧同步模式的网络游戏？](https://www.zhihu.com/question/64395491/answer/2841269890)
@@ -1909,6 +1904,7 @@ Table of Contents
 * https://github.com/wqaetly/NKGMobaBasedOnET
 * https://github.com/VergilUa/EntitiesExt
 * https://github.com/kidagine/Darklings-FightingGame
+* https://github.com/genxium/DelayNoMoreUnity
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -2326,6 +2322,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 
 #### 3D Engines and Frameworks
+* [NextEngine](https://github.com/CompilerLuke/NextEngine) NextEngine is designed with rapid iteration and high-end desktop graphics in mind.
 * [LinaEngine](https://github.com/inanevin/LinaEngine) Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 * [keyshot](https://www.keyshot.com/)
 * [marmoset](https://marmoset.co/)
@@ -2925,6 +2922,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/haolange/SharpGPU
 - [LLGL](https://github.com/LukasBanana/LLGL) Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
 #### Collection
+- [awesome-geometry-processing)](https://github.com/zishun/awesome-geometry-processing)
 - [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
 - https://github.com/neverfelly/awesome-light-transport
 - https://dl.acm.org/journal/tog/software
@@ -3043,6 +3041,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Alligrater/Shader-Practice
 - https://github.com/cnlohr/shadertrixx shader tricks
 - https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
+- https://github.com/danilw/GPU-my-list-of-bugs
 - [avoiding-shader-conditionals](https://theorangeduck.com/page/avoiding-shader-conditionals)
 - https://github.com/McNopper/OpenGL 
 - https://github.com/nucleartide/Shaders-for-Game-Devs-Workbook
@@ -3244,6 +3243,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [YuanShen_Face](https://github.com/ipud2/Unity-Basic-Shader/blob/master/YuanShen_Face.shader)
 #### SDF
 - https://github.com/CedricGuillemet/SDF
+- https://github.com/StarsX/SDFTracing/
 - https://github.com/cecarlsen/SDFTextureGenerator
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
@@ -3427,6 +3427,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP
 - https://github.com/draftPRD/URP_PlanarReflections
 - https://github.com/NineTwoMay1st/URP_PlanerReflection
+- https://github.com/Reuben-Sun/SSPR
 #### Global illumination (GI)
 
 ##### Collection
@@ -3499,6 +3500,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://www.ospray.org/index.html
 - [cmake-raytracer](https://github.com/64/cmake-raytracer)
 - https://developer.download.nvidia.com/ray-tracing-gems/rtg2-chapter30-preprint.pdf
+- https://github.com/AlerianEmperor/LuxRenderer
 ##### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
@@ -4252,6 +4254,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
 - [BlueGraph](https://github.com/McManning/BlueGraph)
 - [NewGraph](https://github.com/Gentlymad-Studios/NewGraph)
+- https://github.com/StephenCleary/StructuredConcurrency
+- https://github.com/CoffeeVampir3/Graphify?
 
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
@@ -4259,6 +4263,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### UI
 - [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
+- [CSReactive](https://github.com/labbbirder/CSReactive) 纯C#下实现Vue，特别针对Unity
 - [MVI4Unity](https://github.com/Wilson403/MVI4Unity) 基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）
 - [OwlAndJackalope.UX](https://github.com/AnonyBob/OwlAndJackalope.UX) A simple property binding and UX management library for Unity.
 - [Rosalina](https://github.com/Eastrall/Rosalina) Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
@@ -4436,6 +4441,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
 * [Reinterpret](https://github.com/HelloKitty/Reinterpret.Net) 
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
+* [My_DOTS-NavMeshAgent](https://github.com/NotBugThisFicha/My_DOTS-NavMeshAgent) DOTS 1.0 Producive PathFinding by NavMeshQuere
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
 * [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances. 
@@ -4472,6 +4478,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
 - [unity-rrt](https://github.com/markus-exler/unity-rrt)
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
+- https://github.com/recastnavigation/recastnavigation
 - https://github.com/KimHeeRyeong/SphereNavigation
 - https://github.com/idbrii/unity-navgen
 - https://github.com/h8man/NavMeshPlus
@@ -4570,6 +4577,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)
 * [BetterAttributes](https://github.com/uurha/BetterAttributes)
+* [CustomizationInspector](https://github.com/Mr-sB/CustomizationInspector)
 
 #### Asset-Management
 
@@ -4603,6 +4611,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/starburst997/Unity.Trimmer 
 - [missing-component-info](https://github.com/zhaoguohao/missing-component-info)
 - [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)
+- [Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter)
+- [Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
 - [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
