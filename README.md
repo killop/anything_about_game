@@ -3422,8 +3422,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Looooong/Unity-SRP-VXGI
 - [dots-renderer](https://github.com/vectorized-runner/dots-renderer)
 - https://github.com/flwmxd/LuxGI
-- https://github.com/jiaozi158/UnitySSPathTracingURP
-- https://github.com/Pjbomb2/TrueTrace-Pathtracer
 - https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP
 - https://github.com/draftPRD/URP_PlanarReflections
 - https://github.com/NineTwoMay1st/URP_PlanerReflection
@@ -3501,6 +3499,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [cmake-raytracer](https://github.com/64/cmake-raytracer)
 - https://developer.download.nvidia.com/ray-tracing-gems/rtg2-chapter30-preprint.pdf
 - https://github.com/AlerianEmperor/LuxRenderer
+- - https://github.com/jiaozi158/UnitySSPathTracingURP
+- https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer
 ##### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer

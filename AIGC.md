@@ -26,4 +26,4 @@
 - [Midjourney的挑战者 - AI绘图新秀Leonardo.ai](https://zhuanlan.zhihu.com/p/618911569)
 - [最大的 AI 工具目录库](https://zhuanlan.zhihu.com/p/593615901)
 - [AI收集](https://weknowlib.feishu.cn/wiki/wikcng6M4yAINLrBgMtxrsEAalU)
-- [AI会话收集](https://weknowlib.feishu.cn/wiki/wikcn7hgYG3w4R7JYNJFU2bVjGd)
+- [AI绘画收集](https://weknowlib.feishu.cn/wiki/wikcn7hgYG3w4R7JYNJFU2bVjGd)
