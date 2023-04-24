@@ -1569,6 +1569,7 @@ Table of Contents
 * [AssetRipper](https://github.com/AssetRipper/AssetRipper) GUI Application to work with engine assets, asset bundles, and serialized files
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
+* [HoYoStudio](https://github.com/TomyJan/HoYoStudio)
 * [CNStudio](https://github.com/Razmoth/CNStudio)
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
 * [UABEA](https://github.com/nesrak1/UABEA) Cross-platform Asset Bundle/Serialized File reader and writer. Originally based on (but not a fork of) UABE.
@@ -1778,8 +1779,8 @@ Table of Contents
 - https://github.com/vu-luong/ezy-smashers
 - [hotel](https://github.com/minism/hotel) A simple master/lobby server for multiplayer games.
 #### Article
-- [网络游戏的进阶架构](https://zhuanlan.zhihu.com/p/565731139）
 - [Sakura Engine 中的状态同步](https://zhuanlan.zhihu.com/p/623969345)
+- [网络游戏的进阶架构](https://zhuanlan.zhihu.com/p/565731139） 
 - [漫话帧同步](https://zhuanlan.zhihu.com/p/381339755)
 - [载具的物理同步](https://zhuanlan.zhihu.com/p/623356428)
 - [游戏网络同步绿皮书](https://zhuanlan.zhihu.com/p/565875153)
