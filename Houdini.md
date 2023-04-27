@@ -21,3 +21,4 @@
 - https://github.com/metaaaa/AlembicToVAT
 - https://github.com/Gaxil/Unity-AlembicToVAT
 - https://github.com/lex-ikoon/qq
+- https://github.com/yutaokuyama/HoudiniVezerSync

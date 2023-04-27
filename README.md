@@ -4154,6 +4154,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/christides11/hack-and-slash-framework
 - https://github.com/ALEXTANGXIAO/GameFramework-at-YooAsset
 - [TaoTie](https://github.com/526077247/TaoTie) 基于YooAsset资源管理的轻量级UI框架
+- [GameDevelopmentKit](https://github.com/XuToWei/GameDevelopmentKit)
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
@@ -4421,6 +4422,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 
 #### Scriptable Object
+* [PaddleGameSO](https://github.com/UnityTechnologies/PaddleGameSO) A demo project to showcase design patterns and game architecture using ScriptableObjects
 * [ScriptableObjectCollection](https://github.com/brunomikoski/ScriptableObjectCollection) The ScriptableObjectCollection exists to help you deal with scriptable objects without losing your sanity! Its a set of tools that will make your life a lot easier.
 * [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
 * [SoCreator](https://github.com/NullTale/SoCreator) ScriptableObject creation menu

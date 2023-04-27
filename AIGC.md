@@ -1,4 +1,6 @@
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) 
+- [StableHoudini](https://github.com/stassius/StableHoudini)
+- [chatgpt-guide](https://github.com/Daotin/chatgpt-guide)
 - [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
 - [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
