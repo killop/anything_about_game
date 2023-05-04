@@ -1573,6 +1573,7 @@ Table of Contents
 * [CNStudio](https://github.com/Razmoth/CNStudio)
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
 * [UABEA](https://github.com/nesrak1/UABEA) Cross-platform Asset Bundle/Serialized File reader and writer. Originally based on (but not a fork of) UABE.
+* [UABE](https://github.com/SeriousCache/UABE) Asset Bundle Extractor
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact
 * [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
 
@@ -1906,6 +1907,7 @@ Table of Contents
 * https://github.com/VergilUa/EntitiesExt
 * https://github.com/kidagine/Darklings-FightingGame
 * https://github.com/genxium/DelayNoMoreUnity
+* https://github.com/insthync/UnityMultiplayerARPG_MMO.NET
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -2129,7 +2131,7 @@ NetStack is self-contained and has no dependencies.
 - [NetCoreServer](https://github.com/chronoxor/NetCoreServer) Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution 
 - [Sockets Under Control unity-plugin](https://assetstore.unity.com/packages/tools/network/sockets-under-control-159512)
 * [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - socket.io client for unity3d.
-* [Hazel-Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
+* [Hazel-Networking](https://github.com/willardf/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
 * [MassiveNet](https://github.com/jakevn/MassiveNet) - Unity3d UDP networking library focused on high-CCU, multi-server architecture.
 * [Nakama](https://github.com/heroiclabs/nakama) - An open-source distributed social and realtime server for games and apps by [Heroic Labs](https://heroiclabs.com). It includes a large set of services for users, data storage, and realtime client/server communication; as well as specialized APIs like realtime multiplayer, groups/guilds, and chat.
 * [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Master Server framework for Unity
@@ -2921,6 +2923,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Raikiri/LegitEngine
 - https://github.com/Trivaxy/WGPU.NET
 - https://github.com/haolange/SharpGPU
+- [XUSG](https://github.com/StarsX/XUSG) XUSG, XU's supreme graphics lib, is a handy wrapper currently for DirectX 12. It can be a good reference for designing your own DX12 wrapper APIs.
 - [LLGL](https://github.com/LukasBanana/LLGL) Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
 #### Collection
 - [awesome-geometry-processing)](https://github.com/zishun/awesome-geometry-processing)
@@ -3092,6 +3095,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/sacshadow/3D_ChineseInkPaintingStyleShader
 - https://github.com/mixandjam/Okami-Celestial-Brush
 - https://github.com/julienkay/genesis
+- [Coloring](https://github.com/DumoeDss/Coloring) 基于通道混合的染色系统
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -4283,6 +4287,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/jp-netsis/RubyTextMeshPro
 - https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
+- https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/gwaredd/UnityMarkdownViewer
 - https://github.com/mitay-walle/com.mitay-walle.text-asset-inspector-edit
@@ -4405,8 +4410,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/sator-imaging/AppWindowUtility
 - https://github.com/XJINE/Unity_TransparentWindowManager
 #### Unity 特色工程（精粹）
--  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法阵
--  https://github.com/mtrive/ProjectAuditor untiy工程分析工具
+-  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法
 -  [介绍几个日本开源动画项目](https://connect.unity.com/p/jie-shao-ji-ge-ri-ben-kai-yuan-dong-hua-xiang-mu)
   
 #### Drawing
@@ -4585,6 +4589,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Asset-Management
 
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
+* [ProjectAuditor](https://github.com/mtrive/ProjectAuditor) untiy工程分析工具
 * [analyzers](https://github.com/tertle/com.bovinelabs.analyzers) Package to add Roslyn Analyzers to Unity projects.
 * [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
@@ -4718,6 +4723,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  - [BlankOperationClipboard](https://github.com/AlianBlank/BlankOperationClipboard) Unity 读写Android 和 iOS 的粘贴板插件
  - [UnityWebBrowser](https://github.com/Voltstro-Studios/UnityWebBrowser)
  - [UnityNativeFilePicker](https://github.com/yasirkula/UnityNativeFilePicker)
+ - [UnityMobileLocalizedAppTitle](https://github.com/yasirkula/UnityMobileLocalizedAppTitle)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/136512892/Unity-Multiplayer

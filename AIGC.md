@@ -15,6 +15,7 @@
 - https://github.com/gongminmin/awesome-aigc
 - https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
 - https://github.com/mochi-neko/ChatGPT-API-unity
+- https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese
 - http://www.aiyjs.com/
 - https://github.com/sudoskys/StableDiffusionBook
 - [Stable-diffusion-person](https://github.com/KKGo1999/Stable-diffusion-person) 由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像
@@ -29,3 +30,6 @@
 - [最大的 AI 工具目录库](https://zhuanlan.zhihu.com/p/593615901)
 - [AI收集](https://weknowlib.feishu.cn/wiki/wikcng6M4yAINLrBgMtxrsEAalU)
 - [AI绘画收集](https://weknowlib.feishu.cn/wiki/wikcn7hgYG3w4R7JYNJFU2bVjGd)
+
+## Audio
+- [bark](https://github.com/suno-ai/bark)  Text-Prompted Generative Audio Model
