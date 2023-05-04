@@ -33,3 +33,6 @@
 
 ## Audio
 - [bark](https://github.com/suno-ai/bark)  Text-Prompted Generative Audio Model
+
+## Animation
+- [EDGE](https://github.com/Stanford-TML/EDGE)
