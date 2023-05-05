@@ -36,3 +36,6 @@
 
 ## Animation
 - [EDGE](https://github.com/Stanford-TML/EDGE)
+
+## Video
+- [runwayml-gen2](https://research.runwayml.com/gen2)

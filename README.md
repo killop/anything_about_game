@@ -308,9 +308,8 @@ Table of Contents
     - [Mesh](#mesh)
       - [Fracture Mesh](#fracture-mesh)
     - [Voxel](#voxel-1)
-    - [Fog](#fog)
+    - [Fog\&\&Smoke\&\&Cloud\&\&Atmospheric](#fogsmokecloudatmospheric)
     - [Volumetric Mesh](#volumetric-mesh)
-    - [VolumetricClouds\&\&Atmospheric](#volumetriccloudsatmospheric)
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
     - [Material-Cleaner](#material-cleaner)
@@ -1958,6 +1957,7 @@ Table of Contents
 - https://jsoncrack.com/editor
 - https://altearius.github.io/tools/json/index.html
 - https://github.com/nemesissoft/Nemesis.TextParsers
+- https://jsoneditoronline.org/
 #### Yaml
 - https://github.com/hadashiA/VYaml
 
@@ -3096,6 +3096,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/mixandjam/Okami-Celestial-Brush
 - https://github.com/julienkay/genesis
 - [Coloring](https://github.com/DumoeDss/Coloring) 基于通道混合的染色系统
+- [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader)
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -3317,8 +3318,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### URP/SPR/HDRP Course
 - [MeasuredMaterialLibraryURP](https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP)
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
-- [[译] URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
-- [[Universal RP]Unity通用渲染管线学习](https://zhuanlan.zhihu.com/p/84908168)
+- [译 URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
+- [Universal RP Unity通用渲染管线学习](https://zhuanlan.zhihu.com/p/84908168)
 - [HDRP高清渲染管线-学习资料汇总](https://zhuanlan.zhihu.com/p/106646409)
 - [Unity自定义可编程渲染管线(SRP)](https://www.zhihu.com/column/c_1249285959101227008)
 - [How the URP unlocks games for you](https://zhuanlan.zhihu.com/p/105941187)
@@ -4564,17 +4565,17 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [voxel-renderer-unity](https://github.com/sjoerd-code/voxel-renderer-unity) This is a voxel renderer made using Unity
 - https://github.com/voxelbased/core
 - [unity-voxel-SC-WGRDemo](https://github.com/betairylia/unity-voxel-SC-WGRDemo) Unity playground for voxel world generation / rendering.
-#### Fog
+#### Fog&&Smoke&&Cloud&&Atmospheric
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 - [FogOfWar](https://github.com/QinZhuo/FogOfWar_ForUnity) unity实现的基于视野的战争迷雾
-#### Volumetric Mesh
--  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
-####  VolumetricClouds&&Atmospheric
+- [Unity-URP-SmokeLighting](https://github.com/peeweek/Unity-URP-SmokeLighting)
 - https://github.com/vanish87/UnityVolumetricCloud
 - https://github.com/adrianpolimeni/RealTimeVolumetricClouds
 - https://github.com/Raphael2048/URP_SkyAtmosphere_VolumetricClouds
 - https://github.com/ebruneton/precomputed_atmospheric_scattering
-- https://github.com/Reguluz/Moonflow-Lensflare-System
+- https://github.com/Reguluz/Moonflow-Lensflare-System 
+#### Volumetric Mesh
+-  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
 #### Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
@@ -4739,6 +4740,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [CodeFPS](https://github.com/Zhao-666/CodeFPS) Unity引擎实现的一款FPS游戏，实现《使命召唤4》训练靶场关卡
 - [GameKit](https://github.com/FirstGearGames/GameKit) Pre-built commonly needed gameplay elements, with examples. Developed for Fish-Networking.
 ## Programmer-Common-Tool
+- https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/
+- 
 - https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
 - http://binaryconvert.com 专门做二进制转换的网站
