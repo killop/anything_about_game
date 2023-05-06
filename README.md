@@ -1311,8 +1311,9 @@ Table of Contents
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
 - https://github.com/nicholas-maltbie/OpenKCC
 - https://github.com/runevision/LocomotionSystem
-- https://assetstore.unity.com/packages/templates/packs/advanced-locomotion-controller-234390
+- [advanced-locomotion-controller](https://assetstore.unity.com/packages/templates/packs/advanced-locomotion-controller-234390) unity-plugin
 - https://github.com/Another-Axiom/GorillaLocomotion
+- [motion-matching-locomotion-controller](https://assetstore.unity.com/packages/tools/game-toolkits/motion-matching-locomotion-controller-243179) unity-plugin
 - https://github.com/Goodgulf281/Unity-Formation-Movement2.0
 - https://github.com/ssell/UnityDotsCharacterController
 - [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
@@ -1554,6 +1555,7 @@ Table of Contents
 ## Archive-GameReverse
 
 #### Collection
+- [Game-Cheating-Tutorial](https://github.com/BeneficialCode/Game-Cheating-Tutorial)
 - [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
 - [GameExtractor](https://github.com/wattostudios/GameExtractor) Reads and writes thousands of different archive and image formats used in games.
 - [puyotools]( https://github.com/nickworonekin/puyotools) Puyo Tools is a collection of tools and libraries used to access the contents of various game files. Although it was initially built to handle files used in Puyo Puyo games, it can handle files used in other games as well
@@ -1997,6 +1999,7 @@ Table of Contents
 - [UnityMemoryMappedFile](https://github.com/sh-akira/UnityMemoryMappedFile)
 - [SliccDB](https://github.com/pmikstacki/SliccDB) Light Embedded Graph Database for .net
 - [VeloxDB](https://github.com/VeloxDB/VeloxDB)
+- [BGDatabase](https://assetstore.unity.com/packages/tools/integration/bg-database-112262) unity-plugin
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
@@ -2387,6 +2390,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games :o2:
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 * [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming :o2:
+* [ge](https://github.com/mellinoe/ge) A general-purpose 3D game engine with editor, built with .NET Core
+* [MoltenEngine](https://github.com/Syncaidius/MoltenEngine) A spare-time C# .NET 7 game engine project. Cross-platform, multi-threaded.
+* [Furball](https://github.com/Furball-Engine/Furball) A Game Engine designed in C# using a custom made Renderer called Furball.Vixie, uses a similiar design to the Engine peppy made while developing osu!stable
+* [DeltaEngine](https://github.com/DeltaEngine/DeltaEngine) Open Source Multiplatform Game Engine, C# OpenGL Version (custom wrapper) including the Editor
 * [NeoAxisEngine](https://github.com/NeoAxis/NeoAxisEngine) NeoAxis Engine is a versatile real-time platform for making 3D, 2D games and apps.
 * [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 - https://saeruhikari.github.io/SakuraEngine/#/ Sakura
@@ -2969,6 +2976,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/riccardoscalco/glsl-pcg-prng
 - https://github.com/polymonster/pmfx-shader
 #### Shader-Compiler
+- [unity shaderlab 和 3dsmax maya .fx 自定义 hlsl directx material 材质的联系](https://zhuanlan.zhihu.com/p/627040080) [doc](https://docs.google.com/document/d/1yHARKE5NwOGmWKZY2z3EPwSz5V_ZxTDT8RnRl521iyE/)
 - [a-review-of-shader-languages](https://alain.xyz/blog/a-review-of-shader-languages)
 - [spir](https://www.khronos.org/spir/) The Industry Open Standard Intermediate Language for Parallel Compute and Graphics
 - [DirectX Intermediate Language](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/DXIL.rst)
@@ -4469,9 +4477,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/GilbertoGojira/DOTS-Stackr
 * https://github.com/AI-In-Games/FormationMovement
 * https://github.com/NagaChiang/entity-tween
-* https://github.com/nothke/UnityDOTSGotchas
 * https://github.com/mikyll/UnityDOTS-Thesis
 * https://github.com/sschoener/burst-simd-exercises
+* [Trove](https://github.com/PhilSA/Trove) Collection of tools for Unity DOTS
 #### PathFinding
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
