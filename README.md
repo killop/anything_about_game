@@ -95,6 +95,7 @@ Table of Contents
     - [DataVisual\&\&Editor](#datavisualeditor)
 - [Archive-GameReverse](#archive-gamereverse)
     - [Collection](#collection-2)
+    - [Unity-AssetBundle](#unity-assetbundle)
     - [Archive-Format](#archive-format)
     - [Disassembly](#disassembly)
 - [Patch](#patch)
@@ -175,6 +176,7 @@ Table of Contents
     - [ShaderVariant](#shadervariant)
     - [Course/Article](#coursearticle)
     - [Shader-Collection](#shader-collection)
+    - [ShaderToy](#shadertoy)
     - [OpenGL](#opengl)
     - [Tool](#tool)
     - [PlayGround](#playground)
@@ -499,7 +501,10 @@ Table of Contents
 ## Person/Social/Blogs
 #### Collection
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
+- [中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list)
+- [blogsilove](https://pema.dev/2022/07/29/blogsilove/)
 #### 中文
+- [日落间](https://xpaidia.com/)
 - [blurredcode](https://www.blurredcode.com/) 管线ta
 - [zznewclear13](https://zznewclear13.github.io/posts/) 管线ta
 - [eukky](https://eukky.github.io/) 管线ta
@@ -1566,6 +1571,14 @@ Table of Contents
 - https://github.com/dsasmblr/game-hacking/
 - https://github.com/kovidomi/game-reversing
 - [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
+
+* [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
+* [EpicFixShader](https://github.com/pema99/EpicFixShader) Patch shaders in AssetBundles to support Single Pass Stereo Instancing
+* [O-Z-Unity-Protector](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)
+* [Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector) An Integrated Encryption & Protection Scheme for Unity Project(Mono & IL2CPP)
+* [RemoteNET](https://github.com/theXappy/RemoteNET) Examine, create and interact with remote objects in other .NET processes.
+ #### Unity-AssetBundle
+* [AssetsTools](https://github.com/nesrak1/AssetsTools.NET) 
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
 * [AssetRipper](https://github.com/AssetRipper/AssetRipper) GUI Application to work with engine assets, asset bundles, and serialized files
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
@@ -1575,13 +1588,8 @@ Table of Contents
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
 * [UABEA](https://github.com/nesrak1/UABEA) Cross-platform Asset Bundle/Serialized File reader and writer. Originally based on (but not a fork of) UABE.
 * [UABE](https://github.com/SeriousCache/UABE) Asset Bundle Extractor
-* [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact
-* [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
-
-* [O-Z-Unity-Protector](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)
-* [Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector) An Integrated Encryption & Protection Scheme for Unity Project(Mono & IL2CPP)
-* [RemoteNET](https://github.com/theXappy/RemoteNET) Examine, create and interact with remote objects in other .NET processes.
-  
+* [Snuggle](https://github.com/yretenai/Snuggle) WIP Unity AssetBundle Exporter
+* [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact 
 #### Archive-Format
 - [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) Tool for extract PAK archives from games based on RE Engine
 - [Http-Multipart-Data-Parser](https://github.com/Http-Multipart-Data-Parser/Http-Multipart-Data-Parser) A C# Http Multipart/form-data parser that works correctly on binary data and very large files.
@@ -1596,7 +1604,6 @@ Table of Contents
 - [OWLib](https://github.com/overtools/OWLib) Series of programs (tools) to interact with the Overwatch files.
 - [CUE4Parse](https://github.com/FabianFG/CUE4Parse) C# Parser for Unreal Engine packages & assets
 - [yordle](https://github.com/yretenai/yordle) League of Legends Research Project
-- [Snuggle](https://github.com/yretenai/Snuggle) WIP Unity AssetBundle Exporter
 - [CASCExplorer](https://github.com/WoW-Tools/CASCExplorer) CASCExplorer
 - [nefsedit](https://github.com/victorbush/ego.nefsedit) NeFS archive editor for Ego Engine
 - [SoulsFormats](https://github.com/JKAnderson/SoulsFormats) A .NET library for reading and writing FromSoftware file formats.
@@ -1642,6 +1649,7 @@ Table of Contents
 - https://github.com/coryleach/UnitySaveLoad
 - https://github.com/FronkonGames/GameWork-Local-Data
 - https://github.com/Lurler/VirtualFileSystem
+- https://github.com/SpryFox/DarkConfig
 - [SaveLoadSystem](https://github.com/Zoroiscrying/com.zoroiscrying.core-game-systems/tree/main/Runtime/SaveLoadSystem)
 
 ## IO
@@ -1781,6 +1789,7 @@ Table of Contents
 - https://github.com/vu-luong/ezy-smashers
 - [hotel](https://github.com/minism/hotel) A simple master/lobby server for multiplayer games.
 #### Article
+- [6-community-videos-to-get-you-started-with-multiplayer](https://blog.unity.com/games/6-community-videos-to-get-you-started-with-multiplayer)
 - [Sakura Engine 中的状态同步](https://zhuanlan.zhihu.com/p/623969345)
 - [网络游戏的进阶架构](https://zhuanlan.zhihu.com/p/565731139） 
 - [漫话帧同步](https://zhuanlan.zhihu.com/p/381339755)
@@ -1885,6 +1894,7 @@ Table of Contents
 * https://github.com/HeatXD/PleaseResync
 * [open-netcode](https://github.com/polartron/open-netcode)
 #### status-syn
+- https://github.com/nilpunch/unity-prediction-rollback
 - https://github.com/zpl-c/librg
 - https://github.com/minism/fps-netcode
 - https://github.com/Yinmany/NetCode-FPS
@@ -1909,6 +1919,7 @@ Table of Contents
 * https://github.com/kidagine/Darklings-FightingGame
 * https://github.com/genxium/DelayNoMoreUnity
 * https://github.com/insthync/UnityMultiplayerARPG_MMO.NET
+* https://github.com/SolarianZ/Unity-Animation-Sync-Demo
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -2193,6 +2204,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [FishNet-ThirdPersonPrediction](https://github.com/RidefortGames/FishNet-ThirdPersonPrediction)
 * [UnityCustomRaycastVehicle](https://github.com/Roceh/UnityCustomRaycastVehicle)
 * [RVPFishNet-Multiplayer-Car-Controller](https://github.com/Roceh/RVPFishNet-Multiplayer-Car-Controller)
+* [fishnet-tutorial](https://gitee.com/ghostking9/fishnet-tutorial)
 * [NetworkParticleSystem](- https://github.com/celojevic/NetworkParticleSystem)
 * [NetworkPositionSync](https://github.com/James-Frowen/NetworkPositionSync) Network Transform using Snapshot Interpolation and other techniques to best sync position and rotation over the network.
 * [Snapshooter](https://github.com/agustin-golmar/Snapshooter) An implementation of the snapshot interpolation algorithm on Unity 3D, with client-server architecture and possibly, prediction.
@@ -2998,7 +3010,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Shader中的代码优化原理分析](https://blog.csdn.net/qq_36383623/article/details/107249625)
 - [HLSL中的MUL指令深层剖析](https://blog.csdn.net/u012871784/article/details/49250765)
 - [shader mad是汇编指令吗_Shader中的代码优化原理分析](https://blog.csdn.net/weixin_39634900/article/details/111584248)
-- [EpicFixShader](https://github.com/pema99/EpicFixShader) Patch shaders in AssetBundles to support Single Pass Stereo Instancing
 - [The Shader Permutation Problem - Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 - [The Shader Permutation Problem - Part 2: How Do We Fix It](https://therealmjp.github.io/posts/shader-permutations-part2/) 
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf) 
@@ -3053,6 +3064,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Alligrater/Shader-Practice
 - https://github.com/cnlohr/shadertrixx shader tricks
 - https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
+- https://github.com/pema99/shader-knowledge
 - https://github.com/danilw/GPU-my-list-of-bugs
 - [avoiding-shader-conditionals](https://theorangeduck.com/page/avoiding-shader-conditionals)
 - https://github.com/McNopper/OpenGL 
@@ -3079,7 +3091,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://space.bilibili.com/5863867/article
 - https://space.bilibili.com/6373917/video
 - http://glslsandbox.com/ 
-- https://www.shadertoy.com/browse 
 - https://www.ronja-tutorials.com/ 
 - https://github.com/lettier/3d-game-shaders-for-beginners 
 - https://github.com/WorldOfZero/UnityVisualizations
@@ -3105,6 +3116,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/julienkay/genesis
 - [Coloring](https://github.com/DumoeDss/Coloring) 基于通道混合的染色系统
 - [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader)
+
+#### ShaderToy
+- https://github.com/umutbebek/shadertoy-to-unity-URP
+- https://pema.dev/glsl2hlsl/
+- https://www.shadertoy.com/browse 
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -3413,7 +3429,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/haolange/InfinityRenderPipeline
 - https://github.com/MatheusMarkies/MagicByte
-- https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://github.com/JorenJoestar/DataDrivenRendering
 - https://github.com/larsbertram69
 - https://github.com/TakeshiCho/UI_RenderPipelineInLinearSpace
@@ -4313,6 +4328,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
 - [UI-Toolkit-Plus](https://github.com/ErnSur/UI-Toolkit-Plus)
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
+- https://assetstore.unity.com/packages/tools/gui/flexbuilder-2023-flexbox-css-3-ui-245345
 - https://github.com/chasinghope/CurveLayoutGroup
 - https://github.com/niwatly/SectorLayoutGroup
 - https://github.com/cyberaslan/AdaptiveGrid
@@ -4465,7 +4481,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Tdbe-2023-URP-DOTS-ECS-Graphics-Physics](https://github.com/tdbe/Tdbe-2023-URP-DOTS-ECS-Graphics-Physics)
 * [tertle](https://gitlab.com/tertle)
 * [ReactiveDots](https://github.com/PanMadzior/ReactiveDots) Reactive systems and other utilities for Unity DOTS.
-* [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray) https://github.com/GilbertoGojira/DOTS-Stackray
+* [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray)
 * [bovinelabs](https://github.com/tertle/com.bovinelabs.core)
 * [actors](https://github.com/PixeyeHQ/actors.unity)
 * [ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)
