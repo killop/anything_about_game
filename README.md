@@ -282,7 +282,7 @@ Table of Contents
 - [Unity](#unity)
     - [Awesome-Unity](#awesome-unity)
     - [AssetBundle](#assetbundle)
-    - [Framework](#framework)
+    - [Unity-Framework](#unity-framework)
     - [Dependency Injection](#dependency-injection)
     - [Skill](#skill)
     - [Occlusion Culling](#occlusion-culling)
@@ -1236,6 +1236,7 @@ Table of Contents
 * [PlasticTween](https://github.com/PlasticApps/PlasticTween) Tween Library for Unity3D(ECS+JOBS)
 * [unity-tweens](https://github.com/jeffreylanters/unity-tweens)
 * [TweenRx](https://github.com/fumobox/TweenRx) Reactive animation utility for Unity
+* [unity-animation-library](https://github.com/zigurous/unity-animation-library)
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -2985,8 +2986,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - [common-shaders](https://github.com/libretro/common-shaders)
-- https://github.com/riccardoscalco/glsl-pcg-prng
-- https://github.com/polymonster/pmfx-shader
+- [HLSL-Library](https://github.com/youandhubris/HLSL-Library)
+- [glsl-pcg-prng](https://github.com/riccardoscalco/glsl-pcg-prng) Glsl implementation of the PCG algorithm for the generation of random numbers.
+
 #### Shader-Compiler
 - [unity shaderlab 和 3dsmax maya .fx 自定义 hlsl directx material 材质的联系](https://zhuanlan.zhihu.com/p/627040080) [doc](https://docs.google.com/document/d/1yHARKE5NwOGmWKZY2z3EPwSz5V_ZxTDT8RnRl521iyE/)
 - [a-review-of-shader-languages](https://alain.xyz/blog/a-review-of-shader-languages)
@@ -3015,6 +3017,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [How does a GPU Shader work?](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf) 
 - [ShaderLab](https://github.com/BobLChen/ShaderLab)
 - [crossshader](https://github.com/alaingalvan/crossshader)
+- [pmfx-shader](https://github.com/polymonster/pmfx-shader)
 #### ShaderVariant
 - [Shader变体收集与打包](https://github.com/Nicholas10128/AAAResearch/blob/master/Experiences/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97/Shader%E6%89%93%E5%8C%85%E6%A8%A1%E5%9D%97.md#shadervariantcollection%E7%94%9F%E6%88%90%E9%80%9A%E8%BF%87shaderfeature%E5%AE%9A%E4%B9%89%E7%9A%84%E5%8F%98%E4%BD%93%E8%A7%84%E5%88%99)
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
@@ -3121,6 +3124,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://pema.dev/glsl2hlsl/
 - https://www.shadertoy.com/browse 
+- https://github.com/smkplus/ShaderMan
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -3530,6 +3534,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/AlerianEmperor/LuxRenderer
 - - https://github.com/jiaozi158/UnitySSPathTracingURP
 - https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer
+- https://github.com/teofilobd/URP-RayTracer
 ##### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
@@ -4157,7 +4162,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [AssetBundleLoadManager](https://github.com/TonyTang1990/AssetBundleLoadManager)
 - [QuarkAsset](https://github.com/DonnYep/QuarkAsset)
 
-#### Framework
+#### Unity-Framework
 - https://qinzhuo.coding.net/public/
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
@@ -4183,6 +4188,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ALEXTANGXIAO/GameFramework-at-YooAsset
 - [TaoTie](https://github.com/526077247/TaoTie) 基于YooAsset资源管理的轻量级UI框架
 - [GameDevelopmentKit](https://github.com/XuToWei/GameDevelopmentKit)
+- [UniFramework](https://github.com/gmhevinci/UniFramework)
+- [OxGFrame](https://github.com/michael811125/OxGFrame)
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
