@@ -2206,6 +2206,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityCustomRaycastVehicle](https://github.com/Roceh/UnityCustomRaycastVehicle)
 * [RVPFishNet-Multiplayer-Car-Controller](https://github.com/Roceh/RVPFishNet-Multiplayer-Car-Controller)
 * [fishnet-tutorial](https://gitee.com/ghostking9/fishnet-tutorial)
+* [FishMMO](https://github.com/jimdroberts/FishMMO) FishNetworking MMO Template
 * [NetworkParticleSystem](- https://github.com/celojevic/NetworkParticleSystem)
 * [NetworkPositionSync](https://github.com/James-Frowen/NetworkPositionSync) Network Transform using Snapshot Interpolation and other techniques to best sync position and rotation over the network.
 * [Snapshooter](https://github.com/agustin-golmar/Snapshooter) An implementation of the snapshot interpolation algorithm on Unity 3D, with client-server architecture and possibly, prediction.
@@ -4046,6 +4047,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 ## Embed-Script/VM/
 - [IwasmUnity](https://github.com/HoloLabInc/IwasmUnity)
+- [cyber](https://github.com/fubark/cyber) Fast and concurrent scripting.
 - [luajit-remake](https://github.com/luajit-remake/luajit-remake)
 - [minivm](https://github.com/FastVM/minivm) A VM That is Dynamic and Fast
 - [CS2X](https://github.com/reignstudios/CS2X) Transpiles a C# subset to non .NET languages and runtimes. (Powered by Roslyn) 
@@ -4517,6 +4519,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
 - [unity-rrt](https://github.com/markus-exler/unity-rrt)
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
+- [DotRecast](https://github.com/ikpil/DotRecast) C# Recast & Detour is a navigation mesh toolkit for games, Unity3D and servers.
 - https://github.com/recastnavigation/recastnavigation
 - https://github.com/KimHeeRyeong/SphereNavigation
 - https://github.com/idbrii/unity-navgen
