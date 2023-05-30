@@ -1285,6 +1285,7 @@ Table of Contents
 - https://github.com/huailiang/knead_proj unity  捏脸
 - https://assetstore.unity.com/packages/tools/animation/puppet-face-181312
 - https://github.com/PixelWizards/BlendShapeController blendShapeController
+- https://github.com/hiroki-o/VoxBlend blendShapeController
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
 - [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
@@ -1330,6 +1331,7 @@ Table of Contents
 - [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller)
 - [2D-Character-Controller](https://github.com/Brackeys/2D-Character-Controller)
 - [UnityAdvancedFPSCharacterController](https://github.com/NecroMarX/UnityAdvancedFPSCharacterController)
+- [Unity-FullBody-FPS-Controller](https://github.com/TCKingCeryn/Darktide-40K-Unity-FullBody-FPS-Controller)
 - [CustomBody](https://github.com/MusouCrow/CustomBody) A wheel of KinematicBody
 - [platformer-project-206584](https://assetstore.unity.com/packages/templates/systems/platformer-project-206584)
 
@@ -2713,6 +2715,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-) [Blog](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) 
 - [UnityInteractableWater-Grass-Wind_URP](https://github.com/Zoroiscrying/UnityInteractableWater-Grass-Wind_URP)
 - https://github.com/aniruddhahar/URP-WaterShaders
+- https://github.com/abitofgamedev/water_vfx from here[youtube](https://www.youtube.com/watch?v=3CcWus6d_B8)
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
@@ -3313,6 +3316,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [OBBReflectionProbeSupport](https://github.com/noisecrime/Unity-OBBReflectionProbeSupport)
 - [InfLightProbe](https://github.com/limztudio/InfLightProbe) Automatic Light probe generator for Unity engine. Based on "Light Grid" of "Precomputed Lighting in CoD IW 2017". and "Light probe interpolation using tetrahedral tessellations" by "Robert Cupisz".
 - https://github.com/pieroaccardi/Unity_SphericalHarmonics_Tools
+- https://github.com/526077247/Dual-Paraboloid-Reflection-Mapping
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://github.com/Shrimpey/UltimateOutline
@@ -3568,6 +3572,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [ScalableAmbientObscurance](https://research.nvidia.com/publication/scalable-ambient-obscurance) https://research.nvidia.com/publication/scalable-ambient-obscurance
 * [XeGTAO](https://github.com/GameTechDev/XeGTAO) An implementation of [Jimenez et al., 2016] Ground Truth Ambient Occlusion, MIT license
 * [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
+* [UnitySSReflectionURP](https://github.com/jiaozi158/UnitySSReflectionURP)
 * [Robust Screen Space Ambient Occlusion](https://github.com/wolfgangfengel/GPUZen/tree/master/04_Screen%20Space/) Robust Screen Space Ambient Occlusion
 * [HBAOPlus](https://github.com/NVIDIAGameWorks/HBAOPlus) HBAO+ is a SSAO algorithm designed to achieve high efficiency on DX11 GPUs. 
 * [gl_ssao](https://github.com/nvpro-samples/gl_ssao) optimized screen-space ambient occlusion, cache-aware hbao  
@@ -4608,6 +4613,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Raphael2048/URP_SkyAtmosphere_VolumetricClouds
 - https://github.com/ebruneton/precomputed_atmospheric_scattering
 - https://github.com/Reguluz/Moonflow-Lensflare-System 
+- https://github.com/AKGWSB/RealTimeAtmosphere
 #### Volumetric Mesh
 -  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
 #### Editor
