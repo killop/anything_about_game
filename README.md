@@ -1792,11 +1792,13 @@ Table of Contents
 - https://github.com/vu-luong/ezy-smashers
 - [hotel](https://github.com/minism/hotel) A simple master/lobby server for multiplayer games.
 #### Article
+- [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
 - [6-community-videos-to-get-you-started-with-multiplayer](https://blog.unity.com/games/6-community-videos-to-get-you-started-with-multiplayer)
 - [Sakura Engine 中的状态同步](https://zhuanlan.zhihu.com/p/623969345)
 - [网络游戏的进阶架构](https://zhuanlan.zhihu.com/p/565731139） 
 - [漫话帧同步](https://zhuanlan.zhihu.com/p/381339755)
 - [载具的物理同步](https://zhuanlan.zhihu.com/p/623356428)
+- [手游载具物理同步的实现方案](https://indienova.com/indie-game-development/game-vehicle-network-sync/)
 - [游戏网络同步绿皮书](https://zhuanlan.zhihu.com/p/565875153)
 - [从零开始的Unity网络同步 6.客户端本地预测(预表现)](https://zhuanlan.zhihu.com/p/49483875)
 - [如何理解游戏引擎中的逻辑帧？](https://www.zhihu.com/question/568766453/answer/2774815968)
@@ -4444,6 +4446,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
 - [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
 - [MethodChangeWithILPostProcessor](https://github.com/sune2/MethodChangeWithILPostProcessor)
+- [引擎编译时间优化](https://zhuanlan.zhihu.com/p/601065788)
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -4551,6 +4554,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [WZCQ](https://github.com/FengQuanLi/WZCQ) 用基于策略梯度得强化学习方法训练AI玩王者荣耀
 - https://github.com/RubenFrans/ContextSteering-Unity
 - https://github.com/friedforfun/ContextSteering
+- [避障算法 - VO、RVO 以及 ORCA (RVO2)](https://indienova.com/indie-game-development/vo-rvo-orca/)
 #### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
  - [dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
