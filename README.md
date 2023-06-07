@@ -203,7 +203,7 @@ Table of Contents
       - [Shader-GUI](#shader-gui)
       - [Interior](#interior)
       - [Decal](#decal)
-      - [Face](#face)
+      - [Skin](#skin)
       - [Crystal](#crystal)
       - [Ice](#ice)
       - [Rimlight](#rimlight)
@@ -950,6 +950,7 @@ Table of Contents
 * [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
 * [Blender](https://blender.org) - Modeling and animation
 * [awesome-blender](https://github.com/agmmnn/awesome-blender)
+* [Blender-Render-Engine-for-Unity-MeshSync](https://github.com/Ohmnivore/Blender-Render-Engine-for-Unity-MeshSync)
 * [awesomeblend](https://github.com/Davetmo/awesomeblend)
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
  seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d).
@@ -1299,6 +1300,7 @@ Table of Contents
 - [kinematica](https://docs.unity3d.com/Packages/com.unity.kinematica@0.8/manual/index.html)
 - [reanimation](https://github.com/aarthificial/reanimation) An alternative animator for Unity tailored for traditional animation
 - [dmotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
+- [rukhanka](https://assetstore.unity.com/packages/tools/animation/rukhanka-ecs-animation-system-241472) unity-plugin
 - [Puppeteer](https://github.com/SolarianZ/Puppeteer) A graph based animation controller for Unity. 
 - [nkgmoba-animsystem-dawn-blossoms-plucked-at-dusk](https://www.lfzxb.top/nkgmoba-animsystem-dawn-blossoms-plucked-at-dusk/)
 - [uPlayableAnimation](https://github.com/EricHu33/uPlayableAnimation)
@@ -1990,6 +1992,7 @@ Table of Contents
 - https://github.com/tkonexhh/OpenWorld
 - https://github.com/Ermiq/GodotMono-InfiniteTerrain
 - https://github.com/tkonexhh/LearnGPUDrivenTerrain
+- https://github.com/missyouangeled/GPUDriven_Project
 - https://github.com/guchengyidao/OpenWorldTerrainToolset
 - https://github.com/emrecancubukcu/Terrain-Decorator
 - https://github.com/jintiao/VirtualTexture
@@ -3406,8 +3409,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [kDecals](https://github.com/Kink3d/kDecals) kDecals is a system for definition, placement and rendering of projection Decals in Unity's Universal Render Pipeline
 * [DynamicDecals](https://github.com/EricFreeman/DynamicDecals)
 * [driven-decals](https://github.com/Anatta336/driven-decals)
- ##### Face
+ ##### Skin
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
+- [Skin](https://github.com/codewings/PreIntegrated-Skin)
 
 ##### Crystal
 - https://github.com/CJT-Jackton/URP-Anime-Crystal-Shader

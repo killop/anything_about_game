@@ -49,6 +49,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - https://github.com/Razmoth/HoYoStudio
 - https://github.com/festivize/Cheddar
 - [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
+- [URPSimpleGenshinShaders](https://github.com/NoiRC256/URPSimpleGenshinShaders) A Unity URP shader for Genshin Impact style character facial shading.
 ## 塞尔达传说：荒野之息
 - [塞尔达荒野之息各类渲染效果研究与实践笔记（1）](https://zhuanlan.zhihu.com/p/580141974)
 - [为你分析历代《塞尔达传说》的美术设定与动画技术](https://www.taptap.com/topic/2604022?region=jp)
