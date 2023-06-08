@@ -2433,6 +2433,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [WolfEngine](https://github.com/WolfEngine/Wolf.Engine) The Wolf is a comprehensive set of C/C++ open source libraries for realtime rendering, realtime streaming and game developing
 ## GameAI
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
+* https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
 - [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
 - [com.bananaparty.behaviortree](https://github.com/forcepusher/com.bananaparty.behaviortree) Unity package. Fully cross-platform Behavior Tree featuring support for deterministic simulation and prediction-rollback netcode.  
 - https://github.com/piruzhaolu/ActionFlow
@@ -2721,6 +2722,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [UnityInteractableWater-Grass-Wind_URP](https://github.com/Zoroiscrying/UnityInteractableWater-Grass-Wind_URP)
 - https://github.com/aniruddhahar/URP-WaterShaders
 - https://github.com/abitofgamedev/water_vfx from here[youtube](https://www.youtube.com/watch?v=3CcWus6d_B8)
+- https://github.com/Unity-Technologies/WaterScenes
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
@@ -3335,6 +3337,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
+- https://github.com/sienaiwun/Unity_TiledResource
 
 #### FootPrint 
 - https://github.com/edualvarado/
