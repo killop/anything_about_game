@@ -1265,6 +1265,7 @@ Table of Contents
 - ( 这个实用性很强) 贝塞尔逼近 参考 astarPath 插件里面的BezierMover     
 -  速度优化 参考 astarPath 插件里面 MovementUtilities 脚本
 -  https://github.com/Unity-Technologies/SuperScience 官方3rd 移动模拟
+-  https://github.com/redwyre/com.redwyre.physics-custom-authoring
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 -  https://github.com/jongallant/Unity-Bullet-Hell
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
@@ -1927,6 +1928,7 @@ Table of Contents
 * https://github.com/genxium/DelayNoMoreUnity
 * https://github.com/insthync/UnityMultiplayerARPG_MMO.NET
 * https://github.com/SolarianZ/Unity-Animation-Sync-Demo
+* https://github.com/UnityTechnologies/GalacticKittens
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -4315,6 +4317,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
 #### UI
 - [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
+- [MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) ViewSystem is a element based UI management system based on Unity GUI
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
 - [CSReactive](https://github.com/labbbirder/CSReactive) 纯C#下实现Vue，特别针对Unity
 - [MVI4Unity](https://github.com/Wilson403/MVI4Unity) 基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）
