@@ -1381,6 +1381,7 @@ Table of Contents
 - https://github.com/cobbr
 - https://github.com/Cysharp/Kokuban
 - https://github.com/alexrp/system-terminal
+- [fabfile](https://www.fabfile.org/) Simple, Pythonic remote execution and deployment.
 
 
 ## Scenes
@@ -2003,6 +2004,7 @@ Table of Contents
 - https://github.com/decentraland/unity-renderer
 - https://github.com/CesiumGS/cesium-unity
 - https://github.com/SimBlocks/OneWorldSDKforUnity
+- [SnowyOwl](https://github.com/SnowyLake/SnowyOwl) Unity Large World & Toon Shading Solution.
 
 ## DataBase
 - https://github.com/dolthub/dolt
@@ -2433,6 +2435,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
 - [rbfx](https://github.com/rokups/rbfx)
 - [WolfEngine](https://github.com/WolfEngine/Wolf.Engine) The Wolf is a comprehensive set of C/C++ open source libraries for realtime rendering, realtime streaming and game developing
+- [source-engine](https://github.com/nillerusr/source-engine) Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
 ## GameAI
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
@@ -2444,6 +2447,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/jzyong/GameAI4j
 - https://github.com/kietran99/BehaviorTree
 - https://github.com/thekiwicoder0/UnityBehaviourTreeEditor
+- https://github.com/crashkonijn/GOAP
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -2596,6 +2600,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [comparison with math libraries](https://nfrechette.github.io/2019/01/19/introducing_realtime_math/)
 - [线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
 - [lir](https://github.com/Evryway/lir) Largest Interior Rectangle implementation in C# for Unity.
+- https://github.com/Ohmnivore/com.not-unity.bsplines
 
 #### Unity-Transform
 - [Unity 和 Unreal 渲染中的坐标变换和跨平台兼容](https://zhuanlan.zhihu.com/p/590584851)
@@ -3336,6 +3341,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Robinseibold/Unity-URP-Outlines
 - [sdf-outline](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/corgi-sdf-outlines-aka-stroke-outlines-for-urp-206960) unity-plugin
 - [ultimate-outlines-highlights](https://assetstore.unity.com/packages/vfx/shaders/ultimate-outlines-highlights-235063)  unity-plugin
+- [QuickOutline](https://github.com/chrisnolet/QuickOutline)
 
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
@@ -3669,6 +3675,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
 - [Thinking Parallel, Part III: Tree Construction on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/) 
 #### Compute-Shader
+- [compute-shaders-in-unity-multiple-kernels-computebuffers-cpu-gpu-data-flow](https://www.artstation.com/blogs/degged/ZV2q/compute-shaders-in-unity-multiple-kernels-computebuffers-cpu-gpu-data-flow)
 - [Compute Shader 简介](http://frankorz.com/2021/04/17/compute-shader/)
 - [Introduction to Compute Shaders](https://anteru.net/blog/2018/intro-to-compute-shaders/)
 - [More Compute Shaders](https://anteru.net/blog/2018/more-compute-shaders/)
@@ -3708,6 +3715,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/happy-turtle/oit-unity
 - https://github.com/candycat1992/OIT_Lab
 - https://github.com/przemyslawzaworski/Unity-GPU-Based-Tetrahedralization
+- https://github.com/fuqunaga/GpuTrail
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -3753,7 +3761,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Sylmerria/Spatial-Hashing
 - https://github.com/AdamYuan/SparseVoxelOctree
 - https://github.com/bartofzo/NativeTrees
-- https://github.com/EmmetOT/BoundingVolumeHierarchy
+- https://github.com/emilianavt/BVHTools
 
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
@@ -4357,6 +4365,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://assetstore.unity.com/packages/tools/gui/flexbuilder-2023-flexbox-css-3-ui-245345
 - https://github.com/chasinghope/CurveLayoutGroup
 - https://github.com/niwatly/SectorLayoutGroup
+- https://github.com/zambari/LayoutPanel.UI.Unity
 - https://github.com/cyberaslan/AdaptiveGrid
 - https://github.com/feifeid47/Unity-UI-Adapter
 - https://github.com/mitay-walle/com.mitay-walle.ui-circle-segmented
@@ -4528,6 +4537,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * http://qiao.github.io/PathFinding.js/visual/
 * https://github.com/trgrote/JPS-Unity
 * https://space.bilibili.com/477041559
+* https://github.com/bustedbunny/Pathfinding
+* [EntitiesNavMeshBuilder](https://github.com/bustedbunny/EntitiesNavMeshBuilder) Runtime NavMesh dynamic building for Unity Entities.
 - [Unity-Formation-Movement2.0](https://github.com/Goodgulf281/Unity-Formation-Movement2.0)  Formation movement for Unity 3D using built in NavMesh navigation or A*Pathfinding
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
@@ -4564,6 +4575,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [WZCQ](https://github.com/FengQuanLi/WZCQ) 用基于策略梯度得强化学习方法训练AI玩王者荣耀
 - https://github.com/RubenFrans/ContextSteering-Unity
 - https://github.com/friedforfun/ContextSteering
+- https://github.com/SunnyValleyStudio/Unity-2D-Context-steering-AI
 - [避障算法 - VO、RVO 以及 ORCA (RVO2)](https://indienova.com/indie-game-development/vo-rvo-orca/)
 #### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
