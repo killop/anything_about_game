@@ -505,6 +505,7 @@ Table of Contents
 - [blogsilove](https://pema.dev/2022/07/29/blogsilove/)
 #### 中文
 - [日落间](https://xpaidia.com/)
+- [Unity尧明](https://blog.csdn.net/u013716859?)
 - [blurredcode](https://www.blurredcode.com/) 管线ta
 - [zznewclear13](https://zznewclear13.github.io/posts/) 管线ta
 - [eukky](https://eukky.github.io/) 管线ta
@@ -1999,12 +2000,15 @@ Table of Contents
 - https://github.com/guchengyidao/OpenWorldTerrainToolset
 - https://github.com/emrecancubukcu/Terrain-Decorator
 - https://github.com/jintiao/VirtualTexture
+- https://github.com/haolange/InfinityTexture
 - https://github.com/ACskyline/PVTUT
 - https://github.com/Unity-Technologies/Megacity-Sample
+- [MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer) 
 - https://github.com/decentraland/unity-renderer
 - https://github.com/CesiumGS/cesium-unity
 - https://github.com/SimBlocks/OneWorldSDKforUnity
 - [SnowyOwl](https://github.com/SnowyLake/SnowyOwl) Unity Large World & Toon Shading Solution.
+
 
 ## DataBase
 - https://github.com/dolthub/dolt
@@ -2415,6 +2419,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games :o2:
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 * [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming :o2:
+* [FocusEngine](https://github.com/phr00t/FocusEngine)
 * [ge](https://github.com/mellinoe/ge) A general-purpose 3D game engine with editor, built with .NET Core
 * [MoltenEngine](https://github.com/Syncaidius/MoltenEngine) A spare-time C# .NET 7 game engine project. Cross-platform, multi-threaded.
 * [Furball](https://github.com/Furball-Engine/Furball) A Game Engine designed in C# using a custom made Renderer called Furball.Vixie, uses a similiar design to the Engine peppy made while developing osu!stable
@@ -3225,7 +3230,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [smallvcm](http://www.smallvcm.com/)
 - [mitsuba](https://www.mitsuba-renderer.org/) which though focuses on advanced R&D on light transport
 - [lightmetrica](Lightmetrica : A modern, research-oriented renderer ) 
-- [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [[github](https://github.com/google/filament) ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social&label=Star&maxAge=2592000)] [中文翻译地址](https://jerkwin.github.io/filamentcn/)
+- [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [github](https://github.com/google/filament) ![google/filament](https://img.shields.io/github/stars/google/filament.svg?style=social&label=Star&maxAge=2592000) [中文翻译地址](https://jerkwin.github.io/filamentcn/)
 - [【基于物理渲染】业界主流GGX](https://zhuanlan.zhihu.com/p/32985996)
 - [publications](https://www.ppsloan.org/publications/)
 - [图流：Unity 标准PBR材质 美术向数据流程](https://zhuanlan.zhihu.com/p/397501285)
@@ -3243,7 +3248,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/TechMiZ/ToonShadingCollection
 - http://stylized.realtimerendering.com/
 - https://zhuanlan.zhihu.com/p/532600738
-- [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)  
+- [非真实渲染](https://mp.weixin.qq.coqm/s/oNjYmta6FFkfhCsOO6ZCWA)
 - [PBR Lego Shading – 基于PBR的偏风格化的乐高材质](http://walkingfat.com/pbr-lego-shading-%E5%9F%BA%E4%BA%8Epbr%E7%9A%84%E5%81%8F%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E4%B9%90%E9%AB%98%E6%9D%90%E8%B4%A8/)
 - [【NPR】卡通渲染](https://blog.csdn.net/candycat1992/article/details/50167285)及其对应的github库[NPR_Lab](https://github.com/candycat1992/NPR_Lab)
 - [UnityChanToonShaderVer2](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) toon shader的解决方案
@@ -3527,7 +3532,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [VoxelConeTracing](https://github.com/domme/VoxelConeTracing) An implementation of the "Voxel Cone Tracing" global illumination technique proposed by Cyril Crassin
 * [VCTGI](https://github.com/rdinse/VCTGI) GPU-based real-time global illumination renderer based on voxel cone tracing
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
-*  [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
+* [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 ##### SSGI
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
@@ -4416,6 +4421,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/snaphat/UnityTimelineTools
 - https://github.com/AnnulusGames/TweenPlayables
 - https://github.com/nmxi/Unity_AbstractTimelineExtention
+- [animate-ui-materials](https://assetstore.unity.com/packages/2d/gui/animate-ui-materials-253197)
+- [postprocessing-controller](https://assetstore.unity.com/packages/tools/utilities/postprocessing-controller-217499)
+- [material-timeline-track](https://assetstore.unity.com/packages/tools/animation/material-timeline-track-207256)
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
