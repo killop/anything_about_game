@@ -1628,6 +1628,10 @@ Table of Contents
 * [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI) 
 * [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) Powerful automated tool for reverse engineering Unity IL2CPP binaries www.djkaty.com
 * [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) Work-in-progress tool to reverse unity's IL2CPP toolchain.
+* [UnityFusionCLR](https://github.com/Phantomxm2021/UnityFusionCLR)
+* [il2cpp-cpp-class-generator](https://github.com/madiskoivopuu/il2cpp-cpp-class-generator) A program that generates C++ classes that wrap around the IL2CPP functions to access C# classes.
+* [coreclr](https://github.com/dotnetGame/coreclr) CoreCLR for Unity
+* [natsu-clr](https://github.com/dotnetGame/natsu-clr) il2cpp transpiler and runtime compatible with .Net Core
 ## Patch
 - [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
 - https://github.com/redwood/redwood
@@ -3425,6 +3429,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [kDecals](https://github.com/Kink3d/kDecals) kDecals is a system for definition, placement and rendering of projection Decals in Unity's Universal Render Pipeline
 * [DynamicDecals](https://github.com/EricFreeman/DynamicDecals)
 * [driven-decals](https://github.com/Anatta336/driven-decals)
+* [AirSticker](https://github.com/CyberAgentGameEntertainment/AirSticker) Air Sticker is a decal system that addresses the limitations of URP decals and has a low impact on performance.
  ##### Skin
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
 - [Skin](https://github.com/codewings/PreIntegrated-Skin)
@@ -3562,6 +3567,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - - https://github.com/jiaozi158/UnitySSPathTracingURP
 - https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer
 - https://github.com/teofilobd/URP-RayTracer
+- https://github.com/AlucardDH/dh-reshade-shaders
 ##### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
@@ -3969,6 +3975,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [stringHelper](https://github.com/Dogwei/Swifter.Json/blob/db6c0be4fa2bfac5583d5bce7b475a2d618e7d74/Swifter.Core/Tools/String/StringHelper.cs) unsafe zero alloc string from [swifter](https://github.com/Dogwei/Swifter.Core)
 - [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) ZeroLog is a zero-allocation .NET logging library
 - https://github.com/Misaka-Mikoto-Tech/MutableString
+- https://github.com/linkdotnet/StringBuilder
 #### Thread/Task
 - https://github.com/RichieSams/FiberTaskingLib
 - https://github.com/taskflow/taskflow
@@ -4221,6 +4228,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [GameDevelopmentKit](https://github.com/XuToWei/GameDevelopmentKit)
 - [UniFramework](https://github.com/gmhevinci/UniFramework)
 - [OxGFrame](https://github.com/michael811125/OxGFrame)
+- [ZeroGameKit](https://github.com/jinglikeblue/ZeroGameKit)
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
@@ -4405,6 +4413,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
 - https://github.com/brunomikoski/Animation-Sequencer
+- https://github.com/DhafinFawwaz/Unity-AnimationUI
 - https://github.com/instance-id/ElementAnimationToolkit
 - http://zh.esotericsoftware.com/spine-unity
 #### 2D
@@ -4455,6 +4464,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/KybernetikGames/LinkAndSync
 - https://github.com/Rhinox-Training/rhinox-lightspeed
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
+- https://github.com/GaryMcWhorter/Verlet-Chain-Unity
 - https://github.com/ehakram/FrameRateBooster
 - https://github.com/stonesheltergames/Unity-GUID
 - https://github.com/williamrjackson/UnityScriptingUtilities
