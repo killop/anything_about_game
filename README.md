@@ -1479,6 +1479,7 @@ Table of Contents
 * [ways-to-render-1M-cubes](https://github.com/GeorgeAdamon/ways-to-render-1M-cubes)
 * [shaders-botw-grass](https://github.com/daniel-ilett/shaders-botw-grass)
 * [Unity-Grass](https://github.com/cainrademan/Unity-Grass)
+* [Unity-Optimized-Coins-Shader](https://github.com/DhafinFawwaz/Unity-Optimized-Coins-Shader)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -2007,7 +2008,8 @@ Table of Contents
 - https://github.com/haolange/InfinityTexture
 - https://github.com/ACskyline/PVTUT
 - https://github.com/Unity-Technologies/Megacity-Sample
-- [MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer) 
+- [MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer)
+- [DOTSoftheDead](https://github.com/illogika-studio/DOTSoftheDead) 
 - https://github.com/decentraland/unity-renderer
 - https://github.com/CesiumGS/cesium-unity
 - https://github.com/SimBlocks/OneWorldSDKforUnity
@@ -2224,8 +2226,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [FishNet-ThirdPersonPrediction](https://github.com/RidefortGames/FishNet-ThirdPersonPrediction)
 * [UnityCustomRaycastVehicle](https://github.com/Roceh/UnityCustomRaycastVehicle)
 * [RVPFishNet-Multiplayer-Car-Controller](https://github.com/Roceh/RVPFishNet-Multiplayer-Car-Controller)
-* [fishnet-tutorial](https://gitee.com/ghostking9/fishnet-tutorial)
+* [fishnet-tutorial](https://gitee.com/ghostking9/fishnet-tutorial) 
 * [FishMMO](https://github.com/jimdroberts/FishMMO) FishNetworking MMO Template
+* [FishyEOS](https://github.com/ETdoFresh/FishyEOS) A FishNet Transport Library for Unity FishNet.
 * [NetworkParticleSystem](- https://github.com/celojevic/NetworkParticleSystem)
 * [NetworkPositionSync](https://github.com/James-Frowen/NetworkPositionSync) Network Transform using Snapshot Interpolation and other techniques to best sync position and rotation over the network.
 * [Snapshooter](https://github.com/agustin-golmar/Snapshooter) An implementation of the snapshot interpolation algorithm on Unity 3D, with client-server architecture and possibly, prediction.
@@ -4359,6 +4362,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
+- https://github.com/Giresharu/TMPro-Player
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/gwaredd/UnityMarkdownViewer
 - https://github.com/mitay-walle/com.mitay-walle.text-asset-inspector-edit
@@ -4533,6 +4537,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances. 
 * [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) The packages contained in this repository are packages built upon Unity DOTS which I use for my own personal hobbyist game development
 * [Tdbe-2023-URP-DOTS-ECS-Graphics-Physics](https://github.com/tdbe/Tdbe-2023-URP-DOTS-ECS-Graphics-Physics)
+* [NativeMessenger](https://github.com/bustedbunny/NativeMessenger) This is system-wide native messenger for Unity Entities. It provides an efficient way to trigger systems on demand without involving entities data or any structural changes.
 * [tertle](https://gitlab.com/tertle)
 * [ReactiveDots](https://github.com/PanMadzior/ReactiveDots) Reactive systems and other utilities for Unity DOTS.
 * [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray)
@@ -4793,6 +4798,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [u3d](https://github.com/DragonBox/u3d/) fast lane
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
 - [UnitySkipSplash](https://github.com/psygames/UnitySkipSplash) Skip Unity Splash Screen only one script
+- [xcode-project](https://github.com/StansAssets/com.stansassets.xcode-project) The package provides a visual way to set XCode project settings and properties for your Unity project. Editor based C# API is avaliable as well.
  
  ## Mobile
  - [UnityAndroidRuntimePermissions](https://github.com/yasirkula/UnityAndroidRuntimePermissions)A native Unity plugin to handle runtime permissions on Android M+
