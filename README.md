@@ -3571,6 +3571,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer
 - https://github.com/teofilobd/URP-RayTracer
 - https://github.com/AlucardDH/dh-reshade-shaders
+- https://github.com/SebLague/Ray-Tracing
+- https://github.com/StarsX/RayTracedSPH
 ##### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
@@ -4383,6 +4385,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/chasinghope/CurveLayoutGroup
 - https://github.com/niwatly/SectorLayoutGroup
 - https://github.com/zambari/LayoutPanel.UI.Unity
+- [flexalon-ui-layouts](https://assetstore.unity.com/packages/tools/gui/flexalon-ui-layouts-254652)
 - https://github.com/cyberaslan/AdaptiveGrid
 - https://github.com/feifeid47/Unity-UI-Adapter
 - https://github.com/mitay-walle/com.mitay-walle.ui-circle-segmented
