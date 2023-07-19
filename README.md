@@ -1163,6 +1163,7 @@ Table of Contents
 - [unity-texture-curve](https://github.com/asus4/unity-texture-curve) Example showing how to bake an AnimatedCurve into a Texture and use it in a shader
 - [Curves-And-Gradients-To-Texture](https://github.com/RoyTheunissen/Curves-And-Gradients-To-Texture) Contains utilities for defining a curve or gradient in the inspector and automatically generating a texture for that to pass on to shaders.
 - [GradientTexture](https://github.com/mitay-walle/GradientTexture) Unity Gradient Texture generator
+- [TransformAnimationTextureBaker](https://github.com/sugi-cho/TransformAnimationTextureBaker)
  #### Atlas
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
@@ -1421,6 +1422,7 @@ Table of Contents
 - [real-world-terrai](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752) unity-plugin
 #### Procedurally-Generation
 - [real-ivy-2-procedural-ivy-generator](https://assetstore.unity.com/packages/tools/modeling/real-ivy-2-procedural-ivy-generator-181402) unity-plugin
+- [games.noio.planter](https://github.com/noio/games.noio.planter) The plant simulation from Cloud Gardens as a Unity package for level design.
 - [hedera](https://github.com/radiatoryang/hedera)  paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time 
 - [unity-procedural-tree](https://github.com/mattatz/unity-procedural-tree)
 - [unity-procedural-flower](https://github.com/mattatz/unity-procedural-flower)
@@ -1524,6 +1526,7 @@ Table of Contents
 * [DracoUnity](https://github.com/atteneder/DracoUnity) Unity package that integrates the Draco 3D data compression library within Unity.
 ## Data
 #### Metadata/Excel/Schema/Proto
+- [table-export](https://github.com/821869798/table-export)
 - [xresloader](https://github.com/xresloader/xresloader)
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
 - [BakingSheet](https://github.com/cathei/BakingSheet) Easy datasheet management for C# and Unity. Supports Excel, Google Sheet, JSON and CSV format.
@@ -1723,6 +1726,7 @@ Table of Contents
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
+- https://github.com/CypherCore/CypherCore
 - https://github.com/mangoszero/server
 - https://github.com/mirbeta/OpenMir2
 - https://github.com/networkprotocol/yojimbo
@@ -2560,6 +2564,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Unity.Mathematics-Extensions](https://github.com/LTMX/Unity.Mathematics-Extensions)
 - [dots-plus-227492](https://assetstore.unity.com/packages/tools/utilities/dots-plus-227492)
 - [gimme-dots-geometry-241774](https://assetstore.unity.com/packages/tools/utilities/gimme-dots-geometry-241774)
+- [KlakMath](https://github.com/keijiro/KlakMath) An extension library for Unity Mathematics.
 #### Math-Tool
 - [awesome-manim](https://github.com/ManimCommunity/awesome-manim)
 - [manim](https://github.com/ManimCommunity/manim)
@@ -2956,6 +2961,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) SALVIA is the rasterizer based software renderer. The goal of SALVIA is capacity of Direct3D 10+.
 #### 3rd-Binding
 - [EmberGL](https://github.com/EmberGL-org/EmberGL) EmberGL (Ember Graphics Library) is a low-level open source graphics library
+- [igl](https://github.com/facebook/igl) Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
 - [sharpdx](http://sharpdx.org/) SharpDX is an open-source managed .NET wrapper of the DirectX API.
 - [SharpVulkan](https://github.com/jwollen/SharpVulkan) C# bindings for the Vulkan graphics API, used by the Xenko game engine.
@@ -3423,6 +3429,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Interior
 - https://github.com/Gaxil/Unity-InteriorMapping
 - https://zhuanlan.zhihu.com/p/575453172
+- https://zhuanlan.zhihu.com/p/159439811
 ##### Decal
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
@@ -3517,6 +3524,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 ##### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
 * [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTX Global Illumination (RTXGI) SDK
+* [unity-radiance-cache](https://github.com/Simoid/unity-radiance-cache)
 ##### VPL
 ##### VSGL
 * [VSGL](https://github.com/yusuketokuyoshi/VSGL) Fast Indirect Illumination Using Two Virtual Spherical Gaussian Lights
@@ -3936,6 +3944,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
 - https://github.com/lujian101/GCFreeClosure A gc-free closure implementation for unity
 - https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
+- https://github.com/MiloszKrajewski/K4os.Streams
 - https://github.com/LunaMultiplayer/CachedQuickLz Allows you to compress and decompress with QuickLz while keeping low the GC pressure
 - [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
 - [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
@@ -4161,6 +4170,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [libffi](http://sourceware.org/libffi/)
 - [dyncall](https://dyncall.org)
 - [xbyak](https://github.com/herumi/xbyak) Xbyak is a C++ header library that enables dynamically to assemble x86(IA32), x64(AMD64, x86-64) mnemonic.
+- https://github.com/royalapplications/beyondnet
 ## DevOps
 #### Tools
 - [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
@@ -4247,6 +4257,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
  
 #### Skill
 - https://github.com/lsunky/SkillEditorDemo
+- https://github.com/NoBugCn/ActionEditor
 - https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/m969/EGamePlay
 - https://github.com/huailiang/seqence 剧情-技能编辑器
@@ -4376,6 +4387,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/LudiKha/Graphene
 - https://github.com/ReactUnity/core
 - https://github.com/chexiongsheng/XUUI
+- https://github.com/BennyKok/unity-tailwindcss
 - [GentlyUI](https://github.com/Gentlymad-Studios/GentlyUI) Custom Unity UI solution by Gentlymad Studios.
 - [Unity-RuntimeEditorWindow](https://github.com/994935108/Unity-RuntimeEditorWindow)
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
@@ -4423,6 +4435,8 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/DhafinFawwaz/Unity-AnimationUI
 - https://github.com/instance-id/ElementAnimationToolkit
 - http://zh.esotericsoftware.com/spine-unity
+- https://github.com/gindemit/unity-rlottie
+- [SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) Skia For Unity with skottie animations
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
 - [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
@@ -4730,7 +4744,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity-Textrue-Format](https://docs.unity3d.com/Manual/class-TextureImporterOverride.html)
 - [工作技巧 | 纹理压缩格式Block Compression](https://zhuanlan.zhihu.com/p/199635682)
 - [几种主流贴图压缩算法的实现原理详解](https://www.2cto.com/kf/201603/493773.html)
-- [[小数派报告]-Shader加载的纹理压缩的原理](https://zhuanlan.zhihu.com/p/104006858)
+- [小数派报告-Shader加载的纹理压缩的原理](https://zhuanlan.zhihu.com/p/104006858)
 - [游戏图片纹理压缩相关总结](https://zhuanlan.zhihu.com/p/102416815)
 - [游戏资源常见贴图类型](https://zhuanlan.zhihu.com/p/260973533)
 - [你所需要了解的几种纹理压缩格式原理](https://zhuanlan.zhihu.com/p/237940807)
