@@ -1,4 +1,5 @@
 ## Collection
+- https://github.com/OTFCG/Awesome-Game-Analysis
 - https://mamoniem.com/
 - http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/
 ## 荒野大嫖客 2

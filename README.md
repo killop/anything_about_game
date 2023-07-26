@@ -418,6 +418,7 @@ Table of Contents
 - [gamedev](https://gamedev.net/)
 - [gamefromscratch](https://gamefromscratch.com)
 - [rust-gamedev](https://rust-gamedev.github.io/) 
+- https://zenn.dev/izm
 - [zig-gamedev](https://github.com/michal-z/zig-gamedev)
 #### Graphic
 - [acm](https://dl.acm.org/loi/tog)
@@ -1420,6 +1421,7 @@ Table of Contents
 - https://github.com/Ogbest/Unity_MapEditor_Terrain 动态渲染Unity地形网格，记录网格是否是玩家的行走范围，然后导出编辑好的网格用于服务器导航、验证使用 https://github.com/frankhjwx/Unity-ShaderCharDisplay
 - https://github.com/Caeden117/ChroMapper -- 地图编辑器 
 - [real-world-terrai](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752) unity-plugin
+- [ntg-unity](https://github.com/hayden-donnelly/ntg-unity)
 #### Procedurally-Generation
 - [real-ivy-2-procedural-ivy-generator](https://assetstore.unity.com/packages/tools/modeling/real-ivy-2-procedural-ivy-generator-181402) unity-plugin
 - [games.noio.planter](https://github.com/noio/games.noio.planter) The plant simulation from Cloud Gardens as a Unity package for level design.
@@ -1726,6 +1728,7 @@ Table of Contents
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
+- https://github.com/jzyong/ugk-server
 - https://github.com/CypherCore/CypherCore
 - https://github.com/mangoszero/server
 - https://github.com/mirbeta/OpenMir2
@@ -1805,6 +1808,7 @@ Table of Contents
 - [Summer](https://github.com/SwingFrog/Summer)
 - https://github.com/vu-luong/ezy-smashers
 - [hotel](https://github.com/minism/hotel) A simple master/lobby server for multiplayer games.
+- [PlanetaMatchMaker](https://github.com/CdecPGL/PlanetaMatchMaker) A very simple and light match making system for P2P online game. Server binary for linux and windows, and client library for C# including Unity are provided.
 #### Article
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
 - [6-community-videos-to-get-you-started-with-multiplayer](https://blog.unity.com/games/6-community-videos-to-get-you-started-with-multiplayer)
@@ -2370,8 +2374,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### 3D Engines and Frameworks
 * [NextEngine](https://github.com/CompilerLuke/NextEngine) NextEngine is designed with rapid iteration and high-end desktop graphics in mind.
 * [LinaEngine](https://github.com/inanevin/LinaEngine) Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
+* [Horde3D](https://github.com/horde3d/Horde3D) Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.
 * [keyshot](https://www.keyshot.com/)
 * [marmoset](https://marmoset.co/)
+* [StratusGFX](https://github.com/KTStephano/StratusGFX)
 * [RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) Render Pipeline Shaders SDK
 * [cycles-renderer](https://www.cycles-renderer.org/) Cycles is a physically based production renderer developed by the Blender project.
 * [flowers](https://github.com/ray-cast/flowers) 🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛
@@ -2747,6 +2753,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/aniruddhahar/URP-WaterShaders
 - https://github.com/abitofgamedev/water_vfx from here[youtube](https://www.youtube.com/watch?v=3CcWus6d_B8)
 - https://github.com/Unity-Technologies/WaterScenes
+- https://github.com/z4gon/water-caustics-shader-unity
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
@@ -3740,6 +3747,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/candycat1992/OIT_Lab
 - https://github.com/przemyslawzaworski/Unity-GPU-Based-Tetrahedralization
 - https://github.com/fuqunaga/GpuTrail
+- https://github.com/keijiro/ComputeMarchingCubes
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -4171,6 +4179,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [dyncall](https://dyncall.org)
 - [xbyak](https://github.com/herumi/xbyak) Xbyak is a C++ header library that enables dynamically to assemble x86(IA32), x64(AMD64, x86-64) mnemonic.
 - https://github.com/royalapplications/beyondnet
+- https://github.com/Cysharp/csbindgen
 ## DevOps
 #### Tools
 - [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
@@ -4253,6 +4262,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/ipjohnson/Grace
 - https://github.com/dadhi/DryIoc
 - https://github.com/Mathijs-Bakker/Extenject
+- https://github.com/somedeveloper00/Binject
+- https://github.com/labbbirder/UnityInjection
+- https://github.com/labbbirder/DirectRetrieveAttribute
 
  
 #### Skill
@@ -4356,10 +4368,12 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
 - [MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) ViewSystem is a element based UI management system based on Unity GUI
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
+- [fiber](https://github.com/unity-atoms/fiber)
 - [CSReactive](https://github.com/labbbirder/CSReactive) 纯C#下实现Vue，特别针对Unity
 - [MVI4Unity](https://github.com/Wilson403/MVI4Unity) 基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）
 - [OwlAndJackalope.UX](https://github.com/AnonyBob/OwlAndJackalope.UX) A simple property binding and UX management library for Unity.
 - [Rosalina](https://github.com/Eastrall/Rosalina) Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
+- https://github.com/LibraStack/UnityUxmlGenerator
 - https://github.com/ChebanovDD/UnityMvvmToolkit
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
@@ -4518,6 +4532,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [fast-line-renderer](https://assetstore.unity.com/packages/tools/particles-effects/fast-line-renderer-for-unity-gpu-line-and-particle-system-54118)
 - [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167)
 - [aline](https://assetstore.unity.com/packages/tools/gui/aline-162772)
+- [draw-xxl-246836](https://assetstore.unity.com/packages/tools/utilities/draw-xxl-246836)
 
 
 #### Effect
@@ -4693,8 +4708,10 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [BetterAttributes](https://github.com/uurha/BetterAttributes)
 * [CustomizationInspector](https://github.com/Mr-sB/CustomizationInspector)
 
-#### Asset-Management
 
+#### Asset-Management
+* [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
+* [unity-project-pin-board](https://github.com/ichenpipi/unity-project-pin-board)
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 * [ProjectAuditor](https://github.com/mtrive/ProjectAuditor) untiy工程分析工具
 * [analyzers](https://github.com/tertle/com.bovinelabs.analyzers) Package to add Roslyn Analyzers to Unity projects.
@@ -4935,6 +4952,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/pipiliang/hello-comic  程序员漫画
 - https://github.com/easychen/one-person-businesses-methodology 一人公司方法论
 - https://github.com/itgoyo/TelegramGroup
+- https://www.yuque.com/greatghoul/remote 远程工作
 ## 友情链接 
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
 * [图形学随笔](https://github.com/Tianji95/CG_learning_note)
