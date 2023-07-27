@@ -2937,7 +2937,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/GeorgeAdamon/ModernComputerGraphicsResources
 - https://github.com/sinclairzx81/zero
 - http://www.mitsuba-renderer.org/
-- https://github.com/vurtun/nuklear nuklear-A single-header ANSI C gui library
+- [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) nuklear-A single-header ANSI C gui library
 - [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [github](https://github.com/bkaradzic/bgfx) ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social&label=Star&maxAge=2592000)]
 - [bs::framework](https://www.bsframework.io/) - Modern C++14 library for the development of real-time graphical applications  [github](https://github.com/GameFoundry/bsf) ![GameFoundry/bsf](https://img.shields.io/github/stars/GameFoundry/bsf.svg?style=social&label=Star&maxAge=2592000)]
 - [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [github](https://github.com/DiligentGraphics/DiligentEngine) ![DiligentGraphics/DiligentEngine](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine.svg?style=social&label=Star&maxAge=2592000)]
@@ -4715,7 +4715,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
 * [unity-project-pin-board](https://github.com/ichenpipi/unity-project-pin-board)
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
-* [ProjectAuditor](https://github.com/mtrive/ProjectAuditor) untiy工程分析工具
+* [ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor)untiy工程分析工具
 * [analyzers](https://github.com/tertle/com.bovinelabs.analyzers) Package to add Roslyn Analyzers to Unity projects.
 * [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
