@@ -4369,6 +4369,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) ViewSystem is a element based UI management system based on Unity GUI
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
 - [fiber](https://github.com/unity-atoms/fiber)
+- [NRFramework](https://github.com/NRatel/NRFramework.UI)
 - [CSReactive](https://github.com/labbbirder/CSReactive) 纯C#下实现Vue，特别针对Unity
 - [MVI4Unity](https://github.com/Wilson403/MVI4Unity) 基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）
 - [OwlAndJackalope.UX](https://github.com/AnonyBob/OwlAndJackalope.UX) A simple property binding and UX management library for Unity.
@@ -4442,6 +4443,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [raganddrop-unity3d](https://github.com/Xander93/draganddrop-unity3d)
 - [SLGDrawLine](https://github.com/871041532/SLGDrawLine) SLG游戏画行军线
 - [ui-toolkit-safe-area](https://github.com/artstorm/ui-toolkit-safe-area)
+- [UniversalInventorySystem](https://github.com/Heymity/UniversalInventorySystem)
 #### UI-Animation
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
