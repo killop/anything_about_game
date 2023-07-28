@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-    高端游戏开发资源干货分享QQ群:1067123079 &nbsp &nbsp &nbsp 职场灌水QQ群:659339471
+    高端游戏开发资源干货分享QQ群:1067123079 &nbsp &nbsp &nbsp 职场灌水QQ群:894955505
 </p>
 <br>
 
@@ -338,6 +338,7 @@ Table of Contents
 - [看完不star，小心没jj :)!](#看完不star小心没jj-)
 
 ## Awesome-Game
+- https://github.com/OTFCG/Awesome-Game-Analysis
 - https://github.com/notpresident35/learn-awesome-gamedev
 - https://github.com/gmh5225/awesome-game-security
 - https://github.com/shadowcz007/awesome-metaverse
