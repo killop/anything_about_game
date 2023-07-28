@@ -338,6 +338,7 @@ Table of Contents
 - [看完不star，小心没jj :)!](#看完不star小心没jj-)
 
 ## Awesome-Game
+- https://github.com/OTFCG/Awesome-Game-Analysis
 - https://github.com/notpresident35/learn-awesome-gamedev
 - https://github.com/gmh5225/awesome-game-security
 - https://github.com/shadowcz007/awesome-metaverse
