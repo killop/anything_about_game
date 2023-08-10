@@ -155,6 +155,7 @@ Table of Contents
     - [Physics BOOKS](#physics-books)
     - [Fluid](#fluid)
     - [Water](#water)
+    - [Glass](#glass)
     - [Cloth](#cloth)
     - [Position-Based-Dynamics](#position-based-dynamics)
     - [Softbody](#softbody)
@@ -1005,6 +1006,7 @@ Table of Contents
  - https://github.com/TheRamU/Fay
  - https://github.com/yuzu-unity/HumanoidCollider
  - https://github.com/mochi-neko/facial-expressions-unity
+ - https://github.com/gree/MuscleCompressor
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -1340,7 +1342,7 @@ Table of Contents
 - [Unity-FullBody-FPS-Controller](https://github.com/TCKingCeryn/Darktide-40K-Unity-FullBody-FPS-Controller)
 - [CustomBody](https://github.com/MusouCrow/CustomBody) A wheel of KinematicBody
 - [platformer-project-206584](https://assetstore.unity.com/packages/templates/systems/platformer-project-206584)
-
+- [fpscontroller](https://github.com/atil/fpscontroller)
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 - [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
@@ -2571,6 +2573,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [dots-plus-227492](https://assetstore.unity.com/packages/tools/utilities/dots-plus-227492)
 - [gimme-dots-geometry-241774](https://assetstore.unity.com/packages/tools/utilities/gimme-dots-geometry-241774)
 - [KlakMath](https://github.com/keijiro/KlakMath) An extension library for Unity Mathematics.
+- https://github.com/cathei/RotationMath/
+- [c_math_library](https://github.com/pbotmeyertron/c_math_library)
+ 
 #### Math-Tool
 - [awesome-manim](https://github.com/ManimCommunity/awesome-manim)
 - [manim](https://github.com/ManimCommunity/manim)
@@ -2754,6 +2759,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/abitofgamedev/water_vfx from here[youtube](https://www.youtube.com/watch?v=3CcWus6d_B8)
 - https://github.com/Unity-Technologies/WaterScenes
 - https://github.com/z4gon/water-caustics-shader-unity
+#### Glass
+- https://github.com/toadstorm/RainyGlassShader 
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
@@ -3162,6 +3169,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/julienkay/genesis
 - [Coloring](https://github.com/DumoeDss/Coloring) 基于通道混合的染色系统
 - [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader)
+- [a_list_of_a_lot_of_shaders_urp](https://old.reddit.com/r/Unity3D/comments/156u8fm/a_list_of_a_lot_of_shaders_urp/)
+- [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders) About
+Showing off the power of shader properties in Unity
 
 #### ShaderToy
 - https://github.com/umutbebek/shadertoy-to-unity-URP
@@ -3380,8 +3390,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [网易技术美术总监：深度解析次世代手游的贴图与着色技巧 [UNITE SHANGHAI 2017qq.]](https://connect.unity.com/p/wang-yi-ji-zhu-mei-zhu-zong-jian-shen-du-jie-xi-ci-shi-dai-shou-you-de-tie-tu-yu-zhao-se-ji-qiao-unite-shanghai-2017)
 - [一口气解决RenderQueue、Ztest、Zwrite、AlphaTest、AlphaBlend和Stencil](https://zhuanlan.zhihu.com/p/28557283)
 - [渲染杂谈：early-z、z-culling、hi-z、z-perpass到底是什么？](https://zhuanlan.zhihu.com/p/389396050)
+- [Unity通过RenderTexture渲染特效和模型方案](https://zhuanlan.zhihu.com/p/110517201)
 - [Unity中影响渲染顺序的因素总结](https://zhuanlan.zhihu.com/p/55762351)
-- [2017.8]半透明的绘制顺序与接收阴影问题](https://zhuanlan.zhihu.com/p/113399133)
+- [2017.8 半透明的绘制顺序与接收阴影问题](https://zhuanlan.zhihu.com/p/113399133)
 - [unity 半透明渲染技巧合集](https://zhuanlan.zhihu.com/p/123023614)
 - [关于理解 Premultiplied Alpha 的一些 Tips](https://zhuanlan.zhihu.com/p/344751308)
 - [图形学|shader|用一篇文章理解半透明渲染、透明度测试和混合、提前深度测试并彻底理清渲染顺序。](https://zhuanlan.zhihu.com/p/263566318)
@@ -3807,6 +3818,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/tkonexhh/X-PostProcessing-URP
 - https://github.com/GarrettGunnell/Post-Processing
 - https://github.com/xwidghet/StereoCancer
+- https://github.com/BlueSkyDefender/AstrayFX
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
 
@@ -3936,12 +3948,14 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
+- [PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
 - https://surparallel.org unity 多线程优化工具
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
 - https://github.com/HalfLobsterMan/TimingWheel c# 时间轮优化
 - https://github.com/wangjia184/HashedWheelTimer HashedWheelTimer implemented in C# and .Net Standard inspired by io.netty.util.HashedWheelTimer
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
 - https://github.com/ZiggyCreatures/FusionCache 高性能cache 
+- https://github.com/jitbit/FastCache
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
 - [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
@@ -4069,6 +4083,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/thedmi/Equ
 - https://github.com/bitwarden/server
 - https://github.com/randyklex/caffeine.net
+- [adnc](https://github.com/AlphaYu/adnc) .NET6微服务/分布式开发框架，同时也适用于单体架构系统的开发。
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -4180,6 +4195,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [xbyak](https://github.com/herumi/xbyak) Xbyak is a C++ header library that enables dynamically to assemble x86(IA32), x64(AMD64, x86-64) mnemonic.
 - https://github.com/royalapplications/beyondnet
 - https://github.com/Cysharp/csbindgen
+- https://github.com/Hitmasu/Jitex
 ## DevOps
 #### Tools
 - [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
@@ -4253,6 +4269,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UniFramework](https://github.com/gmhevinci/UniFramework)
 - [OxGFrame](https://github.com/michael811125/OxGFrame)
 - [ZeroGameKit](https://github.com/jinglikeblue/ZeroGameKit)
+- https://github.com/ALEXTANGXIAO/TEngine
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
@@ -4372,6 +4389,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [NRFramework](https://github.com/NRatel/NRFramework.UI)
 - [CSReactive](https://github.com/labbbirder/CSReactive) 纯C#下实现Vue，特别针对Unity
 - [MVI4Unity](https://github.com/Wilson403/MVI4Unity) 基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）
+- [LiShengYang-yiyi](https://github.com/LiShengYang-yiyi) Unity3D UGUI Framework
 - [OwlAndJackalope.UX](https://github.com/AnonyBob/OwlAndJackalope.UX) A simple property binding and UX management library for Unity.
 - [Rosalina](https://github.com/Eastrall/Rosalina) Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
 - https://github.com/LibraStack/UnityUxmlGenerator
@@ -4745,6 +4763,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/starburst997/Unity.Trimmer 
 - [missing-component-info](https://github.com/zhaoguohao/missing-component-info)
 - [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)
+- [Animation-Repathing](https://github.com/hfcRed/Animation-Repathing) Feature rich Unity Editor tool to help streamline the process of changing the paths of animations
 - [Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter)
 - [Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
 #### Material-Cleaner

@@ -13,7 +13,9 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - [谈一谈英雄联盟手游渲染2](https://zhuanlan.zhihu.com/p/286836840)
 ## 原神
 - [GenshinCelShaderURP](https://github.com/Gaolingx/GenshinCelShaderURP)
-- [Unity 原神角色渲染学习](https://zhuanlan.zhihu.com/p/434053030)
+- [简单模仿原神风格化渲染](https://github.com/hh455695642/URPGenshinImpactShader)
+- [StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader)
+- [Unity 原神角色渲染学习](https://zhuanlan.zhihu.com/p/434053030) Fan-made shaders for Unity URP attempting to replicate the shading of Honkai: Star Rail.
 - [【从零到零点一的原神卡渲还原】记录还原的尝试和思考](https://zhuanlan.zhihu.com/p/376094989)
 - [《原神》动作系统拆解与复刻](https://zhuanlan.zhihu.com/p/588726929)
 - [Unity URP 卡通渲染 原神角色渲染记录](https://zhuanlan.zhihu.com/p/551104542)
