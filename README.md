@@ -1812,6 +1812,7 @@ Table of Contents
 - https://github.com/vu-luong/ezy-smashers
 - [hotel](https://github.com/minism/hotel) A simple master/lobby server for multiplayer games.
 - [PlanetaMatchMaker](https://github.com/CdecPGL/PlanetaMatchMaker) A very simple and light match making system for P2P online game. Server binary for linux and windows, and client library for C# including Unity are provided.
+- [everwar](https://github.com/geektcp/everwar) Everwar是一个开源魔兽世界服务端
 #### Article
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
 - [6-community-videos-to-get-you-started-with-multiplayer](https://blog.unity.com/games/6-community-videos-to-get-you-started-with-multiplayer)
