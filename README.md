@@ -1244,6 +1244,7 @@ Table of Contents
 * [unity-tweens](https://github.com/jeffreylanters/unity-tweens)
 * [TweenRx](https://github.com/fumobox/TweenRx) Reactive animation utility for Unity
 * [unity-animation-library](https://github.com/zigurous/unity-animation-library)
+* [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) High-performance, allocation-free animation library for Unity
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1813,6 +1814,7 @@ Table of Contents
 - [hotel](https://github.com/minism/hotel) A simple master/lobby server for multiplayer games.
 - [PlanetaMatchMaker](https://github.com/CdecPGL/PlanetaMatchMaker) A very simple and light match making system for P2P online game. Server binary for linux and windows, and client library for C# including Unity are provided.
 - [everwar](https://github.com/geektcp/everwar) Everwar是一个开源魔兽世界服务端
+- [BigWorld-Engine](https://github.com/v2v3v4/BigWorld-Engine-14.4.1)
 #### Article
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
 - [6-community-videos-to-get-you-started-with-multiplayer](https://blog.unity.com/games/6-community-videos-to-get-you-started-with-multiplayer)
@@ -1936,6 +1938,7 @@ Table of Contents
 - https://github.com/LambdaTheDev/NetworkAudioSync
 - https://github.com/dz0039/NetworkPhysics
 - https://github.com/GiovanniZambiasi/Client-Side-Prediction
+- https://github.com/DoctorWh012/Client-Side-Prediction
 - https://github.com/TheVypur/UnityMovementPrediction
 - https://github.com/bluejayboy/Unity-Network-Prediction
 * [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
@@ -2742,6 +2745,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Fluid-Simulator](https://github.com/Al-Asl/Fluid-Simulator) Case study on fluid dynamics, Volumetric GPU-Based fluid simulator
 - [Liquid-Simulation](https://github.com/ivuecode/Liquid-Simulation)
 #### Water
+- [CFD101](https://github.com/thu-zhanghl/CFD101) 💧CFD(计算流体力学)资料汇总、学习笔记
+- [FluidSimulationTutorialsUnity](https://github.com/clatterrr/FluidSimulationTutorialsUnity)
 - [FluxInUnity](https://github.com/DaiZiLing/FluxInUnity)
 - [boat-attack-water](https://github.com/Unity-Technologies/boat-attack-water) Package repo containing the water system created for the URP Boat Attack demo project
 - [unity-stylized-water](https://github.com/danielshervheim/unity-stylized-water)
@@ -3060,6 +3065,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [DXDecompiler](https://github.com/spacehamster/DXDecompiler) DXDecompiler is a Direct3D shader bytecode decompiler for .NET. It is in currently in very early development.
 - [how-to-read-shader-assembly](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor)
+- [HLSLDecompiler](https://github.com/etnlGD/HLSLDecompiler) HLSL Decompiler forked from 3Dmigoto
 - [ShaderPackager]( https://github.com/slipster216/ShaderPackager) 
 - [Shader中的代码优化原理分析](https://blog.csdn.net/qq_36383623/article/details/107249625)
 - [HLSL中的MUL指令深层剖析](https://blog.csdn.net/u012871784/article/details/49250765)
@@ -3436,6 +3442,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/IRCSS/MatrixVFX
  ##### Dissolve
  - [hyperspace-teleport-urp](https://assetstore.unity.com/packages/vfx/hyperspace-teleport-urp-214050)
+ - [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve)
 ##### Shader-GUI
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C#
 * https://github.com/gasgiant/Markup-Attributes
@@ -3773,6 +3780,7 @@ Showing off the power of shader properties in Unity
 * [Unity-Boids-Behavior-on-GPGPU](https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU)
 * [unity-jobsystem-boids](https://github.com/komietty/unity-jobsystem-boids) Superfast CPU boids for Unity
 #### GPU Driven
+- [LeoGPUDriven](https://github.com/lijundacom/LeoGPUDriven) 一个GPUDriven学习工程
 - [Realtime-Compute-Shader-Unity-PathTracer](https://github.com/killop/Realtime-Compute-Shader-Unity-PathTracer) A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
 - [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
 - [GPUDriven](https://github.com/GouGeLSJ/GPUDriven)
@@ -3958,6 +3966,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
 - https://github.com/ZiggyCreatures/FusionCache 高性能cache 
 - https://github.com/jitbit/FastCache
+- https://github.com/LuchunPen/Fast-Hash-Collection
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
 - [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
@@ -4714,6 +4723,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/vanish87/UnityVolumetricCloud
 - https://github.com/adrianpolimeni/RealTimeVolumetricClouds
 - https://github.com/Raphael2048/URP_SkyAtmosphere_VolumetricClouds
+- https://github.com/wujuju/UnitySkyAtmosphere
 - https://github.com/ebruneton/precomputed_atmospheric_scattering
 - https://github.com/Reguluz/Moonflow-Lensflare-System 
 - https://github.com/AKGWSB/RealTimeAtmosphere
