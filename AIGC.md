@@ -39,3 +39,6 @@
 
 ## Video
 - [runwayml-gen2](https://research.runwayml.com/gen2)
+
+## coding
+[开源的本地代码解释器](https://github.com/KillianLucas/open-interpreter)
