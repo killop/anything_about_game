@@ -30,7 +30,7 @@
 - [最大的 AI 工具目录库](https://zhuanlan.zhihu.com/p/593615901)
 - [AI收集](https://weknowlib.feishu.cn/wiki/wikcng6M4yAINLrBgMtxrsEAalU)
 - [AI绘画收集](https://weknowlib.feishu.cn/wiki/wikcn7hgYG3w4R7JYNJFU2bVjGd)
-
+- https://xa9f20zq7mg.feishu.cn/wiki/JMrEwJEuSiKCQ4kR6xIcQ4BGneg
 ## Audio
 - [bark](https://github.com/suno-ai/bark)  Text-Prompted Generative Audio Model
 
