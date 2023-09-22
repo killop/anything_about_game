@@ -23,3 +23,4 @@
 - https://github.com/lex-ikoon/qq
 - https://github.com/yutaokuyama/HoudiniVezerSync
 - https://space.bilibili.com/5730437
+- https://github.com/ribponce/particula

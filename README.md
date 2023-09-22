@@ -303,6 +303,7 @@ Table of Contents
     - [Util](#util)
     - [Code-Reload\&\&Unity-Editor-Compiler](#code-reloadunity-editor-compiler)
     - [Windows-Show](#windows-show)
+    - [File-Browser](#file-browser)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Drawing](#drawing)
     - [Effect](#effect-1)
@@ -603,6 +604,7 @@ Table of Contents
 - [天守魂座_雪风](https://space.bilibili.com/5863867) b站 hlsl 教程
 - [尹豆](https://www.yindouyd.com/) 计算机图形学
 - [周明倫](http://allenchou.net/) unity
+- [sunweizhe](https://blog.sunweizhe.cn/) unity
 - [dotnetfly](https://github.com/ctripxchuang/dotnetfly)
 - [张蕾](https://www.lei.chat/) vulkan
 - [重归混沌](https://blog.gotocoding.com/)
@@ -1975,6 +1977,7 @@ Table of Contents
 * https://github.com/UnityTechnologies/GalacticKittens
 * [unity-multiplayer-azure-solution](https://github.com/albertxavier100/unity-multiplayer-azure-solution)
 * https://github.com/rivet-gg/rivet
+* [EppNet](https://github.com/xMakerx/EppNet) A high-level multiplayer solution built on top of ENet
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -1992,6 +1995,7 @@ Table of Contents
 - https://chronoxor.github.io/FastBinaryEncoding/ FastBinaryEncoding
 - https://capnproto.org/ capnproto
 - https://github.com/c80k/capnproto-dotnetcore
+- https://github.com/serdedotnet/serde
 - https://github.com/google/flatbuffers flatBuffer
 - https://github.com/jamescourtney/FlatSharp
 - https://github.com/Unity-Technologies/FlatSharp
@@ -2112,6 +2116,7 @@ Table of Contents
 * [ecsrx.unity](https://github.com/EcsRx/ecsrx.unity) A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems. 
 * [morpeh](https://github.com/scellecs/morpeh) Fast and Simple Entity Component System (ECS) Framework for Unity Game Engine 
 * [VodeoECS](https://github.com/VodeoGames/VodeoECS)
+* [Arch](https://github.com/genaray/Arch) A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
 #### Python
 * esper - A lightweight Entity System for Python [github](https://github.com/benmoran56/esper) ![benmoran56/esper](https://img.shields.io/github/stars/benmoran56/esper.svg?style=flat&label=Star&maxAge=86400)
 
@@ -2141,9 +2146,6 @@ Table of Contents
 - [dotliquid](https://github.com/dotliquid/dotliquid) .NET Port of Tobias Lütke's Liquid template language. 
 - [fluid](https://github.com/sebastienros/fluid/) Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language. 
 - [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET
-- [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
-- [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
-- [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
 - [UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen)
 - [nevod](https://nevod.io) Nevod is a language and technology for pattern-based text search. It is specially aimed to rapidly reveal entities and their relationships in texts written in the natural language.
 - [AngouriMath](https://github.com/asc-community/AngouriMath) Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
@@ -2304,7 +2306,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/codeskyblue/gohttpserver
 - https://github.com/Dreamacro/clash
 - https://github.com/filebrowser/filebrowser
-- https://github.com/SrejonKhan/AnotherFileBrowser
 - [UnityFileDownloader](https://github.com/jpgordon00/UnityFileDownloader) Download multiple files at a time in Unity.
 - [OctaneDownloader](https://github.com/gregyjames/OctaneDownloader) A high performance, multi-threaded C# file download library. 
 - [Downloader](https://github.com/bezzad/Downloader) Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
@@ -4615,11 +4616,19 @@ Showing off the power of shader properties in Unity
 - [MethodChangeWithILPostProcessor](https://github.com/sune2/MethodChangeWithILPostProcessor)
 - [引擎编译时间优化](https://zhuanlan.zhihu.com/p/601065788)
 - [UniTyped](https://github.com/ruccho/UniTyped)  UniTyped is a source generator that allows typed access to data such as SerializedObjects, material parameters, tags and layers
+- [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
+- [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
+- [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
+- [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
 - https://github.com/XJINE/Unity_TransparentWindowManager
 - https://github.com/LorisYounger/VPet
+
+#### File-Browser
+- https://github.com/SrejonKhan/AnotherFileBrowser
+- https://github.com/yasirkula/UnitySimpleFileBrowser
 #### Unity 特色工程（精粹）
 -  https://github.com/CiaccoDavide/Alchemy-Circles-Generator  炼金师法
 -  [介绍几个日本开源动画项目](https://connect.unity.com/p/jie-shao-ji-ge-ri-ben-kai-yuan-dong-hua-xiang-mu)
@@ -4651,6 +4660,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Unity-Technologies/ECS-Network-Racing-Sample
 - https://github.com/Wind-Coming/MultiUnitSameScreen
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
+* [util](https://github.com/bassmit/util) BURST compatible collections, math and utility functions
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NSprites](https://github.com/Antoshidza/NSprites) DOTS based sprite render system
 * [UnitySpriteGPUInstancing](https://github.com/ownself/UnitySpriteGPUInstancing)
@@ -5003,6 +5013,7 @@ Showing off the power of shader properties in Unity
 ##  Auto Test 
 - https://github.com/king3soft/UAutoIDE
 - https://github.com/AirtestProject
+- https://github.com/jianbing/awesome-game-tester
 ## 问答
 > 强烈推荐阅读 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)、[《如何向开源社区提问题》](https://github.com/seajs/seajs/issues/545) 和 [《如何有效地报告 Bug》](http://www.chiark.greenend.org.uk/%7Esgtatham/bugs-cn.html)、[《如何向开源项目提交无法解答的问题》](https://zhuanlan.zhihu.com/p/25795393)，更好的问题更容易获得帮助。
 
