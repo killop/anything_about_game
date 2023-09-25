@@ -1500,6 +1500,7 @@ Table of Contents
 - [Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 - https://github.com/GarrettGunnell/
 - [URP-HIZ](https://github.com/himma-bit/empty)
+- https://github.com/aganwenqi/GPU-Driven-02 hiz
 - https://github.com/SoSoReally/RenderFeature_HizCull
 * [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
 * [Unity 程序化生成草地](https://zhuanlan.zhihu.com/p/592938734)
@@ -2006,6 +2007,7 @@ Table of Contents
 - https://github.com/cloudwu/sproto sproto
 - https://uscilab.github.io/cereal/
 - https://github.com/mzaks/FlexBuffersUnity
+- https://github.com/UnderLogic/toml-serialization
 - https://github.com/ReubenBond/Hagar
 - https://github.com/1996v/Bssom.Net
 - https://github.com/Dogwei/Swifter.MessagePack
@@ -4552,6 +4554,7 @@ Showing off the power of shader properties in Unity
 - [character-creator-2d](https://assetstore.unity.com/packages/2d/characters/character-creator-2d-111398)
 - [quill-framework](https://github.com/DamiTheHuman/quill-framework) A 2D sonic framework in unity
 - [soft2d-for-unity](https://github.com/taichi-dev/soft2d-for-unity)
+- [GiLight2D](https://github.com/NullTale/GiLight2D) 2D Raytracing for Unity Urp
 #### Timeline
 - https://github.com/pofulu/TimelineTool
 - https://github.com/needle-tools/custom-timeline-editor
@@ -4620,6 +4623,7 @@ Showing off the power of shader properties in Unity
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
+- [neovim-unity](https://github.com/Domeee/com.cloudedmountain.ide.neovim)
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -4856,6 +4860,7 @@ Showing off the power of shader properties in Unity
 - [Animation-Repathing](https://github.com/hfcRed/Animation-Repathing) Feature rich Unity Editor tool to help streamline the process of changing the paths of animations
 - [Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter)
 - [Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
+- [SpriteAuditor](https://github.com/brunomikoski/SpriteAuditor) The missing tool to help you optimize your game
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
 - [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
