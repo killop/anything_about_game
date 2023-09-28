@@ -1974,6 +1974,7 @@ Table of Contents
 * https://github.com/kidagine/Darklings-FightingGame
 * https://github.com/genxium/DelayNoMoreUnity
 * https://github.com/insthync/UnityMultiplayerARPG_MMO.NET
+* https://github.com/suriyun-mmorpg/UnityMultiplayerARPG_MMOSource
 * https://github.com/SolarianZ/Unity-Animation-Sync-Demo
 * https://github.com/UnityTechnologies/GalacticKittens
 * [unity-multiplayer-azure-solution](https://github.com/albertxavier100/unity-multiplayer-azure-solution)
@@ -2100,6 +2101,7 @@ Table of Contents
 * matter - C++17/20 ECS implementation [github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)
 
 #### C#
+- [ME.BECS](https://github.com/chromealex/ME.BECS) Bursted Entity Component System
 - [Entitas](https://github.com/sschmid/Entitas) Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 - [Ecstasy](https://github.com/neon-age/Ecstasy) Simplest powerful ECS for Unity. Flexible and fast. Works w/ Burst
 - [KECS](https://github.com/ludaludaed/KECS/) KECS is a fast and easy C# Entity Component System framework for writing your own games.
@@ -2440,6 +2442,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++. :o2:
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. :o2:
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan. :o2:
+* [DiligentCore](https://github.com/DiligentGraphics/DiligentCore)
 * [gameplay3d](http://gameplay3d.io/) - 2D + 3D game framework written in C++ :o2:
 * [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. :o2:
 * [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
@@ -3872,6 +3875,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/yasuohasegawa/SVGPainterUnity
 - https://github.com/CiaccoDavide/Unity-UI-Polygon
 - https://github.com/anyuser/vectorshapes-unity
+- [keen-vectors](https://assetstore.unity.com/packages/add-ons/keen-vectors-beta-254369)
 #### Post-Process
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/AKGWSB/FFTConvolutionBloom
@@ -4010,7 +4014,6 @@ Showing off the power of shader properties in Unity
 - [BreakInfinity](https://github.com/Razenpok/BreakInfinity.cs） Double replacement for numbers that go over 1e308
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
-- [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - [PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
@@ -4024,6 +4027,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/LuchunPen/Fast-Hash-Collection
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
+- https://github.com/aelij/spanify span用法总结
 - [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
@@ -4546,6 +4550,8 @@ Showing off the power of shader properties in Unity
 - http://zh.esotericsoftware.com/spine-unity
 - https://github.com/gindemit/unity-rlottie
 - [SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) Skia For Unity with skottie animations
+- https://github.com/toptensoftware/RichTextKit
+- https://github.com/wieslawsoltes/Svg.Skia
 - [AnimatableVolumeComponent](https://github.com/cji3bp62000/AnimatableVolumeComponent) This package provides helper scripts that let you animate Post-Process parameters (VolumeProfile) in URP/HDRP.
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
@@ -4567,6 +4573,7 @@ Showing off the power of shader properties in Unity
 - [animate-ui-materials](https://assetstore.unity.com/packages/2d/gui/animate-ui-materials-253197)
 - [postprocessing-controller](https://assetstore.unity.com/packages/tools/utilities/postprocessing-controller-217499)
 - [material-timeline-track](https://assetstore.unity.com/packages/tools/animation/material-timeline-track-207256)
+- [TimelineExtensions](https://github.com/SauryChang/TimelineExtensions)
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
@@ -4605,6 +4612,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/sotanmochi/PlayerLooper
 - https://github.com/Refsa/PlayerLoopInjector
 - https://github.com/Baste-RainGames/PlayerLoopInterface
+- https://github.com/cloudinnng/PluginHub
 
 #### Code-Reload&&Unity-Editor-Compiler
 - [unity-domain-reload-helper](https://github.com/joshcamas/unity-domain-reload-helper)
@@ -4623,6 +4631,8 @@ Showing off the power of shader properties in Unity
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
+- [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
+- [RSCG_Examples](https://github.com/ignatandrei/RSCG_Examples) Roslyn Source Code Generators with Examples
 - [neovim-unity](https://github.com/Domeee/com.cloudedmountain.ide.neovim)
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
