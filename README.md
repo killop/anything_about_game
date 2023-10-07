@@ -1987,7 +1987,7 @@ Table of Contents
 - [sylar](https://github.com/sylar-yin/sylar)  C++高性能分布式服务器框架
 ## Serialization
 - https://github.com/Levchenkov/NetCode
-- https://github.com/Cysharp/MemoryPack
+- https://github.com/Cysharp/MemoryPack [ppt](https://speakerdeck.com/neuecc/cedec-2023-modanhaipahuomansuc-number-2023-edition)
 - https://github.com/dbolin/Apex.Serialization
 - https://github.com/space-wizards/netserializer
 - https://github.com/apache/arrow
@@ -3821,6 +3821,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/b0nes164/ShaderOneSweep
 - https://github.com/TakeshiCho/GPU_Parallel_Reduction
 - https://github.com/alvion427/PerroPastor
+- https://github.com/etnlGD/UnityAstcGpuEncoder
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -4868,9 +4869,11 @@ Showing off the power of shader properties in Unity
 - [missing-component-info](https://github.com/zhaoguohao/missing-component-info)
 - [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)
 - [Animation-Repathing](https://github.com/hfcRed/Animation-Repathing) Feature rich Unity Editor tool to help streamline the process of changing the paths of animations
+- [animation-auto-assignment](https://github.com/natsuneko-laboratory/animation-auto-assignment) Unity Editor Extension that tracks changes on hierarchy and automatically repairs animation property paths.
 - [Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter)
 - [Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
 - [SpriteAuditor](https://github.com/brunomikoski/SpriteAuditor) The missing tool to help you optimize your game
+- https://github.com/aniketrajnish/Unity-Collider-Optimizer
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
 - [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
@@ -4958,6 +4961,7 @@ Showing off the power of shader properties in Unity
 - [u3d](https://github.com/DragonBox/u3d/) fast lane
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
 - [UnitySkipSplash](https://github.com/psygames/UnitySkipSplash) Skip Unity Splash Screen only one script
+- [remove-unity-splash-screen](https://github.com/kiraio-moe/remove-unity-splash-screen)
 - [xcode-project](https://github.com/StansAssets/com.stansassets.xcode-project) The package provides a visual way to set XCode project settings and properties for your Unity project. Editor based C# API is avaliable as well.
 - [USSR](https://github.com/kiraio-moe/USSR) Unity Splash Screen Remover (USSR) is a CLI tool to remove Unity splash screen logo + watermark.
 - [ios-build-action](https://github.com/mrAlbert-development/ios-build-action) Build iOS project (.xcodeproj, .xcworkspace), and export ipa
