@@ -2,6 +2,9 @@
 - https://github.com/OTFCG/Awesome-Game-Analysis
 - https://mamoniem.com/
 - http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/
+- https://gamingbolt.com/category/graphics-analysis
+- http://www.jp.square-enix.com/tech/publications.html
+- https://vegard.wiki/w/Frame_analysis
 ## 荒野大嫖客 2
 https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/
 ## 赛博朋克2077

@@ -613,6 +613,7 @@ Table of Contents
 - https://halfrost.com
  
 #### English
+- [articles-blog-posts-index](https://bartwronski.com/articles-blog-posts-index/)
 - [jeremyong](https://www.jeremyong.com/) TA GI
 - [shaderbits](https://shaderbits.com/) TA
 - [theorangeduck](https://theorangeduck.com/page/all) math animation
@@ -1698,6 +1699,7 @@ Table of Contents
 - https://github.com/SpryFox/DarkConfig
 - [SaveLoadSystem](https://github.com/Zoroiscrying/com.zoroiscrying.core-game-systems/tree/main/Runtime/SaveLoadSystem)
 - [VirtualFileSystem](https://github.com/Atypical-Consulting/VirtualFileSystem)
+- https://github.com/FoundatioFx/Foundatio/blob/master/src/Foundatio/Storage/FolderFileStorage.cs
 
 ## IO
 - [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
@@ -2061,6 +2063,7 @@ Table of Contents
 - https://github.com/SimBlocks/OneWorldSDKforUnity
 - [SnowyOwl](https://github.com/SnowyLake/SnowyOwl) Unity Large World & Toon Shading Solution.
 - [streamable-worlds-bundle-5982](https://assetstore.unity.com/packages/tools/game-toolkits/streamable-worlds-bundle-5982) The Streamable Worlds Bundle gives you access to Terra Slicer and S.A.M. - The Streamable Assets Manager. Please see description for how to download these assets after purchase!
+- [continuous-floating-origin](https://assetstore.unity.com/packages/templates/packs/continuous-floating-origin-195971#description)
 
 
 ## DataBase
@@ -2510,6 +2513,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/thekiwicoder0/UnityBehaviourTreeEditor
 - https://github.com/crashkonijn/GOAP
 - https://github.com/AkiKurisu/AkiGOAP
+- https://github.com/TotalAI/TotalAI
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -2702,6 +2706,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Milk-Drinker01/CoR-Skinning 
 ##  Physics
 #### Physics Framework
+- [Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) Implementations in Unity of the Ten Minute Physics YouTube channel. Instead of using Unity's built-in physics engine
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
 - [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int) Pure C# deterministic fixed-point 3D real time physics simulation library
 - https://github.com/Kimbatt/unity-deterministic-physics
@@ -3822,6 +3827,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/TakeshiCho/GPU_Parallel_Reduction
 - https://github.com/alvion427/PerroPastor
 - https://github.com/etnlGD/UnityAstcGpuEncoder
+- https://github.com/aras-p/UnityGPUTexCompression
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -4086,6 +4092,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/linkdotnet/StringBuilder
 - https://github.com/augustoproiete/NaturalStringExtensions
 - https://github.com/sq/FString
+- https://github.com/U8String/U8String
 #### Thread/Task
 - https://github.com/RichieSams/FiberTaskingLib
 - https://github.com/taskflow/taskflow
@@ -4260,6 +4267,7 @@ Showing off the power of shader properties in Unity
 - [awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
 - [awesome-language-engineering](https://github.com/NLKNguyen/awesome-language-engineering)
 - https://github.com/ChessMax/awesome-programming-languages
+- https://github.com/CYJB/Cyjb.Compilers
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -4461,6 +4469,7 @@ Showing off the power of shader properties in Unity
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
 #### UI
+- [uxtool](https://uxtool.netease.com/)
 - [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
 - [MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) ViewSystem is a element based UI management system based on Unity GUI
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
@@ -4537,9 +4546,7 @@ Showing off the power of shader properties in Unity
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
 - [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results 
 - [UnityUIOptimizationTool](https://github.com/JoanStinson/UnityUIOptimizationTool)
-- [ui-shapes-kit](https://github.com/thisotherthing/ui-shapes-kit)
 - [raganddrop-unity3d](https://github.com/Xander93/draganddrop-unity3d)
-- [SLGDrawLine](https://github.com/871041532/SLGDrawLine) SLG游戏画行军线
 - [ui-toolkit-safe-area](https://github.com/artstorm/ui-toolkit-safe-area)
 - [UniversalInventorySystem](https://github.com/Heymity/UniversalInventorySystem)
 #### UI-Animation
@@ -4654,7 +4661,8 @@ Showing off the power of shader properties in Unity
 - [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167)
 - [aline](https://assetstore.unity.com/packages/tools/gui/aline-162772)
 - [draw-xxl-246836](https://assetstore.unity.com/packages/tools/utilities/draw-xxl-246836)
-
+- [SLGDrawLine](https://github.com/871041532/SLGDrawLine) SLG游戏画行军线
+- [ui-shapes-kit](https://github.com/thisotherthing/ui-shapes-kit)
 
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
@@ -4682,6 +4690,7 @@ Showing off the power of shader properties in Unity
 * [IsoSorting](https://github.com/Sylmerria/IsoSorting) Isometric sorting system for Unity using ECS
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
+* [SharedArray](https://github.com/stella3d/SharedArray) Zero-copy sharing between managed and native arrays in Unity
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
 * [Reinterpret](https://github.com/HelloKitty/Reinterpret.Net) 
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
@@ -4709,6 +4718,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/mikyll/UnityDOTS-Thesis
 * https://github.com/sschoener/burst-simd-exercises
 * [Trove](https://github.com/PhilSA/Trove) Collection of tools for Unity DOTS
+* [EntitiesEvents](https://github.com/AnnulusGames/EntitiesEvents) Provides inter-system messaging functionality to Unity ECS
 * [TransformAccessArrayDemo](https://github.com/Jura-Z/TransformAccessArrayDemo) This project demonstrates a few ways to implement moving 3d objects (casters) that project some decal (see Decal Documentation in URP) on the ground below them.
 #### PathFinding
 * https://coffeebraingames.wordpress.com
@@ -4819,6 +4829,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/ebruneton/precomputed_atmospheric_scattering
 - https://github.com/Reguluz/Moonflow-Lensflare-System 
 - https://github.com/AKGWSB/RealTimeAtmosphere
+- https://github.com/MirzaBeig/GPU-Fog-Particles
 #### Volumetric Mesh
 -  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
 #### Editor
@@ -5106,4 +5117,6 @@ Showing off the power of shader properties in Unity
 * [秋秋群里面的日常讨论](https://gist.github.com/lexnewgate/01dc7a985b2c8d847adfb90758d24843)
 * [gamedev](https://github.com/DsoTsin/gamedev) ue gamedev
 * [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+* [ModernGraphicsEngineGuide](https://github.com/Italink/ModernGraphicsEngineGuide)
+* [Books](https://github.com/hexinping/Books)
 ## 看完不star，小心没jj :)!
