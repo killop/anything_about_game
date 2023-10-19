@@ -301,6 +301,7 @@ Table of Contents
     - [Timeline](#timeline)
     - [TextureStreaming](#texturestreaming)
     - [Util](#util)
+    - [Unity-Update](#unity-update)
     - [Code-Reload\&\&Unity-Editor-Compiler](#code-reloadunity-editor-compiler)
     - [Windows-Show](#windows-show)
     - [File-Browser](#file-browser)
@@ -2146,6 +2147,7 @@ Table of Contents
 - [HashDepot](https://github.com/ssg/HashDepot)
 - [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm ,implement by c
 - [xxHash](https://github.com/uranium62/xxHash) xxhash c# implement
+- [FastHashes](https://github.com/TommasoBelluzzo/FastHashes)
 ## Text-Template
 - [Gridify](https://github.com/alirezanet/Gridify) Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
 - [cottle](https://github.com/r3c/cottle) High performance template engine for C# 
@@ -2843,6 +2845,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
 - [UnityMemorySnapshotThing](https://github.com/SamboyCoding/UnityMemorySnapshotThing) Tool to work with unity memory snapshots
+- [MemorySnapshotAnalyzer](https://github.com/facebookexperimental/MemorySnapshotAnalyzer) Analysis tooling for memory snapshots of managed code runtimes, specifically, Unity Memory Snapshots.
 - [il2cppMemoryProfiler](https://github.com/haitor888/il2cppMemoryProfiler) UnityMemperf是一款专为Unity引擎安卓平台IL2CPP运行时打造的高性能内存分析、泄露检查、快照对比工具
 - [uwa4d](https://www.uwa4d.com/)
 - [selective-profiling](https://github.com/needle-tools/selective-profiling) Selectively deep profile code in Unity
@@ -3372,6 +3375,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/yoship1639/UniToon
 - https://github.com/madumpa/URP_StylizedLitShader 
 - https://github.com/JasonMa0012/MooaToon
+- https://github.com/Gaolingx/HonkaiStarRailToonShader
 #### NPR-Tricks
 - [ToonShadingCollection阴影章节](https://github.com/TechMiZ/ToonShadingCollection/blob/main/%E6%AD%A3%E6%96%87/13_Shadow%E6%8A%95%E5%BD%B1%E7%AF%87.md)
 - [新的程序化面部光照修正，支持顶点动画](https://www.bilibili.com/video/BV1Ar4y1a7D7/?spm_id_from=pageDriver&vd_source=5c7d796f5431572d06618f01e5e55fd8)
@@ -3875,6 +3879,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/AdamYuan/SparseVoxelOctree
 - https://github.com/bartofzo/NativeTrees
 - https://github.com/emilianavt/BVHTools
+- https://github.com/VisualPinball/NativeTrees
 
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
@@ -4581,6 +4586,7 @@ Showing off the power of shader properties in Unity
 - [animate-ui-materials](https://assetstore.unity.com/packages/2d/gui/animate-ui-materials-253197)
 - [postprocessing-controller](https://assetstore.unity.com/packages/tools/utilities/postprocessing-controller-217499)
 - [material-timeline-track](https://assetstore.unity.com/packages/tools/animation/material-timeline-track-207256)
+- [Unified-Renderer-Unity](https://github.com/lukakldiashvili/Unified-Renderer-Unity)
 - [TimelineExtensions](https://github.com/SauryChang/TimelineExtensions)
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
@@ -4614,14 +4620,17 @@ Showing off the power of shader properties in Unity
 - https://github.com/Rhinox-Training/rhinox-lightspeed
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
 - https://github.com/GaryMcWhorter/Verlet-Chain-Unity
-- https://github.com/ehakram/FrameRateBooster
 - https://github.com/stonesheltergames/Unity-GUID
 - https://github.com/williamrjackson/UnityScriptingUtilities
+- https://github.com/cloudinnng/PluginHub
+
+
+#### Unity-Update
 - https://github.com/sotanmochi/PlayerLooper
 - https://github.com/Refsa/PlayerLoopInjector
 - https://github.com/Baste-RainGames/PlayerLoopInterface
-- https://github.com/cloudinnng/PluginHub
-
+- https://github.com/ehakram/FrameRateBooster
+- https://github.com/gilzoide/unity-update-manager
 #### Code-Reload&&Unity-Editor-Compiler
 - [unity-domain-reload-helper](https://github.com/joshcamas/unity-domain-reload-helper)
 - [UnityScriptHotReload](https://github.com/Misaka-Mikoto-Tech/UnityScriptHotReload)
@@ -4680,6 +4689,7 @@ Showing off the power of shader properties in Unity
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy 
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
+- [ECS_Game_Demo](https://github.com/JiepengTan/ECS_Game_Demo)
 - https://github.com/Unity-Technologies/ECS-Network-Racing-Sample
 - https://github.com/Wind-Coming/MultiUnitSameScreen
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
@@ -4691,6 +4701,7 @@ Showing off the power of shader properties in Unity
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
 * [SharedArray](https://github.com/stella3d/SharedArray) Zero-copy sharing between managed and native arrays in Unity
+* [UnsafeArray](https://github.com/LizzyFox-code/UnsafeArray)
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
 * [Reinterpret](https://github.com/HelloKitty/Reinterpret.Net) 
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
