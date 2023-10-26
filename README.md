@@ -1164,7 +1164,6 @@ Table of Contents
 * [SmartTexture](https://github.com/phi-lira/SmartTexture) Unity tool to pack texture channels into a single texture. 
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
 * [mixture](https://openupm.com/packages/com.alelievr.mixture/) Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime. Mixture is very flexible, easily customizable through ShaderGraph and a simple C# API, fast with it's GPU based workflow and compatible with all the render pipelines thanks to the new Custom Render Texture API.
-* [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
 - https://github.com/StbSharp
 - [CC0Textures](https://github.com/keijiro/CC0TexturesUtils) Unity Editor scripts for preprocessing CC0 Textures 
 - https://cc0textures.com/ CC0 Textures is a library of high quality PBR materials for 3D rendering and game design licensed under the Creative Commons CC0 License. 
@@ -1201,6 +1200,9 @@ Table of Contents
  a library to generate an UV for -example- lightmap uv.  
 * [AtlasGenerator](https://github.com/UniGameTeam/UniGame.AtlasGenerator) Rule based SpriteAtlas Generator for Unity3D
 * [Unity-SpriteAssist](https://github.com/sr4dev/Unity-SpriteAssist)
+- https://github.com/JingFengJi/UpdateSpriteAssetTool
+- https://github.com/Elringus/SpriteDicing 这才叫图集工具 
+* [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
 ## Animation
 #### Article/Collection
 - https://www.creativebloq.com/advice/understand-the-12-principles-of-animation
@@ -4503,8 +4505,6 @@ Showing off the power of shader properties in Unity
 - https://github.com/ChebanovDD/UnityMvvmToolkit
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
-- https://github.com/JingFengJi/UpdateSpriteAssetTool
-- https://github.com/Elringus/SpriteDicing 这才叫图集工具
 - https://github.com/scottcgi/MojoUnity-Packages
 - https://github.com/coding2233/TextInlineSprite
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
