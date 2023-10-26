@@ -115,6 +115,7 @@ Table of Contents
     - [Json](#json)
     - [Yaml](#yaml)
 - [Huge-World](#huge-world)
+    - [PCG](#pcg)
 - [DataBase](#database)
     - [c#](#c)
 - [ECS Libraries](#ecs-libraries)
@@ -1020,6 +1021,8 @@ Table of Contents
  - https://github.com/yuzu-unity/HumanoidCollider
  - https://github.com/mochi-neko/facial-expressions-unity
  - https://github.com/gree/MuscleCompressor
+ - https://github.com/UPC-ViRVIG/MMVR
+ - https://github.com/UPC-ViRVIG/AvatarGo
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -2025,6 +2028,7 @@ Table of Contents
 - https://github.com/KrzysztofCwalina/POLE
 - https://github.com/JasonXuDeveloper/Nino
 - https://github.com/chronoxor/FastBinaryEncoding
+- [zion-bandwidth-optimizer](https://assetstore.unity.com/packages/tools/network/zion-bandwidth-optimizer-112059)
 
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -2065,6 +2069,9 @@ Table of Contents
 - [SnowyOwl](https://github.com/SnowyLake/SnowyOwl) Unity Large World & Toon Shading Solution.
 - [streamable-worlds-bundle-5982](https://assetstore.unity.com/packages/tools/game-toolkits/streamable-worlds-bundle-5982) The Streamable Worlds Bundle gives you access to Terra Slicer and S.A.M. - The Streamable Assets Manager. Please see description for how to download these assets after purchase!
 - [continuous-floating-origin](https://assetstore.unity.com/packages/templates/packs/continuous-floating-origin-195971#description)
+
+#### PCG
+- https://www.bilibili.com/read/cv22614836/ 
 
 
 ## DataBase
@@ -2294,6 +2301,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Netcode.IO.NET](https://github.com/GlaireDaggers/Netcode.IO.NET) A pure managed C# implementation of the Netcode.IO spec
 * [Nethostfire](https://github.com/treviasxk/Nethostfire) Nethostfire is a UDP server/client created with C# (netstandard2.0), it's a simple and easy-to-understand project, with it you can set up your game server, video calls, file transfers and more.
 * [Netly](https://github.com/alec1o/Netly?) Netly is a open source socket library for c# (C-Sharp). It facilitates the use of socket (UDP and TCP, Client and Server) with which it is compatible (Android, iOS, macOS, Linux, Windows, ...) as long as it is compiled with its destination.
+* [Unity-async-await-tcp](https://github.com/Bian-Sh/Unity-async-await-tcp) This is an async/await tcp communication (client and server inside) in unity.simple yet powerful！
 
  #### C/CPP
 - [CppNet](https://github.com/caozhiyi/CppNet)
@@ -2785,6 +2793,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Fluid-Simulator](https://github.com/Al-Asl/Fluid-Simulator) Case study on fluid dynamics, Volumetric GPU-Based fluid simulator
 - [Liquid-Simulation](https://github.com/ivuecode/Liquid-Simulation)
 #### Water
+- [crest](https://github.com/wave-harmonic/crest)
 - [CFD101](https://github.com/thu-zhanghl/CFD101) 💧CFD(计算流体力学)资料汇总、学习笔记
 - [FluidSimulationTutorialsUnity](https://github.com/clatterrr/FluidSimulationTutorialsUnity)
 - [FluxInUnity](https://github.com/DaiZiLing/FluxInUnity)
@@ -3089,6 +3098,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - [common-shaders](https://github.com/libretro/common-shaders)
 - [HLSL-Library](https://github.com/youandhubris/HLSL-Library)
+- https://github.com/Radagasd/line-intersections
 - [glsl-pcg-prng](https://github.com/riccardoscalco/glsl-pcg-prng) Glsl implementation of the PCG algorithm for the generation of random numbers.
 
 #### Shader-Compiler
@@ -4348,6 +4358,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/MattRix/Futile
 - https://github.com/dotmos/uGameFramework
 - https://github.com/ManakhovN/FigmaToUnityImporter
+- https://github.com/TrackMan/Unity.Package.FigmaToUnity
 - https://github.com/kyubuns/AkyuiUnity
 - https://github.com/dotmos/uGameFramework
 - https://github.com/DonnYep/CosmosFramework
@@ -4398,6 +4409,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/PhysaliaStudio/Flexi
 - https://github.com/smartgrass/XCSkillEditor_Unity
 - https://github.com/526077247/GenshinGamePlay
+- https://github.com/YouwantLee/Joker_Unity_SkillEditor
  
 
 #### Occlusion Culling
@@ -4480,6 +4492,7 @@ Showing off the power of shader properties in Unity
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
 - [fiber](https://github.com/unity-atoms/fiber)
 - [NRFramework](https://github.com/NRatel/NRFramework.UI)
+- https://github.com/blightue/UIEEx
 - [CSReactive](https://github.com/labbbirder/CSReactive) 纯C#下实现Vue，特别针对Unity
 - [MVI4Unity](https://github.com/Wilson403/MVI4Unity) 基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）
 - [LiShengYang-yiyi](https://github.com/LiShengYang-yiyi) Unity3D UGUI Framework
@@ -4595,9 +4608,11 @@ Showing off the power of shader properties in Unity
 - https://github.com/Hertzole/runtime-options-manager
 - https://github.com/joebinns/asteroids-scriptable-objects
 - https://github.com/gilzoide/unity-easy-project-settings
+- https://github.com/xZenvin/UnitySettingsFramework
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 - https://github.com/lujian101
 - https://github.com/shinn716/ShinnUtils
+- https://github.com/Skyrim07/SKCell
 - https://github.com/cs-util-com/cscore
 - https://github.com/silphid/silphid.unity/
 - https://github.com/IainS1986/UnityCoverFlow
@@ -4768,6 +4783,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Cr33zz/Nav
 - https://github.com/snape/RVO2-CS
 - https://github.com/warmtrue/RVO2-Unity
+- https://github.com/sunsvip/UnityRVO2
 - https://github.com/Nebukam/com.nebukam.orca
 - [agents-navigation](https://assetstore.unity.com/packages/tools/ai/agents-navigation-239233) unity-plugin
 - [SimpleAI](https://github.com/OneManMonkeySquad/SimpleAI)
