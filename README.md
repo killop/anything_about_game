@@ -1023,6 +1023,7 @@ Table of Contents
  - https://github.com/gree/MuscleCompressor
  - https://github.com/UPC-ViRVIG/MMVR
  - https://github.com/UPC-ViRVIG/AvatarGo
+ - - https://github.com/soupday/cc_unity_tools_URP
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -3227,7 +3228,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [shaders-impossible-geom](https://github.com/daniel-ilett/shaders-impossible-geom) A shader project for Unity URP featuring impossible geometry shaders like those seen in the game Antichamber.
 - [Anisotropy-Shader](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP)
 - https://github.com/eangulee/UnityShader
-- https://github.com/soupday/cc_unity_tools_URP
 - https://github.com/AnCG7/URPShaderCodeSample
 - https://github.com/neon-age/VFX-Lab
 - https://github.com/MirzaBeig/Post-Processing-Scan
@@ -4601,9 +4601,11 @@ Showing off the power of shader properties in Unity
 - [material-timeline-track](https://assetstore.unity.com/packages/tools/animation/material-timeline-track-207256)
 - [Unified-Renderer-Unity](https://github.com/lukakldiashvili/Unified-Renderer-Unity)
 - [TimelineExtensions](https://github.com/SauryChang/TimelineExtensions)
+- [UnityCameraSystem_CC](https://github.com/LeahLee13/UnityCameraSystem_CC)
+- [Cine-AI](https://github.com/inanevin/Cine-AI)
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
-- [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 
+- [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 基于Cinemachine的第一/三人称过肩/自由/斜45度/俯视角摄像机系统（本摄像机系统基于Cinemachine的Virtual Camara实现，实现了锁定、旋转、缩放、移动、鼠标显示/隐藏、摄像机位置复位、限制摄像机角度、动态挂载跟随目标、切换视角、遮挡透视等功能，并自带摄像机碰撞，防止穿墙）
 #### Util
 - https://github.com/Hertzole/runtime-options-manager
 - https://github.com/joebinns/asteroids-scriptable-objects

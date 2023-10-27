@@ -15,6 +15,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 ## LOL mobile
 - [谈一谈英雄联盟手游渲染2](https://zhuanlan.zhihu.com/p/286836840)
 ## 原神
+- [NahidaRenderProject](https://github.com/kaze-mio/NahidaRenderProject)
 - [GenshinCelShaderURP](https://github.com/Gaolingx/GenshinCelShaderURP)
 - [简单模仿原神风格化渲染](https://github.com/hh455695642/URPGenshinImpactShader)
 - [StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader)
