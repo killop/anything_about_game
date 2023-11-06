@@ -316,7 +316,6 @@ Table of Contents
     - [Create Model](#create-model)
     - [Mesh](#mesh)
       - [Fracture Mesh](#fracture-mesh)
-    - [Voxel](#voxel-1)
     - [Fog\&\&Smoke\&\&Cloud\&\&Atmospheric](#fogsmokecloudatmospheric)
     - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
@@ -1023,7 +1022,9 @@ Table of Contents
  - https://github.com/gree/MuscleCompressor
  - https://github.com/UPC-ViRVIG/MMVR
  - https://github.com/UPC-ViRVIG/AvatarGo
- - - https://github.com/soupday/cc_unity_tools_URP
+ - https://github.com/soupday/cc_unity_tools_URP
+ - https://github.com/huailiang/unity_pose3D
+ - https://github.com/kodai100/Unity_ARKitFacialCapture
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -1341,6 +1342,7 @@ Table of Contents
 - [uPlayableAnimation](https://github.com/EricHu33/uPlayableAnimation)
 - [Vortex](https://github.com/kaiyumcg/Vortex) Play/blend animations, animator controllers in runtime. Uses playable API
 - [Unity-MecanimEventSystem](https://github.com/Bian-Sh/Unity-MecanimEventSystem) This is a chain programming style callback System for Animator of Unity ，await /async supported
+- https://github.com/linfuqing/ZGUPEntitiesAnimations supported
 #### Character-Controller
 - [CharacterControllerSamples](https://github.com/Unity-Technologies/CharacterControllerSamples)
 - [GenshinImpactMovementSystem](https://github.com/JiaoziDani/GenshinImpactMovementSystem)
@@ -1685,6 +1687,7 @@ Table of Contents
 - https://github.com/Reloaded-Project/Reloaded-II Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
 - [FastRsyncNet](https://github.com/GrzegorzBlok/FastRsyncNet) 
 - [bsdiff.net](https://github.com/LogosBible/bsdiff.net) A .NET port of Colin Percival's bsdiff & bspatch
+- [ExcelDiff_MergeTool](https://github.com/kokichi88/ExcelDiff_MergeTool)
  ## File Systems
 - https://github.com/mattiasgustavsson/libs
 - https://icculus.org/physfs/
@@ -1766,6 +1769,7 @@ Table of Contents
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
+- https://github.com/hstcscolor/awesome-gameserver-cn
 - https://github.com/jzyong/ugk-server
 - https://github.com/CypherCore/CypherCore
 - https://github.com/mangoszero/server
@@ -1850,6 +1854,7 @@ Table of Contents
 - [everwar](https://github.com/geektcp/everwar) Everwar是一个开源魔兽世界服务端
 - [BigWorld-Engine](https://github.com/v2v3v4/BigWorld-Engine-14.4.1)
 #### Article
+- [danieljimenezmorales blog](https://danieljimenezmorales.github.io/)
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
 - [6-community-videos-to-get-you-started-with-multiplayer](https://blog.unity.com/games/6-community-videos-to-get-you-started-with-multiplayer)
 - [Sakura Engine 中的状态同步](https://zhuanlan.zhihu.com/p/623969345)
@@ -2305,7 +2310,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Nethostfire](https://github.com/treviasxk/Nethostfire) Nethostfire is a UDP server/client created with C# (netstandard2.0), it's a simple and easy-to-understand project, with it you can set up your game server, video calls, file transfers and more.
 * [Netly](https://github.com/alec1o/Netly?) Netly is a open source socket library for c# (C-Sharp). It facilitates the use of socket (UDP and TCP, Client and Server) with which it is compatible (Android, iOS, macOS, Linux, Windows, ...) as long as it is compiled with its destination.
 * [Unity-async-await-tcp](https://github.com/Bian-Sh/Unity-async-await-tcp) This is an async/await tcp communication (client and server inside) in unity.simple yet powerful！
-
+- [EntityNetworkingSystems](https://github.com/AncientEntity/EntityNetworkingSystems) A networking framework for Unity.
  #### C/CPP
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
@@ -3316,6 +3321,7 @@ Showing off the power of shader properties in Unity
 ####  imposters
 - [amplify-impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877)
 #### Physically-Based-Render
+- https://academysoftwarefoundation.github.io/OpenPBR
 - https://blog.selfshadow.com/publications/
 - https://github.com/neil3d/awesome-pbr
 - https://github.com/AntonPalmqvist/physically-based-api
@@ -3335,6 +3341,7 @@ Showing off the power of shader properties in Unity
 - [学习PBR路程（四、Specular）](https://zhuanlan.zhihu.com/p/454439797)
 
 #### NPR
+- https://github.com/danbaidong1111/DanbaidongRP
 - [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
 - [FernNPR](https://github.com/DeJhon-Huang/FernNPR) NPR相关实验，基于Unity。
 - [UnityURP-AnimeStyleCelShader](https://github.com/Jameslroll/UnityURP-AnimeStyleCelShader) A custom shader and post-processing effect for achieving anime-style characters or levels in Unity using the Universal Render Pipeline.
@@ -3517,6 +3524,7 @@ Showing off the power of shader properties in Unity
 * [shader-graph-markdown](https://assetstore.unity.com/packages/tools/gui/shader-graph-markdown-194781)
 * [OpenGraphGUI](https://github.com/RobProductions/OpenGraphGUI)
 * [chroma-creative-shader-ui](https://assetstore.unity.com/packages/tools/utilities/chroma-creative-shader-ui-231313)
+* [ShaderUtilsForSRP](https://github.com/stalomeow/ShaderUtilsForSRP)
 ##### Interior
 - https://github.com/Gaxil/Unity-InteriorMapping
 - https://zhuanlan.zhihu.com/p/575453172
@@ -3593,15 +3601,15 @@ Showing off the power of shader properties in Unity
 - https://github.com/draftPRD/URP_PlanarReflections
 - https://github.com/NineTwoMay1st/URP_PlanerReflection
 - https://github.com/Reuben-Sun/SSPR
+
 #### Global illumination (GI)
 
 ##### Collection
 * [gi-study](https://github.com/JMS55/gi-study)
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
-* [DXR-Sandbox-GI](https://github.com/steaklive/DXR-Sandbox-GI) Simple DirectX 12 toy framework for testing Global Illumination: Reflective Shadow Mapping, Light Propagation Volume, Voxel Cone Tracing, DXR
 *  [NatRender](https://github.com/unitycoder/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
-*  [A voxel cone traced realtime Global Illumination rendering engine in dx12, wip](https://github.com/LanLou123/DXE)
+
 ##### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
@@ -3629,6 +3637,7 @@ Showing off the power of shader properties in Unity
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
 * [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
 ##### VCT
+- [lumina-gi-real-time-voxel-global-illumination](https://assetstore.unity.com/packages/tools/particles-effects/lumina-gi-real-time-voxel-global-illumination-226660) unity-plugin
 * [【渲染】算法分析：Deferred Voxel Shading for Real-Time Global Illumination](https://zhuanlan.zhihu.com/p/466869586)
 * [Nigiri](https://github.com/ninlilizi/Nigiri) A fully-dynamic voxel-based global illumination system for Unity.
 * [SEGI](https://github.com/sonicether/SEGI) Almost real-time Global Illumination for Unity.
@@ -3642,6 +3651,14 @@ Showing off the power of shader properties in Unity
 * [VCTGI](https://github.com/rdinse/VCTGI) GPU-based real-time global illumination renderer based on voxel cone tracing
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
 * [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
+* [DXR-Sandbox-GI](https://github.com/steaklive/DXR-Sandbox-GI) Simple DirectX 12 toy framework for testing Global Illumination: Reflective Shadow Mapping, Light Propagation Volume, Voxel Cone Tracing, DXR 
+* [A voxel cone traced realtime Global Illumination rendering engine in dx12, wip](https://github.com/LanLou123/DXE) 
+* [VXAO](https://developer.nvidia.com/vxao-voxel-ambient-occlusion) Voxel Ambient Occlusion 
+* [voxelized-shadows-improved](https://github.com/loinesg/voxelized-shadows-improved) Construction and sampling of precomputed shadows in a compressed voxel octree
+* https://github.com/Ushio/MassiveVoxelRayTracing 
+- [voxel-renderer-unity](https://github.com/sjoerd-code/voxel-renderer-unity) This is a voxel renderer made using Unity
+- https://github.com/voxelbased/core
+- [unity-voxel-SC-WGRDemo](https://github.com/betairylia/unity-voxel-SC-WGRDemo) Unity playground for voxel world generation / rendering. 
 ##### SSGI
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
@@ -3668,14 +3685,15 @@ Showing off the power of shader properties in Unity
 - [cmake-raytracer](https://github.com/64/cmake-raytracer)
 - https://developer.download.nvidia.com/ray-tracing-gems/rtg2-chapter30-preprint.pdf
 - https://github.com/AlerianEmperor/LuxRenderer
-- - https://github.com/jiaozi158/UnitySSPathTracingURP
+- https://github.com/jiaozi158/UnitySSPathTracingURP
 - https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer
 - https://github.com/teofilobd/URP-RayTracer
 - https://github.com/AlucardDH/dh-reshade-shaders
 - https://github.com/SebLague/Ray-Tracing
 - https://github.com/StarsX/RayTracedSPH
 - https://intro-to-restir.cwyman.org/
-- https://github.com/Ushio/MassiveVoxelRayTracing
+
+- https://github.com/airliang/unity-raytracing
 ##### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
@@ -3713,7 +3731,6 @@ Showing off the power of shader properties in Unity
 * [Robust Screen Space Ambient Occlusion](https://github.com/wolfgangfengel/GPUZen/tree/master/04_Screen%20Space/) Robust Screen Space Ambient Occlusion
 * [HBAOPlus](https://github.com/NVIDIAGameWorks/HBAOPlus) HBAO+ is a SSAO algorithm designed to achieve high efficiency on DX11 GPUs. 
 * [gl_ssao](https://github.com/nvpro-samples/gl_ssao) optimized screen-space ambient occlusion, cache-aware hbao  
-* [VXAO](https://developer.nvidia.com/vxao-voxel-ambient-occlusion) Voxel Ambient Occlusion
 * [MiniEngineAO](https://github.com/keijiro/MiniEngineAO) SSAO image effect from Microsoft MiniEngine, ported to Unity.
 * [NNAO](https://github.com/simeonradivoev/NNAO) Neural Network Ambien Occlusion
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
@@ -3777,7 +3794,6 @@ Showing off the power of shader properties in Unity
 * [ShadowVolume](https://github.com/chengkehan/ShadowVolume) Shadow Volume for Static-Scene-Object of Unity
 * [variance_shadow_mapping_vk](https://github.com/sydneyzh/variance_shadow_mapping_vk) Variance shadow mapping for omni lights with Vulkan
 * [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes) A realization of computing soft shadow by shadow fields
-* [voxelized-shadows-improved](https://github.com/loinesg/voxelized-shadows-improved) Construction and sampling of precomputed shadows in a compressed voxel octree
 * [DeepShadowMap](https://github.com/ecidevilin/DeepShadowMap) Real-Time Deep Shadow Maps for Unity3D 
 * [CachedShadowMaps](https://github.com/aivclab/CachedShadowMaps) Cached Shadow Map Solution for Unity
 * [Unity-Capsule-Shadows](https://github.com/frostbone25/Unity-Capsule-Shadows) A work in progress solution for capsule shadows in Unity.
@@ -3909,6 +3925,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/BlueSkyDefender/AstrayFX
 - https://github.com/FransBouma/OtisFX
 - https://github.com/GarrettGunnell/AcerolaFX
+- https://github.com/NullTale/OldMovieFx
 - [Anime-Speed-Lines](https://github.com/MirzaBeig/Anime-Speed-Lines) Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
@@ -4052,6 +4069,8 @@ Showing off the power of shader properties in Unity
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
 - https://github.com/aelij/spanify span用法总结
+- https://github.com/jiangjinnan/NativeBuffering
+- https://github.com/timonkrebs/MemoizR Declarative Structured Concurrency for C#
 - [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
@@ -4275,6 +4294,7 @@ Showing off the power of shader properties in Unity
 - [tuyin](http://www.tuyin.org/)
 
 #### Collection
+- https://github.com/tensorush/Awesome-Langs-Learning
 - [cosmopolitan](https://github.com/jart/cosmopolitan) build-once run-anywhere c library
 - https://langium.org/
 - https://github.com/shining1984/PL-Compiler-Resource
@@ -4472,6 +4492,7 @@ Showing off the power of shader properties in Unity
 - [durabletask](https://github.com/Azure/durabletask) Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 - [AsyncWorkerCollection](https://github.com/dotnet-campus/AsyncWorkerCollection) A collection of tools that support asynchronous methods and support high-performance multithreading. 
 - [Skyward.Threading](https://github.com/SkywardApps/Skyward.Threading) This is a system for running items in background queues. All tasks run locally in-process, so this is not a replacement for eg Redis or RabbitMQ or Kafka, but is a simpler implementation of deferring worker items.
+- [vs-threading](https://github.com/microsoft/vs-threading)
 #### Node-Editor
 - [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
@@ -4555,6 +4576,7 @@ Showing off the power of shader properties in Unity
 - [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131)  
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
+- [Progress-Bar](https://github.com/MirzaBeig/Animated-Progress-Bar-Shader-Graph)
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
 - [UnityUiParticles](https://github.com/ken48/UnityUiParticles)
 - [ui-particle-image](https://assetstore.unity.com/packages/tools/gui/ui-particle-image-235001) unity-plugin
@@ -4579,6 +4601,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/toptensoftware/RichTextKit
 - https://github.com/wieslawsoltes/Svg.Skia
 - [AnimatableVolumeComponent](https://github.com/cji3bp62000/AnimatableVolumeComponent) This package provides helper scripts that let you animate Post-Process parameters (VolumeProfile) in URP/HDRP.
+- https://github.com/mihakrajnc/UITTimeline
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
 - [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
@@ -4607,6 +4630,7 @@ Showing off the power of shader properties in Unity
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 基于Cinemachine的第一/三人称过肩/自由/斜45度/俯视角摄像机系统（本摄像机系统基于Cinemachine的Virtual Camara实现，实现了锁定、旋转、缩放、移动、鼠标显示/隐藏、摄像机位置复位、限制摄像机角度、动态挂载跟随目标、切换视角、遮挡透视等功能，并自带摄像机碰撞，防止穿墙）
 #### Util
+- https://github.com/nothke/unity-utils
 - https://github.com/Hertzole/runtime-options-manager
 - https://github.com/joebinns/asteroids-scriptable-objects
 - https://github.com/gilzoide/unity-easy-project-settings
@@ -4639,6 +4663,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/GaryMcWhorter/Verlet-Chain-Unity
 - https://github.com/stonesheltergames/Unity-GUID
 - https://github.com/williamrjackson/UnityScriptingUtilities
+- https://github.com/emanzione/MHLab.Utilities
 - https://github.com/cloudinnng/PluginHub
 
 
@@ -4748,6 +4773,7 @@ Showing off the power of shader properties in Unity
 * [Trove](https://github.com/PhilSA/Trove) Collection of tools for Unity DOTS
 * [EntitiesEvents](https://github.com/AnnulusGames/EntitiesEvents) Provides inter-system messaging functionality to Unity ECS
 * [TransformAccessArrayDemo](https://github.com/Jura-Z/TransformAccessArrayDemo) This project demonstrates a few ways to implement moving 3d objects (casters) that project some decal (see Decal Documentation in URP) on the ground below them.
+* https://github.com/enzi/NZCore
 #### PathFinding
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
@@ -4787,6 +4813,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/warmtrue/RVO2-Unity
 - https://github.com/sunsvip/UnityRVO2
 - https://github.com/Nebukam/com.nebukam.orca
+- https://github.com/Nebukam/com.nebukam.beacon.orca
 - [agents-navigation](https://assetstore.unity.com/packages/tools/ai/agents-navigation-239233) unity-plugin
 - [SimpleAI](https://github.com/OneManMonkeySquad/SimpleAI)
 - [WZCQ](https://github.com/FengQuanLi/WZCQ) 用基于策略梯度得强化学习方法训练AI玩王者荣耀
@@ -4843,10 +4870,6 @@ Showing off the power of shader properties in Unity
 ##### Fracture Mesh
 - https://gitlab.com/dima13230/unity-libre-fracture
 
-#### Voxel
-- [voxel-renderer-unity](https://github.com/sjoerd-code/voxel-renderer-unity) This is a voxel renderer made using Unity
-- https://github.com/voxelbased/core
-- [unity-voxel-SC-WGRDemo](https://github.com/betairylia/unity-voxel-SC-WGRDemo) Unity playground for voxel world generation / rendering.
 #### Fog&&Smoke&&Cloud&&Atmospheric
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 - [FogOfWar](https://github.com/QinZhuo/FogOfWar_ForUnity) unity实现的基于视野的战争迷雾
@@ -4859,6 +4882,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Reguluz/Moonflow-Lensflare-System 
 - https://github.com/AKGWSB/RealTimeAtmosphere
 - https://github.com/MirzaBeig/GPU-Fog-Particles
+- https://github.com/GarrettGunnell/CS2-Smoke-Grenades
 #### Volumetric Mesh
 -  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
 #### Editor
@@ -4872,6 +4896,7 @@ Showing off the power of shader properties in Unity
 * [BetterAttributes](https://github.com/uurha/BetterAttributes)
 * [CustomizationInspector](https://github.com/Mr-sB/CustomizationInspector)
 * [project-view-enhanced-199685](https://assetstore.unity.com/packages/tools/gui/project-view-enhanced-199685)
+* [QuickEye-Utility](https://github.com/ErnSur/QuickEye-Utility)
 
 
 #### Asset-Management
