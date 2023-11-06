@@ -4689,6 +4689,7 @@ Showing off the power of shader properties in Unity
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
+- [Arch.Extended](https://github.com/genaray/Arch.Extended) Extensions for Arch with some useful features like Systems, Source Generator and Utils.
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
 - [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
 - [RSCG_Examples](https://github.com/ignatandrei/RSCG_Examples) Roslyn Source Code Generators with Examples
