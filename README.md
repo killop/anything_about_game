@@ -1061,6 +1061,7 @@ Table of Contents
 - [RuntimeMeshSimplification](https://github.com/simplestargame/RuntimeMeshSimplification)
 - [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes meshes smaller and faster to render 
 - [polygon-cruncher](https://www.mootools.com/en/software/polygon-cruncher)
+- https://github.com/m-schuetz/SimLOD
 #### Mipmap
 - [texel-inspector](https://assetstore.unity.com/packages/tools/utilities/texel-inspector-176174)  The Texel Inspector unity plugin
 #### List-of-game-middleware
@@ -2736,6 +2737,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/BXRan/PEMath
 - https://github.com/GameArki/FPPhysics2D
 - https://github.com/yingyugang/FixedPointPhysics
+- https://github.com/devlinzhou/deterministic_float
 - https://github.com/zeroerror/ZeroPhysics
 - https://github.com/chenwansal/FPPhysics2D
 - https://github.com/GameArki/FPMath
@@ -4898,6 +4900,7 @@ Showing off the power of shader properties in Unity
 * [CustomizationInspector](https://github.com/Mr-sB/CustomizationInspector)
 * [project-view-enhanced-199685](https://assetstore.unity.com/packages/tools/gui/project-view-enhanced-199685)
 * [QuickEye-Utility](https://github.com/ErnSur/QuickEye-Utility)
+* https://github.com/Brian-Jiang/SmartReference
 
 
 #### Asset-Management
