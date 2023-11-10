@@ -1544,6 +1544,7 @@ Table of Contents
 - [OGEX](https://en.wikipedia.org/wiki/Open_Game_Engine_Exchange)
 - [PLY](https://zh.wikipedia.org/wiki/PLY)
 - [USD](https://graphics.pixar.com/usd/docs/index.html)
+- [awesome-openusd](https://github.com/matiascodesal/awesome-openusd)
 - [Niftools](https://github.com/niftools/niflib)
 * [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data
 * [luma_usd](https://github.com/LumaPictures/luma_usd) -  Plugins for USD
