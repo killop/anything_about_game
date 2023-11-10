@@ -233,6 +233,7 @@ Table of Contents
       - [Ray tracing](#ray-tracing)
       - [Path tracing](#path-tracing)
       - [RTX](#rtx)
+      - [DDGI](#ddgi)
       - [Metropolis Light Transport](#metropolis-light-transport)
       - [PhotonMapping](#photonmapping)
       - [Ambient occlusion](#ambient-occlusion)
@@ -1327,6 +1328,7 @@ Table of Contents
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
 - [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
+- https://forum.unity.com/threads/released-curve-master-motion-design-tools-in-unity.1453582/
 - https://github.com/fengkan/RuntimeRetargeting
 - https://github.com/robotron2084/animation-retargeting
 - [traversal](https://assetstore.unity.com/packages/tools/animation/traversal-179526) This module allows characters to traverse the environment through multiple built-in and fully customizable obstacles and climbable elements.
@@ -1771,6 +1773,7 @@ Table of Contents
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 ## Game-Server-framework
 - https://github.com/hstcscolor/awesome-gameserver-cn
+- https://github.com/novusengine/NovusCore
 - https://github.com/jzyong/ugk-server
 - https://github.com/CypherCore/CypherCore
 - https://github.com/mangoszero/server
@@ -2085,6 +2088,7 @@ Table of Contents
 
 ## DataBase
 - https://github.com/dolthub/dolt
+- https://github.com/ClockworkLabs/SpacetimeDB
 #### c#
 - [ZoneTree](https://github.com/koculu/ZoneTree) ZoneTree is a persistent, high-performance, transactional, ACID-compliant ordered key-value database for NET. It can operate in memory or on local/cloud storage.
 - [realm](https://github.com/realm/realm-dotnet) Realm is a mobile database: a replacement for SQLite & ORMs 
@@ -3596,9 +3600,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Raphael2048/URPTAA 
 - https://github.com/CMDRSpirit/URPTemporalAA
 - https://github.com/CrazyEngine/Unity_Indirect-Rendering-With-Compute-Shaders
-- https://github.com/Looooong/Unity-SRP-VXGI
 - [dots-renderer](https://github.com/vectorized-runner/dots-renderer)
-- https://github.com/flwmxd/LuxGI
 - https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP
 - https://github.com/draftPRD/URP_PlanarReflections
 - https://github.com/NineTwoMay1st/URP_PlanerReflection
@@ -3718,6 +3720,10 @@ Showing off the power of shader properties in Unity
 * [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
 - [Candela](https://github.com/swr06/Candela) Pathtraced Realtime Engine
+
+##### DDGI
+- https://github.com/xuechao-chen/DDGI
+- https://github.com/flwmxd/LuxGI 
 ##### Metropolis Light Transport
 ##### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
@@ -4203,6 +4209,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/bitwarden/server
 - https://github.com/randyklex/caffeine.net
 - [adnc](https://github.com/AlphaYu/adnc) .NET6微服务/分布式开发框架，同时也适用于单体架构系统的开发。
+- https://github.com/aelyo-softworks/Wice
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -4512,6 +4519,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
 #### UI
 - [uxtool](https://uxtool.netease.com/)
+- https://github.com/Eashiong/StackUI
+- https://github.com/3-Delta/Unity-UI
 - [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
 - [MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) ViewSystem is a element based UI management system based on Unity GUI
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
@@ -4943,6 +4952,7 @@ Showing off the power of shader properties in Unity
 - [Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
 - [SpriteAuditor](https://github.com/brunomikoski/SpriteAuditor) The missing tool to help you optimize your game
 - https://github.com/aniketrajnish/Unity-Collider-Optimizer
+- https://github.com/SarahWeiii/CoACD
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
 - [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
