@@ -2035,6 +2035,7 @@ Table of Contents
 - https://github.com/Sergio0694/BinaryPack
 - https://github.com/akkadotnet/Hyperion
 - https://github.com/leandromoh/RecordParser
+- https://github.com/nietras/Sep
 - https://github.com/RudolfKurka/StructPacker
 - https://github.com/wqaetly/OdinSerializerForNetCore
 - https://github.com/quabug/AnySerialize
@@ -2538,6 +2539,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/crashkonijn/GOAP
 - https://github.com/AkiKurisu/AkiGOAP
 - https://github.com/TotalAI/TotalAI
+- [behavior-2](https://assetstore.unity.com/packages/tools/behavior-ai/behavior-2-game-creator-2-by-catsoft-works-262851)
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -3348,6 +3350,7 @@ Showing off the power of shader properties in Unity
 - [学习PBR路程（四、Specular）](https://zhuanlan.zhihu.com/p/454439797)
 
 #### NPR
+- https://github.com/FernRP
 - https://github.com/danbaidong1111/DanbaidongRP
 - [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
 - [FernNPR](https://github.com/DeJhon-Huang/FernNPR) NPR相关实验，基于Unity。
@@ -3943,6 +3946,7 @@ Showing off the power of shader properties in Unity
 #### Color
 - [exposure](https://bruop.github.io/exposure/)
 - [colour-unity](https://github.com/colour-science/colour-unity)
+- [JL-s-Unity-Blend-Modes](https://github.com/penandlim/JL-s-Unity-Blend-Modes)
 - [万能的曲线——堪称调色之王（颜色篇）](https://zhuanlan.zhihu.com/p/375597094)
 - [色彩理论」颜色是怎么回事儿？以及如何高效使用 Adobe 颜色库](https://www.bilibili.com/video/BV114411R7x4?)
 - [皮克斯光线与色彩应用培训中文字幕](https://www.bilibili.com/video/BV1Dr4y1P7LW?)
