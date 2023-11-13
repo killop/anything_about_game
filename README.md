@@ -4756,6 +4756,7 @@ Showing off the power of shader properties in Unity
 * [IsoSorting](https://github.com/Sylmerria/IsoSorting) Isometric sorting system for Unity using ECS
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
+* https://github.com/DennisCorvers/UnsafeCollections
 * [SharedArray](https://github.com/stella3d/SharedArray) Zero-copy sharing between managed and native arrays in Unity
 * [UnsafeArray](https://github.com/LizzyFox-code/UnsafeArray)
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
