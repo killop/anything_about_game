@@ -2058,6 +2058,7 @@ Table of Contents
 - https://github.com/hadashiA/VYaml
 
 ## Huge-World
+- https://github.com/VIZ-Interactive/Depiction-Engine-Unity
 - [ScatterStream](https://github.com/ashleyseric/ScatterStream) A runtime object scattering/vegetation authoring, streaming and rendering tool for Unity optimised for instanced rendering a very large number of placed items.
 - [mega-scatter-14954](https://assetstore.unity.com/packages/tools/modeling/mega-scatter-14954) unity-plugin
 - [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
@@ -2234,6 +2235,7 @@ Fast, reliable, scalable.
 - [SpanNetty](https://github.com/cuteant/SpanNetty) Port of Netty(v4.1.51.Final) for .NET
 - [Dotnetty-Practice](https://github.com/JusterZhu/Dotnetty-Practice) 主要讲解dotnetty企业级的应用开发，帮助开发者更容易的学习掌握该网络通讯框架。
 - [DotNettyForUnity](https://github.com/vovgou/DotNettyForUnity)
+- [Mina.NET](https://github.com/longshine/Mina.NET) .NET implementation of Apache MINA. I like the ideas in it, simple yet functional, but I failed to find one in .NET, finally I created one.
 - [HiSocket](https://github.com/hiramtan/HiSocket) It is a lightweight client socket solution, you can used it in Unity3d or C# project
 - [NetStack](https://github.com/nxrighthere/NetStack) Lightweight toolset for creating concurrent networking systems for multiplayer games.
 NetStack is self-contained and has no dependencies.
@@ -3253,7 +3255,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [a_list_of_a_lot_of_shaders_urp](https://old.reddit.com/r/Unity3D/comments/156u8fm/a_list_of_a_lot_of_shaders_urp/)
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders) About
 Showing off the power of shader properties in Unity
-
+- [UnityVFXLibrary](https://github.com/DeJhon-Huang/UnityVFXLibrary) VFX Effect made with unity
 #### ShaderToy
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://pema.dev/glsl2hlsl/
@@ -3872,6 +3874,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/alvion427/PerroPastor
 - https://github.com/etnlGD/UnityAstcGpuEncoder
 - https://github.com/aras-p/UnityGPUTexCompression
+- https://github.com/kecho/ComputeUtils
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -3947,6 +3950,7 @@ Showing off the power of shader properties in Unity
 - [exposure](https://bruop.github.io/exposure/)
 - [colour-unity](https://github.com/colour-science/colour-unity)
 - [JL-s-Unity-Blend-Modes](https://github.com/penandlim/JL-s-Unity-Blend-Modes)
+- [unity-blend-shaders](https://github.com/zigurous/unity-blend-shaders)
 - [万能的曲线——堪称调色之王（颜色篇）](https://zhuanlan.zhihu.com/p/375597094)
 - [色彩理论」颜色是怎么回事儿？以及如何高效使用 Adobe 颜色库](https://www.bilibili.com/video/BV114411R7x4?)
 - [皮克斯光线与色彩应用培训中文字幕](https://www.bilibili.com/video/BV1Dr4y1P7LW?)
@@ -4731,6 +4735,7 @@ Showing off the power of shader properties in Unity
 - [draw-xxl-246836](https://assetstore.unity.com/packages/tools/utilities/draw-xxl-246836)
 - [SLGDrawLine](https://github.com/871041532/SLGDrawLine) SLG游戏画行军线
 - [ui-shapes-kit](https://github.com/thisotherthing/ui-shapes-kit)
+- [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast)
 
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
