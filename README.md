@@ -1246,6 +1246,7 @@ Table of Contents
 - [Dual quaternion skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
 - [GPUInstance](https://github.com/mkrebser/GPUInstance) Instancing & Animation library for Unity3D
 - [gpu-ecs-animation-baker](https://assetstore.unity.com/packages/tools/animation/gpu-ecs-animation-baker-250425) unity-plugin
+- [rukhanka](https://assetstore.unity.com/packages/tools/animation/rukhanka-ecs-animation-system-241472) unity-plugin
 #### Mesh Animation
 - https://github.com/SaiTingHu/MeshEditor.Effects
 #### Vertex Animation
@@ -1339,7 +1340,6 @@ Table of Contents
 - [kinematica](https://docs.unity3d.com/Packages/com.unity.kinematica@0.8/manual/index.html)
 - [reanimation](https://github.com/aarthificial/reanimation) An alternative animator for Unity tailored for traditional animation
 - [dmotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
-- [rukhanka](https://assetstore.unity.com/packages/tools/animation/rukhanka-ecs-animation-system-241472) unity-plugin
 - [Puppeteer](https://github.com/SolarianZ/Puppeteer) A graph based animation controller for Unity. 
 - [nkgmoba-animsystem-dawn-blossoms-plucked-at-dusk](https://www.lfzxb.top/nkgmoba-animsystem-dawn-blossoms-plucked-at-dusk/)
 - [uPlayableAnimation](https://github.com/EricHu33/uPlayableAnimation)
@@ -2266,6 +2266,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-websocket-webgl](https://github.com/jirihybek/unity-websocket-webgl) Hybrid WebSocket implementation for Unity 3D with support of native and browser client. 
 * [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [NativeWebSocket](https://github.com/endel/NativeWebSocket) WebSocket client for Unity - with no external dependencies (WebGL, Native, Android, iOS, UWP) 
+* [unity-websocket-server](https://github.com/shaunabanana/unity-websocket-server)
 * [RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types)
 * [GrpcWebSocketBridge](https://github.com/Cysharp/GrpcWebSocketBridge) Yet Another gRPC over HTTP/1 using WebSocket implementation, primarily targets .NET platform.
 * [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
@@ -2320,6 +2321,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Netly](https://github.com/alec1o/Netly?) Netly is a open source socket library for c# (C-Sharp). It facilitates the use of socket (UDP and TCP, Client and Server) with which it is compatible (Android, iOS, macOS, Linux, Windows, ...) as long as it is compiled with its destination.
 * [Unity-async-await-tcp](https://github.com/Bian-Sh/Unity-async-await-tcp) This is an async/await tcp communication (client and server inside) in unity.simple yet powerful！
 - [EntityNetworkingSystems](https://github.com/AncientEntity/EntityNetworkingSystems) A networking framework for Unity.
+- [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial) This is a managed sockets connector for the System.IO.Pipelines API,
  #### C/CPP
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
@@ -3185,6 +3187,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- https://mini.gmshaders.com/
 - [CgFX-Shader-Compilation](https://github.com/steaklive/CgFX-Shader-Compilation)
 - [Unity-Advanced-Shaders-Tutorial](https://github.com/Habrador/Unity-Advanced-Shaders-Tutorial) Implementation of advanced shaders in Unity like raytracing, interior mapping, parallax mapping
 - [UNITY-Arc-system-Works-Shader](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader) Shader created to emulate the design style of Arc System Works games such as Guilty Gear and Dragon Ball FighterZ. Created using Amplify Shader Editor.
@@ -3261,6 +3264,7 @@ Showing off the power of shader properties in Unity
 - https://pema.dev/glsl2hlsl/
 - https://www.shadertoy.com/browse 
 - https://github.com/smkplus/ShaderMan
+- https://shadertoyunofficial.wordpress.com/
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -3672,6 +3676,7 @@ Showing off the power of shader properties in Unity
 ##### SSGI
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
+* [mf-ssgi](https://forum.unity.com/threads/mf-ssgi-v1-0-live-bridging-the-gap-between-urp-and-hdrp-global-illumination-occlusion.1367820/) [github](https://github.com/MFrankfort84/mfssgi)
 ##### DFGI
 ##### Lighting Grid 
 * [LGHDemo](https://github.com/DQLin/LGHDemo)  Real-Time Rendering with Lighting Grid Hierarchy I3D 2019 Demo
@@ -3875,6 +3880,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/etnlGD/UnityAstcGpuEncoder
 - https://github.com/aras-p/UnityGPUTexCompression
 - https://github.com/kecho/ComputeUtils
+- https://github.com/drzhn/UnityGpuCollisionDetection
+- https://github.com/b0nes164/GPUPrefixSums
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -4391,6 +4398,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/CatLib/CatLib
 - https://github.com/OnClick9927/IFramework
 - https://github.com/jarjin/FinalFramework
+- https://github.com/smilehao/xlua-framework
+- https://github.com/passiony/xlua-framework-unity2018
 - https://github.com/Tencent/InjectFix
 - https://github.com/hadashiA/VContainer
 - https://github.com/Justin-sky/Nice-Lua
@@ -4400,7 +4409,6 @@ Showing off the power of shader properties in Unity
 - https://github.com/ManakhovN/FigmaToUnityImporter
 - https://github.com/TrackMan/Unity.Package.FigmaToUnity
 - https://github.com/kyubuns/AkyuiUnity
-- https://github.com/dotmos/uGameFramework
 - https://github.com/DonnYep/CosmosFramework
 - https://github.com/christides11/hack-and-slash-framework
 - https://github.com/ALEXTANGXIAO/GameFramework-at-YooAsset
@@ -4651,6 +4659,7 @@ Showing off the power of shader properties in Unity
 - [uwa4d-course](https://edu.uwa4d.com/course-intro/1/91) 基于Cinemachine的第一/三人称过肩/自由/斜45度/俯视角摄像机系统（本摄像机系统基于Cinemachine的Virtual Camara实现，实现了锁定、旋转、缩放、移动、鼠标显示/隐藏、摄像机位置复位、限制摄像机角度、动态挂载跟随目标、切换视角、遮挡透视等功能，并自带摄像机碰撞，防止穿墙）
 #### Util
 - https://github.com/nothke/unity-utils
+- https://github.com/GameArki/GameArkiSetup/
 - https://github.com/Hertzole/runtime-options-manager
 - https://github.com/joebinns/asteroids-scriptable-objects
 - https://github.com/gilzoide/unity-easy-project-settings
@@ -4836,6 +4845,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/snape/RVO2-CS
 - https://github.com/warmtrue/RVO2-Unity
 - https://github.com/sunsvip/UnityRVO2
+- https://zhuanlan.zhihu.com/p/669426124
 - https://github.com/Nebukam/com.nebukam.orca
 - https://github.com/Nebukam/com.nebukam.beacon.orca
 - [agents-navigation](https://assetstore.unity.com/packages/tools/ai/agents-navigation-239233) unity-plugin
