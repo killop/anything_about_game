@@ -5114,6 +5114,7 @@ Showing off the power of shader properties in Unity
 - [NineChronicles](https://github.com/planetarium/NineChronicles) Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
 - [CodeFPS](https://github.com/Zhao-666/CodeFPS) Unity引擎实现的一款FPS游戏，实现《使命召唤4》训练靶场关卡
 - [GameKit](https://github.com/FirstGearGames/GameKit) Pre-built commonly needed gameplay elements, with examples. Developed for Fish-Networking.
+- https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game
 ## Programmer-Common-Tool
 - https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/
 - 
