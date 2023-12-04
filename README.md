@@ -56,7 +56,6 @@ Table of Contents
     - [Visual-Logic](#visual-logic)
     - [Tile](#tile)
     - [Design](#design)
-    - [AI](#ai)
 - [locale](#locale)
 - [Texture](#texture)
     - [PIX-Texture](#pix-texture)
@@ -129,6 +128,7 @@ Table of Contents
     - [Benchmark](#benchmark)
     - [Article](#article-3)
 - [Hash](#hash)
+- [Compression](#compression)
 - [Text-Template](#text-template)
 - [Authorization](#authorization)
 - [NetWork](#network)
@@ -296,7 +296,7 @@ Table of Contents
     - [Memory/GC](#memorygc)
     - [Asyn-Await](#asyn-await)
     - [Node-Editor](#node-editor)
-    - [AI](#ai-1)
+    - [AI](#ai)
     - [UI](#ui)
     - [UI-Animation](#ui-animation)
     - [2D](#2d)
@@ -1106,8 +1106,7 @@ Table of Contents
 - https://dribbble.com/
 - https://www.pinterest.com/
  
- #### AI
-- [appccelerate](https://github.com/appccelerate/statemachine) asyn fsm
+
 ## locale
 - https://weblate.org/zh-hans/
 - https://molingyu.github.io/RosettaDocs/  本地化
@@ -2107,6 +2106,8 @@ Table of Contents
 - [SliccDB](https://github.com/pmikstacki/SliccDB) Light Embedded Graph Database for .net
 - [VeloxDB](https://github.com/VeloxDB/VeloxDB)
 - [BGDatabase](https://assetstore.unity.com/packages/tools/integration/bg-database-112262) unity-plugin
+- https://github.com/sugarzo/Unity_DataEditor
+- https://github.com/CollisionBear/BearDataEditor
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
@@ -2171,6 +2172,8 @@ Table of Contents
 - [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm ,implement by c
 - [xxHash](https://github.com/uranium62/xxHash) xxhash c# implement
 - [FastHashes](https://github.com/TommasoBelluzzo/FastHashes)
+## Compression
+- https://github.com/ikpil/DotFastLZ 
 ## Text-Template
 - [Gridify](https://github.com/alirezanet/Gridify) Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
 - [cottle](https://github.com/r3c/cottle) High performance template engine for C# 
@@ -2349,6 +2352,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [BackgroundDownload](https://github.com/Unity-Technologies/BackgroundDownload) 
 - [手游Android端后台下载技术分享](https://zhuanlan.zhihu.com/p/612923726)
 - [RestClient](https://github.com/proyecto26/RestClient) A Promise based REST and HTTP client for Unity 
+- [WatsonWebserver](https://github.com/dotnet/WatsonWebserver) Watson is the fastest, easiest way to build scalable RESTful web servers and services in C#.
 ## GameEngine Design
 #### Collection
 - https://ossinsight.io/collections/game-engine/
@@ -2443,6 +2447,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 #### 3D Engines and Frameworks
 * [NextEngine](https://github.com/CompilerLuke/NextEngine) NextEngine is designed with rapid iteration and high-end desktop graphics in mind.
+* [Prowl](https://github.com/michaelsakharov/Prowl)
 * [LinaEngine](https://github.com/inanevin/LinaEngine) Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 * [Horde3D](https://github.com/horde3d/Horde3D) Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.
 * [keyshot](https://www.keyshot.com/)
@@ -2544,6 +2549,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/AkiKurisu/AkiGOAP
 - https://github.com/TotalAI/TotalAI
 - [behavior-2](https://assetstore.unity.com/packages/tools/behavior-ai/behavior-2-game-creator-2-by-catsoft-works-262851)
+- [appccelerate](https://github.com/appccelerate/statemachine) asyn fsm
+- https://github.com/rwth-acis/Virtual-Agents-Framework
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -2837,6 +2844,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Unity-Technologies/WaterScenes
 - https://github.com/z4gon/water-caustics-shader-unity
 - https://github.com/GarrettGunnell/Water
+- https://github.com/DaiZiLing/Flux2-Shoreline-Wave-HLSL
+- https://github.com/chocola-mint/ChocoWater
 #### Glass
 - https://github.com/toadstorm/RainyGlassShader 
 - https://github.com/omid3098/Unity-URP-GlassShader
@@ -2890,6 +2899,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [lnav](https://lnav.org/)
 - [UnityChoseKun](https://github.com/katsumasa/UnityChoseKun) Unity Remote Control on Editor 
 - [MemoryProfiler](https://github.com/larryhou/MemoryProfiler)
+- [ScreenshotToUnityProfiler](https://github.com/wotakuro/ScreenshotToUnityProfiler)
 - [speedscope](https://www.speedscope.app/)
 - [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Debugging Utilities for Unity
 - [lineburst](https://github.com/bassmit/lineburst)  Plot functions and draw large amounts of debug lines, shapes and text to the Unity game and scene view
@@ -3259,6 +3269,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders) About
 Showing off the power of shader properties in Unity
 - [UnityVFXLibrary](https://github.com/DeJhon-Huang/UnityVFXLibrary) VFX Effect made with unity
+- https://github.com/Delt06/unity-graphics
 #### ShaderToy
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://pema.dev/glsl2hlsl/
@@ -3707,6 +3718,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/SebLague/Ray-Tracing
 - https://github.com/StarsX/RayTracedSPH
 - https://intro-to-restir.cwyman.org/
+- https://github.com/INedelcu/InlineRayTracingShadows
 
 - https://github.com/airliang/unity-raytracing
 ##### Path tracing
@@ -3947,7 +3959,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/BlueSkyDefender/AstrayFX
 - https://github.com/FransBouma/OtisFX
 - https://github.com/GarrettGunnell/AcerolaFX
-- https://github.com/NullTale/OldMovieFx
+- https://github.com/NullTale/VhsFx
 - [Anime-Speed-Lines](https://github.com/MirzaBeig/Anime-Speed-Lines) Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
@@ -4156,6 +4168,7 @@ Showing off the power of shader properties in Unity
 #### Thread/Task
 - https://github.com/RichieSams/FiberTaskingLib
 - https://github.com/taskflow/taskflow
+- https://github.com/mewlist/MewCore?
 
 ## Utils
 #### C
@@ -4538,6 +4551,7 @@ Showing off the power of shader properties in Unity
 - [uxtool](https://uxtool.netease.com/)
 - https://github.com/Eashiong/StackUI
 - https://github.com/3-Delta/Unity-UI
+- https://github.com/Skierhou/UISystem
 - [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
 - [MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) ViewSystem is a element based UI management system based on Unity GUI
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
@@ -4622,6 +4636,7 @@ Showing off the power of shader properties in Unity
 - [Dash](https://github.com/pshtif/Dash)
 - https://github.com/brunomikoski/Animation-Sequencer
 - https://github.com/DhafinFawwaz/Unity-AnimationUI
+- https://github.com/Difficulty-in-naming/BetterAnimation
 - https://github.com/instance-id/ElementAnimationToolkit
 - http://zh.esotericsoftware.com/spine-unity
 - https://github.com/gindemit/unity-rlottie
@@ -4630,6 +4645,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/wieslawsoltes/Svg.Skia
 - [AnimatableVolumeComponent](https://github.com/cji3bp62000/AnimatableVolumeComponent) This package provides helper scripts that let you animate Post-Process parameters (VolumeProfile) in URP/HDRP.
 - https://github.com/mihakrajnc/UITTimeline
+- https://github.com/lgarczyn/AnimateUIMaterials
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
 - [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
@@ -4694,6 +4710,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/williamrjackson/UnityScriptingUtilities
 - https://github.com/emanzione/MHLab.Utilities
 - https://github.com/cloudinnng/PluginHub
+- https://github.com/sudotman/BetterUnity
 
 
 #### Unity-Update
@@ -4932,6 +4949,7 @@ Showing off the power of shader properties in Unity
 * [project-view-enhanced-199685](https://assetstore.unity.com/packages/tools/gui/project-view-enhanced-199685)
 * [QuickEye-Utility](https://github.com/ErnSur/QuickEye-Utility)
 * https://github.com/Brian-Jiang/SmartReference
+* https://github.com/AnnulusGames/Alchemy
 
 
 #### Asset-Management
