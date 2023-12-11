@@ -1713,6 +1713,7 @@ Table of Contents
 - [SaveLoadSystem](https://github.com/Zoroiscrying/com.zoroiscrying.core-game-systems/tree/main/Runtime/SaveLoadSystem)
 - [VirtualFileSystem](https://github.com/Atypical-Consulting/VirtualFileSystem)
 - https://github.com/FoundatioFx/Foundatio/blob/master/src/Foundatio/Storage/FolderFileStorage.cs
+- https://github.com/CodeSmile-0000011110110111/de.codesmile.assetdatabase
 
 ## IO
 - [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
@@ -1857,6 +1858,7 @@ Table of Contents
 - [PlanetaMatchMaker](https://github.com/CdecPGL/PlanetaMatchMaker) A very simple and light match making system for P2P online game. Server binary for linux and windows, and client library for C# including Unity are provided.
 - [everwar](https://github.com/geektcp/everwar) Everwar是一个开源魔兽世界服务端
 - [BigWorld-Engine](https://github.com/v2v3v4/BigWorld-Engine-14.4.1)
+- https://tsrpc.cn/
 #### Article
 - [danieljimenezmorales blog](https://danieljimenezmorales.github.io/)
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
@@ -2551,6 +2553,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [behavior-2](https://assetstore.unity.com/packages/tools/behavior-ai/behavior-2-game-creator-2-by-catsoft-works-262851)
 - [appccelerate](https://github.com/appccelerate/statemachine) asyn fsm
 - https://github.com/rwth-acis/Virtual-Agents-Framework
+- https://github.com/acdamiani/schema
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -3444,6 +3447,7 @@ Showing off the power of shader properties in Unity
 * [Typogenic](https://github.com/Chman/Typogenic) Signed-distance field text rendering for Unity
 * [SDF](https://github.com/memononen/SDF) Signed Distance Field Builder for Contour Texturing
 * [SDFGen](https://github.com/christopherbatty/SDFGen) A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
+* [通过黑白图生成SDF图和SDF图集的小工具](https://github.com/Yu-ki016/SDFTool)
 * [DeepSDF](https://github.com/facebookresearch/DeepSDF) Learning Continuous Signed Distance Functions for Shape Representation
 * [sdfu](https://github.com/termhn/sdfu) Signed Distance Field Utilities https://crates.io/crates/sdfu
 * [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
@@ -3890,6 +3894,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/TakeshiCho/GPU_Parallel_Reduction
 - https://github.com/alvion427/PerroPastor
 - https://github.com/etnlGD/UnityAstcGpuEncoder
+- https://github.com/niepp/astc_encoder/
+- [在运行时将 Texture2D 压缩并加载到 ASTC 纹理中](https://qiita.com/up-hash/items/76f6f879f3129bb1d23e)
 - https://github.com/aras-p/UnityGPUTexCompression
 - https://github.com/kecho/ComputeUtils
 - https://github.com/drzhn/UnityGpuCollisionDetection
@@ -4112,6 +4118,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
 - https://github.com/jackmott/LinqFaster  Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
+- [BurstLinq](https://github.com/AnnulusGames/BurstLinq) Extremely fast LINQ aggregation operations implementation optimized by Burst Compiler
 - https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
 - https://github.com/lujian101/GCFreeClosure A gc-free closure implementation for unity
 - https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
@@ -4471,6 +4478,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/smartgrass/XCSkillEditor_Unity
 - https://github.com/526077247/GenshinGamePlay
 - https://github.com/YouwantLee/Joker_Unity_SkillEditor
+- https://github.com/kierstone/ACT-Game-Action-System
  
 
 #### Occlusion Culling
@@ -4735,6 +4743,7 @@ Showing off the power of shader properties in Unity
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
+- [Rider 中使用 Source Generator](https://qiita.com/Tanakancolle/items/b12c48e0cf0fe78af2ad) 介绍在 Rider 中使用 Source Generator 创建工具的流程
 - [Arch.Extended](https://github.com/genaray/Arch.Extended) Extensions for Arch with some useful features like Systems, Source Generator and Utils.
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
 - [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
@@ -4950,6 +4959,7 @@ Showing off the power of shader properties in Unity
 * [QuickEye-Utility](https://github.com/ErnSur/QuickEye-Utility)
 * https://github.com/Brian-Jiang/SmartReference
 * https://github.com/AnnulusGames/Alchemy
+* [ProjectWindowHistory](https://github.com/Yusuke57/ProjectWindowHistory)
 
 
 #### Asset-Management
