@@ -1356,6 +1356,7 @@ Table of Contents
 - [character-controller-pro](https://assetstore.unity.com/packages/tools/physics/character-controller-pro-159150) unity-plugin
 - [Erbium](https://github.com/mikhomak/Erbium)  🤺Third Person Character Controller for unity🤺 
 - [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
+- [parkour-and-climbing-system](https://assetstore.unity.com/packages/templates/systems/parkour-and-climbing-system-258182)
 - [Traverser](https://aitorsimona.github.io/Traverser/) 
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
 - https://github.com/nicholas-maltbie/OpenKCC
@@ -2000,6 +2001,8 @@ Table of Contents
 * [unity-multiplayer-azure-solution](https://github.com/albertxavier100/unity-multiplayer-azure-solution)
 * https://github.com/rivet-gg/rivet
 * [EppNet](https://github.com/xMakerx/EppNet) A high-level multiplayer solution built on top of ENet
+* [oodles-party-physics-based-online-battle-template-255802](https://assetstore.unity.com/packages/templates/packs/oodles-party-physics-based-online-battle-template-255802)
+* https://github.com/RuanCardoso/OmniNet
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -2613,6 +2616,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Mathfs](https://github.com/FreyaHolmer/Mathfs) c# Expanded Math Functionality for Unity 
 - [Geometric Algorithms](https://github.com/volfegan/GeometricAlgorithms)  Java Geometric Algorithms implemented for Java and Processing v3 
 - [delaunator](https://github.com/nol1fe/delaunator-sharp) c# Fast Delaunay triangulation of 2D points implemented in C#. 
+- [Triangulation](https://github.com/DaveTheCelt/Triangulation) A Bowyer–Watson algorithm for Triangulation, with a Unity3D demo provided.
 - [UnityMathReference](https://github.com/zezba9000/UnityMathReference)  Math reference for games and more. All visualized in Unity3D. 
 - [Computational](https://github.com/Habrador/Computational-geometry)Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, etc 
 - [UGM](https://github.com/Ubpa/UGM) cpp 
@@ -2906,6 +2910,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [speedscope](https://www.speedscope.app/)
 - [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Debugging Utilities for Unity
 - [lineburst](https://github.com/bassmit/lineburst)  Plot functions and draw large amounts of debug lines, shapes and text to the Unity game and scene view
+- [ULogViewer](https://github.com/carina-studio/ULogViewer)
 
 #### GPU
 - https://github.com/taptap/render-doctor
@@ -3070,6 +3075,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) SALVIA is the rasterizer based software renderer. The goal of SALVIA is capacity of Direct3D 10+.
 #### 3rd-Binding
 - [EmberGL](https://github.com/EmberGL-org/EmberGL) EmberGL (Ember Graphics Library) is a low-level open source graphics library
+- [veldrid](https://github.com/veldrid/veldrid) A low-level, portable graphics library for .NET
 - [igl](https://github.com/facebook/igl) Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
 - [sharpdx](http://sharpdx.org/) SharpDX is an open-source managed .NET wrapper of the DirectX API.
@@ -3088,6 +3094,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Raikiri/LegitEngine
 - https://github.com/Trivaxy/WGPU.NET
 - https://github.com/haolange/SharpGPU
+- https://github.com/google/angle
 - [XUSG](https://github.com/StarsX/XUSG) XUSG, XU's supreme graphics lib, is a handy wrapper currently for DirectX 12. It can be a good reference for designing your own DX12 wrapper APIs.
 - [LLGL](https://github.com/LukasBanana/LLGL) Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
 #### Collection
@@ -4108,6 +4115,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/ZiggyCreatures/FusionCache 高性能cache 
 - https://github.com/jitbit/FastCache
 - https://github.com/LuchunPen/Fast-Hash-Collection
+- https://github.com/thomhurst/ModularPipelines/
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
 - https://github.com/aelij/spanify span用法总结
@@ -4220,6 +4228,7 @@ Showing off the power of shader properties in Unity
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
 
 ## C#
+- https://github.com/dotnet/dotNext
 - https://github.com/gautema/cqrslite cqrs
 - https://github.com/libgit2/libgit2sharp -git的c#实现
 - https://github.com/NetchX/Netch -nat打洞
@@ -4246,6 +4255,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/randyklex/caffeine.net
 - [adnc](https://github.com/AlphaYu/adnc) .NET6微服务/分布式开发框架，同时也适用于单体架构系统的开发。
 - https://github.com/aelyo-softworks/Wice
+- [Net 高级调试](https://www.cnblogs.com/PatrickLiu/)
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -4587,6 +4597,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
 - https://github.com/Giresharu/TMPro-Player
+- [Unity UGUI开发，0GC更新视图](https://zhuanlan.zhihu.com/p/668253748)
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/gwaredd/UnityMarkdownViewer
 - https://github.com/mitay-walle/com.mitay-walle.text-asset-inspector-edit
@@ -4632,6 +4643,7 @@ Showing off the power of shader properties in Unity
 - [ui-particle-image](https://assetstore.unity.com/packages/tools/gui/ui-particle-image-235001) unity-plugin
 - [canvas-particle-system](https://assetstore.unity.com/packages/tools/particles-effects/canvas-particle-system-64134) unity-plugin
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
+- [Shader2D](https://github.com/nightyan/Shader2D) Shader2D: some 2d shader effect
 - [Sample file of Unity SYNC2022 "Rich UI effects created with shader and animation"](https://github.com/applibot-inc/sync2022-ui-sample-techbot)
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
 - [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results 
@@ -5219,6 +5231,7 @@ Showing off the power of shader properties in Unity
 - https://www.yuque.com/greatghoul/remote 远程工作
 ## 友情链接 
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
+* [Unity_Gems](https://github.com/AShine17cm/Unity_Gems)
 * [图形学随笔](https://github.com/Tianji95/CG_learning_note)
 * [Article_About_GameDevelopment](https://github.com/tkonexhh/Article_About_GameDevelopment)
 * [AwesomeUnityTutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)
