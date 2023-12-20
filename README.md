@@ -1425,7 +1425,7 @@ Table of Contents
 - https://github.com/alexrp/system-terminal
 - [fabfile](https://www.fabfile.org/) Simple, Pythonic remote execution and deployment.
 - [CliTookKit](https://github.com/LiuOcean/CliToolkit)
-
+- https://github.com/dklassic/APFrameworkUI
 
 ## Scenes
 #### Terrain
@@ -4917,6 +4917,7 @@ Showing off the power of shader properties in Unity
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [fast-skinned-mesh-combiner](https://github.com/joshcamas/fast-skinned-mesh-combiner)
+ - [SkinnedMeshCombiner](https://github.com/JLChnToZ/SkinnedMeshCombiner)
  - [AvatarClothes](https://github.com/136512892/AvatarClothes) Unity 人物换装系统解决方案
  - [character-customization](https://assetstore.unity.com/packages/tools/utilities/character-customization-181286) 人物换装系统 插件
  - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin
