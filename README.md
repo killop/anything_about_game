@@ -1274,6 +1274,7 @@ Table of Contents
 * [unity-animation-library](https://github.com/zigurous/unity-animation-library)
 * [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) High-performance, allocation-free animation library for Unity
 * [MagicTween](https://github.com/AnnulusGames/MagicTween) dots tween High-performance
+* [LitMotion](https://github.com/AnnulusGames/LitMotion)
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1285,6 +1286,7 @@ Table of Contents
 - [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
 - [binh.graphics](http://binh.graphics/)
 - [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) A package for animating ragdolls through keyframed animations. 
+- [com.redwyre.physics-custom-authoring](https://github.com/redwyre/com.redwyre.physics-custom-authoring)
 #### MotionMatching
 - https://github.com/nashnie/MotionMatching
 - https://github.com/JLPM22/MotionMatching
@@ -1859,6 +1861,8 @@ Table of Contents
 - [PlanetaMatchMaker](https://github.com/CdecPGL/PlanetaMatchMaker) A very simple and light match making system for P2P online game. Server binary for linux and windows, and client library for C# including Unity are provided.
 - [everwar](https://github.com/geektcp/everwar) Everwar是一个开源魔兽世界服务端
 - [BigWorld-Engine](https://github.com/v2v3v4/BigWorld-Engine-14.4.1)
+- [ForgedCore](https://github.com/ForgedWoW/ForgedCore) Forged Core is an open source server project for World of Warcraft written in C#. Based off CypherCore.
+- [Rhisis](https://github.com/Eastrall/Rhisis) Rhisis is an experimental FlyFF MMORPG emulator built with C# 12 and .NET 8
 - https://tsrpc.cn/
 #### Article
 - [danieljimenezmorales blog](https://danieljimenezmorales.github.io/)
@@ -2022,6 +2026,7 @@ Table of Contents
 - https://github.com/c80k/capnproto-dotnetcore
 - https://github.com/serdedotnet/serde
 - https://github.com/google/flatbuffers flatBuffer
+- https://github.com/AlianBlank/com.google.flatbuffers
 - https://github.com/jamescourtney/FlatSharp
 - https://github.com/Unity-Technologies/FlatSharp
 - https://developers.google.com/protocol-buffers pb
@@ -2305,6 +2310,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
 * [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
 * [FFO-FishNet-Floating-Origin](https://github.com/hudmarc/FFO-FishNet-Floating-Origin) Floating Origin for FishNet. Tested with FN versions 2.5.4, 2.5.10 and 2.6.3. Should work with everything in between as well.
+* [fishnet.sessionmanagement](https://github.com/ooonush/com.alven.fishnet.sessionmanagement)
 * [TurtlePass](https://github.com/DanielSnd/TurtlePass) Turtle Pass is an addon for Fishnet that allows you to send large byte arrays over several frames so it doesn't overwhelm more limiting transports like FishySteamworks and FishyUtp
 * [NetworkTilemap](https://github.com/celojevic/NetworkTilemap) Networked tilemap synchronizer for FishNet.
 * [FishNet-ThirdPersonPrediction](https://github.com/RidefortGames/FishNet-ThirdPersonPrediction)
@@ -2313,6 +2319,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [fishnet-tutorial](https://gitee.com/ghostking9/fishnet-tutorial) 
 * [FishMMO](https://github.com/jimdroberts/FishMMO) FishNetworking MMO Template
 * [FishyEOS](https://github.com/ETdoFresh/FishyEOS) A FishNet Transport Library for Unity FishNet.
+* https://github.com/Kostasel/Network-Authentication
 * [NetworkParticleSystem](- https://github.com/celojevic/NetworkParticleSystem)
 * [NetworkPositionSync](https://github.com/James-Frowen/NetworkPositionSync) Network Transform using Snapshot Interpolation and other techniques to best sync position and rotation over the network.
 * [Snapshooter](https://github.com/agustin-golmar/Snapshooter) An implementation of the snapshot interpolation algorithm on Unity 3D, with client-server architecture and possibly, prediction.
@@ -2499,6 +2506,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. :triangular_flag_on_post:
 * [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
 * [Paradox](http://paradox3d.net/) - Open Source C# Game Engine. :o2:
+* [Spark.Engine](https://github.com/CeSun/Spark.Engine)
 * [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust. :o2:
 * [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
@@ -2763,6 +2771,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/GameArki/FPPhysics2D
 - https://github.com/yingyugang/FixedPointPhysics
 - https://github.com/devlinzhou/deterministic_float
+- https://github.com/CarlVerret/csFastFloat
 - https://github.com/zeroerror/ZeroPhysics
 - https://github.com/chenwansal/FPPhysics2D
 - https://github.com/GameArki/FPMath
@@ -4766,6 +4775,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/sator-imaging/AppWindowUtility
 - https://github.com/XJINE/Unity_TransparentWindowManager
 - https://github.com/LorisYounger/VPet
+- [ExplorerGenie](https://github.com/martinstoeckli/ExplorerGenie) ExplorerGenie is an extended context menu for the Windows explorer.
 
 #### File-Browser
 - https://github.com/SrejonKhan/AnotherFileBrowser
@@ -5231,6 +5241,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/easychen/one-person-businesses-methodology 一人公司方法论
 - https://github.com/itgoyo/TelegramGroup
 - https://www.yuque.com/greatghoul/remote 远程工作
+- https://ctext.org/book-of-poetry/zhs 中国哲学电子书
 ## 友情链接 
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
 * [Unity_Gems](https://github.com/AShine17cm/Unity_Gems)
