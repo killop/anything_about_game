@@ -143,6 +143,7 @@ Table of Contents
     - [2D Engines and Frameworks](#2d-engines-and-frameworks)
     - [3D Engines and Frameworks](#3d-engines-and-frameworks)
 - [GameAI](#gameai)
+- [Chat/Dialogue](#chatdialogue)
 - [Creative Code](#creative-code)
 - [并发执行和多线程](#并发执行和多线程)
     - [CPP](#cpp)
@@ -2565,6 +2566,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [appccelerate](https://github.com/appccelerate/statemachine) asyn fsm
 - https://github.com/rwth-acis/Virtual-Agents-Framework
 - https://github.com/acdamiani/schema
+##  Chat/Dialogue
+- https://github.com/AkiKurisu/Next-Gen-Dialogue/
+- https://github.com/hafewa/unity-AI-Chat-Toolkit
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 

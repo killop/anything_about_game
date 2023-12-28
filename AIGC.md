@@ -42,3 +42,6 @@
 
 ## coding
 [开源的本地代码解释器](https://github.com/KillianLucas/open-interpreter)
+
+## ComfyUI
+- https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
