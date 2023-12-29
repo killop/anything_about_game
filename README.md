@@ -1684,6 +1684,7 @@ Table of Contents
 * [coreclr](https://github.com/dotnetGame/coreclr) CoreCLR for Unity
 * [natsu-clr](https://github.com/dotnetGame/natsu-clr) il2cpp transpiler and runtime compatible with .Net Core
 ## Patch
+- [sfpatcher](https://github.com/sisong/sfpatcher)
 - [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
 - https://github.com/redwood/redwood
 - https://github.com/KSP-CKAN/CKAN
@@ -1695,6 +1696,8 @@ Table of Contents
 - [FastRsyncNet](https://github.com/GrzegorzBlok/FastRsyncNet) 
 - [bsdiff.net](https://github.com/LogosBible/bsdiff.net) A .NET port of Colin Percival's bsdiff & bspatch
 - [ExcelDiff_MergeTool](https://github.com/kokichi88/ExcelDiff_MergeTool)
+- [vcdiff](https://github.com/SnowflakePowered/vcdiff)
+- [SharpHDiffPatch](https://github.com/CollapseLauncher/Hi3Helper.SharpHDiffPatch)
  ## File Systems
 - https://github.com/mattiasgustavsson/libs
 - https://icculus.org/physfs/
@@ -2183,8 +2186,10 @@ Table of Contents
 - [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm ,implement by c
 - [xxHash](https://github.com/uranium62/xxHash) xxhash c# implement
 - [FastHashes](https://github.com/TommasoBelluzzo/FastHashes)
+
 ## Compression
 - https://github.com/ikpil/DotFastLZ 
+- [ThumbHash](https://github.com/jzebedee/ThumbHash) .NET implementation of ThumbHash: a very compact representation of a placeholder for an image. Store it inline with your data and show it while the real image is loading for a smoother loading experience.
 ## Text-Template
 - [Gridify](https://github.com/alirezanet/Gridify) Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
 - [cottle](https://github.com/r3c/cottle) High performance template engine for C# 
