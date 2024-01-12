@@ -438,6 +438,7 @@ Table of Contents
 - [shaders](https://www.reddit.com/r/shaders/)
 - [USTC3D](https://github.com/USTC3DV)
 - [图形渲染weekly](https://www.zhihu.com/column/c_1260689913214775296)
+- [graphicsweeklynews](https://github.com/jczh98/graphicsweeklynews)
 - [TA周刊](https://halisavakis.com/) and [archive](https://halisavakis.com/archive/)
 - [pdcxs-专注计算机艺术，创意编程](https://space.bilibili.com/10707223/video?)
 - [Unity技术美术](https://www.zhihu.com/column/c_1348315318327132160)
@@ -456,6 +457,7 @@ Table of Contents
 - [gpuopen papers](https://gpuopen.com/learn/publications/)
 - [paperbug](https://www.jeremyong.com/paperbug/)
 - [nvlabs](https://nvlabs.github.io/instant-ngp/)
+- https://research.nvidia.com/labs/rtr/publication/
 - https://jcgt.org/read.html?reload=1
 - https://onlinelibrary.wiley.com/journal/14678659 
 - https://forums.ogre3d.org/index.php  
@@ -2191,10 +2193,12 @@ Table of Contents
 
 ## Compression
 - https://github.com/ikpil/DotFastLZ 
+- https://github.com/avaneev/lzav
 - [ThumbHash](https://github.com/jzebedee/ThumbHash) .NET implementation of ThumbHash: a very compact representation of a placeholder for an image. Store it inline with your data and show it while the real image is loading for a smoother loading experience.
 ## Text-Template
 - [Gridify](https://github.com/alirezanet/Gridify) Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
 - [cottle](https://github.com/r3c/cottle) High performance template engine for C# 
+- [VisualFA](https://github.com/codewitch-honey-crisis/VisualFA) A DFA Unicode Regular Expression Engine
 - [scriban](https://github.com/lunet-io/scriban) A fast, powerful, safe and lightweight text templating language and engine for .NET 
 - [dotliquid](https://github.com/dotliquid/dotliquid) .NET Port of Tobias Lütke's Liquid template language. 
 - [fluid](https://github.com/sebastienros/fluid/) Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language. 
@@ -2373,6 +2377,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [手游Android端后台下载技术分享](https://zhuanlan.zhihu.com/p/612923726)
 - [RestClient](https://github.com/proyecto26/RestClient) A Promise based REST and HTTP client for Unity 
 - [WatsonWebserver](https://github.com/dotnet/WatsonWebserver) Watson is the fastest, easiest way to build scalable RESTful web servers and services in C#.
+- [sisk](https://sisk.project-principium.dev/) Sisk is an lightweight web framework designed for fast and robust development, which allows you to take the full control of what you want to do.
 ## GameEngine Design
 #### Collection
 - https://ossinsight.io/collections/game-engine/
@@ -2534,6 +2539,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 * [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming :o2:
 * [FocusEngine](https://github.com/phr00t/FocusEngine)
+* [EquilibriumEngine](https://github.com/clibequilibrium/EquilibriumEngine-CSharp)
 * [ge](https://github.com/mellinoe/ge) A general-purpose 3D game engine with editor, built with .NET Core
 * [MoltenEngine](https://github.com/Syncaidius/MoltenEngine) A spare-time C# .NET 7 game engine project. Cross-platform, multi-threaded.
 * [Furball](https://github.com/Furball-Engine/Furball) A Game Engine designed in C# using a custom made Renderer called Furball.Vixie, uses a similiar design to the Engine peppy made while developing osu!stable
@@ -2697,6 +2703,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - http://tobyschachman.com/Shadershop/
 - [graphtoy](https://graphtoy.com/)
 - https://www.andre-gaschler.com/rotationconverter/
+- https://github.com/zyl910/VectorTraits/
 
 #### Curve
 - [unity-nurbs](https://github.com/komietty/unity-nurbs) Unity base NURBS spline and surface module
@@ -2907,6 +2914,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [upr](https://upr.unity.com/) 一款Unity出的性能分析工具，基于UnityProfiler的基础上制作的UPR，UPR的数据来自与UnityProfiler，会比Profiler有更多细节信息
 - [loli_profiler](https://github.com/Tencent/loli_profiler) Memory instrumentation tool for android app&game developers.
 - [Unity-Excpetion-Crash](https://github.com/sundxing/Unity-Exception-Crash)
+- https://github.com/nskrkmz/CrashReporter
 - [MonitorTool](https://github.com/dingxiaowei/MonitorTool) Unity性能监控软件
 - [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
 - [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
@@ -3241,6 +3249,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/momoma-null/GeneLit GeneLit is an alternative to standard shader for Unity built-in pipeline.
 - https://github.com/poiyomi/PoiyomiToonShader A feature rich toon shader for unity and VR Chat
 - https://github.com/AoiKamishiro/PoiyomiToonShader
+- https://github.com/Melioli/HoyoToon
 - https://github.com/Alligrater/Shader-Practice
 - https://github.com/cnlohr/shadertrixx shader tricks
 - https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
@@ -3693,6 +3702,7 @@ Showing off the power of shader properties in Unity
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
 * [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
 ##### VCT
+- https://github.com/frostbone25/Unity-Voxel-Tracer
 - [lumina-gi-real-time-voxel-global-illumination](https://assetstore.unity.com/packages/tools/particles-effects/lumina-gi-real-time-voxel-global-illumination-226660) unity-plugin
 * [【渲染】算法分析：Deferred Voxel Shading for Real-Time Global Illumination](https://zhuanlan.zhihu.com/p/466869586)
 * [Nigiri](https://github.com/ninlilizi/Nigiri) A fully-dynamic voxel-based global illumination system for Unity.
@@ -3750,6 +3760,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/StarsX/RayTracedSPH
 - https://intro-to-restir.cwyman.org/
 - https://github.com/INedelcu/InlineRayTracingShadows
+- [dynamic-diffuse-global-illumination](https://blog.traverseresearch.nl/dynamic-diffuse-global-illumination-b56dc0525a0a)
 
 - https://github.com/airliang/unity-raytracing
 ##### Path tracing
@@ -3845,6 +3856,7 @@ Showing off the power of shader properties in Unity
 * [UnityShadows](https://github.com/Eukky/UnityShadows) Shadow map in unity, include hard shadow, PCF, PCSS, VSSM.
 - [PerObjectShadowSRP](https://github.com/GavinKG/PerObjectShadowSRP) Per-object shadow implementation using Unity SRP.
 * [Shadows](https://github.com/TheRealMJP/Shadows) :thumbsup: A sample app that demonstrates several techniques for rendering real-time shadow maps
+* [ShadowVSM](https://github.com/arigo/ShadowVSM)
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) Nvidia's PCSS soft shadow algorithm implemented in Unity
 * [ContactShadows](https://github.com/keijiro/ContactShadows) Experimental implementation of contact shadows for Unity.
 * [HFTS](https://developer.nvidia.com/Hybrid-Frustum-Traced-Shadows) NVIDIA Hybrid Frustum Traced Shadows in NVIDIA ShadowLib.
@@ -3993,6 +4005,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/FransBouma/OtisFX
 - https://github.com/GarrettGunnell/AcerolaFX
 - https://github.com/NullTale/VhsFx
+- https://github.com/NullTale/VolFx
 - [Anime-Speed-Lines](https://github.com/MirzaBeig/Anime-Speed-Lines) Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
@@ -4155,6 +4168,7 @@ Showing off the power of shader properties in Unity
 - [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
 - [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
 - [trienet](https://github.com/gmamaladze/trienet) .NET Implementations of Trie Data Structures for Substring Search, Auto-completion and Intelli-sense. Includes: patricia trie, suffix trie and a trie implementation using Ukkonen's algorithm.
+- [trie](https://github.com/miniksa/trie)
 - https://github.com/AArnott/Nerdbank.Streams 高效流
 - [NaturalSort](https://github.com/tompazourek/NaturalSort.Extension) Extension method for StringComparison that adds support for natural sorting (e.g. "abc1", "abc2", "abc10" instead of "abc1", "abc10", "abc2").
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
@@ -4380,6 +4394,7 @@ Showing off the power of shader properties in Unity
 - [awesome-language-engineering](https://github.com/NLKNguyen/awesome-language-engineering)
 - https://github.com/ChessMax/awesome-programming-languages
 - https://github.com/CYJB/Cyjb.Compilers
+- [smmalloc](https://github.com/SergeyMakeev/smmalloc) Blazing fast memory allocator designed for video games
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -4710,6 +4725,7 @@ Showing off the power of shader properties in Unity
 - [TimelineExtensions](https://github.com/SauryChang/TimelineExtensions)
 - [UnityCameraSystem_CC](https://github.com/LeahLee13/UnityCameraSystem_CC) [bilibili](https://www.bilibili.com/video/av301538767/) 基于Cinemachine的第一/三人称过肩
 - [Cine-AI](https://github.com/inanevin/Cine-AI) 
+- [tactical-camera](https://www.impossible-odds.net/tactical-camera/) The Tactical Camera package for Unity contains an easy-to-use camera system, ideal for both top-down overview of your worlds and close-up action scenes. It offers a lot of freedom to define and customize its behavior.
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 #### Util
@@ -4878,6 +4894,7 @@ Showing off the power of shader properties in Unity
 - [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one in Unity.
 - [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) Alternative to Unity's NavMesh system where the agents avoid each other. 
 - [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
+- [knockback-navmeshagent](https://github.com/llamacademy/knockback-navmeshagent) Learn how to knock back NavMeshAgents using Physics & Forces
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
 - [unity-rrt](https://github.com/markus-exler/unity-rrt)
 - [RecastSharp](https://github.com/ryancheung/RecastSharp) dotnet 6 port of the C++ recastnavigation library. 
@@ -5078,6 +5095,7 @@ Showing off the power of shader properties in Unity
 - [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)
 - [ExtEvents](https://github.com/SolidAlloy/ExtEvents) A better replacement for UnityEvents
 - [Unity.MissingUnityEvents](https://github.com/handzlikchris/Unity.MissingUnityEvents)
+- [VitalRouter](https://github.com/hadashiA/VitalRouter)
 - [bovinelabs.event](https://github.com/tertle/com.bovinelabs.event) A high performance solution for safely creating events between systems in Unity ECS.
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
