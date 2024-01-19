@@ -2060,6 +2060,7 @@ Table of Contents
 - https://github.com/JasonXuDeveloper/Nino
 - https://github.com/chronoxor/FastBinaryEncoding
 - [zion-bandwidth-optimizer](https://assetstore.unity.com/packages/tools/network/zion-bandwidth-optimizer-112059)
+- [StructBinarySerializer](https://github.com/gilzoide/unity-key-value-store/blob/main/Runtime/ObjectSerializers/StructBinarySerializer.cs)
 
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -4140,6 +4141,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - [PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
+- https://github.com/SouthBegonia/RedDotManager
 - https://surparallel.org unity 多线程优化工具
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
 - https://github.com/HalfLobsterMan/TimingWheel c# 时间轮优化
@@ -4501,6 +4503,7 @@ Showing off the power of shader properties in Unity
 #### Skill
 - https://github.com/lsunky/SkillEditorDem
 - https://github.com/NoBugCn/ActionEditor
+- https://github.com/zhangxingStarMaker/SkillEditor
 - https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/m969/EGamePlay
 - https://github.com/huailiang/seqence 剧情-技能编辑器
@@ -4524,6 +4527,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/526077247/GenshinGamePlay
 - https://github.com/YouwantLee/Joker_Unity_SkillEditor
 - https://github.com/kierstone/ACT-Game-Action-System
+- https://github.com/NoSLoofah/Unity-Buff-System
  
 
 #### Occlusion Culling
@@ -5010,6 +5014,7 @@ Showing off the power of shader properties in Unity
 * [QuickEye-Utility](https://github.com/ErnSur/QuickEye-Utility)
 * https://github.com/Brian-Jiang/SmartReference
 * https://github.com/AnnulusGames/Alchemy
+* [SaintsField](https://github.com/TylerTemp/SaintsField) A Unity Inspector extension tools focusing on script fields inspector enhancement
 * [ProjectWindowHistory](https://github.com/Yusuke57/ProjectWindowHistory)
 
 
@@ -5146,6 +5151,7 @@ Showing off the power of shader properties in Unity
 - [xcode-project](https://github.com/StansAssets/com.stansassets.xcode-project) The package provides a visual way to set XCode project settings and properties for your Unity project. Editor based C# API is avaliable as well.
 - [USSR](https://github.com/kiraio-moe/USSR) Unity Splash Screen Remover (USSR) is a CLI tool to remove Unity splash screen logo + watermark.
 - [ios-build-action](https://github.com/mrAlbert-development/ios-build-action) Build iOS project (.xcodeproj, .xcworkspace), and export ipa
+- [iOSDeviceSupport](https://github.com/fateshen/iOSDeviceSupport)
  ## Mobile
  - [UnityAndroidRuntimePermissions](https://github.com/yasirkula/UnityAndroidRuntimePermissions)A native Unity plugin to handle runtime permissions on Android M+
  - [unity-background-service](https://github.com/nintendaii/unity-background-service)
