@@ -4670,6 +4670,7 @@ Showing off the power of shader properties in Unity
 - [flexalon-ui-layouts](https://assetstore.unity.com/packages/tools/gui/flexalon-ui-layouts-254652)
 - https://github.com/cyberaslan/AdaptiveGrid
 - https://github.com/feifeid47/Unity-UI-Adapter
+- https://github.com/Haruma-K/UnityScreenNavigator
 - https://github.com/mitay-walle/com.mitay-walle.ui-circle-segmented
 - https://github.com/506638093/RichText 头顶血条
 - https://github.com/wuxiongbin/uHyperText
