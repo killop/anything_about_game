@@ -303,6 +303,7 @@ Table of Contents
     - [2D](#2d)
     - [Timeline](#timeline)
     - [TextureStreaming](#texturestreaming)
+    - [Particle](#particle)
     - [Util](#util)
     - [Unity-Update](#unity-update)
     - [Code-Reload\&\&Unity-Editor-Compiler](#code-reloadunity-editor-compiler)
@@ -2540,6 +2541,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 * [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming :o2:
 * [FocusEngine](https://github.com/phr00t/FocusEngine)
+* [Nagule](https://github.com/sicusa/Nagule) 3D graphics engine for .NET platform.
 * [EquilibriumEngine](https://github.com/clibequilibrium/EquilibriumEngine-CSharp)
 * [ge](https://github.com/mellinoe/ge) A general-purpose 3D game engine with editor, built with .NET Core
 * [MoltenEngine](https://github.com/Syncaidius/MoltenEngine) A spare-time C# .NET 7 game engine project. Cross-platform, multi-threaded.
@@ -2742,6 +2744,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
 - [lir](https://github.com/Evryway/lir) Largest Interior Rectangle implementation in C# for Unity.
 - https://github.com/Ohmnivore/com.not-unity.bsplines
+- [强推！这可能是2023最新的图论和图算法教程了](https://www.bilibili.com/video/BV1hc41187JZ?)
+- [用数学画风景](https://www.bilibili.com/video/BV1Da4y1q78H/?)
+- [这可能是b站最全的【人工智能-数学基础】教程！](https://www.bilibili.com/video/BV1gQ4y1E7iy?)
+- [墨子数学研究所](https://space.bilibili.com/427564152)
 
 #### Unity-Transform
 - [Unity 和 Unreal 渲染中的坐标变换和跨平台兼容](https://zhuanlan.zhihu.com/p/590584851)
@@ -3253,6 +3259,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Melioli/HoyoToon
 - https://github.com/Alligrater/Shader-Practice
 - https://github.com/cnlohr/shadertrixx shader tricks
+- https://tips.orels.sh/
 - https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/
 - https://github.com/pema99/shader-knowledge
 - https://github.com/danilw/GPU-my-list-of-bugs
@@ -4486,6 +4493,7 @@ Showing off the power of shader properties in Unity
 - [ZeroGameKit](https://github.com/jinglikeblue/ZeroGameKit)
 - https://github.com/ALEXTANGXIAO/TEngine
 - [MojoUnity-Packages](https://github.com/scottcgi/MojoUnity-Packages)
+- https://github.com/821869798/unifantasy
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
@@ -4498,7 +4506,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/somedeveloper00/Binject
 - https://github.com/labbbirder/UnityInjection
 - https://github.com/labbbirder/DirectRetrieveAttribute
-
+- https://github.com/mewlist/Doinject
  
 #### Skill
 - https://github.com/lsunky/SkillEditorDem
@@ -4565,6 +4573,7 @@ Showing off the power of shader properties in Unity
 - [Unity 活动-浅谈Unity内存管理](https://www.bilibili.com/video/av79798486/)
 - [解读MONO内存管理：BOEHM GC原理及总结](https://zhuanlan.zhihu.com/p/41398507)
 - [.NET内存性能分析指南](https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html)
+  [浅谈Unity中的内存管理策略之TLSF](https://zhuanlan.zhihu.com/p/678788602)
 #### Asyn-Await
 - https://www.albahari.com/threading
 - https://www.zhihu.com/question/554133167/answer/2690808608
@@ -4687,6 +4696,8 @@ Showing off the power of shader properties in Unity
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
 - [TexturePanner](https://github.com/AdultLink/TexturePanner) This shader is a glorified texture panner, with a few extra features oriented towards adding variety. By getting creative with mesh geometry and textures, we can achieve a wide range of results 
 - [UnityUIOptimizationTool](https://github.com/JoanStinson/UnityUIOptimizationTool)
+- [Composite Canvas Renderer](https://github.com/mob-sakai/CompositeCanvasRenderer)
+- [ui-baker](https://assetstore.unity.com/packages/tools/gui/ui-baker-263270#description)
 - [raganddrop-unity3d](https://github.com/Xander93/draganddrop-unity3d)
 - [ui-toolkit-safe-area](https://github.com/artstorm/ui-toolkit-safe-area)
 - [UniversalInventorySystem](https://github.com/Heymity/UniversalInventorySystem)
@@ -4732,6 +4743,8 @@ Showing off the power of shader properties in Unity
 - [tactical-camera](https://www.impossible-odds.net/tactical-camera/) The Tactical Camera package for Unity contains an easy-to-use camera system, ideal for both top-down overview of your worlds and close-up action scenes. It offers a lot of freedom to define and customize its behavior.
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
+#### Particle
+- [【Unity工具】使用Mesh生成以降低特效贴片Overdraw的自动化工具](https://zhuanlan.zhihu.com/p/678481238) 
 #### Util
 - https://github.com/nothke/unity-utils
 - https://github.com/GameArki/GameArkiSetup/
@@ -4770,6 +4783,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/emanzione/MHLab.Utilities
 - https://github.com/cloudinnng/PluginHub
 - https://github.com/sudotman/BetterUnity
+- https://github.com/VictorHHT/VTools
 
 
 #### Unity-Update
@@ -4792,6 +4806,7 @@ Showing off the power of shader properties in Unity
 - [引擎编译时间优化](https://zhuanlan.zhihu.com/p/601065788)
 - [UniTyped](https://github.com/ruccho/UniTyped)  UniTyped is a source generator that allows typed access to data such as SerializedObjects, material parameters, tags and layers
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
+- [SourceGenerator.Foundations](https://github.com/ByronMayne/SourceGenerator.Foundations) A Source Generator for Source Generators. Gives out of the box support for transistent dependencies and logging right in Visual Studio
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
 - [Rider 中使用 Source Generator](https://qiita.com/Tanakancolle/items/b12c48e0cf0fe78af2ad) 介绍在 Rider 中使用 Source Generator 创建工具的流程
