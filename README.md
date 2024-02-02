@@ -459,7 +459,7 @@ Table of Contents
 - [paperbug](https://www.jeremyong.com/paperbug/)
 - [nvlabs](https://nvlabs.github.io/instant-ngp/)
 - https://research.nvidia.com/labs/rtr/publication/
-- https://jcgt.org/read.html?reload=1
+- https://jcgt.org/
 - https://onlinelibrary.wiley.com/journal/14678659 
 - https://forums.ogre3d.org/index.php  
 #### CG
@@ -483,6 +483,7 @@ Table of Contents
 - [unity-weekly](https://blog.yucchiy.com/project/unity-weekly/)
 #### UnityRoadMap
 - [UnityRoadMap](https://unity.com/cn/roadmap/unity-platform/)
+- https://unity.com/how-to
 #### Common
 - https://www.libhunt.com/
 - https://news.ycombinator.com/news hacker news
@@ -520,6 +521,7 @@ Table of Contents
 - [blogsilove](https://pema.dev/2022/07/29/blogsilove/)
 #### 中文
 - [日落间](https://xpaidia.com/)
+- [pizi0475](https://blog.csdn.net/pizi0475)
 - [Unity尧明](https://blog.csdn.net/u013716859?)
 - [blurredcode](https://www.blurredcode.com/) 管线ta
 - [zznewclear13](https://zznewclear13.github.io/posts/) 管线ta
@@ -1628,6 +1630,7 @@ Table of Contents
 - [puyotools]( https://github.com/nickworonekin/puyotools) Puyo Tools is a collection of tools and libraries used to access the contents of various game files. Although it was initially built to handle files used in Puyo Puyo games, it can handle files used in other games as well
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
 - https://github.com/uustory/u-mpq
+- https://github.com/linchaolong/ApkToolPlus
 - [GameReverseNote](https://github.com/TonyChen56/GameReverseNote)
 - https://github.com/super-continent/game-reversing-resources
 - https://github.com/dsasmblr/game-hacking/
@@ -1687,6 +1690,7 @@ Table of Contents
 * [il2cpp-cpp-class-generator](https://github.com/madiskoivopuu/il2cpp-cpp-class-generator) A program that generates C++ classes that wrap around the IL2CPP functions to access C# classes.
 * [coreclr](https://github.com/dotnetGame/coreclr) CoreCLR for Unity
 * [natsu-clr](https://github.com/dotnetGame/natsu-clr) il2cpp transpiler and runtime compatible with .Net Core
+* [UnitySmartSymbolicate](https://github.com/brunomikoski/UnitySmartSymbolicate)
 ## Patch
 - [sfpatcher](https://github.com/sisong/sfpatcher)
 - [Unity手游开发札记——基于累积差异的Patch系统实现](https://zhuanlan.zhihu.com/p/38863442)
@@ -2016,6 +2020,7 @@ Table of Contents
 * [EppNet](https://github.com/xMakerx/EppNet) A high-level multiplayer solution built on top of ENet
 * [oodles-party-physics-based-online-battle-template-255802](https://assetstore.unity.com/packages/templates/packs/oodles-party-physics-based-online-battle-template-255802)
 * https://github.com/RuanCardoso/OmniNet
+* https://github.com/zacpeelyates/unityrollback
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -2128,6 +2133,7 @@ Table of Contents
 - [BGDatabase](https://assetstore.unity.com/packages/tools/integration/bg-database-112262) unity-plugin
 - https://github.com/sugarzo/Unity_DataEditor
 - https://github.com/CollisionBear/BearDataEditor
+- https://github.com/Spreads/Spreads.LMDB
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
@@ -2196,7 +2202,9 @@ Table of Contents
 ## Compression
 - https://github.com/ikpil/DotFastLZ 
 - https://github.com/avaneev/lzav
+- https://github.com/brantburnett/Snappier
 - [ThumbHash](https://github.com/jzebedee/ThumbHash) .NET implementation of ThumbHash: a very compact representation of a placeholder for an image. Store it inline with your data and show it while the real image is loading for a smoother loading experience.
+- [signed-octahedron-normal-encoding](https://johnwhite3d.blogspot.com/2017/10/signed-octahedron-normal-encoding.html)
 ## Text-Template
 - [Gridify](https://github.com/alirezanet/Gridify) Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
 - [cottle](https://github.com/r3c/cottle) High performance template engine for C# 
@@ -2582,6 +2590,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [appccelerate](https://github.com/appccelerate/statemachine) asyn fsm
 - https://github.com/rwth-acis/Virtual-Agents-Framework
 - https://github.com/acdamiani/schema
+- https://github.com/HalfADog/Unity-RPGCore-HFSM
 ##  Chat/Dialogue
 - https://github.com/AkiKurisu/Next-Gen-Dialogue/
 - https://github.com/hafewa/unity-AI-Chat-Toolkit
@@ -2980,6 +2989,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [垂直同步，G-sync，Freesync](https://zhuanlan.zhihu.com/p/41848908)
 - [OverdrawForURP](https://github.com/ina-amagami/OverdrawForURP)
 - [OverdrawMonitor](https://github.com/Nordeus/Unite2017/tree/master/OverdrawMonitor)
+- [OverdrawChecker](https://github.com/haw2fregel/OverdrawChecker)
 ## ComputerGraphics && Shading
 
 #### Conference
@@ -3168,6 +3178,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [cg](https://developer.download.nvidia.cn/cg/index_stdlib.html)
 - [hlsl](https://docs.microsoft.com/zh-cn/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics?redirectedfrom=MSDN)
 - https://github.com/microsoft/hlsl-specs
+- https://maraneshi.github.io/HLSL-ConstantBufferLayoutVisualizer/
 - https://github.com/NaitorStudios/FusionShaderRepo
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
@@ -3180,6 +3191,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 #### Shader-Compiler
 - [unity shaderlab 和 3dsmax maya .fx 自定义 hlsl directx material 材质的联系](https://zhuanlan.zhihu.com/p/627040080) [doc](https://docs.google.com/document/d/1yHARKE5NwOGmWKZY2z3EPwSz5V_ZxTDT8RnRl521iyE/)
 - [a-review-of-shader-languages](https://alain.xyz/blog/a-review-of-shader-languages)
+- [UnityShaderParser](https://github.com/pema99/UnityShaderParser) UnityShaderParser
 - [spir](https://www.khronos.org/spir/) The Industry Open Standard Intermediate Language for Parallel Compute and Graphics
 - [DirectX Intermediate Language](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/DXIL.rst)
 - [AMD Developer Guides, Manuals & ISA Documents](https://developer.amd.com/resources/developer-guides-manuals/)
@@ -3529,6 +3541,8 @@ Showing off the power of shader properties in Unity
 - [sdf-outline](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/corgi-sdf-outlines-aka-stroke-outlines-for-urp-206960) unity-plugin
 - [ultimate-outlines-highlights](https://assetstore.unity.com/packages/vfx/shaders/ultimate-outlines-highlights-235063)  unity-plugin
 - [QuickOutline](https://github.com/chrisnolet/QuickOutline)
+- https://github.com/Blatko1/awesome-msdf
+- https://github.com/Chlumsky/msdfgen
 
 #### VirturalTexture
 - https://github.com/jackie2009/VirturalTextureFast
@@ -3600,6 +3614,7 @@ Showing off the power of shader properties in Unity
 * [OpenGraphGUI](https://github.com/RobProductions/OpenGraphGUI)
 * [chroma-creative-shader-ui](https://assetstore.unity.com/packages/tools/utilities/chroma-creative-shader-ui-231313)
 * [ShaderUtilsForSRP](https://github.com/stalomeow/ShaderUtilsForSRP)
+* https://github.com/HuangJuanLR/Juan_ShaderandGraphGUI
 ##### Interior
 - https://github.com/Gaxil/Unity-InteriorMapping
 - https://zhuanlan.zhihu.com/p/575453172
@@ -3824,6 +3839,7 @@ Showing off the power of shader properties in Unity
 * [RTAO](https://github.com/boksajak/RTAO) Ray Traced Ambient Occlusion (RTAO) implemented using DirectX Raytracing (DXR)
 * [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
 * [dxr-ao-bake](https://github.com/Twinklebear/dxr-ao-bake) A demo of ambient occlusion map baking using DXR
+* [DFAO-unity)](https://github.com/ZephyrL/DFAO-unity) Distance Field Ambient Occlusion, implemented in Unity, as an extension of SDFr
 ##### Bent Normal
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
 ##### Radiosity Normal Mapping
@@ -3938,6 +3954,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/fuqunaga/GpuTrail
 - https://github.com/keijiro/ComputeMarchingCubes
 - https://github.com/b0nes164/ShaderOneSweep
+- https://linebender.org/wiki/gpu/sorting/
 - https://github.com/TakeshiCho/GPU_Parallel_Reduction
 - https://github.com/alvion427/PerroPastor
 - https://github.com/etnlGD/UnityAstcGpuEncoder
@@ -3971,7 +3988,7 @@ Showing off the power of shader properties in Unity
 - [撸一个GPU Driven Pipeline](https://zhuanlan.zhihu.com/p/109858034)
 - [现代渲染引擎开发-GPU Driven Render Pipeline](https://zhuanlan.zhihu.com/p/409244895)
 - [GPU-Driven Rendering 有没有可能应用到移动端呢？如果不能是什么原因导致的?](https://www.zhihu.com/question/427803115/answer/1548993170)
-- [[Siggraph15] GPU-Driven Rendering Pipelines](https://zhuanlan.zhihu.com/p/33881505)
+- [Siggraph15 GPU-Driven Rendering Pipelines](https://zhuanlan.zhihu.com/p/33881505)
 - [max:GPU Driven Rendering Pipeline 开发小结](https://zhuanlan.zhihu.com/p/58311222)
 - [游戏引擎随笔 0x13：现代图形 API 的 Bindless](https://zhuanlan.zhihu.com/p/136449475)
 - [Unity中实现高性能渲染遇到的问题](https://zhuanlan.zhihu.com/p/106388466)
@@ -4183,7 +4200,9 @@ Showing off the power of shader properties in Unity
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
 - [Collections.Pooled](https://github.com/Zitga-Tech/ZBase.Collections.Pooled)
 - [BurstCollections](https://github.com/andywiecko/BurstCollections)
+- [NullGC](https://github.com/fryderykhuang/NullGC)
 - [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
+- [Arenas](https://github.com/Enichan/Arenas) Unmanaged arena memory allocators for C#/CSharp with easy interactions between managed and unmanaged references
 - [Faster.Map](https://github.com/Wsm2110/Faster.Map) A fast & densely stored hashtable based on robin-hood backshift deletion c#
 - [caffeine](https://github.com/ben-manes/caffeine) A high performance caching library for Java 
 - [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport) Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. 
@@ -4461,6 +4480,7 @@ Showing off the power of shader properties in Unity
 - [QuarkAsset](https://github.com/DonnYep/QuarkAsset)
 
 #### Unity-Framework
+- https://github.com/AlianBlank/GameFrameX
 - https://qinzhuo.coding.net/public/
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
@@ -4811,6 +4831,7 @@ Showing off the power of shader properties in Unity
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
 - [Rider 中使用 Source Generator](https://qiita.com/Tanakancolle/items/b12c48e0cf0fe78af2ad) 介绍在 Rider 中使用 Source Generator 创建工具的流程
+- [Rider 中使用 Source Generator](https://qiita.com/amenone_games/items/0a99f38fd08911b62c3a)
 - [Arch.Extended](https://github.com/genaray/Arch.Extended) Extensions for Arch with some useful features like Systems, Source Generator and Utils.
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
 - [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
@@ -5295,6 +5316,7 @@ Showing off the power of shader properties in Unity
 - https://ctext.org/book-of-poetry/zhs 中国哲学电子书
 ## 友情链接 
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
+* [ikrima](https://ikrima.dev/) Game Development Notes
 * [Unity_Gems](https://github.com/AShine17cm/Unity_Gems)
 * [图形学随笔](https://github.com/Tianji95/CG_learning_note)
 * [Article_About_GameDevelopment](https://github.com/tkonexhh/Article_About_GameDevelopment)
