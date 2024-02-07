@@ -248,6 +248,7 @@ Table of Contents
     - [GPGPU](#gpgpu)
     - [Compute-Shader](#compute-shader)
     - [Boids](#boids)
+    - [BatchRendererGroup](#batchrenderergroup)
     - [GPU Driven](#gpu-driven)
     - [GPU-Particle](#gpu-particle)
     - [BVH](#bvh)
@@ -1399,7 +1400,11 @@ Table of Contents
 - https://github.com/qwe321qwe321qwe321/Unity-EasingAnimationCurve
 - https://github.com/akof1314/AnimationPath
 - https://github.com/ecidevilin/UnityBoneTools 
-- https://github.com/natsuneko-laboratory/refined-animation-property
+- [refined-animation-property](https://github.com/natsuneko-laboratory/refined-animation-property)
+- [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)
+- [Animation-Repathing](https://github.com/hfcRed/Animation-Repathing) Feature rich Unity Editor tool to help streamline the process of changing the paths of animations
+- [animation-utils](https://github.com/needle-tools/animation-utils)
+- [animation-auto-assignment](https://github.com/natsuneko-laboratory/animation-auto-assignment) Unity Editor Extension that tracks changes on hierarchy and automatically repairs animation property paths.
 - https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier
 - https://github.com/rrazgriz/RATS
  
@@ -1435,6 +1440,7 @@ Table of Contents
 - [fabfile](https://www.fabfile.org/) Simple, Pythonic remote execution and deployment.
 - [CliTookKit](https://github.com/LiuOcean/CliToolkit)
 - https://github.com/dklassic/APFrameworkUI
+- https://openupm.com/packages/com.bbbirder.shell/
 
 ## Scenes
 #### Terrain
@@ -1648,6 +1654,7 @@ Table of Contents
 * [AssetRipper](https://github.com/AssetRipper/AssetRipper) GUI Application to work with engine assets, asset bundles, and serialized files
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
+* https://github.com/zhangjiequan/AssetStudio
 * [HoYoStudio](https://github.com/TomyJan/HoYoStudio)
 * [CNStudio](https://github.com/Razmoth/CNStudio)
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
@@ -2308,6 +2315,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 * [Entitas-Sync-Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Networking framework for Entitas ECS. Targeted at turnbased games or other slow-paced genres
 * [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 
+* [rest](https://github.com/RageAgainstThePixel/com.utilities.rest?)
 * [Davinet](https://github.com/IronWarrior/Davinet) - Minimalist Unity networking package with goals of responsive physics, loose coupling, extensibility and encapsulation of netcode. 
 * [ECSPowerNetcode](https://github.com/actionk/ECSPowerNetcode) Library to power up your experience with the DOTS Unity Netcode. 
 * [FastTunnel](https://github.com/SpringHgui/FastTunnel.SuiDao) 二次开发的内网穿透服务
@@ -2594,6 +2602,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ##  Chat/Dialogue
 - https://github.com/AkiKurisu/Next-Gen-Dialogue/
 - https://github.com/hafewa/unity-AI-Chat-Toolkit
+- https://github.com/Lunatic-Works/Nova
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -2792,6 +2801,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Milk-Drinker01/CoR-Skinning 
 ##  Physics
 #### Physics Framework
+- [Gaia](https://github.com/AnkaChan/Gaia) The Gaia engine is a C++ codebase primarily designed for physics-based simulations.
 - [Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) Implementations in Unity of the Ten Minute Physics YouTube channel. Instead of using Unity's built-in physics engine
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
 - [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int) Pure C# deterministic fixed-point 3D real time physics simulation library
@@ -2816,6 +2826,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
 - [fcl](https://github.com/flexible-collision-library/fcl) The Flexible Collision Library
 - [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
+- https://github.com/notgiven688/jitterphysics2
 - [libccd](https://github.com/danfis/libccd) Library for collision detection between two convex shapes 
 - [ncollide](https://github.com/dimforge/ncollide) 2 and 3-dimensional collision detection library in Rust. 
 - [reactphysics3d]([www.reactphysics3d.com](https://github.com/DanielChappuis/reactphysics3d))
@@ -3975,6 +3986,9 @@ Showing off the power of shader properties in Unity
 * [Unity-BatchRendererGroup-Boids](https://github.com/AlexMerzlikin/Unity-BatchRendererGroup-Boids)
 * [Unity-Boids-Behavior-on-GPGPU](https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU)
 * [unity-jobsystem-boids](https://github.com/komietty/unity-jobsystem-boids) Superfast CPU boids for Unity
+
+#### BatchRendererGroup 
+- https://github.com/LizzyFox-code/BrgContainer 
 #### GPU Driven
 - [LeoGPUDriven](https://github.com/lijundacom/LeoGPUDriven) 一个GPUDriven学习工程
 - [Realtime-Compute-Shader-Unity-PathTracer](https://github.com/killop/Realtime-Compute-Shader-Unity-PathTracer) A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
@@ -4480,7 +4494,8 @@ Showing off the power of shader properties in Unity
 - [QuarkAsset](https://github.com/DonnYep/QuarkAsset)
 
 #### Unity-Framework
-- https://github.com/AlianBlank/GameFrameX
+- [GameFrameX](https://github.com/AlianBlank/GameFrameX) 前后端一体化，带后台管理系统，支持webgl和微信小游戏
+- [coimbrastudios](https://github.com/coimbrastudios/framework/blob/master/Documentation~/Index.md)
 - https://qinzhuo.coding.net/public/
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
@@ -4556,7 +4571,9 @@ Showing off the power of shader properties in Unity
 - https://github.com/YouwantLee/Joker_Unity_SkillEditor
 - https://github.com/kierstone/ACT-Game-Action-System
 - https://github.com/NoSLoofah/Unity-Buff-System
- 
+- [深空之眼战斗模块拆解&个人对打击感的理解](https://zhuanlan.zhihu.com/p/569092956?) 
+- [动作游戏的动作系统是这样做的](https://mp.weixin.qq.com/s/MuySxYMjXZncKfwRDeE7HQ)
+
 
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
@@ -4661,6 +4678,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/akof1314/Unity-TextMeshPro-DynamicText
 - https://github.com/TonyViT/CurvedTextMeshPro
 - https://github.com/jp-netsis/RubyTextMeshPro
+- https://github.com/codewriter-packages/textmeshpro-spriteatlas-support
 - https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
@@ -4682,6 +4700,7 @@ Showing off the power of shader properties in Unity
 - [Unity-RuntimeEditorWindow](https://github.com/994935108/Unity-RuntimeEditorWindow)
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
 - [UI-Toolkit-Plus](https://github.com/ErnSur/UI-Toolkit-Plus)
+- https://www.zoboui.com/
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://assetstore.unity.com/packages/tools/gui/flexbuilder-2023-flexbox-css-3-ui-245345
 - https://github.com/chasinghope/CurveLayoutGroup
@@ -4731,6 +4750,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/instance-id/ElementAnimationToolkit
 - http://zh.esotericsoftware.com/spine-unity
 - https://github.com/gindemit/unity-rlottie
+- https://github.com/leetful/u.movin
 - [SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) Skia For Unity with skottie animations
 - https://github.com/toptensoftware/RichTextKit
 - https://github.com/wieslawsoltes/Svg.Skia
@@ -4766,6 +4786,7 @@ Showing off the power of shader properties in Unity
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 #### Particle
 - [【Unity工具】使用Mesh生成以降低特效贴片Overdraw的自动化工具](https://zhuanlan.zhihu.com/p/678481238) 
+- https://github.com/sunbrando/ParticleEffectProfiler
 #### Util
 - https://github.com/nothke/unity-utils
 - https://github.com/GameArki/GameArkiSetup/
@@ -4980,6 +5001,7 @@ Showing off the power of shader properties in Unity
  - [Unity-DynamicBone-JobSystem-Opmized](https://github.com/dreamfairy/Unity-DynamicBone-JobSystem-Opmized)
  - [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics)
  - [UnityHighPerformanceDynamicBone](https://github.com/ldh/UnityHighPerformanceDynamicBone)
+ - https://github.com/TongYOuO/UnityBetterJobDynamicBone
  
  
  #### Create Model
@@ -5088,9 +5110,6 @@ Showing off the power of shader properties in Unity
 - [Unity 下网格内存的优化](https://mp.weixin.qq.com/s/OB5oyokEhf1psyzsFvgjoQ)
 - https://github.com/starburst997/Unity.Trimmer 
 - [missing-component-info](https://github.com/zhaoguohao/missing-component-info)
-- [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)
-- [Animation-Repathing](https://github.com/hfcRed/Animation-Repathing) Feature rich Unity Editor tool to help streamline the process of changing the paths of animations
-- [animation-auto-assignment](https://github.com/natsuneko-laboratory/animation-auto-assignment) Unity Editor Extension that tracks changes on hierarchy and automatically repairs animation property paths.
 - [Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter)
 - [Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
 - [SpriteAuditor](https://github.com/brunomikoski/SpriteAuditor) The missing tool to help you optimize your game
@@ -5149,6 +5168,8 @@ Showing off the power of shader properties in Unity
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 - https://github.com/staggartcreations/Graphics-Raycast/
 - https://github.com/muveso/Unity-Detection-Sensor
+- [dynamic-raycast-system-2-0](https://assetstore.unity.com/packages/tools/integration/dynamic-raycast-system-2-0-c-jobs-123768)
+- [targeting-system-3](https://assetstore.unity.com/packages/add-ons/targeting-system-3-0-215501)
 
 #### CameraController
 - https://github.com/XJINE/Unity_SceneCameraController 
@@ -5189,6 +5210,7 @@ Showing off the power of shader properties in Unity
 - [USSR](https://github.com/kiraio-moe/USSR) Unity Splash Screen Remover (USSR) is a CLI tool to remove Unity splash screen logo + watermark.
 - [ios-build-action](https://github.com/mrAlbert-development/ios-build-action) Build iOS project (.xcodeproj, .xcworkspace), and export ipa
 - [iOSDeviceSupport](https://github.com/fateshen/iOSDeviceSupport)
+- [SaintsBuild](https://github.com/TylerTemp/SaintsBuild/)
  ## Mobile
  - [UnityAndroidRuntimePermissions](https://github.com/yasirkula/UnityAndroidRuntimePermissions)A native Unity plugin to handle runtime permissions on Android M+
  - [unity-background-service](https://github.com/nintendaii/unity-background-service)
@@ -5270,6 +5292,7 @@ Showing off the power of shader properties in Unity
 - [掘金计划- 中文文案排版](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
 - https://github.com/writing-resources/awesome-scientific-writing
 - https://github.com/wechatsync/Wechatsync
+- https://github.com/zongpingding/All-About-TeX
 
 
 ## 游戏策划
