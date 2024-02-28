@@ -1191,6 +1191,7 @@ Table of Contents
 - https://github.com/caosdoar/Fornos
 - [BakeShader](https://github.com/Cyanilux/BakeShader) Unity editor tool for baking shaders to textures. Blit2D, Blit3D, or MeshRenderer (uses model UV). Adds options to Material & MeshRenderer context menus and Editor Window (under Window/Cyanilux/BakeShader)
 - [UnityTexture2DArrayImportPipeline](https://github.com/pschraut/UnityTexture2DArrayImportPipeline) A Texture2DArray Import Pipeline for Unity 2019.3 and newer.
+- [unity-texture-apply-async](https://github.com/gilzoide/unity-texture-apply-async) Alternative to Texture2D.Apply() that doesn't require synchronizing with the render thread, avoiding stalls in the main thread
 #### Animation2Shader
 - [VatBaker](https://github.com/fuqunaga/VatBaker) A tool to bake VAT (Vertex Animation Texture) from AnimationClip with sample shaders for Unity.
 - [material-animation-curve](https://gist.github.com/ghysc/b4f9b3266ee82edf2b02e00cef0bc6b7) A Material Property Drawer for the Curve attribute which lets you edit curves and adds them to the shader as textures
@@ -1542,6 +1543,7 @@ Table of Contents
 * [shaders-botw-grass](https://github.com/daniel-ilett/shaders-botw-grass)
 * [Unity-Grass](https://github.com/cainrademan/Unity-Grass)
 * [Unity-Optimized-Coins-Shader](https://github.com/DhafinFawwaz/Unity-Optimized-Coins-Shader)
+* [foliage-renderer](https://assetstore.unity.com/packages/tools/terrain/foliage-renderer-267618)
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1657,6 +1659,7 @@ Table of Contents
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * https://github.com/zhangjiequan/AssetStudio
+* https://github.com/RazTools/Studio
 * [HoYoStudio](https://github.com/TomyJan/HoYoStudio)
 * [CNStudio](https://github.com/Razmoth/CNStudio)
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
@@ -1979,6 +1982,7 @@ Table of Contents
 #### Lockstep
 - https://github.com/QinZhuo/IDG_Game_One
 - https://github.com/Yinmany/NetCode-FPS
+- https://qinzhuo.coding.net/public/
 - http://netcoding4d.com/
 - https://cloud.tencent.com/product/mgobe
 - https://github.com/JiepengTan/LockstepECS 
@@ -3003,6 +3007,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [OverdrawForURP](https://github.com/ina-amagami/OverdrawForURP)
 - [OverdrawMonitor](https://github.com/Nordeus/Unite2017/tree/master/OverdrawMonitor)
 - [OverdrawChecker](https://github.com/haw2fregel/OverdrawChecker)
+- [OverdrawMonitor](https://github.com/ZBlueLine/OverdrawMonitor)
 ## ComputerGraphics && Shading
 
 #### Conference
@@ -3241,6 +3246,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://gist.github.com/yasirkula/d8fa2fb5f22aefcc7a232f6feeb91db7
 * https://github.com/needle-tools/shader-variant-explorer
 * https://github.com/crossous/SocoTools/
+* [shaders-limiter](https://assetstore.unity.com/packages/tools/utilities/shaders-limiter-270827)
 #### Course/Article
 - https://techartaid.com/cheatsheet/
 - [branching-in-shaders](https://forum.unity.com/threads/branching-in-shaders.1231695/)
@@ -3855,6 +3861,7 @@ Showing off the power of shader properties in Unity
 * [dxr-ao-bake](https://github.com/Twinklebear/dxr-ao-bake) A demo of ambient occlusion map baking using DXR
 * [DFAO-unity)](https://github.com/ZephyrL/DFAO-unity) Distance Field Ambient Occlusion, implemented in Unity, as an extension of SDFr
 * [CapsuleOcclusion](https://github.com/Fewes/CapsuleOcclusion)
+* [GTAO_URP](https://github.com/bladesero/GTAO_URP) ground truth ambient occlusion in unity urp
 ##### Bent Normal
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
 ##### Radiosity Normal Mapping
@@ -4500,7 +4507,6 @@ Showing off the power of shader properties in Unity
 #### Unity-Framework
 - [GameFrameX](https://github.com/AlianBlank/GameFrameX) 前后端一体化，带后台管理系统，支持webgl和微信小游戏
 - [coimbrastudios](https://github.com/coimbrastudios/framework/blob/master/Documentation~/Index.md)
-- https://qinzhuo.coding.net/public/
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
 - https://github.com/gmhevinci/MotionFramework
@@ -4614,7 +4620,8 @@ Showing off the power of shader properties in Unity
 - [Unity 活动-浅谈Unity内存管理](https://www.bilibili.com/video/av79798486/)
 - [解读MONO内存管理：BOEHM GC原理及总结](https://zhuanlan.zhihu.com/p/41398507)
 - [.NET内存性能分析指南](https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html)
-  [浅谈Unity中的内存管理策略之TLSF](https://zhuanlan.zhihu.com/p/678788602)
+- [浅谈Unity中的内存管理策略之TLSF](https://zhuanlan.zhihu.com/p/678788602)
+- [浅析Unity引擎视角下的游戏内存优化](https://zhuanlan.zhihu.com/p/603847226)
 #### Asyn-Await
 - https://www.albahari.com/threading
 - https://www.zhihu.com/question/554133167/answer/2690808608
@@ -5119,6 +5126,7 @@ Showing off the power of shader properties in Unity
 - [SpriteAuditor](https://github.com/brunomikoski/SpriteAuditor) The missing tool to help you optimize your game
 - https://github.com/aniketrajnish/Unity-Collider-Optimizer
 - https://github.com/SarahWeiii/CoACD
+- [unity 动画精度优化](https://zhuanlan.zhihu.com/p/682790969)
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
 - [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
@@ -5183,6 +5191,7 @@ Showing off the power of shader properties in Unity
 ## 知识库软件/笔记软件/思维构造工具
 - [A hackable markdown note application for programmers](https://github.com/purocean/yn)
 - [印象笔记](https://www.yinxiang.com/)
+- [anytype](https://anytype.io/)
 - [有道云笔记](http://note.youdao.com/)
 - [pocket](https://app.getpocket.com/)
 - [mybase](http://www.wjjsoft.com/chs)
