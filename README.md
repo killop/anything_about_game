@@ -397,7 +397,7 @@ Table of Contents
 - [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
 - [data-oriented-design](https://github.com/dbartolini/data-oriented-design) : A curated list of data oriented design resources.
 - [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
-- [awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)
+- [awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games) : A curated list of useful open-source Unity games.
 
 ## Awesome-General
 - http://nav.web-hub.cn/ 
