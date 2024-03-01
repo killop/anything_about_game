@@ -3450,7 +3450,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/danbaidong1111/DanbaidongRP
 - [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
 - [FernNPR](https://github.com/DeJhon-Huang/FernNPR) NPR相关实验，基于Unity。
-- [UnityURP-AnimeStyleCelShader](https://github.com/Jameslroll/UnityURP-AnimeStyleCelShader) A custom shader and post-processing effect for achieving anime-style characters or levels in Unity using the Universal Render Pipeline.
+- [UnityURP-AnimeStyleCelShader](https://github.com/hatfullr/UnityURP-AnimeStyleCelShader) A custom shader and post-processing effect for achieving anime-style characters or levels in Unity using the Universal Render Pipeline.
 - [NPR_ResearchFactory](https://github.com/hahahuahai/NPR_ResearchFactory) NPR相关实验，基于Unity。
 - [浅谈卡通渲染与真实感渲染结合思路](https://zhuanlan.zhihu.com/p/561494026)
 - [卡通渲染漫谈](https://zhuanlan.zhihu.com/p/575096572)
