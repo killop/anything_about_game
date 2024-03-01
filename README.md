@@ -1377,6 +1377,7 @@ Table of Contents
 - [advanced-locomotion-controller](https://assetstore.unity.com/packages/templates/packs/advanced-locomotion-controller-234390) unity-plugin
 - https://github.com/Another-Axiom/GorillaLocomotion
 - [motion-matching-locomotion-controller](https://assetstore.unity.com/packages/tools/game-toolkits/motion-matching-locomotion-controller-243179) unity-plugin
+- [flexmotion](https://assetstore.unity.com/packages/tools/animation/flexmotion-267629)
 - https://github.com/Goodgulf281/Unity-Formation-Movement2.0
 - https://github.com/edualvarado/unity-footprints
 - https://github.com/ssell/UnityDotsCharacterController
@@ -4211,6 +4212,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
 - https://github.com/jackmott/LinqFaster  Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
 - [BurstLinq](https://github.com/AnnulusGames/BurstLinq) Extremely fast LINQ aggregation operations implementation optimized by Burst Compiler
+- https://github.com/cathei/LinqGen
 - https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
 - https://github.com/lujian101/GCFreeClosure A gc-free closure implementation for unity
 - https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
