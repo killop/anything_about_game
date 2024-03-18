@@ -306,6 +306,7 @@ Table of Contents
     - [TextureStreaming](#texturestreaming)
     - [Particle](#particle)
     - [Util](#util)
+    - [Rope](#rope)
     - [Unity-Update](#unity-update)
     - [Code-Reload\&\&Unity-Editor-Compiler](#code-reloadunity-editor-compiler)
     - [Windows-Show](#windows-show)
@@ -396,8 +397,8 @@ Table of Contents
 - [awesome-wgpu](https://github.com/rofrol/awesome-wgpu) : A curated list of wgpu code and resources.
 - [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
 - [data-oriented-design](https://github.com/dbartolini/data-oriented-design) : A curated list of data oriented design resources.
-- [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
-- [awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games)
+- [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) A resource repository for 3D machine learning
+- [awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games) A curated list of useful open-source Unity games.
 
 ## Awesome-General
 - http://nav.web-hub.cn/ 
@@ -699,7 +700,7 @@ Table of Contents
 - [Natalya Tatarchuk](https://twitter.com/mirror2mask) working at Unity Technologies on Unity.
 - [pbbastian](http://pbbastian.github.io/)  working at Unity Technologies on Unity 
 - [alinenormoyle](http://www.alinenormoyle.com) I currently work as a visiting assistant professor at Swarthmore College. My research interests are in games and computer animation and I also do professional work as a game/AR/VR programmer for Venturi Labs and also Savvy Sine. My CV is available here
-- [iquilezles](http://www.iquilezles.org/www/index.htm) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
+- [iquilezles](https://iquilezles.org/) These are articles about the techniques I develop and lessons I learnt while toying or working with computer graphics.
 - https://simonschreibt.de/
 - [catlikecoding](https://catlikecoding.com/) nothing to comment
 - http://www.ludicon.com/castano/blog/
@@ -1222,6 +1223,7 @@ Table of Contents
 - [Cascadeur](https://cascadeur.com/)
 - [spine](http://zh.esotericsoftware.com/)
 - [spine-optimize](https://github.com/506638093/spine-optimize)
+- [WaifuSpineRuntime](https://github.com/ZeroFlyFly/WaifuSpineRuntime)
 - [live3d](http://www.zingfront.cn/live3d/)
 - [live2d](https://www.live2d.com/)
 - [dragonbones](http://dragonbones.effecthub.com/) 
@@ -1637,6 +1639,7 @@ Table of Contents
 #### Collection
 - [Game-Cheating-Tutorial](https://github.com/BeneficialCode/Game-Cheating-Tutorial)
 - [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
+- [UnityResolve](https://github.com/issuimo/UnityResolve.hpp) Unity引擎C++接口 | Unity Engine C++ API | Mono/il2cpp | 支持 Windows, Android, Linux | Game Cheat | 游戏作弊
 - [GameExtractor](https://github.com/wattostudios/GameExtractor) Reads and writes thousands of different archive and image formats used in games.
 - [puyotools]( https://github.com/nickworonekin/puyotools) Puyo Tools is a collection of tools and libraries used to access the contents of various game files. Although it was initially built to handle files used in Puyo Puyo games, it can handle files used in other games as well
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
@@ -1801,6 +1804,7 @@ Table of Contents
 
 #### PythonTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
+- [FastUI](https://github.com/pydantic/FastUI)
 ## Game-Server-framework
 - https://github.com/hstcscolor/awesome-gameserver-cn
 - https://github.com/novusengine/NovusCore
@@ -2403,6 +2407,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [RestClient](https://github.com/proyecto26/RestClient) A Promise based REST and HTTP client for Unity 
 - [WatsonWebserver](https://github.com/dotnet/WatsonWebserver) Watson is the fastest, easiest way to build scalable RESTful web servers and services in C#.
 - [sisk](https://sisk.project-principium.dev/) Sisk is an lightweight web framework designed for fast and robust development, which allows you to take the full control of what you want to do.
+- https://github.com/cloudflare/pingora
 ## GameEngine Design
 #### Collection
 - https://ossinsight.io/collections/game-engine/
@@ -2806,8 +2811,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Krasjet/quaternion
 - https://thenumbat.github.io/Exponential-Rotations/
 - https://github.com/Milk-Drinker01/CoR-Skinning 
+- [LookMaNoMatrices](https://github.com/enkimute/LookMaNoMatrices)
 ##  Physics
 #### Physics Framework
+- [awesome-simulation](https://github.com/Housz/awesome-simulation) Resources for Physics based simulation in Computer Graphics 图形学中物理模拟的资源整理
 - [Gaia](https://github.com/AnkaChan/Gaia) The Gaia engine is a C++ codebase primarily designed for physics-based simulations.
 - [Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) Implementations in Unity of the Ten Minute Physics YouTube channel. Instead of using Unity's built-in physics engine
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
@@ -2973,6 +2980,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Debugging Utilities for Unity
 - [lineburst](https://github.com/bassmit/lineburst)  Plot functions and draw large amounts of debug lines, shapes and text to the Unity game and scene view
 - [ULogViewer](https://github.com/carina-studio/ULogViewer)
+- [UnityIL2CPP包Crash闪退利用Android Logcat还原符号表堆栈日志](https://www.jianshu.com/p/2000f524879d)
 
 #### GPU
 - https://github.com/taptap/render-doctor
@@ -3161,6 +3169,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/google/angle
 - [XUSG](https://github.com/StarsX/XUSG) XUSG, XU's supreme graphics lib, is a handy wrapper currently for DirectX 12. It can be a good reference for designing your own DX12 wrapper APIs.
 - [LLGL](https://github.com/LukasBanana/LLGL) Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
+- [nicegraf](https://github.com/nicebyte/nicegraf)
 #### Collection
 - [awesome-geometry-processing)](https://github.com/zishun/awesome-geometry-processing)
 - [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
@@ -3274,6 +3283,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [技术美术工作内容及举例](https://zhuanlan.zhihu.com/p/397308985)
 
 #### Shader-Collection
+- https://github.com/falseeeeeeeeee/ShaderLibrary
 - https://mini.gmshaders.com/
 - [CgFX-Shader-Compilation](https://github.com/steaklive/CgFX-Shader-Compilation)
 - [Unity-Advanced-Shaders-Tutorial](https://github.com/Habrador/Unity-Advanced-Shaders-Tutorial) Implementation of advanced shaders in Unity like raytracing, interior mapping, parallax mapping
@@ -4058,6 +4068,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/NullTale/VhsFx
 - https://github.com/NullTale/VolFx
 - [Anime-Speed-Lines](https://github.com/MirzaBeig/Anime-Speed-Lines) Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.
+- [LUTS](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
 
@@ -4199,6 +4210,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
 - https://github.com/ZiggyCreatures/FusionCache 高性能cache 
 - https://github.com/jitbit/FastCache
+- https://github.com/neon-sunset/fast-cache
 - https://github.com/LuchunPen/Fast-Hash-Collection
 - https://github.com/thomhurst/ModularPipelines/
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector)
@@ -4207,6 +4219,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/jiangjinnan/NativeBuffering
 - https://github.com/timonkrebs/MemoizR Declarative Structured Concurrency for C#
 - [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
+  https://github.com/barncastle/BitsKit
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
@@ -4573,6 +4586,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/wqaetly/SkillEditorBasedOnSlate
 - https://github.com/KrazyL/SkillSystem-3 (Dota2 alike Skill System Implementation for KnightPhone)
 - https://github.com/weichx/AbilitySystem
+- https://github.com/No78Vino/gameplay-ability-system-for-unity
 - https://github.com/dongweiPeng/SkillSystem (丰富的接口可便于使用扩展 完整的技能效果流程【如流程图】 配套的技能管理器 自定义的技能数据表)
 - https://github.com/dx50075/SkillSystem (skill system for unity ， 思路 http://blog.csdn.net/qq18052887/article/details/50358463 技能描述文件如下 skill(1000) //技能1 { FaceToTarget(0) PlayAnimation(1,Skill_1) Bullet(1.3,Bullet,7) PlayEffect(0,Explode8,3) })
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
@@ -4754,6 +4768,7 @@ Showing off the power of shader properties in Unity
 - [raganddrop-unity3d](https://github.com/Xander93/draganddrop-unity3d)
 - [ui-toolkit-safe-area](https://github.com/artstorm/ui-toolkit-safe-area)
 - [UniversalInventorySystem](https://github.com/Heymity/UniversalInventorySystem)
+- [uLui](https://github.com/LingJiJian/uLui) unity3d - advanced control library
 #### UI-Animation
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
@@ -4795,6 +4810,8 @@ Showing off the power of shader properties in Unity
 - [UnityCameraSystem_CC](https://github.com/LeahLee13/UnityCameraSystem_CC) [bilibili](https://www.bilibili.com/video/av301538767/) 基于Cinemachine的第一/三人称过肩
 - [Cine-AI](https://github.com/inanevin/Cine-AI) 
 - [tactical-camera](https://www.impossible-odds.net/tactical-camera/) The Tactical Camera package for Unity contains an easy-to-use camera system, ideal for both top-down overview of your worlds and close-up action scenes. It offers a lot of freedom to define and customize its behavior.
+- [UnityCinematicControl](https://github.com/andreasbaumde/UnityCinematicControl)
+- [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions)
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 #### Particle
@@ -4802,6 +4819,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/sunbrando/ParticleEffectProfiler
 #### Util
 - https://github.com/nothke/unity-utils
+- https://github.com/oleghcp/UnityTools
 - https://github.com/GameArki/GameArkiSetup/
 - https://github.com/Hertzole/runtime-options-manager
 - https://github.com/joebinns/asteroids-scriptable-objects
@@ -4831,8 +4849,6 @@ Showing off the power of shader properties in Unity
 - https://github.com/SolarianZ/UnityPlayableGraphMonitorTool
 - https://github.com/KybernetikGames/LinkAndSync
 - https://github.com/Rhinox-Training/rhinox-lightspeed
-- [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
-- https://github.com/GaryMcWhorter/Verlet-Chain-Unity
 - https://github.com/stonesheltergames/Unity-GUID
 - https://github.com/williamrjackson/UnityScriptingUtilities
 - https://github.com/emanzione/MHLab.Utilities
@@ -4840,6 +4856,10 @@ Showing off the power of shader properties in Unity
 - https://github.com/sudotman/BetterUnity
 - https://github.com/VictorHHT/VTools
 
+#### Rope
+- [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
+- https://github.com/Ali10555/FakeRopeSimulation
+- https://github.com/GaryMcWhorter/Verlet-Chain-Unity
 
 #### Unity-Update
 - https://github.com/sotanmochi/PlayerLooper
@@ -4870,13 +4890,16 @@ Showing off the power of shader properties in Unity
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
 - [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
 - [RSCG_Examples](https://github.com/ignatandrei/RSCG_Examples) Roslyn Source Code Generators with Examples
-- [neovim-unity](https://github.com/Domeee/com.cloudedmountain.ide.neovim)
+- [neovim-unity](https://github.com/Domeee/com.cloudedmountain.ide.neovim)\
+- [com.tsk.ide.vscode](https://github.com/Chizaruu/com.tsk.ide.vscode) Enhance your Unity development workflow with seamless code editor integration for VSCode.
+- [Burst2ManagedCall](https://github.com/Jura-Z/Burst2ManagedCall) How to call managed functions (like Thread.Sleep) from Burst
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
 - https://github.com/XJINE/Unity_TransparentWindowManager
 - https://github.com/LorisYounger/VPet
 - [ExplorerGenie](https://github.com/martinstoeckli/ExplorerGenie) ExplorerGenie is an extended context menu for the Windows explorer.
+- [了解 Unity 的托管代码剥离删除的代码](https://zenn.dev/waz/articles/2f9c62c2742622)
 
 #### File-Browser
 - https://github.com/SrejonKhan/AnotherFileBrowser
@@ -4928,6 +4951,7 @@ Showing off the power of shader properties in Unity
 * [UnsafeArray](https://github.com/LizzyFox-code/UnsafeArray)
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
 * [Reinterpret](https://github.com/HelloKitty/Reinterpret.Net) 
+* [Burst2ManagedCall](https://github.com/Jura-Z/Burst2ManagedCall)
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
 * [My_DOTS-NavMeshAgent](https://github.com/NotBugThisFicha/My_DOTS-NavMeshAgent) DOTS 1.0 Producive PathFinding by NavMeshQuere
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
@@ -5260,7 +5284,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game
 ## Programmer-Common-Tool
 - https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/
-- 
+- https://evanw.github.io/float-toy/ 浮点数内存结构
 - https://learn-english.dev/ 程序员 常用英语
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
 - http://binaryconvert.com 专门做二进制转换的网站
@@ -5327,6 +5351,7 @@ Showing off the power of shader properties in Unity
 - https://youquhome.com/ 
 - https://github.com/geekan/HowToLiveLonger
 - https://cook.yunyoujun.cn/
+- https://ascii.today/
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 - http://www.iqsuperman.net/ IQ 超人
 - https://www.allhistory.com 全历史
@@ -5352,6 +5377,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/itgoyo/TelegramGroup
 - https://www.yuque.com/greatghoul/remote 远程工作
 - https://ctext.org/book-of-poetry/zhs 中国哲学电子书
+* [Awesome-offer](https://github.com/lietoumai/Awesome-offer) 
 ## 友情链接 
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
 * [ikrima](https://ikrima.dev/) Game Development Notes
@@ -5375,4 +5401,5 @@ Showing off the power of shader properties in Unity
 * [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 * [ModernGraphicsEngineGuide](https://github.com/Italink/ModernGraphicsEngineGuide)
 * [Books](https://github.com/hexinping/Books)
+
 ## 看完不star，小心没jj :)!

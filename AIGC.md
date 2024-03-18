@@ -1,4 +1,5 @@
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation) 
+- [ai-game-development-tools](https://github.com/Yuan-ManX/ai-game-development-tools)
 - [StableHoudini](https://github.com/stassius/StableHoudini)
 - [chatgpt-guide](https://github.com/Daotin/chatgpt-guide)
 - [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
@@ -45,3 +46,4 @@
 
 ## ComfyUI
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
+- https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
