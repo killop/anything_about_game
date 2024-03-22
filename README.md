@@ -1447,6 +1447,7 @@ Table of Contents
 - [CliTookKit](https://github.com/LiuOcean/CliToolkit)
 - https://github.com/dklassic/APFrameworkUI
 - https://openupm.com/packages/com.bbbirder.shell/
+- [RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl)
 
 ## Scenes
 #### Terrain
@@ -1797,6 +1798,7 @@ Table of Contents
 * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令。如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。
 * [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！ 
 * [unity-gitattributes](https://gist.github.com/JoaoBorks/9cc68762f5d2f5573c00b3aacbb3a57f)
+* [unity-git-locks](https://github.com/TomDuchene/unity-git-locks) Provides an extensive Unity integration for Git LFS locks, which are are essentials when working in teams to prevent conflicts, especially on binary files.
 
 #### article
 - [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
@@ -2005,6 +2007,7 @@ Table of Contents
 * [open-netcode](https://github.com/polartron/open-netcode)
 #### status-syn
 - https://github.com/nilpunch/unity-prediction-rollback
+- https://github.com/nilpunch/massive
 - https://github.com/zpl-c/librg
 - https://github.com/minism/fps-netcode
 - https://github.com/Yinmany/NetCode-FPS
@@ -2330,6 +2333,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Davinet](https://github.com/IronWarrior/Davinet) - Minimalist Unity networking package with goals of responsive physics, loose coupling, extensibility and encapsulation of netcode. 
 * [ECSPowerNetcode](https://github.com/actionk/ECSPowerNetcode) Library to power up your experience with the DOTS Unity Netcode. 
 * [FastTunnel](https://github.com/SpringHgui/FastTunnel.SuiDao) 二次开发的内网穿透服务
+* [CYarp](https://github.com/xljiulang/CYarp) http/1.1 over tcp, http/2.0 or http/3.0 private network tunnel
 * [BeetleX](https://github.com/IKende/BeetleX) high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution 
 * [BedrockFramework](https://github.com/davidfowl/BedrockFramework) High performance, low level networking APIs for building custom servers and clients. 
 * [RailgunNet](https://github.com/ashoulson/RailgunNet) A Client/Server Network State-Synchronization Layer for Games 
@@ -3523,6 +3527,7 @@ Showing off the power of shader properties in Unity
 - [YuanShen_Face](https://github.com/ipud2/Unity-Basic-Shader/blob/master/YuanShen_Face.shader)
 #### SDF
 - https://github.com/CedricGuillemet/SDF
+- https://github.com/danielshervheim/unity-sdf-generator
 - https://github.com/StarsX/SDFTracing/
 - https://github.com/cecarlsen/SDFTextureGenerator
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
@@ -3646,6 +3651,7 @@ Showing off the power of shader properties in Unity
 * [chroma-creative-shader-ui](https://assetstore.unity.com/packages/tools/utilities/chroma-creative-shader-ui-231313)
 * [ShaderUtilsForSRP](https://github.com/stalomeow/ShaderUtilsForSRP)
 * https://github.com/HuangJuanLR/Juan_ShaderandGraphGUI
+* [Unity Shader替换工具](https://zhuanlan.zhihu.com/p/688010572)
 ##### Interior
 - https://github.com/Gaxil/Unity-InteriorMapping
 - https://zhuanlan.zhihu.com/p/575453172
@@ -3720,6 +3726,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/draftPRD/URP_PlanarReflections
 - https://github.com/NineTwoMay1st/URP_PlanerReflection
 - https://github.com/Reuben-Sun/SSPR
+- https://github.com/fzbRun/Global-Illumination
 
 #### Global illumination (GI)
 
@@ -3795,6 +3802,7 @@ Showing off the power of shader properties in Unity
 ##### Ray tracing
 - [openmoonray](https://github.com/dreamworksanimation/openmoonray) MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer
 - [gpurt](https://github.com/GPUOpen-Drivers/gpurt)
+- [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI?)
 - https://github.com/Pjbomb2/Realtime-Compute-Shader-Unity-PathTracer
 - https://github.com/fallingcat/ComputeRayTracingSamples
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
@@ -4264,6 +4272,7 @@ Showing off the power of shader properties in Unity
 - [NativeStringCollections](https://github.com/kawai125/NativeStringCollections) The toolset to parse text files using C# JobSystem on Unity.
 - [c#零成本抽象](https://mp.weixin.qq.com/s/jenoW4Ls0yKLknSdLEEa0g)
 - https://github.com/Nyrest/FastGenericNew
+- [garnet](https://github.com/microsoft/garnet) Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
@@ -4343,6 +4352,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/PiotrJustyna/road-to-orleans
 - https://github.com/RayTale/Vertex Vertex is a distributed, ultimately consistent, event traceable cross platform framework based on Orleans, which is used to build high-performance, high throughput, low latency, scalable distributed applications 
 - https://www.newlifex.com/ 
+- https://github.com/whuanle/maomi
 - https://github.com/iamoldli/NetModular NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开框架 
 - https://github.com/nodatime/nodatime 时间管理
 - https://github.com/night-moon-studio/Leo A high-performance type dynamic operation library.
@@ -4522,6 +4532,7 @@ Showing off the power of shader properties in Unity
 #### Unity-Framework
 - [GameFrameX](https://github.com/AlianBlank/GameFrameX) 前后端一体化，带后台管理系统，支持webgl和微信小游戏
 - [coimbrastudios](https://github.com/coimbrastudios/framework/blob/master/Documentation~/Index.md)
+- [F8Framework](https://github.com/TippingGame/F8Framework)
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
 - https://github.com/gmhevinci/MotionFramework
@@ -4571,6 +4582,7 @@ Showing off the power of shader properties in Unity
 #### Skill
 - https://github.com/lsunky/SkillEditorDem
 - https://github.com/NoBugCn/ActionEditor
+- https://github.com/gsm958708323/HaloAct
 - https://github.com/zhangxingStarMaker/SkillEditor
 - https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/m969/EGamePlay
@@ -4986,6 +4998,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/trgrote/JPS-Unity
 * https://space.bilibili.com/477041559
 * https://github.com/bustedbunny/Pathfinding
+* https://github.com/ForgingStation/Dynamic-Obstacle--Avoidance-with-Nav-Mesh-Query---DOTS-1.0
 * [EntitiesNavMeshBuilder](https://github.com/bustedbunny/EntitiesNavMeshBuilder) Runtime NavMesh dynamic building for Unity Entities.
 - [Unity-Formation-Movement2.0](https://github.com/Goodgulf281/Unity-Formation-Movement2.0)  Formation movement for Unity 3D using built in NavMesh navigation or A*Pathfinding
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
