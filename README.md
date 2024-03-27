@@ -1617,6 +1617,7 @@ Table of Contents
 - https://github.com/cue-lang
 - https://github.com/dloss/binary-parsing
 - https://github.com/yretenai/Cethleann
+- [dogma](https://github.com/kstenerud/dogma) Dogma: A modernized metalanguage with better expressiveness and binary grammar support
 #### Exchange
 - [juicefs](https://github.com/juicedata/juicefs)JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [datahub](https://github.com/linkedin/datahub) The Metadata Platform for the Modern Data Stack
@@ -1740,6 +1741,7 @@ Table of Contents
 - https://www.betrfs.org/
 - https://github.com/MathewHDYT/Unity-Data-Manager
 - https://github.com/coryleach/UnitySaveLoad
+- https://github.com/CarterGames/SaveManager
 - https://github.com/FronkonGames/GameWork-Local-Data
 - https://github.com/Lurler/VirtualFileSystem
 - https://github.com/SpryFox/DarkConfig
@@ -2007,6 +2009,7 @@ Table of Contents
 * [open-netcode](https://github.com/polartron/open-netcode)
 #### status-syn
 - https://github.com/nilpunch/unity-prediction-rollback
+- https://github.com/TCleard/PredictionReconciliationNetwork
 - https://github.com/nilpunch/massive
 - https://github.com/zpl-c/librg
 - https://github.com/minism/fps-netcode
@@ -2088,6 +2091,7 @@ Table of Contents
 - https://github.com/chronoxor/FastBinaryEncoding
 - [zion-bandwidth-optimizer](https://assetstore.unity.com/packages/tools/network/zion-bandwidth-optimizer-112059)
 - [StructBinarySerializer](https://github.com/gilzoide/unity-key-value-store/blob/main/Runtime/ObjectSerializers/StructBinarySerializer.cs)
+- [BytePacketSupport](https://github.com/lukewire129/BytePacketSupport)
 
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -2176,6 +2180,7 @@ Table of Contents
 * matter - C++17/20 ECS implementation [github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)
 
 #### C#
+- [DragonECS](https://github.com/DCFApixels/DragonECS) C# Entity Component System framework
 - [ME.BECS](https://github.com/chromealex/ME.BECS) Bursted Entity Component System
 - [Entitas](https://github.com/sschmid/Entitas) Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 - [Ecstasy](https://github.com/neon-age/Ecstasy) Simplest powerful ECS for Unity. Flexible and fast. Works w/ Burst
@@ -2398,6 +2403,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 #### Web/Http/Server/Client
 - https://github.com/uNetworking/uWebSockets
+- https://github.com/scanfing/HttpFileServer
 - https://actix.rs/
 - https://github.com/codeskyblue/gohttpserver
 - https://github.com/Dreamacro/clash
@@ -2599,6 +2605,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ## GameAI
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
+* https://github.com/AkiKurisu/Real-Agents
 - [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
 - [com.bananaparty.behaviortree](https://github.com/forcepusher/com.bananaparty.behaviortree) Unity package. Fully cross-platform Behavior Tree featuring support for deterministic simulation and prediction-rollback netcode.  
 - https://github.com/piruzhaolu/ActionFlow
@@ -3935,6 +3942,7 @@ Showing off the power of shader properties in Unity
 * [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes) A realization of computing soft shadow by shadow fields
 * [DeepShadowMap](https://github.com/ecidevilin/DeepShadowMap) Real-Time Deep Shadow Maps for Unity3D 
 * [CachedShadowMaps](https://github.com/aivclab/CachedShadowMaps) Cached Shadow Map Solution for Unity
+* [Unity_URP_Planear_Shadowmap](https://github.com/dreamfairy/Unity_URP_Planear_Shadowmap) Unity 主相机范围 扁平阴影
 * [Unity-Capsule-Shadows](https://github.com/frostbone25/Unity-Capsule-Shadows) A work in progress solution for capsule shadows in Unity.
 * [analytic-soft-shadows](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/analytic-soft-shadows-built-in-urp-189680#description) Analytic Soft Shadows is a real-time soft shadowing solution with shadows defined by Spheres, Capsules and Boxes
 #### GPGPU
@@ -4406,6 +4414,7 @@ Showing off the power of shader properties in Unity
 - [IwasmUnity](https://github.com/HoloLabInc/IwasmUnity)
 - [cyber](https://github.com/fubark/cyber) Fast and concurrent scripting.
 - [luajit-remake](https://github.com/luajit-remake/luajit-remake)
+- [luajit2](https://github.com/openresty/luajit2)
 - [minivm](https://github.com/FastVM/minivm) A VM That is Dynamic and Fast
 - [CS2X](https://github.com/reignstudios/CS2X) Transpiles a C# subset to non .NET languages and runtimes. (Powered by Roslyn) 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) ts2lua
@@ -4761,6 +4770,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/kirurobo/UniWindowController 
 - https://github.com/liuhaopen/UGUI-Editor
 - https://github.com/zs9024/quick_psd2ugui
+- https://github.com/sunsvip/PSD2UGUI_X
 - [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131)  
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
@@ -4887,6 +4897,7 @@ Showing off the power of shader properties in Unity
 - [BuildingHotReloadForUnity](https://github.com/handzlikchris/BuildingHotReloadForUnity)
 - [editoriterationprofiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler) Assists in capturing frames from the Profiler of Domain Reloads in the Unity Editor. Compatible with Unity 2019.3
 - [CSharpCompilerSettingsForUnity](https://github.com/mob-sakai/CSharpCompilerSettingsForUnity)
+- [CsprojModifier](https://github.com/Cysharp/CsprojModifier) CsprojModifier performs additional processing when Unity Editor generates the .csproj. 
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
 - [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
 - [MethodChangeWithILPostProcessor](https://github.com/sune2/MethodChangeWithILPostProcessor)
@@ -4905,6 +4916,7 @@ Showing off the power of shader properties in Unity
 - [neovim-unity](https://github.com/Domeee/com.cloudedmountain.ide.neovim)\
 - [com.tsk.ide.vscode](https://github.com/Chizaruu/com.tsk.ide.vscode) Enhance your Unity development workflow with seamless code editor integration for VSCode.
 - [Burst2ManagedCall](https://github.com/Jura-Z/Burst2ManagedCall) How to call managed functions (like Thread.Sleep) from Burst
+
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -5083,6 +5095,7 @@ Showing off the power of shader properties in Unity
  - [GMesh](https://github.com/sitterheim/GMesh)  a node-based procedural geometry generator for Unity
  - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
  - [UVPreview](https://github.com/AsehesL/UVPreview)
+ - [VertexProfilerTool](https://github.com/SaberZG/VertexProfilerTool) 一个Unity中可用的顶点密度debug工具，部分调试类型可导出密度信息
  - [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
  - [libigl](https://libigl.github.io/) libigl - A simple C++ geometry processing library
  - [Open3D](https://github.com/intel-isl/Open3D) Open3D: A Modern Library for 3D Data Processing 
