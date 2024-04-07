@@ -49,3 +49,4 @@
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
 - https://github.com/xiwan/comfyUI-workflows
 - https://github.com/cubiq/ComfyUI_IPAdapter_plus
+- https://github.com/TJ16th/comfyUI_TJ_NormalLighting
