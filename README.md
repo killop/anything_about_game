@@ -1732,7 +1732,7 @@ Table of Contents
 - [bsdiff.net](https://github.com/LogosBible/bsdiff.net) A .NET port of Colin Percival's bsdiff & bspatch
 - [ExcelDiff_MergeTool](https://github.com/kokichi88/ExcelDiff_MergeTool)
 - [vcdiff](https://github.com/SnowflakePowered/vcdiff)
-- [SharpHDiffPatch](https://github.com/CollapseLauncher/Hi3Helper.SharpHDiffPatch)
+- [SharpHDiffPatch](https://github.com/CollapseLauncher/SharpHDiffPatch.Core)
  ## File Systems
 - https://github.com/mattiasgustavsson/libs
 - https://icculus.org/physfs/
