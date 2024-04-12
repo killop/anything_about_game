@@ -18,6 +18,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 - [Unity_StarRail_CRP_Sample](https://github.com/ChillyHub/Unity_StarRail_CRP_Sample) 一个基于URP Renderer Feature 的模仿还原崩坏星穹铁道渲染的自定义渲染管道示例
 - [NahidaRenderProject](https://github.com/kaze-mio/NahidaRenderProject)
 - [GenshinCelShaderURP](https://github.com/Gaolingx/GenshinCelShaderURP)
+- [UnityGenshinPostProcessing](https://github.com/kaze-mio/UnityGenshinPostProcessing) A genshin-like post processing render feature, based on URP.
 - [原神沙漠脚印轮廓实现](https://noirccc.net/blog/zh/posts/773)
 - [简单模仿原神风格化渲染](https://github.com/hh455695642/URPGenshinImpactShader)
 - [StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader)

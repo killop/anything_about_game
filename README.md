@@ -2002,6 +2002,7 @@ Table of Contents
 - https://github.com/QinZhuo/IDG_Game_One
 - https://github.com/Yinmany/NetCode-FPS
 - https://qinzhuo.coding.net/public/
+- https://github.com/mmc1993/X-Game-Public
 - http://netcoding4d.com/
 - https://cloud.tencent.com/product/mgobe
 - https://github.com/JiepengTan/LockstepECS 
@@ -2259,6 +2260,7 @@ Table of Contents
 - [t4](https://github.com/faster-games/t4) T4 text template generative importer for Unity3D
 - [t4-templates-unity3d](https://github.com/deniszykov/t4-templates-unity3d) T4 Text Template Processor for Unity3D
 - [UriTemplates](https://github.com/tavis-software/Tavis.UriTemplates)
+- [ExCSS](https://github.com/TylerBrinks/ExCSS) A CSS Parser for .NET. It's BADA55!
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -2888,6 +2890,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://rapier.rs/
 - https://github.com/fxredeemer/jitterphysics
 - https://github.com/jrouwe/JoltPhysics
+- https://github.com/seep/JoltPhysicsUnity
 - https://github.com/irlanrobson/bounce
 - https://github.com/Scrawk/CyclonePhysicsEngine
 #### Physics BOOKS
@@ -3966,6 +3969,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Sergio0694/ComputeSharp
 - https://github.com/kunzmi/managedCuda
 - https://github.com/andmax/gpufilter
+- https://github.com/NVIDIAGameWorks/SHARC
 - [Parallel Prefix Sum (Scan) with CUDA](http://www.eecs.umich.edu/courses/eecs570/hw/parprefix.pdf)
 - [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
@@ -4036,6 +4040,7 @@ Showing off the power of shader properties in Unity
 * [Unity-BatchRendererGroup-Boids](https://github.com/AlexMerzlikin/Unity-BatchRendererGroup-Boids)
 * [Unity-Boids-Behavior-on-GPGPU](https://github.com/chenjd/Unity-Boids-Behavior-on-GPGPU)
 * [unity-jobsystem-boids](https://github.com/komietty/unity-jobsystem-boids) Superfast CPU boids for Unity
+* [Boids](https://github.com/MirzaBeig/Boids)
 
 #### BatchRendererGroup 
 - https://github.com/LizzyFox-code/BrgContainer 
@@ -4092,6 +4097,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/xwidghet/StereoCancer
 - https://github.com/BlueSkyDefender/AstrayFX
 - https://github.com/FransBouma/OtisFX
+- https://github.com/martymcmodding
 - https://github.com/GarrettGunnell/AcerolaFX
 - https://github.com/NullTale/VhsFx
 - https://github.com/NullTale/VolFx
@@ -4606,7 +4612,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/mewlist/Doinject
  
 #### Skill
-- https://github.com/lsunky/SkillEditorDem
+- https://github.com/lsunky/SkillEditorDemo
+- https://github.com/ancientElement/AE_Skill_Editor
 - https://github.com/NoBugCn/ActionEditor
 - https://github.com/gsm958708323/HaloAct
 - https://github.com/zhangxingStarMaker/SkillEditor
