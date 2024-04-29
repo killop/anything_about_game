@@ -26,3 +26,6 @@
 - https://github.com/ribponce/particula
 - https://github.com/MysteryPancake/Houdini-Fun
 - https://github.com/lukevanlukevan/LV-Tools
+* [DASH](https://github.com/probiner/DASH) Quality of Life utilities package for SideFX Houdini.
+* [BeeHou](https://github.com/simonreeves/BeeHou) Houdini Package 
+* https://github.com/toadstorm/MOPS

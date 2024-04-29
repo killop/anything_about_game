@@ -938,6 +938,7 @@ Table of Contents
 - [layersaudio](https://www.layersaudio.com/) unity audio plugin
 - https://github.com/nixon-voxell/UnityAudioVisualizer
 - https://github.com/MathewHDYT/Unity-Audio-Manager
+- https://github.com/man572142/Bro_Audio
 #### Music-Tool/Editor
 - https://www.image-line.com/
 - https://www.goldwave.com
@@ -2158,6 +2159,7 @@ Table of Contents
 ## DataBase
 - https://github.com/dolthub/dolt
 - https://github.com/ClockworkLabs/SpacetimeDB
+
 #### c#
 - [ZoneTree](https://github.com/koculu/ZoneTree) ZoneTree is a persistent, high-performance, transactional, ACID-compliant ordered key-value database for NET. It can operate in memory or on local/cloud storage.
 - [realm](https://github.com/realm/realm-dotnet) Realm is a mobile database: a replacement for SQLite & ORMs 
@@ -2176,6 +2178,7 @@ Table of Contents
 - https://github.com/sugarzo/Unity_DataEditor
 - https://github.com/CollisionBear/BearDataEditor
 - https://github.com/Spreads/Spreads.LMDB
+- https://github.com/stonstad/Stellar.FastDB Embedded document storage built for performance and high concurrency.
 ## ECS Libraries
 #### Collection
 - [awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) : A curated list of Entity-Component-System (ECS) libraries and resources
@@ -2369,6 +2372,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity-Netcode.IO](https://github.com/GlaireDaggers/Unity-Netcode.IO) A lightweight plugin to allow Unity games to use Netcode.IO for secure UDP socket communication.
 * [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) Reliable UDP networking solution for building multiplayer games. (In public testing phase) 
 * [LiteNetwork](https://github.com/Eastrall/LiteNetwork)
+* [KcpTransport](https://github.com/Cysharp/KcpTransport) KcpTransport is a Pure C# implementation of RUDP for high-performance real-time network communication
 * [csharp-kcp](https://github.com/l42111996/csharp-kcp)
 * [kcp2k](https://github.com/vis2k/kcp2k)
 * [java-Kcp](https://github.com/l42111996/java-Kcp) 基于java的netty实现的可靠udp网络库(kcp算法)，包含fec实现，可用于游戏，视频，加速等业务
@@ -2625,6 +2629,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ## GameAI
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
+* https://github.com/meniku/NPBehave
 * https://github.com/AkiKurisu/Real-Agents
 - [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
 - [com.bananaparty.behaviortree](https://github.com/forcepusher/com.bananaparty.behaviortree) Unity package. Fully cross-platform Behavior Tree featuring support for deterministic simulation and prediction-rollback netcode.  
@@ -2647,6 +2652,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/AkiKurisu/Next-Gen-Dialogue/
 - https://github.com/hafewa/unity-AI-Chat-Toolkit
 - https://github.com/Lunatic-Works/Nova
+- https://github.com/AkiKurisu/UniChat
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -3244,6 +3250,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - [common-shaders](https://github.com/libretro/common-shaders)
 - [HLSL-Library](https://github.com/youandhubris/HLSL-Library)
+- https://github.com/repalash/Open-Shaders
 - https://github.com/Radagasd/line-intersections
 - [glsl-pcg-prng](https://github.com/riccardoscalco/glsl-pcg-prng) Glsl implementation of the PCG algorithm for the generation of random numbers.
 
@@ -4015,13 +4022,11 @@ Showing off the power of shader properties in Unity
 - [Unity物理引擎实战-基于SPH方法的简单水体模拟](https://zhuanlan.zhihu.com/p/456696305)
 - https://github.com/Gornhoth/Unity-Smoothed-Particle-Hydrodynamics
 - https://github.com/aceyan/Unity3D_PBR_Path_Tracer
-- https://github.com/b0nes164/SimpleComputeShaderHashTable
 - https://github.com/happy-turtle/oit-unity
 - https://github.com/candycat1992/OIT_Lab
 - https://github.com/przemyslawzaworski/Unity-GPU-Based-Tetrahedralization
 - https://github.com/fuqunaga/GpuTrail
 - https://github.com/keijiro/ComputeMarchingCubes
-- https://github.com/b0nes164/ShaderOneSweep
 - https://linebender.org/wiki/gpu/sorting/
 - https://github.com/TakeshiCho/GPU_Parallel_Reduction
 - https://github.com/alvion427/PerroPastor
@@ -4032,6 +4037,9 @@ Showing off the power of shader properties in Unity
 - https://github.com/kecho/ComputeUtils
 - https://github.com/drzhn/UnityGpuCollisionDetection
 - https://github.com/b0nes164/GPUPrefixSums
+- https://github.com/b0nes164/GPUSorting
+- https://github.com/b0nes164/ShaderOneSweep 
+- https://github.com/b0nes164/SimpleComputeShaderHashTable 
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -4093,6 +4101,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/anyuser/vectorshapes-unity
 - [keen-vectors](https://assetstore.unity.com/packages/add-ons/keen-vectors-beta-254369)
 #### Post-Process
+- https://github.com/DevsDaddy/UnityXScaling Unity XScaling - a runtime framework for GPU-based textures and screen upscaling (super-resolution). Supports every platform.
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/AKGWSB/FFTConvolutionBloom
 - https://github.com/tkonexhh/X-PostProcessing-URP
@@ -4614,6 +4623,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/labbbirder/UnityInjection
 - https://github.com/labbbirder/DirectRetrieveAttribute
 - https://github.com/mewlist/Doinject
+- https://github.com/labbbirder/UnityInjectionV2
  
 #### Skill
 - https://github.com/lsunky/SkillEditorDemo
@@ -4623,6 +4633,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/zhangxingStarMaker/SkillEditor
 - https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/m969/EGamePlay
+- https://github.com/ancientElement/AE_SkillEditor_Plus
 - https://github.com/huailiang/seqence 剧情-技能编辑器
 - https://github.com/jewer3330/plato timeline-技能编辑器
 - https://github.com/Elfansoer/dota-2-lua-abilities
@@ -4746,6 +4757,7 @@ Showing off the power of shader properties in Unity
 - [Rosalina](https://github.com/Eastrall/Rosalina) Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
 - https://github.com/LibraStack/UnityUxmlGenerator
 - https://github.com/ChebanovDD/UnityMvvmToolkit
+- https://github.com/XuToWei/CodeBind
 - https://github.com/ls9512/UBind
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
@@ -4781,6 +4793,7 @@ Showing off the power of shader properties in Unity
 - https://www.zoboui.com/
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://assetstore.unity.com/packages/tools/gui/flexbuilder-2023-flexbox-css-3-ui-245345
+- https://github.com/gilzoide/unity-flex-ui
 - https://github.com/chasinghope/CurveLayoutGroup
 - https://github.com/niwatly/SectorLayoutGroup
 - https://github.com/zambari/LayoutPanel.UI.Unity
@@ -4923,6 +4936,7 @@ Showing off the power of shader properties in Unity
 #### Code-Reload&&Unity-Editor-Compiler
 - [unity-domain-reload-helper](https://github.com/joshcamas/unity-domain-reload-helper)
 - [UnityScriptHotReload](https://github.com/Misaka-Mikoto-Tech/UnityScriptHotReload)
+- https://github.com/handzlikchris/FastScriptReload
 - [fast-script-reload-239351](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351) unity-plugin
 - [hotreload](https://hotreload.net/) and his free version [gitlab-freeVersion](https://gitlab.com/singularitygroup/hot-reload-for-unity) [github-freeVersion](https://github.com/pancake-llc/hot-reload)
 - [BuildingHotReloadForUnity](https://github.com/handzlikchris/BuildingHotReloadForUnity)
@@ -5357,6 +5371,7 @@ Showing off the power of shader properties in Unity
 - [这样讲原码、反码、补码，帮学妹解决困扰了三天的问题](https://mp.weixin.qq.com/s/vKZleAIMivOxJ_kEB1uSqw)
 - [box3](htttp://www.box3.cn) 开发者工具箱
 - https://ihateregex.io/expr 正则表达式
+- https://github.com/Bowen7/regex-vis  Regex visualizer & editor
 - https://github.com/loonggg/DevMoneySharing 独立开发者赚钱经验分享
 - https://www.toolnb.com  toolnb 
 - https://github.com/eastlakeside/awesome-productivity-cn
