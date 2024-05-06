@@ -1025,7 +1025,6 @@ Table of Contents
  - https://github.com/runwayml/RunwayML-for-Unity
  - https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer
  - https://github.com/DanielSWolf/rhubarb-lip-sync
- - https://github.com/bilibili/UnityBVA
  - https://github.com/Danial-Kord/DigiHuman
  - https://github.com/TheRamU/Fay
  - https://github.com/yuzu-unity/HumanoidCollider
@@ -1685,6 +1684,7 @@ Table of Contents
 * [Snuggle](https://github.com/yretenai/Snuggle) WIP Unity AssetBundle Exporter
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact 
 #### Archive-Format
+- https://github.com/bilibili/UnityBVA
 - [UAssetAPI](https://github.com/atenfyr/UAssetAPI) A low-level .NET library for reading and writing Unreal Engine 4 game assets
 - [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) Tool for extract PAK archives from games based on RE Engine
 - [Http-Multipart-Data-Parser](https://github.com/Http-Multipart-Data-Parser/Http-Multipart-Data-Parser) A C# Http Multipart/form-data parser that works correctly on binary data and very large files.
@@ -2134,6 +2134,7 @@ Table of Contents
 - https://github.com/Ermiq/GodotMono-InfiniteTerrain
 - https://github.com/tkonexhh/LearnGPUDrivenTerrain
 - https://github.com/missyouangeled/GPUDriven_Project
+- https://github.com/wujuju/UnityTerrain
 - https://github.com/guchengyidao/OpenWorldTerrainToolset
 - https://github.com/emrecancubukcu/Terrain-Decorator
 - https://github.com/jintiao/VirtualTexture
@@ -2961,6 +2962,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/DaiZiLing/Flux2-Shoreline-Wave-HLSL
 - https://github.com/chocola-mint/ChocoWater
 - https://github.com/Parrot222/Unity-URP-Underwater-Effects
+- https://github.com/Parrot222/Unity-Water-Shaders
 #### Glass
 - https://github.com/toadstorm/RainyGlassShader 
 - https://github.com/omid3098/Unity-URP-GlassShader
