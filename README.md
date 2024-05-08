@@ -3713,6 +3713,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/AdultLink/Rimlight 
 #### Noise
 - https://github.com/keijiro/NoiseShader
+- https://github.com/electronicarts/fastnoise
 - https://github.com/tuxalin/procedural-tileable-shader
 - https://github.com/Auburn/FastNoiseLite
 - https://flogelz.itch.io/noisemixer
@@ -4249,6 +4250,7 @@ Showing off the power of shader properties in Unity
 - [random-from-distributions](https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873) c# unity-plugin 
 ## 高性能数据结构和算法
 - [Arithmetics](https://github.com/Lombiq/Arithmetics) Next-generation arithmetic implementations, improved floating point number types for .NET, written in C#. Includes the following number types:
+- [用C#将四元数压缩到32位](https://qiita.com/NightOwl/items/3c2d099ec034056f5018)
 - [BreakInfinity](https://github.com/Razenpok/BreakInfinity.cs） Double replacement for numbers that go over 1e308
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
@@ -4631,6 +4633,7 @@ Showing off the power of shader properties in Unity
 #### Skill
 - https://github.com/lsunky/SkillEditorDemo
 - https://github.com/ancientElement/AE_Skill_Editor
+- https://github.com/kierstone/ACT-Game-Action-System
 - https://github.com/NoBugCn/ActionEditor
 - https://github.com/gsm958708323/HaloAct
 - https://github.com/zhangxingStarMaker/SkillEditor
@@ -4736,6 +4739,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/StephenCleary/StructuredConcurrency
 - https://github.com/CoffeeVampir3/Graphify?
 - https://github.com/alelievr/NodeGraphProcessor
+- https://github.com/haloman9527/3.0_GraphProcessor
 
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
@@ -5010,6 +5014,7 @@ Showing off the power of shader properties in Unity
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
 - [TopGames](https://blog.csdn.net/final5788)
+- https://github.com/UnioGame/ECS.Features/
 - [multiplayer-resource-roundup](https://blog.unity.com/engine-platform/multiplayer-resource-roundup)
 - [ECS_Game_Demo](https://github.com/JiepengTan/ECS_Game_Demo)
 - https://github.com/Unity-Technologies/ECS-Network-Racing-Sample
