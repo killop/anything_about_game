@@ -5286,6 +5286,7 @@ Showing off the power of shader properties in Unity
 - [Unity.MissingUnityEvents](https://github.com/handzlikchris/Unity.MissingUnityEvents)
 - [VitalRouter](https://github.com/hadashiA/VitalRouter)
 - [bovinelabs.event](https://github.com/tertle/com.bovinelabs.event) A high performance solution for safely creating events between systems in Unity ECS.
+- [UniFlux](https://github.com/xavierarpa/UniFlux) Easy to use, Super Optimized, Typed Event Driven with Flux for Unity.
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
