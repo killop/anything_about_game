@@ -3858,6 +3858,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/StarsX/RayTracedSPH
 - https://intro-to-restir.cwyman.org/
 - https://github.com/INedelcu/InlineRayTracingShadows
+- https://github.com/guiqi134/Area-ReSTIR
 - [dynamic-diffuse-global-illumination](https://blog.traverseresearch.nl/dynamic-diffuse-global-illumination-b56dc0525a0a)
 
 - https://github.com/airliang/unity-raytracing
@@ -4096,6 +4097,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/bartofzo/NativeTrees
 - https://github.com/emilianavt/BVHTools
 - https://github.com/VisualPinball/NativeTrees
+- https://github.com/WeiPhil/nbvh
 
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
@@ -4320,6 +4322,7 @@ Showing off the power of shader properties in Unity
 - [NativeStringCollections](https://github.com/kawai125/NativeStringCollections) The toolset to parse text files using C# JobSystem on Unity.
 - [c#零成本抽象](https://mp.weixin.qq.com/s/jenoW4Ls0yKLknSdLEEa0g)
 - https://github.com/Nyrest/FastGenericNew
+- https://github.com/xin9le/FastEnum
 - [garnet](https://github.com/microsoft/garnet) Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
