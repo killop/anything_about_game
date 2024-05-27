@@ -625,6 +625,7 @@ Table of Contents
  
 #### English
 - [articles-blog-posts-index](https://bartwronski.com/articles-blog-posts-index/)
+- https://speakerdeck.com/neuecc/ c#
 - [jeremyong](https://www.jeremyong.com/) TA GI
 - [shaderbits](https://shaderbits.com/) TA
 - [theorangeduck](https://theorangeduck.com/page/all) math animation
@@ -1178,6 +1179,7 @@ Table of Contents
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
 * [SmartTexture](https://github.com/phi-lira/SmartTexture) Unity tool to pack texture channels into a single texture. 
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
+* [VFXTextureMaker](https://github.com/haw2fregel/VFXTextureMaker)
 * [mixture](https://openupm.com/packages/com.alelievr.mixture/) Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime. Mixture is very flexible, easily customizable through ShaderGraph and a simple C# API, fast with it's GPU based workflow and compatible with all the render pipelines thanks to the new Custom Render Texture API.
 - https://github.com/StbSharp
 - [CC0Textures](https://github.com/keijiro/CC0TexturesUtils) Unity Editor scripts for preprocessing CC0 Textures 
@@ -1294,6 +1296,8 @@ Table of Contents
 * [LitMotion](https://github.com/AnnulusGames/LitMotion)
 * [AnimFlex](https://github.com/somedeveloper00/AnimFlex)
 * [Tween-Kit](https://github.com/AbdurRafay-Nasir/Tween-Kit) Enhance DOTween with Tween Kit: Seamless, modular components for effortless Tweening.
+* [Animate](https://github.com/sttz/Animate)
+* [softlimit](https://old.reddit.com/r/Unity3D/comments/1cy2cvu/softlimit_the_feature_thatll_make_your_project/)
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1417,11 +1421,14 @@ Table of Contents
 - https://github.com/ecidevilin/UnityBoneTools 
 - [refined-animation-property](https://github.com/natsuneko-laboratory/refined-animation-property)
 - [unity-animation-compressor](https://github.com/fish-ken/unity-animation-compressor)
+- [unity 动画精度优化](https://zhuanlan.zhihu.com/p/682790969)
+- [ImKeyframeReduction](https://github.com/phi16/ImKeyframeReduction)
 - [Animation-Repathing](https://github.com/hfcRed/Animation-Repathing) Feature rich Unity Editor tool to help streamline the process of changing the paths of animations
 - [animation-utils](https://github.com/needle-tools/animation-utils)
 - [animation-auto-assignment](https://github.com/natsuneko-laboratory/animation-auto-assignment) Unity Editor Extension that tracks changes on hierarchy and automatically repairs animation property paths.
 - https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier
 - https://github.com/rrazgriz/RATS
+- https://github.com/forestrf/UnityAnimationWindow
  
 
 ## Console/Command/Shell/Debugger
@@ -1661,12 +1668,12 @@ Table of Contents
 - https://github.com/dsasmblr/game-hacking/
 - https://github.com/kovidomi/game-reversing
 - [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
-
 * [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
 * [EpicFixShader](https://github.com/pema99/EpicFixShader) Patch shaders in AssetBundles to support Single Pass Stereo Instancing
 * [O-Z-Unity-Protector](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector)
 * [Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector) An Integrated Encryption & Protection Scheme for Unity Project(Mono & IL2CPP)
 * [O-Z-Unity-Protector](https://github.com/MonarchSolutions/O-Z-Unity-Protector)
+* [GameShield](https://github.com/DevsDaddy/GameShield) GameShield - An open-source solution to protect your Unity-based games. Anti-cheat, time-control, data ecnryption and memory protection and other security modules for your games.
 * [RemoteNET](https://github.com/theXappy/RemoteNET) Examine, create and interact with remote objects in other .NET processes.
  #### Unity-AssetBundle
 * [AssetsTools](https://github.com/nesrak1/AssetsTools.NET) 
@@ -1736,6 +1743,7 @@ Table of Contents
 - [vcdiff](https://github.com/SnowflakePowered/vcdiff)
 - [SharpHDiffPatch](https://github.com/CollapseLauncher/SharpHDiffPatch.Core)
  ## File Systems
+ - https://github.com/hadashiA/Unio Unio (short for unity native I/O) is a small utility set of I/O using native memory areas.
 - https://github.com/mattiasgustavsson/libs
 - https://icculus.org/physfs/
 - https://github.com/Tape-Worm/Gorgon/tree/master/Gorgon/Gorgon.FileSystem
@@ -2143,6 +2151,7 @@ Table of Contents
 - https://github.com/sienaiwun/Unity_TiledResource
 - https://github.com/YichenWu11/RVT
 - https://github.com/ACskyline/PVTUT
+- https://github.com/lifangjie/HDRPVirtualTexture
 - https://github.com/Unity-Technologies/Megacity-Sample
 - [MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer)
 - [DOTSoftheDead](https://github.com/illogika-studio/DOTSoftheDead) 
@@ -2311,6 +2320,7 @@ Fast, reliable, scalable.
 - [libplanet](https://github.com/planetarium/libplanet) Blockchain core in C#/.NET for persistent peer-to-peer online games 
 - [supersocket](https://docs.supersocket.net/) 国人的骄傲
 - [BeetleX](https://github.com/beetlex-io/BeetleX) high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution
+- [BeetleX.Light](https://github.com/beetlex-io/BeetleX.Light) Based on pipelines high performance dotnet core socket tcp communication components, support tls, http, https, websocket, rpc, mqtt, redis protocols, millions of connections are supported.
 - [SAEA](https://github.com/yswenli/SAEA) SAEA.Socket是一个高性能IOCP框架的 TCP，基于dotnet standard 2.0；Src中含有其应用测试场景，例如websocket、rpc、redis驱动、MVC WebAPI、轻量级消息服…
 - [ValveSockets-CSharp](https://github.com/nxrighthere/ValveSockets-CSharp) This repository provides a managed C# abstraction of GameNetworkingSockets library which is created and maintained by Valve Software. You will need to build the native library with all required dependencies before you get started.
 - [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
@@ -2459,6 +2469,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源 
 #### 2D Engines and Frameworks
 - [Ambient](https://github.com/AmbientRun/Ambient) The multiplayer game engine
+- [Dora-SSR](https://github.com/IppClub/Dora-SSR) Dora Project, Special Super Rare Edition
 - [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 - [Skybolt](https://github.com/Piraxus/Skybolt) Planetary rendering engine and aerospace simulation tools
 * [Agen](http://2dengine.com/page.php?p=features) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
@@ -2655,6 +2666,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/hafewa/unity-AI-Chat-Toolkit
 - https://github.com/Lunatic-Works/Nova
 - https://github.com/AkiKurisu/UniChat
+- https://github.com/Owmacohe/Descant?
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -3734,6 +3746,7 @@ Showing off the power of shader properties in Unity
 #### RenderPipelineFrameWork
 - https://github.com/aras-p/UnityGaussianSplatting
 - https://github.com/StressLevelZero
+- https://github.com/Valax321/RadishRenderPipeline
 - https://github.com/Hypnos-Render-Pipeline
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
 - https://github.com/haolange/InfinityRenderPipeline
@@ -3881,13 +3894,16 @@ Showing off the power of shader properties in Unity
 * [RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 * [PBRVulkan](https://github.com/Zielon/PBRVulkan) Vulkan Real-time Path Tracer Engine
 * [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
-* [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.
+* [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_t
+* 
+* racer) A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.
 - [UPGEN Lighting](https://forum.unity.com/threads/upgen-lighting-standard-hdrp-urp.898526/)
 - [Candela](https://github.com/swr06/Candela) Pathtraced Realtime Engine
 
 ##### DDGI
 - https://github.com/xuechao-chen/DDGI
 - https://github.com/flwmxd/LuxGI 
+- [RTXGI-DDGI-URP](https://github.com/SanYue-TechArt/RTXGI-DDGI-URP) RTXGI-DDGI Implementation with Unity (2022.3.17f1c1-URP14.0.9)
 ##### Metropolis Light Transport
 ##### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
@@ -4108,6 +4124,8 @@ Showing off the power of shader properties in Unity
 - [keen-vectors](https://assetstore.unity.com/packages/add-ons/keen-vectors-beta-254369)
 #### Post-Process
 - https://github.com/DevsDaddy/UnityXScaling Unity XScaling - a runtime framework for GPU-based textures and screen upscaling (super-resolution). Supports every platform.
+- https://github.com/SnapdragonStudios/snapdragon-gsr
+- https://github.com/tatoforever/snapdragon-gsr
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/AKGWSB/FFTConvolutionBloom
 - https://github.com/tkonexhh/X-PostProcessing-URP
@@ -4219,6 +4237,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/afatcoder/LeetcodeTop
 - https://www.scaler.com/topics/data-structures/
 - https://github.com/krahets/hello-algo	
+- https://github.com/WTFAcademy/WTF-zk
 	
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
@@ -4264,6 +4283,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
 - https://github.com/HalfLobsterMan/TimingWheel c# 时间轮优化
 - https://github.com/wangjia184/HashedWheelTimer HashedWheelTimer implemented in C# and .Net Standard inspired by io.netty.util.HashedWheelTimer
+- https://github.com/adammyhre/Unity-Improved-Timers
 - https://github.com/MonkSoul/TimeCrontab NET 全能 Cron 表达式解析库，支持 Cron 完整特性。
 - https://github.com/bitfaster/BitFaster.Caching 高性能cache 
 - https://github.com/ZiggyCreatures/FusionCache 高性能cache 
@@ -4273,6 +4293,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/thomhurst/ModularPipelines/
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
 - https://github.com/aelij/spanify span用法总结
+- https://github.com/draconware-dev/SpanExtensions.Net
 - https://github.com/jiangjinnan/NativeBuffering
 - https://github.com/timonkrebs/MemoizR Declarative Structured Concurrency for C#
 - [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
@@ -4743,6 +4764,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/CoffeeVampir3/Graphify?
 - https://github.com/alelievr/NodeGraphProcessor
 - https://github.com/haloman9527/3.0_GraphProcessor
+- https://github.com/chocola-mint/VisualScriptingKai
 
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
@@ -4753,6 +4775,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/3-Delta/Unity-UI
 - https://github.com/Skierhou/UISystem
 - https://github.com/LiShengYang-yiyi/YIUI
+- https://github.com/Avalon712/UniVue
 - [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
 - [MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) ViewSystem is a element based UI management system based on Unity GUI
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
@@ -4783,6 +4806,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
 - https://github.com/Giresharu/TMPro-Player
+- https://github.com/aillieo/TMPSpriteAssetCreator
 - [Unity UGUI开发，0GC更新视图](https://zhuanlan.zhihu.com/p/668253748)
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - https://github.com/gwaredd/UnityMarkdownViewer
@@ -4800,6 +4824,7 @@ Showing off the power of shader properties in Unity
 - [Unity-RuntimeEditorWindow](https://github.com/994935108/Unity-RuntimeEditorWindow)
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
 - [UI-Toolkit-Plus](https://github.com/ErnSur/UI-Toolkit-Plus)
+- https://github.com/Shaun-Fong/UIToolkit-FieldBinding
 - https://www.zoboui.com/
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://assetstore.unity.com/packages/tools/gui/flexbuilder-2023-flexbox-css-3-ui-245345
@@ -4999,6 +5024,7 @@ Showing off the power of shader properties in Unity
 - [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Debugging Utilities for Unity
 - [lineburst](https://github.com/bassmit/lineburst)  Plot functions and draw large amounts of debug lines, shapes and text to the Unity game and scene view 
 - [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast)
+- [UGizmo](https://github.com/harumas/UGizmo) Highly efficient gizmo drawer for Unity
 
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
@@ -5017,6 +5043,7 @@ Showing off the power of shader properties in Unity
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
 - [TopGames](https://blog.csdn.net/final5788)
+- https://gametorrahod.com/tag/unity-dots/
 - https://github.com/UnioGame/ECS.Features/
 - [multiplayer-resource-roundup](https://blog.unity.com/engine-platform/multiplayer-resource-roundup)
 - [ECS_Game_Demo](https://github.com/JiepengTan/ECS_Game_Demo)
@@ -5205,6 +5232,7 @@ Showing off the power of shader properties in Unity
 
 #### Asset-Management
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
+* [SimilarTextureCheckToolPublic](https://github.com/SaberZG/SimilarTextureCheckToolPublic) 一个用于检测项目内相似图片，并提供替换/删除的工具
 * [unity-project-pin-board](https://github.com/ichenpipi/unity-project-pin-board)
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 * [ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor)untiy工程分析工具
@@ -5241,7 +5269,6 @@ Showing off the power of shader properties in Unity
 - [SpriteAuditor](https://github.com/brunomikoski/SpriteAuditor) The missing tool to help you optimize your game
 - https://github.com/aniketrajnish/Unity-Collider-Optimizer
 - https://github.com/SarahWeiii/CoACD
-- [unity 动画精度优化](https://zhuanlan.zhihu.com/p/682790969)
 - [SubAssetTool](https://github.com/konsti219/SubAssetTool-vpm) Provides a Unity tool for managing Sub Assets
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
@@ -5362,6 +5389,7 @@ Showing off the power of shader properties in Unity
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/136512892/Unity-Multiplayer
+- https://github.com/Voltstro-Studios/Team-Capture?
 - https://github.com/insthync/UnityMultiplayerARPG_MMO
 - https://github.com/jynew/jynew
 - [Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) 仙剑奇侠传三（以及外传）C#/Unity实现
