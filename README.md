@@ -321,7 +321,7 @@ Table of Contents
     - [Create Model](#create-model)
     - [Mesh](#mesh)
       - [Fracture Mesh](#fracture-mesh)
-    - [Fog\&\&Smoke\&\&Cloud\&\&Atmospheric](#fogsmokecloudatmospheric)
+    - [Fog\&\&Smoke\&\&Cloud\&\&Atmospheric\&\&wind](#fogsmokecloudatmosphericwind)
     - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
@@ -1714,6 +1714,7 @@ Table of Contents
 - [WoWDBDefs](https://github.com/wowdev/WoWDBDefs)
 - [flaclibsharp](https://github.com/AaronLenoir/flaclibsharp)
 - [CathodeLib](https://github.com/OpenCAGE/CathodeLib) Functionality to parse and write various formats from the Cathode engine, used for modding Alien: Isolation.
+- [WinAVFS](https://github.com/DeepAQ/WinAVFS)
 #### Disassembly
 * [ILSpy](https://github.com/icsharpcode/ILSpy) .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 * [dnSpy](https://github.com/dnSpy/dnSpy) .NET debugger and assembly editor
@@ -2211,6 +2212,8 @@ Table of Contents
 
 #### C#
 - [DragonECS](https://github.com/DCFApixels/DragonECS) C# Entity Component System framework
+- [Friflo](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) fastest
+- [fennecs](https://github.com/thygrrr/fennecs) ...the tiny, tiny, high-energy Entity-Component System!
 - [ME.BECS](https://github.com/chromealex/ME.BECS) Bursted Entity Component System
 - [Entitas](https://github.com/sschmid/Entitas) Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 - [Ecstasy](https://github.com/neon-age/Ecstasy) Simplest powerful ECS for Unity. Flexible and fast. Works w/ Burst
@@ -3312,6 +3315,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [shaders-limiter](https://assetstore.unity.com/packages/tools/utilities/shaders-limiter-270827)
 #### Course/Article
 - https://techartaid.com/cheatsheet/
+- https://github.com/GraphicsReplicability
 - [branching-in-shaders](https://forum.unity.com/threads/branching-in-shaders.1231695/)
 - [技术美术学习大纲](https://zhuanlan.zhihu.com/p/401525846)
 - [图形学硬件拾遗](https://zhuanlan.zhihu.com/p/371469482)
@@ -4290,6 +4294,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/jitbit/FastCache
 - https://github.com/neon-sunset/fast-cache
 - https://github.com/LuchunPen/Fast-Hash-Collection
+- [FibonacciHeap](https://github.com/sqeezy/FibonacciHeap) C# implementation of a fibonacci heap structure.
 - https://github.com/thomhurst/ModularPipelines/
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
 - https://github.com/aelij/spanify span用法总结
@@ -5195,9 +5200,10 @@ Showing off the power of shader properties in Unity
 ##### Fracture Mesh
 - https://gitlab.com/dima13230/unity-libre-fracture
 
-#### Fog&&Smoke&&Cloud&&Atmospheric
+#### Fog&&Smoke&&Cloud&&Atmospheric&&wind
 - [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity 
 - [FogOfWar](https://github.com/QinZhuo/FogOfWar_ForUnity) unity实现的基于视野的战争迷雾
+- [GodOfWarWindSimulation](https://github.com/SaberZG/GodOfWarWindSimulation)
 - [Unity-URP-SmokeLighting](https://github.com/peeweek/Unity-URP-SmokeLighting)
 - https://github.com/vanish87/UnityVolumetricCloud
 - https://github.com/adrianpolimeni/RealTimeVolumetricClouds
@@ -5323,7 +5329,10 @@ Showing off the power of shader properties in Unity
 #### Raycast&&Sensor
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 - https://github.com/staggartcreations/Graphics-Raycast/
-- https://github.com/muveso/Unity-Detection-Sensor
+- [Sensor](https://github.com/muveso/Unity-Detection-Sensor)
+- [sensortoolkit](https://assetstore.unity.com/packages/tools/behavior-ai/sensortoolkit-2-205336)
+- [senses](https://assetstore.unity.com/packages/tools/behavior-ai/senses-279833)
+- [raycastpro](https://assetstore.unity.com/packages/tools/physics/raycastpro-214714)
 - [dynamic-raycast-system-2-0](https://assetstore.unity.com/packages/tools/integration/dynamic-raycast-system-2-0-c-jobs-123768)
 - [targeting-system-3](https://assetstore.unity.com/packages/add-ons/targeting-system-3-0-215501)
 
