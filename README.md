@@ -1919,6 +1919,7 @@ Table of Contents
 - [ForgedCore](https://github.com/ForgedWoW/ForgedCore) Forged Core is an open source server project for World of Warcraft written in C#. Based off CypherCore.
 - [Rhisis](https://github.com/Eastrall/Rhisis) Rhisis is an experimental FlyFF MMORPG emulator built with C# 12 and .NET 8
 - https://tsrpc.cn/
+- https://github.com/thkhxm/tgf
 #### Article
 - [danieljimenezmorales blog](https://danieljimenezmorales.github.io/)
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
@@ -2319,6 +2320,7 @@ Fast, reliable, scalable.
 - [SimpleWebTransport](https://github.com/James-Frowen/SimpleWebTransport?) WebSocket Server and client for unity designed for Mirror Networking
 - [Unity-Mirror-Helper-Scripts](https://github.com/Goodgulf281/Unity-Mirror-Helper-Scripts) A collection of helper scripts for (Unity3d) Mirror networking.
 - [aurora-engine-mirror-network-229925](https://assetstore.unity.com/packages/tools/game-toolkits/aurora-engine-mirror-network-229925) Aurora Engine - Mirror Network is ready made network solution for Aurora FPS Engine!
+- [SyncUtilForMirror](https://github.com/fuqunaga/SyncUtilForMirror)
 - [Ruffles](https://github.com/MidLevel/Ruffles) Lightweight and fully managed reliable UDP library. 
 - [libplanet](https://github.com/planetarium/libplanet) Blockchain core in C#/.NET for persistent peer-to-peer online games 
 - [supersocket](https://docs.supersocket.net/) 国人的骄傲
@@ -3703,6 +3705,7 @@ Showing off the power of shader properties in Unity
 * [ShaderUtilsForSRP](https://github.com/stalomeow/ShaderUtilsForSRP)
 * https://github.com/HuangJuanLR/Juan_ShaderandGraphGUI
 * [Unity Shader替换工具](https://zhuanlan.zhihu.com/p/688010572)
+* [bzshadergui](https://assetstore.unity.com/packages/tools/gui/bzshadergui-279195)
 ##### Interior
 - https://github.com/Gaxil/Unity-InteriorMapping
 - https://zhuanlan.zhihu.com/p/575453172
@@ -4598,6 +4601,7 @@ Showing off the power of shader properties in Unity
 - [HiAssetBundle_unity](https://github.com/hiramtan/HiAssetBundle_unity) Unity's asset bundle solution for end-users to access resources dynamically at runtime. 
 - [assetUpdater](https://github.com/sNaticY/assetUpdater-core) AssetUpdater is a Unity plugin which helps developers build assetbundles and download it easily 
 - [AddressableTools](https://github.com/UniGameTeam/UniGame.AddressableTools) Addressables utils for Unity3D
+- [com.unity.addressables](https://github.com/juniordiscart/com.unity.addressables) Addressables extended with the ability to build multiple catalogs, ideal for traditional DLC purposes.
 - [addressable-asset-system-chinese-manual](https://github.com/xiexx-game/addressable-asset-system-chinese-manual)
 - [EZAddresser](https://github.com/Haruma-K/EZAddresser)
 - [AssetBundle-ContentHasher](https://github.com/AndyMUnity/AssetBundle-ContentHasher) This tool can be integrated into a build pipeline in order to generate more reliable hashes for AssetBundles using Unity's built in pipeline.
@@ -4694,6 +4698,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/NoSLoofah/Unity-Buff-System
 - [深空之眼战斗模块拆解&个人对打击感的理解](https://zhuanlan.zhihu.com/p/569092956?) 
 - [动作游戏的动作系统是这样做的](https://mp.weixin.qq.com/s/MuySxYMjXZncKfwRDeE7HQ)
+- [action-timeline](https://assetstore.unity.com/packages/tools/utilities/action-timeline-273478)
 
 
 #### Occlusion Culling
@@ -4770,6 +4775,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/alelievr/NodeGraphProcessor
 - https://github.com/haloman9527/3.0_GraphProcessor
 - https://github.com/chocola-mint/VisualScriptingKai
+- [Lattice](https://github.com/Pontoco/Lattice) A visual scripting system for Unity ECS. Quickly create gameplay logic.
 
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
@@ -4787,6 +4793,7 @@ Showing off the power of shader properties in Unity
 - [fiber](https://github.com/unity-atoms/fiber)
 - [NRFramework](https://github.com/NRatel/NRFramework.UI)
 - https://github.com/blightue/UIEEx
+- https://github.com/codewriter-packages/TutorialMaskForUGUI
 - [CSReactive](https://github.com/labbbirder/CSReactive) 纯C#下实现Vue，特别针对Unity
 - [MVI4Unity](https://github.com/Wilson403/MVI4Unity) 基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）
 - [LiShengYang-yiyi](https://github.com/LiShengYang-yiyi) Unity3D UGUI Framework
@@ -5285,6 +5292,8 @@ Showing off the power of shader properties in Unity
 - [Unity材质冗余序列化数据清理](https://zhuanlan.zhihu.com/p/366636732) 
 - [UnityClearMaterailsProperties](https://github.com/tkweizhong/UnityClearMaterailsProperties)
 - https://github.com/Unity-Javier/SimpleEditorLogParser
+- [ProfilerModuleForShaderCompile](https://github.com/wotakuro/ProfilerModuleForShaderCompile/) This tool is an extension module of the Profiler that allows ShaderCompile to be listed in the Profiler.
+This tool not only lists ShaderCompiles, but also automatically creates ShaderVariantCollection assets from the ShaderCompile information.
 
 ##### Textrue Compression
 - [ASTC纹理压缩格式详解](https://zhuanlan.zhihu.com/p/158740249)
