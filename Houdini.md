@@ -29,3 +29,4 @@
 * [DASH](https://github.com/probiner/DASH) Quality of Life utilities package for SideFX Houdini.
 * [BeeHou](https://github.com/simonreeves/BeeHou) Houdini Package 
 * https://github.com/toadstorm/MOPS
+* https://github.com/csdjk/LcLLib-for-Houdini

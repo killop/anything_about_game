@@ -234,6 +234,7 @@ Table of Contents
       - [Path tracing](#path-tracing)
       - [RTX](#rtx)
       - [DDGI](#ddgi)
+      - [SurfelGI](#surfelgi)
       - [Metropolis Light Transport](#metropolis-light-transport)
       - [PhotonMapping](#photonmapping)
       - [Ambient occlusion](#ambient-occlusion)
@@ -1232,6 +1233,7 @@ Table of Contents
 - [spine](http://zh.esotericsoftware.com/)
 - [spine-optimize](https://github.com/506638093/spine-optimize)
 - [WaifuSpineRuntime](https://github.com/ZeroFlyFly/WaifuSpineRuntime)
+- https://github.com/fx-lange/unity-spline-scrubber
 - [live3d](http://www.zingfront.cn/live3d/)
 - [live2d](https://www.live2d.com/)
 - [dragonbones](http://dragonbones.effecthub.com/) 
@@ -1464,6 +1466,7 @@ Table of Contents
 - https://github.com/dklassic/APFrameworkUI
 - https://openupm.com/packages/com.bbbirder.shell/
 - [RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl)
+- [runtime-monitoring](https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring)
 
 ## Scenes
 #### Terrain
@@ -2156,6 +2159,7 @@ Table of Contents
 - https://github.com/lifangjie/HDRPVirtualTexture
 - https://github.com/Unity-Technologies/Megacity-Sample
 - [MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer)
+- https://github.com/Unity-Technologies/ECSGalaxySample/
 - [DOTSoftheDead](https://github.com/illogika-studio/DOTSoftheDead) 
 - https://github.com/decentraland/unity-renderer
 - https://github.com/CesiumGS/cesium-unity
@@ -2666,6 +2670,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/acdamiani/schema
 - https://github.com/HalfADog/Unity-RPGCore-HFSM
 - https://github.com/Yuan-ManX/ai-game-development-tools
+- https://github.com/baponkar/zombie-ai
 ##  Chat/Dialogue
 - https://github.com/AkiKurisu/Next-Gen-Dialogue/
 - https://github.com/hafewa/unity-AI-Chat-Toolkit
@@ -2980,6 +2985,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/chocola-mint/ChocoWater
 - https://github.com/Parrot222/Unity-URP-Underwater-Effects
 - https://github.com/Parrot222/Unity-Water-Shaders
+- https://github.com/SebLague/Fluid-Sim
 #### Glass
 - https://github.com/toadstorm/RainyGlassShader 
 - https://github.com/omid3098/Unity-URP-GlassShader
@@ -3894,6 +3900,7 @@ Showing off the power of shader properties in Unity
 * [simple-spectral](https://github.com/imallett/simple-spectral) A Simple Spectral Renderer
 ##### RTX
 * [Quartz](https://github.com/Nadrin/Quartz)  Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language.
+* https://github.com/keijiro/UnityDxrTest
 * [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)  A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
 * [WispRenderer](https://github.com/TeamWisp/WispRenderer) RTX Ray Tracing Renderer, made by Y3 students at Breda University of Applied Science https://teamwisp.github.io
 * [rtx-explore](https://github.com/rtx-on/rtx-explore) DirectX Raytracing Path Tracer
@@ -3911,6 +3918,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/xuechao-chen/DDGI
 - https://github.com/flwmxd/LuxGI 
 - [RTXGI-DDGI-URP](https://github.com/SanYue-TechArt/RTXGI-DDGI-URP) RTXGI-DDGI Implementation with Unity (2022.3.17f1c1-URP14.0.9)
+##### SurfelGI
+- https://github.com/W298/SurfelGI 
 ##### Metropolis Light Transport
 ##### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
@@ -4121,6 +4130,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/emilianavt/BVHTools
 - https://github.com/VisualPinball/NativeTrees
 - https://github.com/WeiPhil/nbvh
+- https://github.com/MircoWerner/VkLBVH
 
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
@@ -4968,6 +4978,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/cloudinnng/PluginHub
 - https://github.com/sudotman/BetterUnity
 - https://github.com/VictorHHT/VTools
+- https://github.com/csdjk/LcL-Tools-Unity 引擎优化向TA 的 工具箱
+- https://github.com/FronkonGames/GameWork-Foundation
 
 #### Rope
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
@@ -5003,12 +5015,14 @@ Showing off the power of shader properties in Unity
 - [Rider 中使用 Source Generator](https://qiita.com/amenone_games/items/0a99f38fd08911b62c3a)
 - [Arch.Extended](https://github.com/genaray/Arch.Extended) Extensions for Arch with some useful features like Systems, Source Generator and Utils.
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
+- [DomainReloadSG](https://github.com/LurkingNinja/DomainReloadSG)
 - [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
 - [RSCG_Examples](https://github.com/ignatandrei/RSCG_Examples) Roslyn Source Code Generators with Examples
 - [neovim-unity](https://github.com/Domeee/com.cloudedmountain.ide.neovim)\
 - [com.tsk.ide.vscode](https://github.com/Chizaruu/com.tsk.ide.vscode) Enhance your Unity development workflow with seamless code editor integration for VSCode.
 - [Burst2ManagedCall](https://github.com/Jura-Z/Burst2ManagedCall) How to call managed functions (like Thread.Sleep) from Burst
 - [Runtime-TypeCache](https://github.com/thebeardphantom/Runtime-TypeCache) Extending Unity's UnityEditor.TypeCache support to player builds.
+- [assemblytools](https://github.com/Jawsarn/com.jforge.assemblytools) JForge Assembly Tools is a collection of tools to help with creating and managing assemblies within a Unity Project
 
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
@@ -5037,6 +5051,7 @@ Showing off the power of shader properties in Unity
 - [lineburst](https://github.com/bassmit/lineburst)  Plot functions and draw large amounts of debug lines, shapes and text to the Unity game and scene view 
 - [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast)
 - [UGizmo](https://github.com/harumas/UGizmo) Highly efficient gizmo drawer for Unity
+- [path-linefx-support-cinemachine](https://assetstore.unity.com/packages/tools/particles-effects/path-linefx-support-cinemachine-234316)
 
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)

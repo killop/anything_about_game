@@ -1,4 +1,5 @@
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation)
+- https://github.com/rlczddl/awesome-3d-human-reconstruction
 - https://github.com/ikaijua/Awesome-AITools 
 - [ai-game-development-tools](https://github.com/Yuan-ManX/ai-game-development-tools)
 - [StableHoudini](https://github.com/stassius/StableHoudini)
@@ -35,6 +36,7 @@
 - https://xa9f20zq7mg.feishu.cn/wiki/JMrEwJEuSiKCQ4kR6xIcQ4BGneg
 ## Audio
 - [bark](https://github.com/suno-ai/bark)  Text-Prompted Generative Audio Model
+- https://github.com/jianchang512/ChatTTS-ui
 
 ## Animation
 - [EDGE](https://github.com/Stanford-TML/EDGE)
@@ -51,3 +53,5 @@
 - https://github.com/xiwan/comfyUI-workflows
 - https://github.com/cubiq/ComfyUI_IPAdapter_plus
 - https://github.com/TJ16th/comfyUI_TJ_NormalLighting
+- https://github.com/liusida/top-100-comfyui
+- https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
