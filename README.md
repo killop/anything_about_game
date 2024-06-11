@@ -1788,6 +1788,7 @@ Table of Contents
 - [Linux 内核详解以及内核缓冲区技术](https://blog.csdn.net/qq_44919483/article/details/89509559) 
 - https://github.com/microsoft/CopyOnWrite  
 ## Version-Control
+- https://github.com/NibbleByte/UnityWiseGit
 - https://github.com/kekyo/GitReader
 - https://github.com/unixorn/git-extra-commands
 - https://github.com/meaf75/GitNity
@@ -2430,6 +2431,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity-async-await-tcp](https://github.com/Bian-Sh/Unity-async-await-tcp) This is an async/await tcp communication (client and server inside) in unity.simple yet powerful！
 - [EntityNetworkingSystems](https://github.com/AncientEntity/EntityNetworkingSystems) A networking framework for Unity.
 - [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial) This is a managed sockets connector for the System.IO.Pipelines API,
+- [JNetwork](https://github.com/1176892094/JNetwork)
  #### C/CPP
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
@@ -2462,6 +2464,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [WatsonWebserver](https://github.com/dotnet/WatsonWebserver) Watson is the fastest, easiest way to build scalable RESTful web servers and services in C#.
 - [sisk](https://sisk.project-principium.dev/) Sisk is an lightweight web framework designed for fast and robust development, which allows you to take the full control of what you want to do.
 - https://github.com/cloudflare/pingora
+- [davinci](https://github.com/shamsdev/davinci) An esay-to-use image downloading and caching library for Unity
 ## GameEngine Design
 #### Collection
 - https://ossinsight.io/collections/game-engine/
@@ -3610,6 +3613,7 @@ Showing off the power of shader properties in Unity
 * [NativeSDF](https://github.com/Amarcolina/NativeSDF) Evaluate signed-distance-fields with speed using Unity Jobs and Burst
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 * [Raymarching-Engine-Unity](https://github.com/aniketrajnish/Raymarching-Engine-Unity) A raymarching engine for Unity
+* https://github.com/INedelcu/RayTracingDynamicMeshGeometry
 * [A Dataset and Explorer for 3D Signed Distance Functions](https://jcgt.org/published/0011/02/01/)
 * [sdf-explorer](https://github.com/tovacinni/sdf-explorer)
 * https://github.com/rgl-epfl/differentiable-sdf-rendering
@@ -4619,6 +4623,7 @@ Showing off the power of shader properties in Unity
 - [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
 - [AssetBundles-Browser](https://github.com/Rootjhon/AssetBundles-Browser)
 - [AssetManagement](https://github.com/dre0dru/AssetManagement)
+- https://github.com/NibbleByte/UnityAssetManagementTools
 - [AssetBundleLoadManager](https://github.com/TonyTang1990/AssetBundleLoadManager)
 - [QuarkAsset](https://github.com/DonnYep/QuarkAsset)
 
@@ -4719,6 +4724,7 @@ Showing off the power of shader properties in Unity
 - [ta-frustrum-culling](https://github.com/ThousandAnt/ta-frustrum-culling) Demo repository for URP + Frustrum Culling + Jobs
 - [culling](https://github.com/zcvdf/culling) Unity ECS implementation of a typical Culling system supporting Frustrum Culling and Occlusion Culling
 - [Unity GPU Based Occlusion Culling](https://github.com/przemyslawzaworski/Unity-GPU-Based-Occlusion-Culling)
+- https://github.com/SnapdragonStudios/snapdragon-oc
 #### ShaderGraph&&Effect
 - [ShaderGraph暴力学习](https://www.bilibili.com/video/BV1ZE411W7Nz?)
 - [赵京宇](https://www.bilibili.com/video/BV1ut41197aQ)
@@ -5168,6 +5174,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/friedforfun/ContextSteering
 - https://github.com/SunnyValleyStudio/Unity-2D-Context-steering-AI
 - [避障算法 - VO、RVO 以及 ORCA (RVO2)](https://indienova.com/indie-game-development/vo-rvo-orca/)
+- [CrowdPathfinding](https://github.com/MendelDebrabandere/CrowdPathfinding)
 #### Bone&&Spring
  - [Swing Bone](https://assetstore.unity.com/packages/tools/animation/swing-bone-90743)
  - [dynamic Bone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743)
@@ -5390,6 +5397,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
   [Game-ci](https://github.com/game-ci)自动测试和构建游戏项目的最快、最简单的方法
 - https://github.com/UNSH/Unity-Apple-Distribution-Workflow
 - https://github.com/tylearymf/UniHacker
+- https://github.com/unitycoder/UnityLauncherPro
 - [buildtool](https://github.com/superunitybuild/buildtool)
 - [unity-build-system](https://github.com/kwnetzwelt/unity-build-system)
 - [u3d](https://github.com/DragonBox/u3d/) fast lane
