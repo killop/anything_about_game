@@ -2444,6 +2444,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [workflow](https://github.com/sogou/workflow) C++ Parallel Computing and Asynchronous Networking Engine
 - [Server](https://github.com/shenmingik/Server) 基于muduo网络库的集群聊天服务器
 - [slikesoft](https://www.slikesoft.com/)
+- [RemoteNetwork](https://github.com/hn-lyf/RemoteNetwork) 远程组网
 
 #### Rust
 - [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
@@ -2668,6 +2669,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/crashkonijn/GOAP
 - https://github.com/AkiKurisu/AkiGOAP
 - https://github.com/TotalAI/TotalAI
+- https://github.com/AkiKurisu/AkiBT
 - [behavior-2](https://assetstore.unity.com/packages/tools/behavior-ai/behavior-2-game-creator-2-by-catsoft-works-262851)
 - [appccelerate](https://github.com/appccelerate/statemachine) asyn fsm
 - https://github.com/rwth-acis/Virtual-Agents-Framework
@@ -4136,6 +4138,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/VisualPinball/NativeTrees
 - https://github.com/WeiPhil/nbvh
 - https://github.com/MircoWerner/VkLBVH
+- https://github.com/zhujun3753/i-octree?
 
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
@@ -4161,6 +4164,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/NullTale/VolFx
 - [Anime-Speed-Lines](https://github.com/MirzaBeig/Anime-Speed-Lines) Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.
 - [LUTS](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
+- [cavifree](Screen space shader for Unity resembling the "cavity" effect in Blender)
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
 
@@ -4664,6 +4668,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/ALEXTANGXIAO/TEngine
 - [MojoUnity-Packages](https://github.com/scottcgi/MojoUnity-Packages)
 - https://github.com/821869798/unifantasy
+- https://github.com/sunsvip/GF_HybridCLR
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
@@ -4924,6 +4929,8 @@ Showing off the power of shader properties in Unity
 - [soft2d-for-unity](https://github.com/taichi-dev/soft2d-for-unity)
 - [GiLight2D](https://github.com/NullTale/GiLight2D) 2D Raytracing for Unity Urp
  #### Timeline
+- https://github.com/Celezt/UnityTimelineExtended
+- https://github.com/Brian-Jiang/PragmaTimeline
 - https://github.com/pofulu/TimelineTool
 - https://github.com/needle-tools/custom-timeline-editor
 - https://github.com/corle-bell/UnityTimeLineEvent

@@ -55,3 +55,4 @@
 - https://github.com/TJ16th/comfyUI_TJ_NormalLighting
 - https://github.com/liusida/top-100-comfyui
 - https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
+- https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
