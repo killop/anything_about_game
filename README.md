@@ -140,6 +140,7 @@ Table of Contents
 - [GameEngine Design](#gameengine-design)
     - [Collection](#collection-4)
     - [Article/Course](#articlecourse)
+    - [GUI](#gui)
     - [2D Engines and Frameworks](#2d-engines-and-frameworks)
     - [3D Engines and Frameworks](#3d-engines-and-frameworks)
 - [GameAI](#gameai)
@@ -367,6 +368,7 @@ Table of Contents
 - https://github.com/Kavex/GameDev-Resources
 - https://github.com/raizam/gamedev_libraries
 - https://github.com/qxiaofan/awesome_3d_restruction
+- https://nobsgames.stavros.io/
 - https://www.youtube.com/c/gdconf gdc 的各种talk，梯子自架
 - https://github.com/leomaurodesenv/game-datasets#readme 各种游戏的数据集
 - https://github.com/soruly/awesome-acg 嗯！acg
@@ -1749,6 +1751,7 @@ Table of Contents
  ## File Systems
  - https://github.com/hadashiA/Unio Unio (short for unity native I/O) is a small utility set of I/O using native memory areas.
 - https://github.com/mattiasgustavsson/libs
+- https://github.com/okhosting/awesome-storage?
 - https://icculus.org/physfs/
 - https://github.com/Tape-Worm/Gorgon/tree/master/Gorgon/Gorgon.FileSystem
 - https://github.com/xoofx/zio vfs
@@ -2285,6 +2288,7 @@ Table of Contents
 - [t4-templates-unity3d](https://github.com/deniszykov/t4-templates-unity3d) T4 Text Template Processor for Unity3D
 - [UriTemplates](https://github.com/tavis-software/Tavis.UriTemplates)
 - [ExCSS](https://github.com/TylerBrinks/ExCSS) A CSS Parser for .NET. It's BADA55!
+- [XamlX](https://github.com/kekekeks/XamlX)
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -2481,6 +2485,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源 
+#### GUI
+- https://github.com/DaveGreen-Games/ShapeEngine?
+- https://www.raylib.com/
 #### 2D Engines and Frameworks
 - [Ambient](https://github.com/AmbientRun/Ambient) The multiplayer game engine
 - [Dora-SSR](https://github.com/IppClub/Dora-SSR) Dora Project, Special Super Rare Edition
@@ -2897,6 +2904,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/yingyugang/FixedPointPhysics
 - https://github.com/devlinzhou/deterministic_float
 - https://github.com/CarlVerret/csFastFloat
+- https://github.com/XuToWei/SoftNumber/blob/main/SoftNumber/sfloat.cs
 - https://github.com/zeroerror/ZeroPhysics
 - https://github.com/chenwansal/FPPhysics2D
 - https://github.com/GameArki/FPMath
@@ -4101,6 +4109,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/LizzyFox-code/BrgContainer 
 #### GPU Driven
 - [LeoGPUDriven](https://github.com/lijundacom/LeoGPUDriven) 一个GPUDriven学习工程
+- [(Unity)GPU-Driven场景渲染](https://zhuanlan.zhihu.com/p/703147658)
 - [Realtime-Compute-Shader-Unity-PathTracer](https://github.com/killop/Realtime-Compute-Shader-Unity-PathTracer) A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
 - [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
 - [GPUDriven](https://github.com/GouGeLSJ/GPUDriven)
@@ -4563,9 +4572,11 @@ Showing off the power of shader properties in Unity
 
 #### Collection
 - https://github.com/tensorush/Awesome-Langs-Learning
+- https://gitlab.com/camelot/kickc KickC is a C-compiler for 6502-based platforms creating optimized and readable assembler code. The language is 95% standard C with a few limitations and a few extensions. Download Releases here
 - [cosmopolitan](https://github.com/jart/cosmopolitan) build-once run-anywhere c library
 - https://langium.org/
 - https://github.com/shining1984/PL-Compiler-Resource
+- [TypeRunner](https://github.com/marcj/TypeRunner) ts compiler
 - https://github.com/alilleybrinker/langs-in-rust
 - https://github.com/prathyvsh/pl-catalog
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
@@ -4772,6 +4783,7 @@ Showing off the power of shader properties in Unity
 - https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
 - https://github.com/brminnick/AsyncAwaitBestPractices
 - https://github.com/mgravell/PooledAwait
+- https://github.com/thomhurst/AsyncSemaphore
 - https://github.com/coryleach/UnityAsync
 - https://asyncexpert.com/
 - https://github.com/StephenCleary/AsyncEx
@@ -4798,7 +4810,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/haloman9527/3.0_GraphProcessor
 - https://github.com/chocola-mint/VisualScriptingKai
 - [Lattice](https://github.com/Pontoco/Lattice) A visual scripting system for Unity ECS. Quickly create gameplay logic.
-
+- [UnityVisualPlayable](https://github.com/SolarianZ/UnityVisualPlayable)
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
@@ -4840,6 +4852,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
 - https://github.com/Giresharu/TMPro-Player
+- https://github.com/Luca3317/TMPEffects
+https://github.com/markeahogan/UGUIVertexEffect
 - https://github.com/aillieo/TMPSpriteAssetCreator
 - [Unity UGUI开发，0GC更新视图](https://zhuanlan.zhihu.com/p/668253748)
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
@@ -5037,6 +5051,7 @@ Showing off the power of shader properties in Unity
 - [Burst2ManagedCall](https://github.com/Jura-Z/Burst2ManagedCall) How to call managed functions (like Thread.Sleep) from Burst
 - [Runtime-TypeCache](https://github.com/thebeardphantom/Runtime-TypeCache) Extending Unity's UnityEditor.TypeCache support to player builds.
 - [assemblytools](https://github.com/Jawsarn/com.jforge.assemblytools) JForge Assembly Tools is a collection of tools to help with creating and managing assemblies within a Unity Project
+- [Assembly](https://github.com/Bian-Sh/Friend-Assembly-By-asmref) 演示了使用 Assembly Definition References 实现无侵入的新增动态友元|Demonstrated the use of Assembly Definition References to achieve non-intrusive addition of dynamic friend assemblies
 
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
@@ -5094,6 +5109,7 @@ Showing off the power of shader properties in Unity
 * [util](https://github.com/bassmit/util) BURST compatible collections, math and utility functions
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NSprites](https://github.com/Antoshidza/NSprites) DOTS based sprite render system
+* [TextMeshDOTS](https://github.com/Fribur/TextMeshDOTS)
 * [UnitySpriteGPUInstancing](https://github.com/ownself/UnitySpriteGPUInstancing)
 * [IsoSorting](https://github.com/Sylmerria/IsoSorting) Isometric sorting system for Unity using ECS
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
@@ -5305,6 +5321,7 @@ Showing off the power of shader properties in Unity
 - [render-order-settings-editor](https://assetstore.unity.com/packages/tools/utilities/render-order-settings-editor-226896?)
 - [Choosing the Right Load Type in Unity’s Audio Import Settings](https://medium.com/@made-indrayana/choosing-the-right-load-type-in-unitys-audio-import-settings-1880a61134c7)
 - [Unity 下网格内存的优化](https://mp.weixin.qq.com/s/OB5oyokEhf1psyzsFvgjoQ)
+- [Unity 下网格内存的优化](https://zhuanlan.zhihu.com/p/396822196)
 - https://github.com/starburst997/Unity.Trimmer 
 - [missing-component-info](https://github.com/zhaoguohao/missing-component-info)
 - [Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter)
@@ -5313,6 +5330,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/aniketrajnish/Unity-Collider-Optimizer
 - https://github.com/SarahWeiii/CoACD
 - [SubAssetTool](https://github.com/konsti219/SubAssetTool-vpm) Provides a Unity tool for managing Sub Assets
+- https://github.com/quabug/unity-pack Create an Unity Package from directory
+- https://github.com/markeahogan/ImporterPresets
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
 - [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
@@ -5435,6 +5454,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
  - [UnityMobileSupport](https://github.com/CyberAgentGameEntertainment/UnityMobileSupport)
  - [GKNativeExtensions](https://github.com/dark-1-games/GKNativeExtensions) Provides GameKit bindings for Mono interoperability. Works on Unity (tested with 2018.3).
  - [umi](https://github.com/mopsicus/umi) Unity mobile input (UMI) plugin for Android and iOS, allows to use features of mobile native input fields
+ - [keystore](https://github.com/dreamcodestudio/com.dreamcode.mobile.android-keystore)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/136512892/Unity-Multiplayer

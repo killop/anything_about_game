@@ -37,6 +37,7 @@
 ## Audio
 - [bark](https://github.com/suno-ai/bark)  Text-Prompted Generative Audio Model
 - https://github.com/jianchang512/ChatTTS-ui
+- https://github.com/panyanyany/Awesome-ChatTTS
 
 ## Animation
 - [EDGE](https://github.com/Stanford-TML/EDGE)
@@ -56,3 +57,6 @@
 - https://github.com/liusida/top-100-comfyui
 - https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
+
+## ML
+- https://github.com/Balint-H/mj-unity-tutorial?
