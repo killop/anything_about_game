@@ -34,9 +34,6 @@ Table of Contents
 - [Game-Design-Tool](#game-design-tool)
     - [Collection](#collection-1)
     - [Voxel](#voxel)
-    - [Font](#font)
-      - [BitMap](#bitmap)
-        - [Free-Font](#free-font)
     - [Audio](#audio)
     - [Music-Tool/Editor](#music-tooleditor)
     - [Video-Tool/Editor](#video-tooleditor)
@@ -167,7 +164,7 @@ Table of Contents
 - [Game-BenchMark/Metric/Tool](#game-benchmarkmetrictool)
     - [Common](#common-1)
     - [GPU](#gpu)
-- [ComputerGraphics \&\& Shading](#computergraphics--shading)
+- [ComputerGraphics \&\& Shadingv](#computergraphics--shadingv)
     - [Conference](#conference)
     - [Journal](#journal)
     - [Group](#group)
@@ -302,6 +299,9 @@ Table of Contents
     - [Node-Editor](#node-editor)
     - [AI](#ai)
     - [UI](#ui)
+    - [Font/Text](#fonttext)
+      - [BitMap](#bitmap)
+      - [Free-Font](#free-font)
     - [UI-Animation](#ui-animation)
     - [2D](#2d)
     - [Timeline](#timeline)
@@ -905,22 +905,7 @@ Table of Contents
 *  [VoxelShop](https://blackflux.com/index.php)
 *  [UnityRealtimeVoxelizer](https://github.com/seyakara/UnityRealtimeVoxelizer)
 
-#### Font
-##### BitMap
-- [Unity-BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter)
-- [littera](http://kvazars.com/littera/)
-- [bmglyph](https://www.bmglyph.com/)
-- [glyphdesigner](https://www.71squared.com/glyphdesigner)
-- [shoebox](http://renderhjs.net/shoebox/)
-###### Free-Font
-- https://www.100font.com/  chinese font
-- https://www.hellofont.cn/ chinese font
-- https://github.com/lxgw/LxgwNeoXiHei chinese font
-- https://github.com/DrXie/OSFCC chinese font
-- https://www.fontspace.com/ english font
-- https://www.dafont.com/   english font
-- https://www.1001fonts.com/ english font
-- https://lana-ro.itch.io/sra-free-pixel-font-pack pixel-font-pack
+
 #### Audio
 - [dspmotion](http://tsugi-studio.com/web/en/products-dspmotion.html)
 - https://github.com/raysan5/rfxgen
@@ -1302,6 +1287,7 @@ Table of Contents
 * [Tween-Kit](https://github.com/AbdurRafay-Nasir/Tween-Kit) Enhance DOTween with Tween Kit: Seamless, modular components for effortless Tweening.
 * [Animate](https://github.com/sttz/Animate)
 * [softlimit](https://old.reddit.com/r/Unity3D/comments/1cy2cvu/softlimit_the_feature_thatll_make_your_project/)
+* [UniTaskAnimations](https://github.com/smiledir1/UniTaskAnimations)
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1324,6 +1310,7 @@ Table of Contents
 - https://assetstore.unity.com/packages/tools/animation/motion-matching-for-unity-145624 
 - https://github.com/orangeduck/Motion-Matching
 - https://forum.unity.com/threads/released-want-good-3d-character-animation-but-are-short-on-time-budget-or-training-help-is-here.392317/
+- [motion-matching-system-for-uni](https://assetstore.unity.com/packages/tools/animation/motion-matching-system-for-unity-257707) unity-plugin
 #### Movement
 - [deadReckoning1](https://www.cnblogs.com/freebird92/archive/2011/12/19/2293287.html) 
 - [deadReckoning2](https://nashnie.github.io/gameplay/2018/12/03/networked-movement.html)
@@ -1413,6 +1400,7 @@ Table of Contents
 - [CustomBody](https://github.com/MusouCrow/CustomBody) A wheel of KinematicBody
 - [platformer-project-206584](https://assetstore.unity.com/packages/templates/systems/platformer-project-206584)
 - [fpscontroller](https://github.com/atil/fpscontroller)
+- [dots-animation-system](https://assetstore.unity.com/packages/tools/utilities/dots-animation-system-285657)
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 - [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
@@ -1662,6 +1650,7 @@ Table of Contents
 #### Collection
 - [Game-Cheating-Tutorial](https://github.com/BeneficialCode/Game-Cheating-Tutorial)
 - [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
+- [lamda](https://github.com/rev1si0n/lamda)
 - [UnityResolve](https://github.com/issuimo/UnityResolve.hpp) Unity引擎C++接口 | Unity Engine C++ API | Mono/il2cpp | 支持 Windows, Android, Linux | Game Cheat | 游戏作弊
 - [GameExtractor](https://github.com/wattostudios/GameExtractor) Reads and writes thousands of different archive and image formats used in games.
 - [puyotools]( https://github.com/nickworonekin/puyotools) Puyo Tools is a collection of tools and libraries used to access the contents of various game files. Although it was initially built to handle files used in Puyo Puyo games, it can handle files used in other games as well
@@ -1687,6 +1676,7 @@ Table of Contents
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * https://github.com/zhangjiequan/AssetStudio
+* https://github.com/SiMaLaoShi/AssetStudio_Tuanjie
 * https://github.com/RazTools/Studio
 * [HoYoStudio](https://github.com/TomyJan/HoYoStudio)
 * [CNStudio](https://github.com/Razmoth/CNStudio)
@@ -1725,7 +1715,8 @@ Table of Contents
 * [dnSpy](https://github.com/dnSpy/dnSpy) .NET debugger and assembly editor
 * [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
 * [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) Unity il2cpp reverse engineer
-* [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI) 
+* [Il2CppDumper-GI](https://github.com/nitrog0d/Il2CppDumper-GI)
+* https://github.com/badApple001/Il2cppEncrtypt 
 * [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) Powerful automated tool for reverse engineering Unity IL2CPP binaries www.djkaty.com
 * [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) Work-in-progress tool to reverse unity's IL2CPP toolchain.
 * [UnityFusionCLR](https://github.com/Phantomxm2021/UnityFusionCLR)
@@ -2456,6 +2447,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/uNetworking/uWebSockets
 - https://github.com/scanfing/HttpFileServer
 - https://actix.rs/
+- https://github.com/sableangle/UnityHTTPServer
 - https://github.com/codeskyblue/gohttpserver
 - https://github.com/Dreamacro/clash
 - https://github.com/filebrowser/filebrowser
@@ -2904,7 +2896,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/yingyugang/FixedPointPhysics
 - https://github.com/devlinzhou/deterministic_float
 - https://github.com/CarlVerret/csFastFloat
-- https://github.com/XuToWei/SoftNumber/blob/main/SoftNumber/sfloat.cs
+- https://github.com/XuToWei/SoftNumber/
+- https://github.com/XuToWei/com.unity.softfloat
 - https://github.com/zeroerror/ZeroPhysics
 - https://github.com/chenwansal/FPPhysics2D
 - https://github.com/GameArki/FPMath
@@ -3003,6 +2996,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### Glass
 - https://github.com/toadstorm/RainyGlassShader 
 - https://github.com/omid3098/Unity-URP-GlassShader
+- https://github.com/Tiitan/GlassSystem
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
@@ -3056,6 +3050,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [MemoryProfiler](https://github.com/larryhou/MemoryProfiler)
 - [ScreenshotToUnityProfiler](https://github.com/wotakuro/ScreenshotToUnityProfiler)
 - [speedscope](https://www.speedscope.app/)
+- https://github.com/jlfwong/speedscope
 - [ULogViewer](https://github.com/carina-studio/ULogViewer)
 - [UnityIL2CPP包Crash闪退利用Android Logcat还原符号表堆栈日志](https://www.jianshu.com/p/2000f524879d)
 
@@ -3094,7 +3089,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [OverdrawMonitor](https://github.com/Nordeus/Unite2017/tree/master/OverdrawMonitor)
 - [OverdrawChecker](https://github.com/haw2fregel/OverdrawChecker)
 - [OverdrawMonitor](https://github.com/ZBlueLine/OverdrawMonitor)
-## ComputerGraphics && Shading
+## ComputerGraphics && Shadingv
 
 #### Conference
 - [highperformancegraphics](https://www.highperformancegraphics.org/)
@@ -3300,6 +3295,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [UnityShaderParser](https://github.com/pema99/UnityShaderParser) UnityShaderParser
 - [spir](https://www.khronos.org/spir/) The Industry Open Standard Intermediate Language for Parallel Compute and Graphics
 - [DirectX Intermediate Language](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/DXIL.rst)
+- [XenoAtom.ShaderCompiler](https://github.com/XenoAtom/XenoAtom.ShaderCompiler) Provides a .NET library, a tool executable and an integration of shaderc compiler into MSBuild for compiling all your GLSL/HLSL files to SPIR-V.
 - [AMD Developer Guides, Manuals & ISA Documents](https://developer.amd.com/resources/developer-guides-manuals/)
 - [Parallel Thread Execution ISA Version 7.5](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html)
 - [CUDA Binary Utilities](https://docs.nvidia.com/cuda/cuda-binary-utilities/index.html#instruction-set-ref)
@@ -3624,6 +3620,7 @@ Showing off the power of shader properties in Unity
 * [NativeSDF](https://github.com/Amarcolina/NativeSDF) Evaluate signed-distance-fields with speed using Unity Jobs and Burst
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 * [Raymarching-Engine-Unity](https://github.com/aniketrajnish/Raymarching-Engine-Unity) A raymarching engine for Unity
+* [raymarcher](https://assetstore.unity.com/packages/tools/game-toolkits/raymarcher-168069) unity-plugin
 * https://github.com/INedelcu/RayTracingDynamicMeshGeometry
 * [A Dataset and Explorer for 3D Signed Distance Functions](https://jcgt.org/published/0011/02/01/)
 * [sdf-explorer](https://github.com/tovacinni/sdf-explorer)
@@ -4841,27 +4838,11 @@ Showing off the power of shader properties in Unity
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/scottcgi/MojoUnity-Packages
-- https://github.com/coding2233/TextInlineSprite
-- https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
-- https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set
-- https://github.com/akof1314/Unity-TextMeshPro-DynamicText
-- https://github.com/TonyViT/CurvedTextMeshPro
-- https://github.com/jp-netsis/RubyTextMeshPro
-- https://github.com/codewriter-packages/textmeshpro-spriteatlas-support
-- https://github.com/FallingXun/
-- https://github.com/Ikaroon/TMP3D
-- https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
-- https://github.com/Giresharu/TMPro-Player
-- https://github.com/Luca3317/TMPEffects
-https://github.com/markeahogan/UGUIVertexEffect
-- https://github.com/aillieo/TMPSpriteAssetCreator
+- https://github.com/markeahogan/UGUIVertexEffect
 - [Unity UGUI开发，0GC更新视图](https://zhuanlan.zhihu.com/p/668253748)
-- https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
+
 - https://github.com/gwaredd/UnityMarkdownViewer
 - https://github.com/mitay-walle/com.mitay-walle.text-asset-inspector-edit
-- https://github.com/Wilson403/Html2UnityRich
-- https://github.com/garsonlab/GText
-- https://github.com/redbluegames/unity-text-typer  
 - [easy-multiple-healthbar](https://assetstore.unity.com/packages/tools/gui/easy-multiple-healthbar-193986)
 - https://uiforia.io/
 - https://github.com/LudiKha/Graphene
@@ -4885,13 +4866,9 @@ https://github.com/markeahogan/UGUIVertexEffect
 - https://github.com/feifeid47/Unity-UI-Adapter
 - https://github.com/Haruma-K/UnityScreenNavigator
 - https://github.com/mitay-walle/com.mitay-walle.ui-circle-segmented
-- https://github.com/506638093/RichText 头顶血条
-- https://github.com/wuxiongbin/uHyperText
-- https://github.com/coding2233/TextInlineprite
-- https://gitcode.net/linxinfa/UnityEmojiTextDemo
 - https://edu.uwa4d.com/course-intro/0/127
 - https://github.com/Unity-UI-Extensions/com.unity.uiextensions
-- [modular](https://assetstore.unity.com/packages/3d/gui/modular-3d-text-in-game-3d-ui-system-159508) unity 3d ui
+
 - https://github.com/mattak/Unidux
 - https://github.com/kirurobo/UniWindowController 
 - https://github.com/liuhaopen/UGUI-Editor
@@ -4906,6 +4883,7 @@ https://github.com/markeahogan/UGUIVertexEffect
 - [ui-particle-image](https://assetstore.unity.com/packages/tools/gui/ui-particle-image-235001) unity-plugin
 - [canvas-particle-system](https://assetstore.unity.com/packages/tools/particles-effects/canvas-particle-system-64134) unity-plugin
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
+- https://github.com/PandaArcade/UIOutline
 - [Shader2D](https://github.com/nightyan/Shader2D) Shader2D: some 2d shader effect
 - [Sample file of Unity SYNC2022 "Rich UI effects created with shader and animation"](https://github.com/applibot-inc/sync2022-ui-sample-techbot)
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
@@ -4918,6 +4896,48 @@ https://github.com/markeahogan/UGUIVertexEffect
 - [UniversalInventorySystem](https://github.com/Heymity/UniversalInventorySystem)
 - [uLui](https://github.com/LingJiJian/uLui) unity3d - advanced control library
 - [uis](https://github.com/mopsicus/uis) Unity infinite scroller (UIS) is an extension allows you to use the ScrollRect control as an infinite scroller/spinner
+
+#### Font/Text
+- https://github.com/506638093/RichText 头顶血条 
+- https://github.com/wuxiongbin/uHyperText 
+- https://github.com/Wilson403/Html2UnityRich
+- https://github.com/garsonlab/GText
+- https://github.com/redbluegames/unity-text-typer   
+- https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
+- https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set
+- https://github.com/akof1314/Unity-TextMeshPro-DynamicText
+- https://github.com/TonyViT/CurvedTextMeshPro
+- https://github.com/jp-netsis/RubyTextMeshPro
+- https://github.com/FallingXun/
+- https://github.com/Ikaroon/TMP3D
+- https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
+- https://github.com/Giresharu/TMPro-Player
+- https://github.com/Luca3317/TMPEffects
+- https://github.com/aillieo/TMPSpriteAssetCreator
+- https://github.com/coding2233/TextInlineSprite 
+- https://github.com/codewriter-packages/textmeshpro-spriteatlas-support  
+- https://github.com/coding2233/TextInlineprite
+- https://gitcode.net/linxinfa/UnityEmojiTextDemo 
+- https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
+- [modular](https://assetstore.unity.com/packages/3d/gui/modular-3d-text-in-game-3d-ui-system-159508) unity 3d ui 
+- https://github.com/wantdabo/goblin.ui.fontcreator
+
+##### BitMap
+- [Unity-BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter)
+- [littera](http://kvazars.com/littera/)
+- [bmglyph](https://www.bmglyph.com/)
+- [glyphdesigner](https://www.71squared.com/glyphdesigner)
+- [shoebox](http://renderhjs.net/shoebox/)
+##### Free-Font
+- https://www.100font.com/  chinese font
+- https://www.hellofont.cn/ chinese font
+- https://github.com/lxgw/LxgwNeoXiHei chinese font
+- https://github.com/DrXie/OSFCC chinese font
+- https://www.fontspace.com/ english font
+- https://www.dafont.com/   english font
+- https://www.1001fonts.com/ english font
+- https://lana-ro.itch.io/sra-free-pixel-font-pack pixel-font-pack
+
 #### UI-Animation
 - [UnityUIPlayables](https://github.com/Haruma-K/UnityUIPlayables) 
 - [Dash](https://github.com/pshtif/Dash)
@@ -4948,6 +4968,7 @@ https://github.com/markeahogan/UGUIVertexEffect
 - https://github.com/pofulu/TimelineTool
 - https://github.com/needle-tools/custom-timeline-editor
 - https://github.com/corle-bell/UnityTimeLineEvent
+- https://github.com/tanitta/TimelineBindingResolver
 - https://github.com/k-okawa/WaypointSystemForTimeline
 - https://github.com/ddionisio/MateAnimator
 - https://github.com/snaphat/UnityTimelineTools
@@ -5285,6 +5306,7 @@ https://github.com/markeahogan/UGUIVertexEffect
 * [QuickEye-Utility](https://github.com/ErnSur/QuickEye-Utility)
 * https://github.com/Brian-Jiang/SmartReference
 * https://github.com/AnnulusGames/Alchemy
+* https://github.com/AlexeyTaranov/SerializeReferenceDropdown
 * [SaintsField](https://github.com/TylerTemp/SaintsField) A Unity Inspector extension tools focusing on script fields inspector enhancement
 * [ProjectWindowHistory](https://github.com/Yusuke57/ProjectWindowHistory)
 
@@ -5331,6 +5353,7 @@ https://github.com/markeahogan/UGUIVertexEffect
 - https://github.com/SarahWeiii/CoACD
 - [SubAssetTool](https://github.com/konsti219/SubAssetTool-vpm) Provides a Unity tool for managing Sub Assets
 - https://github.com/quabug/unity-pack Create an Unity Package from directory
+- https://github.com/HakuSystems/EasyExtractUnitypackage
 - https://github.com/markeahogan/ImporterPresets
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
@@ -5362,6 +5385,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
  
 #### Message Bus  
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
+- [wolverine](https://github.com/JasperFx/wolverine)
 - [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) - A generic Event-Bus
 - [Unibus](https://github.com/mattak/Unibus) - Unibus is event passing system
 - [klab-messagebuses-unity](https://github.com/KLab/klab-messagebuses-unity) - Message bus

@@ -57,6 +57,7 @@
 - https://github.com/liusida/top-100-comfyui
 - https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
+- https://github.com/Comfy-Org/comfy-cli
 
 ## ML
 - https://github.com/Balint-H/mj-unity-tutorial?
