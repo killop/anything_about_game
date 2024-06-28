@@ -98,6 +98,7 @@ Table of Contents
 - [Patch](#patch)
 - [File Systems](#file-systems)
 - [IO](#io)
+- [Linux](#linux)
 - [Version-Control](#version-control)
     - [article](#article-1)
     - [PythonTool](#pythontool)
@@ -1764,6 +1765,7 @@ Table of Contents
 - https://github.com/SpryFox/DarkConfig
 - [SaveLoadSystem](https://github.com/Zoroiscrying/com.zoroiscrying.core-game-systems/tree/main/Runtime/SaveLoadSystem)
 - [VirtualFileSystem](https://github.com/Atypical-Consulting/VirtualFileSystem)
+- https://github.com/IntoTheDev/Save-System-for-Unity
 - https://github.com/FoundatioFx/Foundatio/blob/master/src/Foundatio/Storage/FolderFileStorage.cs
 - https://github.com/CodeSmile-0000011110110111/de.codesmile.assetdatabase
 
@@ -1776,11 +1778,15 @@ Table of Contents
 - [I/O模型（同步、非同步、阻塞、非阻塞）总结](https://www.cnblogs.com/z-sm/p/6680141.html)
 - [聊聊BIO，NIO和AIO](https://www.jianshu.com/p/ef418ccf2f7d)
 - [深度解析nio、epoll多路复用等网络编程模型](https://www.bilibili.com/video/BV1bK41177Mo/)
+- [20种不同并发模型示例，带你深入理解并发模型](https://cloud.tencent.com/developer/article/2420478)
 - [清华大牛权威讲解nio,epoll,多路复用](https://www.bilibili.com/video/BV11K4y1C7rm?p=2)
 - [网络 IO 演变过程](https://zhuanlan.zhihu.com/p/353692786)
+- [每个程序员都应该了解的硬件知识](https://cloud.tencent.com/developer/article/2404457)
 - [Linux I/O 原理和 Zero-copy 技术全面揭秘](https://zhuanlan.zhihu.com/p/308054212)
 - [Linux 内核详解以及内核缓冲区技术](https://blog.csdn.net/qq_44919483/article/details/89509559) 
 - https://github.com/microsoft/CopyOnWrite  
+## Linux
+-  [linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 ## Version-Control
 - https://github.com/NibbleByte/UnityWiseGit
 - https://github.com/kekyo/GitReader
@@ -2272,13 +2278,13 @@ Table of Contents
 - [dotliquid](https://github.com/dotliquid/dotliquid) .NET Port of Tobias Lütke's Liquid template language. 
 - [fluid](https://github.com/sebastienros/fluid/) Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language. 
 - [Nustache](https://github.com/jdiamond/Nustache) Logic-less templates for .NET
-- [UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen)
 - [nevod](https://nevod.io) Nevod is a language and technology for pattern-based text search. It is specially aimed to rapidly reveal entities and their relationships in texts written in the natural language.
 - [AngouriMath](https://github.com/asc-community/AngouriMath) Open-source cross-platform symbolic algebra library for C# and F#. One of the most powerful in .NET. Can be used for both production and research purposes
 - [t4](https://github.com/faster-games/t4) T4 text template generative importer for Unity3D
 - [t4-templates-unity3d](https://github.com/deniszykov/t4-templates-unity3d) T4 Text Template Processor for Unity3D
 - [UriTemplates](https://github.com/tavis-software/Tavis.UriTemplates)
 - [ExCSS](https://github.com/TylerBrinks/ExCSS) A CSS Parser for .NET. It's BADA55!
+- [Csv-CSharp](https://github.com/AnnulusGames/Csv-CSharp)
 - [XamlX](https://github.com/kekekeks/XamlX)
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
@@ -2482,6 +2488,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.raylib.com/
 #### 2D Engines and Frameworks
 - [Ambient](https://github.com/AmbientRun/Ambient) The multiplayer game engine
+- [EvoEngine](https://github.com/edisonlee0212/EvoEngine) An early-stage, cross-platform interactive application and rendering framework.
 - [Dora-SSR](https://github.com/IppClub/Dora-SSR) Dora Project, Special Super Rare Edition
 - [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 - [Skybolt](https://github.com/Piraxus/Skybolt) Planetary rendering engine and aerospace simulation tools
@@ -3219,9 +3226,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) SALVIA is the rasterizer based software renderer. The goal of SALVIA is capacity of Direct3D 10+.
 #### 3rd-Binding
 - [EmberGL](https://github.com/EmberGL-org/EmberGL) EmberGL (Ember Graphics Library) is a low-level open source graphics library
-- [veldrid](https://github.com/veldrid/veldrid) A low-level, portable graphics library for .NET
 - [igl](https://github.com/facebook/igl) Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
+- [XenoAtom](https://github.com/XenoAtom/XenoAtom.Graphics)
 - [sharpdx](http://sharpdx.org/) SharpDX is an open-source managed .NET wrapper of the DirectX API.
 - [SharpVulkan](https://github.com/jwollen/SharpVulkan) C# bindings for the Vulkan graphics API, used by the Xenko game engine.
 - [VulkanSharp](https://github.com/mono/VulkanSharp) Open source .NET binding for the Vulkan API 
@@ -4575,6 +4582,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/shining1984/PL-Compiler-Resource
 - [TypeRunner](https://github.com/marcj/TypeRunner) ts compiler
 - https://github.com/alilleybrinker/langs-in-rust
+- https://github.com/Kixiron/rust-langdev
 - https://github.com/prathyvsh/pl-catalog
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit)
 - [awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
@@ -5065,6 +5073,7 @@ Showing off the power of shader properties in Unity
 - [Arch.Extended](https://github.com/genaray/Arch.Extended) Extensions for Arch with some useful features like Systems, Source Generator and Utils.
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
 - [DomainReloadSG](https://github.com/LurkingNinja/DomainReloadSG)
+- [UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen) 
 - [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
 - [RSCG_Examples](https://github.com/ignatandrei/RSCG_Examples) Roslyn Source Code Generators with Examples
 - [neovim-unity](https://github.com/Domeee/com.cloudedmountain.ide.neovim)\
@@ -5442,10 +5451,11 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
 - [zhixi](https://www.zhixi.com/) 国人做的xmind
 ## UnityBuild
+- [jenkins-shared-library](https://github.com/DreamPWJ/jenkins-shared-library/) One For All DevOps, Powerful, flexible and easy-to-use, multi-terminal CI/CD shared library pipeline（ 强大灵活易用的多端CI/CD共享库流水线 ）
 - [JenkinsUnityPyAutoMator](https://github.com/Eerrly/JenkinsUnityPyAutoMator) 通过Jenkins服务使用python语言来对Unity和周边进行构建和自动化操作
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
 - [Usdk](https://github.com/honghuachen/Usdk) 这是一个Unity3D移动平台sdk快速适配框架和多渠道打包平台
-  [Game-ci](https://github.com/game-ci)自动测试和构建游戏项目的最快、最简单的方法
+- [Game-ci](https://github.com/game-ci)自动测试和构建游戏项目的最快、最简单的方法
 - https://github.com/UNSH/Unity-Apple-Distribution-Workflow
 - https://github.com/tylearymf/UniHacker
 - https://github.com/unitycoder/UnityLauncherPro
