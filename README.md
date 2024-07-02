@@ -2568,6 +2568,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 
 #### 3D Engines and Frameworks
+* [Xultaik](https://github.com/FaberSanZ/Xultaik?)
 * [NextEngine](https://github.com/CompilerLuke/NextEngine) NextEngine is designed with rapid iteration and high-end desktop graphics in mind.
 * [Prowl](https://github.com/michaelsakharov/Prowl)
 * [LinaEngine](https://github.com/inanevin/LinaEngine) Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
@@ -5563,6 +5564,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://zhuanlan.zhihu.com/p/34213415
 - [有哪些非游戏领域的书籍读后有利于显著提升游戏策划和设计水平](https://www.zhihu.com/question/36162464)
 - [国外游戏理论研究的前沿都在研究什么？](https://www.zhihu.com/question/50253977/answer/120147034)
+ 
 
 #### 镜头
 - https://www.zhihu.com/people/cptz-23
