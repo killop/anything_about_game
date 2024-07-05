@@ -101,7 +101,7 @@ Table of Contents
 - [Linux](#linux)
 - [Version-Control](#version-control)
     - [article](#article-1)
-    - [PythonTool](#pythontool)
+- [ScriptWebTool](#scriptwebtool)
 - [Game-Server-framework](#game-server-framework)
     - [Article](#article-2)
     - [Lockstep](#lockstep)
@@ -282,6 +282,7 @@ Table of Contents
 - [CMAKE](#cmake)
 - [Embed-Script/VM/](#embed-scriptvm)
     - [Collection](#collection-7)
+    - [Allocator](#allocator)
     - [Garbage Collector](#garbage-collector)
     - [dynCall](#dyncall)
     - [IL](#il)
@@ -328,6 +329,7 @@ Table of Contents
     - [Volumetric Mesh](#volumetric-mesh)
     - [Editor](#editor)
     - [Asset-Management](#asset-management)
+    - [PackageManager](#packagemanager)
     - [Material-Cleaner](#material-cleaner)
       - [Textrue Compression](#textrue-compression)
         - [Article](#article-6)
@@ -1545,6 +1547,7 @@ Table of Contents
 - [Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 - https://github.com/GarrettGunnell/
 - [URP-HIZ](https://github.com/himma-bit/empty)
+- https://github.com/TakeshiCho/Unity_GPUInstanceCulling
 - https://github.com/aganwenqi/GPU-Driven-02 hiz
 - https://github.com/SoSoReally/RenderFeature_HizCull
 * [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
@@ -1558,6 +1561,7 @@ Table of Contents
 * [Unity-Grass](https://github.com/cainrademan/Unity-Grass)
 * [Unity-Optimized-Coins-Shader](https://github.com/DhafinFawwaz/Unity-Optimized-Coins-Shader)
 * [foliage-renderer](https://assetstore.unity.com/packages/tools/terrain/foliage-renderer-267618)
+* https://github.com/EricHu33/UnityGrassIndirectRenderingExample
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1755,6 +1759,7 @@ Table of Contents
 - https://github.com/tagcode/Lexical.FileSystem
 - https://github.com/dre0dru/LocalStorage
 - https://github.com/ByronMayne/UnityIO
+- https://github.com/lucasmeijer/NiceIO
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
 - https://www.betrfs.org/
 - https://github.com/MathewHDYT/Unity-Data-Manager
@@ -1831,9 +1836,10 @@ Table of Contents
 - [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
 - [规范化git commit信息](https://blog.dteam.top/posts/2019-04/%E8%A7%84%E8%8C%83%E5%8C%96git-commit%E4%BF%A1%E6%81%AF.html)
 
-#### PythonTool
+## ScriptWebTool
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 - [FastUI](https://github.com/pydantic/FastUI)
+- [mesop](https://google.github.io/mesop)
 ## Game-Server-framework
 - https://github.com/hstcscolor/awesome-gameserver-cn
 - https://github.com/novusengine/NovusCore
@@ -2100,6 +2106,7 @@ Table of Contents
 - https://github.com/real-logic/simple-binary-encoding  sbe-fastest
 - https://github.com/neuecc/ZeroFormatter  zero
 - https://msgpack.org/ messagepack
+- https://github.com/peteroupc/CBOR
 - https://github.com/cloudwu/sproto sproto
 - https://uscilab.github.io/cereal/
 - https://github.com/mzaks/FlexBuffersUnity
@@ -2217,6 +2224,7 @@ Table of Contents
 * matter - C++17/20 ECS implementation [github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)
 
 #### C#
+- [massive-ecs](https://github.com/nilpunch/massive-ecs) Prediction-rollback netcode has very stable nature, and is mainly used in fast paced online multiplayer games, such as Overwatch and Rocket League.
 - [DragonECS](https://github.com/DCFApixels/DragonECS) C# Entity Component System framework
 - [Friflo](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) fastest
 - [fennecs](https://github.com/thygrrr/fennecs) ...the tiny, tiny, high-energy Entity-Component System!
@@ -2401,6 +2409,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [kcp-Code-annotation](https://gitee.com/he-linson/kcp-Code-annotation)
 * [learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol) KCP协议基本数据结构和算法介绍
 * [KCP](https://github.com/KumoKyaku/KCP) KCP C#版。线程安全，运行时无alloc，对gc无压力。,
+* [kcp-unity](https://github.com/passiony/kcp-unity)
 * [kcp-genshin](https://github.com/labalityowo/kcp-genshin)
 * https://github.com/xtaci/kcptun/
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
@@ -2734,6 +2743,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ## Game-Math
 - [Vortice.Mathematics](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform .NET math library.
 - [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
+- https://github.com/ViRGIS-Team/ViRGiS-Geometry
 - [redblobgames](https://www.redblobgames.com/)
   [CGALDotNetGeometry](https://github.com/Scrawk/CGALDotNetGeometry) 
 - [unityMath](https://github.com/Unity-Technologies/Unity.Mathematics)  c# unity
@@ -2974,6 +2984,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Liquid-Simulation](https://github.com/ivuecode/Liquid-Simulation)
 #### Water
 - [crest](https://github.com/wave-harmonic/crest)
+- https://github.com/abecombe/FLIP-Fluid-for-Unity
 - [CFD101](https://github.com/thu-zhanghl/CFD101) 💧CFD(计算流体力学)资料汇总、学习笔记
 - [FluidSimulationTutorialsUnity](https://github.com/clatterrr/FluidSimulationTutorialsUnity)
 - [FluxInUnity](https://github.com/DaiZiLing/FluxInUnity)
@@ -3298,6 +3309,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [glsl-pcg-prng](https://github.com/riccardoscalco/glsl-pcg-prng) Glsl implementation of the PCG algorithm for the generation of random numbers.
 
 #### Shader-Compiler
+- [UnityRuntimeShader](https://github.com/witalosk/UnityRuntimeShader/) Compile and apply fragment / compute shaders to render textures or buffers.
 - [unity shaderlab 和 3dsmax maya .fx 自定义 hlsl directx material 材质的联系](https://zhuanlan.zhihu.com/p/627040080) [doc](https://docs.google.com/document/d/1yHARKE5NwOGmWKZY2z3EPwSz5V_ZxTDT8RnRl521iyE/)
 - [a-review-of-shader-languages](https://alain.xyz/blog/a-review-of-shader-languages)
 - [UnityShaderParser](https://github.com/pema99/UnityShaderParser) UnityShaderParser
@@ -3376,6 +3388,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Unity_Shader_Library_Zoroiscrying](https://github.com/Zoroiscrying/Unity_Shader_Library_Zoroiscrying) This is a shader library used for unity shader coding, pointing to different shader effects found from various sources. Several library topics may become public in the future. This project is mainly for personal study and lack the knowledge of code management and formal name formatting.
 - https://github.com/Xibanya/ShaderTutorials
 - https://github.com/z3y/shaders
+- https://github.com/MartinMisiak/Realtime-Diffraction-PBR
 - https://github.com/sam20191128/shader_URP
 - https://github.com/orels1/orels-Unity-Shaders filament unity shader
 - https://github.com/momoma-null/GeneLit GeneLit is an alternative to standard shader for Unity built-in pipeline.
@@ -3779,6 +3792,7 @@ Showing off the power of shader properties in Unity
 #### RenderPipelineFrameWork
 - https://github.com/aras-p/UnityGaussianSplatting
 - https://github.com/StressLevelZero
+- https://github.com/alelievr/HDRP-Mobile
 - https://github.com/Valax321/RadishRenderPipeline
 - https://github.com/Hypnos-Render-Pipeline
 - https://github.com/MaxwellGengYF/Unity-MPipeline m大神的渲染框架
@@ -3884,6 +3898,7 @@ Showing off the power of shader properties in Unity
 ##### Ray tracing
 - [openmoonray](https://github.com/dreamworksanimation/openmoonray) MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer
 - [gpurt](https://github.com/GPUOpen-Drivers/gpurt)
+- https://github.com/WeakKnight/real-time-seamless-object-space-shading
 - [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI?)
 - https://github.com/Pjbomb2/Realtime-Compute-Shader-Unity-PathTracer
 - https://github.com/fallingcat/ComputeRayTracingSamples
@@ -3905,6 +3920,7 @@ Showing off the power of shader properties in Unity
 - https://intro-to-restir.cwyman.org/
 - https://github.com/INedelcu/InlineRayTracingShadows
 - https://github.com/guiqi134/Area-ReSTIR
+- https://github.com/TU-Clausthal-Rendering/ReSTIR-FG
 - [dynamic-diffuse-global-illumination](https://blog.traverseresearch.nl/dynamic-diffuse-global-illumination-b56dc0525a0a)
 
 - https://github.com/airliang/unity-raytracing
@@ -4168,6 +4184,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/AKGWSB/FFTConvolutionBloom
 - https://github.com/tkonexhh/X-PostProcessing-URP
+- https://github.com/MikuMikuShaders/SMAA
 - https://github.com/GarrettGunnell/Post-Processing
 - https://github.com/xwidghet/StereoCancer
 - https://github.com/BlueSkyDefender/AstrayFX
@@ -4359,6 +4376,7 @@ Showing off the power of shader properties in Unity
 - [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
 - [Collections.Pooled](https://github.com/Zitga-Tech/ZBase.Collections.Pooled)
 - [BurstCollections](https://github.com/andywiecko/BurstCollections)
+- https://github.com/XenoAtom/XenoAtom.Collections
 - [NullGC](https://github.com/fryderykhuang/NullGC)
 - [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
 - [Arenas](https://github.com/Enichan/Arenas) Unmanaged arena memory allocators for C#/CSharp with easy interactions between managed and unmanaged references
@@ -4539,6 +4557,7 @@ Showing off the power of shader properties in Unity
 - [dora](https://github.com/dinfuehr/dora) JIT-compiler for the programming language Dora implemented in Rust. Works on Linux, Windows and macOS (x86_64 and aarch64).
 - [awesome-jit](https://github.com/wdv4758h/awesome-jit) A curated list of awesome JIT frameworks, libraries, software and resources 
 - [WAVM](https://github.com/WAVM/WAVM) WAVM is a WebAssembly virtual machine, designed for use in non-web applications.
+- https://github.com/RyanLamansky/dotnet-webassembly
 - [Bytecoder](https://github.com/mirkosertic/Bytecoder) Bytecoder is a Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly
 - [skew](https://github.com/evanw/skew) A web-first, cross-platform programming language with an optimizing compiler 
 - [delta](https://github.com/delta-lang/delta)  A new systems programming language in development
@@ -4577,9 +4596,11 @@ Showing off the power of shader properties in Unity
 
 #### Collection
 - https://github.com/tensorush/Awesome-Langs-Learning
+- https://github.com/moonbitlang/core
 - https://gitlab.com/camelot/kickc KickC is a C-compiler for 6502-based platforms creating optimized and readable assembler code. The language is 95% standard C with a few limitations and a few extensions. Download Releases here
 - [cosmopolitan](https://github.com/jart/cosmopolitan) build-once run-anywhere c library
 - https://langium.org/
+- https://github.com/google/souper
 - https://github.com/shining1984/PL-Compiler-Resource
 - [TypeRunner](https://github.com/marcj/TypeRunner) ts compiler
 - https://github.com/alilleybrinker/langs-in-rust
@@ -4590,7 +4611,9 @@ Showing off the power of shader properties in Unity
 - [awesome-language-engineering](https://github.com/NLKNguyen/awesome-language-engineering)
 - https://github.com/ChessMax/awesome-programming-languages
 - https://github.com/CYJB/Cyjb.Compilers
+#### Allocator 
 - [smmalloc](https://github.com/SergeyMakeev/smmalloc) Blazing fast memory allocator designed for video games
+- https://github.com/XenoAtom/XenoAtom.Allocators
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -4603,6 +4626,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Hitmasu/Jitex
 #### IL
 - [Disasmo](https://github.com/EgorBo/Disasmo)  VS2022 Add-in. Click on any method or class to see what .NET Core's JIT generates for them (ASM).
+- [net-ssa](https://github.com/m-carrasco/net-ssa) net-ssa: A fast and easy-to-use register-based representation for .NET bytecode.
 ## DevOps
 #### Tools
 - [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
@@ -4710,6 +4734,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/zhangxingStarMaker/SkillEditor
 - https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/m969/EGamePlay
+- https://github.com/NoBugCn/ActionEditorExample
 - https://github.com/ancientElement/AE_SkillEditor_Plus
 - https://github.com/huailiang/seqence 剧情-技能编辑器
 - https://github.com/jewer3330/plato timeline-技能编辑器
@@ -4963,6 +4988,7 @@ Showing off the power of shader properties in Unity
 - [AnimatableVolumeComponent](https://github.com/cji3bp62000/AnimatableVolumeComponent) This package provides helper scripts that let you animate Post-Process parameters (VolumeProfile) in URP/HDRP.
 - https://github.com/mihakrajnc/UITTimeline
 - https://github.com/lgarczyn/AnimateUIMaterials
+- https://github.com/mob-sakai/UIMaterialPropertyInjector
 #### 2D
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428?)
 - [2d-soft-body](https://assetstore.unity.com/packages/tools/physics/2d-soft-body-182142)
@@ -5112,6 +5138,7 @@ Showing off the power of shader properties in Unity
 - [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast)
 - [UGizmo](https://github.com/harumas/UGizmo) Highly efficient gizmo drawer for Unity
 - [path-linefx-support-cinemachine](https://assetstore.unity.com/packages/tools/particles-effects/path-linefx-support-cinemachine-234316)
+- [UnityEditorDataChartTool](https://github.com/SolarianZ/UnityEditorDataChartTool)
 
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
@@ -5362,9 +5389,12 @@ Showing off the power of shader properties in Unity
 - https://github.com/aniketrajnish/Unity-Collider-Optimizer
 - https://github.com/SarahWeiii/CoACD
 - [SubAssetTool](https://github.com/konsti219/SubAssetTool-vpm) Provides a Unity tool for managing Sub Assets
+- https://github.com/markeahogan/ImporterPresets
+
+#### PackageManager
 - https://github.com/quabug/unity-pack Create an Unity Package from directory
 - https://github.com/HakuSystems/EasyExtractUnitypackage
-- https://github.com/markeahogan/ImporterPresets
+- https://github.com/abdelfattahradwan/cup
 #### Material-Cleaner
 - [清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)
 - [EZMaterialOptimizer](https://github.com/EZhex1991/EZUnity/blob/master/Assets/EZhex1991/EZUnity/Editor/EditorTools/EZMaterialOptimizer.cs)
@@ -5395,6 +5425,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
  
 #### Message Bus  
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
+- [Disposify](https://github.com/ruccho/Disposify) Disposify is a source generator to subscribe / unsubscribe C# events with using-dispose pattern.
 - [wolverine](https://github.com/JasperFx/wolverine)
 - [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) - A generic Event-Bus
 - [Unibus](https://github.com/mattak/Unibus) - Unibus is event passing system
