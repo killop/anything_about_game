@@ -162,6 +162,7 @@ Table of Contents
     - [Position-Based-Dynamics](#position-based-dynamics)
     - [Softbody](#softbody)
     - [Vehicle](#vehicle)
+    - [Sky](#sky)
 - [Game-BenchMark/Metric/Tool](#game-benchmarkmetrictool)
     - [Common](#common-1)
     - [GPU](#gpu)
@@ -1408,6 +1409,7 @@ Table of Contents
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 - [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
 - [ProceduralAnimation](https://github.com/BattleDawnNZ/ProceduralAnimation) Procedural Animation Scripts For Unity
+- https://github.com/edualvarado/TRAIL-Natural-Impact
 #### Unity-Tool
 - [sox-animation](https://assetstore.unity.com/packages/tools/animation/sox-animation-toolkit-110431)
 - [unity-flash-tools](https://github.com/BlackMATov/unity-flash-tools) Convert your flash animation for Unity easy!
@@ -1682,7 +1684,11 @@ Table of Contents
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * https://github.com/zhangjiequan/AssetStudio
 * https://github.com/SiMaLaoShi/AssetStudio_Tuanjie
+* https://github.com/LukeFZ/AssetStudio
+* https://github.com/aelurum/AssetStudio
 * https://github.com/RazTools/Studio
+* https://github.com/seiKiMo-Inc/HoYoStudio
+* https://github.com/yarik0chka/YarikStudio
 * [HoYoStudio](https://github.com/TomyJan/HoYoStudio)
 * [CNStudio](https://github.com/Razmoth/CNStudio)
 * [UABEA](https://github.com/Hengle/UABEA) c# uabe for newer versions of unity
@@ -1930,6 +1936,7 @@ Table of Contents
 - [Rhisis](https://github.com/Eastrall/Rhisis) Rhisis is an experimental FlyFF MMORPG emulator built with C# 12 and .NET 8
 - https://tsrpc.cn/
 - https://github.com/thkhxm/tgf
+- https://github.com/qq362946/Fantasy
 #### Article
 - [danieljimenezmorales blog](https://danieljimenezmorales.github.io/)
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
@@ -2041,6 +2048,7 @@ Table of Contents
 * https://github.com/HeatXD/PleaseResync
 * [open-netcode](https://github.com/polartron/open-netcode)
 #### status-syn
+- https://lucasteles.github.io/Backdash/
 - https://github.com/nilpunch/unity-prediction-rollback
 - https://github.com/lucasteles/Backdash
 - https://github.com/TCleard/PredictionReconciliationNetwork
@@ -2080,6 +2088,7 @@ Table of Contents
 * [oodles-party-physics-based-online-battle-template-255802](https://assetstore.unity.com/packages/templates/packs/oodles-party-physics-based-online-battle-template-255802)
 * https://github.com/RuanCardoso/OmniNet
 * https://github.com/zacpeelyates/unityrollback
+* [local-multiplayer](https://forum.unity.com/threads/released-local-multiplayer-for-ios-tvos-macos.474432/)
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -2184,7 +2193,9 @@ Table of Contents
 - https://github.com/dolthub/dolt
 - https://github.com/ClockworkLabs/SpacetimeDB
 
+
 #### c#
+- https://github.com/sgf/dotnetDBRank
 - [ZoneTree](https://github.com/koculu/ZoneTree) ZoneTree is a persistent, high-performance, transactional, ACID-compliant ordered key-value database for NET. It can operate in memory or on local/cloud storage.
 - [realm](https://github.com/realm/realm-dotnet) Realm is a mobile database: a replacement for SQLite & ORMs 
 - [LiteDB](https://github.com/mbdavid/LiteDB) LiteDB - A .NET NoSQL Document Store in a single data file 
@@ -2240,6 +2251,7 @@ Table of Contents
 * https://github.com/hdmmY/BillionsUnit
 * [NanoECS](https://github.com/SinyavtsevIlya/NanoECS)  c#-Unity ECS framework 
 * [Unity ECS EntityBuilder](https://github.com/actionk/ECSEntityBuilder) This project is a wrapper around Unity ECS entities that allows one to simplify the process of creating / modifying entities.
+* [leoecslite](https://github.com/aleverdes/leoecslite-zoo)
 * [LeoECS](https://github.com/Leopotam/ecs) LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
 * [unity-entity-component-system](https://github.com/elraccoone/unity-entity-component-system) A better approach to game design that allows you to concentrate on the actual problems you are solving: the data and behavior that make up your game. By moving from object-oriented to data-oriented design it will be easier for you to reuse the code and easier for others to understand and work on it.
 * [ME.ECS](https://github.com/chromealex/ecs) ECS for Unity with full game state automatic rollbacks 
@@ -2481,6 +2493,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ## GameEngine Design
 #### Collection
 - https://ossinsight.io/collections/game-engine/
+- https://github.com/aloisdeniel/awesome-monogame
 - https://github.com/redorav/public_source_engines
 #### Article/Course
 - https://isetta.io/resources/
@@ -2997,6 +3010,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Scrawk/Brunetons-Ocean
 - https://github.com/Verasl/BoatAttack water
 - https://github.com/eliasts/Ocean_Community_Next_Gen
+- https://github.com/zulubo/VWater
 - [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)
 - https://github.com/bearworks/URPOcean
 - https://github.com/wave-harmonic/water-resources
@@ -3036,6 +3050,8 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Vehicle
 * [tork](https://github.com/adrenak/tork) Arcade vehicle physics for Unity
 * [Randomation-Vehicle-Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
+#### Sky
+- https://github.com/xinyangaa/Unity_URP_Genshin_Impact_Programmed_Skybox
 
 ## Game-BenchMark/Metric/Tool
 #### Common
@@ -3674,6 +3690,7 @@ Showing off the power of shader properties in Unity
 - [QuickOutline](https://github.com/chrisnolet/QuickOutline)
 - https://github.com/Blatko1/awesome-msdf
 - https://github.com/Chlumsky/msdfgen
+- https://github.com/kamone416/MayaToonOutlineShader
 
 
 #### FootPrint 
@@ -4539,6 +4556,7 @@ Showing off the power of shader properties in Unity
 - [cyber](https://github.com/fubark/cyber) Fast and concurrent scripting.
 - [luajit-remake](https://github.com/luajit-remake/luajit-remake)
 - [luajit2](https://github.com/openresty/luajit2)
+- https://github.com/zherczeg/sljit/
 - [minivm](https://github.com/FastVM/minivm) A VM That is Dynamic and Fast
 - [CS2X](https://github.com/reignstudios/CS2X) Transpiles a C# subset to non .NET languages and runtimes. (Powered by Roslyn) 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) ts2lua
@@ -4852,6 +4870,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Skierhou/UISystem
 - https://github.com/LiShengYang-yiyi/YIUI
 - https://github.com/Avalon712/UniVue
+- https://github.com/Avalon712/UniVue-Develop
 - [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
 - [MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) ViewSystem is a element based UI management system based on Unity GUI
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
@@ -5017,6 +5036,7 @@ Showing off the power of shader properties in Unity
 - [UnityCameraSystem_CC](https://github.com/LeahLee13/UnityCameraSystem_CC) [bilibili](https://www.bilibili.com/video/av301538767/) 基于Cinemachine的第一/三人称过肩
 - [Cine-AI](https://github.com/inanevin/Cine-AI) 
 - [tactical-camera](https://www.impossible-odds.net/tactical-camera/) The Tactical Camera package for Unity contains an easy-to-use camera system, ideal for both top-down overview of your worlds and close-up action scenes. It offers a lot of freedom to define and customize its behavior.
+- [RTSCameraController-Cinemachine](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine)
 - [UnityCinematicControl](https://github.com/andreasbaumde/UnityCinematicControl)
 - [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions)
 #### TextureStreaming
@@ -5115,6 +5135,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/sator-imaging/AppWindowUtility
 - https://github.com/XJINE/Unity_TransparentWindowManager
 - https://github.com/LorisYounger/VPet
+- https://github.com/Asura336/Hosting-Unity3D-Skeleton
 - [ExplorerGenie](https://github.com/martinstoeckli/ExplorerGenie) ExplorerGenie is an extended context menu for the Windows explorer.
 - [了解 Unity 的托管代码剥离删除的代码](https://zenn.dev/waz/articles/2f9c62c2742622)
 
@@ -5156,6 +5177,7 @@ Showing off the power of shader properties in Unity
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy 
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 #### DOTS
+- [fennecs](https://github.com/outfox/fennecs)
 - [TopGames](https://blog.csdn.net/final5788)
 - https://gametorrahod.com/tag/unity-dots/
 - https://github.com/UnioGame/ECS.Features/
@@ -5326,6 +5348,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/AKGWSB/RealTimeAtmosphere
 - https://github.com/MirzaBeig/GPU-Fog-Particles
 - https://github.com/GarrettGunnell/CS2-Smoke-Grenades
+- https://github.com/Reguluz/HeightExponentialFog
 #### Volumetric Mesh
 -  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
 #### Editor
@@ -5588,6 +5611,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/writing-resources/awesome-scientific-writing
 - https://github.com/wechatsync/Wechatsync
 - https://github.com/zongpingding/All-About-TeX
+- https://github.com/typst/typst
 
 
 ## 游戏策划
