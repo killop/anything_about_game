@@ -2007,6 +2007,7 @@ Table of Contents
 - [A latency compensation technique based on game characteristics to mitigate the influence of delay on cloud gaming quality of experience](https://dl.acm.org/doi/abs/10.1145/3339825.3391855)
 - [Timelines: simplifying the programming of lag compensation for the next generation of networked games](https://link.springer.com/article/10.1007/s00530-012-0271-3)
 - [Lag Compensation for First-Person ShooterGames in Cloud Gaming](https://core.ac.uk/download/pdf/159768685.pdf)
+- https://github.com/Glitshy/Lag-Compensation
 - [The effect of latency on user performance in Real-Time Strategy games](https://www.researchgate.net/publication/222028118_The_effect_of_latency_on_user_performance_in_Real-Time_Strategy_games)
 - [Lag Compensation for First-Person Shooter Games in Cloud Gaming](https://www.researchgate.net/publication/325353977_Lag_Compensation_for_First-Person_Shooter_Games_in_Cloud_Gaming)
 - [Fast-Paced Multiplayer (Part IV): Lag Compensation](https://www.gabrielgambetta.com/lag-compensation.html)
@@ -2029,6 +2030,7 @@ Table of Contents
 - [Dead Reckoning: Latency Hiding for Networked Games](https://www.gamedeveloper.com/programming/dead-reckoning-latency-hiding-for-networked-games)
 #### Lockstep
 - https://github.com/QinZhuo/IDG_Game_One
+- https://github.com/GaoKaiHaHa/UnityLockStepDemo
 - https://github.com/Yinmany/NetCode-FPS
 - https://qinzhuo.coding.net/public/
 - https://github.com/mmc1993/X-Game-Public
@@ -2053,6 +2055,7 @@ Table of Contents
 - https://github.com/lucasteles/Backdash
 - https://github.com/TCleard/PredictionReconciliationNetwork
 - https://github.com/nilpunch/massive
+- https://github.com/dotnet/WatsonTcp
 - https://github.com/zpl-c/librg
 - https://github.com/minism/fps-netcode
 - https://github.com/Yinmany/NetCode-FPS
@@ -3096,6 +3099,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [renderdoc](https://renderdoc.org/) 
 - [renderdocArticle](https://blog.kangkang.org/index.php/archives/504)
 - [RenderDocMeshParserForUnity](https://github.com/windsmoon/RenderDocMeshParserForUnity)
+- [LcL-RenderdocTextureExporter](https://github.com/csdjk/LcL-RenderdocTextureExporter)
 - [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 - [Shader中的代码优化原理分析](https://zhuanlan.zhihu.com/p/210221918)
 - [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
@@ -3429,6 +3433,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Shader实验室专栏](https://www.zhihu.com/column/c_1254807683619966976)
 - [RoadOfShader](https://github.com/bzyzhang/RoadOfShader) 学习Shader的一些练习记录。
 - [LearnUnityShader](https://github.com/csdjk/LearnUnityShader)
+- [LearnURP](https://github.com/csdjk/LearnURP)
 - [shaderslab-shaders](http://www.shaderslab.com/shaders.html)
 - [UnityShaderRepository](https://github.com/garsonlab/UnityShaderRepository) 
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders) 
@@ -3845,6 +3850,7 @@ Showing off the power of shader properties in Unity
 
 ##### Collection
 * [gi-study](https://github.com/JMS55/gi-study)
+* https://github.com/Henry00IS/DynamicLighting
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
 *  [NatRender](https://github.com/unitycoder/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
@@ -3929,6 +3935,7 @@ Showing off the power of shader properties in Unity
 - https://developer.download.nvidia.com/ray-tracing-gems/rtg2-chapter30-preprint.pdf
 - https://github.com/AlerianEmperor/LuxRenderer
 - https://github.com/jiaozi158/UnitySSPathTracingURP
+- https://github.com/INedelcu/PathTracingDemo
 - https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer
 - https://github.com/teofilobd/URP-RayTracer
 - https://github.com/AlucardDH/dh-reshade-shaders
@@ -4130,6 +4137,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/b0nes164/GPUSorting
 - https://github.com/b0nes164/ShaderOneSweep 
 - https://github.com/b0nes164/SimpleComputeShaderHashTable 
+- https://github.com/naelstrof/UnityPenetrationTech A gpu-based deformation system for mapping penetrators along orifice paths.
 
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
@@ -4974,6 +4982,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/JimmyCushnie/FancyTextRendering Render markdown & clickable links with TextMeshPro in Unity.
 - [modular](https://assetstore.unity.com/packages/3d/gui/modular-3d-text-in-game-3d-ui-system-159508) unity 3d ui 
 - https://github.com/wantdabo/goblin.ui.fontcreator
+- https://github.com/nicloay/ecs-damage-bubbles
 
 ##### BitMap
 - [Unity-BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter)
