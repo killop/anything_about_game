@@ -311,6 +311,7 @@ Table of Contents
     - [TextureStreaming](#texturestreaming)
     - [Particle](#particle)
     - [Util](#util)
+    - [Pool](#pool)
     - [Rope](#rope)
     - [Unity-Update](#unity-update)
     - [Code-Reload\&\&Unity-Editor-Compiler](#code-reloadunity-editor-compiler)
@@ -1067,6 +1068,7 @@ Table of Contents
 - https://github.com/m-schuetz/SimLOD
 - [mirage-versatile-impostor-system](https://assetstore.unity.com/packages/tools/utilities/mirage-versatile-impostor-system-261094)
 - [autolod-impostors-199759](https://assetstore.unity.com/packages/tools/utilities/autolod-impostors-199759)
+- https://buaacyw.github.io/mesh-anything/
 #### Mipmap
 - [texel-inspector](https://assetstore.unity.com/packages/tools/utilities/texel-inspector-176174)  The Texel Inspector unity plugin
 #### List-of-game-middleware
@@ -2760,6 +2762,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Vortice.Mathematics](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform .NET math library.
 - [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 - https://github.com/ViRGIS-Team/ViRGiS-Geometry
+- https://github.com/UnrealStudio/Collection
 - [redblobgames](https://www.redblobgames.com/)
   [CGALDotNetGeometry](https://github.com/Scrawk/CGALDotNetGeometry) 
 - [unityMath](https://github.com/Unity-Technologies/Unity.Mathematics)  c# unity
@@ -4184,6 +4187,7 @@ Showing off the power of shader properties in Unity
 - [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH) 
 - [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 - [bvh](https://github.com/madmann91/bvh) About A modern C++ BVH construction and traversal library 
+- https://github.com/Niravaana/HIP-BVH-Construction
 - https://github.com/ToruNiina/lbvh
 - https://github.com/EmmetOT/BoundingVolumeHierarchy
 - https://github.com/Sylmerria/Spatial-Hashing
@@ -4375,6 +4379,7 @@ Showing off the power of shader properties in Unity
 - [FibonacciHeap](https://github.com/sqeezy/FibonacciHeap) C# implementation of a fibonacci heap structure.
 - https://github.com/thomhurst/ModularPipelines/
 - [bithacks](http://graphics.stanford.edu/~seander/bithacks.html) bithacks
+- https://github.com/sgf/SomeReposAboutBitFieldOfCSharp
 - https://github.com/aelij/spanify span用法总结
 - https://github.com/draconware-dev/SpanExtensions.Net
 - https://github.com/jiangjinnan/NativeBuffering
@@ -4836,6 +4841,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Enderlook/Unity-Threading
 - https://github.com/modesttree/Unity3dAsyncAwaitUtil
 - https://github.com/Cysharp/UniTask
+- https://github.com/TORISOUP/SequentialTaskExecutors
 - https://github.com/Arvtesh/UnityFx.Async
 - https://www.cnblogs.com/heyuquan/archive/2013/04/26/3045827.html
 - https://github.com/brminnick/AsyncAwaitBestPractices
@@ -4874,6 +4880,7 @@ Showing off the power of shader properties in Unity
 #### UI
 - [uxtool](https://uxtool.netease.com/)
 - https://github.com/Eashiong/StackUI
+- https://github.com/dmitry-ivashenko/StatefulUI
 - https://github.com/3-Delta/Unity-UI
 - https://github.com/Skierhou/UISystem
 - https://github.com/LiShengYang-yiyi/YIUI
@@ -4971,6 +4978,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/jp-netsis/RubyTextMeshPro
 - https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
+- https://github.com/neon-izm/UnityTextMeshProNotoSansForRude
 - https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
 - https://github.com/Giresharu/TMPro-Player
 - https://github.com/Luca3317/TMPEffects
@@ -5055,10 +5063,11 @@ Showing off the power of shader properties in Unity
 - https://github.com/sunbrando/ParticleEffectProfiler
 #### Util
 - https://github.com/nothke/unity-utils
+- https://github.com/adammyhre/Unity-Utils
 - https://github.com/oleghcp/UnityTools
+- https://github.com/wyryyds/Unity-GamePlay-Library
 - https://github.com/GameArki/GameArkiSetup/
 - https://github.com/Hertzole/runtime-options-manager
-- https://github.com/joebinns/asteroids-scriptable-objects
 - https://github.com/gilzoide/unity-easy-project-settings
 - https://github.com/xZenvin/UnitySettingsFramework
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
@@ -5094,6 +5103,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/csdjk/LcL-Tools-Unity 引擎优化向TA 的 工具箱
 - https://github.com/FronkonGames/GameWork-Foundation
 
+#### Pool
+- https://github.com/TORISOUP/uPools
 #### Rope
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
 - https://github.com/Ali10555/FakeRopeSimulation
@@ -5169,6 +5180,7 @@ Showing off the power of shader properties in Unity
 - [UGizmo](https://github.com/harumas/UGizmo) Highly efficient gizmo drawer for Unity
 - [path-linefx-support-cinemachine](https://assetstore.unity.com/packages/tools/particles-effects/path-linefx-support-cinemachine-234316)
 - [UnityEditorDataChartTool](https://github.com/SolarianZ/UnityEditorDataChartTool)
+- [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) make mesh like line, polygon, etc in unity3d
 
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
@@ -5185,6 +5197,8 @@ Showing off the power of shader properties in Unity
 * [SOFlow](https://github.com/BLUDRAG/SOFlow) - A ScriptableObject oriented design SDK.
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy 
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
+- https://github.com/joebinns/asteroids-scriptable-objects
+- https://assetstore.unity.com/packages/tools/utilities/lunaris-scriptables-221163
 #### DOTS
 - [fennecs](https://github.com/outfox/fennecs)
 - [TopGames](https://blog.csdn.net/final5788)
@@ -5608,6 +5622,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/king3soft/UAutoIDE
 - https://github.com/AirtestProject
 - https://github.com/jianbing/awesome-game-tester
+- https://github.com/DeNA/Anjin
 ## 问答
 > 强烈推荐阅读 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)、[《如何向开源社区提问题》](https://github.com/seajs/seajs/issues/545) 和 [《如何有效地报告 Bug》](http://www.chiark.greenend.org.uk/%7Esgtatham/bugs-cn.html)、[《如何向开源项目提交无法解答的问题》](https://zhuanlan.zhihu.com/p/25795393)，更好的问题更容易获得帮助。
 
