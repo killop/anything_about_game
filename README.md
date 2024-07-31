@@ -933,6 +933,7 @@ Table of Contents
 - https://github.com/nixon-voxell/UnityAudioVisualizer
 - https://github.com/MathewHDYT/Unity-Audio-Manager
 - https://github.com/man572142/Bro_Audio
+- https://github.com/CyberAgentGameEntertainment/AudioConductor
 #### Music-Tool/Editor
 - https://www.image-line.com/
 - https://www.goldwave.com
@@ -1294,6 +1295,7 @@ Table of Contents
 * [Animate](https://github.com/sttz/Animate)
 * [softlimit](https://old.reddit.com/r/Unity3D/comments/1cy2cvu/softlimit_the_feature_thatll_make_your_project/)
 * [UniTaskAnimations](https://github.com/smiledir1/UniTaskAnimations)
+* [Milease](https://github.com/MorizeroDev/Milease) Animate anything in one line of code, simplifying your UI animation development process and boosting your UI development efficiency.
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1464,6 +1466,7 @@ Table of Contents
 - https://openupm.com/packages/com.bbbirder.shell/
 - [RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl)
 - [runtime-monitoring](https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring)
+- [Unity.Mx](https://github.com/jcs090218/Unity.Mx) Mx (or Meta-X) is a command-based completion framework. It allows you to execute all kinds of tasks based on your design. Mx is an alternate to attribute MenuItem; by contrast, doing multiple tasks is possible. It gives you the option to choose and explore unnoticed commands.
 
 ## Scenes
 #### Terrain
@@ -1661,6 +1664,7 @@ Table of Contents
 - [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
 - [lamda](https://github.com/rev1si0n/lamda)
 - [UnityResolve](https://github.com/issuimo/UnityResolve.hpp) Unity引擎C++接口 | Unity Engine C++ API | Mono/il2cpp | 支持 Windows, Android, Linux | Game Cheat | 游戏作弊
+- [UnityFPSUnlocker](https://github.com/hexstr/UnityFPSUnlocker)
 - [GameExtractor](https://github.com/wattostudios/GameExtractor) Reads and writes thousands of different archive and image formats used in games.
 - [puyotools]( https://github.com/nickworonekin/puyotools) Puyo Tools is a collection of tools and libraries used to access the contents of various game files. Although it was initially built to handle files used in Puyo Puyo games, it can handle files used in other games as well
 - [MPQ技术内幕](https://www.cnblogs.com/kex1n/archive/2011/12/30/2307812.html)
@@ -1759,6 +1763,7 @@ Table of Contents
 - https://icculus.org/physfs/
 - https://github.com/Tape-Worm/Gorgon/tree/master/Gorgon/Gorgon.FileSystem
 - https://github.com/xoofx/zio vfs
+- https://github.com/buck-co/save-async
 - https://github.com/bobvanderlinden/sharpfilesystem
 - https://github.com/psmacchia/NDepend.Path path helper
 - https://github.com/JosefPihrt/Orang file opreation
@@ -2036,6 +2041,7 @@ Table of Contents
 - https://github.com/Yinmany/NetCode-FPS
 - https://qinzhuo.coding.net/public/
 - https://github.com/mmc1993/X-Game-Public
+- https://github.com/ET-Packages/cn.etetet.lockstep
 - http://netcoding4d.com/
 - https://cloud.tencent.com/product/mgobe
 - https://github.com/JiepengTan/LockstepECS 
@@ -2055,6 +2061,7 @@ Table of Contents
 - https://lucasteles.github.io/Backdash/
 - https://github.com/nilpunch/unity-prediction-rollback
 - https://github.com/lucasteles/Backdash
+- https://github.com/skeyll/SynicSugar?tab=readme-ov-file
 - https://github.com/TCleard/PredictionReconciliationNetwork
 - https://github.com/nilpunch/massive
 - https://github.com/dotnet/WatsonTcp
@@ -2279,6 +2286,7 @@ Table of Contents
 #### Benchmark
 * [ecs_benchmark](https://github.com/abeimler/ecs_benchmark): EnTT vs. entityx vs. anax vs. Artemis-Cpp
 * [Ecs.CSharp.Benchmark](https://github.com/Doraku/Ecs.CSharp.Benchmark) Benchmarks of some C# ECS frameworks. 
+* https://github.com/friflo/ECS.CSharp.Benchmark-common-use-cases
 #### Article
 - [ecs-faq](https://github.com/SanderMertens/ecs-faq)
 
@@ -2362,6 +2370,7 @@ Fast, reliable, scalable.
 - [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
 - [SpaceWizards.Lidgren.Network](https://github.com/space-wizards/SpaceWizards.Lidgren.Network)
 - [DotNetty](https://github.com/Azure/DotNetty) DotNetty project – a port of netty, event-driven asynchronous network application framework 
+- [GameNetty](https://github.com/ALEXTANGXIAO/GameNetty) ClientServer这种模式虽然很适合独立开发、但是如果团队规模上去后，存在专门的前后端分工，大量的共享双端的意义已经不大了，以及安全起见更不会让源码权限都掌握每个人的手中。就绝大多数商业级项目而言，前后端分离是必然。（既然ET的服务器作为商业级解决方案已经很完美了，那不如就按照中大型项目的架构来分离前后端！一次到位）
 - [SpanNetty](https://github.com/cuteant/SpanNetty) Port of Netty(v4.1.51.Final) for .NET
 - [Dotnetty-Practice](https://github.com/JusterZhu/Dotnetty-Practice) 主要讲解dotnetty企业级的应用开发，帮助开发者更容易的学习掌握该网络通讯框架。
 - [DotNettyForUnity](https://github.com/vovgou/DotNettyForUnity)
@@ -2460,6 +2469,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [EntityNetworkingSystems](https://github.com/AncientEntity/EntityNetworkingSystems) A networking framework for Unity.
 - [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial) This is a managed sockets connector for the System.IO.Pipelines API,
 - [JNetwork](https://github.com/1176892094/JNetwork)
+- [asphyxia](https://github.com/Molth/asphyxia) a lifetime of living in obscurity, struggling to make ends meet, and enduring humiliation.
  #### C/CPP
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
@@ -2935,6 +2945,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/CarlVerret/csFastFloat
 - https://github.com/XuToWei/SoftNumber/
 - https://github.com/XuToWei/com.unity.softfloat
+- https://github.com/XuToWei/SoftFloat/
+- https://github.com/iggigabriel/FixPointUnity
+- https://github.com/daleth90/fixed-point-unity
+- https://github.com/8izips/fMath
 - https://github.com/zeroerror/ZeroPhysics
 - https://github.com/chenwansal/FPPhysics2D
 - https://github.com/GameArki/FPMath
@@ -3578,6 +3592,7 @@ Showing off the power of shader properties in Unity
 
 #### NPR
 - https://github.com/FernRP
+- https://github.com/Delt06/toon-rp
 - https://github.com/danbaidong1111/DanbaidongRP
 - [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
 - [FernNPR](https://github.com/DeJhon-Huang/FernNPR) NPR相关实验，基于Unity。
@@ -4442,6 +4457,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/benaadams/Ben.StringIntern string intern
 - https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
 - https://github.com/871041532/zstring 零内存消耗的stringbuilder
+- https://github.com/FlatlinerDOA/Rope
 - https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
 - https://github.com/snozbot/FastString Alternative to StringBuilder class for Unity games, with minimal memory allocation and faster performance. 
 - https://github.com/MikePopoloski/StringFormatter Zero-allocation string formatting for .NET. 
@@ -4862,6 +4878,7 @@ Showing off the power of shader properties in Unity
 #### Node-Editor
 - [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
+- [UniState](https://github.com/bazyleu/UniState) UniState is an architectural framework for Unity, designed around State pattern. Offers high performance and excellent scalability, ideal for complex Unity projects.
 - [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
 - [XNode](https://github.com/Siccity/xNode)
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
@@ -5050,12 +5067,17 @@ Showing off the power of shader properties in Unity
 - [material-timeline-track](https://assetstore.unity.com/packages/tools/animation/material-timeline-track-207256)
 - [Unified-Renderer-Unity](https://github.com/lukakldiashvili/Unified-Renderer-Unity)
 - [TimelineExtensions](https://github.com/SauryChang/TimelineExtensions)
+
+
+#### Camera
+- https://github.com/gilzoide/unity-camera-fov-fit
 - [UnityCameraSystem_CC](https://github.com/LeahLee13/UnityCameraSystem_CC) [bilibili](https://www.bilibili.com/video/av301538767/) 基于Cinemachine的第一/三人称过肩
 - [Cine-AI](https://github.com/inanevin/Cine-AI) 
 - [tactical-camera](https://www.impossible-odds.net/tactical-camera/) The Tactical Camera package for Unity contains an easy-to-use camera system, ideal for both top-down overview of your worlds and close-up action scenes. It offers a lot of freedom to define and customize its behavior.
 - [RTSCameraController-Cinemachine](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine)
 - [UnityCinematicControl](https://github.com/andreasbaumde/UnityCinematicControl)
-- [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions)
+- [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions) 
+ 
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 #### Particle
@@ -5149,7 +5171,8 @@ Showing off the power of shader properties in Unity
 - [Runtime-TypeCache](https://github.com/thebeardphantom/Runtime-TypeCache) Extending Unity's UnityEditor.TypeCache support to player builds.
 - [assemblytools](https://github.com/Jawsarn/com.jforge.assemblytools) JForge Assembly Tools is a collection of tools to help with creating and managing assemblies within a Unity Project
 - [Assembly](https://github.com/Bian-Sh/Friend-Assembly-By-asmref) 演示了使用 Assembly Definition References 实现无侵入的新增动态友元|Demonstrated the use of Assembly Definition References to achieve non-intrusive addition of dynamic friend assemblies
-
+- [MethodTimer](https://github.com/Fody/MethodTimer)
+- [ZergRush](https://github.com/CeleriedAway/ZergRush)
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -5328,6 +5351,7 @@ Showing off the power of shader properties in Unity
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [fast-skinned-mesh-combiner](https://github.com/joshcamas/fast-skinned-mesh-combiner)
  - [SkinnedMeshCombiner](https://github.com/JLChnToZ/SkinnedMeshCombiner)
+ - [multi-material-atlasing-skinned-mesh-combiner](https://assetstore.unity.com/packages/tools/modeling/multi-material-atlasing-skinned-mesh-combiner-with-data-save-139574)
  - [AvatarClothes](https://github.com/136512892/AvatarClothes) Unity 人物换装系统解决方案
  - [character-customization](https://assetstore.unity.com/packages/tools/utilities/character-customization-181286) 人物换装系统 插件
  - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin
@@ -5372,6 +5396,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/MirzaBeig/GPU-Fog-Particles
 - https://github.com/GarrettGunnell/CS2-Smoke-Grenades
 - https://github.com/Reguluz/HeightExponentialFog
+- https://github.com/mkwozniak/mangofogunity
 #### Volumetric Mesh
 -  [volumetric Mesh ](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Clayxels is an interactive volumetric toolkit to sculpt models in editor and in game
 #### Editor
@@ -5392,6 +5417,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/AlexeyTaranov/SerializeReferenceDropdown
 * [SaintsField](https://github.com/TylerTemp/SaintsField) A Unity Inspector extension tools focusing on script fields inspector enhancement
 * [ProjectWindowHistory](https://github.com/Yusuke57/ProjectWindowHistory)
+* [EasyTab](https://github.com/dav-sea/EasyTab)
 
 
 #### Asset-Management
@@ -5486,6 +5512,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)
 - [ExtEvents](https://github.com/SolidAlloy/ExtEvents) A better replacement for UnityEvents
 - [Unity.MissingUnityEvents](https://github.com/handzlikchris/Unity.MissingUnityEvents)
+- [Unity-Missing-Features](https://github.com/kevincastejon/Unity-Missing-Features)
 - [VitalRouter](https://github.com/hadashiA/VitalRouter)
 - [bovinelabs.event](https://github.com/tertle/com.bovinelabs.event) A high performance solution for safely creating events between systems in Unity ECS.
 - [UniFlux](https://github.com/xavierarpa/UniFlux) Easy to use, Super Optimized, Typed Event Driven with Flux for Unity.
@@ -5536,6 +5563,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [Game-ci](https://github.com/game-ci)自动测试和构建游戏项目的最快、最简单的方法
 - https://github.com/UNSH/Unity-Apple-Distribution-Workflow
 - https://github.com/tylearymf/UniHacker
+- https://github.com/somedeveloper00/GameBuilder
 - https://github.com/unitycoder/UnityLauncherPro
 - [buildtool](https://github.com/superunitybuild/buildtool)
 - [unity-build-system](https://github.com/kwnetzwelt/unity-build-system)

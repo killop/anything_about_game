@@ -15,6 +15,7 @@ https://mp.weixin.qq.com/s/sgyLTmUycPCFnDGvNXYJmQ
 ## LOL mobile
 - [谈一谈英雄联盟手游渲染2](https://zhuanlan.zhihu.com/p/286836840)
 ## 原神
+- https://github.com/Ashley-619
 - [简单复刻一下《崩坏-星穹铁道》的角色渲染](https://zhuanlan.zhihu.com/p/693831511)
 - [Unity_StarRail_CRP_Sample](https://github.com/ChillyHub/Unity_StarRail_CRP_Sample) 一个基于URP Renderer Feature 的模仿还原崩坏星穹铁道渲染的自定义渲染管道示例
 - [NahidaRenderProject](https://github.com/kaze-mio/NahidaRenderProject)
