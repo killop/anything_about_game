@@ -123,7 +123,8 @@ Table of Contents
     - [Rust](#rust-1)
     - [Lua](#lua)
     - [ts](#ts)
-    - [Benchmark](#benchmark)
+    - [ECS-Benchmark](#ecs-benchmark)
+    - [Csharp-Benchmark](#csharp-benchmark)
     - [Article](#article-3)
 - [Hash](#hash)
 - [Compression](#compression)
@@ -1431,6 +1432,7 @@ Table of Contents
 - https://github.com/qwe321qwe321qwe321/Unity-AnimatorTransitionCopier
 - https://github.com/rrazgriz/RATS
 - https://github.com/forestrf/UnityAnimationWindow
+- https://github.com/anatawa12/AnimatorController-as-a-Code
  
 
 ## Console/Command/Shell/Debugger
@@ -1844,6 +1846,7 @@ Table of Contents
 * [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！ 
 * [unity-gitattributes](https://gist.github.com/JoaoBorks/9cc68762f5d2f5573c00b3aacbb3a57f)
 * [unity-git-locks](https://github.com/TomDuchene/unity-git-locks) Provides an extensive Unity integration for Git LFS locks, which are are essentials when working in teams to prevent conflicts, especially on binary files.
+* [Gitostory](https://github.com/emirkivrak/Gitostory)
 * [UnityEditorGitTool](https://github.com/kamgam/UnityEditorGitTool) A tool which automatically saves the git hash into a text asset
 
 #### article
@@ -2284,10 +2287,16 @@ Table of Contents
 - https://github.com/bakpakin/tiny-ecs 
 #### ts
 -  https://github.com/3mcd/javelin
-#### Benchmark
+#### ECS-Benchmark
 * [ecs_benchmark](https://github.com/abeimler/ecs_benchmark): EnTT vs. entityx vs. anax vs. Artemis-Cpp
 * [Ecs.CSharp.Benchmark](https://github.com/Doraku/Ecs.CSharp.Benchmark) Benchmarks of some C# ECS frameworks. 
 * https://github.com/friflo/ECS.CSharp.Benchmark-common-use-cases
+
+#### Csharp-Benchmark
+* [c-array-and-list-fastest-loop](https://blog.ndepend.com/c-array-and-list-fastest-loop/) 
+* [Performance-Wars-Benchmarking-CSharp](https://github.com/mjebrahimi/Performance-Wars-Benchmarking-CSharp)
+* [blog.ndepend](https://blog.ndepend.com/category/net/)
+
 #### Article
 - [ecs-faq](https://github.com/SanderMertens/ecs-faq)
 
@@ -3077,6 +3086,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 ## Game-BenchMark/Metric/Tool
 #### Common
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)
+- [Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/) 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
 - [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
 - [Remotery](https://github.com/Celtoys/Remotery)
 - [tracy](https://github.com/wolfpld/tracy) C++ frame profiler
@@ -5085,6 +5095,7 @@ Showing off the power of shader properties in Unity
 - [【Unity工具】使用Mesh生成以降低特效贴片Overdraw的自动化工具](https://zhuanlan.zhihu.com/p/678481238) 
 - https://github.com/sunbrando/ParticleEffectProfiler
 #### Util
+- https://github.com/Greener-Games/Unity_Extensions/
 - https://github.com/nothke/unity-utils
 - https://github.com/adammyhre/Unity-Utils
 - https://github.com/oleghcp/UnityTools
@@ -5275,6 +5286,7 @@ Showing off the power of shader properties in Unity
 * [EntitiesEvents](https://github.com/AnnulusGames/EntitiesEvents) Provides inter-system messaging functionality to Unity ECS
 * [TransformAccessArrayDemo](https://github.com/Jura-Z/TransformAccessArrayDemo) This project demonstrates a few ways to implement moving 3d objects (casters) that project some decal (see Decal Documentation in URP) on the ground below them.
 * https://github.com/enzi/NZCore
+* https://github.com/Nebukam/com.nebukam.job-assist
 #### PathFinding
 * https://coffeebraingames.wordpress.com
 * http://qiao.github.io/PathFinding.js/visual/
