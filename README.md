@@ -217,6 +217,7 @@ Table of Contents
     - [RenderPipelineFrameWork](#renderpipelineframework)
     - [Global illumination (GI)](#global-illumination-gi)
       - [Collection](#collection-6)
+      - [RadianceCascades](#radiancecascades)
       - [PRT](#prt)
       - [Irradiance Probes/Voxels](#irradiance-probesvoxels)
       - [VPL](#vpl)
@@ -1677,6 +1678,7 @@ Table of Contents
 - https://github.com/super-continent/game-reversing-resources
 - https://github.com/dsasmblr/game-hacking/
 - https://github.com/kovidomi/game-reversing
+- https://github.com/YeLikesss/CNGALReverseNote
 - [il2cpp-modder](https://github.com/juanmjacobs/il2cpp-modder)
 * [FakerAndroid](https://github.com/Efaker/FakerAndroid) A tool translate a apk file to stantard android project include so hook api and il2cpp c++ scaffolding when apk is a unity il2cpp game. Write code on a apk file elegantly.
 * [EpicFixShader](https://github.com/pema99/EpicFixShader) Patch shaders in AssetBundles to support Single Pass Stereo Instancing
@@ -2487,6 +2489,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [ggpo](https://github.com/pond3r/ggpo) Good Game, Peace Out Rollback Network SDK 
 - [yasio](https://github.com/yasio/yasio/)  A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
 - [libhv](https://github.com/ithewei/libhv) 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
+- https://github.com/skypjack/uvw/
 - [handy](https://github.com/yedf2/handy) 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
 - [workflow](https://github.com/sogou/workflow) C++ Parallel Computing and Asynchronous Networking Engine
 - [Server](https://github.com/shenmingik/Server) 基于muduo网络库的集群聊天服务器
@@ -3884,6 +3887,9 @@ Showing off the power of shader properties in Unity
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
 *  [NatRender](https://github.com/unitycoder/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 
+##### RadianceCascades
+- [RadianceCascades](https://github.com/Youssef-Afella/RadianceCascadesUnity)
+- https://github.com/simondevyoutube/Shaders_RadianceCascades
 ##### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
@@ -4685,6 +4691,7 @@ Showing off the power of shader properties in Unity
 #### IL
 - [Disasmo](https://github.com/EgorBo/Disasmo)  VS2022 Add-in. Click on any method or class to see what .NET Core's JIT generates for them (ASM).
 - [net-ssa](https://github.com/m-carrasco/net-ssa) net-ssa: A fast and easy-to-use register-based representation for .NET bytecode.
+- [JitInspector](https://github.com/DaZombieKiller/JitInspector) JIT codegen inspector for Unity
 ## DevOps
 #### Tools
 - [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
