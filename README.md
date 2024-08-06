@@ -3091,6 +3091,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)
 - [Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/) 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
 - [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
+- [py-ios-device](https://github.com/YueChen-C/py-ios-device)
 - [Remotery](https://github.com/Celtoys/Remotery)
 - [tracy](https://github.com/wolfpld/tracy) C++ frame profiler
 - [perfdog](https://perfdog.qq.com/) 移动全平台性能测试分析专家
@@ -4041,8 +4042,10 @@ Showing off the power of shader properties in Unity
 * [ConeSphereOcclusionLUT](https://github.com/knarkowicz/ConeSphereOcclusionLUT) ConeSphereOcclusionLUT generates a cone sphere occlusion LUT to be used with TLoU style **capsule AO shadows**. For details "Lighting Technology Of "The Last Of Us".
 * [RTAO](https://github.com/boksajak/RTAO) Ray Traced Ambient Occlusion (RTAO) implemented using DirectX Raytracing (DXR)
 * [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
+* [ambient occlusion baking tool](https://github.com/prideout/aobaker)
 * [dxr-ao-bake](https://github.com/Twinklebear/dxr-ao-bake) A demo of ambient occlusion map baking using DXR
 * [DFAO-unity)](https://github.com/ZephyrL/DFAO-unity) Distance Field Ambient Occlusion, implemented in Unity, as an extension of SDFr
+* [VertexColorBaker](ttps://github.com/Fewes/VertexColorBaker)
 * [CapsuleOcclusion](https://github.com/Fewes/CapsuleOcclusion)
 * [GTAO_URP](https://github.com/bladesero/GTAO_URP) ground truth ambient occlusion in unity urp
 ##### Bent Normal
@@ -4245,6 +4248,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/AKGWSB/FFTConvolutionBloom
 - https://github.com/tkonexhh/X-PostProcessing-URP
+- https://github.com/Mortalitas/GShade
 - https://github.com/MikuMikuShaders/SMAA
 - https://github.com/GarrettGunnell/Post-Processing
 - https://github.com/xwidghet/StereoCancer
