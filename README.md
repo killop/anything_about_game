@@ -447,6 +447,7 @@ Table of Contents
 #### Graphic
 - [fun-with-computer-graphics](https://github.com/zheng95z/fun-with-computer-graphics)
 - [acm](https://dl.acm.org/loi/tog)
+- [graphics-developer-roadmap](https://github.com/prographon/graphics-developer-roadmap)
 - [replicability](https://replicability.graphics/index.html#project)
 - [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) 
 - [shaders](https://www.reddit.com/r/shaders/)
@@ -1434,7 +1435,8 @@ Table of Contents
 - https://github.com/rrazgriz/RATS
 - https://github.com/forestrf/UnityAnimationWindow
 - https://github.com/anatawa12/AnimatorController-as-a-Code
- 
+- [curvify](https://assetstore.unity.com/packages/tools/animation/curvify-277062) Curvify allows you to easily apply easing curves to Animation Curves with just one click, significantly improving the efficiency of creating animations in Unity.
+  
 
 ## Console/Command/Shell/Debugger
 - [Unity-DeveloperConsole](https://github.com/DavidF-Dev/Unity-DeveloperConsole)
@@ -1863,6 +1865,7 @@ Table of Contents
 - https://github.com/hstcscolor/awesome-gameserver-cn
 - https://github.com/novusengine/NovusCore
 - https://github.com/jzyong/ugk-server
+- https://github.com/aceld/zinx/
 - https://github.com/CypherCore/CypherCore
 - https://github.com/mangoszero/server
 - https://github.com/mirbeta/OpenMir2
@@ -3565,7 +3568,7 @@ Showing off the power of shader properties in Unity
 - [GPU架构 核心问题笔记](https://zhuanlan.zhihu.com/p/139118900)
 - [Awesome-GPU](https://github.com/Jokeren/Awesome-GPU)
 - [移动处理器CPU性能天梯图](https://pan.baidu.com/s/1hqKuONq)
-- [PU性能天梯图](https://www.socpk.com/allperf/)
+- [GPU性能天梯图](https://www.socpk.com/allperf/)
 - [GPU-BenchMark](https://gfxbench.com/result.jsp)
 - [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
 - 微信公众号：GPUer
@@ -4243,6 +4246,7 @@ Showing off the power of shader properties in Unity
 - [keen-vectors](https://assetstore.unity.com/packages/add-ons/keen-vectors-beta-254369)
 #### Post-Process
 - https://github.com/DevsDaddy/UnityXScaling Unity XScaling - a runtime framework for GPU-based textures and screen upscaling (super-resolution). Supports every platform.
+- https://github.com/sphynx-owner/JFA_driven_motion_blur_demo
 - https://github.com/SnapdragonStudios/snapdragon-gsr
 - https://github.com/tatoforever/snapdragon-gsr
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
@@ -4489,6 +4493,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/augustoproiete/NaturalStringExtensions
 - https://github.com/sq/FString
 - https://github.com/U8String/U8String
+- [DefaultInterpolatedStringHandler.cs](https://gist.github.com/Akeit0/0ac9a82ecbe952287bae694a10a7a7d0)
 #### Thread/Task
 - https://github.com/RichieSams/FiberTaskingLib
 - https://github.com/taskflow/taskflow
@@ -5056,6 +5061,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/instance-id/ElementAnimationToolkit
 - http://zh.esotericsoftware.com/spine-unity
 - https://github.com/gindemit/unity-rlottie
+- https://github.com/gilzoide/unity-lottie-player
 - https://github.com/leetful/u.movin
 - [SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) Skia For Unity with skottie animations
 - https://github.com/toptensoftware/RichTextKit
@@ -5165,6 +5171,7 @@ Showing off the power of shader properties in Unity
 - [unity-domain-reload-helper](https://github.com/joshcamas/unity-domain-reload-helper)
 - [UnityScriptHotReload](https://github.com/Misaka-Mikoto-Tech/UnityScriptHotReload)
 - https://github.com/handzlikchris/FastScriptReload
+- https://github.com/ZeroUltra/UnityManuallyReload
 - [fast-script-reload-239351](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351) unity-plugin
 - [hotreload](https://hotreload.net/) and his free version [gitlab-freeVersion](https://gitlab.com/singularitygroup/hot-reload-for-unity) [github-freeVersion](https://github.com/pancake-llc/hot-reload)
 - [BuildingHotReloadForUnity](https://github.com/handzlikchris/BuildingHotReloadForUnity)
@@ -5442,6 +5449,7 @@ Showing off the power of shader properties in Unity
 * [SaintsField](https://github.com/TylerTemp/SaintsField) A Unity Inspector extension tools focusing on script fields inspector enhancement
 * [ProjectWindowHistory](https://github.com/Yusuke57/ProjectWindowHistory)
 * [EasyTab](https://github.com/dav-sea/EasyTab)
+* [unity-serializable-collections](https://github.com/gilzoide/unity-serializable-collections)Serializable versions of Dictionary, HashSet and KeyValuePair for Unity 2020.1+
 
 
 #### Asset-Management
