@@ -359,6 +359,7 @@ Table of Contents
 - [看完不star，小心没jj :)!](#看完不star小心没jj-)
 
 ## Awesome-Game
+- [Game Maker Toolkit Notebook](https://docs.google.com/document/d/1rDIupep9HG7u6rcsQBHnJ2v1J3TL9ZjpfRrM3OME9Xs)
 - https://github.com/OTFCG/Awesome-Game-Analysis
 - https://github.com/notpresident35/learn-awesome-gamedev
 - https://github.com/gmh5225/awesome-game-security
@@ -1034,6 +1035,7 @@ Table of Contents
  - https://github.com/soupday/cc_unity_tools_URP
  - https://github.com/huailiang/unity_pose3D
  - https://github.com/kodai100/Unity_ARKitFacialCapture
+ - https://github.com/prefrontalcortex/DomeTools
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -1074,6 +1076,7 @@ Table of Contents
 - [mirage-versatile-impostor-system](https://assetstore.unity.com/packages/tools/utilities/mirage-versatile-impostor-system-261094)
 - [autolod-impostors-199759](https://assetstore.unity.com/packages/tools/utilities/autolod-impostors-199759)
 - https://buaacyw.github.io/mesh-anything/
+- [sphere_generator](https://github.com/matheusamazonas/sphere_generator)
 #### Mipmap
 - [texel-inspector](https://assetstore.unity.com/packages/tools/utilities/texel-inspector-176174)  The Texel Inspector unity plugin
 #### List-of-game-middleware
@@ -1223,6 +1226,7 @@ Table of Contents
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
 * [sprite-dicing](https://github.com/elringus/sprite-dicing)
 * [sprite-animations](https://github.com/no-slopes/sprite-animations)
+* [Moonflow-RampMaker](https://github.com/Moonflow-Studio/Moonflow-RampMaker)
 ## Animation
 #### Article/Collection
 - https://www.creativebloq.com/advice/understand-the-12-principles-of-animation
@@ -1295,6 +1299,7 @@ Table of Contents
 * [MagicTween](https://github.com/AnnulusGames/MagicTween) dots tween High-performance
 * [LitMotion](https://github.com/AnnulusGames/LitMotion)
 * [AnimFlex](https://github.com/somedeveloper00/AnimFlex)
+* https://docs.zigurous.com/com.zigurous.animation/
 * [Tween-Kit](https://github.com/AbdurRafay-Nasir/Tween-Kit) Enhance DOTween with Tween Kit: Seamless, modular components for effortless Tweening.
 * [Animate](https://github.com/sttz/Animate)
 * [softlimit](https://old.reddit.com/r/Unity3D/comments/1cy2cvu/softlimit_the_feature_thatll_make_your_project/)
@@ -1364,6 +1369,7 @@ Table of Contents
 - [UnityKinematicaX](https://github.com/voxell-tech/UnityKinematicaX) A next-generation character animation system built on top of Unity's Kinematica.
 - [DOTSAnimation](https://github.com/gamedev-pro/DOTSAnimation) A high level Animation State Machine Framework for Unity DOTS
 - [unity-dots-animation](https://github.com/Bendzae/unity-dots-animation) Simple animation system for the unity dots stack.
+- https://github.com/MrLiuYX/ECSAnimation/
 - [kinematica](https://docs.unity3d.com/Packages/com.unity.kinematica@0.8/manual/index.html)
 - [reanimation](https://github.com/aarthificial/reanimation) An alternative animator for Unity tailored for traditional animation
 - [dmotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
@@ -1625,6 +1631,7 @@ Table of Contents
 - [BakingSheet](https://github.com/cathei/BakingSheet) Easy datasheet management for C# and Unity. Supports Excel, Google Sheet, JSON and CSV format.
 - [go-xlsx-exporter](https://github.com/wingcd/go-xlsx-exporter) a tool for parse xlsx and export to other fomart and data, such as: probuf3 file and buffers, golang, csharp and so on
 - https://github.com/WoW-Tools/
+- https://github.com/mackysoft/MasterTools?
 - https://github.com/NtreevSoft/Crema
 - https://github.com/vriad/zod
 - https://github.com/ExpediaGroup/stream-registry
@@ -2363,6 +2370,7 @@ Table of Contents
 - [DOTSNET](https://assetstore.unity.com/packages/tools/network/dotsnet-dots-networking-102633) unity -dots netcode plugin
 - [multiplayer-community-contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions)
 - [ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp) Reliable UDP networking library 
+- https://github.com/Molth/enet-csharp
 - [NetworkToolkit](https://github.com/scalablecory/NetworkToolkit) This project contains networking primitives for use with .NET. 
 - http://www.hslcommunication.cn/
 - [normcore](https://normcore.io/) Normcore is the best way to add multiplayer to any project. Period.
@@ -2450,6 +2458,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [kcp-Code-annotation](https://gitee.com/he-linson/kcp-Code-annotation)
 * [learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol) KCP协议基本数据结构和算法介绍
 * [KCP](https://github.com/KumoKyaku/KCP) KCP C#版。线程安全，运行时无alloc，对gc无压力。,
+* https://github.com/Molth/Kcp-CSharp
 * [kcp-unity](https://github.com/passiony/kcp-unity)
 * [kcp-genshin](https://github.com/labalityowo/kcp-genshin)
 * https://github.com/xtaci/kcptun/
@@ -2717,6 +2726,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
 * https://github.com/meniku/NPBehave
+* https://github.com/Saroce/BehaviorTreeEditor
 * https://github.com/AkiKurisu/Real-Agents
 - [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
 - [com.bananaparty.behaviortree](https://github.com/forcepusher/com.bananaparty.behaviortree) Unity package. Fully cross-platform Behavior Tree featuring support for deterministic simulation and prediction-rollback netcode.  
@@ -2963,6 +2973,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/XuToWei/com.unity.softfloat
 - https://github.com/XuToWei/SoftFloat/
 - https://github.com/iggigabriel/FixPointUnity
+- https://github.com/XMunkki/FixPointCS
 - https://github.com/daleth90/fixed-point-unity
 - https://github.com/8izips/fMath
 - https://github.com/zeroerror/ZeroPhysics
@@ -3062,6 +3073,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Parrot222/Unity-URP-Underwater-Effects
 - https://github.com/Parrot222/Unity-Water-Shaders
 - https://github.com/SebLague/Fluid-Sim
+- https://github.com/shanecelis/water-demo webgl
 #### Glass
 - https://github.com/toadstorm/RainyGlassShader 
 - https://github.com/omid3098/Unity-URP-GlassShader
@@ -3154,6 +3166,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [Android GPU Inspector](https://gpuinspector.dev/)
 - [ShaderDebugger](https://github.com/arigo/ShaderDebugger) unity-shader-debugger
 - [UnityShaderDebug](https://github.com/yujen/UnityShaderDebug) This material can print shader value. 
+- [A unity shader .cginc to draw numbers in the fragment shader](https://gist.github.com/FreyaHolmer/71717be9f3030c1b0990d3ed1ae833e3)
 - [Unity-ShaderCharDisplay](https://github.com/frankhjwx/Unity-ShaderCharDisplay)
 - [ShaderDebug](https://github.com/zouchunyi/ShaderDebug) 详细文档参见知乎： https://zhuanlan.zhihu.com/p/104643601
 - [pix]( https://devblogs.microsoft.com/pix/documentation/)
@@ -3316,6 +3329,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [XUSG](https://github.com/StarsX/XUSG) XUSG, XU's supreme graphics lib, is a handy wrapper currently for DirectX 12. It can be a good reference for designing your own DX12 wrapper APIs.
 - [LLGL](https://github.com/LukasBanana/LLGL) Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal
 - [nicegraf](https://github.com/nicebyte/nicegraf)
+- [Kinc](https://github.com/Kode/Kinc?) Modern low level game library and hardware abstraction.
 #### Collection
 - [awesome-geometry-processing)](https://github.com/zishun/awesome-geometry-processing)
 - [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
@@ -3705,6 +3719,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/rgl-epfl/differentiable-sdf-rendering
 * [mesh-to-sdf](https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf)
 #### SphericalHarmonicLighting/CubeMap/Probes
+- https://www.pauldebevec.com/Probes/
 - [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 - https://github.com/wlgys8/SHLearn 
 - https://github.com/pema99/BakeSH
@@ -3948,6 +3963,7 @@ Showing off the power of shader properties in Unity
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
 * [mf-ssgi](https://forum.unity.com/threads/mf-ssgi-v1-0-live-bridging-the-gap-between-urp-and-hdrp-global-illumination-occlusion.1367820/) [github](https://github.com/MFrankfort84/mfssgi)
+* https://github.com/cdrinmatane/SSRT3
 ##### DFGI
 ##### Lighting Grid 
 * [LGHDemo](https://github.com/DQLin/LGHDemo)  Real-Time Rendering with Lighting Grid Hierarchy I3D 2019 Demo
@@ -4801,6 +4817,7 @@ Showing off the power of shader properties in Unity
  
 #### Skill
 - https://github.com/lsunky/SkillEditorDemo
+- https://github.com/meredoth/Stat-System
 - https://github.com/ancientElement/AE_Skill_Editor
 - https://github.com/kierstone/ACT-Game-Action-System
 - https://github.com/NoBugCn/ActionEditor
@@ -4938,6 +4955,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/blightue/UIEEx
 - https://github.com/codewriter-packages/TutorialMaskForUGUI
 - [CSReactive](https://github.com/labbbirder/CSReactive) 纯C#下实现Vue，特别针对Unity
+- https://github.com/labbbirder/UnityVue
 - [MVI4Unity](https://github.com/Wilson403/MVI4Unity) 基于MVI架构为Unity设计的UI框架 （不管你是使用UGUI，NGUI或者其它，MVI4Unity都可以适用）
 - [LiShengYang-yiyi](https://github.com/LiShengYang-yiyi) Unity3D UGUI Framework
 - [UGUIExtension](https://github.com/SihaoLiang/UGUIExtension)
@@ -5024,6 +5042,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/neon-izm/UnityTextMeshProNotoSansForRude
 - https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
+- [FontAssetSaveDisabler.cs](https://gist.github.com/yasirkula/edf4ba1bb7c5c18800e791e01bc9bcd7)
 - https://github.com/Giresharu/TMPro-Player
 - https://github.com/Luca3317/TMPEffects
 - https://github.com/aillieo/TMPSpriteAssetCreator
@@ -5095,6 +5114,7 @@ Showing off the power of shader properties in Unity
 - [material-timeline-track](https://assetstore.unity.com/packages/tools/animation/material-timeline-track-207256)
 - [Unified-Renderer-Unity](https://github.com/lukakldiashvili/Unified-Renderer-Unity)
 - [TimelineExtensions](https://github.com/SauryChang/TimelineExtensions)
+- [Unity_SubtitleTimeline](https://github.com/murasaqi/Unity_SubtitleTimeline)
 
 
 #### Camera
@@ -5184,6 +5204,7 @@ Showing off the power of shader properties in Unity
 - [引擎编译时间优化](https://zhuanlan.zhihu.com/p/601065788)
 - [UniTyped](https://github.com/ruccho/UniTyped)  UniTyped is a source generator that allows typed access to data such as SerializedObjects, material parameters, tags and layers
 - [csharp-source-generators](https://github.com/amis92/csharp-source-generators) 
+- https://github.com/longde123/csharp-source-generators
 - [SourceGenerator.Foundations](https://github.com/ByronMayne/SourceGenerator.Foundations) A Source Generator for Source Generators. Gives out of the box support for transistent dependencies and logging right in Visual Studio
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
@@ -5191,6 +5212,7 @@ Showing off the power of shader properties in Unity
 - [Rider 中使用 Source Generator](https://qiita.com/amenone_games/items/0a99f38fd08911b62c3a)
 - [Arch.Extended](https://github.com/genaray/Arch.Extended) Extensions for Arch with some useful features like Systems, Source Generator and Utils.
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
+- [RapidEnum](https://github.com/hanachiru/RapidEnum) Enum utility with SourceGenerator for C#/.NET
 - [DomainReloadSG](https://github.com/LurkingNinja/DomainReloadSG)
 - [UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen) 
 - [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
@@ -5344,6 +5366,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Cr33zz/Nav
 - https://github.com/snape/RVO2-CS
 - https://github.com/warmtrue/RVO2-Unity
+- https://github.com/aillieo/RVO2-Unity
 - https://github.com/sunsvip/UnityRVO2
 - https://zhuanlan.zhihu.com/p/669426124
 - https://github.com/Nebukam/com.nebukam.orca
@@ -5382,6 +5405,7 @@ Showing off the power of shader properties in Unity
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
  - [fast-skinned-mesh-combiner](https://github.com/joshcamas/fast-skinned-mesh-combiner)
  - [SkinnedMeshCombiner](https://github.com/JLChnToZ/SkinnedMeshCombiner)
+ - [avautils](https://github.com/JLChnToZ/avautils)
  - [multi-material-atlasing-skinned-mesh-combiner](https://assetstore.unity.com/packages/tools/modeling/multi-material-atlasing-skinned-mesh-combiner-with-data-save-139574)
  - [AvatarClothes](https://github.com/136512892/AvatarClothes) Unity 人物换装系统解决方案
  - [character-customization](https://assetstore.unity.com/packages/tools/utilities/character-customization-181286) 人物换装系统 插件
@@ -5562,6 +5586,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [senses](https://assetstore.unity.com/packages/tools/behavior-ai/senses-279833)
 - [raycastpro](https://assetstore.unity.com/packages/tools/physics/raycastpro-214714)
 - [dynamic-raycast-system-2-0](https://assetstore.unity.com/packages/tools/integration/dynamic-raycast-system-2-0-c-jobs-123768)
+- [geocast-gpu-collider-free-raycasting-engine](https://assetstore.unity.com/packages/tools/physics/geocast-gpu-collider-free-raycasting-engine-291609)
 - [targeting-system-3](https://assetstore.unity.com/packages/add-ons/targeting-system-3-0-215501)
 
 #### CameraController
