@@ -4399,6 +4399,7 @@ Showing off the power of shader properties in Unity
 
 ## Bad Words Filter
 - [bad-word-filter](https://assetstore.unity.com/packages/tools/localization/bad-word-filter-pro-26255) unity-plugin
+- https://github.com/OnClick9927/WooLocalization
 - https://github.com/toolgood/ToolGood.Words  -- 中文敏感词过滤
 - https://github.com/NewbieGameCoder/IllegalWordsDetection 敏感词过滤
 - https://github.com/871041532/ZMatchForLua
