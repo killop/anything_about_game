@@ -217,6 +217,7 @@ Table of Contents
     - [RenderPipelineFrameWork](#renderpipelineframework)
     - [Global illumination (GI)](#global-illumination-gi)
       - [Collection](#collection-6)
+      - [nanite](#nanite)
       - [RadianceCascades](#radiancecascades)
       - [PRT](#prt)
       - [Irradiance Probes/Voxels](#irradiance-probesvoxels)
@@ -1304,7 +1305,9 @@ Table of Contents
 * [Animate](https://github.com/sttz/Animate)
 * [softlimit](https://old.reddit.com/r/Unity3D/comments/1cy2cvu/softlimit_the_feature_thatll_make_your_project/)
 * [UniTaskAnimations](https://github.com/smiledir1/UniTaskAnimations)
+* [tools-motion-kit](https://github.com/cocodrilodog/tools-motion-kit)
 * [Milease](https://github.com/MorizeroDev/Milease) Animate anything in one line of code, simplifying your UI animation development process and boosting your UI development efficiency.
+ 
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
@@ -1355,9 +1358,11 @@ Table of Contents
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/rurre/PumkinsAvatarTools unity 表情
 - https://github.com/huailiang/knead_proj unity  捏脸
+- https://github.com/SerhatDikel/Unity-BodyMorph
 - https://assetstore.unity.com/packages/tools/animation/puppet-face-181312
 - https://github.com/PixelWizards/BlendShapeController blendShapeController
 - https://github.com/hiroki-o/VoxBlend blendShapeController
+- https://github.com/Tr1turbo/BlendShare
 - https://blog.uwa4d.com/archives/USparkle_Animation-AI.html
 - https://www.sohu.com/a/259856518_463994?qq-pf-to=pcqq.group -吃鸡的动画状态机设计
 - [animancer](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514)
@@ -1820,6 +1825,9 @@ Table of Contents
 ## Linux
 -  [linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 ## Version-Control
+- https://github.com/skanmera/ExcelMerge
+- https://github.com/821869798/excel_merge
+- https://ugit.qq.com/en/
 - https://github.com/NibbleByte/UnityWiseGit
 - https://github.com/kekyo/GitReader
 - https://github.com/unixorn/git-extra-commands
@@ -2126,6 +2134,7 @@ Table of Contents
 - https://github.com/Levchenkov/NetCode
 - https://github.com/Cysharp/MemoryPack [ppt](https://speakerdeck.com/neuecc/cedec-2023-modanhaipahuomansuc-number-2023-edition)
 - https://github.com/dbolin/Apex.Serialization
+- https://github.com/inkeliz/karmem
 - https://github.com/space-wizards/netserializer
 - https://github.com/apache/arrow
 - https://github.com/koralium/Koralium
@@ -3904,8 +3913,10 @@ Showing off the power of shader properties in Unity
 * https://github.com/Henry00IS/DynamicLighting
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
-*  [NatRender](https://github.com/unitycoder/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
+* [NatRender](https://github.com/unitycoder/NatRender) NatRender is a lightweight graphics utility library for Unity Engine.
 
+##### nanite
+- https://github.com/Scthe/nanite-webgpu
 ##### RadianceCascades
 - [RadianceCascades](https://github.com/Youssef-Afella/RadianceCascadesUnity)
 - https://github.com/simondevyoutube/Shaders_RadianceCascades
@@ -5458,6 +5469,7 @@ Showing off the power of shader properties in Unity
 #### Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
+* [UnityHiddenObjectFinder](https://github.com/SolarianZ/UnityHiddenObjectFinder/)
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
@@ -5573,6 +5585,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [VitalRouter](https://github.com/hadashiA/VitalRouter)
 - [bovinelabs.event](https://github.com/tertle/com.bovinelabs.event) A high performance solution for safely creating events between systems in Unity ECS.
 - [UniFlux](https://github.com/xavierarpa/UniFlux) Easy to use, Super Optimized, Typed Event Driven with Flux for Unity.
+- [schedule](https://github.com/FelixBole/schedule-master)
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
