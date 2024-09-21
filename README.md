@@ -255,6 +255,7 @@ Table of Contents
     - [GPU Driven](#gpu-driven)
     - [GPU-Particle](#gpu-particle)
     - [BVH](#bvh)
+    - [Afterimage](#afterimage)
     - [SVG](#svg)
     - [Post-Process](#post-process)
     - [MatCaps](#matcaps)
@@ -290,7 +291,7 @@ Table of Contents
     - [Collection](#collection-7)
     - [Allocator](#allocator)
     - [Garbage Collector](#garbage-collector)
-    - [dynCall](#dyncall)
+    - [dynCall/ffi/interop](#dyncallffiinterop)
     - [IL](#il)
 - [DevOps](#devops)
     - [Tools](#tools)
@@ -3761,6 +3762,7 @@ Showing off the power of shader properties in Unity
 - [InfLightProbe](https://github.com/limztudio/InfLightProbe) Automatic Light probe generator for Unity engine. Based on "Light Grid" of "Precomputed Lighting in CoD IW 2017". and "Light probe interpolation using tetrahedral tessellations" by "Robert Cupisz".
 - https://github.com/pieroaccardi/Unity_SphericalHarmonics_Tools
 - https://github.com/526077247/Dual-Paraboloid-Reflection-Mapping
+- https://github.com/ushizawa-jushichi/U17CubemapGenerator
 #### Outline
 - https://alexanderameye.github.io/notes/rendering-outlines/
 - https://assetstore.unity.com/packages/vfx/shaders/linework-294140
@@ -3992,6 +3994,7 @@ Showing off the power of shader properties in Unity
 - [unity-voxel-SC-WGRDemo](https://github.com/betairylia/unity-voxel-SC-WGRDemo) Unity playground for voxel world generation / rendering. 
 ##### SSGI
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
+* [UnitySSGIURP](https://github.com/jiaozi158/UnitySSGIURP) Screen Space Global Illumination for Unity URP (Universal Render Pipeline).
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
 * [mf-ssgi](https://forum.unity.com/threads/mf-ssgi-v1-0-live-bridging-the-gap-between-urp-and-hdrp-global-illumination-occlusion.1367820/) [github](https://github.com/MFrankfort84/mfssgi)
 * https://github.com/cdrinmatane/SSRT3
@@ -4284,6 +4287,9 @@ Showing off the power of shader properties in Unity
 - https://github.com/MircoWerner/VkLBVH
 - https://github.com/zhujun3753/i-octree?
 
+
+#### Afterimage
+- https://github.com/xieliujian/UnityDemo_Afterimage
 #### SVG
 - [Berny_Core](https://github.com/Reavenk/Berny_Core)
 - [UnityGPUVectorGraphics](https://github.com/voxell-tech/UnityGPUVectorGraphics)
@@ -4670,6 +4676,7 @@ Showing off the power of shader properties in Unity
 - [titan](https://github.com/titan-lang/titan)
 - [tolua](https://github.com/topameng/tolua) The fastest unity lua binding solution 
 - [xlua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. 
+- [bLua](https://github.com/bianpeng001/bLua) 另一个Unity3d lua热更方案, another lua solution for Unity3d
 - [PureJSB](https://github.com/linkabox/PureJSB)
 - [gravity](https://github.com/marcobambini/gravity)
 - [quickjs](https://github.com/horhof/quickjs)
@@ -4742,13 +4749,15 @@ Showing off the power of shader properties in Unity
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
-#### dynCall
+#### dynCall/ffi/interop
 - [libffi](http://sourceware.org/libffi/)
 - [dyncall](https://dyncall.org)
 - [xbyak](https://github.com/herumi/xbyak) Xbyak is a C++ header library that enables dynamically to assemble x86(IA32), x64(AMD64, x86-64) mnemonic.
 - https://github.com/royalapplications/beyondnet
 - https://github.com/Cysharp/csbindgen
 - https://github.com/Hitmasu/Jitex
+- https://github.com/XenoAtom/XenoAtom.Interop
+- https://github.com/Nihlus/AdvancedDLSupport/
 #### IL
 - [Disasmo](https://github.com/EgorBo/Disasmo)  VS2022 Add-in. Click on any method or class to see what .NET Core's JIT generates for them (ASM).
 - [net-ssa](https://github.com/m-carrasco/net-ssa) net-ssa: A fast and easy-to-use register-based representation for .NET bytecode.
@@ -5050,6 +5059,7 @@ Showing off the power of shader properties in Unity
 - [ui-particle-image](https://assetstore.unity.com/packages/tools/gui/ui-particle-image-235001) unity-plugin
 - [canvas-particle-system](https://assetstore.unity.com/packages/tools/particles-effects/canvas-particle-system-64134) unity-plugin
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
+- https://github.com/unishiki/Unity-UGUI-Effect
 - https://github.com/PandaArcade/UIOutline
 - [Shader2D](https://github.com/nightyan/Shader2D) Shader2D: some 2d shader effect
 - [Sample file of Unity SYNC2022 "Rich UI effects created with shader and animation"](https://github.com/applibot-inc/sync2022-ui-sample-techbot)
@@ -5217,6 +5227,7 @@ Showing off the power of shader properties in Unity
 #### Rope
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
 - https://github.com/Ali10555/FakeRopeSimulation
+- https://github.com/Ali10555/OptimizedRopesAndCables
 - https://github.com/GaryMcWhorter/Verlet-Chain-Unity
 
 #### Unity-Update
@@ -5517,7 +5528,7 @@ Showing off the power of shader properties in Unity
 * [EasyTab](https://github.com/dav-sea/EasyTab)
 * [unity-serializable-collections](https://github.com/gilzoide/unity-serializable-collections)Serializable versions of Dictionary, HashSet and KeyValuePair for Unity 2020.1+
 * [OdinTree](https://github.com/MasterZ0/OdinTree) This attribute will make it easier when you need to create custom fields and windows within the NodeCanvas
-
+* [Unity_FolderSystem](https://github.com/Gaskellgames/Unity_FolderSystem) Extends Unity by adding in custom folder visuals in the scene hierarchy and project files.
 
 #### Asset-Management
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
