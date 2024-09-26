@@ -943,6 +943,7 @@ Table of Contents
 - https://github.com/MathewHDYT/Unity-Audio-Manager
 - https://github.com/man572142/Bro_Audio
 - https://github.com/CyberAgentGameEntertainment/AudioConductor
+- https://github.com/Yunasawa/YNL-Audio
 #### Music-Tool/Editor
 - https://www.image-line.com/
 - https://www.goldwave.com
@@ -1109,6 +1110,7 @@ Table of Contents
 - https://www.tilesetter.org/
 - [Tiled 2D](https://www.mapeditor.org/) free, easy to use and flexible tile map editor
 - [autotilegen](https://pixelatto.com/products/autotilegen)
+- https://github.com/ruccho/FangAutoTile
 - [SuperTiled2Unity] (https://github.com/Seanba/SuperTiled2Unity) Imports Tiled files to Unity. Better than regular Tiled2Unity. 
 - [tile-map-accelerator](https://forum.unity.com/threads/tile-map-accelerator-high-performance-shader-based-tile-map-renderer.708413/)
 - [tileplus](https://assetstore.unity.com/packages/tools/sprite-management/tileplus-toolkit-201027)
@@ -1243,6 +1245,7 @@ Table of Contents
 - [Cascadeur](https://cascadeur.com/)
 - [spine](http://zh.esotericsoftware.com/)
 - [spine-optimize](https://github.com/506638093/spine-optimize)
+- [SpineGPU](https://github.com/shiyiqiong/SpineGPU)
 - [WaifuSpineRuntime](https://github.com/ZeroFlyFly/WaifuSpineRuntime)
 - https://github.com/fx-lange/unity-spline-scrubber
 - [live3d](http://www.zingfront.cn/live3d/)
@@ -1890,6 +1893,7 @@ Table of Contents
 - [mesop](https://google.github.io/mesop)
 ## Game-Server-framework
 - https://github.com/hstcscolor/awesome-gameserver-cn
+- https://github.com/lipeilin2006/OLFramework
 - https://github.com/novusengine/NovusCore
 - https://github.com/jzyong/ugk-server
 - https://github.com/aceld/zinx/
@@ -1979,7 +1983,7 @@ Table of Contents
 - [Rhisis](https://github.com/Eastrall/Rhisis) Rhisis is an experimental FlyFF MMORPG emulator built with C# 12 and .NET 8
 - https://tsrpc.cn/
 - https://github.com/thkhxm/tgf
-- https://github.com/qq362946/Fantasy
+
 #### Article
 - [danieljimenezmorales blog](https://danieljimenezmorales.github.io/)
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
@@ -2391,6 +2395,8 @@ Table of Contents
 - [4G5G和上网带宽与下载速度的换算方法](https://www.cnblogs.com/zhaoqingqing/p/12755749.html)
 #### C#
 - [Enclave.FastPacket](https://github.com/enclave-networks/Enclave.FastPacket) The FastPacket project provides efficient, zero-allocation mechanisms for reading and writing individual network packets
+- [EasyTcp4Net](https://github.com/BruceQiu1996/EasyTcp4Net/)
+- [heartbeat](https://github.com/AliKhalili/heartbeat)
 - [netmq](https://github.com/zeromq/netmq) A 100% native C# implementation of ZeroMQ for .NET
 - [DOTSNET](https://assetstore.unity.com/packages/tools/network/dotsnet-dots-networking-102633) unity -dots netcode plugin
 - [multiplayer-community-contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions)
@@ -2487,6 +2493,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [kcp-unity](https://github.com/passiony/kcp-unity)
 * [kcp-genshin](https://github.com/labalityowo/kcp-genshin)
 * https://github.com/xtaci/kcptun/
+* https://github.com/qq362946/Fantasy
 * [Ignorance](https://github.com/SoftwareGuy/Ignorance) Ignorance utilizes the power of ENet to provide a reliable UDP networking transport for Mirror Networking.
 * [FishNet](https://github.com/FirstGearGames/FishNet) FishNet: Networking Evolved. (OPEN BETA) 
 * [FFO-FishNet-Floating-Origin](https://github.com/hudmarc/FFO-FishNet-Floating-Origin) Floating Origin for FishNet. Tested with FN versions 2.5.4, 2.5.10 and 2.6.3. Should work with everything in between as well.
@@ -3927,7 +3934,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/NineTwoMay1st/URP_PlanerReflection
 - https://github.com/Reuben-Sun/SSPR
 - https://github.com/fzbRun/Global-Illumination
-
+- https://github.com/KTSAMA001/Unity_URP_Learning
 #### Global illumination (GI)
 
 ##### Collection
@@ -4626,6 +4633,7 @@ Showing off the power of shader properties in Unity
 - [adnc](https://github.com/AlphaYu/adnc) .NET6微服务/分布式开发框架，同时也适用于单体架构系统的开发。
 - https://github.com/aelyo-softworks/Wice
 - [Net 高级调试](https://www.cnblogs.com/PatrickLiu/)
+- [Windows 调试工具课程](https://www.cnblogs.com/lindexi/p/18421353)
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -4807,13 +4815,15 @@ Showing off the power of shader properties in Unity
 - https://github.com/NibbleByte/UnityAssetManagementTools
 - [AssetBundleLoadManager](https://github.com/TonyTang1990/AssetBundleLoadManager)
 - [QuarkAsset](https://github.com/DonnYep/QuarkAsset)
+- [SmartAddresser](https://github.com/CyberAgentGameEntertainment/SmartAddresser)
 
 #### Unity-Framework
 - [GameFrameX](https://github.com/AlianBlank/GameFrameX) 前后端一体化，带后台管理系统，支持webgl和微信小游戏
-- [coimbrastudios](https://github.com/coimbrastudios/framework/blob/master/Documentation~/Index.md)
+- [coimbrastudios](https://github.com/coimbrastudios/framework/blob/master/Documentation~/Index.md) actor/playerloop
 - [F8Framework](https://github.com/TippingGame/F8Framework)
 - https://github.com/cocowolf/loxodon-framework
 - https://tinax.corala.space/#/ tinax
+- https://github.com/JasonXuDeveloper/JEngine
 - https://github.com/gmhevinci/MotionFramework
 - https://github.com/yimengfan/BDFramework.Core
 - https://github.com/liangxiegame/QFramework
@@ -4833,7 +4843,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/ManakhovN/FigmaToUnityImporter
 - https://github.com/TrackMan/Unity.Package.FigmaToUnity
 - https://github.com/kyubuns/AkyuiUnity
-- https://github.com/DonnYep/CosmosFramework
+- https://github.com/DonnYep/CosmosFramework  network util
 - https://github.com/christides11/hack-and-slash-framework
 - https://github.com/ALEXTANGXIAO/GameFramework-at-YooAsset
 - [TaoTie](https://github.com/526077247/TaoTie) 基于YooAsset资源管理的轻量级UI框架
@@ -4845,6 +4855,9 @@ Showing off the power of shader properties in Unity
 - [MojoUnity-Packages](https://github.com/scottcgi/MojoUnity-Packages)
 - https://github.com/821869798/unifantasy
 - https://github.com/sunsvip/GF_HybridCLR
+- https://github.com/JoinEnjoyJoyYangLingYun/HybridCLR_YooAsset_UniTask
+- https://github.com/Me-Maped/Gameframework-at-FairyGUI
+- https://github.com/FlameskyDexive/ETPlus
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
@@ -5158,7 +5171,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/AnnulusGames/TweenPlayables
 - https://github.com/nmxi/Unity_AbstractTimelineExtention
 - [animate-ui-materials](https://assetstore.unity.com/packages/2d/gui/animate-ui-materials-253197)
-- [postprocessing-controller](https://assetstore.unity.com/packages/tools/utilities/postprocessing-controller-217499)
+- [postprocessing-controller](https://assetstore.unity.com/packages/tools/utilities/postprocessing-controller-217499)'
+- [material-property-provider](https://github.com/FredMoreau/com.unity.material-property-provider)
 - [material-timeline-track](https://assetstore.unity.com/packages/tools/animation/material-timeline-track-207256)
 - [Unified-Renderer-Unity](https://github.com/lukakldiashvili/Unified-Renderer-Unity)
 - [TimelineExtensions](https://github.com/SauryChang/TimelineExtensions)
@@ -5829,6 +5843,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 ## 友情链接 
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
 * [ikrima](https://ikrima.dev/) Game Development Notes
+* [个人的技术美术相关知识的学习笔记库](https://github.com/Romantoscalion/Technical_Artist_Technotes)
 * [Unity_Gems](https://github.com/AShine17cm/Unity_Gems)
 * [图形学随笔](https://github.com/Tianji95/CG_learning_note)
 * [Article_About_GameDevelopment](https://github.com/tkonexhh/Article_About_GameDevelopment)
