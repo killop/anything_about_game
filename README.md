@@ -1026,6 +1026,7 @@ Table of Contents
 - [com.unity.demoteam.digital-human](https://github.com/Unity-Technologies/com.unity.demoteam.digital-human) Library of tech features used to realize the digital human from The Heretic and Enemies.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting) VR-Stage-Lighting
 - [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin)
+- 
  - https://github.com/luxonis/depthai-unity
  - https://github.com/runwayml/RunwayML-for-Unity
  - https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer
@@ -1041,6 +1042,7 @@ Table of Contents
  - https://github.com/huailiang/unity_pose3D
  - https://github.com/kodai100/Unity_ARKitFacialCapture
  - https://github.com/prefrontalcortex/DomeTools
+ - https://github.com/YUANZHUO-BNU/metahuman_overview
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -1318,6 +1320,7 @@ Table of Contents
 * [UniTaskAnimations](https://github.com/smiledir1/UniTaskAnimations)
 * [tools-motion-kit](https://github.com/cocodrilodog/tools-motion-kit)
 * [Milease](https://github.com/MorizeroDev/Milease) Animate anything in one line of code, simplifying your UI animation development process and boosting your UI development efficiency.
+* [FlowEnt](https://github.com/Fried-Synapse/FlowEnt)
  
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
@@ -1584,6 +1587,7 @@ Table of Contents
 - [Unity-Grass-Instancer](https://github.com/MangoButtermilch/Unity-Grass-Instancer)
 - https://github.com/GarrettGunnell/
 - [URP-HIZ](https://github.com/himma-bit/empty)
+- https://assetstore.unity.com/packages/tools/utilities/instancecollector-296669
 - https://github.com/TakeshiCho/Unity_GPUInstanceCulling
 - https://github.com/aganwenqi/GPU-Driven-02 hiz
 - https://github.com/SoSoReally/RenderFeature_HizCull
@@ -3730,6 +3734,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/danielshervheim/unity-sdf-generator
 - https://github.com/StarsX/SDFTracing/
 - https://github.com/cecarlsen/SDFTextureGenerator
+- https://github.com/Reguluz/MFSDFShadowGenerator
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
@@ -4476,6 +4481,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/ZiggyCreatures/FusionCache 高性能cache 
 - https://github.com/jitbit/FastCache
 - https://github.com/neon-sunset/fast-cache
+- [.NET 中 Web API 中的速率限制算法](https://mp.weixin.qq.com/s/tnYaeTci9dJIIwj1iOgf1Q)
 - https://github.com/LuchunPen/Fast-Hash-Collection
 - [FibonacciHeap](https://github.com/sqeezy/FibonacciHeap) C# implementation of a fibonacci heap structure.
 - https://github.com/thomhurst/ModularPipelines/
@@ -4528,7 +4534,7 @@ Showing off the power of shader properties in Unity
 - [ObservableComputations](https://github.com/IgorBuchelnikov/ObservableComputations) Cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 - [daachorse](https://github.com/legalforce-research/daachorse) A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
 - [fasterflect](https://github.com/buunguyen/fasterflect)
-- [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) A high-performance, zero-allocation .NET logging library.
+
 - [Varena](https://github.com/xoofx/Varena)
 - [NativeStringCollections](https://github.com/kawai125/NativeStringCollections) The toolset to parse text files using C# JobSystem on Unity.
 - [c#零成本抽象](https://mp.weixin.qq.com/s/jenoW4Ls0yKLknSdLEEa0g)
@@ -4626,6 +4632,7 @@ Showing off the power of shader properties in Unity
 - [ProductionStackTrace](https://github.com/gimelfarb/ProductionStackTrace) Without deploying PDBs, generate a .NET exception stack trace that can be processed to retrieve source file and line number info 
 - [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
 - [unity3d_quick_reflection](https://github.com/smopu/unity3d_quick_reflection) [作者知乎](https://zhuanlan.zhihu.com/p/552294970)
+- [UniReflection](https://github.com/Akeit0/UniReflection)
 - https://github.com/madelson/DistributedLock
 - https://github.com/thedmi/Equ
 - https://github.com/bitwarden/server
@@ -4853,11 +4860,11 @@ Showing off the power of shader properties in Unity
 - [ZeroGameKit](https://github.com/jinglikeblue/ZeroGameKit)
 - https://github.com/ALEXTANGXIAO/TEngine
 - [MojoUnity-Packages](https://github.com/scottcgi/MojoUnity-Packages)
-- https://github.com/821869798/unifantasy
+- https://github.com/821869798/unifantasy 网络
 - https://github.com/sunsvip/GF_HybridCLR
-- https://github.com/JoinEnjoyJoyYangLingYun/HybridCLR_YooAsset_UniTask
+- https://github.com/JoinEnjoyJoyYangLingYun/HybridCLR_YooAsset_UniTask   hybrid clr更新
 - https://github.com/Me-Maped/Gameframework-at-FairyGUI
-- https://github.com/FlameskyDexive/ETPlus
+- https://github.com/FlameskyDexive/ETPlus 网络
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
@@ -4997,6 +5004,7 @@ Showing off the power of shader properties in Unity
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
 #### UI
+- https://github.com/DevsDaddy/UIFramework
 - [uxtool](https://uxtool.netease.com/)
 - https://github.com/Eashiong/StackUI
 - https://github.com/dmitry-ivashenko/StatefulUI
@@ -5101,6 +5109,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/jp-netsis/RubyTextMeshPro
 - https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
+- https://github.com/phanphantz/ThaiTextCare-for-Unity
 - https://github.com/neon-izm/UnityTextMeshProNotoSansForRude
 - https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
 - [FontAssetSaveDisabler.cs](https://gist.github.com/yasirkula/edf4ba1bb7c5c18800e791e01bc9bcd7)
@@ -5338,6 +5347,7 @@ Showing off the power of shader properties in Unity
 - [GenericScriptableObjects](https://github.com/SolidAlloy/GenericScriptableObjects) This package allows to create and use generic ScriptableObjects in Unity3D. Although generic serializable classes are now supported by Unity 2020, generic ScriptableObject and MonoBehaviour are not yet, and this plugin allows to overcome this limitation.
 - https://github.com/joebinns/asteroids-scriptable-objects
 - https://assetstore.unity.com/packages/tools/utilities/lunaris-scriptables-221163
+- https://github.com/VirtueSky/sunflower
 #### DOTS
 - [fennecs](https://github.com/outfox/fennecs)
 - [TopGames](https://blog.csdn.net/final5788)
@@ -5586,6 +5596,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/SarahWeiii/CoACD
 - [SubAssetTool](https://github.com/konsti219/SubAssetTool-vpm) Provides a Unity tool for managing Sub Assets
 - https://github.com/markeahogan/ImporterPresets
+- https://assetstore.unity.com/packages/tools/utilities/asset-variants-224010
 - [AssetManagement/LockableFolders](https://github.com/Unity-Technologies/sol-games-unity-samples/blob/main/AssetManagement/LockableFolders/Assets/Editor/LockableFolder.cs)
 
 #### PackageManager
