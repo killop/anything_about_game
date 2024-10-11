@@ -1320,7 +1320,7 @@ Table of Contents
 * [UniTaskAnimations](https://github.com/smiledir1/UniTaskAnimations)
 * [tools-motion-kit](https://github.com/cocodrilodog/tools-motion-kit)
 * [Milease](https://github.com/MorizeroDev/Milease) Animate anything in one line of code, simplifying your UI animation development process and boosting your UI development efficiency.
-* [FlowEnt](https://github.com/Fried-Synapse/FlowEnt)
+* [FlowEnt](https://github.com/Fried-Synapse/FlowEnt) FlowEnt is a library set to change the paradigm on how scripting animations work, and how a developer interacts with them, by separating the tweening options from the motions of the animation
  
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
@@ -1778,6 +1778,8 @@ Table of Contents
 * [il2cpp-cpp-class-generator](https://github.com/madiskoivopuu/il2cpp-cpp-class-generator) A program that generates C++ classes that wrap around the IL2CPP functions to access C# classes.
 * [coreclr](https://github.com/dotnetGame/coreclr) CoreCLR for Unity
 * [natsu-clr](https://github.com/dotnetGame/natsu-clr) il2cpp transpiler and runtime compatible with .Net Core
+* [IL2CPPUtility](https://github.com/Akeit0/IL2CPPUtility) About
+UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 * [UnitySmartSymbolicate](https://github.com/brunomikoski/UnitySmartSymbolicate)
 ## Patch
 - [sfpatcher](https://github.com/sisong/sfpatcher)
@@ -4490,7 +4492,6 @@ Showing off the power of shader properties in Unity
 - https://github.com/aelij/spanify span用法总结
 - https://github.com/draconware-dev/SpanExtensions.Net
 - https://github.com/jiangjinnan/NativeBuffering
-- https://github.com/timonkrebs/MemoizR Declarative Structured Concurrency for C#
 - [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
   https://github.com/barncastle/BitsKit
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
@@ -4533,8 +4534,6 @@ Showing off the power of shader properties in Unity
 - [ObservableCollections](https://github.com/Cysharp/ObservableCollections) High performance observable collections and synchronized views, for WPF, Blazor, Unity. 
 - [ObservableComputations](https://github.com/IgorBuchelnikov/ObservableComputations) Cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 - [daachorse](https://github.com/legalforce-research/daachorse) A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
-- [fasterflect](https://github.com/buunguyen/fasterflect)
-
 - [Varena](https://github.com/xoofx/Varena)
 - [NativeStringCollections](https://github.com/kawai125/NativeStringCollections) The toolset to parse text files using C# JobSystem on Unity.
 - [c#零成本抽象](https://mp.weixin.qq.com/s/jenoW4Ls0yKLknSdLEEa0g)
@@ -4633,6 +4632,7 @@ Showing off the power of shader properties in Unity
 - [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
 - [unity3d_quick_reflection](https://github.com/smopu/unity3d_quick_reflection) [作者知乎](https://zhuanlan.zhihu.com/p/552294970)
 - [UniReflection](https://github.com/Akeit0/UniReflection)
+- [ReflectionEnhance](https://github.com/Katsuya100/ReflectionEnhance?)
 - https://github.com/madelson/DistributedLock
 - https://github.com/thedmi/Equ
 - https://github.com/bitwarden/server
@@ -4984,6 +4984,8 @@ Showing off the power of shader properties in Unity
 - [AsyncWorkerCollection](https://github.com/dotnet-campus/AsyncWorkerCollection) A collection of tools that support asynchronous methods and support high-performance multithreading. 
 - [Skyward.Threading](https://github.com/SkywardApps/Skyward.Threading) This is a system for running items in background queues. All tasks run locally in-process, so this is not a replacement for eg Redis or RabbitMQ or Kafka, but is a simpler implementation of deferring worker items.
 - [vs-threading](https://github.com/microsoft/vs-threading)
+- [backgroundqueue](https://github.com/soenneker/soenneker.utils.backgroundqueue)
+- - https://github.com/timonkrebs/MemoizR Declarative Structured Concurrency for C#
 #### Node-Editor
 - [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
@@ -5298,6 +5300,9 @@ Showing off the power of shader properties in Unity
 - [MethodTimer](https://github.com/Fody/MethodTimer)
 - [InlineIL.Fody](https://github.com/ltrzesniewski/InlineIL.Fody) Inject arbitrary IL code at compile time.
 - [ZergRush](https://github.com/CeleriedAway/ZergRush)
+- [ILPostProcessorCommon](https://github.com/Katsuya100/ILPostProcessorCommon) This is a set of useful functions used in the ILPostProcessor family of libraries created by Katuusagi (a.k.a Katsuya100).
+- [GenericEnhance](https://github.com/Katsuya100/GenericEnhance/) This library "GenericEnhance" provides strong support for Generic programming.
+- [MemoizationForUnity](https://github.com/Katsuya100/MemoizationForUnity/)
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
