@@ -181,6 +181,7 @@ Table of Contents
     - [ShaderVariant](#shadervariant)
     - [Course/Article](#coursearticle)
     - [Shader-Collection](#shader-collection)
+    - [Effect](#effect-1)
     - [ShaderToy](#shadertoy)
     - [OpenGL](#opengl)
     - [Tool](#tool)
@@ -326,7 +327,7 @@ Table of Contents
     - [File-Browser](#file-browser)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
     - [Drawing](#drawing)
-    - [Effect](#effect-1)
+    - [Effect](#effect-2)
     - [Scriptable Object](#scriptable-object)
     - [DOTS](#dots)
     - [PathFinding](#pathfinding)
@@ -1240,6 +1241,8 @@ Table of Contents
 * [sprite-dicing](https://github.com/elringus/sprite-dicing)
 * [sprite-animations](https://github.com/no-slopes/sprite-animations)
 * [Moonflow-RampMaker](https://github.com/Moonflow-Studio/Moonflow-RampMaker)
+* [SpriteSlicer](https://github.com/fadookie/SpriteSlicer) Tool to export Unity sprite sheet slices as individual images
+* [MakeIconAtlas](https://github.com/KIPKIPS/MakeIconAtlas)
 ## Animation
 #### Article/Collection
 - https://www.creativebloq.com/advice/understand-the-12-principles-of-animation
@@ -1991,6 +1994,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/thkhxm/tgf
 
 #### Article
+- [determinism-league-legends-implementation](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 - [danieljimenezmorales blog](https://danieljimenezmorales.github.io/)
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
 - [6-community-videos-to-get-you-started-with-multiplayer](https://blog.unity.com/games/6-community-videos-to-get-you-started-with-multiplayer)
@@ -2376,6 +2380,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [ExCSS](https://github.com/TylerBrinks/ExCSS) A CSS Parser for .NET. It's BADA55!
 - [Csv-CSharp](https://github.com/AnnulusGames/Csv-CSharp)
 - [XamlX](https://github.com/kekekeks/XamlX)
+- https://github.com/benjamin-hodgson/Pidgin
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -3049,6 +3054,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/fxredeemer/jitterphysics
 - https://github.com/jrouwe/JoltPhysics
 - https://github.com/seep/JoltPhysicsUnity
+- [BetterPhysics](https://github.com/SadnessMonday/BetterPhysics) Physics improvement suite for Unity
 - https://github.com/irlanrobson/bounce
 - https://github.com/Scrawk/CyclonePhysicsEngine
 #### Physics BOOKS
@@ -3565,8 +3571,11 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [a_list_of_a_lot_of_shaders_urp](https://old.reddit.com/r/Unity3D/comments/156u8fm/a_list_of_a_lot_of_shaders_urp/)
 - [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders) About
 Showing off the power of shader properties in Unity
-- [UnityVFXLibrary](https://github.com/DeJhon-Huang/UnityVFXLibrary) VFX Effect made with unity
 - https://github.com/Delt06/unity-graphics
+
+#### Effect
+- [UnityVFXLibrary](https://github.com/DeJhon-Huang/UnityVFXLibrary) VFX Effect made with unity
+- [Constellation-Plexus](https://github.com/MirzaBeig/Constellation-Plexus) Simple, beautiful ribbons VFX for Unity (URP).
 #### ShaderToy
 - https://github.com/umutbebek/shadertoy-to-unity-URP
 - https://pema.dev/glsl2hlsl/
@@ -5032,6 +5041,8 @@ Showing off the power of shader properties in Unity
 - [Rosalina](https://github.com/Eastrall/Rosalina) Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
 - https://github.com/LibraStack/UnityUxmlGenerator
 - https://github.com/ChebanovDD/UnityMvvmToolkit
+- https://github.com/LibraStack/UnityMvvmToolkit
+- [gods-globally-observable-data-structures-294571](https://assetstore.unity.com/packages/tools/utilities/gods-globally-observable-data-structures-294571)
 - https://github.com/XuToWei/CodeBind
 - https://github.com/ls9512/UBind
 - https://gameinstitute.qq.com/community/detail/117690
@@ -5664,6 +5675,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/AkiKurisu/Time-Control
 - https://github.com/SitronX/UnityTimeRewinder
 - https://github.com/CyberSys/ChronosTimeControl
+- [magic-time-control-time-per-object-local-time-scale](https://assetstore.unity.com/packages/tools/utilities/magic-time-control-time-per-object-local-time-scale-298494) unity-plugin
 #### Raycast&&Sensor
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
 - https://github.com/staggartcreations/Graphics-Raycast/
