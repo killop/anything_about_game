@@ -2159,6 +2159,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [sylar](https://github.com/sylar-yin/sylar)  C++高性能分布式服务器框架
 ## Serialization
 - https://github.com/Levchenkov/NetCode
+- https://github.com/rikimaru0345/Ceras
 - https://github.com/Cysharp/MemoryPack [ppt](https://speakerdeck.com/neuecc/cedec-2023-modanhaipahuomansuc-number-2023-edition)
 - https://github.com/dbolin/Apex.Serialization
 - https://github.com/inkeliz/karmem
@@ -4747,6 +4748,7 @@ Showing off the power of shader properties in Unity
 - [ulox](https://github.com/stevehalliwell/ulox)
 - [umka-lang](https://github.com/vtereshkov/umka-lang)
 - [luau](https://github.com/Roblox/luau)
+- https://github.com/AnnulusGames/Lua-CSharp
 - [BorrowScript](https://github.com/alshdavid/BorrowScript)
 - [tuyin](http://www.tuyin.org/)
 
