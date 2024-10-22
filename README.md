@@ -299,6 +299,7 @@ Table of Contents
 - [Unity](#unity)
     - [Awesome-Unity](#awesome-unity)
     - [AssetBundle](#assetbundle)
+  - [Pool-Cache](#pool-cache)
     - [Unity-Framework](#unity-framework)
     - [Dependency Injection](#dependency-injection)
     - [Skill](#skill)
@@ -319,7 +320,6 @@ Table of Contents
     - [TextureStreaming](#texturestreaming)
     - [Particle](#particle)
     - [Util](#util)
-    - [Pool](#pool)
     - [Rope](#rope)
     - [Unity-Update](#unity-update)
     - [Code-Reload\&\&Unity-Editor-Compiler](#code-reloadunity-editor-compiler)
@@ -3918,6 +3918,7 @@ Showing off the power of shader properties in Unity
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
 #### RenderPipelineFrameWork
+- https://github.com/Delt06/aaaa-rp
 - https://github.com/aras-p/UnityGaussianSplatting
 - https://github.com/StressLevelZero
 - https://github.com/alelievr/HDRP-Mobile
@@ -4751,6 +4752,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/AnnulusGames/Lua-CSharp
 - [BorrowScript](https://github.com/alshdavid/BorrowScript)
 - [tuyin](http://www.tuyin.org/)
+- [CSnakes](https://github.com/tonybaloney/CSnakes) CSnakes - a tool for embedding Python into .NET projects
 
 #### Collection
 - https://github.com/tensorush/Awesome-Langs-Learning
@@ -4827,7 +4829,6 @@ Showing off the power of shader properties in Unity
 - [EZAddresser](https://github.com/Haruma-K/EZAddresser)
 - [AssetBundle-ContentHasher](https://github.com/AndyMUnity/AssetBundle-ContentHasher) This tool can be integrated into a build pipeline in order to generate more reliable hashes for AssetBundles using Unity's built in pipeline.
 - [AddressablesServices](https://github.com/dre0dru/AddressablesServices) A set of classes to convert Unity Addressables callbacks/coroutine workflow to async/await with UniTask.
-- [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
 - [AssetBundles-Browser](https://github.com/Rootjhon/AssetBundles-Browser)
 - [AssetManagement](https://github.com/dre0dru/AssetManagement)
 - https://github.com/NibbleByte/UnityAssetManagementTools
@@ -4835,6 +4836,10 @@ Showing off the power of shader properties in Unity
 - [QuarkAsset](https://github.com/DonnYep/QuarkAsset)
 - [SmartAddresser](https://github.com/CyberAgentGameEntertainment/SmartAddresser)
 
+### Pool-Cache
+- https://github.com/inversionhourglass/Pooling
+- https://github.com/TORISOUP/uPools
+- [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
 #### Unity-Framework
 - [GameFrameX](https://github.com/AlianBlank/GameFrameX) 前后端一体化，带后台管理系统，支持webgl和微信小游戏
 - [coimbrastudios](https://github.com/coimbrastudios/framework/blob/master/Documentation~/Index.md) actor/playerloop
@@ -4893,6 +4898,7 @@ Showing off the power of shader properties in Unity
  
 #### Skill
 - https://github.com/lsunky/SkillEditorDemo
+- https://github.com/Mr-sB/ACTSkill
 - https://github.com/meredoth/Stat-System
 - https://github.com/ancientElement/AE_Skill_Editor
 - https://github.com/kierstone/ACT-Game-Action-System
@@ -5044,6 +5050,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/LibraStack/UnityUxmlGenerator
 - https://github.com/ChebanovDD/UnityMvvmToolkit
 - https://github.com/LibraStack/UnityMvvmToolkit
+- https://github.com/jbruening/ugui-mvvm
 - [gods-globally-observable-data-structures-294571](https://assetstore.unity.com/packages/tools/utilities/gods-globally-observable-data-structures-294571)
 - https://github.com/XuToWei/CodeBind
 - https://github.com/ls9512/UBind
@@ -5131,6 +5138,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Giresharu/TMPro-Player
 - https://github.com/Luca3317/TMPEffects
 - https://github.com/aillieo/TMPSpriteAssetCreator
+- https://github.com/pnarimani/RTLTMPro
 - https://github.com/coding2233/TextInlineSprite 
 - https://github.com/codewriter-packages/textmeshpro-spriteatlas-support  
 - https://github.com/coding2233/TextInlineprite
@@ -5260,8 +5268,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/csdjk/LcL-Tools-Unity 引擎优化向TA 的 工具箱
 - https://github.com/FronkonGames/GameWork-Foundation
 
-#### Pool
-- https://github.com/TORISOUP/uPools
+
 #### Rope
 - [Cable](https://github.com/sass00n1/Cable) 在Unity中使用Verlet积分模拟绳索
 - https://github.com/Ali10555/FakeRopeSimulation
@@ -5316,6 +5323,7 @@ Showing off the power of shader properties in Unity
 - [ILPostProcessorCommon](https://github.com/Katsuya100/ILPostProcessorCommon) This is a set of useful functions used in the ILPostProcessor family of libraries created by Katuusagi (a.k.a Katsuya100).
 - [GenericEnhance](https://github.com/Katsuya100/GenericEnhance/) This library "GenericEnhance" provides strong support for Generic programming.
 - [MemoizationForUnity](https://github.com/Katsuya100/MemoizationForUnity/)
+- [IL2CPPUtility](https://github.com/Akeit0/IL2CPPUtility)
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -5422,6 +5430,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/Nebukam/com.nebukam.job-assist
 #### PathFinding
 * https://coffeebraingames.wordpress.com
+* [hpj-pathfinding-pro](https://assetstore.unity.com/packages/tools/game-toolkits/hpj-pathfinding-pro-257490#) unity-plugin
 * http://qiao.github.io/PathFinding.js/visual/
 * https://github.com/trgrote/JPS-Unity
 * https://space.bilibili.com/477041559
@@ -5433,6 +5442,7 @@ Showing off the power of shader properties in Unity
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
 - [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one in Unity.
 - [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) Alternative to Unity's NavMesh system where the agents avoid each other. 
+- https://github.com/llamacademy/ladder-navmeshlink
 - [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
 - [knockback-navmeshagent](https://github.com/llamacademy/knockback-navmeshagent) Learn how to knock back NavMeshAgents using Physics & Forces
 - [Unity_DOTS_NodePathFinding](https://github.com/Antypodish/Unity_DOTS_NodePathFinding) Unity DOTS node based path finding, using Eager Dijkstra modified Shortest Path algorithm 
@@ -5571,6 +5581,7 @@ Showing off the power of shader properties in Unity
 * [unity-serializable-collections](https://github.com/gilzoide/unity-serializable-collections)Serializable versions of Dictionary, HashSet and KeyValuePair for Unity 2020.1+
 * [OdinTree](https://github.com/MasterZ0/OdinTree) This attribute will make it easier when you need to create custom fields and windows within the NodeCanvas
 * [Unity_FolderSystem](https://github.com/Gaskellgames/Unity_FolderSystem) Extends Unity by adding in custom folder visuals in the scene hierarchy and project files.
+* 
 
 #### Asset-Management
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
