@@ -182,6 +182,7 @@ Table of Contents
     - [ShaderVariant](#shadervariant)
     - [Course/Article](#coursearticle)
     - [Shader-Collection](#shader-collection)
+    - [TA-Tool](#ta-tool)
     - [Effect](#effect-1)
     - [ShaderToy](#shadertoy)
     - [OpenGL](#opengl)
@@ -1780,6 +1781,7 @@ Table of Contents
 
 #### Common-Compression
 - https://github.com/mjebrahimi/EasyCompressor
+- https://github.com/ikpil/DotCompressorBenchmark
 #### Disassembly
 * [ILSpy](https://github.com/icsharpcode/ILSpy) .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 * [dnSpy](https://github.com/dnSpy/dnSpy) .NET debugger and assembly editor
@@ -2454,6 +2456,7 @@ Fast, reliable, scalable.
 - [SpanNetty](https://github.com/cuteant/SpanNetty) Port of Netty(v4.1.51.Final) for .NET
 - [Dotnetty-Practice](https://github.com/JusterZhu/Dotnetty-Practice) 主要讲解dotnetty企业级的应用开发，帮助开发者更容易的学习掌握该网络通讯框架。
 - [DotNettyForUnity](https://github.com/vovgou/DotNettyForUnity)
+- [UniNetty](https://github.com/ikpil/UniNetty)
 - [Mina.NET](https://github.com/longshine/Mina.NET) .NET implementation of Apache MINA. I like the ideas in it, simple yet functional, but I failed to find one in .NET, finally I created one.
 - [HiSocket](https://github.com/hiramtan/HiSocket) It is a lightweight client socket solution, you can used it in Unity3d or C# project
 - [NetStack](https://github.com/nxrighthere/NetStack) Lightweight toolset for creating concurrent networking systems for multiplayer games.
@@ -3589,6 +3592,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 Showing off the power of shader properties in Unity
 - https://github.com/Delt06/unity-graphics
 
+#### TA-Tool
+- https://github.com/danbaidong1111/SmoothNormal
+
 #### Effect
 - [UnityVFXLibrary](https://github.com/DeJhon-Huang/UnityVFXLibrary) VFX Effect made with unity
 - [Constellation-Plexus](https://github.com/MirzaBeig/Constellation-Plexus) Simple, beautiful ribbons VFX for Unity (URP).
@@ -3984,6 +3990,8 @@ Showing off the power of shader properties in Unity
 ##### RadianceCascades
 - [RadianceCascades](https://github.com/Youssef-Afella/RadianceCascadesUnity)
 - https://github.com/simondevyoutube/Shaders_RadianceCascades
+- https://m4xc.dev/articles/fundamental-rc/
+- 
 ##### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
