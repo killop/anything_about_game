@@ -94,6 +94,7 @@ Table of Contents
     - [Collection](#collection-2)
     - [Unity-AssetBundle](#unity-assetbundle)
     - [Archive-Format](#archive-format)
+    - [Common-Compression](#common-compression)
     - [Disassembly](#disassembly)
 - [Patch](#patch)
 - [File Systems](#file-systems)
@@ -310,6 +311,7 @@ Table of Contents
     - [Node-Editor](#node-editor)
     - [AI](#ai)
     - [UI](#ui)
+    - [UI-System](#ui-system)
     - [Font/Text](#fonttext)
       - [BitMap](#bitmap)
       - [Free-Font](#free-font)
@@ -1283,6 +1285,9 @@ Table of Contents
 - [RenderHugeByGPUInstance](https://github.com/tkonexhh/RenderHugeByGPUInstance)
 - [Unity3D-ToolChain_StriteR](https://github.com/striter/Unity3D-ToolChain_StriteR/tree/master/Assets/Scripts/Runtime/Modules/Optimize)
 - [Dual quaternion skinning for Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity)
+- https://github.com/Milk-Drinker01/CoR-Skinning 
+- [DualQuaternionsForUnity](https://github.com/johannesugb/DualQuaternionsForUnity)
+- [BurstSkinning](https://github.com/TriceHelix/BurstSkinning?) 
 - [GPUInstance](https://github.com/mkrebser/GPUInstance) Instancing & Animation library for Unity3D
 - [gpu-ecs-animation-baker](https://assetstore.unity.com/packages/tools/animation/gpu-ecs-animation-baker-250425) unity-plugin
 - [rukhanka](https://assetstore.unity.com/packages/tools/animation/rukhanka-ecs-animation-system-241472) unity-plugin
@@ -1357,6 +1362,7 @@ Table of Contents
 -  https://github.com/redwyre/com.redwyre.physics-custom-authoring
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 -  https://github.com/jongallant/Unity-Bullet-Hell
+-  [neat-bullets-2d-weapon-evolution-system](https://assetstore.unity.com/packages/tools/game-toolkits/neat-bullets-2d-weapon-evolution-system-280732)
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 -  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
 -  [AnimeTask](https://github.com/kyubuns/AnimeTask)
@@ -1558,6 +1564,7 @@ Table of Contents
 - [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)
 - [cityengine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)
 - https://www.raywenderlich.com/3169311-runtime-mesh-manipulation-with-unity
+- https://github.com/dgreenheck/ez-tree
 #### Tree/Vegetation/Grass
 - [AltTrees System](https://assetstore.unity.com/packages/tools/terrain/alttrees-system-beta-76657) UnityPlugin: AltTrees is an alternative tree system for Unity. Supports SpeedTree, Tree Creator, and meshes
 - [Broccoli Tree Creator](https://assetstore.unity.com/packages/tools/modeling/broccoli-tree-creator-121853) UnityPlugin Broccoli Tree Creator is still in-development and will get constantly improve
@@ -1612,6 +1619,7 @@ Table of Contents
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
 #### River
 - [R.A.M 2019 - River Auto Material 2019](https://assetstore.unity.com/packages/tools/terrain/r-a-m-2019-river-auto-material-2019-145937) UnityPlugin
+- https://github.com/Remyuu/Unity-Interactive-Grass
 #### Article
 - [地形渲染概览](https://zhuanlan.zhihu.com/p/436879101)
 
@@ -1656,6 +1664,7 @@ Table of Contents
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
 - [BakingSheet](https://github.com/cathei/BakingSheet) Easy datasheet management for C# and Unity. Supports Excel, Google Sheet, JSON and CSV format.
 - [go-xlsx-exporter](https://github.com/wingcd/go-xlsx-exporter) a tool for parse xlsx and export to other fomart and data, such as: probuf3 file and buffers, golang, csharp and so on
+- https://github.com/hnb-rabear/excel-to-unity
 - https://github.com/WoW-Tools/
 - https://github.com/mackysoft/MasterTools?
 - https://github.com/NtreevSoft/Crema
@@ -1768,6 +1777,9 @@ Table of Contents
 - [flaclibsharp](https://github.com/AaronLenoir/flaclibsharp)
 - [CathodeLib](https://github.com/OpenCAGE/CathodeLib) Functionality to parse and write various formats from the Cathode engine, used for modding Alien: Isolation.
 - [WinAVFS](https://github.com/DeepAQ/WinAVFS)
+
+#### Common-Compression
+- https://github.com/mjebrahimi/EasyCompressor
 #### Disassembly
 * [ILSpy](https://github.com/icsharpcode/ILSpy) .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 * [dnSpy](https://github.com/dnSpy/dnSpy) .NET debugger and assembly editor
@@ -1905,6 +1917,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/lipeilin2006/OLFramework
 - https://github.com/novusengine/NovusCore
 - https://github.com/jzyong/ugk-server
+- https://github.com/dobyte/due
 - https://github.com/aceld/zinx/
 - https://github.com/CypherCore/CypherCore
 - https://github.com/mangoszero/server
@@ -2203,6 +2216,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [zion-bandwidth-optimizer](https://assetstore.unity.com/packages/tools/network/zion-bandwidth-optimizer-112059)
 - [StructBinarySerializer](https://github.com/gilzoide/unity-key-value-store/blob/main/Runtime/ObjectSerializers/StructBinarySerializer.cs)
 - [BytePacketSupport](https://github.com/lukewire129/BytePacketSupport)
+- https://github.com/pancake-llc/foundation/wiki/data
 
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -2469,6 +2483,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) - Web Socket client for Unity
 * [UnityWebSocket](https://github.com/psygame/UnityWebSocket) 🐳 The Best Unity WebSocket Plugin for All Platforms. 
 * [unity-websocket-webgl](https://github.com/jirihybek/unity-websocket-webgl) Hybrid WebSocket implementation for Unity 3D with support of native and browser client. 
+* [unity-websocket](https://github.com/mikerochip/unity-websocket?)
 * [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [NativeWebSocket](https://github.com/endel/NativeWebSocket) WebSocket client for Unity - with no external dependencies (WebGL, Native, Android, iOS, UWP) 
 * [unity-websocket-server](https://github.com/shaunabanana/unity-websocket-server)
@@ -2798,6 +2813,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Lunatic-Works/Nova
 - https://github.com/AkiKurisu/UniChat
 - https://github.com/Owmacohe/Descant?
+- https://github.com/uezo/ChatdollKit
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -2893,7 +2909,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [MaxMath](https://github.com/MrUnbelievable92/MaxMath)
 - [XUGL](https://github.com/monitor1394/XUGL)
 - [nalgebra](https://www.nalgebra.org/) rust math
-- [DualQuaternionsForUnity](https://github.com/johannesugb/DualQuaternionsForUnity)
 - [opengjk](https://www.mattiamontanari.com/opengjk/) C implementation of the GJK algorithm
 - [geogram](https://github.com/BrunoLevy/geogram) c++ a programming library with geometric algorithms
 - [FastMath](https://github.com/wiu-wiu/FastMath) C# library with very fast but not very accurate realisations of System.Math methods.
@@ -2995,7 +3010,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [四元数应用——顺序无关的旋转混合](https://zhuanlan.zhihu.com/p/28330428)
 - https://github.com/Krasjet/quaternion
 - https://thenumbat.github.io/Exponential-Rotations/
-- https://github.com/Milk-Drinker01/CoR-Skinning 
+
 - [LookMaNoMatrices](https://github.com/enkimute/LookMaNoMatrices)
 ##  Physics
 #### Physics Framework
@@ -3747,6 +3762,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/StarsX/SDFTracing/
 - https://github.com/cecarlsen/SDFTextureGenerator
 - https://github.com/Reguluz/MFSDFShadowGenerator
+- https://github.com/Weesals/UnitySDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
@@ -3773,6 +3789,7 @@ Showing off the power of shader properties in Unity
 * [mesh-to-sdf](https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf)
 #### SphericalHarmonicLighting/CubeMap/Probes
 - https://www.pauldebevec.com/Probes/
+- https://github.com/TheRealMJP/SHforHLSL
 - [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 - https://github.com/wlgys8/SHLearn 
 - https://github.com/pema99/BakeSH
@@ -4271,6 +4288,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/LizzyFox-code/BrgContainer 
 #### GPU Driven
 - [LeoGPUDriven](https://github.com/lijundacom/LeoGPUDriven) 一个GPUDriven学习工程
+- [GPU-Driven-03](https://github.com/chessCXK/GPU-Driven-03/)
 - [(Unity)GPU-Driven场景渲染](https://zhuanlan.zhihu.com/p/703147658)
 - [Realtime-Compute-Shader-Unity-PathTracer](https://github.com/killop/Realtime-Compute-Shader-Unity-PathTracer) A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
 - [GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)
@@ -5097,6 +5115,7 @@ Showing off the power of shader properties in Unity
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
 - [Progress-Bar](https://github.com/MirzaBeig/Animated-Progress-Bar-Shader-Graph)
+- [Optimize-Health-Bar](https://github.com/pancake-llc/foundation/wiki/Optimize-Health-Bar)
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
 - [UnityUiParticles](https://github.com/ken48/UnityUiParticles)
 - [ui-particle-image](https://assetstore.unity.com/packages/tools/gui/ui-particle-image-235001) unity-plugin
@@ -5117,11 +5136,15 @@ Showing off the power of shader properties in Unity
 - [uLui](https://github.com/LingJiJian/uLui) unity3d - advanced control library
 - [uis](https://github.com/mopsicus/uis) Unity infinite scroller (UIS) is an extension allows you to use the ScrollRect control as an infinite scroller/spinner
 - https://github.com/NRatel/Unity-ListView
+ 
+#### UI-System
+- https://www.pangui.io/
 
 #### Font/Text
 - https://github.com/506638093/RichText 头顶血条 
 - https://github.com/wuxiongbin/uHyperText 
 - https://github.com/Wilson403/Html2UnityRich
+- https://github.com/codewriter-packages/TMP-Image
 - https://github.com/garsonlab/GText
 - https://github.com/redbluegames/unity-text-typer   
 - https://github.com/chick-soups/TextFilesForTextMeshPro  tm 的字体库 
@@ -5226,6 +5249,7 @@ Showing off the power of shader properties in Unity
 - [【Unity工具】使用Mesh生成以降低特效贴片Overdraw的自动化工具](https://zhuanlan.zhihu.com/p/678481238) 
 - https://github.com/sunbrando/ParticleEffectProfiler
 #### Util
+- https://github.com/pancake-llc/foundation/wiki
 - https://github.com/Greener-Games/Unity_Extensions/
 - https://github.com/nothke/unity-utils
 - https://github.com/adammyhre/Unity-Utils
@@ -5235,6 +5259,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Hertzole/runtime-options-manager
 - https://github.com/gilzoide/unity-easy-project-settings
 - https://github.com/xZenvin/UnitySettingsFramework
+- https://github.com/caneva20/ConfigAssets
 - https://github.com/neuecc/LINQ-to-GameObject-for-Unity
 - https://github.com/lujian101
 - https://github.com/shinn716/ShinnUtils
@@ -5305,6 +5330,7 @@ Showing off the power of shader properties in Unity
 - [Rider 中使用 Source Generator](https://qiita.com/Tanakancolle/items/b12c48e0cf0fe78af2ad) 介绍在 Rider 中使用 Source Generator 创建工具的流程
 - [Rider 中使用 Source Generator](https://qiita.com/amenone_games/items/0a99f38fd08911b62c3a)
 - [Arch.Extended](https://github.com/genaray/Arch.Extended) Extensions for Arch with some useful features like Systems, Source Generator and Utils.
+- https://github.com/FoxsterDev/DevAccelerationSystem
 - [PrivateProxy](https://github.com/Cysharp/PrivateProxy) Source Generator and .NET 8 UnsafeAccessor based high-performance strongly-typed private accessor for unit testing and runtime.
 - [RapidEnum](https://github.com/hanachiru/RapidEnum) Enum utility with SourceGenerator for C#/.NET
 - [DomainReloadSG](https://github.com/LurkingNinja/DomainReloadSG)
@@ -5681,6 +5707,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [VitalRouter](https://github.com/hadashiA/VitalRouter)
 - [bovinelabs.event](https://github.com/tertle/com.bovinelabs.event) A high performance solution for safely creating events between systems in Unity ECS.
 - [UniFlux](https://github.com/xavierarpa/UniFlux) Easy to use, Super Optimized, Typed Event Driven with Flux for Unity.
+- https://github.com/codewriter-packages/UniMob/
 - [schedule](https://github.com/FelixBole/schedule-master)
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
@@ -5691,6 +5718,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [magic-time-control-time-per-object-local-time-scale](https://assetstore.unity.com/packages/tools/utilities/magic-time-control-time-per-object-local-time-scale-298494) unity-plugin
 #### Raycast&&Sensor
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.
+- https://github.com/adammyhre/Unity-Batch-Raycasting Optimizing Collision handling in Unity with Batch Raycasting!
 - https://github.com/staggartcreations/Graphics-Raycast/
 - [Sensor](https://github.com/muveso/Unity-Detection-Sensor)
 - [sensortoolkit](https://assetstore.unity.com/packages/tools/behavior-ai/sensortoolkit-2-205336)
