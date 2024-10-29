@@ -4641,6 +4641,7 @@ Showing off the power of shader properties in Unity
 - https://mp.weixin.qq.com/s/Ya9nQRBPLPkeaO2vpIg7-w 
 - https://github.com/PlutoLang/Pluto
 - https://github.com/esrrhs/lua-family-bucket
+- https://github.com/DoooReyn/LuaPanda4Cynking
 
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
@@ -5124,6 +5125,7 @@ Showing off the power of shader properties in Unity
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
 - [Progress-Bar](https://github.com/MirzaBeig/Animated-Progress-Bar-Shader-Graph)
 - [Optimize-Health-Bar](https://github.com/pancake-llc/foundation/wiki/Optimize-Health-Bar)
+- [health-bars](https://assetstore.unity.com/packages/vfx/shaders/gimme-instanced-health-bars-259079)
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
 - [UnityUiParticles](https://github.com/ken48/UnityUiParticles)
 - [ui-particle-image](https://assetstore.unity.com/packages/tools/gui/ui-particle-image-235001) unity-plugin
@@ -5740,6 +5742,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/XJINE/Unity_SceneCameraController 
 #### GamePlay
 - [我开发的角色动作系统概述-战斗,3C相关](https://zhuanlan.zhihu.com/p/67143501)
+
 
 ## 知识库软件/笔记软件/思维构造工具
 - [A hackable markdown note application for programmers](https://github.com/purocean/yn)
