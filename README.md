@@ -930,6 +930,7 @@ Table of Contents
 - https://ardour.org/
 - https://www.audacityteam.org/
 - https://lmms.io/
+- https://github.com/ATG-Simulator/VehicleNoiseSynthesizer
 - [fmod](http://www.fmod.org/)
 - [wwise](https://www.audiokinetic.com/zh/products/wwise/)
 - [miles](http://www.radgametools.com/miles.htm)
@@ -1490,6 +1491,7 @@ Table of Contents
 - https://github.com/Tyrrrz/CliFx 命令行
 - https://github.com/Tyrrrz/CliWrap 命令行
 - https://github.com/jsakamoto/XProcess 命令行
+- https://github.com/mayuki/Chell Write scripts with the power of C# and .NET
 - [process-governor](https://github.com/lowleveldesign/process-governor) This application allows you to put various limits on a Windows process.
 - https://github.com/adamralph/simple-exec 命令行
 - https://github.com/wingcd/UnityToolExtender
@@ -1688,6 +1690,7 @@ Table of Contents
 - https://github.com/dloss/binary-parsing
 - https://github.com/yretenai/Cethleann
 - [dogma](https://github.com/kstenerud/dogma) Dogma: A modernized metalanguage with better expressiveness and binary grammar support
+- [ProtoDumper](https://github.com/nitrog0d/ProtoDumper) Dumps protobuf definitions from game assemblies
 #### Exchange
 - [juicefs](https://github.com/juicedata/juicefs)JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [datahub](https://github.com/linkedin/datahub) The Metadata Platform for the Modern Data Stack
@@ -2424,6 +2427,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 #### C#
 - [Enclave.FastPacket](https://github.com/enclave-networks/Enclave.FastPacket) The FastPacket project provides efficient, zero-allocation mechanisms for reading and writing individual network packets
 - [EasyTcp4Net](https://github.com/BruceQiu1996/EasyTcp4Net/)
+- https://github.com/ReferenceType/StandardNetworkLibrary
 - [heartbeat](https://github.com/AliKhalili/heartbeat)
 - [netmq](https://github.com/zeromq/netmq) A 100% native C# implementation of ZeroMQ for .NET
 - [DOTSNET](https://assetstore.unity.com/packages/tools/network/dotsnet-dots-networking-102633) unity -dots netcode plugin
@@ -4635,6 +4639,7 @@ Showing off the power of shader properties in Unity
 - http://cloudwu.github.io/lua53doc/manual.html
 - [Rxlua](https://github.com/bjornbytes/RxLua)
 - https://github.com/iwiniwin/LuaKit
+- https://github.com/LorettaDevs/Loretta
 - https://github.com/frog-game/lua-5.4.4-comments
 - https://zhuanlan.zhihu.com/p/597188766
 - https://zhuanlan.zhihu.com/p/603584772
@@ -4642,6 +4647,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/PlutoLang/Pluto
 - https://github.com/esrrhs/lua-family-bucket
 - https://github.com/DoooReyn/LuaPanda4Cynking
+- https://github.com/2kpixelstudios/lua-script-assets
 
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
@@ -5347,7 +5353,7 @@ Showing off the power of shader properties in Unity
 - [UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen) 
 - [StructureOfArraysGenerator](https://github.com/Cysharp/StructureOfArraysGenerator) Structure of arrays source generator to make CPU Cache and SIMD friendly data structure for high-performance code in .NET and Unity. 
 - [RSCG_Examples](https://github.com/ignatandrei/RSCG_Examples) Roslyn Source Code Generators with Examples
-- [neovim-unity](https://github.com/Domeee/com.cloudedmountain.ide.neovim)\
+- [neovim-unity](https://github.com/Domeee/com.cloudedmountain.ide.neovim)
 - [com.tsk.ide.vscode](https://github.com/Chizaruu/com.tsk.ide.vscode) Enhance your Unity development workflow with seamless code editor integration for VSCode.
 - [Burst2ManagedCall](https://github.com/Jura-Z/Burst2ManagedCall) How to call managed functions (like Thread.Sleep) from Burst
 - [Runtime-TypeCache](https://github.com/thebeardphantom/Runtime-TypeCache) Extending Unity's UnityEditor.TypeCache support to player builds.
@@ -5663,6 +5669,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/markeahogan/ImporterPresets
 - https://assetstore.unity.com/packages/tools/utilities/asset-variants-224010
 - [AssetManagement/LockableFolders](https://github.com/Unity-Technologies/sol-games-unity-samples/blob/main/AssetManagement/LockableFolders/Assets/Editor/LockableFolder.cs)
+- [CustomAssetMetadata](https://github.com/LogicalError/CustomAssetMetadata)
 
 #### PackageManager
 - https://github.com/quabug/unity-pack Create an Unity Package from directory
@@ -5698,6 +5705,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
  
 #### Message Bus  
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
+- https://github.com/AnnulusGames/ZeroMessenger
 - [Disposify](https://github.com/ruccho/Disposify) Disposify is a source generator to subscribe / unsubscribe C# events with using-dispose pattern.
 - [wolverine](https://github.com/JasperFx/wolverine)
 - [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) - A generic Event-Bus
@@ -5809,6 +5817,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/136512892/Unity-Multiplayer
 - https://github.com/Voltstro-Studios/Team-Capture?
 - https://github.com/insthync/UnityMultiplayerARPG_MMO
+- https://github.com/KaganAyten/RestaurantGame3DUnity Simple Hamburger making game like Overcooked in Unity3D
 - https://github.com/jynew/jynew
 - [Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) 仙剑奇侠传三（以及外传）C#/Unity实现
 - https://github.com/skyteks
