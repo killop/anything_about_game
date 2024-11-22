@@ -128,7 +128,6 @@ Table of Contents
     - [Csharp-Benchmark](#csharp-benchmark)
     - [Article](#article-3)
 - [Hash](#hash)
-- [Compression](#compression)
 - [Text-Template](#text-template)
 - [Authorization](#authorization)
 - [NetWork](#network)
@@ -274,6 +273,7 @@ Table of Contents
     - [MMO](#mmo)
     - [OC](#oc)
     - [String](#string)
+    - [Collection](#collection-7)
     - [Thread/Task](#threadtask)
 - [Utils](#utils)
     - [C](#c-4)
@@ -291,7 +291,7 @@ Table of Contents
 - [Author](#author)
 - [CMAKE](#cmake)
 - [Embed-Script/VM/](#embed-scriptvm)
-    - [Collection](#collection-7)
+    - [Collection](#collection-8)
     - [Allocator](#allocator)
     - [Garbage Collector](#garbage-collector)
     - [dynCall/ffi/interop](#dyncallffiinterop)
@@ -356,6 +356,7 @@ Table of Contents
 - [Mobile](#mobile)
 - [Unity-Games](#unity-games)
 - [Programmer-Common-Tool](#programmer-common-tool)
+- [Package](#package)
 - [workflow](#workflow)
 - [Auto Test](#auto-test)
 - [问答](#问答)
@@ -1113,20 +1114,28 @@ Table of Contents
 - https://machinations.io/  
 
 #### Tile
-- https://starscenesoftware.com/unifilebrowser.html
+- [smart-lighting-2d-112535](https://assetstore.unity.com/packages/tools/particles-effects/smart-lighting-2d-112535)
 - https://www.tilesetter.org/
 - [Tiled 2D](https://www.mapeditor.org/) free, easy to use and flexible tile map editor
 - [autotilegen](https://pixelatto.com/products/autotilegen)
 - https://github.com/ruccho/FangAutoTile
+- [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
+* [NSprites](https://github.com/Antoshidza/NSprites) DOTS based sprite render system
+* [UnitySpriteGPUInstancing](https://github.com/ownself/UnitySpriteGPUInstancing)
+* [IsoSorting](https://github.com/Sylmerria/IsoSorting) Isometric sorting system for Unity using ECS
+* [Unity6开启高性能渲染模式实现性能翻倍](https://www.bilibili.com/video/BV)
 - [SuperTiled2Unity] (https://github.com/Seanba/SuperTiled2Unity) Imports Tiled files to Unity. Better than regular Tiled2Unity. 
 - [tile-map-accelerator](https://forum.unity.com/threads/tile-map-accelerator-high-performance-shader-based-tile-map-renderer.708413/)
 - [tileplus](https://assetstore.unity.com/packages/tools/sprite-management/tileplus-toolkit-201027)
 -  https://github.com/Cammin/LDtkToUnity
 -  https://www.slynyrd.com/blog
-- Isometric unity-plugin
-- Ultimate Grids Engine unity-plugin
-- KUBIKOS - 3D Cube World unity-plugin
-- hex map unity-plugin
+- [2-5d-isometric-engine] (https://assetstore.unity.com/packages/templates/systems/2-5d-isometric-engine-106321)unity-plugin
+- [ultimate-grids unity-plugin](https://assetstore.unity.com/packages/templates/packs/ultimate-grids-puzzle-game-kit-179261?) unity-plugin
+- [使用瓷砖贴图的等距 2D 环境](https://unity.com/cn/blog/engine-platform/isometric-2d-environments-with-tilemap)
+- [KUBIKOS - 3D Cube World unity-plugin](https://assetstore.unity.com/packages/3d/environments/kubikos-cube-village-farm-kit-137877)
+- [2d-deformation](https://assetstore.unity.com/packages/tools/physics/2d-deformation-167012)
+- [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428)
+- [2d-water](https://assetstore.unity.com/packages/2d/textures-materials/water/game-2d-water-kit-118057)
  
 #### Design
 - https://www.zcool.com.cn
@@ -1757,6 +1766,7 @@ Table of Contents
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact 
 #### Archive-Format
 - https://github.com/bilibili/UnityBVA
+- https://github.com/emperorofmars/stf-unity
 - [FF16Tools](https://github.com/Nenkai/FF16Tools) Tools for Final Fantasy XVI / 16.
 - [UAssetAPI](https://github.com/atenfyr/UAssetAPI) A low-level .NET library for reading and writing Unreal Engine 4 game assets
 - [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) Tool for extract PAK archives from games based on RE Engine
@@ -1785,6 +1795,11 @@ Table of Contents
 #### Common-Compression
 - https://github.com/mjebrahimi/EasyCompressor
 - https://github.com/ikpil/DotCompressorBenchmark
+- https://github.com/ikpil/DotFastLZ 
+- https://github.com/avaneev/lzav
+- https://github.com/brantburnett/Snappier
+- [ThumbHash](https://github.com/jzebedee/ThumbHash) .NET implementation of ThumbHash: a very compact representation of a placeholder for an image. Store it inline with your data and show it while the real image is loading for a smoother loading experience.
+- [signed-octahedron-normal-encoding](https://johnwhite3d.blogspot.com/2017/10/signed-octahedron-normal-encoding.html) 
 #### Disassembly
 * [ILSpy](https://github.com/icsharpcode/ILSpy) .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 * [dnSpy](https://github.com/dnSpy/dnSpy) .NET debugger and assembly editor
@@ -1917,6 +1932,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 - [FastUI](https://github.com/pydantic/FastUI)
 - [mesop](https://google.github.io/mesop)
+- https://github.com/feiyun0112/Gradio.Net
 ## Game-Server-framework
 - https://github.com/hstcscolor/awesome-gameserver-cn
 - https://github.com/lipeilin2006/OLFramework
@@ -2126,6 +2142,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 * https://github.com/JiepengTan/LockstepCollision
 * https://github.com/HeatXD/PleaseResync
 * [open-netcode](https://github.com/polartron/open-netcode)
+* https://github.com/kisence-mian/UnityLockStepDemo
 #### status-syn
 - https://lucasteles.github.io/Backdash/
 - https://github.com/nilpunch/unity-prediction-rollback
@@ -2207,6 +2224,8 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/ReubenBond/Hagar
 - https://github.com/1996v/Bssom.Net
 - https://github.com/Dogwei/Swifter.MessagePack
+- https://github.com/AArnott/Nerdbank.MessagePack
+- https://github.com/MessagePack-CSharp/MessagePack-CSharp
 - https://github.com/RainwayApp/bebop
 - https://github.com/Sergio0694/BinaryPack
 - https://github.com/akkadotnet/Hyperion
@@ -2233,6 +2252,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://altearius.github.io/tools/json/index.html
 - https://github.com/nemesissoft/Nemesis.TextParsers
 - https://jsoneditoronline.org/
+- https://github.com/gateboxlab/Variant
 #### Yaml
 - https://github.com/hadashiA/VYaml
 
@@ -2282,6 +2302,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 
 #### c#
 - https://github.com/sgf/dotnetDBRank
+- https://github.com/AiursoftWeb/ArrayDb
 - [ZoneTree](https://github.com/koculu/ZoneTree) ZoneTree is a persistent, high-performance, transactional, ACID-compliant ordered key-value database for NET. It can operate in memory or on local/cloud storage.
 - [realm](https://github.com/realm/realm-dotnet) Realm is a mobile database: a replacement for SQLite & ORMs 
 - [LiteDB](https://github.com/mbdavid/LiteDB) LiteDB - A .NET NoSQL Document Store in a single data file 
@@ -2378,12 +2399,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [xxHash](https://github.com/uranium62/xxHash) xxhash c# implement
 - [FastHashes](https://github.com/TommasoBelluzzo/FastHashes)
 
-## Compression
-- https://github.com/ikpil/DotFastLZ 
-- https://github.com/avaneev/lzav
-- https://github.com/brantburnett/Snappier
-- [ThumbHash](https://github.com/jzebedee/ThumbHash) .NET implementation of ThumbHash: a very compact representation of a placeholder for an image. Store it inline with your data and show it while the real image is loading for a smoother loading experience.
-- [signed-octahedron-normal-encoding](https://johnwhite3d.blogspot.com/2017/10/signed-octahedron-normal-encoding.html)
+
 ## Text-Template
 - [Gridify](https://github.com/alirezanet/Gridify) Gridify is a dynamic LINQ library that converts your string to a LINQ query in the easiest way possible with excellent performance. it also, introduces an easy way to apply Filtering, Sorting and Pagination using text-based data.
 - [cottle](https://github.com/r3c/cottle) High performance template engine for C# 
@@ -2698,6 +2714,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 #### 3D Engines and Frameworks
 * [Xultaik](https://github.com/FaberSanZ/Xultaik?)
+* [EraEngine](https://github.com/EldarMuradov/EraEngine)
 * [NextEngine](https://github.com/CompilerLuke/NextEngine) NextEngine is designed with rapid iteration and high-end desktop graphics in mind.
 * [Prowl](https://github.com/michaelsakharov/Prowl)
 * [LinaEngine](https://github.com/inanevin/LinaEngine) Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
@@ -3107,6 +3124,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)  Fluid simulation engine for computer graphics applications https://fluidenginedevelopment.org/
 - [Bimocq](https://github.com/ziyinq/Bimocq) Efficient and Conservative Fluids Using Bidirectional Mapping
 - [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) A PBD fluid in unity running on the GPU
+- https://github.com/nakjun/Position-Based-Dynamics-with-Unity-GPU
 - [Trinity](https://github.com/portsmouth/Trinity) Programmable 3D GPU (WebGL) fluid simulator
 - [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
 - [Fluid-Simulator](https://github.com/Al-Asl/Fluid-Simulator) Case study on fluid dynamics, Volumetric GPU-Based fluid simulator
@@ -3376,6 +3394,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/Litmin/SoftRenderer-Unity
 * [SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) SALVIA is the rasterizer based software renderer. The goal of SALVIA is capacity of Direct3D 10+.
 #### 3rd-Binding
+- https://github.com/Devsh-Graphics-Programming/Nabla
 - [EmberGL](https://github.com/EmberGL-org/EmberGL) EmberGL (Ember Graphics Library) is a low-level open source graphics library
 - [igl](https://github.com/facebook/igl) Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
@@ -4174,6 +4193,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/laurenth-personal/lightmap-switching-tool
 * https://github.com/Ayfel/PrefabLightmapping
 * https://github.com/Burn1ngApe/Prefab_Lighting_Baker
+* https://github.com/z3y/XatlasLightmap
 * https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps 
 * https://github.com/liuwenjiexx/Unity.BakedLightmap
 * https://github.com/laurenth-personal/LODLightmapScripts
@@ -4512,8 +4532,6 @@ Showing off the power of shader properties in Unity
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
-- [PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
-- https://github.com/SouthBegonia/RedDotManager
 - https://surparallel.org unity 多线程优化工具
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
 - https://github.com/HalfLobsterMan/TimingWheel c# 时间轮优化
@@ -4546,39 +4564,20 @@ Showing off the power of shader properties in Unity
 - https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
 - https://github.com/MiloszKrajewski/K4os.Streams
 - https://github.com/LunaMultiplayer/CachedQuickLz Allows you to compress and decompress with QuickLz while keeping low the GC pressure
-- [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
-- [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
-- [trienet](https://github.com/gmamaladze/trienet) .NET Implementations of Trie Data Structures for Substring Search, Auto-completion and Intelli-sense. Includes: patricia trie, suffix trie and a trie implementation using Ukkonen's algorithm.
-- [trie](https://github.com/miniksa/trie)
 - https://github.com/AArnott/Nerdbank.Streams 高效流
 - [NaturalSort](https://github.com/tompazourek/NaturalSort.Extension) Extension method for StringComparison that adds support for natural sorting (e.g. "abc1", "abc2", "abc10" instead of "abc1", "abc10", "abc2").
-- [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
-- [Collections.Pooled](https://github.com/Zitga-Tech/ZBase.Collections.Pooled)
-- [BurstCollections](https://github.com/andywiecko/BurstCollections)
-- https://github.com/XenoAtom/XenoAtom.Collections
-- [NullGC](https://github.com/fryderykhuang/NullGC)
 - [MemoryExtensions](https://github.com/xljiulang/MemoryExtensions)
-- [Arenas](https://github.com/Enichan/Arenas) Unmanaged arena memory allocators for C#/CSharp with easy interactions between managed and unmanaged references
+
 - [ResizableSpanWriter](https://github.com/adam-dot-cohen/ResizableSpanWriter)
-- [Faster.Map](https://github.com/Wsm2110/Faster.Map) A fast & densely stored hashtable based on robin-hood backshift deletion c#
 - [caffeine](https://github.com/ben-manes/caffeine) A high performance caching library for Java 
 - [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport) Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. 
 - https://github.com/mono/Embeddinator-4000
-- [NativeOctree](https://github.com/marijnz/NativeOctree)
-- [SharedMemory](https://github.com/justinstenning/SharedMemory) C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
 - [interprocess](https://github.com/cloudtoid/interprocess) A cross-platform shared memory queue for fast communication between processes (Interprocess Communication or IPC).
 - [LeslieXin.SimpleMMF](https://github.com/lesliexinxin/LeslieXin.SimpleMMF) 简单、易用的进程间通信框架，基于共享内存实现。
-- [DawgSharp](https://github.com/bzaar/DawgSharp) DAWG String Dictionary in C# 
-- [Towel](https://github.com/ZacharyPatten/Towel) A .NET library intended to make coding a bit more towelerable: data structures, algorithms, mathematics, metadata, extensions, console, and more. :)
-- [QuikGraph](https://github.com/KeRNeLith/QuikGraph) About Generic Graph Data Structures and Algorithms for .NET
-- [SparseSet](https://gdx.dotbunny.com/api/GDX.Collections.SparseSet.html)
-- [ObservableCollections](https://github.com/Cysharp/ObservableCollections) High performance observable collections and synchronized views, for WPF, Blazor, Unity. 
-- [ObservableComputations](https://github.com/IgorBuchelnikov/ObservableComputations) Cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
-- [daachorse](https://github.com/legalforce-research/daachorse) A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
-- [Varena](https://github.com/xoofx/Varena)
+
 - [NativeStringCollections](https://github.com/kawai125/NativeStringCollections) The toolset to parse text files using C# JobSystem on Unity.
 - [c#零成本抽象](https://mp.weixin.qq.com/s/jenoW4Ls0yKLknSdLEEa0g)
-- https://github.com/Nyrest/FastGenericNew
+
 - https://github.com/xin9le/FastEnum
 - [garnet](https://github.com/microsoft/garnet) Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 #### MMO
@@ -4601,6 +4600,37 @@ Showing off the power of shader properties in Unity
 - https://github.com/sq/FString
 - https://github.com/U8String/U8String
 - [DefaultInterpolatedStringHandler.cs](https://gist.github.com/Akeit0/0ac9a82ecbe952287bae694a10a7a7d0)
+ 
+#### Collection
+* [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
+* [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
+* https://github.com/Molth/NativeCollections/ best for you
+* https://github.com/DennisCorvers/UnsafeCollections
+* [SharedArray](https://github.com/stella3d/SharedArray) Zero-copy sharing between managed and native arrays in Unity
+* [UnsafeArray](https://github.com/LizzyFox-code/UnsafeArray)
+- [SparseSet](https://gdx.dotbunny.com/api/GDX.Collections.SparseSet.html) 
+- [QuikGraph](https://github.com/KeRNeLith/QuikGraph) About Generic Graph Data Structures and Algorithms for .NET
+- [NativeOctree](https://github.com/marijnz/NativeOctree) 
+- [trie](https://github.com/miniksa/trie)
+- [PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete 
+- https://github.com/SouthBegonia/RedDotManager
+- [KDTree](https://github.com/viliwonka/KDTree) 3D KDTree for Unity, with fast construction and fast & thread-safe querying, with minimal memory garbage.
+- [UnityOctree](https://github.com/Nition/UnityOctree)  A dynamic octree implementation for Unity written in C#.
+- [trienet](https://github.com/gmamaladze/trienet) .NET Implementations of Trie Data Structures for Substring Search, Auto-completion and Intelli-sense. Includes: patricia trie, suffix trie and a trie implementation using Ukkonen's algorithm.
+- [SharedMemory](https://github.com/justinstenning/SharedMemory) C# shared memory classes for sharing data between processes (Array, Buffer, Circular Buffer and RPC)
+- [Faster.Map](https://github.com/Wsm2110/Faster.Map) A fast & densely stored hashtable based on robin-hood backshift deletion c#
+- https://github.com/Nyrest/FastGenericNew
+- [DawgSharp](https://github.com/bzaar/DawgSharp) DAWG String Dictionary in C# 
+- [Towel](https://github.com/ZacharyPatten/Towel) A .NET library intended to make coding a bit more towelerable: data structures, algorithms, mathematics, metadata, extensions, console, and more. :)
+- [ObservableCollections](https://github.com/Cysharp/ObservableCollections) High performance observable collections and synchronized views, for WPF, Blazor, Unity. 
+- [ObservableComputations](https://github.com/IgorBuchelnikov/ObservableComputations) Cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
+- [daachorse](https://github.com/legalforce-research/daachorse) A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
+- [Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.  
+- [Collections.Pooled](https://github.com/Zitga-Tech/ZBase.Collections.Pooled)
+- [BurstCollections](https://github.com/andywiecko/BurstCollections)
+- https://github.com/XenoAtom/XenoAtom.Collections
+- [NullGC](https://github.com/fryderykhuang/NullGC)
+   
 #### Thread/Task
 - https://github.com/RichieSams/FiberTaskingLib
 - https://github.com/taskflow/taskflow
@@ -4725,6 +4755,7 @@ Showing off the power of shader properties in Unity
 
 ## Embed-Script/VM/
 - [IwasmUnity](https://github.com/HoloLabInc/IwasmUnity)
+- [WACS](https://github.com/kelnishi/WACS) WebAssembly Interpreter written in C# 9.0/.NET Standard2.1
 - [cyber](https://github.com/fubark/cyber) Fast and concurrent scripting.
 - [luajit-remake](https://github.com/luajit-remake/luajit-remake)
 - [luajit2](https://github.com/openresty/luajit2)
@@ -4786,6 +4817,7 @@ Showing off the power of shader properties in Unity
 - [BorrowScript](https://github.com/alshdavid/BorrowScript)
 - [tuyin](http://www.tuyin.org/)
 - [CSnakes](https://github.com/tonybaloney/CSnakes) CSnakes - a tool for embedding Python into .NET projects
+- [Topaz](https://github.com/koculu/Topaz) Multithreaded Javascript Engine for .NET
 
 #### Collection
 - https://github.com/tensorush/Awesome-Langs-Learning
@@ -4804,9 +4836,14 @@ Showing off the power of shader properties in Unity
 - [awesome-language-engineering](https://github.com/NLKNguyen/awesome-language-engineering)
 - https://github.com/ChessMax/awesome-programming-languages
 - https://github.com/CYJB/Cyjb.Compilers
+ 
 #### Allocator 
 - [smmalloc](https://github.com/SergeyMakeev/smmalloc) Blazing fast memory allocator designed for video games
 - https://github.com/XenoAtom/XenoAtom.Allocators
+- https://github.com/Molth/tlsf-csharp
+- [Arenas](https://github.com/Enichan/Arenas) Unmanaged arena memory allocators for C#/CSharp with easy interactions between managed and unmanaged references
+- [Varena](https://github.com/xoofx/Varena)
+ 
 #### Garbage Collector
 - [UpsilonGC](https://github.com/kkokosa/UpsilonGC) Zero GCs and one real-world Upsilon GC 
 - [bdwgc](https://github.com/ivmai/bdwgc) The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
@@ -4875,6 +4912,7 @@ Showing off the power of shader properties in Unity
 - [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
 #### Unity-Framework
 - [GameFrameX](https://github.com/AlianBlank/GameFrameX) 前后端一体化，带后台管理系统，支持webgl和微信小游戏
+- https://github.com/AkiKurisu/AkiFramewor
 - [coimbrastudios](https://github.com/coimbrastudios/framework/blob/master/Documentation~/Index.md) actor/playerloop
 - [F8Framework](https://github.com/TippingGame/F8Framework)
 - https://github.com/cocowolf/loxodon-framework
@@ -4989,10 +5027,11 @@ Showing off the power of shader properties in Unity
 - [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples)
 - [Unity_ShaderGraphStudy](https://github.com/rito15/Unity_ShaderGraphStudy)
 - [Shader Graph所有节点讲解](https://www.bilibili.com/video/BV1qE411y7MJ?)
-- [Brackeys] Unity Shader Graph教程合集](https://www.bilibili.com/video/BV1pV411U7sE)
+- [BrackeysUnity Shader Graph教程合集](https://www.bilibili.com/video/BV1pV411U7sE)
 - https://github.com/andydbc/unity-shadergraph-sandbox
 - https://github.com/Zallist/unity-universal-shadergraph-extensions
 - https://github.com/gilescoope/shader-graph-nodes
+- https://github.com/johanhelsing/UniSdf?
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
@@ -5114,6 +5153,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/niwatly/SectorLayoutGroup
 - https://github.com/zambari/LayoutPanel.UI.Unity
 - [flexalon-ui-layouts](https://assetstore.unity.com/packages/tools/gui/flexalon-ui-layouts-254652)
+- https://github.com/tetr4lab/FitForScreen
 - https://github.com/cyberaslan/AdaptiveGrid
 - https://github.com/feifeid47/Unity-UI-Adapter
 - https://github.com/Haruma-K/UnityScreenNavigator
@@ -5157,6 +5197,7 @@ Showing off the power of shader properties in Unity
 - https://www.pangui.io/
 
 #### Font/Text
+- [TextMeshDOTS](https://github.com/Fribur/TextMeshDOTS)
 - https://github.com/506638093/RichText 头顶血条 
 - https://github.com/wuxiongbin/uHyperText 
 - https://github.com/Wilson403/Html2UnityRich
@@ -5366,6 +5407,8 @@ Showing off the power of shader properties in Unity
 - [GenericEnhance](https://github.com/Katsuya100/GenericEnhance/) This library "GenericEnhance" provides strong support for Generic programming.
 - [MemoizationForUnity](https://github.com/Katsuya100/MemoizationForUnity/)
 - [IL2CPPUtility](https://github.com/Akeit0/IL2CPPUtility)
+- https://github.com/microsoft/Microsoft.Unity.Analyzers
+- https://github.com/vad710/UnityEngineAnalyzer
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -5427,17 +5470,6 @@ Showing off the power of shader properties in Unity
 - https://github.com/Wind-Coming/MultiUnitSameScreen
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [util](https://github.com/bassmit/util) BURST compatible collections, math and utility functions
-* [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
-* [NSprites](https://github.com/Antoshidza/NSprites) DOTS based sprite render system
-* [TextMeshDOTS](https://github.com/Fribur/TextMeshDOTS)
-* [UnitySpriteGPUInstancing](https://github.com/ownself/UnitySpriteGPUInstancing)
-* [IsoSorting](https://github.com/Sylmerria/IsoSorting) Isometric sorting system for Unity using ECS
-* [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
-* [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
-* https://github.com/Molth/NativeCollections/
-* https://github.com/DennisCorvers/UnsafeCollections
-* [SharedArray](https://github.com/stella3d/SharedArray) Zero-copy sharing between managed and native arrays in Unity
-* [UnsafeArray](https://github.com/LizzyFox-code/UnsafeArray)
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
 * [Reinterpret](https://github.com/HelloKitty/Reinterpret.Net) 
 * [Burst2ManagedCall](https://github.com/Jura-Z/Burst2ManagedCall)
@@ -5544,6 +5576,7 @@ Showing off the power of shader properties in Unity
  #### Mesh 
  - [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
  - [mesh-baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017)
+ - https://github.com/OlegDzhuraev/MeshBaker
  - [skinned-mesh-combiner](https://assetstore.unity.com/packages/templates/systems/skinned-mesh-combiner-mt-135422)
  - [costume](https://assetstore.unity.com/packages/tools/animation/q-costume-157049)
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
@@ -5551,6 +5584,7 @@ Showing off the power of shader properties in Unity
  - [fast-skinned-mesh-combiner](https://github.com/joshcamas/fast-skinned-mesh-combiner)
  - [body-proportions](https://assetstore.unity.com/packages/tools/modeling/body-proportions-266535)
  - [SkinnedMeshCombiner](https://github.com/JLChnToZ/SkinnedMeshCombiner)
+ - https://github.com/roundyyy/intelligent_mesh_combiner
  - [avautils](https://github.com/JLChnToZ/avautils)
  - [multi-material-atlasing-skinned-mesh-combiner](https://assetstore.unity.com/packages/tools/modeling/multi-material-atlasing-skinned-mesh-combiner-with-data-save-139574)
  - [AvatarClothes](https://github.com/136512892/AvatarClothes) Unity 人物换装系统解决方案
@@ -5623,7 +5657,7 @@ Showing off the power of shader properties in Unity
 * [unity-serializable-collections](https://github.com/gilzoide/unity-serializable-collections)Serializable versions of Dictionary, HashSet and KeyValuePair for Unity 2020.1+
 * [OdinTree](https://github.com/MasterZ0/OdinTree) This attribute will make it easier when you need to create custom fields and windows within the NodeCanvas
 * [Unity_FolderSystem](https://github.com/Gaskellgames/Unity_FolderSystem) Extends Unity by adding in custom folder visuals in the scene hierarchy and project files.
-* 
+* https://github.com/SolarianZ/UnityEditorMessages
 
 #### Asset-Management
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
@@ -5771,6 +5805,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
 - [zhixi](https://www.zhixi.com/) 国人做的xmind
 ## UnityBuild
+- https://github.com/ligurio/awesome-ci
 - [jenkins-shared-library](https://github.com/DreamPWJ/jenkins-shared-library/) One For All DevOps, Powerful, flexible and easy-to-use, multi-terminal CI/CD shared library pipeline（ 强大灵活易用的多端CI/CD共享库流水线 ）
 - [JenkinsUnityPyAutoMator](https://github.com/Eerrly/JenkinsUnityPyAutoMator) 通过Jenkins服务使用python语言来对Unity和周边进行构建和自动化操作
 - [详解iOS打包、发布与证书体系](https://insights.thoughtworks.cn/ios-package-release/) 
@@ -5811,6 +5846,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
  - [umi](https://github.com/mopsicus/umi) Unity mobile input (UMI) plugin for Android and iOS, allows to use features of mobile native input fields
  - [keystore](https://github.com/dreamcodestudio/com.dreamcode.mobile.android-keystore)
  - [unity-mobile-dialog-popup-native](https://github.com/khanhuitse05/unity-mobile-dialog-popup-native)
+ - [dynamic-icon](https://github.com/dreamcodestudio/com.dreamcode.mobile.dynamic-icon)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/freezy/VisualPinball.Engine
@@ -5856,6 +5892,8 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://www.iiicg.com/
 - https://www.cger.com/
  
+ ## Package
+ - https://github.com/AIDotNet/NuGet.Next
 
 ## workflow
 - https://wiki.eryajf.net/pages/2415.html#_1-%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0%E3%80%82
@@ -5930,6 +5968,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://ctext.org/book-of-poetry/zhs 中国哲学电子书
 * [Awesome-offer](https://github.com/lietoumai/Awesome-offer) 
 ## 友情链接 
+* [Unity-Memo](https://github.com/wy19910222/Unity-Memo) 本仓库用来备忘一些Unity相关的技术，包括API、算法、实现效果、某些问题的解决方案等。
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
 * [ikrima](https://ikrima.dev/) Game Development Notes
 * [个人的技术美术相关知识的学习笔记库](https://github.com/Romantoscalion/Technical_Artist_Technotes)
