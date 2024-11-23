@@ -51,7 +51,7 @@ Table of Contents
     - [List-of-game-middleware](#list-of-game-middleware)
     - [CG Software API](#cg-software-api)
     - [Visual-Logic](#visual-logic)
-    - [Tile](#tile)
+    - [Tile-2d](#tile-2d)
     - [Design](#design)
 - [locale](#locale)
 - [Texture](#texture)
@@ -1113,8 +1113,9 @@ Table of Contents
 #### Visual-Logic
 - https://machinations.io/  
 
-#### Tile
+#### Tile-2d
 - [smart-lighting-2d-112535](https://assetstore.unity.com/packages/tools/particles-effects/smart-lighting-2d-112535)
+- https://github.com/NullTale/LutLight2D
 - https://www.tilesetter.org/
 - [Tiled 2D](https://www.mapeditor.org/) free, easy to use and flexible tile map editor
 - [autotilegen](https://pixelatto.com/products/autotilegen)
@@ -2146,6 +2147,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 #### status-syn
 - https://lucasteles.github.io/Backdash/
 - https://github.com/nilpunch/unity-prediction-rollback
+- https://github.com/BestoGames/BestoNet?
 - https://github.com/lucasteles/Backdash
 - https://github.com/skeyll/SynicSugar?tab=readme-ov-file
 - https://github.com/TCleard/PredictionReconciliationNetwork
@@ -2809,6 +2811,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ## GameAI
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
+* https://github.com/CatImmortal/CatBehaviour
 * https://github.com/meniku/NPBehave
 * https://github.com/Saroce/BehaviorTreeEditor
 * https://github.com/AkiKurisu/Real-Agents
@@ -2838,6 +2841,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/AkiKurisu/UniChat
 - https://github.com/Owmacohe/Descant?
 - https://github.com/uezo/ChatdollKit
+- https://github.com/ClemGG/Dialogue-Node-System
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -4361,7 +4365,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/WeiPhil/nbvh
 - https://github.com/MircoWerner/VkLBVH
 - https://github.com/zhujun3753/i-octree?
-
+- https://github.com/atonalfreerider/Unity-FDG
 
 #### Afterimage
 - https://github.com/xieliujian/UnityDemo_Afterimage
@@ -4678,6 +4682,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/esrrhs/lua-family-bucket
 - https://github.com/DoooReyn/LuaPanda4Cynking
 - https://github.com/2kpixelstudios/lua-script-assets
+- https://github.com/dingxiaowei/MessagePack/
+- https://github.com/anod221/lua-buffer
 
 ## Typescript
 - https://jkchao.github.io/typescript-book-chinese/#how-to-contribute
@@ -5126,6 +5132,7 @@ Showing off the power of shader properties in Unity
 - [gods-globally-observable-data-structures-294571](https://assetstore.unity.com/packages/tools/utilities/gods-globally-observable-data-structures-294571)
 - https://github.com/XuToWei/CodeBind
 - https://github.com/ls9512/UBind
+- https://github.com/CatImmortal/ComponentAutoBindTool
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/scottcgi/MojoUnity-Packages
