@@ -990,6 +990,7 @@ Table of Contents
 * [awesome-blender](https://github.com/agmmnn/awesome-blender)
 * [Blender-Render-Engine-for-Unity-MeshSync](https://github.com/Ohmnivore/Blender-Render-Engine-for-Unity-MeshSync)
 * [awesomeblend](https://github.com/Davetmo/awesomeblend)
+- https://github.com/LoganFairbairn/MatLayer
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
  seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d).
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes
@@ -1123,6 +1124,7 @@ Table of Contents
 - [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 * [NSprites](https://github.com/Antoshidza/NSprites) DOTS based sprite render system
 * [UnitySpriteGPUInstancing](https://github.com/ownself/UnitySpriteGPUInstancing)
+* [GPUSpriteInstancing](https://github.com/centhoang/GPUSpriteInstancing) Provides GPU sprite instance rendering using Burst and Job System for Unity
 * [IsoSorting](https://github.com/Sylmerria/IsoSorting) Isometric sorting system for Unity using ECS
 * [Unity6开启高性能渲染模式实现性能翻倍](https://www.bilibili.com/video/BV)
 - [SuperTiled2Unity] (https://github.com/Seanba/SuperTiled2Unity) Imports Tiled files to Unity. Better than regular Tiled2Unity. 
@@ -1230,6 +1232,7 @@ Table of Contents
 - [upscayl](https://github.com/upscayl/upscayl) Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 #### Animation2Shader
 - [VatBaker](https://github.com/fuqunaga/VatBaker) A tool to bake VAT (Vertex Animation Texture) from AnimationClip with sample shaders for Unity.
+- https://docs.tyflow.com/tyflow_modifiers/tyVAT/vatHLSLShader/
 - [NiagaraGPU-SkeletalMeshEcho](https://github.com/dbsierra/NiagaraGPU-SkeletalMeshEcho)
 - [material-animation-curve](https://gist.github.com/ghysc/b4f9b3266ee82edf2b02e00cef0bc6b7) A Material Property Drawer for the Curve attribute which lets you edit curves and adds them to the shader as textures
 - [unity-texture-curve](https://github.com/asus4/unity-texture-curve) Example showing how to bake an AnimatedCurve into a Texture and use it in a shader
@@ -1903,6 +1906,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 * [Pro Git（中文版）](https://git.oschina.net/progit/) - 书
 * [Git权威指南](http://www.worldhello.net/gotgit/) - 书
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - git-flow 是一个 git 扩展集，按 Vincent Driessen 的分支模型提供高层次的库操作。
+* [git 最佳实践](https://cloud.tencent.com/developer/article/2429603)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) -stanford出品
 * [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository/) - atlassian出品
 * [Try Git ( Interactive)](https://try.github.io/levels/1/challenges/1) -互动性的教你使用git
@@ -1935,6 +1939,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [mesop](https://google.github.io/mesop)
 - https://github.com/feiyun0112/Gradio.Net
 ## Game-Server-framework
+- https://github.com/Far-Beyond-Dev/Horizon
 - https://github.com/hstcscolor/awesome-gameserver-cn
 - https://github.com/lipeilin2006/OLFramework
 - https://github.com/novusengine/NovusCore
@@ -2304,6 +2309,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 
 #### c#
 - https://github.com/sgf/dotnetDBRank
+- https://aloneguid.github.io/parquet-dotnet
 - https://github.com/AiursoftWeb/ArrayDb
 - [ZoneTree](https://github.com/koculu/ZoneTree) ZoneTree is a persistent, high-performance, transactional, ACID-compliant ordered key-value database for NET. It can operate in memory or on local/cloud storage.
 - [realm](https://github.com/realm/realm-dotnet) Realm is a mobile database: a replacement for SQLite & ORMs 
@@ -2419,6 +2425,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [Csv-CSharp](https://github.com/AnnulusGames/Csv-CSharp)
 - [XamlX](https://github.com/kekekeks/XamlX)
 - https://github.com/benjamin-hodgson/Pidgin
+- https://github.com/microsoft/vs-solutionpersistence
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -2578,6 +2585,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial) This is a managed sockets connector for the System.IO.Pipelines API,
 - [JNetwork](https://github.com/1176892094/JNetwork)
 - [asphyxia](https://github.com/Molth/asphyxia) a lifetime of living in obscurity, struggling to make ends meet, and enduring humiliation.
+- [ChaseNet2](https://github.com/sowa705/ChaseNet2) 
  #### C/CPP
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
@@ -4018,7 +4026,8 @@ Showing off the power of shader properties in Unity
 - [RadianceCascades](https://github.com/Youssef-Afella/RadianceCascadesUnity)
 - https://github.com/simondevyoutube/Shaders_RadianceCascades
 - https://m4xc.dev/articles/fundamental-rc/
-- 
+- https://github.com/alexmalyutindev/unity-urp-radiance-cascades
+- https://github.com/Sohojoe/radiance-cascades-godot
 ##### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
@@ -4237,6 +4246,7 @@ Showing off the power of shader properties in Unity
 * [Unity-Capsule-Shadows](https://github.com/frostbone25/Unity-Capsule-Shadows) A work in progress solution for capsule shadows in Unity.
 * [analytic-soft-shadows](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/analytic-soft-shadows-built-in-urp-189680#description) Analytic Soft Shadows is a real-time soft shadowing solution with shadows defined by Spheres, Capsules and Boxes
 #### GPGPU
+- https://github.com/Alan-Rock-GS/GpuScript
 - https://github.com/arrayfire/arrayfire
 - [现代C++中的高性能并行编程与优化](https://www.bilibili.com/video/BV1fa411r7zp)
 - https://github.com/tech-quantum/Amplifier.NET
@@ -4364,6 +4374,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/VisualPinball/NativeTrees
 - https://github.com/WeiPhil/nbvh
 - https://github.com/MircoWerner/VkLBVH
+- https://github.com/andr3wmac/unity-tinybvh
 - https://github.com/zhujun3753/i-octree?
 - https://github.com/atonalfreerider/Unity-FDG
 
@@ -4556,7 +4567,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/draconware-dev/SpanExtensions.Net
 - https://github.com/jiangjinnan/NativeBuffering
 - [SparseBitsets](https://github.com/RupertAvery/SparseBitsets) A pure C# implementation of sparse bitsets
-  https://github.com/barncastle/BitsKit
+- https://github.com/barncastle/BitsKit
+- https://github.com/gilzoide/unity-enum-bitset
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
@@ -4912,9 +4924,10 @@ Showing off the power of shader properties in Unity
 - [QuarkAsset](https://github.com/DonnYep/QuarkAsset)
 - [SmartAddresser](https://github.com/CyberAgentGameEntertainment/SmartAddresser)
 
-### Pool-Cache
+#### Pool-Cache
 - https://github.com/inversionhourglass/Pooling
 - https://github.com/TORISOUP/uPools
+- https://github.com/gilzoide/unity-prefab-pool/
 - [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
 #### Unity-Framework
 - [GameFrameX](https://github.com/AlianBlank/GameFrameX) 前后端一体化，带后台管理系统，支持webgl和微信小游戏
@@ -5296,6 +5309,7 @@ Showing off the power of shader properties in Unity
 - [Unified-Renderer-Unity](https://github.com/lukakldiashvili/Unified-Renderer-Unity)
 - [TimelineExtensions](https://github.com/SauryChang/TimelineExtensions)
 - [Unity_SubtitleTimeline](https://github.com/murasaqi/Unity_SubtitleTimeline)
+- https://github.com/ShiinaRinne/EasyTimeline
 
 
 #### Camera
@@ -5363,7 +5377,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Ali10555/FakeRopeSimulation
 - https://github.com/Ali10555/OptimizedRopesAndCables
 - https://github.com/GaryMcWhorter/Verlet-Chain-Unity
-
+- https://github.com/survivorr9049/LineRenderer3D
 #### Unity-Update
 - https://github.com/sotanmochi/PlayerLooper
 - https://github.com/Refsa/PlayerLoopInjector
@@ -5416,6 +5430,8 @@ Showing off the power of shader properties in Unity
 - [IL2CPPUtility](https://github.com/Akeit0/IL2CPPUtility)
 - https://github.com/microsoft/Microsoft.Unity.Analyzers
 - https://github.com/vad710/UnityEngineAnalyzer
+- https://github.com/DaZombieKiller/UnityRoslynUpdater
+
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -5812,6 +5828,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
 - [zhixi](https://www.zhixi.com/) 国人做的xmind
 ## UnityBuild
+- https://github.com/CyberAgentGameEntertainment/BuildMagic
 - https://github.com/ligurio/awesome-ci
 - [jenkins-shared-library](https://github.com/DreamPWJ/jenkins-shared-library/) One For All DevOps, Powerful, flexible and easy-to-use, multi-terminal CI/CD shared library pipeline（ 强大灵活易用的多端CI/CD共享库流水线 ）
 - [JenkinsUnityPyAutoMator](https://github.com/Eerrly/JenkinsUnityPyAutoMator) 通过Jenkins服务使用python语言来对Unity和周边进行构建和自动化操作
