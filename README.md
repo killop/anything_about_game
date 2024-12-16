@@ -2034,6 +2034,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/thkhxm/tgf
 
 #### Article
+- [multiplayer-networking-ebook](https://unity.com/cn/blog/multiplayer-networking-ebook)
 - [determinism-league-legends-implementation](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 - [danieljimenezmorales blog](https://danieljimenezmorales.github.io/)
 - [浅谈街霸的帧数据 ](https://indienova.com/indie-game-development/street-fighter-frame-data-1/)
@@ -2425,6 +2426,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [Csv-CSharp](https://github.com/AnnulusGames/Csv-CSharp)
 - [XamlX](https://github.com/kekekeks/XamlX)
 - https://github.com/benjamin-hodgson/Pidgin
+- [slow-cheetah](https://github.com/microsoft/slow-cheetah) Tooling for XML and JSON file transforms on build from Visual Studio and MSBuild
 - https://github.com/microsoft/vs-solutionpersistence
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
@@ -3106,6 +3108,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/fxredeemer/jitterphysics
 - https://github.com/jrouwe/JoltPhysics
 - https://github.com/seep/JoltPhysicsUnity
+- https://github.com/godot-jolt/godot-jolt
 - [BetterPhysics](https://github.com/SadnessMonday/BetterPhysics) Physics improvement suite for Unity
 - https://github.com/irlanrobson/bounce
 - https://github.com/Scrawk/CyclonePhysicsEngine
@@ -3629,7 +3632,7 @@ Showing off the power of shader properties in Unity
 
 #### TA-Tool
 - https://github.com/danbaidong1111/SmoothNormal
-
+- https://github.com/JasonMa0012/OutlineNormalSmoother
 #### Effect
 - [UnityVFXLibrary](https://github.com/DeJhon-Huang/UnityVFXLibrary) VFX Effect made with unity
 - [Constellation-Plexus](https://github.com/MirzaBeig/Constellation-Plexus) Simple, beautiful ribbons VFX for Unity (URP).
@@ -4099,6 +4102,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/WeakKnight/real-time-seamless-object-space-shading
 - [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI?)
 - https://github.com/Pjbomb2/Realtime-Compute-Shader-Unity-PathTracer
+- https://github.com/aras-p/ToyPathTracer
 - https://github.com/fallingcat/ComputeRayTracingSamples
 - [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions. 
 - [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL 
@@ -4152,6 +4156,7 @@ Showing off the power of shader properties in Unity
 ##### DDGI
 - https://github.com/xuechao-chen/DDGI
 - https://github.com/flwmxd/LuxGI 
+- [图形引擎实战：DDGI动态漫反射全局光照](https://zhuanlan.zhihu.com/p/12455261126)
 - [RTXGI-DDGI-URP](https://github.com/SanYue-TechArt/RTXGI-DDGI-URP) RTXGI-DDGI Implementation with Unity (2022.3.17f1c1-URP14.0.9)
 ##### SurfelGI
 - https://github.com/W298/SurfelGI 
@@ -4616,6 +4621,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/sq/FString
 - https://github.com/U8String/U8String
 - [DefaultInterpolatedStringHandler.cs](https://gist.github.com/Akeit0/0ac9a82ecbe952287bae694a10a7a7d0)
+- https://github.com/axuno/SmartFormat
  
 #### Collection
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
@@ -4646,6 +4652,7 @@ Showing off the power of shader properties in Unity
 - [BurstCollections](https://github.com/andywiecko/BurstCollections)
 - https://github.com/XenoAtom/XenoAtom.Collections
 - [NullGC](https://github.com/fryderykhuang/NullGC)
+- https://github.com/troubear/BetterDictionary
    
 #### Thread/Task
 - https://github.com/RichieSams/FiberTaskingLib
@@ -4990,6 +4997,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/lsunky/SkillEditorDemo
 - https://github.com/Mr-sB/ACTSkill
 - https://github.com/meredoth/Stat-System
+- https://github.com/OnClick9927/ActionEditor
 - https://github.com/ancientElement/AE_Skill_Editor
 - https://github.com/kierstone/ACT-Game-Action-System
 - https://github.com/NoBugCn/ActionEditor
@@ -5151,6 +5159,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/scottcgi/MojoUnity-Packages
 - https://github.com/markeahogan/UGUIVertexEffect
 - [Unity UGUI开发，0GC更新视图](https://zhuanlan.zhihu.com/p/668253748)
+- https://github.com/kwan3854/TwentyFiveSlicer
 
 - https://github.com/gwaredd/UnityMarkdownViewer
 - https://github.com/mitay-walle/com.mitay-walle.text-asset-inspector-edit
@@ -5229,6 +5238,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/akof1314/Unity-TextMeshPro-DynamicText
 - https://github.com/TonyViT/CurvedTextMeshPro
 - https://github.com/jp-netsis/RubyTextMeshPro
+- https://github.com/kwan3854/TextMeshProMax?
 - https://github.com/FallingXun/
 - https://github.com/Ikaroon/TMP3D
 - https://github.com/phanphantz/ThaiTextCare-for-Unity
@@ -5463,6 +5473,7 @@ Showing off the power of shader properties in Unity
 - [path-linefx-support-cinemachine](https://assetstore.unity.com/packages/tools/particles-effects/path-linefx-support-cinemachine-234316)
 - [UnityEditorDataChartTool](https://github.com/SolarianZ/UnityEditorDataChartTool)
 - [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) make mesh like line, polygon, etc in unity3d
+- [SaintsDraw](https://github.com/unitycoder/SaintsDraw) draw arrow, circle, and arc in Unity, using Gizmos or LineRenderer
 
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
@@ -5681,6 +5692,7 @@ Showing off the power of shader properties in Unity
 * [OdinTree](https://github.com/MasterZ0/OdinTree) This attribute will make it easier when you need to create custom fields and windows within the NodeCanvas
 * [Unity_FolderSystem](https://github.com/Gaskellgames/Unity_FolderSystem) Extends Unity by adding in custom folder visuals in the scene hierarchy and project files.
 * https://github.com/SolarianZ/UnityEditorMessages
+* https://github.com/yasirkula/UnityInspectPlus
 
 #### Asset-Management
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
@@ -5829,6 +5841,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [zhixi](https://www.zhixi.com/) 国人做的xmind
 ## UnityBuild
 - https://github.com/CyberAgentGameEntertainment/BuildMagic
+- https://github.com/unitycoder/SaintsBuild
 - https://github.com/ligurio/awesome-ci
 - [jenkins-shared-library](https://github.com/DreamPWJ/jenkins-shared-library/) One For All DevOps, Powerful, flexible and easy-to-use, multi-terminal CI/CD shared library pipeline（ 强大灵活易用的多端CI/CD共享库流水线 ）
 - [JenkinsUnityPyAutoMator](https://github.com/Eerrly/JenkinsUnityPyAutoMator) 通过Jenkins服务使用python语言来对Unity和周边进行构建和自动化操作
