@@ -3060,6 +3060,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Kimbatt/unity-deterministic-physics
 - https://github.com/devlinzhou/deterministic_physics
 - https://github.com/jonjon007/unity-deterministic-physics
+- https://github.com/Zonciu/Box2DSharp-deterministic
 - https://github.com/labbbirder/DecimalNavigation
 - https://github.com/PetteriAimonen/libfixmath
 - https://github.com/Unity-X/FixMath
@@ -3735,6 +3736,7 @@ Showing off the power of shader properties in Unity
 
 #### NPR
 - https://github.com/FernRP
+- https://github.com/Reuben-Sun/ToonURP
 - https://github.com/Delt06/toon-rp
 - https://github.com/danbaidong1111/DanbaidongRP
 - [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
