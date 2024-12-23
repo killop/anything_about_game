@@ -1864,6 +1864,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/IntoTheDev/Save-System-for-Unity
 - https://github.com/FoundatioFx/Foundatio/blob/master/src/Foundatio/Storage/FolderFileStorage.cs
 - https://github.com/CodeSmile-0000011110110111/de.codesmile.assetdatabase
+- [save-for-unity-complete](https://assetstore.unity.com/packages/tools/utilities/save-for-unity-complete-244507)
 
 ## IO
 - [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
@@ -2301,6 +2302,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 #### PCG
 - https://www.bilibili.com/read/cv22614836/ 
 - https://github.com/Nebukam/PCGExtendedToolkit
+- https://github.com/BorisTheBrave/DeBroglie
 
 
 ## DataBase
@@ -4782,6 +4784,7 @@ Showing off the power of shader properties in Unity
 
 ## Embed-Script/VM/
 - [IwasmUnity](https://github.com/HoloLabInc/IwasmUnity)
+- https://github.com/ruccho/WaaS
 - [WACS](https://github.com/kelnishi/WACS) WebAssembly Interpreter written in C# 9.0/.NET Standard2.1
 - [cyber](https://github.com/fubark/cyber) Fast and concurrent scripting.
 - [luajit-remake](https://github.com/luajit-remake/luajit-remake)
@@ -4998,6 +5001,7 @@ Showing off the power of shader properties in Unity
 #### Skill
 - https://github.com/lsunky/SkillEditorDemo
 - https://github.com/Mr-sB/ACTSkill
+- https://github.com/TheSakuraCherry/MMDarknessTimeline
 - https://github.com/meredoth/Stat-System
 - https://github.com/OnClick9927/ActionEditor
 - https://github.com/ancientElement/AE_Skill_Editor
@@ -5155,6 +5159,7 @@ Showing off the power of shader properties in Unity
 - [gods-globally-observable-data-structures-294571](https://assetstore.unity.com/packages/tools/utilities/gods-globally-observable-data-structures-294571)
 - https://github.com/XuToWei/CodeBind
 - https://github.com/ls9512/UBind
+- https://github.com/nadako/TinkStateSharp
 - https://github.com/CatImmortal/ComponentAutoBindTool
 - https://gameinstitute.qq.com/community/detail/117690
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
@@ -5695,6 +5700,7 @@ Showing off the power of shader properties in Unity
 * [Unity_FolderSystem](https://github.com/Gaskellgames/Unity_FolderSystem) Extends Unity by adding in custom folder visuals in the scene hierarchy and project files.
 * https://github.com/SolarianZ/UnityEditorMessages
 * https://github.com/yasirkula/UnityInspectPlus
+- https://github.com/AbZorbaGames/artificetoolkit
 
 #### Asset-Management
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
