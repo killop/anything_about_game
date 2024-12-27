@@ -4387,6 +4387,16 @@ Showing off the power of shader properties in Unity
 - https://github.com/zhujun3753/i-octree?
 - https://github.com/atonalfreerider/Unity-FDG
 
+#### Point-Distribution
+- 均匀撒点的算法，思路是
+    1. 随机撒点，可以用概率分布函数快速生成点
+    2. lloyd relaxation，迭代N次使第 1. 步的点均匀分布
+- https://www.sidefx.com/docs/houdini/nodes/sop/relax.html
+- https://www.bilibili.com/opus/803587723956846594
+- https://zhuanlan.zhihu.com/p/447898464
+- https://www.sidefx.com/docs/houdini/nodes/sop/relax.html
+- https://www.bilibili.com/opus/803587723956846594
+
 #### Afterimage
 - https://github.com/xieliujian/UnityDemo_Afterimage
 #### SVG
@@ -5001,17 +5011,12 @@ Showing off the power of shader properties in Unity
 #### Skill
 - https://github.com/lsunky/SkillEditorDemo
 - https://github.com/Mr-sB/ACTSkill
-- https://github.com/TheSakuraCherry/MMDarknessTimeline
 - https://github.com/meredoth/Stat-System
-- https://github.com/OnClick9927/ActionEditor
 - https://github.com/ancientElement/AE_Skill_Editor
 - https://github.com/kierstone/ACT-Game-Action-System
-- https://github.com/NoBugCn/ActionEditor
 - https://github.com/gsm958708323/HaloAct
 - https://github.com/zhangxingStarMaker/SkillEditor
-- https://github.com/BillEliot/GASDocumentation_Chinese
-- https://github.com/m969/EGamePlay
-- https://github.com/NoBugCn/ActionEditorExample
+- https://github.com/m969/EGamePlay 一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格. A flexible, generic, easy to extend, lightweight combat (skills) framework based on Entity-Component pattern. Configuration can choose to use ScriptableObject or Excel tables
 - https://github.com/ancientElement/AE_SkillEditor_Plus
 - https://github.com/huailiang/seqence 剧情-技能编辑器
 - https://github.com/jewer3330/plato timeline-技能编辑器
@@ -5022,13 +5027,10 @@ Showing off the power of shader properties in Unity
 - https://github.com/PxGame
 - https://github.com/WAYNGROUP/MGM-Ability
 - https://github.com/qq362946/AOI
-- https://github.com/wqaetly/SkillEditorBasedOnSlate
 - https://github.com/KrazyL/SkillSystem-3 (Dota2 alike Skill System Implementation for KnightPhone)
 - https://github.com/weichx/AbilitySystem
-- https://github.com/No78Vino/gameplay-ability-system-for-unity
 - https://github.com/dongweiPeng/SkillSystem (丰富的接口可便于使用扩展 完整的技能效果流程【如流程图】 配套的技能管理器 自定义的技能数据表)
 - https://github.com/dx50075/SkillSystem (skill system for unity ， 思路 http://blog.csdn.net/qq18052887/article/details/50358463 技能描述文件如下 skill(1000) //技能1 { FaceToTarget(0) PlayAnimation(1,Skill_1) Bullet(1.3,Bullet,7) PlayEffect(0,Explode8,3) })
-- [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 - https://github.com/SuperCLine/actioneditor
 - https://github.com/PhysaliaStudio/Flexi
 - https://github.com/smartgrass/XCSkillEditor_Unity
@@ -5039,7 +5041,19 @@ Showing off the power of shader properties in Unity
 - [深空之眼战斗模块拆解&个人对打击感的理解](https://zhuanlan.zhihu.com/p/569092956?) 
 - [动作游戏的动作系统是这样做的](https://mp.weixin.qq.com/s/MuySxYMjXZncKfwRDeE7HQ)
 - [action-timeline](https://assetstore.unity.com/packages/tools/utilities/action-timeline-273478)
+##### NOBUG
+- https://github.com/TheSakuraCherry/MMDarknessTimeline
+- https://github.com/NoBugCn/ActionEditor
+- https://github.com/NoBugCn/ActionEditorExample
+- https://github.com/OnClick9927/ActionEditor
+##### GAS
+- [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
+- https://github.com/BillEliot/GASDocumentation_Chinese
+- https://github.com/No78Vino/gameplay-ability-system-for-unity
 
+##### Slate
+- https://github.com/wqaetly/SkillEditorBasedOnSlate slate based skill
+- https://github.com/wqaetly/NKGMobaBasedOnET
 
 #### Occlusion Culling
 - [剔除：从软件到硬件](https://zhuanlan.zhihu.com/p/66407205)
@@ -6037,5 +6051,6 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 * [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 * [ModernGraphicsEngineGuide](https://github.com/Italink/ModernGraphicsEngineGuide)
 * [Books](https://github.com/hexinping/Books)
+* [indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的
 
 ## 看完不star，小心没jj :)!
