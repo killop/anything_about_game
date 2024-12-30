@@ -5189,6 +5189,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/chocola-mint/VisualScriptingKai
 - [Lattice](https://github.com/Pontoco/Lattice) A visual scripting system for Unity ECS. Quickly create gameplay logic.
 - [UnityVisualPlayable](https://github.com/SolarianZ/UnityVisualPlayable)
+- [Ceres](https://github.com/AkiKurisu/Ceres) Powerful node based visual scripting toolkit for Unity.
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
