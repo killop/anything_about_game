@@ -356,7 +356,7 @@ Table of Contents
     - [CameraController](#cameracontroller)
     - [GamePlay](#gameplay)
 - [知识库软件/笔记软件/思维构造工具](#知识库软件笔记软件思维构造工具)
-- [UnityBuild](#unitybuild)
+- [Unity-Build](#unity-build)
 - [Mobile](#mobile)
 - [Unity-Games](#unity-games)
 - [Programmer-Common-Tool](#programmer-common-tool)
@@ -2180,6 +2180,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [Dead Reckoning: Latency Hiding for Networked Games](https://www.gamedeveloper.com/programming/dead-reckoning-latency-hiding-for-networked-games)
 #### Lockstep
 - https://github.com/QinZhuo/IDG_Game_One
+- https://github.com/ELK-milu/LockStepECS
 - https://github.com/GaoKaiHaHa/UnityLockStepDemo
 - https://github.com/Yinmany/NetCode-FPS
 - https://qinzhuo.coding.net/public/
@@ -2480,6 +2481,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/benjamin-hodgson/Pidgin
 - [slow-cheetah](https://github.com/microsoft/slow-cheetah) Tooling for XML and JSON file transforms on build from Visual Studio and MSBuild
 - https://github.com/microsoft/vs-solutionpersistence
+- https://github.com/datalust/superpower
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -4640,6 +4642,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/gilzoide/unity-enum-bitset
 - https://github.com/MrUnbelievable92/Bit-Collections Bit Collections for Unity is all about saving as much RAM as possible, by providing array value types of single bits, aswell as array value types of signed- and unsigned integers with a given number of bits. 
 - https://github.com/dennisdoomen/FluidCaching Multi-threaded .NET high performance Least Recently Used cache with async/await support shipped as source-only NuGet package 
+- [FastFilter](https://github.com/Genbox/FastFilter) FastFilter is a C# implementation of a few different Bloom filters with focus on high performance. It contains the following Bloom filter implementations
 - https://github.com/NetFabric/NetFabric.Hyperlinq High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
 - https://github.com/jackmott/LinqFaster  Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
 - [BurstLinq](https://github.com/AnnulusGames/BurstLinq) Extremely fast LINQ aggregation operations implementation optimized by Burst Compiler
@@ -4796,6 +4799,7 @@ Showing off the power of shader properties in Unity
 - [unity3d_quick_reflection](https://github.com/smopu/unity3d_quick_reflection) [作者知乎](https://zhuanlan.zhihu.com/p/552294970)
 - [UniReflection](https://github.com/Akeit0/UniReflection)
 - [ReflectionEnhance](https://github.com/Katsuya100/ReflectionEnhance?)
+- [unity下零GC反射实现](https://zhuanlan.zhihu.com/p/15399068951) 
 - https://github.com/madelson/DistributedLock
 - https://github.com/thedmi/Equ
 - https://github.com/bitwarden/server
@@ -5228,7 +5232,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/nadako/TinkStateSharp
 - https://github.com/CatImmortal/ComponentAutoBindTool
 - https://gameinstitute.qq.com/community/detail/117690
-- https://github.com/litefeel/Unity-AlignTools ugui锚点设置
+- https://github.com/Niikelion/lithium-ui
 - https://github.com/scottcgi/MojoUnity-Packages
 - https://github.com/markeahogan/UGUIVertexEffect
 - [Unity UGUI开发，0GC更新视图](https://zhuanlan.zhihu.com/p/668253748)
@@ -5256,6 +5260,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/zambari/LayoutPanel.UI.Unity
 - [flexalon-ui-layouts](https://assetstore.unity.com/packages/tools/gui/flexalon-ui-layouts-254652)
 - https://github.com/tetr4lab/FitForScreen
+- https://github.com/litefeel/Unity-AlignTools ugui锚点设置
 - https://github.com/cyberaslan/AdaptiveGrid
 - https://github.com/feifeid47/Unity-UI-Adapter
 - https://github.com/Haruma-K/UnityScreenNavigator
@@ -5330,6 +5335,7 @@ Showing off the power of shader properties in Unity
 - [modular](https://assetstore.unity.com/packages/3d/gui/modular-3d-text-in-game-3d-ui-system-159508) unity 3d ui 
 - https://github.com/wantdabo/goblin.ui.fontcreator
 - https://github.com/nicloay/ecs-damage-bubbles
+- https://github.com/YingMei7531/TextMeshPro2.1.6-GCOptimize
 
 ##### BitMap
 - [Unity-BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter)
@@ -5451,7 +5457,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/longde123/csharp-source-generators
 - [SourceGenerator.Foundations](https://github.com/ByronMayne/SourceGenerator.Foundations) A Source Generator for Source Generators. Gives out of the box support for transistent dependencies and logging right in Visual Studio
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
-- [Unity-AltSourceGenerator)](https://github.com/sator-imaging/Unity-AltSourceGenerator)
+- [Unity-AltSourceGenerator](https://github.com/sator-imaging/Unity-AltSourceGenerator)
 - [Rider 中使用 Source Generator](https://qiita.com/Tanakancolle/items/b12c48e0cf0fe78af2ad) 介绍在 Rider 中使用 Source Generator 创建工具的流程
 - [Rider 中使用 Source Generator](https://qiita.com/amenone_games/items/0a99f38fd08911b62c3a)
 - [Arch.Extended](https://github.com/genaray/Arch.Extended) Extensions for Arch with some useful features like Systems, Source Generator and Utils.
@@ -5511,6 +5517,7 @@ Showing off the power of shader properties in Unity
 - [UnityEditorDataChartTool](https://github.com/SolarianZ/UnityEditorDataChartTool)
 - [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) make mesh like line, polygon, etc in unity3d
 - [SaintsDraw](https://github.com/unitycoder/SaintsDraw) draw arrow, circle, and arc in Unity, using Gizmos or LineRenderer
+- [vectorizer](https://assetstore.unity.com/packages/tools/particles-effects/vectorizer-170267) unity-plugin
 
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
@@ -5877,8 +5884,10 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [思源](https://github.com/siyuan-note/siyuan)
 - [日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
 - [zhixi](https://www.zhixi.com/) 国人做的xmind
-## UnityBuild
+## Unity-Build
 - https://github.com/CyberAgentGameEntertainment/BuildMagic
+- https://github.com/XJINE/Unity_RemoveOnBuilds
+- [unity-conditional-objects](https://github.com/gilzoide/unity-conditional-objects) Unity scripts that modify GameObjects and Components at Prefab/Scene import time based on build configurations
 - https://github.com/unitycoder/SaintsBuild
 - https://github.com/ligurio/awesome-ci
 - [jenkins-shared-library](https://github.com/DreamPWJ/jenkins-shared-library/) One For All DevOps, Powerful, flexible and easy-to-use, multi-terminal CI/CD shared library pipeline（ 强大灵活易用的多端CI/CD共享库流水线 ）
