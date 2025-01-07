@@ -4647,6 +4647,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/jackmott/LinqFaster  Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
 - [BurstLinq](https://github.com/AnnulusGames/BurstLinq) Extremely fast LINQ aggregation operations implementation optimized by Burst Compiler
 - https://github.com/cathei/LinqGen
+- https://github.com/andanteyk/SpanLinq
 - https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
 - https://github.com/lujian101/GCFreeClosure A gc-free closure implementation for unity
 - https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
