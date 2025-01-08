@@ -3919,7 +3919,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/Blatko1/awesome-msdf
 - https://github.com/Chlumsky/msdfgen
 - https://github.com/kamone416/MayaToonOutlineShader
-
+- [outlines](https://assetstore.unity.com/packages/vfx/shaders/linework-easy-outlines-edges-and-fills-294140)
+- [Tvitchi](https://assetstore.unity.com/publishers/78833) assetstore
 
 #### FootPrint 
 - https://github.com/edualvarado/
@@ -4003,6 +4004,7 @@ Showing off the power of shader properties in Unity
 * [kDecals](https://github.com/Kink3d/kDecals) kDecals is a system for definition, placement and rendering of projection Decals in Unity's Universal Render Pipeline
 * [DynamicDecals](https://github.com/EricFreeman/DynamicDecals)
 * [driven-decals](https://github.com/Anatta336/driven-decals)
+* [decalery](https://assetstore.unity.com/packages/tools/level-design/decalery-293468) unity-plugin
 * [AirSticker](https://github.com/CyberAgentGameEntertainment/AirSticker) Air Sticker is a decal system that addresses the limitations of URP decals and has a low impact on performance.
  ##### Skin
 - [手机端皮肤渲染](https://zhuanlan.zhihu.com/c_1244739490260090880)
@@ -4285,6 +4287,7 @@ Showing off the power of shader properties in Unity
 - [volumetric-light-beam](https://assetstore.unity.com/packages/vfx/shaders/volumetric-light-beam-99888) unity-plugin
 #### Shadow
 * [realtimeshadows](https://www.realtimeshadows.com/?q=node/12) <Realtime Shadows> codes
+* [Sparse Virtual Shadow Maps](https://ktstephano.github.io/rendering/stratusgfx/svsm)
 * [Unity SRP 实战（三）PCSS 软阴影与性能优化](https://zhuanlan.zhihu.com/p/462371147)
 * [UnityShadows](https://github.com/Eukky/UnityShadows) Shadow map in unity, include hard shadow, PCF, PCSS, VSSM.
 - [PerObjectShadowSRP](https://github.com/GavinKG/PerObjectShadowSRP) Per-object shadow implementation using Unity SRP.
@@ -5305,6 +5308,7 @@ Showing off the power of shader properties in Unity
 - https://www.pangui.io/
 
 #### Font/Text
+- [Harfbuzz native plugin for use in Latios Framework](https://github.com/Dreaming381/HarfbuzzUnity)
 - [TextMeshDOTS](https://github.com/Fribur/TextMeshDOTS)
 - https://github.com/506638093/RichText 头顶血条 
 - https://github.com/wuxiongbin/uHyperText 
