@@ -4849,6 +4849,8 @@ Showing off the power of shader properties in Unity
 - https://zhuanlan.zhihu.com/p/393316878
 - https://github.com/leetal/ios-cmake
 - https://zhuanlan.zhihu.com/p/534439206
+- [《CMake Best Practices》的非专业个人翻译](https://github.com/xiaoweiChen/CMake-Best-Practices)
+- [《Modern CMake for C++》的非专业个人翻译](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp)
 
 ## Embed-Script/VM/
 - [IwasmUnity](https://github.com/HoloLabInc/IwasmUnity)
