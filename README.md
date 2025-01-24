@@ -3231,6 +3231,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Parrot222/Unity-Water-Shaders
 - https://github.com/SebLague/Fluid-Sim
 - https://github.com/shanecelis/water-demo webgl
+- https://github.com/MatrixRex/Uber-Stylized-Water
 #### Glass
 - https://github.com/toadstorm/RainyGlassShader 
 - https://github.com/omid3098/Unity-URP-GlassShader
@@ -5054,6 +5055,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/JoinEnjoyJoyYangLingYun/HybridCLR_YooAsset_UniTask   hybrid clr更新
 - https://github.com/Me-Maped/Gameframework-at-FairyGUI
 - https://github.com/FlameskyDexive/ETPlus 网络
+- https://github.com/ZMteacher/ZMFrameWork
 
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
@@ -5746,6 +5748,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/SolarianZ/UnityEditorMessages
 * https://github.com/yasirkula/UnityInspectPlus
 - https://github.com/AbZorbaGames/artificetoolkit
+- https://github.com/Thundernerd/Unity3D-SerializableInterface
 
 #### Asset-Management
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
