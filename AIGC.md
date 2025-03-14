@@ -1,5 +1,7 @@
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation)
 - https://github.com/rlczddl/awesome-3d-human-reconstruction
+- https://github.com/deepseek-ai/awesome-deepseek-integration
+- https://github.com/karminski/one-small-step/
 - https://github.com/ikaijua/Awesome-AITools 
 - [ai-game-development-tools](https://github.com/Yuan-ManX/ai-game-development-tools)
 - [StableHoudini](https://github.com/stassius/StableHoudini)
