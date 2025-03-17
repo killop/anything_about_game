@@ -1097,6 +1097,8 @@ Table of Contents
 - [sphere_generator](https://github.com/matheusamazonas/sphere_generator)
 - [com.asurafanclub.frustumculling](https://github.com/Asura336/com.asurafanclub.frustumculling)
 - [FrustumCullingSolution](https://github.com/BartoszWiszniewski/FrustumCullingSolution)
+- [ComfyUI-mesh-simplifier](https://github.com/roundyyy/ComfyUI-mesh-simplifier?) A custom node for ComfyUI that implements mesh simplification (decimation) with texture preservation using PyMeshLab
+- [LODOptimizer](https://github.com/roundyyy/LODOptimizer) LOD Optimizer is a Unity Editor tool designed to optimize the Last Level of Detail (LOD) by creating texture atlases, significantly reducing draw calls for distant objects 
 #### Mipmap
 - [texel-inspector](https://assetstore.unity.com/packages/tools/utilities/texel-inspector-176174)  The Texel Inspector unity plugin
 #### List-of-game-middleware
@@ -1143,6 +1145,7 @@ Table of Contents
 - [2d-deformation](https://assetstore.unity.com/packages/tools/physics/2d-deformation-167012)
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428)
 - [2d-water](https://assetstore.unity.com/packages/2d/textures-materials/water/game-2d-water-kit-118057)
+- https://github.com/Fire-Aalt/KrasCore-Mosaic
  
 #### Design
 - https://www.zcool.com.cn
@@ -1237,6 +1240,7 @@ Table of Contents
 #### Animation2Shader
 - [VatBaker](https://github.com/fuqunaga/VatBaker) A tool to bake VAT (Vertex Animation Texture) from AnimationClip with sample shaders for Unity.
 - https://docs.tyflow.com/tyflow_modifiers/tyVAT/vatHLSLShader/
+- https://github.com/Mamantenok1599/UnityVATBaker
 - [NiagaraGPU-SkeletalMeshEcho](https://github.com/dbsierra/NiagaraGPU-SkeletalMeshEcho)
 - [material-animation-curve](https://gist.github.com/ghysc/b4f9b3266ee82edf2b02e00cef0bc6b7) A Material Property Drawer for the Curve attribute which lets you edit curves and adds them to the shader as textures
 - [unity-texture-curve](https://github.com/asus4/unity-texture-curve) Example showing how to bake an AnimatedCurve into a Texture and use it in a shader
@@ -1426,6 +1430,7 @@ Table of Contents
 - [Vortex](https://github.com/kaiyumcg/Vortex) Play/blend animations, animator controllers in runtime. Uses playable API
 - [Unity-MecanimEventSystem](https://github.com/Bian-Sh/Unity-MecanimEventSystem) This is a chain programming style callback System for Animator of Unity ，await /async supported
 - https://github.com/linfuqing/ZGUPEntitiesAnimations supported
+- [AnimationRiggingExtensions](https://github.com/madc0der/AnimationRiggingExtensions) Repository with patched or new constraints for Unity AnimationRigging package
 #### Character-Controller
 - [Project_TCC](https://github.com/unity3d-jp/Project_TCC)
 - [SRMove](https://github.com/NoiRC256/SRMove)
@@ -1466,6 +1471,7 @@ Table of Contents
 - [platformer-project-206584](https://assetstore.unity.com/packages/templates/systems/platformer-project-206584)
 - [fpscontroller](https://github.com/atil/fpscontroller)
 - [dots-animation-system](https://assetstore.unity.com/packages/tools/utilities/dots-animation-system-285657)
+- [FullBody-Fps-Unity](https://github.com/FuadJfrv/FullBody-Fps-Unity)
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 - [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
@@ -1517,6 +1523,7 @@ Table of Contents
 - https://github.com/mob-sakai/UIMaterialPropertyInjector
  
  #### Timeline
+- [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions) 
 - https://github.com/Celezt/UnityTimelineExtended
 - https://github.com/Brian-Jiang/PragmaTimeline
 - https://github.com/pofulu/TimelineTool
@@ -1537,7 +1544,7 @@ Table of Contents
 - [TimelineExtensions](https://github.com/SauryChang/TimelineExtensions)
 - [Unity_SubtitleTimeline](https://github.com/murasaqi/Unity_SubtitleTimeline)
 - https://github.com/ShiinaRinne/EasyTimeline
-
+- https://github.com/ayaha401/AssetDependenciesFromTimeline-SourceCode
 ## Console/Command/Shell/Debugger
 - [Unity-DeveloperConsole](https://github.com/DavidF-Dev/Unity-DeveloperConsole)
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
@@ -1597,6 +1604,7 @@ Table of Contents
 - [gaia](https://forum.unity.com/threads/backwoods-gamings-addons-for-gaia.389067/)
 - https://github.com/JuniorDjjr/Unity-Procedural-Stochastic-Texture-Terrain-Shader
 - https://github.com/staggartcreations/UnityTerrainLayerSampler
+- https://github.com/roundyyy/Fast-Terrain-To-Mesh-Coverter
 ##### Unity-Tool
 - [PrefabPainter](https://github.com/Roland09/PrefabPainter) github
 - [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
@@ -1679,6 +1687,7 @@ Table of Contents
 * [UnityURP-InfiniteGrassField](https://github.com/Youssef-Afella/UnityURP-InfiniteGrassField) An Infinite GPU Instanced Grass Field that doesn't require storing trillions of positions in memory
 * [foliage-renderer](https://assetstore.unity.com/packages/tools/terrain/foliage-renderer-267618)
 * https://github.com/EricHu33/UnityGrassIndirectRenderingExample
+* https://github.com/roundyyy/ProceduralGrassGenerator
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -2404,6 +2413,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 * matter - C++17/20 ECS implementation [github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)
 
 #### C#
+- [Frent](https://github.com/itsBuggingMe/Frent)
 - [massive-ecs](https://github.com/nilpunch/massive-ecs) Prediction-rollback netcode has very stable nature, and is mainly used in fast paced online multiplayer games, such as Overwatch and Rocket League.
 - [DragonECS](https://github.com/DCFApixels/DragonECS) C# Entity Component System framework
 - [Friflo](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) fastest
@@ -2642,6 +2652,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [JNetwork](https://github.com/1176892094/JNetwork)
 - [asphyxia](https://github.com/Molth/asphyxia) a lifetime of living in obscurity, struggling to make ends meet, and enduring humiliation.
 - [ChaseNet2](https://github.com/sowa705/ChaseNet2) 
+- [PurrNet](https://github.com/PurrNet/PurrNet)
+- [StrideNet](https://github.com/Zeon8/StrideNet) Network library for Stride Game Engine
  #### C/CPP
 - [CppNet](https://github.com/caozhiyi/CppNet)
 - [Muduo](https://github.com/chenshuo/muduo)
@@ -2655,7 +2667,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Server](https://github.com/shenmingik/Server) 基于muduo网络库的集群聊天服务器
 - [slikesoft](https://www.slikesoft.com/)
 - [RemoteNetwork](https://github.com/hn-lyf/RemoteNetwork) 远程组网
-
+- [Miku](https://github.com/JasonXuDeveloper/Miku) High performance TCP server/client library
 #### Rust
 - [crystalorb](https://github.com/ErnWong/crystalorb) Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 #### Web/Http/Server/Client
@@ -2684,6 +2696,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/stevinz/awesome-game-engine-dev
 - https://github.com/aloisdeniel/awesome-monogame
 - https://github.com/redorav/public_source_engines
+- https://github.com/raysan5/custom_game_engines
 #### Article/Course
 - https://isetta.io/resources/
 - https://ourmachinery.com/
@@ -3232,6 +3245,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/SebLague/Fluid-Sim
 - https://github.com/shanecelis/water-demo webgl
 - https://github.com/MatrixRex/Uber-Stylized-Water
+- https://github.com/ruccho/WaterRW
 #### Glass
 - https://github.com/toadstorm/RainyGlassShader 
 - https://github.com/omid3098/Unity-URP-GlassShader
@@ -3337,6 +3351,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [OverdrawMonitor](https://github.com/Nordeus/Unite2017/tree/master/OverdrawMonitor)
 - [OverdrawChecker](https://github.com/haw2fregel/OverdrawChecker)
 - [OverdrawMonitor](https://github.com/ZBlueLine/OverdrawMonitor)
+- https://github.com/alexanderameye/stencil-debugger
 ## ComputerGraphics && Shadingv
 
 #### Conference
@@ -3865,6 +3880,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/cecarlsen/SDFTextureGenerator
 - https://github.com/Reguluz/MFSDFShadowGenerator
 - https://github.com/Weesals/UnitySDF
+- https://github.com/T3sT3ro/SdfManipulator
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
@@ -4040,6 +4056,7 @@ Showing off the power of shader properties in Unity
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
 #### RenderPipelineFrameWork
 - https://github.com/Delt06/aaaa-rp
+- https://github.com/ahd2/AHD2-TODSystem
 - https://github.com/aras-p/UnityGaussianSplatting
 - https://github.com/StressLevelZero
 - https://github.com/alelievr/HDRP-Mobile
@@ -4074,6 +4091,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Reuben-Sun/SSPR
 - https://github.com/fzbRun/Global-Illumination
 - https://github.com/KTSAMA001/Unity_URP_Learning
+- https://github.com/frostbone25/Unity-Cubemap-Rendering
 #### Global illumination (GI)
 
 ##### Collection
@@ -4091,6 +4109,7 @@ Showing off the power of shader properties in Unity
 - https://m4xc.dev/articles/fundamental-rc/
 - https://github.com/alexmalyutindev/unity-urp-radiance-cascades
 - https://github.com/Sohojoe/radiance-cascades-godot
+- https://github.com/Youssef-Afella/UnityURP-RadianceCascades2DGI
 ##### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
@@ -4185,7 +4204,6 @@ Showing off the power of shader properties in Unity
 - https://github.com/guiqi134/Area-ReSTIR
 - https://github.com/TU-Clausthal-Rendering/ReSTIR-FG
 - [dynamic-diffuse-global-illumination](https://blog.traverseresearch.nl/dynamic-diffuse-global-illumination-b56dc0525a0a)
-
 - https://github.com/airliang/unity-raytracing
 ##### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
@@ -4653,6 +4671,7 @@ Showing off the power of shader properties in Unity
 - [BurstLinq](https://github.com/AnnulusGames/BurstLinq) Extremely fast LINQ aggregation operations implementation optimized by Burst Compiler
 - https://github.com/cathei/LinqGen
 - https://github.com/andanteyk/SpanLinq
+- https://github.com/Cysharp/ZLinq
 - https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
 - https://github.com/lujian101/GCFreeClosure A gc-free closure implementation for unity
 - https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
@@ -4856,6 +4875,7 @@ Showing off the power of shader properties in Unity
 
 ## Embed-Script/VM/
 - [IwasmUnity](https://github.com/HoloLabInc/IwasmUnity)
+- https://github.com/FPCSharpUnity/FPCSharpUnity?
 - https://github.com/ruccho/WaaS
 - [WACS](https://github.com/kelnishi/WACS) WebAssembly Interpreter written in C# 9.0/.NET Standard2.1
 - [cyber](https://github.com/fubark/cyber) Fast and concurrent scripting.
@@ -5382,13 +5402,13 @@ Showing off the power of shader properties in Unity
 - [tactical-camera](https://www.impossible-odds.net/tactical-camera/) The Tactical Camera package for Unity contains an easy-to-use camera system, ideal for both top-down overview of your worlds and close-up action scenes. It offers a lot of freedom to define and customize its behavior.
 - [RTSCameraController-Cinemachine](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine)
 - [UnityCinematicControl](https://github.com/andreasbaumde/UnityCinematicControl)
-- [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions) 
- 
+- https://github.com/lopespm/unity-camera-multi-target
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 #### Particle
 - [【Unity工具】使用Mesh生成以降低特效贴片Overdraw的自动化工具](https://zhuanlan.zhihu.com/p/678481238) 
 - https://github.com/sunbrando/ParticleEffectProfiler
+- https://github.com/akof1314/UnityParticleSystemPreview
 #### Util
 - https://github.com/pancake-llc/foundation/wiki
 - https://github.com/Greener-Games/Unity_Extensions/
@@ -5494,6 +5514,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/microsoft/Microsoft.Unity.Analyzers
 - https://github.com/vad710/UnityEngineAnalyzer
 - https://github.com/DaZombieKiller/UnityRoslynUpdater
+- https://github.com/apkd/UnityDemystifier
 
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
@@ -5517,6 +5538,7 @@ Showing off the power of shader properties in Unity
 - [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167)
 - [aline](https://assetstore.unity.com/packages/tools/gui/aline-162772)
 - [draw-xxl-246836](https://assetstore.unity.com/packages/tools/utilities/draw-xxl-246836)
+- [Unity-DebugX](https://github.com/DCFApixels/Unity-DebugX)
 - [SLGDrawLine](https://github.com/871041532/SLGDrawLine) SLG游戏画行军线
 - [ui-shapes-kit](https://github.com/thisotherthing/ui-shapes-kit)
 - [Vertx.Debugging](https://github.com/vertxxyz/Vertx.Debugging) Debugging Utilities for Unity
@@ -5528,6 +5550,7 @@ Showing off the power of shader properties in Unity
 - [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) make mesh like line, polygon, etc in unity3d
 - [SaintsDraw](https://github.com/unitycoder/SaintsDraw) draw arrow, circle, and arc in Unity, using Gizmos or LineRenderer
 - [vectorizer](https://assetstore.unity.com/packages/tools/particles-effects/vectorizer-170267) unity-plugin
+- [Unity-SDF-UI-Toolkit](https://github.com/TLabAltoh/Unity-SDF-UI-Toolkit)
 
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
@@ -5669,6 +5692,7 @@ Showing off the power of shader properties in Unity
  - [costume](https://assetstore.unity.com/packages/tools/animation/q-costume-157049)
  - [mesh-combine-studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956)
  - [super-combiner](https://assetstore.unity.com/packages/tools/modeling/super-combiner-92129)
+ - https://github.com/roundyyy/Simple-Atlas-Generator
  - [fast-skinned-mesh-combiner](https://github.com/joshcamas/fast-skinned-mesh-combiner)
  - [body-proportions](https://assetstore.unity.com/packages/tools/modeling/body-proportions-266535)
  - [SkinnedMeshCombiner](https://github.com/JLChnToZ/SkinnedMeshCombiner)
@@ -5689,6 +5713,7 @@ Showing off the power of shader properties in Unity
  - [BakerBoy](https://github.com/Fewes/BakerBoy) A tiny GPU-based ambient occlusion and bent normal baker for Unity
  - [GMesh](https://github.com/sitterheim/GMesh)  a node-based procedural geometry generator for Unity
  - [uv-inspector](https://assetstore.unity.com/packages/tools/utilities/uv-inspector-91703) unity plugin
+ - [Auto-UV-Scaler](https://github.com/roundyyy/Auto-UV-Scaler) A non-destructive UV mapping tool for quick level prototyping in Unity.
  - [UVPreview](https://github.com/AsehesL/UVPreview)
  - [VertexProfilerTool](https://github.com/SaberZG/VertexProfilerTool) 一个Unity中可用的顶点密度debug工具，部分调试类型可导出密度信息
  - [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes
@@ -5752,6 +5777,7 @@ Showing off the power of shader properties in Unity
 
 #### Asset-Management
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)
+* [Flexy.AssetRefs](https://github.com/FlexyTools/Flexy.AssetRefs)
 * [SimilarTextureCheckToolPublic](https://github.com/SaberZG/SimilarTextureCheckToolPublic) 一个用于检测项目内相似图片，并提供替换/删除的工具
 * [unity-project-pin-board](https://github.com/ichenpipi/unity-project-pin-board)
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
@@ -5795,6 +5821,7 @@ Showing off the power of shader properties in Unity
 - https://assetstore.unity.com/packages/tools/utilities/asset-variants-224010
 - [AssetManagement/LockableFolders](https://github.com/Unity-Technologies/sol-games-unity-samples/blob/main/AssetManagement/LockableFolders/Assets/Editor/LockableFolder.cs)
 - [CustomAssetMetadata](https://github.com/LogicalError/CustomAssetMetadata)
+- [SceneMaterialManager](https://github.com/roundyyy/SceneMaterialManager)
 
 #### PackageManager
 - https://github.com/quabug/unity-pack Create an Unity Package from directory
@@ -5831,6 +5858,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 #### Message Bus  
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
 - https://github.com/AnnulusGames/ZeroMessenger
+- https://github.com/recstazy/UnityEventReferenceViewer
 - [Disposify](https://github.com/ruccho/Disposify) Disposify is a source generator to subscribe / unsubscribe C# events with using-dispose pattern.
 - [wolverine](https://github.com/JasperFx/wolverine)
 - [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) - A generic Event-Bus
@@ -5908,6 +5936,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [Game-ci](https://github.com/game-ci)自动测试和构建游戏项目的最快、最简单的方法
 - https://github.com/UNSH/Unity-Apple-Distribution-Workflow
 - https://github.com/tylearymf/UniHacker
+- https://unity.com.alianblank.uk/
 - https://github.com/somedeveloper00/GameBuilder
 - https://github.com/unitycoder/UnityLauncherPro
 - [buildtool](https://github.com/superunitybuild/buildtool)

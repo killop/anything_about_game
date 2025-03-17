@@ -69,3 +69,9 @@
 
 #### ChatBot
 - https://github.com/tghamm/Anthropic.SDK
+
+#### Agent
+- https://github.com/steel-dev/awesome-web-agents
+
+#### MCP
+- https://github.com/PederHP/mcpdotnet
