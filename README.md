@@ -1581,6 +1581,7 @@ Table of Contents
 - [RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl)
 - [runtime-monitoring](https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring)
 - [Unity.Mx](https://github.com/jcs090218/Unity.Mx) Mx (or Meta-X) is a command-based completion framework. It allows you to execute all kinds of tasks based on your design. Mx is an alternate to attribute MenuItem; by contrast, doing multiple tasks is possible. It gives you the option to choose and explore unnoticed commands.
+- [livewatch](https://assetstore.unity.com/packages/tools/utilities/livewatch-debug-with-full-history-of-changes-300573)
 
 ## Scenes
 #### Terrain
@@ -1618,6 +1619,7 @@ Table of Contents
 - https://github.com/Caeden117/ChroMapper -- 地图编辑器 
 - [real-world-terrai](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752) unity-plugin
 - [ntg-unity](https://github.com/hayden-donnelly/ntg-unity)
+- [simple-wall-collider-307337](https://assetstore.unity.com/packages/tools/utilities/simple-wall-collider-307337)
 #### Procedurally-Generation
 - [real-ivy-2-procedural-ivy-generator](https://assetstore.unity.com/packages/tools/modeling/real-ivy-2-procedural-ivy-generator-181402) unity-plugin
 - [games.noio.planter](https://github.com/noio/games.noio.planter) The plant simulation from Cloud Gardens as a Unity package for level design.
@@ -5707,6 +5709,7 @@ Showing off the power of shader properties in Unity
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
  - [LyumaMeshTools](https://github.com/lyuma/LyumaShader/blob/master/LyumaShader/Editor/LyumaMeshTools.cs)
  - https://github.com/BennyKok/unity-hotspot-uv
+ - [character-creator-framework](https://assetstore.unity.com/packages/tools/utilities/character-creator-framework-instant-customization-305742)
  - [mudbun-volumetric-vfx-mesh](https://assetstore.unity.com/packages/tools/particles-effects/mudbun-volumetric-vfx-mesh-tool-177891) unity plugin
  - [clayxels](https://assetstore.unity.com/packages/tools/game-toolkits/clayxels-165312) unity plugin
  -  https://github.com/nementic-games/mesh-debugging
