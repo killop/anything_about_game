@@ -5703,7 +5703,8 @@ Showing off the power of shader properties in Unity
  - [multi-material-atlasing-skinned-mesh-combiner](https://assetstore.unity.com/packages/tools/modeling/multi-material-atlasing-skinned-mesh-combiner-with-data-save-139574)
  - [AvatarClothes](https://github.com/136512892/AvatarClothes) Unity 人物换装系统解决方案
  - [character-customization](https://assetstore.unity.com/packages/tools/utilities/character-customization-181286) 人物换装系统 插件
- - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin
+ - [character-customizer](https://assetstore.unity.com/packages/tools/game-toolkits/character-customizer-241861) 人物换装系统 插件
+ - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin 
  - [Mount Points](https://assetstore.unity.com/packages/tools/animation/mount-points-16318) unity-plugin
  - [better-mesh-filter-266489](https://assetstore.unity.com/packages/tools/utilities/better-mesh-filter-266489)
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
