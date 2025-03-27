@@ -285,6 +285,7 @@ Table of Contents
 - [Lua](#lua-1)
 - [Typescript](#typescript)
 - [C#](#c-6)
+    - [C#-Reflection](#c-reflection)
 - [C](#c-7)
 - [CPP](#cpp-1)
 - [Java](#java-1)
@@ -2312,6 +2313,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [StructBinarySerializer](https://github.com/gilzoide/unity-key-value-store/blob/main/Runtime/ObjectSerializers/StructBinarySerializer.cs)
 - [BytePacketSupport](https://github.com/lukewire129/BytePacketSupport)
 - https://github.com/pancake-llc/foundation/wiki/data
+- https://github.com/xuhuanzy/pure-lua-protobuf
 
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -2714,6 +2716,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://www.raylib.com/
 #### 2D Engines and Frameworks
 - [Ambient](https://github.com/AmbientRun/Ambient) The multiplayer game engine
+- [galacean](https://github.com/galacean/engine) A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
 - [EvoEngine](https://github.com/edisonlee0212/EvoEngine) An early-stage, cross-platform interactive application and rendering framework.
 - [Dora-SSR](https://github.com/IppClub/Dora-SSR) Dora Project, Special Super Rare Edition
 - [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
@@ -2724,6 +2727,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games. :o2:
 * [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor. :o2:
 * [Box2D](https://box2d.org/) - A 2D Physics Engine for Games. :o2:
+* [Box2D.Net](https://github.com/ikpil/Box2D.NET)
 * [projectchrono](https://projectchrono.org/) An Open Source Multi-physics Simulation Engine
 * [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib. :o2:
 * [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
@@ -4822,11 +4826,6 @@ Showing off the power of shader properties in Unity
 - [Chinese](https://github.com/zmjack/Chinese) 中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。
 - [Demystifier](https://github.com/benaadams/Ben.Demystifier) High performance understanding for stack traces (Make error logs more productive)
 - [ProductionStackTrace](https://github.com/gimelfarb/ProductionStackTrace) Without deploying PDBs, generate a .NET exception stack trace that can be processed to retrieve source file and line number info 
-- [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
-- [unity3d_quick_reflection](https://github.com/smopu/unity3d_quick_reflection) [作者知乎](https://zhuanlan.zhihu.com/p/552294970)
-- [UniReflection](https://github.com/Akeit0/UniReflection)
-- [ReflectionEnhance](https://github.com/Katsuya100/ReflectionEnhance?)
-- [unity下零GC反射实现](https://zhuanlan.zhihu.com/p/15399068951) 
 - https://github.com/madelson/DistributedLock
 - https://github.com/thedmi/Equ
 - https://github.com/bitwarden/server
@@ -4835,6 +4834,14 @@ Showing off the power of shader properties in Unity
 - https://github.com/aelyo-softworks/Wice
 - [Net 高级调试](https://www.cnblogs.com/PatrickLiu/)
 - [Windows 调试工具课程](https://www.cnblogs.com/lindexi/p/18421353)
+
+#### C#-Reflection
+- [fasterflect](https://github.com/buunguyen/fasterflect) .NET Reflection Made Fast and Simple 
+- [unity3d_quick_reflection](https://github.com/smopu/unity3d_quick_reflection) [作者知乎](https://zhuanlan.zhihu.com/p/552294970)
+- [UniReflection](https://github.com/Akeit0/UniReflection)
+- [ReflectionEnhance](https://github.com/Katsuya100/ReflectionEnhance?)
+- [unity下零GC反射实现](https://zhuanlan.zhihu.com/p/15399068951)  
+- [ReflectionTool](https://github.com/kuronekoyang/ReflectionTool/ReflectionTool) 是一个强大的Unity编辑器扩展工具，用于处理反射和方法钩子（Method Hooking）相关的操作。它提供了一套完整的工具集，可以帮助开发者更便捷地处理Unity中的反射操作和方法拦截。
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -5317,6 +5324,7 @@ Showing off the power of shader properties in Unity
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
 - https://github.com/unishiki/Unity-UGUI-Effect
 - https://github.com/PandaArcade/UIOutline
+- https://github.com/V0odo0/Sprite-Swap-Morph
 - [Shader2D](https://github.com/nightyan/Shader2D) Shader2D: some 2d shader effect
 - [Sample file of Unity SYNC2022 "Rich UI effects created with shader and animation"](https://github.com/applibot-inc/sync2022-ui-sample-techbot)
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
@@ -5941,6 +5949,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/UNSH/Unity-Apple-Distribution-Workflow
 - https://github.com/tylearymf/UniHacker
 - https://unity.com.alianblank.uk/
+- https://www.nounitycn.top/
 - https://github.com/somedeveloper00/GameBuilder
 - https://github.com/unitycoder/UnityLauncherPro
 - [buildtool](https://github.com/superunitybuild/buildtool)

@@ -75,3 +75,5 @@
 
 #### MCP
 - https://github.com/PederHP/mcpdotnet
+- https://github.com/CoderGamester/mcp-unity
+- https://github.com/justinpbarnett/unity-mcp
