@@ -2259,6 +2259,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 * https://github.com/RuanCardoso/OmniNet
 * https://github.com/zacpeelyates/unityrollback
 * [local-multiplayer](https://forum.unity.com/threads/released-local-multiplayer-for-ios-tvos-macos.474432/)
+* https://github.com/Glitshy/Godot-Lag-Compensation
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
