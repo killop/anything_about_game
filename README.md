@@ -5326,6 +5326,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/unishiki/Unity-UGUI-Effect
 - https://github.com/PandaArcade/UIOutline
 - https://github.com/V0odo0/Sprite-Swap-Morph
+- https://github.com/LeiQiaoZhi/Easy-Text-Effects-for-Unity
 - [Shader2D](https://github.com/nightyan/Shader2D) Shader2D: some 2d shader effect
 - [Sample file of Unity SYNC2022 "Rich UI effects created with shader and animation"](https://github.com/applibot-inc/sync2022-ui-sample-techbot)
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
