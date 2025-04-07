@@ -1896,7 +1896,8 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [vcdiff](https://github.com/SnowflakePowered/vcdiff)
 - [SharpHDiffPatch](https://github.com/CollapseLauncher/SharpHDiffPatch.Core)
  ## File Systems
- - https://github.com/hadashiA/Unio Unio (short for unity native I/O) is a small utility set of I/O using native memory areas.
+- https://github.com/jgric2/Fast-Persistent-Dictionary/
+- https://github.com/hadashiA/Unio Unio (short for unity native I/O) is a small utility set of I/O using native memory areas.
 - https://github.com/mattiasgustavsson/libs
 - https://github.com/okhosting/awesome-storage?
 - https://icculus.org/physfs/
@@ -2286,6 +2287,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/jamescourtney/FlatSharp
 - https://github.com/Unity-Technologies/FlatSharp
 - https://developers.google.com/protocol-buffers pb
+- https://github.com/skbkontur/GroBuf
 - https://github.com/real-logic/simple-binary-encoding  sbe-fastest
 - https://github.com/neuecc/ZeroFormatter  zero
 - https://msgpack.org/ messagepack
@@ -2497,6 +2499,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [slow-cheetah](https://github.com/microsoft/slow-cheetah) Tooling for XML and JSON file transforms on build from Visual Studio and MSBuild
 - https://github.com/microsoft/vs-solutionpersistence
 - https://github.com/datalust/superpower
+- https://github.com/werwolfby/Zeroshtein 
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -2969,6 +2972,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ## Game-Math
 - [Vortice.Mathematics](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform .NET math library.
+- [omath](https://github.com/orange-cpp/omath) Cross-platform modern general purpose math library written in C++23
 - [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 - https://github.com/ViRGIS-Team/ViRGiS-Geometry
 - https://github.com/UnrealStudio/Collection
@@ -5297,6 +5301,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/chasinghope/CurveLayoutGroup
 - https://github.com/niwatly/SectorLayoutGroup
 - https://github.com/zambari/LayoutPanel.UI.Unity
+- https://assetstore.unity.com/packages/tools/gui/ui-position-clamp-keep-recttransform-on-screen-315346
 - [flexalon-ui-layouts](https://assetstore.unity.com/packages/tools/gui/flexalon-ui-layouts-254652)
 - https://github.com/tetr4lab/FitForScreen
 - https://github.com/litefeel/Unity-AlignTools ugui锚点设置
@@ -5967,6 +5972,8 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [SaintsBuild](https://github.com/TylerTemp/SaintsBuild/)
  ## Mobile
  - [UnityAndroidRuntimePermissions](https://github.com/yasirkula/UnityAndroidRuntimePermissions)A native Unity plugin to handle runtime permissions on Android M+
+ - [permissions-kit](https://discussions.unity.com/t/permissions-kit-unified-api-for-handling-permissions-across-mobile-platforms/1613950)
+ - [permissions-kit](https://github.com/voxelbusters/permissions-kit)
  - [unity-background-service](https://github.com/nintendaii/unity-background-service)
  - [unimgpicker](https://github.com/thedoritos/unimgpicker)
  - [BlankGalleryScreenshot](https://github.com/AlianBlank/BlankGalleryScreenshot) Unity 3D Gallery Screenshot
@@ -6002,6 +6009,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://gitee.com/NKG_admin/NKGMobaBasedOnET 基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！
 - [NineChronicles](https://github.com/planetarium/NineChronicles) Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
 - [CodeFPS](https://github.com/Zhao-666/CodeFPS) Unity引擎实现的一款FPS游戏，实现《使命召唤4》训练靶场关卡
+- [shootercore](https://github.com/David-63/com.david6.shootercore)
 - [GameKit](https://github.com/FirstGearGames/GameKit) Pre-built commonly needed gameplay elements, with examples. Developed for Fish-Networking.
 - https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game
 ## Programmer-Common-Tool
