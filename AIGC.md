@@ -76,3 +76,9 @@
 
 #### Agent
 - https://github.com/steel-dev/awesome-web-agents
+
+#### PDF
+- https://doc2x.noedgeai.com/
+
+#### Logo
+- https://github.com/Nutlope/logocreator

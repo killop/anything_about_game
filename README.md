@@ -1522,6 +1522,7 @@ Table of Contents
 - https://github.com/mihakrajnc/UITTimeline
 - https://github.com/lgarczyn/AnimateUIMaterials
 - https://github.com/mob-sakai/UIMaterialPropertyInjector
+- https://github.com/medvejut/dotween-timeline
  
  #### Timeline
 - [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions) 
@@ -1897,6 +1898,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [SharpHDiffPatch](https://github.com/CollapseLauncher/SharpHDiffPatch.Core)
  ## File Systems
 - https://github.com/jgric2/Fast-Persistent-Dictionary/
+- https://github.com/Ninjadini/Neuro
 - https://github.com/hadashiA/Unio Unio (short for unity native I/O) is a small utility set of I/O using native memory areas.
 - https://github.com/mattiasgustavsson/libs
 - https://github.com/okhosting/awesome-storage?
@@ -2897,6 +2899,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [source-engine](https://github.com/nillerusr/source-engine) Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
 ## GameAI
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
+* https://github.com/hl845740757/FastestBtree
 * https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
 * https://github.com/CatImmortal/CatBehaviour
 * https://github.com/meniku/NPBehave
@@ -2919,6 +2922,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/rwth-acis/Virtual-Agents-Framework
 - https://github.com/acdamiani/schema
 - https://github.com/HalfADog/Unity-RPGCore-HFSM
+- https://github.com/Inspiaaa/UnityHFSM
 - https://github.com/Yuan-ManX/ai-game-development-tools
 - https://github.com/baponkar/zombie-ai
 ##  Chat/Dialogue
@@ -4684,6 +4688,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/andanteyk/SpanLinq
 - https://github.com/Cysharp/ZLinq
 - https://github.com/disruptor-net/Disruptor-net The Disruptor is a high performance inter-thread message passing framework. This project is the .NET port of LMAX Disruptor.
+- https://github.com/hl845740757/commons/tree/dev/csharp/Wjybxx.Commons.Concurrent
 - https://github.com/lujian101/GCFreeClosure A gc-free closure implementation for unity
 - https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream A library to provide pooling for .NET MemoryStream objects to improve application performance, especially in the area of garbage collection.
 - https://github.com/MiloszKrajewski/K4os.Streams
@@ -5769,6 +5774,7 @@ Showing off the power of shader properties in Unity
 #### Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
+* [inspector-desinger](https://assetstore.unity.com/packages/tools/gui/inspector-desinger-307698)
 * [UnityHiddenObjectFinder](https://github.com/SolarianZ/UnityHiddenObjectFinder/)
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
@@ -5841,6 +5847,7 @@ Showing off the power of shader properties in Unity
 - [AssetManagement/LockableFolders](https://github.com/Unity-Technologies/sol-games-unity-samples/blob/main/AssetManagement/LockableFolders/Assets/Editor/LockableFolder.cs)
 - [CustomAssetMetadata](https://github.com/LogicalError/CustomAssetMetadata)
 - [SceneMaterialManager](https://github.com/roundyyy/SceneMaterialManager)
+- [missing-reference-fixer](https://assetstore.unity.com/packages/tools/utilities/missing-reference-fixer-316285)
 
 #### PackageManager
 - https://github.com/quabug/unity-pack Create an Unity Package from directory
@@ -6012,6 +6019,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [shootercore](https://github.com/David-63/com.david6.shootercore)
 - [GameKit](https://github.com/FirstGearGames/GameKit) Pre-built commonly needed gameplay elements, with examples. Developed for Fish-Networking.
 - https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game
+- https://github.com/llr104/slgclient
 ## Programmer-Common-Tool
 - https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/
 - https://evanw.github.io/float-toy/ 浮点数内存结构
