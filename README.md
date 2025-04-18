@@ -1249,6 +1249,7 @@ Table of Contents
 - [GradientTexture](https://github.com/mitay-walle/GradientTexture) Unity Gradient Texture generator
 - [TransformAnimationTextureBaker](https://github.com/sugi-cho/TransformAnimationTextureBaker)
  #### Atlas
+- [KuroDynamicAtlas](https://github.com/kuronekoyang/KuroDynamicAtlas)
 - [DynamicAtlas](https://github.com/tkonexhh/DynamicAtlas)
 - [RuntimeTextureAtlas](https://github.com/jintiao/RuntimeTextureAtlas)
 - [UVAtlas](https://github.com/Microsoft/UVAtlas) isochart texture atlasing
@@ -3327,8 +3328,9 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/jlfwong/speedscope
 - [ULogViewer](https://github.com/carina-studio/ULogViewer)
 - [UnityIL2CPP包Crash闪退利用Android Logcat还原符号表堆栈日志](https://www.jianshu.com/p/2000f524879d)
-
+- https://github.com/Palatis/XAppDebug
 #### GPU
+
 - https://github.com/taptap/render-doctor
 - https://github.com/taptap/perf-doctor
 - [perfstudio](https://gpuopen.com/archived/gpu-perfstudio/)
@@ -4730,6 +4732,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/U8String/U8String
 - [DefaultInterpolatedStringHandler.cs](https://gist.github.com/Akeit0/0ac9a82ecbe952287bae694a10a7a7d0)
 - https://github.com/axuno/SmartFormat
+- https://github.com/kuronekoyang/UnsafeStringBuffer
  
 #### Collection
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection

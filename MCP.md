@@ -4,12 +4,19 @@
 - https://www.bilibili.com/video/BV1TEo6YGEnk/
 ## Collection
 - https://smithery.ai/ Smithery.AI - A collection of tools and resources for building AI-powered applications.
-- https://www.pulsemcp.com/  Browse and discover MCP use cases, servers, clients, and news
-- https://mcp.so/servers 
-- https://cursor.directory/mcp
-- https://glama.ai/mcp/servers
-- https://portkey.ai/mcp-servers
+- https://mcpstore.co
 - https://mcpmarket.com/
+- https://mcpmarket.cn/
+- https://mcpservers.org/
+- https://www.mcp.run/
+- https://mcp.so/servers 
+- https://www.pulsemcp.com/  Browse and discover MCP use cases, servers, clients, and news 
+- https://glama.ai/mcp/servers
+- https://www.aimcp.info/zh
+- https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/modelcontextprotocol/servers
+- https://cursor.directory/mcp
+- https://portkey.ai/mcp-servers
  
 ## .NET
 - https://github.com/PederHP/mcpdotnet
