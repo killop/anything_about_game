@@ -47,5 +47,8 @@
 ## AIGC
 - https://github.com/PsychArch/minimax-mcp-tools
 
-#### Jupyter
+## Jupyter
 - https://github.com/datalayer/jupyter-mcp-server
+
+## Excel
+- https://github.com/haris-musa/excel-mcp-server
