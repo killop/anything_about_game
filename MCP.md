@@ -2,6 +2,8 @@
 - https://agent-tars.com/2025/03/25/mcp-brings-a-new-paradigm-to-layered-ai-app-development
 - https://www.cnblogs.com/BNTang/p/18815937
 - https://www.bilibili.com/video/BV1TEo6YGEnk/
+- https://blog.csdn.net/qq_37172634/article/details/123996775
+- https://www.cnblogs.com/whuanle/p/18837493
 ## Collection
 - https://smithery.ai/ Smithery.AI - A collection of tools and resources for building AI-powered applications.
 - https://mcpstore.co
@@ -29,6 +31,7 @@
 - https://github.com/Azreal42/YetAnotherUnityMcp
 - https://github.com/VR-Jobs/UnityMCPbeta
 - https://glama.ai/mcp/servers/@GrandMasterK414/unity-smithery-mcp
+- https://github.com/IvanMurzak/Unity-MCP
 ## NetWork
 - https://github.com/0xKoda/WireMCP An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
 
