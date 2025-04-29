@@ -5735,6 +5735,7 @@ Showing off the power of shader properties in Unity
  - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin 
  - [Mount Points](https://assetstore.unity.com/packages/tools/animation/mount-points-16318) unity-plugin
  - [better-mesh-filter-266489](https://assetstore.unity.com/packages/tools/utilities/better-mesh-filter-266489)
+ - [2d-art-maker-casual-characters](https://assetstore.unity.com/packages/2d/characters/2d-art-maker-casual-characters-316781)
  - [MeshDebugger](https://github.com/willnode/MeshDebugger/) First-class Mesh debugging tools for Unity 
  - [LyumaMeshTools](https://github.com/lyuma/LyumaShader/blob/master/LyumaShader/Editor/LyumaMeshTools.cs)
  - https://github.com/BennyKok/unity-hotspot-uv

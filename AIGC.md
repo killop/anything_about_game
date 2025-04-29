@@ -76,9 +76,20 @@
 
 #### Agent
 - https://github.com/steel-dev/awesome-web-agents
+- https://www.cnblogs.com/code-daily/p/18744841
+
+#### AI-Context
+- https://deepwiki.com/
+- https://context7.com/
+- https://koala.token-ai.cn/
+- https://github.com/vanzan01/cursor-memory-bank
+- https://github.com/getzep/graphiti
 
 #### PDF
 - https://doc2x.noedgeai.com/
 
 #### Logo
 - https://github.com/Nutlope/logocreator
+
+#### Prompts
+- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools

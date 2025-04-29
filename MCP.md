@@ -37,6 +37,7 @@
 
 ## Houdini
 - https://mcpmarket.com/server/houdini
+- https://github.com/capoomgit/houdini-mcp
 
 ## Code Analyser
 - https://github.com/davidkingzyb/SCAST
@@ -55,3 +56,21 @@
 
 ## Excel
 - https://github.com/haris-musa/excel-mcp-server
+
+## MarkItDown
+- https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp
+
+## Common Agent
+- https://github.com/kortix-ai/suna
+
+## Framework
+- https://github.com/pietrozullo/mcp-use
+
+### Code-Ide
+- https://github.com/langchain-ai/mcpdoc
+- https://github.com/gersteinlab/LocAgent
+
+
+### Agent-Coding
+- https://www.cnblogs.com/chegan/p/18846446
+- https://www.cnblogs.com/Evsward/p/18847893
