@@ -1,3 +1,5 @@
+## AIGC
+### Collection
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation)
 - https://github.com/rlczddl/awesome-3d-human-reconstruction
 - https://github.com/deepseek-ai/awesome-deepseek-integration
@@ -37,23 +39,23 @@
 - [AI绘画收集](https://weknowlib.feishu.cn/wiki/wikcn7hgYG3w4R7JYNJFU2bVjGd)
 - https://xa9f20zq7mg.feishu.cn/wiki/JMrEwJEuSiKCQ4kR6xIcQ4BGneg
 
-
-##Image
+### Image
 - https://reveai.org/
-## Audio
+ 
+### Audio
 - [bark](https://github.com/suno-ai/bark)  Text-Prompted Generative Audio Model
 - https://github.com/jianchang512/ChatTTS-ui
 - https://github.com/panyanyany/Awesome-ChatTTS
 - https://github.com/Camb-ai/MARS5-TTS
 
-## Animation
+### Animation
 - [EDGE](https://github.com/Stanford-TML/EDGE)
 
-## Video
+### Video
 - [runwayml-gen2](https://research.runwayml.com/gen2)
 
-## coding
-[开源的本地代码解释器](https://github.com/KillianLucas/open-interpreter)
+### coding
+- [开源的本地代码解释器](https://github.com/KillianLucas/open-interpreter)
 
 ## ComfyUI
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
@@ -74,12 +76,12 @@
 #### ChatBot
 - https://github.com/tghamm/Anthropic.SDK
 
-#### Agent
-- https://github.com/steel-dev/awesome-web-agents
-- https://www.cnblogs.com/code-daily/p/18744841
+
 
 #### AI-Context
 - https://deepwiki.com/
+- https://github.com/AsyncFuncAI/deepwiki-open
+- https://github.com/regenrek/deepwiki-mcp
 - https://context7.com/
 - https://koala.token-ai.cn/
 - https://github.com/vanzan01/cursor-memory-bank
@@ -93,3 +95,88 @@
 
 #### Prompts
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+
+## MCP
+
+### Article
+- https://agent-tars.com/2025/03/25/mcp-brings-a-new-paradigm-to-layered-ai-app-development
+- https://www.cnblogs.com/BNTang/p/18815937
+- https://www.bilibili.com/video/BV1TEo6YGEnk/
+- https://blog.csdn.net/qq_37172634/article/details/123996775
+- https://www.cnblogs.com/whuanle/p/18837493
+  
+### Collection
+- https://smithery.ai/ Smithery.AI - A collection of tools and resources for building AI-powered applications.
+- https://mcpstore.co
+- https://mcpmarket.com/
+- https://mcpmarket.cn/
+- https://mcpservers.org/
+- https://www.mcp.run/
+- https://mcp.so/servers 
+- https://www.pulsemcp.com/  Browse and discover MCP use cases, servers, clients, and news 
+- https://glama.ai/mcp/servers
+- https://www.aimcp.info/zh
+- https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/modelcontextprotocol/servers
+- https://cursor.directory/mcp
+- https://portkey.ai/mcp-servers
+ 
+### Framework
+- https://github.com/PederHP/mcpdotnet
+- https://github.com/modelcontextprotocol/csharp-sdk
+- https://github.com/pietrozullo/mcp-use
+- https://github.com/nuskey8/McpToolkit
+  
+### Unity 
+- https://github.com/nasimali5/mcpup
+- https://github.com/Arodoid/UnityMCP
+- https://github.com/CoderGamester/mcp-unity
+- https://github.com/justinpbarnett/unity-mcp
+- https://github.com/Azreal42/YetAnotherUnityMcp
+- https://github.com/VR-Jobs/UnityMCPbeta
+- https://glama.ai/mcp/servers/@GrandMasterK414/unity-smithery-mcp
+- https://github.com/IvanMurzak/Unity-MCP
+ 
+### NetWork
+- https://github.com/0xKoda/WireMCP An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
+
+### Houdini
+- https://mcpmarket.com/server/houdini
+- https://github.com/capoomgit/houdini-mcp
+
+### Code Analyser
+- https://github.com/davidkingzyb/SCAST
+
+### WebGL
+- https://github.com/grokadegames/webgl-mcp
+
+### GameEngineAsset
+- https://github.com/berlinbra/binary-reader-mcp
+
+### AIGC
+- https://github.com/PsychArch/minimax-mcp-tools
+
+### Jupyter
+- https://github.com/datalayer/jupyter-mcp-server
+
+### Excel
+- https://github.com/haris-musa/excel-mcp-server
+
+### MarkItDown
+- https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp
+
+
+## Agent
+- https://github.com/steel-dev/awesome-web-agents
+- https://www.cnblogs.com/code-daily/p/18744841
+
+### Framework
+- [rowboat](https://github.com/rowboatlabs/rowboat) AI-powered multi-agent builder
+### Common Agent
+- https://github.com/kortix-ai/suna
+### Code-Ide
+- https://github.com/langchain-ai/mcpdoc
+- https://github.com/gersteinlab/LocAgent
+### Agent-Coding
+- https://www.cnblogs.com/chegan/p/18846446
+- https://www.cnblogs.com/Evsward/p/18847893

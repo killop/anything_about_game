@@ -276,6 +276,7 @@ Table of Contents
     - [MMO](#mmo)
     - [OC](#oc)
     - [String](#string)
+    - [Log](#log)
     - [Collection](#collection-7)
     - [Thread/Task](#threadtask)
 - [Utils](#utils)
@@ -2340,6 +2341,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 
 ## Huge-World
 - https://github.com/VIZ-Interactive/Depiction-Engine-Unity
+- https://assetstore.unity.com/packages/tools/game-toolkits/chunx-chunks-culling-305400
 - [ScatterStream](https://github.com/ashleyseric/ScatterStream) A runtime object scattering/vegetation authoring, streaming and rendering tool for Unity optimised for instanced rendering a very large number of placed items.
 - [mega-scatter-14954](https://assetstore.unity.com/packages/tools/modeling/mega-scatter-14954) unity-plugin
 - [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
@@ -2904,6 +2906,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [source-engine](https://github.com/nillerusr/source-engine) Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
 ## GameAI
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
+* https://github.com/TheWizardsCode/Character-Dev
 * https://github.com/hl845740757/FastestBtree
 * https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
 * https://github.com/CatImmortal/CatBehaviour
@@ -4724,7 +4727,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
 - https://github.com/871041532/zstring 零内存消耗的stringbuilder
 - https://github.com/FlatlinerDOA/Rope
-- https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
+
 - https://github.com/snozbot/FastString Alternative to StringBuilder class for Unity games, with minimal memory allocation and faster performance. 
 - https://github.com/MikePopoloski/StringFormatter Zero-allocation string formatting for .NET. 
 - [stringHelper](https://github.com/Dogwei/Swifter.Json/blob/db6c0be4fa2bfac5583d5bce7b475a2d618e7d74/Swifter.Core/Tools/String/StringHelper.cs) unsafe zero alloc string from [swifter](https://github.com/Dogwei/Swifter.Core)
@@ -4737,6 +4740,11 @@ Showing off the power of shader properties in Unity
 - [DefaultInterpolatedStringHandler.cs](https://gist.github.com/Akeit0/0ac9a82ecbe952287bae694a10a7a7d0)
 - https://github.com/axuno/SmartFormat
 - https://github.com/kuronekoyang/UnsafeStringBuffer
+#### Log
+- https://github.com/DerploidEntertainment/UnityUtil
+- https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
+- https://assetstore.unity.com/packages/tools/utilities/switchboard-250879
+- https://docs.unity3d.com/Packages/com.unity.logging@1.4/manual/index.html
  
 #### Collection
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
