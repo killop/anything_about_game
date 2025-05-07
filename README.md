@@ -2535,6 +2535,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 #### C#
 - [Enclave.FastPacket](https://github.com/enclave-networks/Enclave.FastPacket) The FastPacket project provides efficient, zero-allocation mechanisms for reading and writing individual network packets
 - [EasyTcp4Net](https://github.com/BruceQiu1996/EasyTcp4Net/)
+- [NativeSockets](https://github.com/Molth/NativeSockets)
 - https://github.com/ReferenceType/StandardNetworkLibrary
 - [heartbeat](https://github.com/AliKhalili/heartbeat)
 - [netmq](https://github.com/zeromq/netmq) A 100% native C# implementation of ZeroMQ for .NET

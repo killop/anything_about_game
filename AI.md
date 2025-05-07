@@ -75,12 +75,13 @@
 
 #### ChatBot
 - https://github.com/tghamm/Anthropic.SDK
-
+- https://github.com/ThinkInAIXYZ/deepchat
 
 
 #### AI-Context
 - https://deepwiki.com/
 - https://github.com/AsyncFuncAI/deepwiki-open
+- https://github.com/AIDotNet/OpenDeepWiki
 - https://github.com/regenrek/deepwiki-mcp
 - https://context7.com/
 - https://koala.token-ai.cn/
@@ -89,6 +90,7 @@
 
 #### PDF
 - https://doc2x.noedgeai.com/
+- https://github.com/guaguastandup/zotero-pdf2zh
 
 #### Logo
 - https://github.com/Nutlope/logocreator
@@ -174,6 +176,7 @@
 - [rowboat](https://github.com/rowboatlabs/rowboat) AI-powered multi-agent builder
 ### Common Agent
 - https://github.com/kortix-ai/suna
+- https://github.com/simular-ai/Agent-S
 ### Code-Ide
 - https://github.com/langchain-ai/mcpdoc
 - https://github.com/gersteinlab/LocAgent
