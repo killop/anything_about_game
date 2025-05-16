@@ -1744,6 +1744,7 @@ Table of Contents
 - [table-export](https://github.com/821869798/table-export)
 - [xresloader](https://github.com/xresloader/xresloader)
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
+- [突破Excel百万数据导出瓶颈](https://www.cnblogs.com/xiongze520/p/18866690)
 - [BakingSheet](https://github.com/cathei/BakingSheet) Easy datasheet management for C# and Unity. Supports Excel, Google Sheet, JSON and CSV format.
 - [go-xlsx-exporter](https://github.com/wingcd/go-xlsx-exporter) a tool for parse xlsx and export to other fomart and data, such as: probuf3 file and buffers, golang, csharp and so on
 - https://github.com/hnb-rabear/excel-to-unity
@@ -4467,6 +4468,7 @@ Showing off the power of shader properties in Unity
   
 #### GPU-Particle
 - [KvantSpray](https://github.com/keijiro/KvantSpray) Object instancing/particle animation system for Unity
+- [particle-optimizer-pro](https://assetstore.unity.com/packages/tools/particles-effects/particle-optimizer-pro-290175)
 #### BVH
 - [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
 - [NativePhysicsBVH](https://github.com/marijnz/NativePhysicsBVH) A Bounding Volume Hierarchy with basic physics queries for Unity DOTS
@@ -4527,6 +4529,7 @@ Showing off the power of shader properties in Unity
 - [Anime-Speed-Lines](https://github.com/MirzaBeig/Anime-Speed-Lines) Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.
 - [LUTS](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 - [cavifree](Screen space shader for Unity resembling the "cavity" effect in Blender)
+- [lut-creator](https://assetstore.unity.com/packages/tools/utilities/lut-creator-suite-317840) unity-plugin
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
 
@@ -5367,6 +5370,7 @@ Showing off the power of shader properties in Unity
 - [uLui](https://github.com/LingJiJian/uLui) unity3d - advanced control library
 - [uis](https://github.com/mopsicus/uis) Unity infinite scroller (UIS) is an extension allows you to use the ScrollRect control as an infinite scroller/spinner
 - https://github.com/NRatel/Unity-ListView
+- https://github.com/qiankanglai/LoopScrollRect
  
 #### UI-System
 - https://www.pangui.io/
@@ -5805,8 +5809,10 @@ Showing off the power of shader properties in Unity
 * [project-view-enhanced-199685](https://assetstore.unity.com/packages/tools/gui/project-view-enhanced-199685)
 * [QuickEye-Utility](https://github.com/ErnSur/QuickEye-Utility)
 * https://github.com/Brian-Jiang/SmartReference
+* https://github.com/Full-Metal-Bagel/unity-stable-reference
 * https://github.com/AnnulusGames/Alchemy
 * https://github.com/AlexeyTaranov/SerializeReferenceDropdown
+* https://github.com/Goatman1996/DynamicForUnity/
 * [SaintsField](https://github.com/TylerTemp/SaintsField) A Unity Inspector extension tools focusing on script fields inspector enhancement
 * [ProjectWindowHistory](https://github.com/Yusuke57/ProjectWindowHistory)
 * [EasyTab](https://github.com/dav-sea/EasyTab)

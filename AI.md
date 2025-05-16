@@ -22,14 +22,11 @@
 - https://github.com/gongminmin/awesome-aigc
 - https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
 - https://github.com/mochi-neko/ChatGPT-API-unity
-- https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese
 - http://www.aiyjs.com/
 - https://github.com/sudoskys/StableDiffusionBook
 - [Stable-diffusion-person](https://github.com/KKGo1999/Stable-diffusion-person) 由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像
 - [stable-diffusion-webui 的汉化版本](https://github.com/VinsonLaro/stable-diffusion-webui-chinese)
-- [Prompt工程师指南，源自英文版，但增加了AIGC的prompt部分，为了降低同学们的学习门槛，翻译更新](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese)
 - [喂饭级stable_diffusion_webUI调参权威指南](https://zhuanlan.zhihu.com/p/620578593)
-- [Prompt 如何更好地应用于工业界](https://www.zhihu.com/question/495040812/answer/2924305333)
 - [StableDiffusion模型资源探索食用指南](https://zhuanlan.zhihu.com/p/597504900)
 - [怎样系统的学习 AI 绘画](https://www.zhihu.com/question/585131423/answer/2938150663)
 - [AI绘画目前有什么开源模型？](https://www.zhihu.com/question/555400845/answer/2956800568)
@@ -39,6 +36,16 @@
 - [AI绘画收集](https://weknowlib.feishu.cn/wiki/wikcn7hgYG3w4R7JYNJFU2bVjGd)
 - https://xa9f20zq7mg.feishu.cn/wiki/JMrEwJEuSiKCQ4kR6xIcQ4BGneg
 
+## Prompt
+- https://github.com/EmbraceAGI/awesome-chatgpt-zh
+- https://github.com/rockbenben/ChatGPT-Shortcut
+- [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+- [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)
+- [leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) Collection of leaked system prompts
+- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) 
+- [Prompt工程师指南，源自英文版，但增加了AIGC的prompt部分，为了降低同学们的学习门槛，翻译更新](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese) 
+- [Prompt 如何更好地应用于工业界](https://www.zhihu.com/question/495040812/answer/2924305333) 
+- https://github.com/microsoft/promptflow
 ### Image
 - https://reveai.org/
  
@@ -97,7 +104,6 @@
 
 #### Prompts
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
-
 ## MCP
 
 ### Article
@@ -157,6 +163,9 @@
 
 ### AIGC
 - https://github.com/PsychArch/minimax-mcp-tools
+ 
+#### DataBase
+https://github.com/StarRocks/mcp-server-starrocks
 
 ### Jupyter
 - https://github.com/datalayer/jupyter-mcp-server
@@ -174,6 +183,7 @@
 
 ### Framework
 - [rowboat](https://github.com/rowboatlabs/rowboat) AI-powered multi-agent builder
+- https://github.com/evalstate/fast-agent
 ### Common Agent
 - https://github.com/kortix-ai/suna
 - https://github.com/simular-ai/Agent-S
@@ -184,3 +194,18 @@
 - https://www.cnblogs.com/chegan/p/18846446
 - https://www.cnblogs.com/Evsward/p/18847893
 - https://github.com/The-Pocket/PocketFlow
+
+
+### Notebook
+- https://github.com/MODSetter/SurfSense
+- https://notebooklm.google/
+
+### AI-Meta
+- https://github.com/shcherbak-ai/contextgem
+
+### LLM-FrameCollection
+- https://github.com/BerriAI/litellm
+
+
+## RAG
+- [helix-db](https://github.com/HelixDB/helix-db) HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI
