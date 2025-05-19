@@ -37,6 +37,7 @@
 - https://xa9f20zq7mg.feishu.cn/wiki/JMrEwJEuSiKCQ4kR6xIcQ4BGneg
 
 ## Prompt
+- https://baoyu.io/blog/google-prompt-engineering-whitepaper
 - https://github.com/EmbraceAGI/awesome-chatgpt-zh
 - https://github.com/rockbenben/ChatGPT-Shortcut
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -144,6 +145,9 @@
 - https://github.com/VR-Jobs/UnityMCPbeta
 - https://glama.ai/mcp/servers/@GrandMasterK414/unity-smithery-mcp
 - https://github.com/IvanMurzak/Unity-MCP
+
+# Browser
+- https://github.com/femto/minion-agent
  
 ### NetWork
 - https://github.com/0xKoda/WireMCP An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
@@ -184,6 +188,7 @@ https://github.com/StarRocks/mcp-server-starrocks
 ### Framework
 - [rowboat](https://github.com/rowboatlabs/rowboat) AI-powered multi-agent builder
 - https://github.com/evalstate/fast-agent
+- https://github.com/langchain-ai/open-agent-platform 集成了RAG、MCP的多智能体无代码构建工具：open-agent-platform，图形化操作，适合无编程快速原型
 ### Common Agent
 - https://github.com/kortix-ai/suna
 - https://github.com/simular-ai/Agent-S
@@ -195,7 +200,8 @@ https://github.com/StarRocks/mcp-server-starrocks
 - https://www.cnblogs.com/Evsward/p/18847893
 - https://github.com/The-Pocket/PocketFlow
 
-
+### Math
+- https://github.com/jihe520/MathModelAgent
 ### Notebook
 - https://github.com/MODSetter/SurfSense
 - https://notebooklm.google/
@@ -209,3 +215,6 @@ https://github.com/StarRocks/mcp-server-starrocks
 
 ## RAG
 - [helix-db](https://github.com/HelixDB/helix-db) HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI
+
+## Local LLM
+- https://github.com/vllm-project/vllm

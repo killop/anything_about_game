@@ -509,8 +509,11 @@ Table of Contents
 - [bjorn3d](https://bjorn3d.com/)
 - [hardforum](https://hardforum.com/)
 #### Digest
+- [gpuopen-developer-guides](https://gpuopen.com/learn/developer-guides/)
 - [game-dev-digest](https://gamedevdigest.com/digests.html)
 - [unity-weekly](https://blog.yucchiy.com/project/unity-weekly/)
+- [Koala 聊开源](https://koala-oss.app/)
+- [aigclink](https://d.aigclink.ai/?v=8f252a54730e49f4b8caf897b7ae49f6) AI开源方案库-传递最新AI应用落地解决方案
 #### UnityRoadMap
 - [UnityRoadMap](https://unity.com/cn/roadmap/unity-platform/)
 - https://unity.com/how-to
@@ -3237,6 +3240,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
 - [Fluid-Simulator](https://github.com/Al-Asl/Fluid-Simulator) Case study on fluid dynamics, Volumetric GPU-Based fluid simulator
 - [Liquid-Simulation](https://github.com/ivuecode/Liquid-Simulation)
+- [The-Fluid-Toy](https://github.com/Victor2266/The-Fluid-Toy) Optimizing Collision Detection with GPU Acceleration for Real-Time Particle-Based Fluid Simulations.
 #### Water
 - [crest](https://github.com/wave-harmonic/crest)
 - https://github.com/abecombe/FLIP-Fluid-for-Unity
@@ -4731,7 +4735,6 @@ Showing off the power of shader properties in Unity
 - https://github.com/Cysharp/ZString 零内存消耗的stringbuilder
 - https://github.com/871041532/zstring 零内存消耗的stringbuilder
 - https://github.com/FlatlinerDOA/Rope
-
 - https://github.com/snozbot/FastString Alternative to StringBuilder class for Unity games, with minimal memory allocation and faster performance. 
 - https://github.com/MikePopoloski/StringFormatter Zero-allocation string formatting for .NET. 
 - [stringHelper](https://github.com/Dogwei/Swifter.Json/blob/db6c0be4fa2bfac5583d5bce7b475a2d618e7d74/Swifter.Core/Tools/String/StringHelper.cs) unsafe zero alloc string from [swifter](https://github.com/Dogwei/Swifter.Core)
@@ -4744,6 +4747,7 @@ Showing off the power of shader properties in Unity
 - [DefaultInterpolatedStringHandler.cs](https://gist.github.com/Akeit0/0ac9a82ecbe952287bae694a10a7a7d0)
 - https://github.com/axuno/SmartFormat
 - https://github.com/kuronekoyang/UnsafeStringBuffer
+- https://github.com/Molth/StringPool
 #### Log
 - https://github.com/DerploidEntertainment/UnityUtil
 - https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
@@ -5976,6 +5980,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 ## Unity-Build
 - https://github.com/CyberAgentGameEntertainment/BuildMagic
 - https://github.com/XJINE/Unity_RemoveOnBuilds
+- https://github.com/FoxsterDev/DevAccelerationSystem/ code compiler
 - [unity-conditional-objects](https://github.com/gilzoide/unity-conditional-objects) Unity scripts that modify GameObjects and Components at Prefab/Scene import time based on build configurations
 - https://github.com/unitycoder/SaintsBuild
 - https://github.com/ligurio/awesome-ci
