@@ -47,6 +47,7 @@
 - [Prompt工程师指南，源自英文版，但增加了AIGC的prompt部分，为了降低同学们的学习门槛，翻译更新](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese) 
 - [Prompt 如何更好地应用于工业界](https://www.zhihu.com/question/495040812/answer/2924305333) 
 - https://github.com/microsoft/promptflow
+- https://github.com/anthropics/courses
 ### Image
 - https://reveai.org/
  
