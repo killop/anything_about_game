@@ -2328,7 +2328,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [BytePacketSupport](https://github.com/lukewire129/BytePacketSupport)
 - https://github.com/pancake-llc/foundation/wiki/data
 - https://github.com/xuhuanzy/pure-lua-protobuf
-
+- [com.unity.runtime-scene-serialization](https://docs.unity3d.com/Packages/com.unity.runtime-scene-serialization@0.2/manual/index.html)
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
 - https://github.com/Dogwei/Swifter.Json  C#
@@ -4726,6 +4726,7 @@ Showing off the power of shader properties in Unity
 
 - https://github.com/xin9le/FastEnum
 - [garnet](https://github.com/microsoft/garnet) Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+- [sharpkmeans](https://github.com/lofcz/sharpkmeans)
 #### MMO
 - [3D游戏的万人同屏技术详解(2)](https://zhuanlan.zhihu.com/p/195065464)
 #### OC
