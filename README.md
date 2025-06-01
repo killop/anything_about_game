@@ -1441,6 +1441,7 @@ Table of Contents
 #### Character-Controller
 - [Project_TCC](https://github.com/unity3d-jp/Project_TCC)
 - [SRMove](https://github.com/NoiRC256/SRMove)
+- [FirstPersonInteractionToolkit](https://github.com/stevenharmongames/Unity-FirstPersonInteractionToolkit)
 - [CharacterControllerSamples](https://github.com/Unity-Technologies/CharacterControllerSamples)
 - [GenshinImpactMovementSystem](https://github.com/JiaoziDani/GenshinImpactMovementSystem)
 - [Netick-KCC](https://github.com/Milk-Drinker01/Netick-KCC) An implementation of Kinematic Character Controller with Netick Networking
@@ -1453,6 +1454,7 @@ Table of Contents
 - [Erbium](https://github.com/mikhomak/Erbium)  🤺Third Person Character Controller for unity🤺 
 - [Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System)
 - [parkour-and-climbing-system](https://assetstore.unity.com/packages/templates/systems/parkour-and-climbing-system-258182)
+- https://github.com/EanoJiang/Parkour-Climbing-System
 - [Traverser](https://aitorsimona.github.io/Traverser/) 
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
 - https://github.com/nicholas-maltbie/OpenKCC
@@ -1532,6 +1534,7 @@ Table of Contents
  
  #### Timeline
 - [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions) 
+- [enhanced-timeline-305512](https://assetstore.unity.com/packages/tools/utilities/enhanced-timeline-305512)
 - https://github.com/Celezt/UnityTimelineExtended
 - https://github.com/Brian-Jiang/PragmaTimeline
 - https://github.com/pofulu/TimelineTool
@@ -2340,6 +2343,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/nemesissoft/Nemesis.TextParsers
 - https://jsoneditoronline.org/
 - https://github.com/gateboxlab/Variant
+- https://github.com/json-everything/json-everything
 #### Yaml
 - https://github.com/hadashiA/VYaml
 
@@ -2382,6 +2386,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://www.bilibili.com/read/cv22614836/ 
 - https://github.com/Nebukam/PCGExtendedToolkit
 - https://github.com/BorisTheBrave/DeBroglie
+- https://github.com/Lawlzee/UnityMapGenerator
 
 
 ## DataBase
@@ -2407,6 +2412,8 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [SliccDB](https://github.com/pmikstacki/SliccDB) Light Embedded Graph Database for .net
 - [VeloxDB](https://github.com/VeloxDB/VeloxDB)
 - [BGDatabase](https://assetstore.unity.com/packages/tools/integration/bg-database-112262) unity-plugin
+- [scriptable-sheets](https://assetstore.unity.com/packages/tools/utilities/scriptable-sheets-284559) unity-plugin
+- [databrain-complete-bundle](https://assetstore.unity.com/packages/tools/game-toolkits/databrain-complete-bundle-278273)  unity-plugin
 - https://github.com/sugarzo/Unity_DataEditor
 - https://github.com/CollisionBear/BearDataEditor
 - https://github.com/Spreads/Spreads.LMDB
@@ -3170,6 +3177,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/iggigabriel/FixPointUnity
 - https://github.com/XMunkki/FixPointCS
 - https://github.com/daleth90/fixed-point-unity
+- https://github.com/Herta-Space-Station/FixedPoint
 - https://github.com/8izips/fMath
 - https://github.com/zeroerror/ZeroPhysics
 - https://github.com/chenwansal/FPPhysics2D
@@ -4122,6 +4130,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/fzbRun/Global-Illumination
 - https://github.com/KTSAMA001/Unity_URP_Learning
 - https://github.com/frostbone25/Unity-Cubemap-Rendering
+- https://github.com/REDSIM/VRCLightVolumes
 #### Global illumination (GI)
 
 ##### Collection
@@ -4401,6 +4410,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/hiroakioishi/UnityGPUBitonicSort
 - https://github.com/ruccho/BitonicPixelSorter
 - https://github.com/krylov-na/Compute-shader-particles
+- https://github.com/Rroxyy/Depth-To-Particle-Unity-Renderer-Feature
 - https://github.com/IRCSS/Procedural-painting
 - https://github.com/keijiro/Swarm
 - https://github.com/voxell-tech/GPUClothSimulationInUnity
@@ -4520,6 +4530,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/AKGWSB/FFTConvolutionBloom
 - https://github.com/tkonexhh/X-PostProcessing-URP
+- https://github.com/alexmalyutindev/unity-cmaa2
 - https://github.com/Mortalitas/GShade
 - https://github.com/MikuMikuShaders/SMAA
 - https://github.com/GarrettGunnell/Post-Processing
@@ -4667,9 +4678,11 @@ Showing off the power of shader properties in Unity
 - [random-from-distributions](https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873) c# unity-plugin 
 ## 高性能数据结构和算法
 - [Arithmetics](https://github.com/Lombiq/Arithmetics) Next-generation arithmetic implementations, improved floating point number types for .NET, written in C#. Includes the following number types:
+- [理解 C# 中的各类指针](https://www.cnblogs.com/eventhorizon/p/18873400)
 - [用C#将四元数压缩到32位](https://qiita.com/NightOwl/items/3c2d099ec034056f5018)
 - [BreakInfinity](https://github.com/Razenpok/BreakInfinity.cs） Double replacement for numbers that go over 1e308
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
+- https://github.com/eventhorizon-cli/BufferQueue
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
@@ -5120,7 +5133,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Me-Maped/Gameframework-at-FairyGUI
 - https://github.com/FlameskyDexive/ETPlus 网络
 - https://github.com/ZMteacher/ZMFrameWork
-
+- https://github.com/thebeardphantom/Bootstrap/
 #### Dependency Injection 
 - https://github.com/danielpalme/IocPerformance
 - https://github.com/gustavopsantos/reflex

@@ -130,6 +130,7 @@
 - https://github.com/modelcontextprotocol/servers
 - https://cursor.directory/mcp
 - https://portkey.ai/mcp-servers
+- https://www.blockmcp.ai/
  
 ### Framework
 - https://github.com/PederHP/mcpdotnet
@@ -147,8 +148,9 @@
 - https://glama.ai/mcp/servers/@GrandMasterK414/unity-smithery-mcp
 - https://github.com/IvanMurzak/Unity-MCP
 
-# Browser
+### Browser
 - https://github.com/femto/minion-agent
+- https://github.com/stagewise-io/stagewise
  
 ### NetWork
 - https://github.com/0xKoda/WireMCP An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
@@ -193,6 +195,8 @@ https://github.com/StarRocks/mcp-server-starrocks
 ### Common Agent
 - https://github.com/kortix-ai/suna
 - https://github.com/simular-ai/Agent-S
+- https://github.com/hexdocom/lemonai
+- https://github.com/camel-ai/owl
 ### Code-Ide
 - https://github.com/langchain-ai/mcpdoc
 - https://github.com/gersteinlab/LocAgent
@@ -214,8 +218,18 @@ https://github.com/StarRocks/mcp-server-starrocks
 - https://github.com/BerriAI/litellm
 
 
-## RAG
+### RAG
 - [helix-db](https://github.com/HelixDB/helix-db) HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI
 
-## Local LLM
+### Local LLM
 - https://github.com/vllm-project/vllm
+
+### Chart
+- https://github.com/antvis/mcp-server-chart
+
+## AI-Coding
+- https://kilocode.ai/
+
+## LLM
+- https://github.com/liguodongiot/llm-resource
+- https://github.com/liguodongiot/ai-system
