@@ -1,4 +1,7 @@
 ## AIGC
+### News
+- https://d.aigclink.ai/fe1ce99bc6a64266aa1ee5479c8e6da6?
+- https://ai.codefather.cn/#%E7%B2%BE%E9%80%89%E8%B5%84%E6%BA%90
 ### Collection
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation)
 - https://github.com/rlczddl/awesome-3d-human-reconstruction
@@ -186,7 +189,13 @@ https://github.com/StarRocks/mcp-server-starrocks
 
 ## Agent
 - https://github.com/steel-dev/awesome-web-agents
-- https://www.cnblogs.com/code-daily/p/18744841
+- https://github.com/aishwaryanr/awesome-generative-ai-guide
+- https://github.com/steven2358/awesome-generative-ai
+- https://github.com/armankhondker/awesome-ai-ml-resources
+- https://github.com/dair-ai/ML-Papers-of-the-Week
+- https://github.com/filipecalegario/awesome-generative-ai
+- https://github.com/mahseema/awesome-ai-tools
+- https://github.com/kyrolabs/awesome-agents
 
 ### Framework
 - [rowboat](https://github.com/rowboatlabs/rowboat) AI-powered multi-agent builder
@@ -233,3 +242,8 @@ https://github.com/StarRocks/mcp-server-starrocks
 ## LLM
 - https://github.com/liguodongiot/llm-resource
 - https://github.com/liguodongiot/ai-system
+
+## vs-coding
+- https://github.com/juehang/vscode-mcp-server
+- https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-vscode
+- https://github.com/biegehydra/bifrostmcp

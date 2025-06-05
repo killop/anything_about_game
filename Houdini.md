@@ -32,3 +32,4 @@
 * https://github.com/csdjk/LcLLib-for-Houdini
 * https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset
 * https://github.com/Aeoll/Aelib
+* https://github.com/KylerLizi/Houdini-PCG-Environment-Generator
