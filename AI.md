@@ -2,6 +2,7 @@
 ### News
 - https://d.aigclink.ai/fe1ce99bc6a64266aa1ee5479c8e6da6?
 - https://ai.codefather.cn/#%E7%B2%BE%E9%80%89%E8%B5%84%E6%BA%90
+- https://github.com/karminski/one-small-step
 ### Collection
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation)
 - https://github.com/rlczddl/awesome-3d-human-reconstruction
@@ -41,6 +42,7 @@
 
 ## Prompt
 - https://baoyu.io/blog/google-prompt-engineering-whitepaper
+- https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://github.com/EmbraceAGI/awesome-chatgpt-zh
 - https://github.com/rockbenben/ChatGPT-Shortcut
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -51,6 +53,7 @@
 - [Prompt 如何更好地应用于工业界](https://www.zhihu.com/question/495040812/answer/2924305333) 
 - https://github.com/microsoft/promptflow
 - https://github.com/anthropics/courses
+- https://github.com/anthropics/anthropic-cookbook
 ### Image
 - https://reveai.org/
  
@@ -59,6 +62,7 @@
 - https://github.com/jianchang512/ChatTTS-ui
 - https://github.com/panyanyany/Awesome-ChatTTS
 - https://github.com/Camb-ai/MARS5-TTS
+- https://elevenlabs.io/v3
 
 ### Animation
 - [EDGE](https://github.com/Stanford-TML/EDGE)
@@ -117,6 +121,7 @@
 - https://www.bilibili.com/video/BV1TEo6YGEnk/
 - https://blog.csdn.net/qq_37172634/article/details/123996775
 - https://www.cnblogs.com/whuanle/p/18837493
+- [](https://www.cnblogs.com/powertoolsteam/p/18921734)
   
 ### Collection
 - https://smithery.ai/ Smithery.AI - A collection of tools and resources for building AI-powered applications.
@@ -151,7 +156,7 @@
 - https://glama.ai/mcp/servers/@GrandMasterK414/unity-smithery-mcp
 - https://github.com/IvanMurzak/Unity-MCP
 
-### Browser
+### web
 - https://github.com/femto/minion-agent
 - https://github.com/stagewise-io/stagewise
  
@@ -164,6 +169,9 @@
 
 ### Code Analyser
 - https://github.com/davidkingzyb/SCAST
+
+### Computer
+- https://github.com/ashwwwin/automation-mcp
 
 ### WebGL
 - https://github.com/grokadegames/webgl-mcp
@@ -186,7 +194,8 @@ https://github.com/StarRocks/mcp-server-starrocks
 ### MarkItDown
 - https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp
 
-
+### interactive
+- https://github.com/noopstudios/interactive-feedback-mcp
 ## Agent
 - https://github.com/steel-dev/awesome-web-agents
 - https://github.com/aishwaryanr/awesome-generative-ai-guide
@@ -228,16 +237,25 @@ https://github.com/StarRocks/mcp-server-starrocks
 
 
 ### RAG
+- https://github.com/topoteretes/cognee
+- https://docs.ragas.io/en/latest/concepts/
+- https://www.evidentlyai.com/llm-evaluation-benchmarks-datasets
+- https://github.com/BAI-LAB/MemoryOS
 - [helix-db](https://github.com/HelixDB/helix-db) HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI
 
 ### Local LLM
 - https://github.com/vllm-project/vllm
+- https://github.com/datawhalechina/self-llm/
+
+### Devops
+- https://github.com/derisk-ai/OpenDerisk
 
 ### Chart
 - https://github.com/antvis/mcp-server-chart
 
 ## AI-Coding
 - https://kilocode.ai/
+- https://github.com/claude-did-this/claude-hub
 
 ## LLM
 - https://github.com/liguodongiot/llm-resource
@@ -247,3 +265,11 @@ https://github.com/StarRocks/mcp-server-starrocks
 - https://github.com/juehang/vscode-mcp-server
 - https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-vscode
 - https://github.com/biegehydra/bifrostmcp
+
+
+### trading
+- https://github.com/TauricResearch/TradingAgents
+
+
+### awesome-llm-apps
+- https://github.com/Shubhamsaboo/awesome-llm-apps

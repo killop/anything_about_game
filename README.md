@@ -51,7 +51,7 @@ Table of Contents
     - [List-of-game-middleware](#list-of-game-middleware)
     - [CG Software API](#cg-software-api)
     - [Visual-Logic](#visual-logic)
-    - [Tile-2d](#tile-2d)
+    - [Tile](#tile)
     - [Design](#design)
 - [locale](#locale)
 - [Texture](#texture)
@@ -514,6 +514,7 @@ Table of Contents
 - [unity-weekly](https://blog.yucchiy.com/project/unity-weekly/)
 - [Koala 聊开源](https://koala-oss.app/)
 - [aigclink](https://d.aigclink.ai/?v=8f252a54730e49f4b8caf897b7ae49f6) AI开源方案库-传递最新AI应用落地解决方案
+- [daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)
 #### UnityRoadMap
 - [UnityRoadMap](https://unity.com/cn/roadmap/unity-platform/)
 - https://unity.com/how-to
@@ -1125,7 +1126,7 @@ Table of Contents
 #### Visual-Logic
 - https://machinations.io/  
 
-#### Tile-2d
+#### Tile
 - [smart-lighting-2d-112535](https://assetstore.unity.com/packages/tools/particles-effects/smart-lighting-2d-112535)
 - https://github.com/NullTale/LutLight2D
 - https://www.tilesetter.org/
@@ -1151,6 +1152,7 @@ Table of Contents
 - [2d-cloth](https://assetstore.unity.com/packages/tools/sprite-management/2d-cloth-165428)
 - [2d-water](https://assetstore.unity.com/packages/2d/textures-materials/water/game-2d-water-kit-118057)
 - https://github.com/Fire-Aalt/KrasCore-Mosaic
+- https://assetstore.unity.com/packages/tools/utilities/autotiles-3d-tilemap-level-editor-205724
  
 #### Design
 - https://www.zcool.com.cn
@@ -1294,6 +1296,7 @@ Table of Contents
 
 #### GPU-Animation
 - [GPU-Skinning-Demo](https://github.com/Minghou-Lei/GPU-Skinning-Demo)
+- [stadium-crowd-generator](https://assetstore.unity.com/packages/tools/modeling/stadium-crowd-generator-203643)
 - [Unity-Gpu-Skinning-Tool](https://github.com/ForeverZack/Unity-Gpu-Skinning-Tool)
 - [Animation-Texture-Bake](https://github.com/sugi-cho/Animation-Texture-Baker)
 - [GPU_Mesh_Instancing](https://github.com/studentutu/GPU_Mesh_Instancing)
@@ -1392,6 +1395,7 @@ Table of Contents
 -  这个实用性最强 [bulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088)
 -  https://github.com/jongallant/Unity-Bullet-Hell
 -  [neat-bullets-2d-weapon-evolution-system](https://assetstore.unity.com/packages/tools/game-toolkits/neat-bullets-2d-weapon-evolution-system-280732)
+-  [ballistics](https://assetstore.unity.com/packages/tools/physics/ballistics-2025-251081) unity-plugin
 -  https://github.com/iWoz/path_follow_steer 集群跟随路径移动 
 -  [movement-plus](https://assetstore.unity.com/packages/tools/movement-plus-71079) unity-plugin
 -  [AnimeTask](https://github.com/kyubuns/AnimeTask)
@@ -1620,6 +1624,7 @@ Table of Contents
 ##### Unity-Tool
 - [PrefabPainter](https://github.com/Roland09/PrefabPainter) github
 - [prefab-brush](https://assetstore.unity.com/packages/tools/utilities/prefab-brush-44846) unity-plugin
+- [landscape-auto-material-64132](https://assetstore.unity.com/packages/tools/terrain/landscape-auto-material-64132)
 - [prefab-painter](https://assetstore.unity.com/packages/tools/painting/prefab-painter-2-61331) unity-plugin
 - [transform-tools](https://assetstore.unity.com/packages/tools/utilities/transform-tools-177218) unity-plugin
 - [prefab-world-builder](https://assetstore.unity.com/packages/tools/level-design/prefab-world-builder-185406) unity-plugin
@@ -1631,6 +1636,7 @@ Table of Contents
 - [real-world-terrai](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752) unity-plugin
 - [ntg-unity](https://github.com/hayden-donnelly/ntg-unity)
 - [simple-wall-collider-307337](https://assetstore.unity.com/packages/tools/utilities/simple-wall-collider-307337)
+- [ColliderMeshTool](https://github.com/SinlessDevil/ColliderMeshTool)
 #### Procedurally-Generation
 - [real-ivy-2-procedural-ivy-generator](https://assetstore.unity.com/packages/tools/modeling/real-ivy-2-procedural-ivy-generator-181402) unity-plugin
 - [games.noio.planter](https://github.com/noio/games.noio.planter) The plant simulation from Cloud Gardens as a Unity package for level design.
@@ -2624,6 +2630,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Davinet](https://github.com/IronWarrior/Davinet) - Minimalist Unity networking package with goals of responsive physics, loose coupling, extensibility and encapsulation of netcode. 
 * [ECSPowerNetcode](https://github.com/actionk/ECSPowerNetcode) Library to power up your experience with the DOTS Unity Netcode. 
 * [FastTunnel](https://github.com/SpringHgui/FastTunnel.SuiDao) 二次开发的内网穿透服务
+* [linker](https://github.com/snltty/linker) NET8、p2p打洞(tcp+udp)，和异地组网(点对点，点对网，网对网)，和内网穿透，.NET8 NAT transfer, Virtual Private Network，P2P Tunnel
 * [CYarp](https://github.com/xljiulang/CYarp) http/1.1 over tcp, http/2.0 or http/3.0 private network tunnel
 * [BeetleX](https://github.com/IKende/BeetleX) high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution 
 * [BedrockFramework](https://github.com/davidfowl/BedrockFramework) High performance, low level networking APIs for building custom servers and clients. 
@@ -4182,6 +4189,7 @@ Showing off the power of shader properties in Unity
 * [Nigiri](https://github.com/ninlilizi/Nigiri) A fully-dynamic voxel-based global illumination system for Unity.
 * [SEGI](https://github.com/sonicether/SEGI) Almost real-time Global Illumination for Unity.
 * [Unity-SRP-VXGI](https://github.com/Looooong/Unity-SRP-VXGI) Voxel-based Global Illumination using Unity Scriptable Render Pipeline.
+* [segi-urp](https://github.com/Invelord/segi-urp)
 * [VCTRenderer](https://github.com/jose-villegas/VCTRenderer) Deferred voxel shading for real-time global illumination. https://jose-villegas.github.io/post/deferred_voxel_shading/
 * [voxel-cone-tracing](https://github.com/Friduric/voxel-cone-tracing) A real-time global illumination implementation using voxel cone tracing.
 * [VoxelConeTracingGI](https://github.com/compix/VoxelConeTracingGI) Global illumination with Voxel Cone Tracing in fully dynamic scenes using a 3D clipmap to support huge areas around the camera while maintaining a low memory footprint.
@@ -4678,7 +4686,6 @@ Showing off the power of shader properties in Unity
 - [random-from-distributions](https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873) c# unity-plugin 
 ## 高性能数据结构和算法
 - [Arithmetics](https://github.com/Lombiq/Arithmetics) Next-generation arithmetic implementations, improved floating point number types for .NET, written in C#. Includes the following number types:
-- [理解 C# 中的各类指针](https://www.cnblogs.com/eventhorizon/p/18873400)
 - [用C#将四元数压缩到32位](https://qiita.com/NightOwl/items/3c2d099ec034056f5018)
 - [BreakInfinity](https://github.com/Razenpok/BreakInfinity.cs） Double replacement for numbers that go over 1e308
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
@@ -5236,6 +5243,8 @@ Showing off the power of shader properties in Unity
 - [.NET内存性能分析指南](https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html)
 - [浅谈Unity中的内存管理策略之TLSF](https://zhuanlan.zhihu.com/p/678788602)
 - [浅析Unity引擎视角下的游戏内存优化](https://zhuanlan.zhihu.com/p/603847226)
+- [理解 C# 中的各类指针](https://www.cnblogs.com/eventhorizon/p/18873400)
+- [理解 .NET 结构体字段的内存布局](https://www.cnblogs.com/eventhorizon/p/18913041)
 #### Asyn-Await
 - https://www.albahari.com/threading
 - https://www.zhihu.com/question/554133167/answer/2690808608
@@ -5266,6 +5275,7 @@ Showing off the power of shader properties in Unity
 - - https://github.com/timonkrebs/MemoizR Declarative Structured Concurrency for C#
 #### Node-Editor
 - [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community)
+- [StateGraphTool](https://github.com/darkrainbowsprinkles/StateGraphTool)
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
 - [UniState](https://github.com/bazyleu/UniState) UniState is an architectural framework for Unity, designed around State pattern. Offers high performance and excellent scalability, ideal for complex Unity projects.
 - [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
@@ -5607,6 +5617,7 @@ Showing off the power of shader properties in Unity
 - [lineburst](https://github.com/bassmit/lineburst)  Plot functions and draw large amounts of debug lines, shapes and text to the Unity game and scene view 
 - [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast)
 - [UGizmo](https://github.com/harumas/UGizmo) Highly efficient gizmo drawer for Unity
+- [RaycastVisualization](https://github.com/nomnomab/RaycastVisualization) This asset allows users to view raycasts as the user fires them
 - [path-linefx-support-cinemachine](https://assetstore.unity.com/packages/tools/particles-effects/path-linefx-support-cinemachine-234316)
 - [UnityEditorDataChartTool](https://github.com/SolarianZ/UnityEditorDataChartTool)
 - [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) make mesh like line, polygon, etc in unity3d
@@ -5815,6 +5826,7 @@ Showing off the power of shader properties in Unity
 #### Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
+* [FolderTag](https://github.com/liyingsong99/FolderTag)
 * [inspector-desinger](https://assetstore.unity.com/packages/tools/gui/inspector-desinger-307698)
 * [UnityHiddenObjectFinder](https://github.com/SolarianZ/UnityHiddenObjectFinder/)
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
@@ -5967,6 +5979,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [dynamic-raycast-system-2-0](https://assetstore.unity.com/packages/tools/integration/dynamic-raycast-system-2-0-c-jobs-123768)
 - [geocast-gpu-collider-free-raycasting-engine](https://assetstore.unity.com/packages/tools/physics/geocast-gpu-collider-free-raycasting-engine-291609)
 - [targeting-system-3](https://assetstore.unity.com/packages/add-ons/targeting-system-3-0-215501)
+- [VisionFieldMesh](https://github.com/SinlessDevil/VisionFieldMesh)
 
 #### CameraController
 - https://github.com/XJINE/Unity_SceneCameraController 
@@ -6047,6 +6060,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
  - [dynamic-icon](https://github.com/dreamcodestudio/com.dreamcode.mobile.dynamic-icon)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
+- [Unity-Hyper-FPS-FrameWork-](https://github.com/InboraStudio/Unity-Hyper-FPS-FrameWork-Open-Source-)
 - https://github.com/freezy/VisualPinball.Engine
 - https://github.com/136512892/Unity-Multiplayer
 - https://github.com/Voltstro-Studios/Team-Capture?
