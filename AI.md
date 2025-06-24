@@ -83,6 +83,7 @@
 - https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 - https://github.com/Comfy-Org/comfy-cli
+- https://github.com/aiaiaikkk/ComfyUI-Curve
 
 
 ## ML
@@ -237,12 +238,13 @@ https://github.com/StarRocks/mcp-server-starrocks
 
 
 ### RAG
+- https://github.com/HKUDS/RAG-Anything
 - https://github.com/topoteretes/cognee
 - https://docs.ragas.io/en/latest/concepts/
 - https://www.evidentlyai.com/llm-evaluation-benchmarks-datasets
 - https://github.com/BAI-LAB/MemoryOS
 - [helix-db](https://github.com/HelixDB/helix-db) HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI
-
+- [graph-rag-agent](https://github.com/1517005260/graph-rag-agent) 拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架|
 ### Local LLM
 - https://github.com/vllm-project/vllm
 - https://github.com/datawhalechina/self-llm/
@@ -273,3 +275,6 @@ https://github.com/StarRocks/mcp-server-starrocks
 
 ### awesome-llm-apps
 - https://github.com/Shubhamsaboo/awesome-llm-apps
+
+### Bot
+- https://github.com/MaiM-with-u/MaiBot 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体

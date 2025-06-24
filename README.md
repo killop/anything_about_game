@@ -366,7 +366,7 @@ Table of Contents
 - [workflow](#workflow)
 - [Auto Test](#auto-test)
 - [问答](#问答)
-- [文案排版](#文案排版)
+- [写作](#写作)
 - [游戏策划](#游戏策划)
     - [镜头](#镜头)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
@@ -2445,7 +2445,8 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 * matter - C++17/20 ECS implementation [github](https://github.com/Dreyri/matter) ![Dreyri/matter](https://img.shields.io/github/stars/Dreyri/matter.svg?style=flat&label=Star&maxAge=86400)
 
 #### C#
-- [Frent](https://github.com/itsBuggingMe/Frent)
+- [EasyCS](https://github.com/Watcher3056/EasyCS) EasyCS 是一个易于使用且灵活的 Unity 框架，采用数据驱动的实体与角色-组件方法。它将 Unity 的经典面向对象与强大的数据导向模式相结合，而无需强制进行完整的 ECS 范式转变或思维转变。更聪明地构建，而不是更费力
+- [Frent](https://github.com/itsBuggingMe/Frent) A high performance component oriented take on ECS.
 - [massive-ecs](https://github.com/nilpunch/massive-ecs) Prediction-rollback netcode has very stable nature, and is mainly used in fast paced online multiplayer games, such as Overwatch and Rocket League.
 - [DragonECS](https://github.com/DCFApixels/DragonECS) C# Entity Component System framework
 - [Friflo](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) fastest
@@ -3355,6 +3356,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [speedscope](https://www.speedscope.app/)
 - https://github.com/jlfwong/speedscope
 - [ULogViewer](https://github.com/carina-studio/ULogViewer)
+- [needle-console](https://github.com/needle-tools/needle-console)
 - [UnityIL2CPP包Crash闪退利用Android Logcat还原符号表堆栈日志](https://www.jianshu.com/p/2000f524879d)
 - https://github.com/Palatis/XAppDebug
 #### GPU
@@ -4952,6 +4954,7 @@ Showing off the power of shader properties in Unity
 - [titan](https://github.com/titan-lang/titan)
 - [tolua](https://github.com/topameng/tolua) The fastest unity lua binding solution 
 - [xlua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. 
+- [xLua](https://github.com/zentia/xLua) xLua-il2cpp is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
 - [bLua](https://github.com/bianpeng001/bLua) 另一个Unity3d lua热更方案, another lua solution for Unity3d
 - [PureJSB](https://github.com/linkabox/PureJSB)
 - [gravity](https://github.com/marcobambini/gravity)
@@ -6125,7 +6128,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 > 强烈推荐阅读 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)、[《如何向开源社区提问题》](https://github.com/seajs/seajs/issues/545) 和 [《如何有效地报告 Bug》](http://www.chiark.greenend.org.uk/%7Esgtatham/bugs-cn.html)、[《如何向开源项目提交无法解答的问题》](https://zhuanlan.zhihu.com/p/25795393)，更好的问题更容易获得帮助。
 
 
-## 文案排版
+## 写作
 - [赫蹏](https://sivan.github.io/heti/)
 - [中文技术文档写作风格指南 ](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 - [中文文案排版](https://github.com/sparanoid/chinese-copywriting-guidelines) 
@@ -6134,6 +6137,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/wechatsync/Wechatsync
 - https://github.com/zongpingding/All-About-TeX
 - https://github.com/typst/typst
+- https://github.com/HugoBlox/theme-academic-cv
 
 
 ## 游戏策划
