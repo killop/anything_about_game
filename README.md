@@ -46,7 +46,7 @@ Table of Contents
       - [Course](#course)
     - [Material](#material)
     - [Remesh](#remesh)
-    - [LOD](#lod)
+    - [Mesh](#mesh)
     - [Mipmap](#mipmap)
     - [List-of-game-middleware](#list-of-game-middleware)
     - [CG Software API](#cg-software-api)
@@ -144,8 +144,7 @@ Table of Contents
     - [GUI](#gui)
     - [2D Engines and Frameworks](#2d-engines-and-frameworks)
     - [3D Engines and Frameworks](#3d-engines-and-frameworks)
-- [GameAI](#gameai)
-- [Chat/Dialogue](#chatdialogue)
+    - [Skinned-MeshRender](#skinned-meshrender)
 - [Creative Code](#creative-code)
 - [并发执行和多线程](#并发执行和多线程)
     - [CPP](#cpp)
@@ -287,6 +286,7 @@ Table of Contents
 - [Typescript](#typescript)
 - [C#](#c-6)
     - [C#-Reflection](#c-reflection)
+    - [C#-Reactive](#c-reactive)
 - [C](#c-7)
 - [CPP](#cpp-1)
 - [Java](#java-1)
@@ -309,10 +309,14 @@ Table of Contents
     - [Pool-Cache](#pool-cache)
     - [Unity-Framework](#unity-framework)
     - [Dependency Injection](#dependency-injection)
-    - [Skill](#skill)
-      - [NOBUG](#nobug)
-      - [GAS](#gas)
-      - [Slate](#slate)
+- [GamePlay](#gameplay)
+  - [GameAI](#gameai)
+  - [Chat/Dialogue](#chatdialogue)
+  - [Tutorial](#tutorial)
+  - [Skill](#skill)
+    - [NOBUG](#nobug)
+    - [GAS](#gas)
+    - [Slate](#slate)
     - [Occlusion Culling](#occlusion-culling)
     - [ShaderGraph\&\&Effect](#shadergrapheffect)
     - [Memory/GC](#memorygc)
@@ -342,7 +346,7 @@ Table of Contents
     - [PathFinding](#pathfinding)
     - [Bone\&\&Spring](#bonespring)
     - [Create Model](#create-model)
-    - [Mesh](#mesh)
+    - [Mesh](#mesh-1)
       - [Fracture Mesh](#fracture-mesh)
     - [Fog\&\&Smoke\&\&Cloud\&\&Atmospheric\&\&wind](#fogsmokecloudatmosphericwind)
     - [Volumetric Mesh](#volumetric-mesh)
@@ -356,7 +360,7 @@ Table of Contents
     - [Time control](#time-control)
     - [Raycast\&\&Sensor](#raycastsensor)
     - [CameraController](#cameracontroller)
-    - [GamePlay](#gameplay)
+    - [GamePlay](#gameplay-1)
 - [知识库软件/笔记软件/思维构造工具](#知识库软件笔记软件思维构造工具)
 - [Unity-Build](#unity-build)
 - [Mobile](#mobile)
@@ -367,6 +371,7 @@ Table of Contents
 - [Auto Test](#auto-test)
 - [问答](#问答)
 - [写作](#写作)
+- [OCR](#ocr)
 - [游戏策划](#游戏策划)
     - [镜头](#镜头)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
@@ -482,6 +487,7 @@ Table of Contents
 - [betterexplained](https://betterexplained.com/)
 - [dreamworks](https://research.dreamworks.com/)
 - [pixar](https://graphics.pixar.com/)
+- [graphics.cs.utah.edu](https://graphics.cs.utah.edu/research/projects/)
 - [disney](https://studios.disneyresearch.com/)
 ##### Papers
 - [realtimerendering-papers](http://kesen.realtimerendering.com/)
@@ -1083,7 +1089,7 @@ Table of Contents
 #### Remesh
 - https://github.com/huxingyi/autoremesher
 
-#### LOD
+#### Mesh
 - [simplygon](https://www.simplygon.com/)
 - [unity-mesh-simplifier](https://thegamedev.guru/unity-gpu-performance/unity-mesh-simplifier/)
 - [instalod](https://instalod.com/)
@@ -1091,6 +1097,7 @@ Table of Contents
 - [ultimate-lod-system](https://assetstore.unity.com/packages/tools/utilities/ultimate-lod-system-mt-170425) unity-plugin
 - [mantis-lod-editor](https://assetstore.unity.com/packages/tools/modeling/mantis-lod-editor-professional-edition-37086?) unity-plugin
 - [poly-few](https://assetstore.unity.com/packages/tools/utilities/poly-few-mesh-simplifier-and-auto-lod-generator-160139) unity-plugin
+- [bt-optimeshx-all-in-one-smart-lod-mesh-model-optimization-system-315648](https://assetstore.unity.com/packages/tools/utilities/bt-optimeshx-all-in-one-smart-lod-mesh-model-optimization-system-315648)
 - [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) Mesh simplification for Unity.
 - [Halfedge mesh handler on Unity](https://github.com/komietty/unity-halfedge)
 - [RuntimeMeshSimplification](https://github.com/simplestargame/RuntimeMeshSimplification)
@@ -1101,8 +1108,6 @@ Table of Contents
 - [autolod-impostors-199759](https://assetstore.unity.com/packages/tools/utilities/autolod-impostors-199759)
 - https://buaacyw.github.io/mesh-anything/
 - [sphere_generator](https://github.com/matheusamazonas/sphere_generator)
-- [com.asurafanclub.frustumculling](https://github.com/Asura336/com.asurafanclub.frustumculling)
-- [FrustumCullingSolution](https://github.com/BartoszWiszniewski/FrustumCullingSolution)
 - [ComfyUI-mesh-simplifier](https://github.com/roundyyy/ComfyUI-mesh-simplifier?) A custom node for ComfyUI that implements mesh simplification (decimation) with texture preservation using PyMeshLab
 - [LODOptimizer](https://github.com/roundyyy/LODOptimizer) LOD Optimizer is a Unity Editor tool designed to optimize the Last Level of Detail (LOD) by creating texture atlases, significantly reducing draw calls for distant objects 
 #### Mipmap
@@ -1311,6 +1316,7 @@ Table of Contents
 - [GPU Instancer - Crowd Animations](https://assetstore.unity.com/packages/tools/animation/gpu-instancer-crowd-animations-145114) unity-plugin
 - [Mesh Animator](https://assetstore.unity.com/packages/tools/animation/mesh-animator-26009) unity-plugin
 - [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning)
+- [SpineGPU](https://github.com/shiyiqiong/SpineGPU)
 - [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
 - [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
 - [Unity下大量物体同屏渲染的性能优化思路](https://zhuanlan.zhihu.com/p/114646617)
@@ -1485,6 +1491,7 @@ Table of Contents
 - [fpscontroller](https://github.com/atil/fpscontroller)
 - [dots-animation-system](https://assetstore.unity.com/packages/tools/utilities/dots-animation-system-285657)
 - [FullBody-Fps-Unity](https://github.com/FuadJfrv/FullBody-Fps-Unity)
+- [ultimate-mirror-networking-controller](https://assetstore.unity.com/packages/add-ons/ultimate-mirror-networking-controller-250532)
 #### PCG-Animation
 - [procedural-climbing](https://github.com/conankzhang/procedural-climbing)
 - [UnityTutorials-ProceduralAnimations](https://github.com/MinaPecheux/UnityTutorials-ProceduralAnimations)
@@ -1571,6 +1578,7 @@ Table of Contents
 - [debugging-essentials](https://assetstore.unity.com/packages/tools/utilities/debugging-essentials-170773) unity-plugin
 - [hdg-remote-debug](https://assetstore.unity.com/packages/tools/utilities/hdg-remote-debug-live-update-tool-61863) unity-plugin
 - [unity-remote-file-explorer](https://github.com/iwiniwin/unity-remote-file-explorer)
+- [remo-remote-runtime-editor-320744](https://assetstore.unity.com/packages/tools/utilities/remo-remote-runtime-editor-320744)
 - https://github.com/natemcmaster/CommandLineUtils 命令行
 - https://github.com/Tyrrrz/CliFx 命令行
 - https://github.com/Tyrrrz/CliWrap 命令行
@@ -1692,7 +1700,6 @@ Table of Contents
 - https://assetstore.unity.com/packages/tools/utilities/instancecollector-296669
 - https://github.com/TakeshiCho/Unity_GPUInstanceCulling
 - https://github.com/aganwenqi/GPU-Driven-02 hiz
-- https://github.com/SoSoReally/RenderFeature_HizCull
 * [分享《生死狙击2》的大场景草渲染](https://mp.weixin.qq.com/s/K7qXfu7Hju30VdCNcz3ZLg)  
 * [Unity 程序化生成草地](https://zhuanlan.zhihu.com/p/592938734)
 * [风格化树——树叶分析与实现](https://zhuanlan.zhihu.com/p/593500186)
@@ -1847,6 +1854,7 @@ Table of Contents
 * [UABE](https://github.com/SeriousCache/UABE) Asset Bundle Extractor
 * [Snuggle](https://github.com/yretenai/Snuggle) WIP Unity AssetBundle Exporter
 * [GenshinStudio](https://github.com/Razmoth/GenshinStudio) Modded AssetStudio for Genshin Impact 
+* [AnimeStudio](https://github.com/Escartem/AnimeStudio) Updated AssetStudio, supports GI 5.6+, HSR 3.3+, ZZZ 2.0+, with improvements and new features (*ﾟ∀ﾟ*)
 #### Archive-Format
 - https://github.com/bilibili/UnityBVA
 - https://github.com/emperorofmars/stf-unity
@@ -2737,6 +2745,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 #### Article/Course
 - https://isetta.io/resources/
 - https://ourmachinery.com/
+- https://enginearchitecture.org/
 - [多线程渲染](https://zhuanlan.zhihu.com/p/44116722)
 - [UE4 关于主循环的资料](https://zhuanlan.zhihu.com/p/225465983)
 - http://www.thisisgame.com.cn/book/makegameenginatnight/
@@ -2924,43 +2933,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [rbfx](https://github.com/rokups/rbfx)
 - [WolfEngine](https://github.com/WolfEngine/Wolf.Engine) The Wolf is a comprehensive set of C/C++ open source libraries for realtime rendering, realtime streaming and game developing
 - [source-engine](https://github.com/nillerusr/source-engine) Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
-## GameAI
-* [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
-* https://github.com/TheWizardsCode/Character-Dev
-* https://github.com/hl845740757/FastestBtree
-* https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
-* https://github.com/CatImmortal/CatBehaviour
-* https://github.com/meniku/NPBehave
-* https://github.com/Saroce/BehaviorTreeEditor
-* https://github.com/AkiKurisu/Real-Agents
-- [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
-- [com.bananaparty.behaviortree](https://github.com/forcepusher/com.bananaparty.behaviortree) Unity package. Fully cross-platform Behavior Tree featuring support for deterministic simulation and prediction-rollback netcode.  
-- https://github.com/piruzhaolu/ActionFlow
-- https://github.com/SinyavtsevIlya/BehaviorTree
-- https://github.com/ls361664056/GameAI-paper-list
-- https://github.com/jzyong/GameAI4j
-- https://github.com/kietran99/BehaviorTree
-- https://github.com/thekiwicoder0/UnityBehaviourTreeEditor
-- https://github.com/crashkonijn/GOAP
-- https://github.com/AkiKurisu/AkiGOAP
-- https://github.com/TotalAI/TotalAI
-- https://github.com/AkiKurisu/AkiBT
-- [behavior-2](https://assetstore.unity.com/packages/tools/behavior-ai/behavior-2-game-creator-2-by-catsoft-works-262851)
-- [appccelerate](https://github.com/appccelerate/statemachine) asyn fsm
-- https://github.com/rwth-acis/Virtual-Agents-Framework
-- https://github.com/acdamiani/schema
-- https://github.com/HalfADog/Unity-RPGCore-HFSM
-- https://github.com/Inspiaaa/UnityHFSM
-- https://github.com/Yuan-ManX/ai-game-development-tools
-- https://github.com/baponkar/zombie-ai
-##  Chat/Dialogue
-- https://github.com/AkiKurisu/Next-Gen-Dialogue/
-- https://github.com/hafewa/unity-AI-Chat-Toolkit
-- https://github.com/Lunatic-Works/Nova
-- https://github.com/AkiKurisu/UniChat
-- https://github.com/Owmacohe/Descant?
-- https://github.com/uezo/ChatdollKit
-- https://github.com/ClemGG/Dialogue-Node-System
+
+#### Skinned-MeshRender
+- [skinned-mesh](https://assetstore.unity.com/packages/tools/animation/ica-skinned-mesh-283380)
+
 ## Creative Code
 - [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
 - https://github.com/terkelg/awesome-creative-coding 
@@ -3224,6 +3200,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [BetterPhysics](https://github.com/SadnessMonday/BetterPhysics) Physics improvement suite for Unity
 - https://github.com/irlanrobson/bounce
 - https://github.com/Scrawk/CyclonePhysicsEngine
+- https://github.com/LemonMontage420/TORSION-Community-Edition
 #### Physics BOOKS
 - [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
 - [Physics Modeling for Game Programmers](https://www.amazon.com/Physics-Modeling-Programmers-David-Conger/dp/1592000932/)
@@ -3986,6 +3963,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/kamone416/MayaToonOutlineShader
 - [outlines](https://assetstore.unity.com/packages/vfx/shaders/linework-easy-outlines-edges-and-fills-294140)
 - [Tvitchi](https://assetstore.unity.com/publishers/78833) assetstore
+- [highlight-plus-2-all-in-one](https://assetstore.unity.com/packages/vfx/shaders/highlight-plus-2-all-in-one-outline-selection-effects-321005)
+- [linework-outlines-and-edge-detection-294140](https://assetstore.unity.com/packages/vfx/shaders/linework-outlines-and-edge-detection-294140)
 
 #### FootPrint 
 - https://github.com/edualvarado/
@@ -4140,6 +4119,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/KTSAMA001/Unity_URP_Learning
 - https://github.com/frostbone25/Unity-Cubemap-Rendering
 - https://github.com/REDSIM/VRCLightVolumes
+- https://github.com/5a5ha111/NoesisRender
+- [lumen-stylized-light-fx](https://assetstore.unity.com/packages/tools/particles-effects/lumen-stylized-light-fx-2-322150)
 #### Global illumination (GI)
 
 ##### Collection
@@ -4555,6 +4536,7 @@ Showing off the power of shader properties in Unity
 - [LUTS](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 - [cavifree](Screen space shader for Unity resembling the "cavity" effect in Blender)
 - [lut-creator](https://assetstore.unity.com/packages/tools/utilities/lut-creator-suite-317840) unity-plugin
+- https://github.com/meenphie/AgX-Tonemapping-Unity
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
 
@@ -4600,8 +4582,6 @@ Showing off the power of shader properties in Unity
 - [【Unity】深度图（Depth Texture）的简单介绍](https://zhuanlan.zhihu.com/p/389971233?)
 - [UnityShader部分内置函数推导（周末随机更几个）](https://zhuanlan.zhihu.com/p/404516361)
 
-
- 
 ### FPS
 - https://mp.weixin.qq.com/s/RS3KYxq5hmLAGrmijk3FtQ 
 - https://bbs.perfdog.qq.com/article-detail.html?id=5
@@ -4689,6 +4669,7 @@ Showing off the power of shader properties in Unity
 ## 高性能数据结构和算法
 - [Arithmetics](https://github.com/Lombiq/Arithmetics) Next-generation arithmetic implementations, improved floating point number types for .NET, written in C#. Includes the following number types:
 - [用C#将四元数压缩到32位](https://qiita.com/NightOwl/items/3c2d099ec034056f5018)
+- [the-art-of-packing-data](https://www.elopezr.com/the-art-of-packing-data/)
 - [BreakInfinity](https://github.com/Razenpok/BreakInfinity.cs） Double replacement for numbers that go over 1e308
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - https://github.com/eventhorizon-cli/BufferQueue
@@ -4899,6 +4880,11 @@ Showing off the power of shader properties in Unity
 - [ReflectionEnhance](https://github.com/Katsuya100/ReflectionEnhance?)
 - [unity下零GC反射实现](https://zhuanlan.zhihu.com/p/15399068951)  
 - [ReflectionTool](https://github.com/kuronekoyang/ReflectionTool/ReflectionTool) 是一个强大的Unity编辑器扩展工具，用于处理反射和方法钩子（Method Hooking）相关的操作。它提供了一套完整的工具集，可以帮助开发者更便捷地处理Unity中的反射操作和方法拦截。
+
+#### C#-Reactive
+- https://github.com/kwan3854/Unity-NOPE
+- https://github.com/Cysharp/R3
+- https://assetstore.unity.com/packages/tools/utilities/gods-globally-observable-data-structures-294571
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -5158,7 +5144,51 @@ Showing off the power of shader properties in Unity
 - https://github.com/mewlist/Doinject
 - https://github.com/labbbirder/UnityInjectionV2
  
-#### Skill
+## GamePlay
+### GameAI
+* [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
+* https://github.com/TheWizardsCode/Character-Dev
+* https://github.com/hl845740757/FastestBtree
+* https://github.com/SinyavtsevIlya/DOTS-BehaviorTree
+* [behavior-designer-pro-dots](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-pro-dots-powered-behavior-trees-298743)
+* https://github.com/CatImmortal/CatBehaviour
+* https://github.com/meniku/NPBehave
+* https://github.com/Saroce/BehaviorTreeEditor
+* https://github.com/AkiKurisu/Real-Agents
+- [awesome-behavior-trees](https://github.com/BehaviorTree/awesome-behavior-trees) : A list of awesome Behavior Trees resources
+- [com.bananaparty.behaviortree](https://github.com/forcepusher/com.bananaparty.behaviortree) Unity package. Fully cross-platform Behavior Tree featuring support for deterministic simulation and prediction-rollback netcode.  
+- https://github.com/piruzhaolu/ActionFlow
+- https://github.com/SinyavtsevIlya/BehaviorTree
+- https://github.com/ls361664056/GameAI-paper-list
+- https://github.com/jzyong/GameAI4j
+- https://github.com/kietran99/BehaviorTree
+- https://github.com/thekiwicoder0/UnityBehaviourTreeEditor
+- https://github.com/crashkonijn/GOAP
+- https://github.com/AkiKurisu/AkiGOAP
+- https://github.com/TotalAI/TotalAI
+- https://github.com/AkiKurisu/AkiBT
+- [behavior-2](https://assetstore.unity.com/packages/tools/behavior-ai/behavior-2-game-creator-2-by-catsoft-works-262851)
+- [appccelerate](https://github.com/appccelerate/statemachine) asyn fsm
+- https://github.com/rwth-acis/Virtual-Agents-Framework
+- https://github.com/acdamiani/schema
+- https://github.com/HalfADog/Unity-RPGCore-HFSM
+- https://github.com/Inspiaaa/UnityHFSM
+- https://github.com/Yuan-ManX/ai-game-development-tools
+- https://github.com/baponkar/zombie-ai
+###  Chat/Dialogue
+- https://github.com/AkiKurisu/Next-Gen-Dialogue/
+- https://github.com/hafewa/unity-AI-Chat-Toolkit
+- https://github.com/Lunatic-Works/Nova
+- https://github.com/AkiKurisu/UniChat
+- https://github.com/Owmacohe/Descant?
+- https://github.com/uezo/ChatdollKit
+- https://github.com/ClemGG/Dialogue-Node-System
+
+### Tutorial
+- [tutorial-maker-create](https://assetstore.unity.com/packages/tools/utilities/automatic-tutorial-maker-create-customizable-learning-steps-by-s-310196)
+- [tutorialmax](https://assetstore.unity.com/packages/tools/game-toolkits/tutorialmax-283888)
+
+### Skill
 - https://github.com/lsunky/SkillEditorDemo
 - [combateditor-252420](https://assetstore.unity.com/packages/tools/animation/combateditor-252420) unity-plugin
 - https://github.com/Mr-sB/ACTSkill
@@ -5193,17 +5223,17 @@ Showing off the power of shader properties in Unity
 - [动作游戏的动作系统是这样做的](https://mp.weixin.qq.com/s/MuySxYMjXZncKfwRDeE7HQ)
 - [action-timeline](https://assetstore.unity.com/packages/tools/utilities/action-timeline-273478)
 - [UniInk-高性能0GC的轻量化脚本逻辑解决方案](https://github.com/Arc-huangjingtong/UniInk-CSharpInterpreter4AOT)
-##### NOBUG
+#### NOBUG
 - https://github.com/TheSakuraCherry/MMDarknessTimeline
 - https://github.com/NoBugCn/ActionEditor
 - https://github.com/NoBugCn/ActionEditorExample
 - https://github.com/OnClick9927/ActionEditor
-##### GAS
+#### GAS
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 - https://github.com/BillEliot/GASDocumentation_Chinese
 - https://github.com/No78Vino/gameplay-ability-system-for-unity
 
-##### Slate
+#### Slate
 - https://github.com/wqaetly/SkillEditorBasedOnSlate slate based skill
 - https://github.com/wqaetly/NKGMobaBasedOnET
 
@@ -5216,6 +5246,10 @@ Showing off the power of shader properties in Unity
 - [culling](https://github.com/zcvdf/culling) Unity ECS implementation of a typical Culling system supporting Frustrum Culling and Occlusion Culling
 - [Unity GPU Based Occlusion Culling](https://github.com/przemyslawzaworski/Unity-GPU-Based-Occlusion-Culling)
 - https://github.com/SnapdragonStudios/snapdragon-oc
+- [com.asurafanclub.frustumculling](https://github.com/Asura336/com.asurafanclub.frustumculling)
+- [FrustumCullingSolution](https://github.com/BartoszWiszniewski/FrustumCullingSolution)
+- https://github.com/SoSoReally/RenderFeature_HizCull
+- [x-culling-pro-ultimate-performance-optimization-system](https://assetstore.unity.com/packages/tools/utilities/x-culling-pro-ultimate-performance-optimization-system-323779) 
 #### ShaderGraph&&Effect
 - [ShaderGraph暴力学习](https://www.bilibili.com/video/BV1ZE411W7Nz?)
 - [赵京宇](https://www.bilibili.com/video/BV1ut41197aQ)
@@ -5374,6 +5408,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/liuhaopen/UGUI-Editor
 - https://github.com/zs9024/quick_psd2ugui
 - https://github.com/sunsvip/PSD2UGUI_X
+- https://github.com/Sunnyliumingsheng/AutoUI
 - [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131)  
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
@@ -5386,6 +5421,7 @@ Showing off the power of shader properties in Unity
 - [canvas-particle-system](https://assetstore.unity.com/packages/tools/particles-effects/canvas-particle-system-64134) unity-plugin
 - [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
 - https://github.com/unishiki/Unity-UGUI-Effect
+- [ui-effects-uimotionfx-tool](https://assetstore.unity.com/packages/tools/particles-effects/ui-effects-uimotionfx-tool-318473)
 - https://github.com/PandaArcade/UIOutline
 - https://github.com/V0odo0/Sprite-Swap-Morph
 - https://github.com/LeiQiaoZhi/Easy-Text-Effects-for-Unity
@@ -5403,6 +5439,7 @@ Showing off the power of shader properties in Unity
 - [uis](https://github.com/mopsicus/uis) Unity infinite scroller (UIS) is an extension allows you to use the ScrollRect control as an infinite scroller/spinner
 - https://github.com/NRatel/Unity-ListView
 - https://github.com/qiankanglai/LoopScrollRect
+- https://github.com/zhaozilong1988/UITableViewForUnity
  
 #### UI-System
 - https://www.pangui.io/
@@ -5468,8 +5505,6 @@ Showing off the power of shader properties in Unity
 - [soft2d-for-unity](https://github.com/taichi-dev/soft2d-for-unity)
 - [GiLight2D](https://github.com/NullTale/GiLight2D) 2D Raytracing for Unity Urp
 
-
-
 #### Camera
 - https://github.com/gilzoide/unity-camera-fov-fit
 - [UnityCameraSystem_CC](https://github.com/LeahLee13/UnityCameraSystem_CC) [bilibili](https://www.bilibili.com/video/av301538767/) 基于Cinemachine的第一/三人称过肩
@@ -5484,6 +5519,9 @@ Showing off the power of shader properties in Unity
 - [【Unity工具】使用Mesh生成以降低特效贴片Overdraw的自动化工具](https://zhuanlan.zhihu.com/p/678481238) 
 - https://github.com/sunbrando/ParticleEffectProfiler
 - https://github.com/akof1314/UnityParticleSystemPreview
+- https://assetstore.unity.com/packages/tools/utilities/bt-optiparticlex-advanced-performance-smart-particle-optimizer-320368
+- https://github.com/kimomi/UnityParticleSystemMemoryOptimization
+- https://assetstore.unity.com/packages/tools/particles-effects/particle-optimizer-pro-290175
 #### Util
 - https://github.com/pancake-llc/foundation/wiki
 - https://github.com/Greener-Games/Unity_Extensions/
@@ -5627,11 +5665,11 @@ Showing off the power of shader properties in Unity
 - [SaintsDraw](https://github.com/unitycoder/SaintsDraw) draw arrow, circle, and arc in Unity, using Gizmos or LineRenderer
 - [vectorizer](https://assetstore.unity.com/packages/tools/particles-effects/vectorizer-170267) unity-plugin
 - [Unity-SDF-UI-Toolkit](https://github.com/TLabAltoh/Unity-SDF-UI-Toolkit)
-
+- [dk.cec.plot](https://github.com/cecarlsen/dk.cec.plot) An immediate mode (IM) procedural 2D drawing package for Unity
+- [path-fx-linerender](https://assetstore.unity.com/packages/tools/particles-effects/path-fx-linerender-234316)
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
 - [Dynamic Radial Masks](https://assetstore.unity.com/packages/vfx/shaders/dynamic-radial-masks-144845)
-
 
 #### Scriptable Object
 * [PaddleGameSO](https://github.com/UnityTechnologies/PaddleGameSO) A demo project to showcase design patterns and game architecture using ScriptableObjects
@@ -5691,6 +5729,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/Nebukam/com.nebukam.job-assist
 #### PathFinding
 * https://coffeebraingames.wordpress.com
+* https://github.com/alsostone/com.stone.gridbuilder
 * [hpj-pathfinding-pro](https://assetstore.unity.com/packages/tools/game-toolkits/hpj-pathfinding-pro-257490#) unity-plugin
 * http://qiao.github.io/PathFinding.js/visual/
 * https://github.com/trgrote/JPS-Unity
@@ -5778,6 +5817,7 @@ Showing off the power of shader properties in Unity
  - [AvatarClothes](https://github.com/136512892/AvatarClothes) Unity 人物换装系统解决方案
  - [character-customization](https://assetstore.unity.com/packages/tools/utilities/character-customization-181286) 人物换装系统 插件
  - [character-customizer](https://assetstore.unity.com/packages/tools/game-toolkits/character-customizer-241861) 人物换装系统 插件
+-  [aramis-customization-system-v2-323146](https://assetstore.unity.com/packages/tools/game-toolkits/aramis-customization-system-v2-323146)
  - [网格汇编程序](https://assetstore.unity.com/packages/3d/animations/mesh-assembler-110145) unity-plugin 
  - [Mount Points](https://assetstore.unity.com/packages/tools/animation/mount-points-16318) unity-plugin
  - [better-mesh-filter-266489](https://assetstore.unity.com/packages/tools/utilities/better-mesh-filter-266489)
@@ -5988,6 +6028,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/XJINE/Unity_SceneCameraController 
 #### GamePlay
 - [我开发的角色动作系统概述-战斗,3C相关](https://zhuanlan.zhihu.com/p/67143501)
+- [NeatoTags](https://github.com/KingRecycle/NeatoTags) A GameObject Tagging System for Unity.
 
 
 ## 知识库软件/笔记软件/思维构造工具
@@ -6011,6 +6052,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [quarkdown](https://github.com/iamgio/quarkdown)
 ## Unity-Build
 - https://github.com/CyberAgentGameEntertainment/BuildMagic
+- [exclude-from-build-222791](https://assetstore.unity.com/packages/tools/utilities/exclude-from-build-222791)
 - https://github.com/XJINE/Unity_RemoveOnBuilds
 - https://github.com/FoxsterDev/DevAccelerationSystem/ code compiler
 - [unity-conditional-objects](https://github.com/gilzoide/unity-conditional-objects) Unity scripts that modify GameObjects and Components at Prefab/Scene import time based on build configurations
@@ -6139,6 +6181,9 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/typst/typst
 - https://github.com/HugoBlox/theme-academic-cv
 
+## OCR
+- https://github.com/chatdoc-com/OCRFlux
+- https://github.com/Yuliang-Liu/MonkeyOCR
 
 ## 游戏策划
 - https://zhuanlan.zhihu.com/p/67963068
