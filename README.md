@@ -325,6 +325,7 @@ Table of Contents
     - [AI](#ai)
     - [UI](#ui)
     - [UI-System](#ui-system)
+  - [HUD](#hud)
     - [Font/Text](#fonttext)
       - [BitMap](#bitmap)
       - [Free-Font](#free-font)
@@ -2345,6 +2346,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [BytePacketSupport](https://github.com/lukewire129/BytePacketSupport)
 - https://github.com/pancake-llc/foundation/wiki/data
 - https://github.com/xuhuanzy/pure-lua-protobuf
+- https://github.com/hhblaze/Biser
 - [com.unity.runtime-scene-serialization](https://docs.unity3d.com/Packages/com.unity.runtime-scene-serialization@0.2/manual/index.html)
 #### Json
 - https://github.com/neuecc/Utf8Json      C#
@@ -2406,6 +2408,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 ## DataBase
 - https://github.com/dolthub/dolt
 - https://github.com/ClockworkLabs/SpacetimeDB
+- https://github.com/strosz/com.northernrogue.cccp.spacetimedbserver
 - https://github.com/mrousavy/StorageBenchmark
 
 #### c#
@@ -4321,6 +4324,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/Burn1ngApe/Prefab_Lighting_Baker
 * https://github.com/z3y/XatlasLightmap
 * https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps 
+* https://github.com/z3y/XatlasLightmap
 * https://github.com/liuwenjiexx/Unity.BakedLightmap
 * https://github.com/laurenth-personal/LODLightmapScripts
 * https://github.com/nukadelic/Unity-Lightmap-Prefab-Baker
@@ -4942,6 +4946,7 @@ Showing off the power of shader properties in Unity
 - [xlua](https://github.com/Tencent/xLua) xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. 
 - [xLua](https://github.com/zentia/xLua) xLua-il2cpp is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
 - [bLua](https://github.com/bianpeng001/bLua) 另一个Unity3d lua热更方案, another lua solution for Unity3d
+- https://github.com/blua-devs/blua
 - [PureJSB](https://github.com/linkabox/PureJSB)
 - [gravity](https://github.com/marcobambini/gravity)
 - [quickjs](https://github.com/horhof/quickjs)
@@ -5083,6 +5088,7 @@ Showing off the power of shader properties in Unity
 
 #### Pool-Cache
 - https://github.com/inversionhourglass/Pooling
+- https://github.com/BatuhanKanbur/PoolManager
 - https://github.com/TORISOUP/uPools
 - https://github.com/gilzoide/unity-prefab-pool/
 - [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
@@ -5413,8 +5419,7 @@ Showing off the power of shader properties in Unity
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
 - [Progress-Bar](https://github.com/MirzaBeig/Animated-Progress-Bar-Shader-Graph)
-- [Optimize-Health-Bar](https://github.com/pancake-llc/foundation/wiki/Optimize-Health-Bar)
-- [health-bars](https://assetstore.unity.com/packages/vfx/shaders/gimme-instanced-health-bars-259079)
+
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
 - [UnityUiParticles](https://github.com/ken48/UnityUiParticles)
 - [ui-particle-image](https://assetstore.unity.com/packages/tools/gui/ui-particle-image-235001) unity-plugin
@@ -5444,10 +5449,13 @@ Showing off the power of shader properties in Unity
 #### UI-System
 - https://www.pangui.io/
 
+### HUD
+- https://github.com/alsostone/com.stone.hud
+- https://github.com/506638093/RichText 头顶血条 
+- [health-bars](https://assetstore.unity.com/packages/vfx/shaders/gimme-instanced-health-bars-259079)  
 #### Font/Text
 - [Harfbuzz native plugin for use in Latios Framework](https://github.com/Dreaming381/HarfbuzzUnity)
 - [TextMeshDOTS](https://github.com/Fribur/TextMeshDOTS)
-- https://github.com/506638093/RichText 头顶血条 
 - https://github.com/wuxiongbin/uHyperText 
 - https://github.com/Wilson403/Html2UnityRich
 - https://github.com/codewriter-packages/TMP-Image
@@ -5742,6 +5750,7 @@ Showing off the power of shader properties in Unity
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
 - [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one in Unity.
 - [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) Alternative to Unity's NavMesh system where the agents avoid each other. 
+- https://github.com/Acissathar/NavMesh-Cleaner
 - https://github.com/llamacademy/ladder-navmeshlink
 - [dotsnav](https://github.com/dotsnav/dotsnav) A fully dynamic planar navmesh Unity package supporting agents of any size 
 - [knockback-navmeshagent](https://github.com/llamacademy/knockback-navmeshagent) Learn how to knock back NavMeshAgents using Physics & Forces
@@ -5870,6 +5879,7 @@ Showing off the power of shader properties in Unity
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
 * [FolderTag](https://github.com/liyingsong99/FolderTag)
+* [EditorAttributes](https://github.com/v0lt13/EditorAttributes) EditorAttributes is a unity package that adds some extra editor attributes to your project to easily customize your editors without having to write any editor code.
 * [inspector-desinger](https://assetstore.unity.com/packages/tools/gui/inspector-desinger-307698)
 * [UnityHiddenObjectFinder](https://github.com/SolarianZ/UnityHiddenObjectFinder/)
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
