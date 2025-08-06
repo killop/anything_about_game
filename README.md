@@ -1050,7 +1050,7 @@ Table of Contents
 - [com.unity.demoteam.digital-human](https://github.com/Unity-Technologies/com.unity.demoteam.digital-human) Library of tech features used to realize the digital human from The Heretic and Enemies.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting) VR-Stage-Lighting
 - [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin)
-- 
+- https://github.com/LKZMuZiLi/human
  - https://github.com/luxonis/depthai-unity
  - https://github.com/runwayml/RunwayML-for-Unity
  - https://github.com/crdrury/Unity-Rhubarb-Lip-Syncer
@@ -1159,6 +1159,7 @@ Table of Contents
 - [2d-water](https://assetstore.unity.com/packages/2d/textures-materials/water/game-2d-water-kit-118057)
 - https://github.com/Fire-Aalt/KrasCore-Mosaic
 - https://assetstore.unity.com/packages/tools/utilities/autotiles-3d-tilemap-level-editor-205724
+- https://github.com/Fire-Aalt/KrasCore-Mosaic
  
 #### Design
 - https://www.zcool.com.cn
@@ -1449,6 +1450,7 @@ Table of Contents
 - [Unity-MecanimEventSystem](https://github.com/Bian-Sh/Unity-MecanimEventSystem) This is a chain programming style callback System for Animator of Unity ，await /async supported
 - https://github.com/linfuqing/ZGUPEntitiesAnimations supported
 - [AnimationRiggingExtensions](https://github.com/madc0der/AnimationRiggingExtensions) Repository with patched or new constraints for Unity AnimationRigging package
+- [unity-animation-system](https://github.com/amirhoseinjfri/unity-animation-system) A robust Unity animation manager that enables smooth crossfade transitions, queuing, looping, and layer locking with callback support
 #### Character-Controller
 - [Project_TCC](https://github.com/unity3d-jp/Project_TCC)
 - [SRMove](https://github.com/NoiRC256/SRMove)
@@ -2290,6 +2292,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 * https://github.com/zacpeelyates/unityrollback
 * [local-multiplayer](https://forum.unity.com/threads/released-local-multiplayer-for-ios-tvos-macos.474432/)
 * https://github.com/Glitshy/Godot-Lag-Compensation
+* https://github.com/ashoulson/RailgunNet
 #### Library
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
@@ -2366,6 +2369,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 ## Huge-World
 - https://github.com/VIZ-Interactive/Depiction-Engine-Unity
 - https://assetstore.unity.com/packages/tools/game-toolkits/chunx-chunks-culling-305400
+- https://assetstore.unity.com/packages/tools/terrain/bigworldstreamer-324077
 - [ScatterStream](https://github.com/ashleyseric/ScatterStream) A runtime object scattering/vegetation authoring, streaming and rendering tool for Unity optimised for instanced rendering a very large number of placed items.
 - [mega-scatter-14954](https://assetstore.unity.com/packages/tools/modeling/mega-scatter-14954) unity-plugin
 - [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
@@ -2646,7 +2650,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [CYarp](https://github.com/xljiulang/CYarp) http/1.1 over tcp, http/2.0 or http/3.0 private network tunnel
 * [BeetleX](https://github.com/IKende/BeetleX) high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution 
 * [BedrockFramework](https://github.com/davidfowl/BedrockFramework) High performance, low level networking APIs for building custom servers and clients. 
-* [RailgunNet](https://github.com/ashoulson/RailgunNet) A Client/Server Network State-Synchronization Layer for Games 
 * [EuNet](https://github.com/zestylife/EuNet)  Peer to peer network solution for multiplayer games
 * [Telepathy](https://github.com/vis2k/Telepathy) Simple, message based, MMO Scale TCP networking in C#. And no magic.
 * [Megumin](https://github.com/KumoKyaku/Megumin.Net) 应用程序和游戏网络层解决方案 
@@ -3271,6 +3274,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/shanecelis/water-demo webgl
 - https://github.com/MatrixRex/Uber-Stylized-Water
 - https://github.com/ruccho/WaterRW
+- https://github.com/Ezharjan/WaterShader
 #### Glass
 - https://github.com/toadstorm/RainyGlassShader 
 - https://github.com/omid3098/Unity-URP-GlassShader
@@ -3624,6 +3628,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * https://github.com/needle-tools/shader-variant-explorer
 * https://github.com/crossous/SocoTools/
 * [shaders-limiter](https://assetstore.unity.com/packages/tools/utilities/shaders-limiter-270827)
+* [shader-fix-assistant](https://assetstore.unity.com/packages/tools/utilities/shader-fix-assistant-326073)
 #### Course/Article
 - https://techartaid.com/cheatsheet/
 - https://github.com/GraphicsReplicability
@@ -4324,7 +4329,6 @@ Showing off the power of shader properties in Unity
 * https://github.com/Burn1ngApe/Prefab_Lighting_Baker
 * https://github.com/z3y/XatlasLightmap
 * https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps 
-* https://github.com/z3y/XatlasLightmap
 * https://github.com/liuwenjiexx/Unity.BakedLightmap
 * https://github.com/laurenth-personal/LODLightmapScripts
 * https://github.com/nukadelic/Unity-Lightmap-Prefab-Baker
@@ -5597,8 +5601,7 @@ Showing off the power of shader properties in Unity
 - [hotreload](https://hotreload.net/) and his free version [gitlab-freeVersion](https://gitlab.com/singularitygroup/hot-reload-for-unity) [github-freeVersion](https://github.com/pancake-llc/hot-reload)
 - [BuildingHotReloadForUnity](https://github.com/handzlikchris/BuildingHotReloadForUnity)
 - [editoriterationprofiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler) Assists in capturing frames from the Profiler of Domain Reloads in the Unity Editor. Compatible with Unity 2019.3
-- [CSharpCompilerSettingsForUnity](https://github.com/mob-sakai/CSharpCompilerSettingsForUnity)
-- [CsprojModifier](https://github.com/Cysharp/CsprojModifier) CsprojModifier performs additional processing when Unity Editor generates the .csproj. 
+
 - [Unity Editor performance ](https://github.com/Unity-Technologies/com.unity.performance-tracking) A set of tools and utilities to help track Unity Editor performance
 - [compilation-visualizer](https://github.com/needle-tools/compilation-visualizer) This tool visualizes the assembly compilation process in Unity3D. It hooks into the Editor-provided events and nicely draws them on a timeline. That's especially helpful when trying to optimize compile times and dependencies between assemblies.
 - [MethodChangeWithILPostProcessor](https://github.com/sune2/MethodChangeWithILPostProcessor)
@@ -5635,6 +5638,9 @@ Showing off the power of shader properties in Unity
 - https://github.com/microsoft/Microsoft.Unity.Analyzers
 - https://github.com/vad710/UnityEngineAnalyzer
 - https://github.com/DaZombieKiller/UnityRoslynUpdater
+- [CSharpCompilerSettingsForUnity](https://github.com/mob-sakai/CSharpCompilerSettingsForUnity)
+- [CsprojModifier](https://github.com/Cysharp/CsprojModifier) CsprojModifier performs additional processing when Unity Editor generates the .csproj. 
+- https://github.com/kandreyc/unity-csharp-patch
 - https://github.com/apkd/UnityDemystifier
 
 #### Windows-Show
@@ -5675,6 +5681,7 @@ Showing off the power of shader properties in Unity
 - [Unity-SDF-UI-Toolkit](https://github.com/TLabAltoh/Unity-SDF-UI-Toolkit)
 - [dk.cec.plot](https://github.com/cecarlsen/dk.cec.plot) An immediate mode (IM) procedural 2D drawing package for Unity
 - [path-fx-linerender](https://assetstore.unity.com/packages/tools/particles-effects/path-fx-linerender-234316)
+- [Segments](https://github.com/andrew-raphael-lukasik/Segments) Line renderer for DOTS tech stack.
 #### Effect
 - [mmfeedbacks](https://assetstore.unity.com/packages/tools/utilities/mmfeedbacks-155004)
 - [Dynamic Radial Masks](https://assetstore.unity.com/packages/vfx/shaders/dynamic-radial-masks-144845)
@@ -5746,6 +5753,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/ForgingStation/Dynamic-Obstacle--Avoidance-with-Nav-Mesh-Query---DOTS-1.0
 * [EntitiesNavMeshBuilder](https://github.com/bustedbunny/EntitiesNavMeshBuilder) Runtime NavMesh dynamic building for Unity Entities.
 - [Unity-Formation-Movement2.0](https://github.com/Goodgulf281/Unity-Formation-Movement2.0)  Formation movement for Unity 3D using built in NavMesh navigation or A*Pathfinding
+- [Large Scale Formation System](https://topsongames.gitbook.io/topsongames-docs)
 - [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 - [NavMeshAvoidance](https://github.com/InsaneOneHub/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one 
 - [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) Custom Nav Mesh Avoidance to replace default one in Unity.
@@ -5956,6 +5964,7 @@ Showing off the power of shader properties in Unity
 - [CustomAssetMetadata](https://github.com/LogicalError/CustomAssetMetadata)
 - [SceneMaterialManager](https://github.com/roundyyy/SceneMaterialManager)
 - [missing-reference-fixer](https://assetstore.unity.com/packages/tools/utilities/missing-reference-fixer-316285)
+- [texture-converter-pro](https://assetstore.unity.com/packages/tools/utilities/texture-converter-pro-advanced-format-export-tool-322759)
 
 #### PackageManager
 - https://github.com/quabug/unity-pack Create an Unity Package from directory
@@ -6190,6 +6199,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/zongpingding/All-About-TeX
 - https://github.com/typst/typst
 - https://github.com/HugoBlox/theme-academic-cv
+- https://github.com/shanleiguang/vRain
 
 ## OCR
 - https://github.com/chatdoc-com/OCRFlux

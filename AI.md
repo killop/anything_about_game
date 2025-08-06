@@ -54,6 +54,7 @@
 - https://github.com/microsoft/promptflow
 - https://github.com/anthropics/courses
 - https://github.com/anthropics/anthropic-cookbook
+- https://github.com/NeekChaw/awesome-prompt
 ### Image
 - https://reveai.org/
  
@@ -156,6 +157,7 @@
 - https://github.com/VR-Jobs/UnityMCPbeta
 - https://glama.ai/mcp/servers/@GrandMasterK414/unity-smithery-mcp
 - https://github.com/IvanMurzak/Unity-MCP
+- https://github.com/hatayama/uLoopMCP
 
 ### web
 - https://github.com/femto/minion-agent
@@ -209,9 +211,13 @@
 - https://github.com/kyrolabs/awesome-agents
 
 ### Framework
+- https://github.com/ashishpatel26/500-AI-Agents-Projects
 - [rowboat](https://github.com/rowboatlabs/rowboat) AI-powered multi-agent builder
 - https://github.com/evalstate/fast-agent
 - https://github.com/langchain-ai/open-agent-platform 集成了RAG、MCP的多智能体无代码构建工具：open-agent-platform，图形化操作，适合无编程快速原型
+- https://github.com/The-Pocket/PocketFlow
+- https://github.com/humanlayer/12-factor-agents
+- https://github.com/ruvnet/claude-flow/
 ### Common Agent
 - https://github.com/kortix-ai/suna
 - https://github.com/simular-ai/Agent-S
@@ -223,7 +229,7 @@
 ### Agent-Coding
 - https://www.cnblogs.com/chegan/p/18846446
 - https://www.cnblogs.com/Evsward/p/18847893
-- https://github.com/The-Pocket/PocketFlow
+
 
 ### Math
 - https://github.com/jihe520/MathModelAgent
@@ -260,6 +266,7 @@
 ## AI-Coding
 - https://kilocode.ai/
 - https://github.com/claude-did-this/claude-hub
+- https://github.com/apstenku123/claude-code-reverse
 
 ## LLM
 - https://github.com/liguodongiot/llm-resource
