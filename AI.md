@@ -91,6 +91,12 @@
 - https://github.com/Balint-H/mj-unity-tutorial?
 
 
+## UI2Code
+- https://github.com/leigest519/ScreenCoder
+- https://github.com/WebPAI
+- https://github.com/xjywhu/Awesome-Multimodal-LLM-for-Code
+- https://kombai.com/
+- https://github.com/mendableai/open-lovable
 #### ChatBot
 - https://github.com/tghamm/Anthropic.SDK
 - https://github.com/ThinkInAIXYZ/deepchat
@@ -247,6 +253,7 @@
 ### RAG
 - https://github.com/HKUDS/RAG-Anything
 - https://github.com/topoteretes/cognee
+- https://github.com/coleam00/Archon
 - https://docs.ragas.io/en/latest/concepts/
 - https://www.evidentlyai.com/llm-evaluation-benchmarks-datasets
 - https://github.com/BAI-LAB/MemoryOS
@@ -268,9 +275,13 @@
 - https://github.com/claude-did-this/claude-hub
 - https://github.com/apstenku123/claude-code-reverse
 
+## claude-code
+- https://github.com/JessyTsui/Claude-Code-Remote
 ## LLM
 - https://github.com/liguodongiot/llm-resource
 - https://github.com/liguodongiot/ai-system
+- https://github.com/datawhalechina/happy-llm
+- https://github.com/LMCache/LMCache
 
 ## vs-coding
 - https://github.com/juehang/vscode-mcp-server
