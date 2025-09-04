@@ -1554,6 +1554,7 @@ Table of Contents
  #### Timeline
 - [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions) 
 - [enhanced-timeline-305512](https://assetstore.unity.com/packages/tools/utilities/enhanced-timeline-305512)
+- [cutscene-engine-327883](https://assetstore.unity.com/packages/tools/game-toolkits/cutscene-engine-327883)
 - https://github.com/Celezt/UnityTimelineExtended
 - https://github.com/Brian-Jiang/PragmaTimeline
 - https://github.com/pofulu/TimelineTool
