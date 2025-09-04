@@ -224,6 +224,7 @@
 - https://github.com/The-Pocket/PocketFlow
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/ruvnet/claude-flow/
+- https://github.com/emcie-co/parlant
 ### Common Agent
 - https://github.com/kortix-ai/suna
 - https://github.com/simular-ai/Agent-S
@@ -252,6 +253,7 @@
 
 ### RAG
 - https://github.com/HKUDS/RAG-Anything
+- https://github.com/bytedance-seed/m3-agent
 - https://github.com/topoteretes/cognee
 - https://github.com/coleam00/Archon
 - https://docs.ragas.io/en/latest/concepts/
@@ -277,11 +279,13 @@
 
 ## claude-code
 - https://github.com/JessyTsui/Claude-Code-Remote
+ 
 ## LLM
 - https://github.com/liguodongiot/llm-resource
 - https://github.com/liguodongiot/ai-system
 - https://github.com/datawhalechina/happy-llm
 - https://github.com/LMCache/LMCache
+
 
 ## vs-coding
 - https://github.com/juehang/vscode-mcp-server
@@ -299,3 +303,7 @@
 ### Bot
 - https://github.com/MaiM-with-u/MaiBot 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
 - https://cluely.com/#usage
+
+
+## Computer
+- https://github.com/bytebot-ai/bytebot

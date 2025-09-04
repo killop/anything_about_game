@@ -104,7 +104,7 @@ Table of Contents
 - [Linux](#linux)
 - [Version-Control](#version-control)
     - [article](#article-1)
-- [ScriptWebTool](#scriptwebtool)
+- [ScriptWebTool\&\&TUI](#scriptwebtooltui)
 - [Game-Server-framework](#game-server-framework)
     - [Article](#article-2)
     - [Lockstep](#lockstep)
@@ -1049,7 +1049,8 @@ Table of Contents
 - [studio](https://vroid.com/en/studio) 3D Character Creation Software
 - [reallusion](https://www.reallusion.com/) URP Support:[cc_unity_tools_URP](https://github.com/soupday/cc_unity_tools_URP)
 - [com.unity.demoteam.digital-human](https://github.com/Unity-Technologies/com.unity.demoteam.digital-human) Library of tech features used to realize the digital human from The Heretic and Enemies.
-- [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting) VR-Stage-Lighting
+- [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
+- https://github.com/murasaqi/Unity_StageLightManeuver
 - [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin)
 - https://github.com/LKZMuZiLi/human
  - https://github.com/luxonis/depthai-unity
@@ -1414,6 +1415,7 @@ Table of Contents
 -  https://github.com/ycarowr/UiCard
 -  https://github.com/IainS1986/UnityCoverFlow
 -  https://github.com/CragonGame/CasinosClient
+-  https://github.com/huailiang/Parabola
 -  [Projectile-Shooting](https://github.com/jadvrodrigues/Projectile-Shooting)
 - [Unity-Proportional-Navigation-Collection](https://github.com/Woreira/Unity-Proportional-Navigation-Collection) A collection of PN guidance systems, in Unity
 #### Interaction
@@ -1896,7 +1898,9 @@ Table of Contents
 - https://github.com/ikpil/DotCompressorBenchmark
 - https://github.com/ikpil/DotFastLZ 
 - https://github.com/avaneev/lzav
+- https://github.com/jaime-olivares/zipstorer
 - https://github.com/brantburnett/Snappier
+- https://github.com/Cysharp/NativeCompressions
 - [ThumbHash](https://github.com/jzebedee/ThumbHash) .NET implementation of ThumbHash: a very compact representation of a placeholder for an image. Store it inline with your data and show it while the real image is loading for a smoother loading experience.
 - [signed-octahedron-normal-encoding](https://johnwhite3d.blogspot.com/2017/10/signed-octahedron-normal-encoding.html) 
 #### Disassembly
@@ -2032,11 +2036,12 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [Git分支管理实践](https://zhuanlan.zhihu.com/p/72946397)
 - [规范化git commit信息](https://blog.dteam.top/posts/2019-04/%E8%A7%84%E8%8C%83%E5%8C%96git-commit%E4%BF%A1%E6%81%AF.html)
 
-## ScriptWebTool
+## ScriptWebTool&&TUI
 - [PyWebIO]( https://github.com/pywebio/PyWebIO) 
 - [FastUI](https://github.com/pydantic/FastUI)
 - [mesop](https://google.github.io/mesop)
 - https://github.com/feiyun0112/Gradio.Net
+- https://github.com/rothgar/awesome-tuis
 ## Game-Server-framework
 - https://github.com/Quaint-Studios/
 - https://github.com/moke-game/platform
@@ -2494,6 +2499,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 * [morpeh](https://github.com/scellecs/morpeh) Fast and Simple Entity Component System (ECS) Framework for Unity Game Engine 
 * [VodeoECS](https://github.com/VodeoGames/VodeoECS)
 * [Arch](https://github.com/genaray/Arch) A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
+* [Nukecs](https://github.com/AlexWargon/Nukecs) fast c# entity component system that uses burst and job systems by default.
 #### Python
 * esper - A lightweight Entity System for Python [github](https://github.com/benmoran56/esper) ![benmoran56/esper](https://img.shields.io/github/stars/benmoran56/esper.svg?style=flat&label=Star&maxAge=86400)
 
@@ -2525,6 +2531,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [xxHash](https://github.com/Cyan4973/xxHash)  Extremely fast non-cryptographic hash algorithm ,implement by c
 - [xxHash](https://github.com/uranium62/xxHash) xxhash c# implement
 - [FastHashes](https://github.com/TommasoBelluzzo/FastHashes)
+- https://github.com/ogxd/gxhash-csharp
 
 
 ## Text-Template
@@ -2549,6 +2556,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/microsoft/vs-solutionpersistence
 - https://github.com/datalust/superpower
 - https://github.com/werwolfby/Zeroshtein 
+- https://github.com/dotnet/project-system
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -3333,6 +3341,7 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 - [UnityMemorySnapshotThing](https://github.com/SamboyCoding/UnityMemorySnapshotThing) Tool to work with unity memory snapshots
 - [MemorySnapshotAnalyzer](https://github.com/facebookexperimental/MemorySnapshotAnalyzer) Analysis tooling for memory snapshots of managed code runtimes, specifically, Unity Memory Snapshots.
 - [il2cppMemoryProfiler](https://github.com/haitor888/il2cppMemoryProfiler) UnityMemperf是一款专为Unity引擎安卓平台IL2CPP运行时打造的高性能内存分析、泄露检查、快照对比工具
+- https://github.com/studentutu/unity-memoryprofiler-csv-export
 - [uwa4d](https://www.uwa4d.com/)
 - [selective-profiling](https://github.com/needle-tools/selective-profiling) Selectively deep profile code in Unity
 - [optick](https://github.com/bombomby/optick) Optick is a super-lightweight C++ profiler for Games.
@@ -3589,7 +3598,6 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://github.com/NaitorStudios/FusionShaderRepo
 - [lygia](https://github.com/patriciogonzalezvivo/lygia) lygia, it's a granular and multi-language shader library designed for performance and flexibility 
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX)
-- [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - [common-shaders](https://github.com/libretro/common-shaders)
 - [HLSL-Library](https://github.com/youandhubris/HLSL-Library)
 - https://github.com/repalash/Open-Shaders
@@ -3853,6 +3861,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/FernRP
 - https://github.com/Reuben-Sun/ToonURP
 - https://github.com/Delt06/toon-rp
+- https://github.com/Yu-ki016/Yu-ki016-Articles
 - https://github.com/danbaidong1111/DanbaidongRP
 - [PrimoToon](https://github.com/festivize/PrimoToon) Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This is for datamined assets, not custom-made ones nor the MMD variants.
 - [FernNPR](https://github.com/DeJhon-Huang/FernNPR) NPR相关实验，基于Unity。
@@ -4513,6 +4522,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/andr3wmac/unity-tinybvh
 - https://github.com/zhujun3753/i-octree?
 - https://github.com/atonalfreerider/Unity-FDG
+- https://github.com/insthync/unity-spatial-partitioning-systems
 
 #### Point-Distribution
 - 均匀撒点的算法，思路是
@@ -4540,6 +4550,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/tatoforever/snapdragon-gsr
 - https://github.com/keijiro/KinoBloom 牛逼的bloom 
 - https://github.com/AKGWSB/FFTConvolutionBloom
+- https://github.com/StellarWarp/High-Performance-Convolution-Bloom-On-Unity
 - https://github.com/tkonexhh/X-PostProcessing-URP
 - https://github.com/alexmalyutindev/unity-cmaa2
 - https://github.com/Mortalitas/GShade
@@ -5113,6 +5124,7 @@ Showing off the power of shader properties in Unity
 - [GameFrameX](https://github.com/AlianBlank/GameFrameX) 前后端一体化，带后台管理系统，支持webgl和微信小游戏
 - https://github.com/AkiKurisu/AkiFramewor
 - https://github.com/fancyhub/UnityLibs
+- https://github.com/firleaves/GameEntity
 - [coimbrastudios](https://github.com/coimbrastudios/framework/blob/master/Documentation~/Index.md) actor/playerloop
 - [F8Framework](https://github.com/TippingGame/F8Framework)
 - https://github.com/cocowolf/loxodon-framework
@@ -5340,6 +5352,7 @@ Showing off the power of shader properties in Unity
 - [UAlive](https://github.com/LifeandStyleMedia/UAlive)
 - [UniState](https://github.com/bazyleu/UniState) UniState is an architectural framework for Unity, designed around State pattern. Offers high performance and excellent scalability, ideal for complex Unity projects.
 - [UNode](https://assetstore.unity.com/packages/tools/visual-scripting/unode-visual-scripting-101176)
+- https://github.com/wahidrachmawan/uNode
 - [XNode](https://github.com/Siccity/xNode)
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)
 - [BlueGraph](https://github.com/McManning/BlueGraph)
@@ -6122,6 +6135,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
  - [permissions-kit](https://github.com/voxelbusters/permissions-kit)
  - [unity-background-service](https://github.com/nintendaii/unity-background-service)
  - [unimgpicker](https://github.com/thedoritos/unimgpicker)
+ - https://github.com/yasirkula/UnityMobileLocalizedAppTitle
  - [BlankGalleryScreenshot](https://github.com/AlianBlank/BlankGalleryScreenshot) Unity 3D Gallery Screenshot
  - [Unity-iOS-Android-Download](https://github.com/LBCross/Unity-iOS-Android-Download)
  - [Unity-NativePlugins](https://github.com/AlexMerzlikin/Unity-NativePlugins)
