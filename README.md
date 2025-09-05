@@ -6059,6 +6059,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/AkiKurisu/Time-Control
 - https://github.com/SitronX/UnityTimeRewinder
 - https://github.com/CyberSys/ChronosTimeControl
+- https://github.com/BcoffeeDev/game-core-time-channels
 - [magic-time-control-time-per-object-local-time-scale](https://assetstore.unity.com/packages/tools/utilities/magic-time-control-time-per-object-local-time-scale-298494) unity-plugin
 #### Raycast&&Sensor
 - RayCastCommand - Dealing with Physics bottle necks? You can use Unity C# Job System's RayCastCommand to boost your performance. Test example.

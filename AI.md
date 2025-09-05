@@ -74,6 +74,9 @@
 ### coding
 - [开源的本地代码解释器](https://github.com/KillianLucas/open-interpreter)
 
+## Nano
+- https://github.com/PicoTrex/Awesome-Nano-Banana-images
+- https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation
 ## ComfyUI
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
@@ -279,6 +282,7 @@
 
 ## claude-code
 - https://github.com/JessyTsui/Claude-Code-Remote
+- [cc使用技巧](https://www.cnblogs.com/heavenYJJ/p/19071441)
  
 ## LLM
 - https://github.com/liguodongiot/llm-resource
@@ -307,3 +311,7 @@
 
 ## Computer
 - https://github.com/bytebot-ai/bytebot
+
+## Context-Engineering
+- https://github.com/Meirtz/Awesome-Context-Engineering
+- [从 Prompt 到 Context：基于 1400+ 论文的 Context Engineering 系统综述](https://mp.weixin.qq.com/s/G5BUoM12vu2dWfxzIrAcfg)
