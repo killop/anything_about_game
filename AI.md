@@ -279,10 +279,12 @@
 - https://kilocode.ai/
 - https://github.com/claude-did-this/claude-hub
 - https://github.com/apstenku123/claude-code-reverse
+- https://www.codebuff.com/
 
 ## claude-code
 - https://github.com/JessyTsui/Claude-Code-Remote
 - [cc使用技巧](https://www.cnblogs.com/heavenYJJ/p/19071441)
+- https://baoyu.io/translations/claude-code-framework-wars
  
 ## LLM
 - https://github.com/liguodongiot/llm-resource

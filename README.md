@@ -2043,6 +2043,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [mesop](https://google.github.io/mesop)
 - https://github.com/feiyun0112/Gradio.Net
 - https://github.com/rothgar/awesome-tuis
+- https://nicegui.io/
 ## Game-Server-framework
 - https://github.com/Quaint-Studios/
 - https://github.com/moke-game/platform
@@ -2396,6 +2397,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/wujuju/UnityTerrain
 - https://github.com/guchengyidao/OpenWorldTerrainToolset
 - https://github.com/emrecancubukcu/Terrain-Decorator
+- [terrain-tiler](https://assetstore.unity.com/packages/tools/terrain/terrain-tiler-329337)
 - https://github.com/jintiao/VirtualTexture
 - https://github.com/haolange/InfinityTexture
 - https://github.com/jackie2009/VirturalTextureFast
@@ -4708,6 +4710,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/eventhorizon-cli/BufferQueue
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/giacomelli/GeneticSharp 遗传算法
+- https://github.com/asarnaout/OpenGeneticAlgorithm.NET An extensible .NET genetic algorithm library for optimization and artificial intelligence - Evolutionary computation and complex problem solving made simple
 - https://github.com/DesignEngrLab 里面的有很多的优化项，不知道为啥不火
 - https://surparallel.org unity 多线程优化工具
 - https://github.com/linys2333/TimingWheel c# 时间轮优化
@@ -5210,6 +5213,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/acdamiani/schema
 - https://github.com/HalfADog/Unity-RPGCore-HFSM
 - https://github.com/Inspiaaa/UnityHFSM
+- https://github.com/Enzx/NxGraph NxGraph is a zero-allocation runtime, high-performance finite state machine (FSM) framework for .NET 8+, designed for scenarios where execution speed, memory efficiency, and runtime safety are critical.
 - https://github.com/Yuan-ManX/ai-game-development-tools
 - https://github.com/baponkar/zombie-ai
 ###  Chat/Dialogue
