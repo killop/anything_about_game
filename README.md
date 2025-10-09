@@ -1555,6 +1555,7 @@ Table of Contents
 - [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions) 
 - [enhanced-timeline-305512](https://assetstore.unity.com/packages/tools/utilities/enhanced-timeline-305512)
 - [cutscene-engine-327883](https://assetstore.unity.com/packages/tools/game-toolkits/cutscene-engine-327883)
+- [enhanced-timeline-tracks](https://assetstore.unity.com/packages/tools/animation/timeline-plus-enhanced-timeline-tracks-329133)
 - https://github.com/Celezt/UnityTimelineExtended
 - https://github.com/Brian-Jiang/PragmaTimeline
 - https://github.com/pofulu/TimelineTool
@@ -2047,6 +2048,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 ## Game-Server-framework
 - https://github.com/Quaint-Studios/
 - https://github.com/moke-game/platform
+- https://github.com/phuhao00/greatestworks
 - https://github.com/Far-Beyond-Dev/Horizon
 - https://github.com/hstcscolor/awesome-gameserver-cn
 - https://github.com/lipeilin2006/OLFramework
@@ -4124,6 +4126,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/haolange/InfinityRenderPipeline
 - https://github.com/MatheusMarkies/MagicByte
 - https://github.com/JorenJoestar/DataDrivenRendering
+- https://github.com/WeakKnight/GDC23_PracticalMobileRendering Demo for Practical High-Performance Rendering on Mobile Platforms (GDC 2023)
 - https://github.com/larsbertram69
 - https://github.com/TakeshiCho/UI_RenderPipelineInLinearSpace
 - https://cmwdexint.com/2019/05/30/3d-scene-need-linear-but-ui-need-gamma/
@@ -4369,6 +4372,7 @@ Showing off the power of shader properties in Unity
 - [volumetric-light-beam](https://assetstore.unity.com/packages/vfx/shaders/volumetric-light-beam-99888) unity-plugin
 #### Shadow
 * [realtimeshadows](https://www.realtimeshadows.com/?q=node/12) <Realtime Shadows> codes
+* [TVSO](https://github.com/LexCapp/TVSO-Temporal-Variance-Shadow-Optimizer) Real-time adaptive shadow cascade optimizer for Unity URP. Powered by variance.
 * [Sparse Virtual Shadow Maps](https://ktstephano.github.io/rendering/stratusgfx/svsm)
 * [Unity SRP 实战（三）PCSS 软阴影与性能优化](https://zhuanlan.zhihu.com/p/462371147)
 * [UnityShadows](https://github.com/Eukky/UnityShadows) Shadow map in unity, include hard shadow, PCF, PCSS, VSSM.
@@ -4708,6 +4712,7 @@ Showing off the power of shader properties in Unity
 - [BreakInfinity](https://github.com/Razenpok/BreakInfinity.cs） Double replacement for numbers that go over 1e308
 - https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp -- 高性能优先级队列
 - https://github.com/eventhorizon-cli/BufferQueue
+- https://github.com/xljiulang/RecyclableBuffer
 - [swifter](https://github.com/Dogwei/Swifter.Core) -- swifter 的和核心库，里面很多unsafe 优化
 - https://github.com/giacomelli/GeneticSharp 遗传算法
 - https://github.com/asarnaout/OpenGeneticAlgorithm.NET An extensible .NET genetic algorithm library for optimization and artificial intelligence - Evolutionary computation and complex problem solving made simple
@@ -4758,6 +4763,7 @@ Showing off the power of shader properties in Unity
 - [AdvancedDLSupport](https://github.com/Firwood-Software/AdvancedDLSupport) Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. 
 - https://github.com/mono/Embeddinator-4000
 - [interprocess](https://github.com/cloudtoid/interprocess) A cross-platform shared memory queue for fast communication between processes (Interprocess Communication or IPC).
+- [H.Pipe](https://github.com/HavenDV/H.Pipe) A simple, easy to use, strongly-typed, async wrapper around .NET named pipes
 - [LeslieXin.SimpleMMF](https://github.com/lesliexinxin/LeslieXin.SimpleMMF) 简单、易用的进程间通信框架，基于共享内存实现。
 
 - [NativeStringCollections](https://github.com/kawai125/NativeStringCollections) The toolset to parse text files using C# JobSystem on Unity.
@@ -4788,6 +4794,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/axuno/SmartFormat
 - https://github.com/kuronekoyang/UnsafeStringBuffer
 - https://github.com/Molth/StringPool
+- https://github.com/soenneker/soenneker.utils.pooledstringbuilders
 #### Log
 - https://github.com/DerploidEntertainment/UnityUtil
 - https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
@@ -5145,7 +5152,6 @@ Showing off the power of shader properties in Unity
 - https://github.com/smilehao/xlua-framework
 - https://github.com/passiony/xlua-framework-unity2018
 - https://github.com/Tencent/InjectFix
-- https://github.com/hadashiA/VContainer
 - https://github.com/Justin-sky/Nice-Lua
 - https://github.com/Juce-Assets/
 - https://github.com/MattRix/Futile
@@ -5175,6 +5181,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/gustavopsantos/reflex
 - https://github.com/ssannandeji/Zenject-2019
 - https://github.com/hadashiA/VContainer
+- https://github.com/alexanderlarsen/Saneject
 - https://github.com/ipjohnson/Grace
 - https://github.com/dadhi/DryIoc
 - https://github.com/Mathijs-Bakker/Extenject
@@ -5183,6 +5190,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/labbbirder/DirectRetrieveAttribute
 - https://github.com/mewlist/Doinject
 - https://github.com/labbbirder/UnityInjectionV2
+- https://assetstore.unity.com/packages/tools/utilities/init-args-200530
  
 ## GamePlay
 ### GameAI
@@ -5308,6 +5316,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/johanhelsing/UniSdf?
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
+- https://github.com/Herta-Space-Station/MemoryPool
 - [Unity游戏内存分布概览](https://zhuanlan.zhihu.com/p/370467923)
 - [分析Unity在移动设备的GPU内存机制](https://zhuanlan.zhihu.com/p/50632856)
 - [解决unity3d mono内存问题的架构思路](https://zhuanlan.zhihu.com/p/379371712)
@@ -5370,6 +5379,7 @@ Showing off the power of shader properties in Unity
 - [Lattice](https://github.com/Pontoco/Lattice) A visual scripting system for Unity ECS. Quickly create gameplay logic.
 - [UnityVisualPlayable](https://github.com/SolarianZ/UnityVisualPlayable)
 - [Ceres](https://github.com/AkiKurisu/Ceres) Powerful node based visual scripting toolkit for Unity.
+- [function-player](https://assetstore.unity.com/packages/tools/utilities/function-player-329120#)
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
@@ -5402,6 +5412,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/ChebanovDD/UnityMvvmToolkit
 - https://github.com/LibraStack/UnityMvvmToolkit
 - https://github.com/jbruening/ugui-mvvm
+- [aspid-mvvm](https://assetstore.unity.com/packages/tools/utilities/aspid-mvvm-298463)
 - [gods-globally-observable-data-structures-294571](https://assetstore.unity.com/packages/tools/utilities/gods-globally-observable-data-structures-294571)
 - https://github.com/XuToWei/CodeBind
 - https://github.com/ls9512/UBind
@@ -5675,6 +5686,8 @@ Showing off the power of shader properties in Unity
 - [CsprojModifier](https://github.com/Cysharp/CsprojModifier) CsprojModifier performs additional processing when Unity Editor generates the .csproj. 
 - https://github.com/kandreyc/unity-csharp-patch
 - https://github.com/apkd/UnityDemystifier
+- https://github.com/Sergio0694/PolySharp
+- https://github.com/apkd/Medicine
 
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
@@ -6161,6 +6174,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
  - [dynamic-icon](https://github.com/dreamcodestudio/com.dreamcode.mobile.dynamic-icon)
 ## Unity-Games
 - https://github.com/liuhaopen/UnityMMO
+- https://github.com/hutian23/ETScript 基于ET7复刻《苍翼混沌效应》《街头霸王6》战斗系统
 - [Unity-Hyper-FPS-FrameWork-](https://github.com/InboraStudio/Unity-Hyper-FPS-FrameWork-Open-Source-)
 - https://github.com/freezy/VisualPinball.Engine
 - https://github.com/136512892/Unity-Multiplayer
@@ -6225,7 +6239,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 ## 问答
 > 强烈推荐阅读 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)、[《如何向开源社区提问题》](https://github.com/seajs/seajs/issues/545) 和 [《如何有效地报告 Bug》](http://www.chiark.greenend.org.uk/%7Esgtatham/bugs-cn.html)、[《如何向开源项目提交无法解答的问题》](https://zhuanlan.zhihu.com/p/25795393)，更好的问题更容易获得帮助。
 
-
+ 
 ## 写作
 - [赫蹏](https://sivan.github.io/heti/)
 - [中文技术文档写作风格指南 ](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
@@ -6260,6 +6274,10 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://youquhome.com/ 
 - https://github.com/geekan/HowToLiveLonger
 - https://cook.yunyoujun.cn/
+- https://github.com/Gar-b-age/CookLikeHOC
+- https://github.com/Anduin2017/HowToCook
+- https://github.com/worryzyy/HowToCook-mcp
+- https://github.com/liu-ziting/what-to-eat
 - https://ascii.today/
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 - http://www.iqsuperman.net/ IQ 超人
