@@ -220,6 +220,7 @@
 - https://github.com/kyrolabs/awesome-agents
 
 ### Framework
+- https://github.com/TencentCloudADP/youtu-agent
 - https://github.com/ashishpatel26/500-AI-Agents-Projects
 - [rowboat](https://github.com/rowboatlabs/rowboat) AI-powered multi-agent builder
 - https://github.com/evalstate/fast-agent
@@ -283,6 +284,9 @@
 
 ### Benchmark
 - https://www.tbench.ai/
+- https://gaia-benchmark-leaderboard.hf.space/
+- https://huggingface.co/spaces/gaia-benchmark/leaderboard
+- https://www.swebench.com/
 
 ## claude-code
 - https://github.com/JessyTsui/Claude-Code-Remote
@@ -324,4 +328,16 @@
 ## Code2Video
 https://github.com/showlab/Code2Video
 
+
+
+## Agent-Book
+- https://github.com/ginobefun/agentic-design-patterns-cn
+- https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
+
+### Video
+- https://space.bilibili.com/28321599
+
+
+### Application
+- https://github.com/filip-michalsky/SalesGPT
 

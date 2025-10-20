@@ -312,6 +312,7 @@ Table of Contents
     - [Dependency Injection](#dependency-injection)
 - [GamePlay](#gameplay)
   - [GameAI](#gameai)
+    - [LLM-GAME-AI](#llm-game-ai)
   - [Chat/Dialogue](#chatdialogue)
   - [Tutorial](#tutorial)
   - [Skill](#skill)
@@ -1049,6 +1050,7 @@ Table of Contents
 - [studio](https://vroid.com/en/studio) 3D Character Creation Software
 - [reallusion](https://www.reallusion.com/) URP Support:[cc_unity_tools_URP](https://github.com/soupday/cc_unity_tools_URP)
 - [com.unity.demoteam.digital-human](https://github.com/Unity-Technologies/com.unity.demoteam.digital-human) Library of tech features used to realize the digital human from The Heretic and Enemies.
+- https://github.com/GeoffreyGorisse/VHProject Virtual human (avatar and agent) procedural animation toolkit for Unity.
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - https://github.com/murasaqi/Unity_StageLightManeuver
 - [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin)
@@ -1069,6 +1071,7 @@ Table of Contents
  - https://github.com/kodai100/Unity_ARKitFacialCapture
  - https://github.com/prefrontalcortex/DomeTools
  - https://github.com/YUANZHUO-BNU/metahuman_overview
+ - https://github.com/Lingotion/lingotion-thespeon-unity Lingotion Thespeon is an on-device AI engine designed to generate real-time character acting and voiceovers
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -1578,6 +1581,7 @@ Table of Contents
 - https://github.com/ShiinaRinne/EasyTimeline
 - https://github.com/ayaha401/AssetDependenciesFromTimeline-SourceCode
 ## Console/Command/Shell/Debugger
+- https://github.com/AlanLiu90/GShell
 - [Unity-DeveloperConsole](https://github.com/DavidF-Dev/Unity-DeveloperConsole)
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
 - [BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole)
@@ -1725,6 +1729,7 @@ Table of Contents
 * https://github.com/EricHu33/UnityGrassIndirectRenderingExample
 * https://github.com/roundyyy/ProceduralGrassGenerator
 * https://github.com/Remyuu/Unity-Interactive-Grass
+* https://github.com/AkilarLiao/UnityURP-Procedural-DrawMeshInstancedIndirect
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -1952,6 +1957,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/Singulink/Singulink.IO.FileSystem 
 - https://github.com/tagcode/Lexical.FileSystem
 - https://github.com/dre0dru/LocalStorage
+- https://github.com/BayatGames/SaveGameFree/
 - https://github.com/ByronMayne/UnityIO
 - https://github.com/lucasmeijer/NiceIO
 - GIO：一个现代和易用的 VFS API。[GNU LGPL2.1]。[官网](https://developer.gnome.org/gio/)
@@ -2312,7 +2318,12 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
 #### Common-Server
-- [sylar](https://github.com/sylar-yin/sylar)  C++高性能分布式服务器框架
+- [sylar](https://github.com/syl
+- 
+- 
+- 
+-     
+-     ar-yin/sylar)  C++高性能分布式服务器框架
 ## Serialization
 - https://github.com/Levchenkov/NetCode
 - https://github.com/rikimaru0345/Ceras
@@ -2562,6 +2573,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/datalust/superpower
 - https://github.com/werwolfby/Zeroshtein 
 - https://github.com/dotnet/project-system
+- https://github.com/LdotJdot/TDSContent
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -4018,8 +4030,10 @@ Showing off the power of shader properties in Unity
 - [渲染状态改变消耗详情](https://blog.csdn.net/cubesky/article/details/77674201)
 - [Notes on ddx/ddy](http://fushigi-hako.site/2019/08/25/Notes-on-ddx-ddy/)
 - [关于ddx/ddy的一些思考和测试](https://zhuanlan.zhihu.com/p/594028291)
+
 ##### URP/SPR/HDRP Course
 - [MeasuredMaterialLibraryURP](https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP)
+- [shaderacademy](https://shaderacademy.com/) 
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
 - [译 URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
 - [Universal RP Unity通用渲染管线学习](https://zhuanlan.zhihu.com/p/84908168)
@@ -4111,6 +4125,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Fewes/CloudNoiseGen
 - https://github.com/stegu/psrdnoise
 - https://github.com/xshazwar/noize-job
+- https://github.com/krubbles/NoiseDotNet
 
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
@@ -4118,6 +4133,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Delt06/aaaa-rp
 - https://github.com/ahd2/AHD2-TODSystem
 - https://github.com/aras-p/UnityGaussianSplatting
+- https://github.com/wuyize25/gsplat-unity
 - https://github.com/StressLevelZero
 - https://github.com/alelievr/HDRP-Mobile
 - https://github.com/Valax321/RadishRenderPipeline
@@ -4597,6 +4613,7 @@ Showing off the power of shader properties in Unity
 - [色彩空间基础](https://zhuanlan.zhihu.com/p/24214731)
 - [漫谈HDR和色彩管理](https://zhuanlan.zhihu.com/p/129095380)
 - [色彩原理](https://docs.krita.org/zh_CN/general_concepts/colors.html)
+- https://github.com/keijiro/Pugrad Pugrad is a color gradient generator for Unity that provides a set of widely used
 - [停止扯淡！！漫谈显示器色彩管理](https://zhuanlan.zhihu.com/p/19648994)
 - [颜色：原理和应用](https://ppt.baomitu.com/d/c887a533#/)
 - [浅谈伽玛和线性颜色空间](https://www.gameres.com/811214.html)
@@ -4928,6 +4945,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/kwan3854/Unity-NOPE
 - https://github.com/Cysharp/R3
 - https://assetstore.unity.com/packages/tools/utilities/gods-globally-observable-data-structures-294571
+- https://github.com/nekoya404/UniFP-Functional-Programming-for-Unity
 ## C
 - https://github.com/nothings/stb
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。建议源码阅读顺序为：main ->startup ->accept_request ->execute_cgi, 通晓主要工作流程后再仔细把每个函数的源码看一看。这500行代码吃透了，C语言的功底就会大幅提升。
@@ -5224,6 +5242,8 @@ Showing off the power of shader properties in Unity
 - https://github.com/Enzx/NxGraph NxGraph is a zero-allocation runtime, high-performance finite state machine (FSM) framework for .NET 8+, designed for scenarios where execution speed, memory efficiency, and runtime safety are critical.
 - https://github.com/Yuan-ManX/ai-game-development-tools
 - https://github.com/baponkar/zombie-ai
+#### LLM-GAME-AI
+- https://github.com/KsanaDock/Microverse
 ###  Chat/Dialogue
 - https://github.com/AkiKurisu/Next-Gen-Dialogue/
 - https://github.com/hafewa/unity-AI-Chat-Toolkit
@@ -5444,6 +5464,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/gilzoide/unity-flex-ui
 - https://github.com/chasinghope/CurveLayoutGroup
 - https://github.com/niwatly/SectorLayoutGroup
+- https://github.com/tetr4lab/FitForScreen
 - https://github.com/zambari/LayoutPanel.UI.Unity
 - https://assetstore.unity.com/packages/tools/gui/ui-position-clamp-keep-recttransform-on-screen-315346
 - [flexalon-ui-layouts](https://assetstore.unity.com/packages/tools/gui/flexalon-ui-layouts-254652)
@@ -5865,6 +5886,7 @@ Showing off the power of shader properties in Unity
  
  #### Mesh 
  - [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
+ - [fbx-editor-332318](https://assetstore.unity.com/packages/tools/modeling/fbx-editor-332318)
  - [mesh-baker](https://assetstore.unity.com/packages/tools/modeling/mesh-baker-5017)
  - https://github.com/OlegDzhuraev/MeshBaker
  - [skinned-mesh-combiner](https://assetstore.unity.com/packages/templates/systems/skinned-mesh-combiner-mt-135422)
@@ -5997,7 +6019,8 @@ Showing off the power of shader properties in Unity
 - [Choosing the Right Load Type in Unity’s Audio Import Settings](https://medium.com/@made-indrayana/choosing-the-right-load-type-in-unitys-audio-import-settings-1880a61134c7)
 - [Unity 下网格内存的优化](https://mp.weixin.qq.com/s/OB5oyokEhf1psyzsFvgjoQ)
 - [Unity 下网格内存的优化](https://zhuanlan.zhihu.com/p/396822196)
-- https://github.com/starburst997/Unity.Trimmer 
+- https://github.com/starburst997/Unity.Trimmer
+- [unity-audio-optimisation-tips](https://gamedevbeginner.com/unity-audio-optimisation-tips/)
 - [missing-component-info](https://github.com/zhaoguohao/missing-component-info)
 - [Unity-Textures-Hunter](https://github.com/AlexeyPerov/Unity-Textures-Hunter)
 - [Unity-MissingReferences-Hunter](https://github.com/AlexeyPerov/Unity-MissingReferences-Hunter)
@@ -6012,6 +6035,7 @@ Showing off the power of shader properties in Unity
 - [SceneMaterialManager](https://github.com/roundyyy/SceneMaterialManager)
 - [missing-reference-fixer](https://assetstore.unity.com/packages/tools/utilities/missing-reference-fixer-316285)
 - [texture-converter-pro](https://assetstore.unity.com/packages/tools/utilities/texture-converter-pro-advanced-format-export-tool-322759)
+- https://github.com/RimuruDev/Unity-MissingScriptsFinder
 
 #### PackageManager
 - https://github.com/quabug/unity-pack Create an Unity Package from directory
