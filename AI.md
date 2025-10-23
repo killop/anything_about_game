@@ -64,6 +64,9 @@
 - https://github.com/panyanyany/Awesome-ChatTTS
 - https://github.com/Camb-ai/MARS5-TTS
 - https://elevenlabs.io/v3
+- https://github.com/DrewThomasson/ebook2audiobook
+- https://github.com/fishaudio/fish-speech
+- https://huggingface.co/spaces/TTS-AGI/TTS-Arena-V2
 
 ### Animation
 - [EDGE](https://github.com/Stanford-TML/EDGE)
@@ -229,6 +232,7 @@
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/ruvnet/claude-flow/
 - https://github.com/emcie-co/parlant
+- https://github.com/Xtra-Computing/MegaAgent
 ### Common Agent
 - https://github.com/kortix-ai/suna
 - https://github.com/simular-ai/Agent-S
@@ -332,6 +336,7 @@ https://github.com/showlab/Code2Video
 
 ## Agent-Book
 - https://github.com/ginobefun/agentic-design-patterns-cn
+- https://adp.xindoo.xyz/
 - https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
 
 ### Video

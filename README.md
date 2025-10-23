@@ -5487,7 +5487,7 @@ Showing off the power of shader properties in Unity
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
 - [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)  牛逼的雷达进度条
 - [Progress-Bar](https://github.com/MirzaBeig/Animated-Progress-Bar-Shader-Graph)
-
+- [progress-bar-system](https://assetstore.unity.com/packages/tools/gui/progress-bar-system-330540)
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) 最好的ui 特效组件
 - [UnityUiParticles](https://github.com/ken48/UnityUiParticles)
 - [ui-particle-image](https://assetstore.unity.com/packages/tools/gui/ui-particle-image-235001) unity-plugin
@@ -5589,6 +5589,8 @@ Showing off the power of shader properties in Unity
 - [RTSCameraController-Cinemachine](https://github.com/Nickk888SAMP/RTSCameraController-Cinemachine)
 - [UnityCinematicControl](https://github.com/andreasbaumde/UnityCinematicControl)
 - https://github.com/lopespm/unity-camera-multi-target
+- https://assetstore.unity.com/packages/tools/camera/universal-strategy-camera-2-333458
+
 #### TextureStreaming
 - [TextureStreaming](https://docs.google.com/document/d/1P3OUoQ_y6Iu9vKcI5B3Vs2kWhQYSXe02h6YrkDcEpGM/edit#)
 #### Particle
