@@ -291,11 +291,13 @@
 - https://gaia-benchmark-leaderboard.hf.space/
 - https://huggingface.co/spaces/gaia-benchmark/leaderboard
 - https://www.swebench.com/
+- https://livecodebenchpro.com/
 
 ## claude-code
 - https://github.com/JessyTsui/Claude-Code-Remote
 - [cc使用技巧](https://www.cnblogs.com/heavenYJJ/p/19071441)
 - https://baoyu.io/translations/claude-code-framework-wars
+- https://github.com/UfoMiao/zcf
  
 ## LLM
 - https://github.com/liguodongiot/llm-resource

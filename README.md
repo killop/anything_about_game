@@ -106,6 +106,7 @@ Table of Contents
     - [article](#article-1)
 - [ScriptWebTool\&\&TUI](#scriptwebtooltui)
 - [Game-Server-framework](#game-server-framework)
+    - [Server-Monitoring](#server-monitoring)
     - [Article](#article-2)
     - [Lockstep](#lockstep)
     - [status-syn](#status-syn)
@@ -377,6 +378,7 @@ Table of Contents
 - [OCR](#ocr)
 - [游戏策划](#游戏策划)
     - [镜头](#镜头)
+- [Terminal](#terminal)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
 - [友情链接](#友情链接)
 - [看完不star，小心没jj :)!](#看完不star小心没jj-)
@@ -564,6 +566,7 @@ Table of Contents
 - [blogsilove](https://pema.dev/2022/07/29/blogsilove/)
 #### 中文
 - [日落间](https://xpaidia.com/)
+- [guofei.site](https://www.guofei.site/)
 - [pizi0475](https://blog.csdn.net/pizi0475)
 - [Unity尧明](https://blog.csdn.net/u013716859?)
 - [blurredcode](https://www.blurredcode.com/) 管线ta
@@ -2149,6 +2152,8 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://tsrpc.cn/
 - https://github.com/thkhxm/tgf
 
+#### Server-Monitoring
+- https://github.com/louislam/uptime-kuma A fancy self-hosted monitoring tool
 #### Article
 - [multiplayer-networking-ebook](https://unity.com/cn/blog/multiplayer-networking-ebook)
 - [determinism-league-legends-implementation](https://technology.riotgames.com/news/determinism-league-legends-implementation)
@@ -2318,12 +2323,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/spectre1989/unity_physics_csp
 - https://github.com/fbsamples/oculus-networked-physics-sample/
 #### Common-Server
-- [sylar](https://github.com/syl
-- 
-- 
-- 
--     
--     ar-yin/sylar)  C++高性能分布式服务器框架
+- [sylar](https://github.com/sylar-yin/sylar)  C++高性能分布式服务器框架
 ## Serialization
 - https://github.com/Levchenkov/NetCode
 - https://github.com/rikimaru0345/Ceras
@@ -3211,6 +3211,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/Fractural/GodotFixedVolatilePhysics
 - [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - [collision-rs](https://github.com/rustgd/collision-rs) A collision extension to cgmath 
+- [ballistics](https://assetstore.unity.com/packages/tools/physics/toolkit-for-ballistics-2026-337806)
 - https://github.com/MADEAPPS/newton-dynamics/ -newton-dynamics
 - [fcl](https://github.com/flexible-collision-library/fcl) The Flexible Collision Library
 - [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
@@ -3536,7 +3537,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
 #### SoftWare-Render 
-
+- [raylib](https://gamefromscratch.com/raylib-new-software-renderer/)
 - [mesa3d](https://www.mesa3d.org/) nothing to say :)
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) A brief computer graphics / rendering course 
 - [renderer](https://github.com/zauonlok/renderer) A shader-based software renderer written from scratch in C89
@@ -5292,6 +5293,7 @@ Showing off the power of shader properties in Unity
 - [动作游戏的动作系统是这样做的](https://mp.weixin.qq.com/s/MuySxYMjXZncKfwRDeE7HQ)
 - [action-timeline](https://assetstore.unity.com/packages/tools/utilities/action-timeline-273478)
 - [UniInk-高性能0GC的轻量化脚本逻辑解决方案](https://github.com/Arc-huangjingtong/UniInk-CSharpInterpreter4AOT)
+- [drakkar-vfx](https://assetstore.unity.com/packages/tools/integration/drakkar-vfx-304995)
 #### NOBUG
 - https://github.com/TheSakuraCherry/MMDarknessTimeline
 - https://github.com/NoBugCn/ActionEditor
@@ -5319,6 +5321,7 @@ Showing off the power of shader properties in Unity
 - [FrustumCullingSolution](https://github.com/BartoszWiszniewski/FrustumCullingSolution)
 - https://github.com/SoSoReally/RenderFeature_HizCull
 - [x-culling-pro-ultimate-performance-optimization-system](https://assetstore.unity.com/packages/tools/utilities/x-culling-pro-ultimate-performance-optimization-system-323779) 
+- [drakkar-culling-pro](https://assetstore.unity.com/packages/tools/integration/drakkar-culling-pro-323413)
 #### ShaderGraph&&Effect
 - [ShaderGraph暴力学习](https://www.bilibili.com/video/BV1ZE411W7Nz?)
 - [赵京宇](https://www.bilibili.com/video/BV1ut41197aQ)
@@ -5653,6 +5656,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/GaryMcWhorter/Verlet-Chain-Unity
 - https://github.com/EricHu33/Verlet-Integration-In-Unity
 - https://github.com/survivorr9049/LineRenderer3D
+- [verlet](https://assetstore.unity.com/packages/tools/physics/toolkit-for-verlet-motion-2026-337828) unity-plugin
 #### Unity-Update
 - https://github.com/sotanmochi/PlayerLooper
 - https://github.com/Refsa/PlayerLoopInjector
@@ -6038,6 +6042,7 @@ Showing off the power of shader properties in Unity
 - [missing-reference-fixer](https://assetstore.unity.com/packages/tools/utilities/missing-reference-fixer-316285)
 - [texture-converter-pro](https://assetstore.unity.com/packages/tools/utilities/texture-converter-pro-advanced-format-export-tool-322759)
 - https://github.com/RimuruDev/Unity-MissingScriptsFinder
+- [project-verification](https://assetstore.unity.com/packages/tools/utilities/project-verification-2-0-pro-find-and-fix-errors-in-your-project-333892)
 
 #### PackageManager
 - https://github.com/quabug/unity-pack Create an Unity Package from directory
@@ -6096,6 +6101,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [UniFlux](https://github.com/xavierarpa/UniFlux) Easy to use, Super Optimized, Typed Event Driven with Flux for Unity.
 - https://github.com/codewriter-packages/UniMob/
 - [schedule](https://github.com/FelixBole/schedule-master)
+- [drakkar-events](https://assetstore.unity.com/packages/tools/integration/drakkar-events-302282)
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
@@ -6295,6 +6301,10 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://zhuanlan.zhihu.com/p/371213488 
 - https://zhuanlan.zhihu.com/p/22098814 
 - https://zhuanlan.zhihu.com/p/411366466
+
+## Terminal
+- https://github.com/wavetermdev/waveterm
+ 
 ## Interest is the best teacher 
 - https://github.com/alaskasquirrel/Chinese-Podcasts
 - https://youquhome.com/ 
