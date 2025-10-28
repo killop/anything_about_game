@@ -1556,6 +1556,7 @@ Table of Contents
 - https://github.com/lgarczyn/AnimateUIMaterials
 - https://github.com/mob-sakai/UIMaterialPropertyInjector
 - https://github.com/medvejut/dotween-timeline
+- https://github.com/AFindex/AI_Animation
  
  #### Timeline
 - [TimelineExtensions](https://github.com/ShiinaRinne/TimelineExtensions) 
