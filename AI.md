@@ -233,6 +233,8 @@
 - https://github.com/ruvnet/claude-flow/
 - https://github.com/emcie-co/parlant
 - https://github.com/Xtra-Computing/MegaAgent
+- https://github.com/Kong/volcano-sdk The TypeScript SDK for Multi-Provider AI Agents
+- https://github.com/lupantech/AgentFlow
 ### Common Agent
 - https://github.com/kortix-ai/suna
 - https://github.com/simular-ai/Agent-S
@@ -292,6 +294,7 @@
 - https://huggingface.co/spaces/gaia-benchmark/leaderboard
 - https://www.swebench.com/
 - https://livecodebenchpro.com/
+- https://artificialanalysis.ai/
 
 ## claude-code
 - https://github.com/JessyTsui/Claude-Code-Remote
@@ -311,9 +314,6 @@
 - https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-vscode
 - https://github.com/biegehydra/bifrostmcp
 
-
-### trading
-- https://github.com/TauricResearch/TradingAgents
 
 
 ### awesome-llm-apps
@@ -348,3 +348,16 @@ https://github.com/showlab/Code2Video
 ### Application
 - https://github.com/filip-michalsky/SalesGPT
 
+
+## Code-Review
+- https://github.com/lintsinghua/XCodeReviewer
+
+## Translate
+- [AiNiee](https://github.com/NEKOparapa/AiNiee)一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本
+- [DeekSeek-OCR](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API) A powerful OCR solution that converts PDF documents to Markdown format using DeepSeek-OCR with FastAPI backend. This project provides both a batch processing script and a REST API for flexible document conversion.
+ 
+ ## GPT-Research
+ - https://github.com/setls/HacxGPT Advanced Adversarial AI Framework — a research-oriented system exploring the boundaries of autonomous reasoning and secure language model behavior.
+
+## Paper
+- https://github.com/YuhangChen1/Paper2All

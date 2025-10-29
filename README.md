@@ -169,6 +169,7 @@ Table of Contents
     - [Sky](#sky)
 - [Game-BenchMark/Metric/Tool](#game-benchmarkmetrictool)
     - [Common](#common-1)
+  - [Google Analytics](#google-analytics)
     - [GPU](#gpu)
 - [ComputerGraphics \&\& Shadingv](#computergraphics--shadingv)
     - [Conference](#conference)
@@ -3381,6 +3382,12 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [needle-console](https://github.com/needle-tools/needle-console)
 - [UnityIL2CPP包Crash闪退利用Android Logcat还原符号表堆栈日志](https://www.jianshu.com/p/2000f524879d)
 - https://github.com/Palatis/XAppDebug
+  
+### Google Analytics
+- https://github.com/umami-software/umami  Umami is a modern, privacy-focused alternative to Google Analytics.
+- https://github.com/rybbit-io/rybbit Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
+- https://github.com/matomo-org/matomo Web & app analytics for teams who demand accuracy
+- https://github.com/plausible/analytics Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 #### GPU
 
 - https://github.com/taptap/render-doctor
