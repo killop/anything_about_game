@@ -42,7 +42,10 @@
 
 ## Prompt
 - https://baoyu.io/blog/google-prompt-engineering-whitepaper
+- https://github.com/1Haschwalth/prompt-engineering/
+- https://www.promptingguide.ai/zh
 - https://github.com/dair-ai/Prompt-Engineering-Guide
+- https://learnprompting.org/zh-Hans
 - https://github.com/EmbraceAGI/awesome-chatgpt-zh
 - https://github.com/rockbenben/ChatGPT-Shortcut
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -131,6 +134,7 @@
 
 ### Article
 - https://agent-tars.com/2025/03/25/mcp-brings-a-new-paradigm-to-layered-ai-app-development
+- https://zhuanlan.zhihu.com/p/1966898272238035080 用过上百款编程MCP，只有这15个真正好用，Claude Code与Codex配置MCP详细教程
 - https://www.cnblogs.com/BNTang/p/18815937
 - https://www.bilibili.com/video/BV1TEo6YGEnk/
 - https://blog.csdn.net/qq_37172634/article/details/123996775
@@ -235,6 +239,8 @@
 - https://github.com/Xtra-Computing/MegaAgent
 - https://github.com/Kong/volcano-sdk The TypeScript SDK for Multi-Provider AI Agents
 - https://github.com/lupantech/AgentFlow
+- https://github.com/crewAIInc/crewAI
+- https://github.com/agno-agi/agno
 ### Common Agent
 - https://github.com/kortix-ai/suna
 - https://github.com/simular-ai/Agent-S
@@ -261,7 +267,7 @@
 - https://github.com/BerriAI/litellm
 
 
-### RAG
+## RAG
 - https://github.com/HKUDS/RAG-Anything
 - https://github.com/bytedance-seed/m3-agent
 - https://github.com/topoteretes/cognee
@@ -272,6 +278,7 @@
 - [helix-db](https://github.com/HelixDB/helix-db) HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI
 - [graph-rag-agent](https://github.com/1517005260/graph-rag-agent) 拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架|
 - https://github.com/MemTensor/MemOS
+- https://rag.deeptoai.com/
 ### Local LLM
 - https://github.com/vllm-project/vllm
 - https://github.com/datawhalechina/self-llm/
@@ -301,7 +308,7 @@
 - [cc使用技巧](https://www.cnblogs.com/heavenYJJ/p/19071441)
 - https://baoyu.io/translations/claude-code-framework-wars
 - https://github.com/UfoMiao/zcf
- 
+- https://github.com/travisvn/awesome-claude-skills 
 ## LLM
 - https://github.com/liguodongiot/llm-resource
 - https://github.com/liguodongiot/ai-system
@@ -351,6 +358,7 @@ https://github.com/showlab/Code2Video
 
 ## Code-Review
 - https://github.com/lintsinghua/XCodeReviewer
+- https://d.aigclink.ai/OpenAI-Aardvark-GPT-5-29a9857c0f478078b391d41096db2067
 
 ## Translate
 - [AiNiee](https://github.com/NEKOparapa/AiNiee)一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本
@@ -361,3 +369,7 @@ https://github.com/showlab/Code2Video
 
 ## Paper
 - https://github.com/YuhangChen1/Paper2All
+
+## Knowledge-Learn
+- https://rushiwowen.co/chat 佛教
+- https://maoxuan.wang/ 毛选

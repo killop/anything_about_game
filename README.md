@@ -536,11 +536,10 @@ Table of Contents
 - https://lobste.rs/ lobste
 - http://www.ruanyifeng.com/blog/
 - https://hellogithub.com/
-- https://www.tuicool.com/mags
 - https://github.com/toutiaoio/weekly.manong.io
-- https://geeker-read.com/#/latest
 - https://coolshell.cn/
 - https://insights.thoughtworks.cn/
+- https://git-stars.org/
 #### Js/Web
 - https://www.webaudioweekly.com/
 - https://github.com/dt-fe/weekly 
@@ -1587,6 +1586,7 @@ Table of Contents
 - https://github.com/ayaha401/AssetDependenciesFromTimeline-SourceCode
 ## Console/Command/Shell/Debugger
 - https://github.com/AlanLiu90/GShell
+- https://github.com/LittleLittleCloud/RazorConsole
 - [Unity-DeveloperConsole](https://github.com/DavidF-Dev/Unity-DeveloperConsole)
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
 - [BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole)
@@ -6349,6 +6349,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://www.yuque.com/greatghoul/remote 远程工作
 - https://ctext.org/book-of-poetry/zhs 中国哲学电子书
 * [Awesome-offer](https://github.com/lietoumai/Awesome-offer) 
+* https://github.com/maxiaobang7/ossnav 开源精选：探索免费优质的开源软件工具，尽享数字自由
 ## 友情链接 
 * [Unity-Memo](https://github.com/wy19910222/Unity-Memo) 本仓库用来备忘一些Unity相关的技术，包括API、算法、实现效果、某些问题的解决方案等。
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
