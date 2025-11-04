@@ -379,7 +379,7 @@ Table of Contents
 - [OCR](#ocr)
 - [游戏策划](#游戏策划)
     - [镜头](#镜头)
-- [Terminal](#terminal)
+- [Terminal-Shell](#terminal-shell)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
 - [友情链接](#友情链接)
 - [看完不star，小心没jj :)!](#看完不star小心没jj-)
@@ -6310,8 +6310,9 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://zhuanlan.zhihu.com/p/22098814 
 - https://zhuanlan.zhihu.com/p/411366466
 
-## Terminal
+## Terminal-Shell
 - https://github.com/wavetermdev/waveterm
+- https://github.com/nashaofu/shell360
  
 ## Interest is the best teacher 
 - https://github.com/alaskasquirrel/Chinese-Podcasts
@@ -6348,6 +6349,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/itgoyo/TelegramGroup
 - https://www.yuque.com/greatghoul/remote 远程工作
 - https://ctext.org/book-of-poetry/zhs 中国哲学电子书
+- https://github.com/mgks/docmd  Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 * [Awesome-offer](https://github.com/lietoumai/Awesome-offer) 
 * https://github.com/maxiaobang7/ossnav 开源精选：探索免费优质的开源软件工具，尽享数字自由
 ## 友情链接 

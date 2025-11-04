@@ -42,6 +42,7 @@
 
 ## Prompt
 - https://baoyu.io/blog/google-prompt-engineering-whitepaper
+- https://github.com/adithya-s-k/AI-Engineering.academy Mastering Applied AI, One Concept at a Time
 - https://github.com/1Haschwalth/prompt-engineering/
 - https://www.promptingguide.ai/zh
 - https://github.com/dair-ai/Prompt-Engineering-Guide
@@ -83,6 +84,7 @@
 ## Nano
 - https://github.com/PicoTrex/Awesome-Nano-Banana-images
 - https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation
+- https://github.com/gemini-cli-extensions/nanobanana
 ## ComfyUI
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
@@ -246,6 +248,7 @@
 - https://github.com/simular-ai/Agent-S
 - https://github.com/hexdocom/lemonai
 - https://github.com/camel-ai/owl
+- https://github.com/Fosowl/agenticSeek
 ### Code-Ide
 - https://github.com/langchain-ai/mcpdoc
 - https://github.com/gersteinlab/LocAgent
@@ -309,6 +312,10 @@
 - https://baoyu.io/translations/claude-code-framework-wars
 - https://github.com/UfoMiao/zcf
 - https://github.com/travisvn/awesome-claude-skills 
+- https://github.com/rz1989s/claude-code-statusline
+- https://github.com/Njengah/claude-code-cheat-sheet
+- https://github.com/yusufkaraaslan/Skill_Seekers
+- https://github.com/diet103/claude-code-infrastructure-showcase
 ## LLM
 - https://github.com/liguodongiot/llm-resource
 - https://github.com/liguodongiot/ai-system
@@ -337,10 +344,12 @@
 ## Context-Engineering
 - https://github.com/Meirtz/Awesome-Context-Engineering
 - [从 Prompt 到 Context：基于 1400+ 论文的 Context Engineering 系统综述](https://mp.weixin.qq.com/s/G5BUoM12vu2dWfxzIrAcfg)
+- [上下文工程 | Chris Loy](https://baoyu.io/translations/context-engineering-part-of-ml)
+- [Context2](https://arxiv.org/abs/2510.26493v1)
 
 ## Code2Video
-https://github.com/showlab/Code2Video
-
+- https://github.com/showlab/Code2Video
+- https://github.com/HarleyCoops/Math-To-Manim
 
 
 ## Agent-Book
@@ -373,3 +382,10 @@ https://github.com/showlab/Code2Video
 ## Knowledge-Learn
 - https://rushiwowen.co/chat 佛教
 - https://maoxuan.wang/ 毛选
+
+## RL-LLM
+- https://ernestryu.com/courses/RL-LLM.html
+
+
+## Robot
+- https://github.com/huggingface/lerobot
