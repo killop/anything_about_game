@@ -1,5 +1,6 @@
 ## AIGC
 ### News
+- https://aicoding.100kwhy.fun/
 - https://d.aigclink.ai/fe1ce99bc6a64266aa1ee5479c8e6da6?
 - https://ai.codefather.cn/#%E7%B2%BE%E9%80%89%E8%B5%84%E6%BA%90
 - https://github.com/karminski/one-small-step
