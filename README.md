@@ -112,6 +112,7 @@ Table of Contents
     - [status-syn](#status-syn)
     - [Library](#library)
     - [Common-Server](#common-server)
+    - [Security](#security)
 - [Serialization](#serialization)
     - [Json](#json)
     - [Yaml](#yaml)
@@ -369,7 +370,7 @@ Table of Contents
 - [知识库软件/笔记软件/思维构造工具](#知识库软件笔记软件思维构造工具)
 - [Unity-Build](#unity-build)
 - [Mobile](#mobile)
-- [Unity-Games](#unity-games)
+- [Unity-Games\&\&OpenSource-Games](#unity-gamesopensource-games)
 - [Programmer-Common-Tool](#programmer-common-tool)
 - [Package](#package)
 - [workflow](#workflow)
@@ -378,8 +379,9 @@ Table of Contents
 - [写作](#写作)
 - [OCR](#ocr)
 - [游戏策划](#游戏策划)
-    - [镜头](#镜头)
+    - [镜头设计](#镜头设计)
 - [Terminal-Shell](#terminal-shell)
+- [Windows-Optimizer](#windows-optimizer)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
 - [友情链接](#友情链接)
 - [看完不star，小心没jj :)!](#看完不star小心没jj-)
@@ -1313,6 +1315,8 @@ Table of Contents
 #### GPU-Animation
 - [GPU-Skinning-Demo](https://github.com/Minghou-Lei/GPU-Skinning-Demo)
 - [stadium-crowd-generator](https://assetstore.unity.com/packages/tools/modeling/stadium-crowd-generator-203643)
+- [mesh-animation-baker-gpu-optimized](https://assetstore.unity.com/packages/tools/animation/mesh-animation-baker-gpu-optimized-crowd-animation-334856)
+- [animecs-337808](https://assetstore.unity.com/packages/tools/animation/animecs-337808)
 - [Unity-Gpu-Skinning-Tool](https://github.com/ForeverZack/Unity-Gpu-Skinning-Tool)
 - [Animation-Texture-Bake](https://github.com/sugi-cho/Animation-Texture-Baker)
 - [GPU_Mesh_Instancing](https://github.com/studentutu/GPU_Mesh_Instancing)
@@ -1381,6 +1385,7 @@ Table of Contents
  
 #### Physics Based Animation
 - [physicsbasedanimation](http://www.physicsbasedanimation.com/)
+- [JigglePhysics](https://github.com/naelstrof/JigglePhysics)
 - [CSC417-physics-based-animation](https://github.com/dilevin/CSC417-physics-based-animation)
 - [goatstream](https://www.goatstream.com/research/)
 - [animation](https://www.animation.rwth-aachen.de/)
@@ -1430,6 +1435,7 @@ Table of Contents
 - [footstepper-complete-footstep-solution](https://assetstore.unity.com/packages/tools/animation/footstepper-complete-footstep-solution-159431)   
 #### Animation-Controller
 - [targetwarp-motion-warping](https://assetstore.unity.com/packages/tools/animation/targetwarp-motion-warping-314335?aid=1100lpo99)
+- [character-animation-system](https://assetstore.unity.com/packages/tools/animation/character-animation-system-320309)
 - https://github.com/hiroki-o/VoxBlend unity  表情
 - https://github.com/rurre/PumkinsAvatarTools unity 表情
 - https://github.com/huailiang/knead_proj unity  捏脸
@@ -1586,6 +1592,7 @@ Table of Contents
 - https://github.com/ayaha401/AssetDependenciesFromTimeline-SourceCode
 ## Console/Command/Shell/Debugger
 - https://github.com/AlanLiu90/GShell
+- https://github.com/jinek/Consolonia
 - https://github.com/LittleLittleCloud/RazorConsole
 - [Unity-DeveloperConsole](https://github.com/DavidF-Dev/Unity-DeveloperConsole)
 - [Typin](https://github.com/adambajguz/Typin) Declarative framework for interactive CLI applications 
@@ -1624,6 +1631,7 @@ Table of Contents
 - [runtime-monitoring](https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring)
 - [Unity.Mx](https://github.com/jcs090218/Unity.Mx) Mx (or Meta-X) is a command-based completion framework. It allows you to execute all kinds of tasks based on your design. Mx is an alternate to attribute MenuItem; by contrast, doing multiple tasks is possible. It gives you the option to choose and explore unnoticed commands.
 - [livewatch](https://assetstore.unity.com/packages/tools/utilities/livewatch-debug-with-full-history-of-changes-300573)
+- [debug-filter](https://assetstore.unity.com/packages/tools/utilities/debug-filter-319186)
 
 ## Scenes
 #### Terrain
@@ -2326,6 +2334,8 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/fbsamples/oculus-networked-physics-sample/
 #### Common-Server
 - [sylar](https://github.com/sylar-yin/sylar)  C++高性能分布式服务器框架
+#### Security
+- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 ## Serialization
 - https://github.com/Levchenkov/NetCode
 - https://github.com/rikimaru0345/Ceras
@@ -3705,6 +3715,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - https://mini.gmshaders.com/
 - [CgFX-Shader-Compilation](https://github.com/steaklive/CgFX-Shader-Compilation)
 - [Unity-Advanced-Shaders-Tutorial](https://github.com/Habrador/Unity-Advanced-Shaders-Tutorial) Implementation of advanced shaders in Unity like raytracing, interior mapping, parallax mapping
+- [litplus-urp-enhanced-lit-shader](https://assetstore.unity.com/packages/vfx/shaders/litplus-urp-enhanced-lit-shader-328765)
 - [UNITY-Arc-system-Works-Shader](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader) Shader created to emulate the design style of Arc System Works games such as Guilty Gear and Dragon Ball FighterZ. Created using Amplify Shader Editor.
 - [Next-Generation-Character-Rendering](https://github.com/HigashiSan/Next-Generation-Character-Rendering)
 - https://github.com/MochiesCode/Mochies-Unity-Shaders
@@ -5664,6 +5675,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/GaryMcWhorter/Verlet-Chain-Unity
 - https://github.com/EricHu33/Verlet-Integration-In-Unity
 - https://github.com/survivorr9049/LineRenderer3D
+- https://github.com/Yword/Unity-SmoothLineTrail
 - [verlet](https://assetstore.unity.com/packages/tools/physics/toolkit-for-verlet-motion-2026-337828) unity-plugin
 #### Unity-Update
 - https://github.com/sotanmochi/PlayerLooper
@@ -5743,6 +5755,7 @@ Showing off the power of shader properties in Unity
 #### Drawing
 - [linefy](https://assetstore.unity.com/packages/tools/particles-effects/linefy-165393) unity-plugin
 - [fast-line-renderer](https://assetstore.unity.com/packages/tools/particles-effects/fast-line-renderer-for-unity-gpu-line-and-particle-system-54118)
+- [gl-line-renderer-urp-337490](https://assetstore.unity.com/packages/tools/particles-effects/gl-line-renderer-urp-337490) unity-plugin
 - [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167)
 - [aline](https://assetstore.unity.com/packages/tools/gui/aline-162772)
 - [draw-xxl-246836](https://assetstore.unity.com/packages/tools/utilities/draw-xxl-246836)
@@ -6212,7 +6225,8 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
  - [keystore](https://github.com/dreamcodestudio/com.dreamcode.mobile.android-keystore)
  - [unity-mobile-dialog-popup-native](https://github.com/khanhuitse05/unity-mobile-dialog-popup-native)
  - [dynamic-icon](https://github.com/dreamcodestudio/com.dreamcode.mobile.dynamic-icon)
-## Unity-Games
+## Unity-Games&&OpenSource-Games
+- https://github.com/bobeff/open-source-games
 - https://github.com/liuhaopen/UnityMMO
 - https://github.com/hutian23/ETScript 基于ET7复刻《苍翼混沌效应》《街头霸王6》战斗系统
 - [Unity-Hyper-FPS-FrameWork-](https://github.com/InboraStudio/Unity-Hyper-FPS-FrameWork-Open-Source-)
@@ -6303,7 +6317,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [国外游戏理论研究的前沿都在研究什么？](https://www.zhihu.com/question/50253977/answer/120147034)
  
 
-#### 镜头
+#### 镜头设计
 - https://www.zhihu.com/people/cptz-23
 - https://zhuanlan.zhihu.com/p/138144313 
 - https://zhuanlan.zhihu.com/p/371213488 
@@ -6313,6 +6327,10 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 ## Terminal-Shell
 - https://github.com/wavetermdev/waveterm
 - https://github.com/nashaofu/shell360
+- https://github.com/Gaurav-Gosain/tuios
+
+## Windows-Optimizer
+- https://github.com/Raphire/Win11Debloat
  
 ## Interest is the best teacher 
 - https://github.com/alaskasquirrel/Chinese-Podcasts

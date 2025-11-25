@@ -42,6 +42,7 @@
 
 ## Prompt
 - https://baoyu.io/blog/google-prompt-engineering-whitepaper
+- https://claude.com/blog/best-practices-for-prompt-engineering
 - https://github.com/adithya-s-k/AI-Engineering.academy Mastering Applied AI, One Concept at a Time
 - https://github.com/1Haschwalth/prompt-engineering/
 - https://www.promptingguide.ai/zh
@@ -118,10 +119,12 @@
 - https://github.com/AsyncFuncAI/deepwiki-open
 - https://github.com/AIDotNet/OpenDeepWiki
 - https://github.com/regenrek/deepwiki-mcp
+- https://fsoft-ai4code.github.io/CodeWiki/#
 - https://context7.com/
 - https://koala.token-ai.cn/
 - https://github.com/vanzan01/cursor-memory-bank
 - https://github.com/getzep/graphiti
+- https://github.com/Ryandonofrio3/osgrep
 
 #### PDF
 - https://doc2x.noedgeai.com/
@@ -171,9 +174,7 @@
 - https://github.com/Arodoid/UnityMCP
 - https://github.com/CoderGamester/mcp-unity
 - https://github.com/justinpbarnett/unity-mcp
-- https://github.com/Azreal42/YetAnotherUnityMcp
 - https://github.com/VR-Jobs/UnityMCPbeta
-- https://glama.ai/mcp/servers/@GrandMasterK414/unity-smithery-mcp
 - https://github.com/IvanMurzak/Unity-MCP
 - https://github.com/hatayama/uLoopMCP
 
@@ -271,6 +272,7 @@
 
 
 ## RAG
+- https://github.com/EverMind-AI/EverMemOS/
 - https://github.com/HKUDS/RAG-Anything
 - https://github.com/bytedance-seed/m3-agent
 - https://github.com/topoteretes/cognee
@@ -305,17 +307,22 @@
 - https://www.swebench.com/
 - https://livecodebenchpro.com/
 - https://artificialanalysis.ai/
-
+- https://contextarena.ai/
+- https://huggingface.co/spaces/lmgame/lmgame_bench
 ## claude-code
+- https://github.com/hesreallyhim/awesome-claude-code
 - https://github.com/JessyTsui/Claude-Code-Remote
 - [cc使用技巧](https://www.cnblogs.com/heavenYJJ/p/19071441)
 - https://baoyu.io/translations/claude-code-framework-wars
 - https://github.com/UfoMiao/zcf
-- https://github.com/travisvn/awesome-claude-skills 
+- https://github.com/travisvn/awesome-claude-skills
 - https://github.com/rz1989s/claude-code-statusline
 - https://github.com/Njengah/claude-code-cheat-sheet
 - https://github.com/yusufkaraaslan/Skill_Seekers
 - https://github.com/diet103/claude-code-infrastructure-showcase
+- https://github.com/ginobefun/deep-reading-analyst-skill/
+- https://github.com/anthropics/skills
+- https://skillsmp.com/
 ## LLM
 - https://github.com/liguodongiot/llm-resource
 - https://github.com/liguodongiot/ai-system
@@ -346,7 +353,8 @@
 - [从 Prompt 到 Context：基于 1400+ 论文的 Context Engineering 系统综述](https://mp.weixin.qq.com/s/G5BUoM12vu2dWfxzIrAcfg)
 - [上下文工程 | Chris Loy](https://baoyu.io/translations/context-engineering-part-of-ml)
 - [Context2](https://arxiv.org/abs/2510.26493v1)
-
+- https://github.com/airweave-ai/airweave
+- https://www.camel-ai.org/blogs/brainwash-your-agent-how-we-keep-the-memory-clean
 ## Code2Video
 - https://github.com/showlab/Code2Video
 - https://github.com/HarleyCoops/Math-To-Manim
@@ -356,6 +364,7 @@
 - https://github.com/ginobefun/agentic-design-patterns-cn
 - https://adp.xindoo.xyz/
 - https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
+- https://www.kaggle.com/whitepaper-introduction-to-agents
 
 ### Video
 - https://space.bilibili.com/28321599
@@ -389,3 +398,11 @@
 
 ## Robot
 - https://github.com/huggingface/lerobot
+
+## Workflow
+- https://github.com/gotalab/cc-sdd
+- https://kiro.dev/docs/specs/concepts/
+- https://github.com/amaynez/kiro-style-sdd
+
+## Doc
+- https://github.com/docfork/docfork-mcp
