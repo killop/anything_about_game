@@ -377,6 +377,7 @@ Table of Contents
 - [Auto Test](#auto-test)
 - [问答](#问答)
 - [写作](#写作)
+- [web-server](#web-server)
 - [OCR](#ocr)
 - [游戏策划](#游戏策划)
     - [镜头设计](#镜头设计)
@@ -2401,6 +2402,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://jsoneditoronline.org/
 - https://github.com/gateboxlab/Variant
 - https://github.com/json-everything/json-everything
+- https://modern-mermaid.live/
 #### Yaml
 - https://github.com/hadashiA/VYaml
 
@@ -2586,6 +2588,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/werwolfby/Zeroshtein 
 - https://github.com/dotnet/project-system
 - https://github.com/LdotJdot/TDSContent
+- https://github.com/aki-null/epsilon-script
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
 - https://github.com/casbin/Casbin.NET
@@ -2810,6 +2813,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/DaveGreen-Games/ShapeEngine?
 - https://www.raylib.com/
 #### 2D Engines and Frameworks
+- [sbox-public](https://github.com/Facepunch/sbox-public)
 - [Ambient](https://github.com/AmbientRun/Ambient) The multiplayer game engine
 - [galacean](https://github.com/galacean/engine) A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
 - [EvoEngine](https://github.com/edisonlee0212/EvoEngine) An early-stage, cross-platform interactive application and rendering framework.
@@ -4467,6 +4471,7 @@ Showing off the power of shader properties in Unity
 - https://logins.github.io/graphics/2020/10/31/D3D12ComputeShaders.html
 - https://www.3dgep.com/learning-directx-12-4/#Compute_Shaders
 - https://github.com/Robert-K/gpu-particles
+- https://github.com/REDSIM/GPUParticleVolumes/
 - https://github.com/Ninjajie/Fusion
 - https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders
 - https://github.com/EmmetOT/BufferSorter
@@ -5427,6 +5432,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
 #### UI
 - https://github.com/DevsDaddy/UIFramework
+- https://github.com/greatclock/w-framework
 - [uxtool](https://uxtool.netease.com/)
 - https://github.com/Eashiong/StackUI
 - https://github.com/dmitry-ivashenko/StatefulUI
@@ -5435,6 +5441,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/LiShengYang-yiyi/YIUI
 - https://github.com/Avalon712/UniVue
 - https://github.com/Avalon712/UniVue-Develop
+- https://github.com/Aleshmandr/Uice
 - [UnityGUI](https://github.com/coryleach/UnityGUI) UGUI Panel Systems for navigation, animation and more
 - [MacacaViewSystem](https://github.com/MacacaGames/MacacaViewSystem) ViewSystem is a element based UI management system based on Unity GUI
 - [Unity-Async-UIFrame](https://github.com/feifeid47/Unity-Async-UIFrame)
@@ -6305,6 +6312,9 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/typst/typst
 - https://github.com/HugoBlox/theme-academic-cv
 - https://github.com/shanleiguang/vRain
+  
+## web-server
+- https://github.com/antonmedv/gitmal
 
 ## OCR
 - https://github.com/chatdoc-com/OCRFlux
