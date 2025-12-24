@@ -1,3 +1,4 @@
+
 ## AIGC
 
 ### News
@@ -286,9 +287,12 @@
 - https://github.com/agno-agi/agno
 - https://github.com/Tokfinity/InfCode
 - https://github.com/Intelligent-Internet/ii-agent
+- https://github.com/julep-ai/julep
+
+### Platform
+- https://github.com/enricoros/big-AGI
 
 ### Common Agent
-
 - https://github.com/kortix-ai/suna
 - https://github.com/simular-ai/Agent-S
 - https://github.com/hexdocom/lemonai
@@ -318,7 +322,6 @@
 - https://github.com/BerriAI/litellm
 
 ## RAG
-
 - https://github.com/EverMind-AI/EverMemOS/
 - https://github.com/HKUDS/RAG-Anything
 - https://github.com/bytedance-seed/m3-agent
@@ -331,6 +334,7 @@
 - [graph-rag-agent](https://github.com/1517005260/graph-rag-agent) 拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架|
 - https://github.com/MemTensor/MemOS
 - https://rag.deeptoai.com/
+- https://www.zdoc.app/zh/cocoindex-io/cocoindex
 
 ### Local LLM
 
@@ -340,13 +344,6 @@
 ### Devops
 
 - https://github.com/derisk-ai/OpenDerisk
-
-
-## AI-Coding-Agent
-- https://www.codebuff.com/
-- https://github.com/sst/opencode
-- https://github.com/moazbuilds/CodeMachine-CLI
-- https://github.com/ConardLi/easy-llm-cli
 
 
 ### Benchmark
@@ -359,26 +356,53 @@
 - https://contextarena.ai/
 - https://huggingface.co/spaces/lmgame/lmgame_bench
 
-## claude-code
+# Vibe-Coding
+- https://github.com/tukuaiai/vibe-coding-cn
 
+## claude-code
 - https://github.com/hesreallyhim/awesome-claude-code
 - https://github.com/JessyTsui/Claude-Code-Remote
 - [cc使用技巧](https://www.cnblogs.com/heavenYJJ/p/19071441)
 - https://baoyu.io/translations/claude-code-framework-wars
 - https://github.com/UfoMiao/zcf
-- https://github.com/travisvn/awesome-claude-skills
+
 - https://github.com/rz1989s/claude-code-statusline
 - https://github.com/Njengah/claude-code-cheat-sheet
-- https://github.com/yusufkaraaslan/Skill_Seekers
+
 - https://github.com/diet103/claude-code-infrastructure-showcase
-- https://github.com/ginobefun/deep-reading-analyst-skill/
-- https://github.com/anthropics/skills
 - https://skillsmp.com/
 - https://github.com/claude-did-this/claude-hub
 - https://github.com/apstenku123/claude-code-reverse
 
-## LLM
+- https://github.com/AndyMik90/Auto-Claude
 
+## Skill
+- https://github.com/travisvn/awesome-claude-skills
+- https://github.com/ginobefun/deep-reading-analyst-skill/
+- https://github.com/anthropics/skills
+- https://github.com/numman-ali/openskills
+- https://github.com/yusufkaraaslan/Skill_Seekers 
+## AI-Coding-Agent
+- https://www.codebuff.com/
+- https://github.com/sst/opencode
+- https://github.com/0xSero/open-orchestra
+- https://github.com/letta-ai/letta
+- https://github.com/moazbuilds/CodeMachine-CLI
+- https://github.com/just-every/code
+- https://www.letta.com/
+- https://github.com/ConardLi/easy-llm-cli
+- https://conductor.build/
+
+## Spec
+- https://github.com/gotalab/cc-sdd
+- https://kiro.dev/docs/specs/concepts/
+- https://github.com/amaynez/kiro-style-sdd
+- https://github.com/steveyegge/beads
+- https://github.com/Fission-AI/OpenSpec
+- https://github.com/github/spec-kit
+
+
+## LLM
 - https://github.com/liguodongiot/llm-resource
 - https://github.com/liguodongiot/ai-system
 - https://github.com/datawhalechina/happy-llm
@@ -408,6 +432,7 @@
 - https://www.kaggle.com/whitepaper-introduction-to-agents
 - https://github.com/chiphuyen/aie-book
 - https://sankalp.bearblog.dev/how-prompt-caching-works/
+- https://github.com/ZJU-LLMs/Foundations-of-LLMs
 
 ## coding
 - [开源的本地代码解释器](https://github.com/KillianLucas/open-interpreter)
@@ -448,13 +473,6 @@
 ## Robot
 - https://github.com/huggingface/lerobot
 
-## Workflow
-- https://github.com/gotalab/cc-sdd
-- https://kiro.dev/docs/specs/concepts/
-- https://github.com/amaynez/kiro-style-sdd
-- https://github.com/steveyegge/beads
-- https://github.com/Fission-AI/OpenSpec
-- https://github.com/github/spec-kit
 
 
 ## Context-Engineering
@@ -480,3 +498,6 @@
 - https://github.com/Ryandonofrio3/osgrep
 - https://github.com/Rika-Labs/sgrep
 - https://github.com/mixedbread-ai/mgrep
+
+## UI
+- https://github.com/CopilotKit/CopilotKit
