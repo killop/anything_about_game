@@ -6398,6 +6398,9 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/mgks/docmd  Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 * [Awesome-offer](https://github.com/lietoumai/Awesome-offer) 
 * https://github.com/maxiaobang7/ossnav 开源精选：探索免费优质的开源软件工具，尽享数字自由
+* [sakura](https://sakura-cat3.com/) 你懂得
+* [flashgates](https://web.flashgates.com/trial)
+* [xs-us](https://xs-us.xyz/knowledge)
 ## 友情链接 
 * [Unity-Memo](https://github.com/wy19910222/Unity-Memo) 本仓库用来备忘一些Unity相关的技术，包括API、算法、实现效果、某些问题的解决方案等。
 * [MyStudyNote](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote) MyStudyNote
