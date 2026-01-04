@@ -1061,6 +1061,7 @@ Table of Contents
 - [VR-Stage-Lighting](https://github.com/AcChosen/VR-Stage-Lighting)
 - https://github.com/murasaqi/Unity_StageLightManeuver
 - [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin)
+- https://github.com/arghyasur1991/LiveTalk-Unity
 - https://github.com/LKZMuZiLi/human
  - https://github.com/luxonis/depthai-unity
  - https://github.com/runwayml/RunwayML-for-Unity
@@ -1471,6 +1472,7 @@ Table of Contents
 - [unity-animation-system](https://github.com/amirhoseinjfri/unity-animation-system) A robust Unity animation manager that enables smooth crossfade transitions, queuing, looping, and layer locking with callback support
 #### Character-Controller
 - [Project_TCC](https://github.com/unity3d-jp/Project_TCC)
+- [Unity-3d-Movements](https://github.com/Egecekic/Unity-3d-Movements)
 - [SRMove](https://github.com/NoiRC256/SRMove)
 - [FirstPersonInteractionToolkit](https://github.com/stevenharmongames/Unity-FirstPersonInteractionToolkit)
 - [CharacterControllerSamples](https://github.com/Unity-Technologies/CharacterControllerSamples)
@@ -1557,7 +1559,6 @@ Table of Contents
 - https://github.com/gilzoide/unity-lottie-player
 - https://github.com/leetful/u.movin
 - [SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) Skia For Unity with skottie animations
-- https://github.com/toptensoftware/RichTextKit
 - https://github.com/wieslawsoltes/Svg.Skia
 - [AnimatableVolumeComponent](https://github.com/cji3bp62000/AnimatableVolumeComponent) This package provides helper scripts that let you animate Post-Process parameters (VolumeProfile) in URP/HDRP.
 - https://github.com/mihakrajnc/UITTimeline
@@ -4159,6 +4160,7 @@ Showing off the power of shader properties in Unity
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
 #### RenderPipelineFrameWork
+- https://github.com/AkiKurisu/IllusionRP
 - https://github.com/Delt06/aaaa-rp
 - https://github.com/ahd2/AHD2-TODSystem
 - https://github.com/aras-p/UnityGaussianSplatting
@@ -5548,6 +5550,7 @@ Showing off the power of shader properties in Unity
 - [uis](https://github.com/mopsicus/uis) Unity infinite scroller (UIS) is an extension allows you to use the ScrollRect control as an infinite scroller/spinner
 - https://github.com/NRatel/Unity-ListView
 - https://github.com/qiankanglai/LoopScrollRect
+- https://github.com/MagasDeveloper/ListView
 - https://github.com/zhaozilong1988/UITableViewForUnity
  
 #### UI-System
@@ -5556,6 +5559,8 @@ Showing off the power of shader properties in Unity
 ### HUD
 - https://github.com/alsostone/com.stone.hud
 - https://github.com/506638093/RichText 头顶血条 
+- https://github.com/toptensoftware/RichTextKit
+- https://github.com/SlipperSoar/SSRichText
 - [health-bars](https://assetstore.unity.com/packages/vfx/shaders/gimme-instanced-health-bars-259079)  
 #### Font/Text
 - [Harfbuzz native plugin for use in Latios Framework](https://github.com/Dreaming381/HarfbuzzUnity)
@@ -5590,6 +5595,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/wantdabo/goblin.ui.fontcreator
 - https://github.com/nicloay/ecs-damage-bubbles
 - https://github.com/YingMei7531/TextMeshPro2.1.6-GCOptimize
+- https://github.com/aiczk/Typography High-performance GPU text rendering for Unity/VRChat.
 
 ##### BitMap
 - [Unity-BitmapFontImporter](https://github.com/litefeel/Unity-BitmapFontImporter)
@@ -5971,6 +5977,9 @@ Showing off the power of shader properties in Unity
  - [Open3D](https://github.com/isl-org/Open3D) Open3D: A Modern Library for 3D Data Processing
  - [MonoManifold](https://github.com/komietty/MonoManifold) Differencial Geometry library on Unity
  - [Ica_Normal_Tools](https://github.com/icauroboros/Ica_Normal_Tools) Super fast Normal and Tangent recalculation library for Unity.
+ - [boxcutter](https://assetstore.unity.com/packages/tools/physics/boxcutter-realtime-voxel-destruction-331249?srsltid=AfmBOooWOZfql8rpxjwikkT0sEAvFKi9qpnkVuES1zLlCtCXIWFMp5FB)
+ - [rayfire](https://assetstore.unity.com/packages/tools/game-toolkits/rayfire-2-342492)
+ - [mesh-deformation](https://assetstore.unity.com/packages/tools/modeling/mesh-deformation-full-collection-47061)
 ##### Fracture Mesh
 - https://gitlab.com/dima13230/unity-libre-fracture
 
@@ -6025,6 +6034,8 @@ Showing off the power of shader properties in Unity
 * https://github.com/yasirkula/UnityInspectPlus
 - https://github.com/AbZorbaGames/artificetoolkit
 - https://github.com/Thundernerd/Unity3D-SerializableInterface
+- [show git branch](https://qiita.com/ScreenPocket/items/5065cd020ad4649b9115)
+- [unity project icon](https://github.com/AtaruMatsudaira/Unicon/)
 
 #### Asset-Management
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool)

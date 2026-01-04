@@ -299,6 +299,7 @@
 - https://github.com/camel-ai/owl
 - https://github.com/Fosowl/agenticSeek
 - https://github.com/bytebot-ai/bytebot
+- https://github.com/Tongyi-MAI/MAI-UI
 
 ### Code-Ide
 - https://github.com/langchain-ai/mcpdoc
@@ -387,12 +388,14 @@
 - https://github.com/sst/opencode
 - https://github.com/0xSero/open-orchestra
 - https://github.com/letta-ai/letta
-- https://github.com/moazbuilds/CodeMachine-CLI
 - https://github.com/just-every/code
-- https://www.letta.com/
 - https://github.com/ConardLi/easy-llm-cli
 - https://conductor.build/
-
+  
+## Multi-Agent-Coding 
+- https://github.com/DeepMyst/Mysti
+- https://github.com/moazbuilds/CodeMachine-CLI
+- https://github.com/sentient-agi/ROMA
 ## Spec
 - https://github.com/gotalab/cc-sdd
 - https://kiro.dev/docs/specs/concepts/
@@ -485,7 +488,7 @@
 - https://www.camel-ai.org/blogs/brainwash-your-agent-how-we-keep-the-memory-clean
  
 ### AI-Context
-
+- https://github.com/inngest/inngest
 - https://deepwiki.com/
 - https://github.com/AsyncFuncAI/deepwiki-open
 - https://github.com/AIDotNet/OpenDeepWiki
