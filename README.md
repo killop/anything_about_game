@@ -382,7 +382,6 @@ Table of Contents
 - [OCR](#ocr)
 - [游戏策划](#游戏策划)
     - [镜头设计](#镜头设计)
-- [Terminal-Shell](#terminal-shell)
 - [Windows-Optimizer](#windows-optimizer)
 - [Interest is the best teacher](#interest-is-the-best-teacher)
 - [友情链接](#友情链接)
@@ -1635,6 +1634,10 @@ Table of Contents
 - [Unity.Mx](https://github.com/jcs090218/Unity.Mx) Mx (or Meta-X) is a command-based completion framework. It allows you to execute all kinds of tasks based on your design. Mx is an alternate to attribute MenuItem; by contrast, doing multiple tasks is possible. It gives you the option to choose and explore unnoticed commands.
 - [livewatch](https://assetstore.unity.com/packages/tools/utilities/livewatch-debug-with-full-history-of-changes-300573)
 - [debug-filter](https://assetstore.unity.com/packages/tools/utilities/debug-filter-319186)
+- https://github.com/wavetermdev/waveterm
+- https://github.com/nashaofu/shell360
+- https://github.com/Gaurav-Gosain/tuios
+- https://clig.onev.dev/
 
 ## Scenes
 #### Terrain
@@ -3579,6 +3582,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) SALVIA is the rasterizer based software renderer. The goal of SALVIA is capacity of Direct3D 10+.
 #### 3rd-Binding
 - https://github.com/Devsh-Graphics-Programming/Nabla
+- [Zenith.NET](https://github.com/qian-o/Zenith.NET/) [blog](https://www.cnblogs.com/xymfblogs/p/19443277)
 - [EmberGL](https://github.com/EmberGL-org/EmberGL) EmberGL (Ember Graphics Library) is a low-level open source graphics library
 - [igl](https://github.com/facebook/igl) Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 - [veldrid](https://github.com/mellinoe/veldrid) A low-level, portable graphics library for .NET. 
@@ -6351,11 +6355,6 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://zhuanlan.zhihu.com/p/371213488 
 - https://zhuanlan.zhihu.com/p/22098814 
 - https://zhuanlan.zhihu.com/p/411366466
-
-## Terminal-Shell
-- https://github.com/wavetermdev/waveterm
-- https://github.com/nashaofu/shell360
-- https://github.com/Gaurav-Gosain/tuios
 
 ## Windows-Optimizer
 - https://github.com/Raphire/Win11Debloat

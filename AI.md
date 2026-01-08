@@ -288,6 +288,10 @@
 - https://github.com/Tokfinity/InfCode
 - https://github.com/Intelligent-Internet/ii-agent
 - https://github.com/julep-ai/julep
+- https://github.com/sjtu-sai-agents/ML-Master
+- https://github.com/MiroMindAI/MiroThinker
+- https://github.com/baidu-baige/LoongFlow
+- https://github.com/jarrycyx/openlens-ai
 
 ### Platform
 - https://github.com/enricoros/big-AGI
@@ -449,9 +453,9 @@
 - https://github.com/filip-michalsky/SalesGPT
 
 ## Code-Review
-
 - https://github.com/lintsinghua/XCodeReviewer
 - https://d.aigclink.ai/OpenAI-Aardvark-GPT-5-29a9857c0f478078b391d41096db2067
+- https://github.com/lintsinghua/DeepAudit
 
 ## Translate
 
@@ -504,3 +508,9 @@
 
 ## UI
 - https://github.com/CopilotKit/CopilotKit
+
+## PPT
+- https://github.com/Anionex/banana-slides
+
+## WEB-UI
+- https://saaslandingpage.com/
