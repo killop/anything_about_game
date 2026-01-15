@@ -9,7 +9,7 @@
 - https://github.com/karminski/one-small-step
 
 ### Collection
-
+- [awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development)
 - [awesome-3D-generation](https://github.com/justimyhxu/awesome-3D-generation)
 - https://github.com/rlczddl/awesome-3d-human-reconstruction
 - https://github.com/deepseek-ai/awesome-deepseek-integration
@@ -250,7 +250,7 @@
 - https://github.com/antvis/mcp-server-chart
 ### Doc
 - https://github.com/docfork/docfork-mcp
-- 
+ 
 ## vs-code-mcp
 
 - https://github.com/juehang/vscode-mcp-server
@@ -345,6 +345,7 @@
 
 - https://github.com/vllm-project/vllm
 - https://github.com/datawhalechina/self-llm/
+- https://pinokio.co/
 
 ### Devops
 
@@ -361,8 +362,7 @@
 - https://contextarena.ai/
 - https://huggingface.co/spaces/lmgame/lmgame_bench
 
-# Vibe-Coding
-- https://github.com/tukuaiai/vibe-coding-cn
+
 
 ## claude-code
 - https://github.com/hesreallyhim/awesome-claude-code
@@ -380,33 +380,53 @@
 - https://github.com/apstenku123/claude-code-reverse
 
 - https://github.com/AndyMik90/Auto-Claude
+- https://github.com/EveryInc/compound-engineering-plugin
+- https://github.com/Dev-GOM/claude-code-marketplace
 
+
+## Agent-Format
+- https://github.com/agentsmd/agents.md
+ 
 ## Skill
 - https://github.com/travisvn/awesome-claude-skills
 - https://github.com/ginobefun/deep-reading-analyst-skill/
 - https://github.com/anthropics/skills
 - https://github.com/numman-ali/openskills
-- https://github.com/yusufkaraaslan/Skill_Seekers 
+- https://github.com/yusufkaraaslan/Skill_Seekers
+- https://github.com/ComposioHQ/awesome-claude-skills
+- https://github.com/VoltAgent/awesome-claude-skills
+- https://github.com/BehiSecc/awesome-claude-skills
+- https://aitmpl.com/skills
+- https://claudemarketplaces.com 
+- https://github.com/GuDaStudio/skills
 ## AI-Coding-Agent
 - https://www.codebuff.com/
 - https://github.com/sst/opencode
+- https://github.com/NoeFabris/opencode-antigravity-auth
 - https://github.com/0xSero/open-orchestra
 - https://github.com/letta-ai/letta
 - https://github.com/just-every/code
 - https://github.com/ConardLi/easy-llm-cli
 - https://conductor.build/
+- https://github.com/tukuaiai/vibe-coding-cn
+- [用第一性原理拆解 Agentic Coding：从理论到实操](https://mp.weixin.qq.com/s/Zlwn42KyfjgwfX6lp-JthQ) 
   
 ## Multi-Agent-Coding 
 - https://github.com/DeepMyst/Mysti
 - https://github.com/moazbuilds/CodeMachine-CLI
 - https://github.com/sentient-agi/ROMA
-## Spec
+- https://github.com/fengshao1227/ccg-workflow Claude + Codex + Gemini 多模型协作系统
+## Spec&&WorkFlow
 - https://github.com/gotalab/cc-sdd
 - https://kiro.dev/docs/specs/concepts/
 - https://github.com/amaynez/kiro-style-sdd
 - https://github.com/steveyegge/beads
 - https://github.com/Fission-AI/OpenSpec
 - https://github.com/github/spec-kit
+- [团队落地 AI 辅助编程和 AI Specs 实战](https://www.cnblogs.com/whuanle/p/19469026)
+- [认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境](https://www.bestblogs.dev/en/article/0f05763c)
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+- [superpowers](https://github.com/obra/superpowers)
 
 
 ## LLM
@@ -490,8 +510,10 @@
 - [Context2](https://arxiv.org/abs/2510.26493v1)
 - https://github.com/airweave-ai/airweave
 - https://www.camel-ai.org/blogs/brainwash-your-agent-how-we-keep-the-memory-clean
+- https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
  
 ### AI-Context
+- https://github.com/nguyenphutrong/agentlens
 - https://github.com/inngest/inngest
 - https://deepwiki.com/
 - https://github.com/AsyncFuncAI/deepwiki-open

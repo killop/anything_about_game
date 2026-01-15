@@ -343,6 +343,7 @@ Table of Contents
     - [Rope](#rope)
     - [Unity-Update](#unity-update)
     - [Code-Reload\&\&Unity-Editor-Compiler](#code-reloadunity-editor-compiler)
+    - [Csharp-debug](#csharp-debug)
     - [Windows-Show](#windows-show)
     - [File-Browser](#file-browser)
     - [Unity 特色工程（精粹）](#unity-特色工程精粹)
@@ -1995,6 +1996,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/CodeSmile-0000011110110111/de.codesmile.assetdatabase
 - [save-for-unity-complete](https://assetstore.unity.com/packages/tools/utilities/save-for-unity-complete-244507)
 - https://github.com/ChronosGames/DataTables
+- https://github.com/hadashiA/VKV
 ## IO
 - [肝了很久！一文了解操作系统 I/O ](https://mp.weixin.qq.com/s/lFfIFzyEsRdBXdXi7StLVg)
 - [IO 模型知多少](https://www.cnblogs.com/sheng-jie/p/how-much-you-know-about-io-models.html) 
@@ -2907,6 +2909,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 #### 3D Engines and Frameworks
 * [Xultaik](https://github.com/FaberSanZ/Xultaik?)
+* [kaiju](https://github.com/KaijuEngine/kaiju)
 * [EraEngine](https://github.com/EldarMuradov/EraEngine)
 * [NextEngine](https://github.com/CompilerLuke/NextEngine) NextEngine is designed with rapid iteration and high-end desktop graphics in mind.
 * [Prowl](https://github.com/michaelsakharov/Prowl)
@@ -3207,6 +3210,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [awesome-simulation](https://github.com/Housz/awesome-simulation) Resources for Physics based simulation in Computer Graphics 图形学中物理模拟的资源整理
 - [Gaia](https://github.com/AnkaChan/Gaia) The Gaia engine is a C++ codebase primarily designed for physics-based simulations.
 - [Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) Implementations in Unity of the Ten Minute Physics YouTube channel. Instead of using Unity's built-in physics engine
+- [UnitySimplePhysics](https://github.com/JohannHotzel/UnitySimplePhysics) Simple Physics provides lightweight, easy-to-use physics-based behaviors for Unity. (Rope, Cloth, SoftBodies)
 - [bepuphysics2](https://github.com/bepu/bepuphysics2) Pure C# 3D real time physics simulation library, now with a higher version number.
 - [bepuphysics1int](https://github.com/sam-vdp/bepuphysics1int) Pure C# deterministic fixed-point 3D real time physics simulation library
 - https://github.com/Kimbatt/unity-deterministic-physics
@@ -3671,6 +3675,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [HLSLDecompiler](https://github.com/crossous/HLSLDecompiler)
 - [MFShaderRecover](https://github.com/Reguluz/MFShaderRecover) ■■Updating■■ A simple tool to recognize DXBC language then translate to unity shaderlab typed shader
 - [dxbc_reader](https://github.com/luxuia/dxbc_reader)
+- [offline-shader-analysis](https://github.com/eldnach/offline-shader-analysis) Offline shader compilation and analysis for Unity
 - [RenderDoc截帧DXBC编译 一文详解](https://zhuanlan.zhihu.com/p/590676458)
 - [GLSLShaderShrinker](https://github.com/deanthecoder/GLSLShaderShrinker) Optimizes the size of GLSL shader code.
 - [DXBCShaderRecover](https://github.com/Moonflow-Studio/DXBCShaderRecover)
@@ -4012,6 +4017,7 @@ Showing off the power of shader properties in Unity
 #### SphericalHarmonicLighting/CubeMap/Probes
 - https://www.pauldebevec.com/Probes/
 - https://github.com/TheRealMJP/SHforHLSL
+- https://github.com/frostbone25/Unity-Improved-Box-Projected-Reflections
 - [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 - https://github.com/wlgys8/SHLearn 
 - https://github.com/pema99/BakeSH
@@ -4045,6 +4051,7 @@ Showing off the power of shader properties in Unity
 - [Tvitchi](https://assetstore.unity.com/publishers/78833) assetstore
 - [highlight-plus-2-all-in-one](https://assetstore.unity.com/packages/vfx/shaders/highlight-plus-2-all-in-one-outline-selection-effects-321005)
 - [linework-outlines-and-edge-detection-294140](https://assetstore.unity.com/packages/vfx/shaders/linework-outlines-and-edge-detection-294140)
+- https://github.com/tantaneity/unity-urp-outline-postprocess
 
 #### FootPrint 
 - https://github.com/edualvarado/
@@ -5281,6 +5288,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/baponkar/zombie-ai
 #### LLM-GAME-AI
 - https://github.com/KsanaDock/Microverse
+- [agentcore-ai-game-command-framework](https://assetstore.unity.com/packages/tools/generative-ai/agentcore-ai-game-command-framework-343114)
 ###  Chat/Dialogue
 - https://github.com/AkiKurisu/Next-Gen-Dialogue/
 - https://github.com/hafewa/unity-AI-Chat-Toolkit
@@ -5598,6 +5606,7 @@ Showing off the power of shader properties in Unity
 - [modular](https://assetstore.unity.com/packages/3d/gui/modular-3d-text-in-game-3d-ui-system-159508) unity 3d ui 
 - https://github.com/wantdabo/goblin.ui.fontcreator
 - https://github.com/nicloay/ecs-damage-bubbles
+- [damage-numbers-extreme](https://assetstore.unity.com/packages/tools/particles-effects/damage-numbers-extreme-performance-355128)
 - https://github.com/YingMei7531/TextMeshPro2.1.6-GCOptimize
 - https://github.com/aiczk/Typography High-performance GPU text rendering for Unity/VRChat.
 
@@ -5760,6 +5769,12 @@ Showing off the power of shader properties in Unity
 - https://github.com/Sergio0694/PolySharp
 - https://github.com/apkd/Medicine
 
+#### Csharp-debug
+- https://github.com/MattParkerDev/sharpdbg
+- https://github.com/lordmilko/ClrDebug
+- https://github.com/Samsung/netcoredbg
+- https://github.com/microsoft/debug-adapter-protocol
+ 
 #### Windows-Show
 - https://github.com/Blinue/Magpie 使游戏窗口全屏显示
 - https://github.com/sator-imaging/AppWindowUtility
@@ -5780,6 +5795,7 @@ Showing off the power of shader properties in Unity
 - [linefy](https://assetstore.unity.com/packages/tools/particles-effects/linefy-165393) unity-plugin
 - [fast-line-renderer](https://assetstore.unity.com/packages/tools/particles-effects/fast-line-renderer-for-unity-gpu-line-and-particle-system-54118)
 - [gl-line-renderer-urp-337490](https://assetstore.unity.com/packages/tools/particles-effects/gl-line-renderer-urp-337490) unity-plugin
+- https://github.com/KelpieT/MeshUI
 - [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167)
 - [aline](https://assetstore.unity.com/packages/tools/gui/aline-162772)
 - [draw-xxl-246836](https://assetstore.unity.com/packages/tools/utilities/draw-xxl-246836)
@@ -5852,6 +5868,7 @@ Showing off the power of shader properties in Unity
 * https://github.com/quabug/EntitiesBT
 * https://github.com/GilbertoGojira/DOTS-Stackr
 * https://github.com/AI-In-Games/FormationMovement
+* https://github.com/Flameshot/Unity-Formation-Movement-AStar
 * https://github.com/NagaChiang/entity-tween
 * https://github.com/mikyll/UnityDOTS-Thesis
 * https://github.com/sschoener/burst-simd-exercises
@@ -6358,6 +6375,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 
 ## Windows-Optimizer
 - https://github.com/Raphire/Win11Debloat
+- https://github.com/memstechtips/Winhance
  
 ## Interest is the best teacher 
 - https://github.com/alaskasquirrel/Chinese-Podcasts
