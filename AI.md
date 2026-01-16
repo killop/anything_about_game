@@ -152,7 +152,7 @@
 - https://www.bilibili.com/video/BV1TEo6YGEnk/
 - https://blog.csdn.net/qq_37172634/article/details/123996775
 - https://www.cnblogs.com/whuanle/p/18837493
-- [](https://www.cnblogs.com/powertoolsteam/p/18921734)
+- [AI智能体的技术架构与解决方案](https://www.cnblogs.com/powertoolsteam/p/18921734)
 ## Context-Engineering
 
 - https://github.com/Meirtz/Awesome-Context-Engineering
