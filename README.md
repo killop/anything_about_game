@@ -1751,6 +1751,7 @@ Table of Contents
 * https://github.com/roundyyy/ProceduralGrassGenerator
 * https://github.com/Remyuu/Unity-Interactive-Grass
 * https://github.com/AkilarLiao/UnityURP-Procedural-DrawMeshInstancedIndirect
+* https://github.com/Mithzzx/Project-GrassFlow
 #### Road 
 - [Easyroads3d](https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469) UnityPlugin
 - [Path-painter](https://assetstore.unity.com/packages/tools/terrain/path-painter-163352) UnityPlugin
@@ -3731,6 +3732,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 
 #### Shader-Collection
 - https://github.com/falseeeeeeeeee/ShaderLibrary
+- https://github.com/kleineluka/backlace
 - https://mini.gmshaders.com/
 - [CgFX-Shader-Compilation](https://github.com/steaklive/CgFX-Shader-Compilation)
 - [Unity-Advanced-Shaders-Tutorial](https://github.com/Habrador/Unity-Advanced-Shaders-Tutorial) Implementation of advanced shaders in Unity like raytracing, interior mapping, parallax mapping
@@ -4171,6 +4173,7 @@ Showing off the power of shader properties in Unity
 ##### Trail
 - [RevealShader](https://github.com/nomand/RevealShader) This is a set of shaders for Unity3D. It maps worldspace position of a gameObject and draws to a RenderTexture in relation to world bounds and remaps it back onto the worldas a mask, allowing for various shader effects.
 #### RenderPipelineFrameWork
+- https://github.com/af8a2a/VividRP
 - https://github.com/AkiKurisu/IllusionRP
 - https://github.com/Delt06/aaaa-rp
 - https://github.com/ahd2/AHD2-TODSystem
@@ -4860,6 +4863,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
 - https://assetstore.unity.com/packages/tools/utilities/switchboard-250879
 - https://docs.unity3d.com/Packages/com.unity.logging@1.4/manual/index.html
+- https://github.com/Elfinik/burst-trace
  
 #### Collection
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
@@ -6219,6 +6223,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [quarkdown](https://github.com/iamgio/quarkdown)
 ## Unity-Build
 - https://github.com/CyberAgentGameEntertainment/BuildMagic
+- https://github.com/AnhPham/Build-Unity-Projects-with-Jenkins
 - [exclude-from-build-222791](https://assetstore.unity.com/packages/tools/utilities/exclude-from-build-222791)
 - https://github.com/XJINE/Unity_RemoveOnBuilds
 - https://github.com/FoxsterDev/DevAccelerationSystem/ code compiler

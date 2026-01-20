@@ -109,6 +109,7 @@
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 - https://github.com/Comfy-Org/comfy-cli
 - https://github.com/aiaiaikkk/ComfyUI-Curve
+- https://github.com/stavrosdidakis/Unity-ComfyUI
 
 ## ML
 
@@ -416,6 +417,7 @@
 - https://github.com/moazbuilds/CodeMachine-CLI
 - https://github.com/sentient-agi/ROMA
 - https://github.com/fengshao1227/ccg-workflow Claude + Codex + Gemini 多模型协作系统
+- https://github.com/iOfficeAI/AionUi/
 ## Spec&&WorkFlow
 - https://github.com/gotalab/cc-sdd
 - https://kiro.dev/docs/specs/concepts/
