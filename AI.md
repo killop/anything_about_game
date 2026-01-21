@@ -415,9 +415,15 @@
 ## Multi-Agent-Coding 
 - https://github.com/DeepMyst/Mysti
 - https://github.com/moazbuilds/CodeMachine-CLI
-- https://github.com/sentient-agi/ROMA
 - https://github.com/fengshao1227/ccg-workflow Claude + Codex + Gemini 多模型协作系统
+- https://github.com/catlog22/Claude-Code-Workflow
 - https://github.com/iOfficeAI/AionUi/
+- https://github.com/j3n5en/EnsoAI
+- https://github.com/sentient-agi/ROMA
+ 
+## Ai-Studio
+- https://github.com/Lianues/AIStudioBuildCopy
+ 
 ## Spec&&WorkFlow
 - https://github.com/gotalab/cc-sdd
 - https://kiro.dev/docs/specs/concepts/
