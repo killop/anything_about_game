@@ -293,6 +293,8 @@
 - https://github.com/MiroMindAI/MiroThinker
 - https://github.com/baidu-baige/LoongFlow
 - https://github.com/jarrycyx/openlens-ai
+- https://github.com/mastra-ai/mastra
+- https://github.com/block/goose
 
 ### Platform
 - https://github.com/enricoros/big-AGI
@@ -341,6 +343,7 @@
 - https://github.com/MemTensor/MemOS
 - https://rag.deeptoai.com/
 - https://www.zdoc.app/zh/cocoindex-io/cocoindex
+- https://github.com/OpenBMB/UltraRAG/
 
 ### Local LLM
 
@@ -383,6 +386,7 @@
 - https://github.com/AndyMik90/Auto-Claude
 - https://github.com/EveryInc/compound-engineering-plugin
 - https://github.com/Dev-GOM/claude-code-marketplace
+- https://github.com/affaan-m/everything-claude-code
 
 
 ## Agent-Format
@@ -400,6 +404,7 @@
 - https://aitmpl.com/skills
 - https://claudemarketplaces.com 
 - https://github.com/GuDaStudio/skills
+- https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 ## AI-Coding-Agent
 - https://www.codebuff.com/
 - https://github.com/sst/opencode
@@ -420,7 +425,10 @@
 - https://github.com/iOfficeAI/AionUi/
 - https://github.com/j3n5en/EnsoAI
 - https://github.com/sentient-agi/ROMA
- 
+- https://github.com/bfly123/claude_code_bridge
+- https://github.com/camel-ai/camel
+- https://github.com/kyegomez/swarms
+- https://github.com/ruvnet/claude-flow
 ## Ai-Studio
 - https://github.com/Lianues/AIStudioBuildCopy
  
@@ -459,8 +467,8 @@
 - https://github.com/showlab/Code2Video
 - https://github.com/HarleyCoops/Math-To-Manim
 
-## Agent-Book
-
+## Books
+- https://github.com/changyeyu/LLM-RL-Visualized
 - https://github.com/ginobefun/agentic-design-patterns-cn
 - https://adp.xindoo.xyz/
 - https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
@@ -468,6 +476,7 @@
 - https://github.com/chiphuyen/aie-book
 - https://sankalp.bearblog.dev/how-prompt-caching-works/
 - https://github.com/ZJU-LLMs/Foundations-of-LLMs
+- https://github.com/Lordog/dive-into-llms
 
 ## coding
 - [开源的本地代码解释器](https://github.com/KillianLucas/open-interpreter)
@@ -544,3 +553,4 @@
 
 ## WEB-UI
 - https://saaslandingpage.com/
+- https://www.pencil.dev/

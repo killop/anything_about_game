@@ -1797,6 +1797,7 @@ Table of Contents
 * [DracoUnity](https://github.com/atteneder/DracoUnity) Unity package that integrates the Draco 3D data compression library within Unity.
 ## Data
 #### Metadata/Excel/Schema/Proto
+- https://gravitino.apache.org/
 - [table-export](https://github.com/821869798/table-export)
 - [xresloader](https://github.com/xresloader/xresloader)
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
@@ -2073,6 +2074,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [mesop](https://google.github.io/mesop)
 - https://github.com/feiyun0112/Gradio.Net
 - https://github.com/rothgar/awesome-tuis
+- https://getfresh.dev/
 - https://nicegui.io/
 ## Game-Server-framework
 - https://github.com/Quaint-Studios/
@@ -4858,12 +4860,15 @@ Showing off the power of shader properties in Unity
 - https://github.com/kuronekoyang/UnsafeStringBuffer
 - https://github.com/Molth/StringPool
 - https://github.com/soenneker/soenneker.utils.pooledstringbuilders
+ 
 #### Log
 - https://github.com/DerploidEntertainment/UnityUtil
 - https://github.com/Cysharp/ZLogger/ Zero Allocation Text/Structured Logger for .NET Core and Unity
 - https://assetstore.unity.com/packages/tools/utilities/switchboard-250879
 - https://docs.unity3d.com/Packages/com.unity.logging@1.4/manual/index.html
 - https://github.com/Elfinik/burst-trace
+- https://github.com/Tencent/BqLog
+- https://github.com/pamburus/hl
  
 #### Collection
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
@@ -5309,6 +5314,7 @@ Showing off the power of shader properties in Unity
 ### Skill
 - https://github.com/lsunky/SkillEditorDemo
 - [combateditor-252420](https://assetstore.unity.com/packages/tools/animation/combateditor-252420) unity-plugin
+- [animation-composer-system](https://assetstore.unity.com/packages/tools/animation/animation-composer-system-acs-348598)
 - https://github.com/Mr-sB/ACTSkill
 - https://github.com/meredoth/Stat-System
 - https://github.com/ancientElement/AE_Skill_Editor
