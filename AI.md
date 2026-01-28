@@ -330,6 +330,7 @@
 - https://github.com/BerriAI/litellm
 
 ## RAG
+- https://github.com/memovai/memov
 - https://github.com/EverMind-AI/EverMemOS/
 - https://github.com/HKUDS/RAG-Anything
 - https://github.com/bytedance-seed/m3-agent
@@ -415,6 +416,7 @@
 - https://github.com/ConardLi/easy-llm-cli
 - https://conductor.build/
 - https://github.com/tukuaiai/vibe-coding-cn
+- https://github.com/badlogic/pi-mono
 - [用第一性原理拆解 Agentic Coding：从理论到实操](https://mp.weixin.qq.com/s/Zlwn42KyfjgwfX6lp-JthQ) 
   
 ## Multi-Agent-Coding 
@@ -429,6 +431,9 @@
 - https://github.com/camel-ai/camel
 - https://github.com/kyegomez/swarms
 - https://github.com/ruvnet/claude-flow
+- https://github.com/nyldn/claude-octopus
+- https://github.com/covibes/zeroshot
+- https://github.com/talkcody/talkcody
 ## Ai-Studio
 - https://github.com/Lianues/AIStudioBuildCopy
  
@@ -443,7 +448,10 @@
 - [认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境](https://www.bestblogs.dev/en/article/0f05763c)
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 - [superpowers](https://github.com/obra/superpowers)
-
+- https://github.com/subsy/ralph-tui
+- https://github.com/mikeyobrien/ralph-orchestrator
+- https://github.com/strands-agents/agent-sop
+- https://github.com/ClaytonFarr/ralph-playbook
 
 ## LLM
 - https://github.com/liguodongiot/llm-resource

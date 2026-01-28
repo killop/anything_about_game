@@ -307,7 +307,6 @@ Table of Contents
     - [dynCall/ffi/interop](#dyncallffiinterop)
     - [IL](#il)
 - [DevOps](#devops)
-    - [Tools](#tools)
 - [Unity](#unity)
     - [Awesome-Unity](#awesome-unity)
     - [AssetBundle](#assetbundle)
@@ -2076,6 +2075,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/rothgar/awesome-tuis
 - https://getfresh.dev/
 - https://nicegui.io/
+- https://ratatui.rs/
 ## Game-Server-framework
 - https://github.com/Quaint-Studios/
 - https://github.com/moke-game/platform
@@ -5150,9 +5150,8 @@ Showing off the power of shader properties in Unity
 - [net-ssa](https://github.com/m-carrasco/net-ssa) net-ssa: A fast and easy-to-use register-based representation for .NET bytecode.
 - [JitInspector](https://github.com/DaZombieKiller/JitInspector) JIT codegen inspector for Unity
 ## DevOps
-#### Tools
 - [bashtop](https://github.com/aristocratos/bashtop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
-
+- [xyops](https://github.com/pixlcore/xyops)
 ## Unity
 
 #### Awesome-Unity
