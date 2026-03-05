@@ -44,7 +44,7 @@
 - https://xa9f20zq7mg.feishu.cn/wiki/JMrEwJEuSiKCQ4kR6xIcQ4BGneg
 
 ## Prompt
-
+- https://github.com/sanyuan0704/sanyuan-skills
 - https://baoyu.io/blog/google-prompt-engineering-whitepaper
 - https://claude.com/blog/best-practices-for-prompt-engineering
 - https://github.com/adithya-s-k/AI-Engineering.academy Mastering Applied AI, One Concept at a Time
@@ -199,10 +199,14 @@
 - https://github.com/mochi-neko/ChatGPT-API-unity
 - [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
 
-### web
+## web
 
 - https://github.com/femto/minion-agent
 - https://github.com/stagewise-io/stagewise
+
+
+## web-fetch
+- https://github.com/Panniantong/Agent-Reach
 
 ### NetWork
 
@@ -332,6 +336,13 @@
 - https://github.com/BerriAI/litellm
 
 ## RAG
+- https://github.com/IAAR-Shanghai/Awesome-AI-Memory
+- https://github.com/khoj-ai/khoj
+- https://github.com/Dataojitori/nocturne_memory
+- https://github.com/AGI-is-going-to-arrive/Memory-Palace
+- https://github.com/28naem-del/mnemosyne
+- https://github.com/caviraoss/openmemory
+- https://github.com/verygoodplugins/automem
 - https://github.com/volcengine/OpenViking OpenViking: The Context Database for AI Agents
 - https://github.com/AVIDS2/memorix Cross-Agent Memory Bridge — Your AI never forgets again
 - [mem.net](https://github.com/TianqiZhang/mem.net) About
@@ -358,6 +369,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/tobi/qmd mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - https://github.com/toby-bridges/epro-memory LLM-powered agent memory plugin with 6-category classification and L0/L1/L2 tiered structure
 - https://github.com/zilliztech/memsearch A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
+- https://github.com/0xK3vin/MegaMemory
 ### Local LLM
 
 - https://github.com/vllm-project/vllm
@@ -379,7 +391,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://contextarena.ai/
 - https://huggingface.co/spaces/lmgame/lmgame_bench
 
-
+## Codex
+- https://github.com/stellarlinkco/codex The open source coding agent. openai anthropic gemini
 
 ## claude-code
 - https://github.com/hesreallyhim/awesome-claude-code
@@ -402,6 +415,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/affaan-m/everything-claude-code
 - https://github.com/supermemoryai/claude-supermemory
 - https://github.com/thedotmack/claude-mem
+- https://github.com/mksglu/claude-context-mode
 
 
 ## Agent-Format
@@ -435,12 +449,17 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)
   
 ## Coding-Agent-Orchestrator
+- https://github.com/ruvnet/ruflo
+- https://github.com/this-rs/project-orchestrator
+- https://github.com/mikaelj/fuska/
+- https://github.com/langchain-ai/openwork
 - https://github.com/DeepMyst/Mysti
 - https://github.com/moazbuilds/CodeMachine-CLI
 - https://github.com/fengshao1227/ccg-workflow Claude + Codex + Gemini 多模型协作系统
 - https://github.com/catlog22/Claude-Code-Workflow
 - https://github.com/iOfficeAI/AionUi/
 - https://github.com/j3n5en/EnsoAI
+- https://github.com/21st-dev/1code
 - https://github.com/sentient-agi/ROMA
 - https://github.com/bfly123/claude_code_bridge
 - https://github.com/camel-ai/camel
@@ -529,6 +548,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://d.aigclink.ai/OpenAI-Aardvark-GPT-5-29a9857c0f478078b391d41096db2067
 - https://github.com/lintsinghua/DeepAudit
 - https://github.com/Iski08/dotclaude/
+- https://github.com/peteromallet/desloppify
 
 ## Translate
 
@@ -585,7 +605,9 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/yoanbernabeu/grepai
 - https://github.com/HKUDS/FastCode FastCode: Accelerating and Streamlining Your Code Understanding
 - https://github.com/dadbodgeoff/drift Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.\
-- https://github.com/abhigyanpatwari/GitNexus Indexes any codebase into a knowledge graph 
+- https://github.com/abhigyanpatwari/GitNexus Indexes any codebase into a knowledge graph
+- https://github.com/ForLoopCodes/contextplus Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
+- https://github.com/Cranot/roam-code Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% local.
 - [arscontexta](https://github.com/agenticnotetaking/arscontexta) A Claude Code plugin that generates complete knowledge systems from conversation
 
 ### WorkFlow
@@ -610,24 +632,38 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/hesamsheikh/awesome-openclaw-usecases
 - https://openclaw-docs.dx3n.cn/
 - https://github.com/mengjian-github/openclaw101 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站
+- https://github.com/abhi1693/openclaw-mission-control
+- https://github.com/crshdn/mission-control
+- https://github.com/builderz-labs/mission-control
+- https://github.com/cft0808/edict
+- https://github.com/Gen-Verse/OpenClaw-RL Empowering OpenClaw with RL — Train a personalized agent simply by talking to it.
 
 ### Claws
+- https://github.com/machinae/awesome-claws
 - https://openclaw-forks-evaluation-report-2026.versun.me/
+- https://www.openfang.sh/
+- https://easyclaw.com/
 - https://github.com/spacedriveapp/spacebot An AI agent for teams, communities, and multi-user environments.
+- https://github.com/TurixAI/TuriX-CUA
+- https://github.com/flywhale-666/whaleclaw memory
 ## Visual-Enhance
 - https://github.com/nicobailon/visual-explainer
 - https://github.com/ChristopherLyon/graphrag-workbench
 
-## PI
+## AI-Native
 - https://github.com/badlogic/pi-mono AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - https://github.com/qualisero/awesome-pi-agent
 - https://github.com/nicobailon/pi-subagents
 - https://github.com/nicobailon/pi-interactive-shell
 - https://github.com/nicobailon/pi-messenger
+- https://github.com/langchain-ai/deepagentsjs
 
 ## AutoTest
 - https://midscenejs.com/
-
+- https://github.com/TurixAI/TuriX-CUA
+- https://si.inc/posts/fdm1/
+- https://github.com/OminousIndustries/PhoneDriver
+- https://github.com/X-PLUG/MobileAgent
 ## ai-ui
 - https://github.com/BIT-DataLab/Edit-Banana
 - https://github.com/Anionex/banana-slides ppt

@@ -3922,6 +3922,7 @@ Showing off the power of shader properties in Unity
 - [学习PBR路程（四、Specular）](https://zhuanlan.zhihu.com/p/454439797)
 
 #### NPR
+- [zlz-anime-shader](https://assetstore.unity.com/packages/vfx/shaders/zlz-anime-shader-354900)
 - https://github.com/FernRP
 - https://github.com/Reuben-Sun/ToonURP
 - https://github.com/Delt06/toon-rp
