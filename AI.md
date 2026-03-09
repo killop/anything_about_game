@@ -194,6 +194,7 @@
 - https://github.com/IvanMurzak/Unity-MCP
 - https://github.com/hatayama/uLoopMCP
 - https://github.com/Besty0728/Unity-Skills
+- https://github.com/akiojin/unity-cli
 - https://github.com/stavrosdidakis/Unity-ComfyUI
 - https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
 - https://github.com/mochi-neko/ChatGPT-API-unity
@@ -239,7 +240,7 @@
 #### DataBase
 - https://github.com/StarRocks/mcp-server-starrocks
 - https://github.com/googleapis/genai-toolbox
-
+- https://github.com/orneryd/NornicDB NornicDB is a high-performance graph + vector database built for AI agents and knowledge systems. It speaks Neo4j's (Bolt + Cypher) and qdrant's (gRPC) languages so you can use Nornic with zero code changes, while adding intelligent features including a graphql endpoint, air-gapped embeddings, GPU accelerated search, and other intelligent features
 ### Jupyter
 - https://github.com/datalayer/jupyter-mcp-server
 
@@ -337,6 +338,8 @@
 
 ## RAG
 - https://github.com/IAAR-Shanghai/Awesome-AI-Memory
+- https://github.com/win4r/memory-lancedb-pro
+- https://github.com/Yuliu11/DualStack-Agent
 - https://github.com/khoj-ai/khoj
 - https://github.com/Dataojitori/nocturne_memory
 - https://github.com/AGI-is-going-to-arrive/Memory-Palace
@@ -370,6 +373,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/toby-bridges/epro-memory LLM-powered agent memory plugin with 6-category classification and L0/L1/L2 tiered structure
 - https://github.com/zilliztech/memsearch A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 - https://github.com/0xK3vin/MegaMemory
+- https://github.com/arjunkmrm/recall a skill for claude code and codex to recall past conversations
+- https://github.com/gavdalf/total-recall Total Recall — Autonomous Agent Memory. The only memory system that watches on its own. Five-layer observational memory for OpenClaw agents. ~$0.10/month.
 ### Local LLM
 
 - https://github.com/vllm-project/vllm
@@ -416,12 +421,14 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/supermemoryai/claude-supermemory
 - https://github.com/thedotmack/claude-mem
 - https://github.com/mksglu/claude-context-mode
+- https://github.com/chopratejas/headroom
 
 
 ## Agent-Format
 - https://github.com/agentsmd/agents.md
  
 ## Skill
+- https://github.com/jiweiyeah/Skills-Manager
 - https://github.com/travisvn/awesome-claude-skills
 - https://github.com/ginobefun/deep-reading-analyst-skill/
 - https://github.com/anthropics/skills
@@ -443,11 +450,16 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/letta-ai/letta
 - https://github.com/just-every/code
 - https://github.com/ConardLi/easy-llm-cli
-- https://conductor.build/
 - https://github.com/tukuaiai/vibe-coding-cn
 - [用第一性原理拆解 Agentic Coding：从理论到实操](https://mp.weixin.qq.com/s/Zlwn42KyfjgwfX6lp-JthQ) 
 - [Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)
-  
+
+
+## CodingAgentIDE
+- https://conductor.build/
+- https://github.com/penso/arbor 
+- https://jean.build/
+- https://superset.sh
 ## Coding-Agent-Orchestrator
 - https://github.com/ruvnet/ruflo
 - https://github.com/this-rs/project-orchestrator
@@ -457,6 +469,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/moazbuilds/CodeMachine-CLI
 - https://github.com/fengshao1227/ccg-workflow Claude + Codex + Gemini 多模型协作系统
 - https://github.com/catlog22/Claude-Code-Workflow
+- https://github.com/rohitg00/pro-workflow
 - https://github.com/iOfficeAI/AionUi/
 - https://github.com/j3n5en/EnsoAI
 - https://github.com/21st-dev/1code
@@ -486,6 +499,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/github/spec-kit
 - https://github.com/dcramer/dex
 - https://github.com/BradGroux/veritas-kanban
+- https://github.com/lidangzzz/OnlySpecs
 - [团队落地 AI 辅助编程和 AI Specs 实战](https://www.cnblogs.com/whuanle/p/19469026)
 - [认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境](https://www.bestblogs.dev/en/article/0f05763c)
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
@@ -608,8 +622,12 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/abhigyanpatwari/GitNexus Indexes any codebase into a knowledge graph
 - https://github.com/ForLoopCodes/contextplus Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
 - https://github.com/Cranot/roam-code Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% local.
-- [arscontexta](https://github.com/agenticnotetaking/arscontexta) A Claude Code plugin that generates complete knowledge systems from conversation
+- https://github.com/cocoindex-io
 
+## Doc
+- https://github.com/YishenTu/claudian An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
+- https://github.com/wagner-niklas/Alfred Alfred: An open-source Data Assistant for domain adoption, powered by agent skills, semantic knowledge graphs and relational data.
+- [arscontexta](https://github.com/agenticnotetaking/arscontexta) A Claude Code plugin that generates complete knowledge systems from conversation
 ### WorkFlow
 - https://github.com/inngest/inngest
  
@@ -629,14 +647,29 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 
 ## OpenClaw
 - https://github.com/VoltAgent/awesome-openclaw-skills
+- https://clawhub.ai/
 - https://github.com/hesamsheikh/awesome-openclaw-usecases
+- https://x.com/HoodyLiu/status/2030800942497685663 2026 中文 OpenClaw 推文大合集！共51篇，整理分类好，建议收藏
 - https://openclaw-docs.dx3n.cn/
 - https://github.com/mengjian-github/openclaw101 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站
+- https://github.com/Gen-Verse/OpenClaw-RL Empowering OpenClaw with RL — Train a personalized agent simply by talking to it.
+- https://pinchbench.com/ 小龙虾 大模型能力排行
+- https://github.com/jzOcb/context-doctor Visualize and diagnose OpenClaw context window usage — terminal, PNG, or JSON
+
+## Misson-Control
 - https://github.com/abhi1693/openclaw-mission-control
 - https://github.com/crshdn/mission-control
 - https://github.com/builderz-labs/mission-control
+- https://github.com/Curbob/LobsterBoard
+- https://github.com/mudrii/openclaw-dashboard
+- https://github.com/DanAndBub/bubboard
+- https://github.com/qingchencloud/clawpanel
+- https://github.com/zhaoxinyi02/ClawPanel
+- https://github.com/marian2js/opengoat Build AI Autonomous Organizations of OpenClaw Agents.
+- https://github.com/golutra/golutra
+- https://github.com/paperclipai/paperclip
 - https://github.com/cft0808/edict
-- https://github.com/Gen-Verse/OpenClaw-RL Empowering OpenClaw with RL — Train a personalized agent simply by talking to it.
+- https://github.com/wanikua/boluobobo-ai-court-tutorial
 
 ### Claws
 - https://github.com/machinae/awesome-claws
@@ -646,6 +679,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/spacedriveapp/spacebot An AI agent for teams, communities, and multi-user environments.
 - https://github.com/TurixAI/TuriX-CUA
 - https://github.com/flywhale-666/whaleclaw memory
+- https://github.com/chrysb/alphaclaw AlphaClaw wraps OpenClaw with a convenient setup wizard, 
 ## Visual-Enhance
 - https://github.com/nicobailon/visual-explainer
 - https://github.com/ChristopherLyon/graphrag-workbench
@@ -667,3 +701,10 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 ## ai-ui
 - https://github.com/BIT-DataLab/Edit-Banana
 - https://github.com/Anionex/banana-slides ppt
+- https://github.com/QwenLM/Qwen-Image-Layered
+
+## AI-Router
+- https://github.com/Wei-Shaw/sub2api
+
+## AI-Agent-Creator
+- https://github.com/strongdm/attractor
