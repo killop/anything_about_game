@@ -2020,6 +2020,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 ## Linux
 -  [linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 ## Version-Control
+- https://git-truck.github.io/git-truck/GitTruckTeaser
 - https://github.com/FlaShG/GitMerge-for-Unity
 - https://github.com/skanmera/ExcelMerge
 - https://github.com/821869798/excel_merge
@@ -3830,6 +3831,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/smkplus/ShaderMan
 - https://shadertoyunofficial.wordpress.com/
 - https://github.com/studentutu/shadertoy-to-unity-URP
+- https://fragcoord.xyz/explore
 #### OpenGL
 - [noteForOpenGL](https://github.com/wangdingqiao/noteForOpenGL)
 - https://github.com/eug/awesome-opengl
@@ -4530,6 +4532,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/niepp/astc_encoder/
 - [在运行时将 Texture2D 压缩并加载到 ASTC 纹理中](https://qiita.com/up-hash/items/76f6f879f3129bb1d23e)
 - https://github.com/aras-p/UnityGPUTexCompression
+- https://github.com/wotakuro/UnityRuntimeCompressedTexturePacker
 - https://github.com/kecho/ComputeUtils
 - https://github.com/drzhn/UnityGpuCollisionDetection
 - https://github.com/b0nes164/GPUPrefixSums
@@ -5464,6 +5467,7 @@ Showing off the power of shader properties in Unity
 - [UnityVisualPlayable](https://github.com/SolarianZ/UnityVisualPlayable)
 - [Ceres](https://github.com/AkiKurisu/Ceres) Powerful node based visual scripting toolkit for Unity.
 - [function-player](https://assetstore.unity.com/packages/tools/utilities/function-player-329120#)
+- https://github.com/martin98-afk/CanvasMind
 #### AI
 - [delft-ai-toolkit](https://github.com/pvanallen/delft-ai-toolkit)
 - https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
@@ -5524,6 +5528,7 @@ Showing off the power of shader properties in Unity
 - [Unity-RuntimeEditorWindow](https://github.com/994935108/Unity-RuntimeEditorWindow)
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
 - [UI-Toolkit-Plus](https://github.com/ErnSur/UI-Toolkit-Plus)
+- https://github.com/fake-skate/html2uuitk
 - https://github.com/Shaun-Fong/UIToolkit-FieldBinding
 - https://www.zoboui.com/
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
@@ -5549,6 +5554,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/liuhaopen/UGUI-Editor
 - https://github.com/zs9024/quick_psd2ugui
 - https://github.com/sunsvip/PSD2UGUI_X
+- https://github.com/mesakas/UnityPSDLayoutTool2
 - https://github.com/Sunnyliumingsheng/AutoUI
 - [psd-2-ugui](https://assetstore.unity.com/packages/tools/gui/psd-2-ugui-pro-16131)  
 - [SlidingScreenAndSurfaceBall](https://github.com/romantic123fly/SlidingScreenAndSurfaceBall) 实例的球形分布+UGUI切换卡牌效果
@@ -6059,6 +6065,7 @@ Showing off the power of shader properties in Unity
 * [project-view-enhanced-199685](https://assetstore.unity.com/packages/tools/gui/project-view-enhanced-199685)
 * [QuickEye-Utility](https://github.com/ErnSur/QuickEye-Utility)
 * https://github.com/Brian-Jiang/SmartReference
+* [reference](https://github.com/BroEngine/reference-radar)
 * https://github.com/Full-Metal-Bagel/unity-stable-reference
 * https://github.com/AnnulusGames/Alchemy
 * https://github.com/AlexeyTaranov/SerializeReferenceDropdown
@@ -6187,6 +6194,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/codewriter-packages/UniMob/
 - [schedule](https://github.com/FelixBole/schedule-master)
 - [drakkar-events](https://assetstore.unity.com/packages/tools/integration/drakkar-events-302282)
+- [GenEvent](https://github.com/Puring103/GenEvent)
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
@@ -6377,6 +6385,11 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 ## OCR
 - https://github.com/chatdoc-com/OCRFlux
 - https://github.com/Yuliang-Liu/MonkeyOCR
+
+## Code-Editor
+- https://github.com/NvChad/NvChad
+- https://github.com/athasdev/athas
+- https://github.com/Infatoshi/OpenSquirrel
 
 ## 游戏策划
 - https://zhuanlan.zhihu.com/p/67963068

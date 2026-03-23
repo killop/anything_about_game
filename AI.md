@@ -2,7 +2,7 @@
 ## AIGC
 
 ### News
-
+- https://tom-doerr.github.io/repo_posts/
 - https://aicoding.100kwhy.fun/
 - https://d.aigclink.ai/fe1ce99bc6a64266aa1ee5479c8e6da6?
 - https://ai.codefather.cn/#%E7%B2%BE%E9%80%89%E8%B5%84%E6%BA%90
@@ -142,8 +142,7 @@
 
 ## MCP
 
-### Article
-
+### MCP-Article
 - https://agent-tars.com/2025/03/25/mcp-brings-a-new-paradigm-to-layered-ai-app-development
 - https://zhuanlan.zhihu.com/p/1966898272238035080 用过上百款编程MCP，只有这15个真正好用，Claude Code与Codex配置MCP详细教程
 - https://www.cnblogs.com/BNTang/p/18815937
@@ -151,14 +150,19 @@
 - https://blog.csdn.net/qq_37172634/article/details/123996775
 - https://www.cnblogs.com/whuanle/p/18837493
 - [AI智能体的技术架构与解决方案](https://www.cnblogs.com/powertoolsteam/p/18921734)
-## Context-Engineering
 
+### Mcp-Manager
+- https://github.com/Brightwing-Systems-LLC/mcp-manager
+
+## Context-Engineering
 - https://github.com/Meirtz/Awesome-Context-Engineering
 - [从 Prompt 到 Context：基于 1400+ 论文的 Context Engineering 系统综述](https://mp.weixin.qq.com/s/G5BUoM12vu2dWfxzIrAcfg)
 - [上下文工程 | Chris Loy](https://baoyu.io/translations/context-engineering-part-of-ml)
 - [Context2](https://arxiv.org/abs/2510.26493v1)
 - https://github.com/airweave-ai/airweave
 - https://www.camel-ai.org/blogs/brainwash-your-agent-how-we-keep-the-memory-clean
+
+
 ### Collection
 
 - https://smithery.ai/ Smithery.AI - A collection of tools and resources for building AI-powered applications.
@@ -185,7 +189,7 @@
 - https://github.com/nuskey8/McpToolkit
 
 ## Unity
-
+- https://github.com/Donchitos/Claude-Code-Game-Studios
 - https://github.com/nasimali5/mcpup
 - https://github.com/Arodoid/UnityMCP
 - https://github.com/CoderGamester/mcp-unity
@@ -198,16 +202,25 @@
 - https://github.com/stavrosdidakis/Unity-ComfyUI
 - https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
 - https://github.com/mochi-neko/ChatGPT-API-unity
+- https://github.com/cziberpv/unity-bridge
+- https://github.com/wang-er-s/AIBridge
+- https://github.com/KULEEEE/Claude-Code-For-Unity-Shader
 - [UnityInvokeAI](https://github.com/unitycoder/UnityInvokeAI)
+- https://github.com/KULEEEE/Unity-Agent-For-Claude-Code
+- https://github.com/Exano/UnityClaudeCLI
+- https://github.com/TomLeeLive/openclaw-unity-plugin
 
+## ai spine 动画：
+- https://zhuanlan.zhihu.com/p/1986639531613632439
+- https://github.com/CognotEngine/amberpipeline
+- https://x.com/CognotEngine
 ## web
 
 - https://github.com/femto/minion-agent
 - https://github.com/stagewise-io/stagewise
 
 
-## web-fetch
-- https://github.com/Panniantong/Agent-Reach
+
 
 ### NetWork
 
@@ -223,7 +236,6 @@
 - https://github.com/davidkingzyb/SCAST
 
 ### Computer
-
 - https://github.com/ashwwwin/automation-mcp
 
 ### WebGL
@@ -260,14 +272,12 @@
 - https://github.com/docfork/docfork-mcp
  
 ## vs-code-mcp
-
 - https://github.com/juehang/vscode-mcp-server
 - https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-vscode
 - https://github.com/biegehydra/bifrostmcp
 
 
 ## Agent
-
 - https://github.com/steel-dev/awesome-web-agents
 - https://github.com/aishwaryanr/awesome-generative-ai-guide
 - https://github.com/steven2358/awesome-generative-ai
@@ -283,7 +293,6 @@
 - https://github.com/ashishpatel26/500-AI-Agents-Projects
 - [rowboat](https://github.com/rowboatlabs/rowboat) Open-source AI coworker, with memory
 - https://github.com/evalstate/fast-agent
-- https://github.com/langchain-ai/open-agent-platform 集成了RAG、MCP的多智能体无代码构建工具：open-agent-platform，图形化操作，适合无编程快速原型
 - https://github.com/The-Pocket/PocketFlow
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/ruvnet/claude-flow/
@@ -304,8 +313,7 @@
 - https://github.com/block/goose
 - [AnyTool](https://github.com/HKUDS/AnyTool) AnyTool: Universal Tool-Use Layer for AI Agents
 
-### Platform
-- https://github.com/enricoros/big-AGI
+
 
 ### Common Agent
 - https://github.com/kortix-ai/suna
@@ -314,6 +322,7 @@
 - https://github.com/camel-ai/owl
 - https://github.com/Fosowl/agenticSeek
 - https://github.com/Tongyi-MAI/MAI-UI
+- https://github.com/jessepwj/CLAWS-UIS CLAWS-UIS 是一个面向真实 Windows 和 macOS 桌面的人类示教计算机操控智能体。
 
 ### Code-Ide
 - https://github.com/langchain-ai/mcpdoc
@@ -336,10 +345,23 @@
 
 - https://github.com/BerriAI/litellm
 
-## RAG
+## RAG&&Memory
 - https://github.com/IAAR-Shanghai/Awesome-AI-Memory
+- https://github.com/supermemoryai/supermemory
+- https://github.com/denda188/ClawIntelligentMemory 智能记忆系统 3.3 是一个基于 PARA 架构的三层记忆管理系统,集成了智能检查点,语义搜索,自动分类和两级摘要功能
+- https://github.com/aayoawoyemi/Ori-Mnemos Local-first persistent agentic memory powered by Recursive Memory Harness (RMH). Open source must win.
+- [novyx](https://github.com/novyxlabs/novyx-mcp) Persistent memory for AI agents. 64 MCP tools for remember, recall, rollback, audit, knowledge graph, governed actions, context spaces, and execution tracing. pip install novyx-mcp
+- [gigabrain](https://github.com/legendaryvibecoder/gigabrain) Gigabrain is a local-first memory stack for OpenClaw agents, Codex App, Codex CLI, Claude Code, and Claude Desktop. It converts conversations and native notes into durable, queryable memory, then injects the right context before each prompt so agents stay consistent across sessions.
+- [graph-memory](https://github.com/adoresever/graph-memory) Openclaw记忆插件Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse
 - https://github.com/win4r/memory-lancedb-pro
+- https://github.com/sopaco/cortex-mem The production-ready cognitive foundation for autonomous systems such as OpenClaw and Embodied-AI. For memory management, from extraction and search to automated optimization, with SKILL, CLI, API, MCP, and insights dashboard out-of-the-box.
+- [hindsight](https://github.com/vectorize-io/hindsight) Hindsight: Agent Memory That Learn
 - https://github.com/Yuliu11/DualStack-Agent
+- https://github.com/varun29ankuS/shodh-memory Cognitive memory for AI agents — learns from use, forgets what's irrelevant, strengthens what matters. Single binary, fully offline.
+- [sage](https://github.com/l33tdawg/sage) Persistent, consensus-validated memory infrastructure for AI agents.
+- https://github.com/novyxlabs/novyx-mcp
+- https://github.com/yoloshii/ClawMem
+- https://github.com/mem9-ai/mem9
 - https://github.com/khoj-ai/khoj
 - https://github.com/Dataojitori/nocturne_memory
 - https://github.com/AGI-is-going-to-arrive/Memory-Palace
@@ -355,6 +377,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/memovai/memov
 - https://github.com/EverMind-AI/EverMemOS/
 - https://github.com/HKUDS/RAG-Anything
+- https://github.com/devflowinc/trieve All-in-one platform for search, recommendations, RAG, and analytics offered via API
 - https://github.com/bytedance-seed/m3-agent
 - https://github.com/topoteretes/cognee
 - https://github.com/coleam00/Archon
@@ -367,6 +390,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://rag.deeptoai.com/
 - https://www.zdoc.app/zh/cocoindex-io/cocoindex
 - https://github.com/OpenBMB/UltraRAG/
+- https://github.com/apecloud/ApeRAG
+- https://github.com/Tencent/WeKnora WeKnora（维娜拉） 是一款基于大语言模型（LLM）的文档理解与语义检索框架，专为结构复杂、内容异构的文档场景而打造。
 - https://github.com/jzOcb/openclaw-memory-management/ AI Agent 记忆管理系统：P0/P1/P2 优先级 + 自动归档，Token 降 78%
 - https://github.com/VectifyAI/PageIndex PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - https://github.com/tobi/qmd mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
@@ -375,16 +400,22 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/0xK3vin/MegaMemory
 - https://github.com/arjunkmrm/recall a skill for claude code and codex to recall past conversations
 - https://github.com/gavdalf/total-recall Total Recall — Autonomous Agent Memory. The only memory system that watches on its own. Five-layer observational memory for OpenClaw agents. ~$0.10/month.
-### Local LLM
+- [clawvault](https://github.com/Versatly/clawvault) ClawVault is a structured memory system for AI agents that uses markdown as the storage primitive. It solves the fundamental problem of AI agents losing context between sessions — what we call "context death."
+- [AI 的记忆进化史：我们是如何让AI拥有记忆的](https://x.com/nopinduoduo/status/2035018557978030429)
+- [写了 1 个月、拆了100+ 篇文档后：我们终于让 4-Agent AI 装上记忆操作系统](https://x.com/servasyy_ai/status/2034078130919665749)
 
+### Local LLM
 - https://github.com/vllm-project/vllm
 - https://github.com/datawhalechina/self-llm/
 - https://pinokio.co/
 
-### Devops
-
+## Devops
 - https://github.com/derisk-ai/OpenDerisk
 
+## AutoResearch
+- https://github.com/aiming-lab/AutoResearchClaw 聊一个想法。出一篇论文。全自动 & 自演化
+- https://github.com/SpectrAI-Initiative/InnoClaw A self-hostable AI research workspace for grounded chat, paper study, scientific skills, and research execution.
+- https://github.com/uditgoenka/autoresearch Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 
 ### Benchmark
 - https://www.tbench.ai/
@@ -395,10 +426,13 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://artificialanalysis.ai/
 - https://contextarena.ai/
 - https://huggingface.co/spaces/lmgame/lmgame_bench
+- [AndroidWorld Leaderboard](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0)
+- [ScreenSpot-Pro Leaderboard](https://gui-agent.github.io/grounding-leaderboard/)
 
 ## Codex
 - https://github.com/stellarlinkco/codex The open source coding agent. openai anthropic gemini
-
+- https://linux.do/t/topic/1785189 codex子代理配置
+- https://github.com/VoltAgent/awesome-codex-subagents/
 ## claude-code
 - https://github.com/hesreallyhim/awesome-claude-code
 - https://github.com/JessyTsui/Claude-Code-Remote
@@ -421,14 +455,21 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/supermemoryai/claude-supermemory
 - https://github.com/thedotmack/claude-mem
 - https://github.com/mksglu/claude-context-mode
-- https://github.com/chopratejas/headroom
-
+- https://github.com/louislva/claude-peers-mcp Allow all your Claude Codes to message each other ad-hoc!
+- https://github.com/kangraemin/claude-inspector See what Claude Code actually sends to the API.
 
 ## Agent-Format
 - https://github.com/agentsmd/agents.md
  
 ## Skill
-- https://github.com/jiweiyeah/Skills-Manager
+- https://github.com/ynulihao/AgentSkillOS
+- https://github.com/zjunlp/SkillNet 
+- https://github.com/tripleyak/SkillForge
+- https://github.com/Yuzc-001/skill-router 一层低存在感的 skill 运行时，用来降低 skill-heavy agent 环境里的选择浪费。
+- https://github.com/shiqichen17/SkillCraft
+- https://github.com/Narwhal-Lab/MagicSkills/
+- https://github.com/foryourhealth111-pixel/Vibe-Skills An integrated AI capability stack with 340 skills, MCP entry points, agent workflows, and governed execution for planning, coding, research, and automation.
+- [Skills-Manager](https://github.com/xingkongliang/skills-manager)
 - https://github.com/travisvn/awesome-claude-skills
 - https://github.com/ginobefun/deep-reading-analyst-skill/
 - https://github.com/anthropics/skills
@@ -442,34 +483,71 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/GuDaStudio/skills
 - https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 - https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
+- https://github.com/luoling8192/software-design-philosophy-skill 《软件设计的哲学》
+- https://github.com/markduan/a-philosophy-of-software-design-skills
+- https://github.com/MiniMax-AI/skills
 ## AI-Coding-Agent
 - https://www.codebuff.com/
+- https://github.com/vinhnx/vtcode VT Code - semantic AI coding agent
+- https://github.com/antinomyhq/forge
+- https://github.com/NousResearch/hermes-agent
+- https://github.com/gsd-build/GSD-2
 - https://github.com/sst/opencode
 - https://github.com/NoeFabris/opencode-antigravity-auth
-- https://github.com/0xSero/open-orchestra
 - https://github.com/letta-ai/letta
 - https://github.com/just-every/code
 - https://github.com/ConardLi/easy-llm-cli
 - https://github.com/tukuaiai/vibe-coding-cn
 - [用第一性原理拆解 Agentic Coding：从理论到实操](https://mp.weixin.qq.com/s/Zlwn42KyfjgwfX6lp-JthQ) 
-- [Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)
+- https://learn.shareai.run/
+- [面向 AI Agent 入门者的教学项目](https://github.com/Mr-Q526/Agent-Observability-Demo)
+- [hello-agents](https://github.com/datawhalechina/hello-agents) 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
+## Git-Agent
+- https://github.com/open-gitagent/gitclaw A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.
+- https://github.com/open-gitagent/gitagent
 
-## CodingAgentIDE
+## Evolving
+- https://github.com/aiming-lab/MetaClaw Just talk to your agent — it learns and EVOLVES
+-[Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)
+- https://github.com/Gen-Verse/OpenClaw-RL Empowering OpenClaw with RL — Train a personalized agent simply by talking to it.
+## Agentic Development Environment (ADE)
+- https://github.com/peters/horizon
+- https://github.com/generalaction/emdash?
 - https://conductor.build/
 - https://github.com/penso/arbor 
 - https://jean.build/
 - https://superset.sh
+- https://air.dev/
+- https://psmux.pages.dev/
+- [companion](https://github.com/the-vibe-company/companion) Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools. All from your browser / mobile
+- [collab-public](https://github.com/collaborator-ai/collab-public)
+- [Codeg](https://github.com/xintaofei/codeg) Codeg (Code Generation) is an enterprise-grade multi-agent coding workspace. It unifies local AI coding agents (Claude Code, Codex CLI, OpenCode, Gemini CLI, OpenClaw, etc.) in one desktop app with session aggregation, parallel git worktree development, MCP/Skills management, and integrated Git/file/terminal workflows.
+- https://github.com/smtg-ai/claude-squad
+- https://github.com/jazzyalex/agent-sessions Session browser + Agent Cockpit + Analytics + Limits tracker for Codex CLI, Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions, archive sessions, resume instantly, see rate limits in real-time. Native macOS app.
+- https://github.com/jakemor/kanna A beautiful web UI for the Claude Code & Codex CLIs
+- https://github.com/DeadWaveWave/opencove
+
 ## Coding-Agent-Orchestrator
+- [acpx](https://github.com/openclaw/acpx) Headless CLI client for stateful Agent Client Protocol (ACP) sessions
+- [octoally](https://github.com/ai-genius-automations/octoally) The dashboard for Claude Code & OpenAI Codex. Launch, monitor, and manage AI coding sessions with RuFlo multi-agent orchestration — all from one place.
+- [cc-connect](https://github.com/chenhg5/cc-connect) Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms
+- [agtx](https://github.com/fynnfluegge/agtx) Multi-session AI coding terminal manager - autonomously orchestrate Claude, Codex, Gemini, OpenCode, Cursor
+- [MassGen](https://github.com/massgen/MassGen) MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai
 - https://github.com/ruvnet/ruflo
+- [codefire-app](https://github.com/websitebutlers/codefire-app)
+- [cobweb](https://github.com/321barney/cobweb) The orchestration layer that treats agents like a project — critical path, earned value, budget gates, stage gates, built in
 - https://github.com/this-rs/project-orchestrator
 - https://github.com/mikaelj/fuska/
 - https://github.com/langchain-ai/openwork
 - https://github.com/DeepMyst/Mysti
 - https://github.com/moazbuilds/CodeMachine-CLI
+- https://github.com/Gentleman-Programming/agent-teams-lite
 - https://github.com/fengshao1227/ccg-workflow Claude + Codex + Gemini 多模型协作系统
-- https://github.com/catlog22/Claude-Code-Workflow
+- https://github.com/catlog22/Claude-Code-Workflow JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex), context-first architecture, and automated workflow execution
 - https://github.com/rohitg00/pro-workflow
+- https://github.com/fabro-sh/fabro The open source dark software factory for expert engineers.
+- https://github.com/hotjp/long-run-agent LRA - AI Agent长任务超稳定执行框架 ⚡ 轻量 | pip一键安装｜突破上下文限制 📌 7种状态管理 
 - https://github.com/iOfficeAI/AionUi/
 - https://github.com/j3n5en/EnsoAI
 - https://github.com/21st-dev/1code
@@ -487,11 +565,28 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/ChesterRa/cccc
 - https://github.com/The-Vibe-Company/companion
 - https://github.com/ComposioHQ/agent-orchestrator
+- https://github.com/vibeeval/vibecosystem
+- https://github.com/sequenzia/agent-alchemy Agent Alchemy is a curated collection of plugins, apps, and extensions designed to elevate your agentic engineering workflows. Built for Claude Code and other AI coding agents, these tools help developers work smarter and ship faster.
+
+## Platform
+- [magic](https://github.com/dtyq/magic) Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+- https://github.com/FullAgent/fulling Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra.
+- https://github.com/lioensky/VCPToolBox 强大的AI-API-工具交互范式AGI社群系统
+- https://github.com/latitude-dev/latitude-llm Latitude is an open-source platform for building and operating LLM features in production.
+- https://github.com/enricoros/big-AGI
+
 ## Ai-Studio
 - https://github.com/Lianues/AIStudioBuildCopy
  
 ## Spec&&WorkFlow
-- https://github.com/gotalab/cc-sdd
+- https://github.com/henrydiaosi/AI-framework AI 协作开发文档体系 / AI Collaboration Documentation System
+- https://zhuanlan.zhihu.com/p/2016213084323217904 Zero-Doc Spec Coding：极简落地指南 - Mertens的文章 - 知乎
+- https://zhuanlan.zhihu.com/p/2018062431721627681 在智能体优先的世界中发挥 Codex 的力量 - 李明军的文章 - 知乎
+- https://github.com/specstoryai/getspecstory Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
+- https://github.com/oracle/agent-spec Open Agent Spec (Agent Spec) is a framework-agnostic declarative language for defining agentic systems. It defines building blocks for standalone agents and structured agentic workflows as well as common ways of composing them into multi-agent systems.
+- https://github.com/acnlabs/MetaSpec About Meta-specification framework for AI Agents to generate Spec-driven X toolkits automatically.
+- https://github.com/gotalab/cc-sdd 
+- https://github.com/yibie/SPEC-AGENTS.md This project is inspired by Spec-kit, OpenSpec, and Stack Workflow. It combines the advantages of spec-driven development and phased development. With a small amount of configuration, it helps everyday developers, especially in “vibe coding” sessions, improve the accuracy of AI execution, reduce repeated copy-pasting into the AI, and still enjoy the stability and convenience of mature software engineering workflows.
 - https://kiro.dev/docs/specs/concepts/
 - https://github.com/amaynez/kiro-style-sdd
 - https://github.com/steveyegge/beads
@@ -563,6 +658,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/lintsinghua/DeepAudit
 - https://github.com/Iski08/dotclaude/
 - https://github.com/peteromallet/desloppify
+- https://github.com/tirth8205/code-review-graph
+- https://github.com/semgrep/semgrep 支持多种语言的轻量级静态分析。查找具有类似源代码模式的错误变体。
 
 ## Translate
 
@@ -623,38 +720,69 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/ForLoopCodes/contextplus Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
 - https://github.com/Cranot/roam-code Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% local.
 - https://github.com/cocoindex-io
+- https://github.com/cocoindex-io/cocoindex-code
+- https://github.com/tirth8205/code-review-graph
+- https://github.com/hsingjui/ContextWeaver
+- https://github.com/vitali87/code-graph-rag
+- https://kit.cased.com/
+- https://github.com/giancarloerra/socraticode Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Claude Plugin or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, and DB/API/infra knowledge. Benchmark: 61% less tokens, 84% fewer calls, 37x faster than standard AI grep.
+- https://github.com/DeusData/codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 64 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+- https://github.com/Lum1104/Understand-Anything Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
+- https://github.com/semgrep/semgrep Semgrep 是一款快速、开源的静态分析工具，能够搜索代码、查找错误并强制执行安全防护措施和编码规范。Semgrep 支持 30 多种编程语言 ，可以在 IDE 中运行，作为提交前检查，也可以集成到 CI/CD 工作流程中。
+- [codanna](https://github.com/bartolli/codanna) Give your code assistant the ability to see through your codebase—understanding functions, tracing relationships, and finding implementations with surgical precision. Context-first coding. 
+- [chunkhound](https://github.com/chunkhound/chunkhound) Your AI assistant searches code but doesn't understand it. ChunkHound researches your codebase—extracting architecture, patterns, and institutional knowledge at any scale. Integrates via MCP.
 
 ## Doc
 - https://github.com/YishenTu/claudian An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
+- https://github.com/robert-mcdermott/ai-knowledge-graph AI Powered Knowledge Graph Generator
+- https://github.com/rjzxui/obsidian-vault-cli Manage and automate Obsidian vaults from the command line with 100+ commands and direct file access for efficient workflows.
+- https://github.com/oscarhenrycollins/obsidianclaw
+- https://github.com/obra/knowledge-graph Query and traverse an Obsidian vault as a knowledge graph. Semantic search, path finding, community detection — all local. Claude Code plugin included.
+- https://github.com/RamXX/zettelvault Transform a messy Obsidian vault into clean PARA + Zettelkasten structure using LLMs.
+- https://github.com/oscampo/obsidian-neural-composer
+- https://github.com/Lapis0x0/obsidian-yolo Agent-native AI assistant for Obsidian — chat, write, knowledge base, and orchestration, all in one place.
+- https://github.com/howlil/obsidian-neural-chat Turn your notes into interactive AI conversations. Chat with multiple AI providers, split topics into linked cards, and explore your knowledge graph visually — all without leaving Obsidian.
+- https://github.com/kepano/obsidian-skills/ 
+- https://github.com/axtonliu/axton-obsidian-visual-skills Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
+- https://github.com/obsidian-tasks-group/obsidian-tasks
+- https://github.com/azuma520/obsidian-graph-query
+- https://github.com/ArctykDev/obsidian-project-planner
+- [notebook-navigator](https://github.com/johansan/notebook-navigator)
+- https://github.com/otaleghani/kiln Turn your Obsidian vault into a high-performance website with zero config. Supports interactive Canvas, Mermaid, LaTeX, and Wikilinks out of the box. Single binary, blazing fast, HTMX-powered navigation, and 1:1 feature parity with Obsidian.
+- https://github.com/glowingjade/obsidian-smart-composer -[forks](https://github.com/glowingjade/obsidian-smart-composer/discussions/496)
 - https://github.com/wagner-niklas/Alfred Alfred: An open-source Data Assistant for domain adoption, powered by agent skills, semantic knowledge graphs and relational data.
 - [arscontexta](https://github.com/agenticnotetaking/arscontexta) A Claude Code plugin that generates complete knowledge systems from conversation
+- [turbovault](https://github.com/Epistates/turbovault) Markdown and OFM SDK
 ### WorkFlow
 - https://github.com/inngest/inngest
  
 ## UI
 - https://github.com/CopilotKit/CopilotKit
-
-
-
+- https://github.com/TranHoaiHung/figma-ui-mcp use Claude (or any MCP client) to draw UI directly in Figma, and read existing designs back as structured data or code.
+ 
+ 
 ## WEB-UI
 - https://saaslandingpage.com/
 - https://www.pencil.dev/
 
 
-## Platform
-- https://github.com/lioensky/VCPToolBox 强大的AI-API-工具交互范式AGI社群系统
-- https://github.com/latitude-dev/latitude-llm Latitude is an open-source platform for building and operating LLM features in production.
-
 ## OpenClaw
 - https://github.com/VoltAgent/awesome-openclaw-skills
+- https://github.com/mergisi/awesome-openclaw-agents
 - https://clawhub.ai/
 - https://github.com/hesamsheikh/awesome-openclaw-usecases
 - https://x.com/HoodyLiu/status/2030800942497685663 2026 中文 OpenClaw 推文大合集！共51篇，整理分类好，建议收藏
 - https://openclaw-docs.dx3n.cn/
 - https://github.com/mengjian-github/openclaw101 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站
-- https://github.com/Gen-Verse/OpenClaw-RL Empowering OpenClaw with RL — Train a personalized agent simply by talking to it.
 - https://pinchbench.com/ 小龙虾 大模型能力排行
 - https://github.com/jzOcb/context-doctor Visualize and diagnose OpenClaw context window usage — terminal, PNG, or JSON
+- https://github.com/Martian-Engineering/lossless-claw
+- https://github.com/MarlBurroW/pinchchat A sleek, dark-themed webchat UI for OpenClaw — monitor sessions, stream responses, and inspect tool calls in real-time.
+- https://github.com/THU-MAIC/OpenMAIC/blob/main/README-zh.md 一键生成沉浸式多智能体互动课堂。
+ 
+### OpenClaw-Installer
+- https://github.com/miaoxworld/OpenClawInstaller
+- https://github.com/nexu-io/nexu
 
 ## Misson-Control
 - https://github.com/abhi1693/openclaw-mission-control
@@ -662,6 +790,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/builderz-labs/mission-control
 - https://github.com/Curbob/LobsterBoard
 - https://github.com/mudrii/openclaw-dashboard
+- https://github.com/grp06/openclaw-studio A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you like it!
 - https://github.com/DanAndBub/bubboard
 - https://github.com/qingchencloud/clawpanel
 - https://github.com/zhaoxinyi02/ClawPanel
@@ -680,6 +809,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/TurixAI/TuriX-CUA
 - https://github.com/flywhale-666/whaleclaw memory
 - https://github.com/chrysb/alphaclaw AlphaClaw wraps OpenClaw with a convenient setup wizard, 
+- https://github.com/dataelement/Clawith
+- https://github.com/wu-yc/LabClaw LabClaw – Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists
 ## Visual-Enhance
 - https://github.com/nicobailon/visual-explainer
 - https://github.com/ChristopherLyon/graphrag-workbench
@@ -689,8 +820,10 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/qualisero/awesome-pi-agent
 - https://github.com/nicobailon/pi-subagents
 - https://github.com/nicobailon/pi-interactive-shell
+- https://github.com/Michaelliv/pi-generative-ui
 - https://github.com/nicobailon/pi-messenger
 - https://github.com/langchain-ai/deepagentsjs
+- https://github.com/inclusionAI/AEnvironment
 
 ## AutoTest
 - https://midscenejs.com/
@@ -698,6 +831,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://si.inc/posts/fdm1/
 - https://github.com/OminousIndustries/PhoneDriver
 - https://github.com/X-PLUG/MobileAgent
+- https://github.com/ai-dashboad/flutter-skill
+- https://github.com/nowsprinting/gameplay-mcp
 ## ai-ui
 - https://github.com/BIT-DataLab/Edit-Banana
 - https://github.com/Anionex/banana-slides ppt
@@ -708,3 +843,37 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 
 ## AI-Agent-Creator
 - https://github.com/strongdm/attractor
+
+## Agent-Analytic
+- https://github.com/f/agentlytics
+
+
+## DeepChat
+- https://github.com/ThinkInAIXYZ/deepchat  DeepChat is a powerful open-source AI agent platform that brings together models, tools, and agent runtimes in one desktop app. Whether you're using cloud APIs like OpenAI, Gemini, Anthropic, or locally deployed Ollama models, DeepChat delivers a smooth user experience.
+## API-Transit
+- https://www.helpaio.com/transit
+- https://iffs.cn/ 模型照妖镜
+- https://duomi.uk/home
+- https://ai.17nas.com/tools/pricing/
+- https://subrouter.ai/models
+- https://www.univibe.cc/
+- https://new.suxi.ai/
+
+## AI-WebFetch
+- [browser-use](https://github.com/browser-use/browser-use) Make websites accessible for AI agents. Automate tasks online with ease.
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
+## Token-Reduce
+- https://github.com/rtk-ai/rtk CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- https://github.com/chopratejas/headroom The Context Optimization Layer for LLM Applications
+
+## Feishu
+- https://github.com/larksuite/openclaw-lark
+- https://github.com/riba2534/feishu-cli
+
+## Log
+- https://github.com/comet-ml/opik-openclaw
+- https://www.comet.com/docs/opik/
+
+## semantic-layer
+- https://github.com/Hawksight-AI/semantica Semantica 🧠 — A framework for building semantic layers, context graphs, and decision intelligence systems with explainability and provenance.
