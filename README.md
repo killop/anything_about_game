@@ -1492,6 +1492,7 @@ Table of Contents
 - [UnitySourceMovement](https://github.com/Olezen/UnitySourceMovement) Source engine-like movement in Unity, based on Fragsurf by cr4yz (Jake E.).
 - https://github.com/nicholas-maltbie/OpenKCC
 - https://github.com/runevision/LocomotionSystem
+- https://github.com/bunkerboy258/BBB-Nexus BBBNexus Action Controller Framework
 - [advanced-locomotion-controller](https://assetstore.unity.com/packages/templates/packs/advanced-locomotion-controller-234390) unity-plugin
 - https://github.com/Another-Axiom/GorillaLocomotion
 - [motion-matching-locomotion-controller](https://assetstore.unity.com/packages/tools/game-toolkits/motion-matching-locomotion-controller-243179) unity-plugin
@@ -1639,6 +1640,7 @@ Table of Contents
 - https://github.com/nashaofu/shell360
 - https://github.com/Gaurav-Gosain/tuios
 - https://clig.onev.dev/
+- https://wezterm.org/
 
 ## Scenes
 #### Terrain
@@ -6195,6 +6197,8 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [schedule](https://github.com/FelixBole/schedule-master)
 - [drakkar-events](https://assetstore.unity.com/packages/tools/integration/drakkar-events-302282)
 - [GenEvent](https://github.com/Puring103/GenEvent)
+- [pulse-gc-free-event-system](https://assetstore.unity.com/packages/tools/utilities/pulse-gc-free-event-system-with-live-debugger-362652)
+- [game-event-system-ges](https://assetstore.unity.com/packages/tools/game-toolkits/game-event-system-ges-357054)
 #### Time control
 - [agamotto](https://assetstore.unity.com/packages/tools/particles-effects/agamotto-180884?) unity-plugin
 - [ultimate-replay](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) unity-plugin
