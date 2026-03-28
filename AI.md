@@ -421,6 +421,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 ## AutoResearch
 - https://github.com/alvinunreal/awesome-autoresearch A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
 - https://github.com/aiming-lab/AutoResearchClaw 聊一个想法。出一篇论文。全自动 & 自演化
+- https://github.com/EurekaClaw/EurekaClaw
 - https://github.com/SpectrAI-Initiative/InnoClaw A self-hostable AI research workspace for grounded chat, paper study, scientific skills, and research execution.
 - https://github.com/uditgoenka/autoresearch Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 
@@ -531,6 +532,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 -[Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)
 - https://github.com/Gen-Verse/OpenClaw-RL Empowering OpenClaw with RL — Train a personalized agent simply by talking to it.
 ## Agentic Development Environment (ADE)
+- - https://github.com/bfly123/claude_code_bridge
 - https://github.com/peters/horizon
 - https://github.com/generalaction/emdash?
 - https://conductor.build/
@@ -555,6 +557,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/BradGroux/veritas-kanban Local-first task management and AI agent orchestration platform.
 - https://github.com/0xNyk/lacp Local Agent Control Plane (LACP): Claude/Codex control-plane for memory, retrieval gates, and telemetry
 - [acpx](https://github.com/openclaw/acpx) Headless CLI client for stateful Agent Client Protocol (ACP) sessions
+- [xurl](https://github.com/Xuanwo/xurl) xURL: Client for AI Agents URLs
 - [octoally](https://github.com/ai-genius-automations/octoally) The dashboard for Claude Code & OpenAI Codex. Launch, monitor, and manage AI coding sessions with RuFlo multi-agent orchestration — all from one place.
 - [cc-connect](https://github.com/chenhg5/cc-connect) Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms
 - [agtx](https://github.com/fynnfluegge/agtx) Multi-session AI coding terminal manager - autonomously orchestrate Claude, Codex, Gemini, OpenCode, Cursor
@@ -577,7 +580,6 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/j3n5en/EnsoAI
 - https://github.com/21st-dev/1code
 - https://github.com/sentient-agi/ROMA
-- https://github.com/bfly123/claude_code_bridge
 - https://github.com/camel-ai/camel
 - https://github.com/kyegomez/swarms
 - https://github.com/ruvnet/claude-flow
@@ -588,7 +590,6 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/pedramamini/Maestro
 - https://github.com/zhukunpenglinyutong/codemoss
 - https://github.com/ChesterRa/cccc
-- https://github.com/The-Vibe-Company/companion
 - https://github.com/ComposioHQ/agent-orchestrator
 - https://github.com/vibeeval/vibecosystem
 - https://github.com/sequenzia/agent-alchemy Agent Alchemy is a curated collection of plugins, apps, and extensions designed to elevate your agentic engineering workflows. Built for Claude Code and other AI coding agents, these tools help developers work smarter and ship faster.
@@ -763,6 +764,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 
 ## Doc
 - https://github.com/YishenTu/claudian An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
+- https://github.com/hkcanan/katmer-code Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support
 - https://github.com/robert-mcdermott/ai-knowledge-graph AI Powered Knowledge Graph Generator
 - https://github.com/rjzxui/obsidian-vault-cli Manage and automate Obsidian vaults from the command line with 100+ commands and direct file access for efficient workflows.
 - https://github.com/oscarhenrycollins/obsidianclaw
@@ -885,6 +887,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 ## DeepChat
 - https://github.com/ThinkInAIXYZ/deepchat  DeepChat is a powerful open-source AI agent platform that brings together models, tools, and agent runtimes in one desktop app. Whether you're using cloud APIs like OpenAI, Gemini, Anthropic, or locally deployed Ollama models, DeepChat delivers a smooth user experience.
 - https://github.com/onyx-dot-app/onyx Open Source AI Platform - AI Chat with advanced features that works with every LLM
+
+
 ## API-Transit
 - https://www.helpaio.com/transit
 - https://iffs.cn/ 模型照妖镜
@@ -893,6 +897,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://subrouter.ai/models
 - https://www.univibe.cc/
 - https://new.suxi.ai/
+- https://github.com/icebear0828/codex-proxy
 
 ## AI-WebFetch
 - [browser-use](https://github.com/browser-use/browser-use) Make websites accessible for AI agents. Automate tasks online with ease.
