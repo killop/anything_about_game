@@ -2079,6 +2079,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [mesop](https://google.github.io/mesop)
 - https://github.com/feiyun0112/Gradio.Net
 - https://github.com/rothgar/awesome-tuis
+- https://tui.studio/
 - https://getfresh.dev/
 - https://nicegui.io/
 - https://ratatui.rs/
@@ -2164,6 +2165,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/mmogdeveloper/MO.Framework
 - https://github.com/Searchstars/Leekcutter
 - [iogame](https://toscode.gitee.com/iohao/iogame) 国内首个基于蚂蚁金服 SOFABolt 的 java 网络游戏服务器框架；无锁异步化、事件驱动的架构设计； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、分步式、高性能的网络java游戏服务器！ Netty + spring + protobuf + websocket + tcp + udp；全球同服；业务线程基于disruptor LMAX架构；FXGL、心跳、帧同步、状态同步
+- [SharedMeta](https://github.com/CoreGameIO/SharedMeta) 让客户端-服务器游戏开发民主化。一个连接 Unity 和 Microsoft Orleans 的确定性框架。只需用 C# 编写一次游戏逻辑——它即可在服务器端（Orleans grains）运行，并在客户端（Unity/.NET）上重放。
 - [iron](https://gitee.com/pink0453/iron) iron 基于vertx高性能游戏服务器框架
 - [NFShmServer](https://gitee.com/xiaoyi445_admin/NFShmServer) NFShmServer 是一个使用C++开发的轻量级,敏捷型,弹性的,分布式的共享内存的插件开发框架, 让你更快更简单的开发服务端应用. 部分思路来自UE4和Ogre.(当前主要用在游戏领域) 我写的开源架构，前几年开源过，后来自己做项目，又没开源了，现在没搞项目了，加上修改了2年了，打算重新开源
 - [hive](https://github.com/hero1s/hive) A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script
@@ -3669,6 +3671,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [glsl-pcg-prng](https://github.com/riccardoscalco/glsl-pcg-prng) Glsl implementation of the PCG algorithm for the generation of random numbers.
 
 #### Shader-Compiler
+- [ShaderLabFormatter](https://github.com/litefeel/ShaderLabFormatter) An VSCode plugin for formatting of Unity ShaderLab
 - [UnityRuntimeShader](https://github.com/witalosk/UnityRuntimeShader/) Compile and apply fragment / compute shaders to render textures or buffers.
 - [unity shaderlab 和 3dsmax maya .fx 自定义 hlsl directx material 材质的联系](https://zhuanlan.zhihu.com/p/627040080) [doc](https://docs.google.com/document/d/1yHARKE5NwOGmWKZY2z3EPwSz5V_ZxTDT8RnRl521iyE/)
 - [a-review-of-shader-languages](https://alain.xyz/blog/a-review-of-shader-languages)
@@ -4650,6 +4653,7 @@ Showing off the power of shader properties in Unity
 - [cavifree](Screen space shader for Unity resembling the "cavity" effect in Blender)
 - [lut-creator](https://assetstore.unity.com/packages/tools/utilities/lut-creator-suite-317840) unity-plugin
 - https://github.com/meenphie/AgX-Tonemapping-Unity
+- https://github.com/aki-null/CustomToneMappingURP
 #### MatCaps
 - https://github.com/nidorx/matcaps#matcaps 
 
@@ -5052,6 +5056,7 @@ Showing off the power of shader properties in Unity
 ## Embed-Script/VM/
 - [IwasmUnity](https://github.com/HoloLabInc/IwasmUnity)
 - https://github.com/FPCSharpUnity/FPCSharpUnity?
+- https://github.com/rkttu/dotnetpy
 - https://github.com/ruccho/WaaS
 - [WACS](https://github.com/kelnishi/WACS) WebAssembly Interpreter written in C# 9.0/.NET Standard2.1
 - [cyber](https://github.com/fubark/cyber) Fast and concurrent scripting.
@@ -5530,10 +5535,10 @@ Showing off the power of shader properties in Unity
 - [Unity-RuntimeEditorWindow](https://github.com/994935108/Unity-RuntimeEditorWindow)
 - [uicomponents](https://github.com/jonisavo/uicomponents)A small front-end framework for Unity's UIToolkit with a goal to reduce boilerplate code and make development more fun
 - [UI-Toolkit-Plus](https://github.com/ErnSur/UI-Toolkit-Plus)
-- https://github.com/fake-skate/html2uuitk
 - https://github.com/Shaun-Fong/UIToolkit-FieldBinding
 - https://www.zoboui.com/
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
+- https://github.com/TonkersTinkers/TonkersTableTopia
 - https://assetstore.unity.com/packages/tools/gui/flexbuilder-2023-flexbox-css-3-ui-245345
 - https://github.com/gilzoide/unity-flex-ui
 - https://github.com/chasinghope/CurveLayoutGroup
@@ -5619,6 +5624,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/neon-izm/UnityTextMeshProNotoSansForRude
 - https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner
 - [FontAssetSaveDisabler.cs](https://gist.github.com/yasirkula/edf4ba1bb7c5c18800e791e01bc9bcd7)
+- https://github.com/Yuuenn/Unity-BMFontImporter
 - https://github.com/Giresharu/TMPro-Player
 - https://github.com/Luca3317/TMPEffects
 - https://github.com/aillieo/TMPSpriteAssetCreator
@@ -5761,6 +5767,7 @@ Showing off the power of shader properties in Unity
 - [SourceGenerator.Foundations](https://github.com/ByronMayne/SourceGenerator.Foundations) A Source Generator for Source Generators. Gives out of the box support for transistent dependencies and logging right in Visual Studio
 - [Gobie](https://github.com/GobieGenerator/Gobie) Simple C# source generation based on custom templates
 - [Unity-AltSourceGenerator](https://github.com/sator-imaging/Unity-AltSourceGenerator)
+- [Medicine](https://github.com/apkd/Medicine) Medicine is a Unity toolkit that combines Roslyn source generators with fast runtime helpers to eliminate common component boilerplate, improve prototyping velocity, and unlock new high-performance programming patterns.
 - [Rider 中使用 Source Generator](https://qiita.com/Tanakancolle/items/b12c48e0cf0fe78af2ad) 介绍在 Rider 中使用 Source Generator 创建工具的流程
 - [Rider 中使用 Source Generator](https://qiita.com/amenone_games/items/0a99f38fd08911b62c3a)
 - [Arch.Extended](https://github.com/genaray/Arch.Extended) Extensions for Arch with some useful features like Systems, Source Generator and Utils.
@@ -6249,6 +6256,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - [quarkdown](https://github.com/iamgio/quarkdown)
 ## Unity-Build
 - https://github.com/CyberAgentGameEntertainment/BuildMagic
+- https://github.com/UnioGame/unigame.buildpipeline
 - https://github.com/AnhPham/Build-Unity-Projects-with-Jenkins
 - [exclude-from-build-222791](https://assetstore.unity.com/packages/tools/utilities/exclude-from-build-222791)
 - https://github.com/XJINE/Unity_RemoveOnBuilds
