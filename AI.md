@@ -482,6 +482,9 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [hello2cc](https://github.com/hellowind777/hello2cc) Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.
 
 ## Claude-Code-Leak
+- [collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code)
+- [nano-claude-code](https://github.com/SafeRL-Lab/nano-claude-code) Nano Claude Code: A Minimal Python Reimplementation, simple and easy to deploy quickly.
+- [nanocode](https://github.com/nanocode-project/nanocode) nanocode: A lightweight AI coding assistant built in Python (~1.9k lines).
 - [openclaude](https://github.com/Gitlawb/openclaude) Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 - [openclaude](https://gitlawb.com/node/repos/z6MkqDnb/openclaude) Use Claude Code with any LLM — not just Claude.
 - https://github.com/tvytlx/ai-agent-deep-dive claude code 源码分析
@@ -865,7 +868,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [napkin](https://github.com/Michaelliv/napkin) Knowledge system for agents. Local-first, file-based, progressively disclosed.
 - [claw-brain](https://github.com/Lanzelot1/claw-brain) A fork-and-use template for building your own agent brain - a knowledge management system powered by Claude Code, with slash commands, structured data validation, and a git-first workflow
 - [klore](https://github.com/vbarsoum1/klore) LLM Knowledge Compiler — raw sources in, living knowledge base out
-
+- [obsidian_vault_pipeline](https://github.com/fakechris/obsidian_vault_pipeline) Obsidian Vault Pipeline - 全自动知识管理流水线
 ### WorkFlow
 - https://github.com/inngest/inngest
  
