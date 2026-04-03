@@ -2079,11 +2079,13 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [mesop](https://google.github.io/mesop)
 - https://github.com/feiyun0112/Gradio.Net
 - https://github.com/rothgar/awesome-tuis
-- https://tui.studio/
+- https://tui.studio/ A Figma-like visual editor for TUI applications. Drag-and-drop components, edit properties in real-time
 - https://getfresh.dev/
 - https://nicegui.io/
 - https://ratatui.rs/
 - https://github.com/EnhancedJax/Bagels
+- https://github.com/tekugo/zeichenwerk Go console user interface library based on tcell
+- https://github.com/andes90/collabmd Realtime collaboration for markdown folders, diagrams, and git-backed docs.
 ## Game-Server-framework
 - https://github.com/Quaint-Studios/
 - https://github.com/moke-game/platform
@@ -4192,6 +4194,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Delt06/aaaa-rp
 - https://github.com/ahd2/AHD2-TODSystem
 - https://github.com/aras-p/UnityGaussianSplatting
+- https://github.com/cvg/resplat ReSplat: Learning Recurrent Gaussian Splatting
 - https://github.com/wuyize25/gsplat-unity
 - https://github.com/StressLevelZero
 - https://github.com/alelievr/HDRP-Mobile
