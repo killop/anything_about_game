@@ -296,6 +296,7 @@
 - https://github.com/kyrolabs/awesome-agents
 
 ### Framework
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, guardrails, memory, RAG, 100+ LLMs.
 - https://github.com/stepfun-ai/gelab-zero
 - https://github.com/TencentCloudADP/youtu-agent
 - https://github.com/ashishpatel26/500-AI-Agents-Projects
@@ -419,15 +420,18 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/HKUDS/RAG-Anything
 - https://github.com/kenforthewin/atomic A personal knowledge base that turns markdown notes into a semantically-connected, AI-augmented knowledge graph.
 
-### Local LLM
+### Local-LLM
 - https://github.com/vllm-project/vllm
 - https://github.com/datawhalechina/self-llm/
 - https://pinokio.co/
+- https://www.canirun.ai/
+- https://www.whatcani.run/
 
 ## Devops
 - https://github.com/derisk-ai/OpenDerisk
 
 ## AutoResearch
+- https://github.com/WecoAI/awesome-autoresearch
 - https://github.com/alvinunreal/awesome-autoresearch A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
 - https://github.com/aiming-lab/AutoResearchClaw 聊一个想法。出一篇论文。全自动 & 自演化
 - https://github.com/EurekaClaw/EurekaClaw
@@ -482,6 +486,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [hello2cc](https://github.com/hellowind777/hello2cc) Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.
 
 ## Claude-Code-Leak
+- [claw-code-parity](https://github.com/ultraworkers/claw-code-parity) claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
 - [collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code)
 - [nano-claude-code](https://github.com/SafeRL-Lab/nano-claude-code) Nano Claude Code: A Minimal Python Reimplementation, simple and easy to deploy quickly.
 - [nanocode](https://github.com/nanocode-project/nanocode) nanocode: A lightweight AI coding assistant built in Python (~1.9k lines).
@@ -499,16 +504,21 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
 - [open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) claude code 套壳的agent sdk
 - [better-clawd](https://github.com/x1xhlol/better-clawd) Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in.
+- [Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study) 深入Claude Code源码，学习目前最好的agent实现
 ## AgentInspector
 - https://github.com/vicarious11/agenttop htop for AI coding agents. Monitor every token, dollar, and session across Claude Code, Cursor, Kiro, Codex, and Copilot — from a single dashboard.
 - https://github.com/kangraemin/claude-inspector See what Claude Code actually sends to the API.
 - https://github.com/patoles/agent-flow
 - https://github.com/f/agentlytics
-
+- https://github.com/future-agi/traceAI traceAI is an open-source library that gives you full visibility into your AI applications. It captures every LLM call, prompt, token count, retrieval step, and agent decision as structured traces and sends them to whatever observability tool you already use.
 ## Agent-Format
 - https://github.com/agentsmd/agents.md
  
 ## Skill
+- https://github.com/alchaincyf/x-mentor-skill 女娲的第一个「非人类」作品。不是蒸馏一个人，是蒸馏一个领域。
+- https://github.com/alchaincyf/nuwa-skill 那何必蒸馏同事？去蒸馏乔布斯、芒格、费曼、马斯克。
+只需输入一个名字，女娲自动完成调研、提炼、验证全流程。
+- https://github.com/leilei926524-tech/anti-distill 反蒸馏 Skill（anti-distill）
 - https://github.com/mgechev/skills-best-practices Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
 - https://github.com/ynulihao/AgentSkillOS
 - https://github.com/zjunlp/SkillNet 
@@ -567,7 +577,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/open-gitagent/gitclaw A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.
 - https://github.com/open-gitagent/gitagent
 
-## Evolving&&KnowledgeGraph
+## Evolving
 - [autoagent](https://github.com/kevinrgu/autoagent) autonomous harness engineering
 - [hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution)  Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA
 - [yoyo-evolve](https://github.com/yologdev/yoyo-evolve) A coding agent that evolves itself. One commit per day.
@@ -583,7 +593,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [a-evolve](https://github.com/A-EVO-Lab/a-evolve) The official repository of "Position: Agentic Evolution is the Path to Evolving LLMs".
 - [724-office](https://github.com/wangziqi06/724-office) 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.
 
-## Harness
+## Harness 
 - [Natural-Language Agent Harnesses](https://arxiv.org/html/2603.25723v1)
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) OpenHarness delivers core lightweight agent infrastructure: tool-use, skills, memory, and multi-agent coordination.
 - https://github.com/revfactory/harness A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
@@ -614,8 +624,11 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/DeadWaveWave/opencove
 
 ## Agent-Orchestrator
+- [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) typeScript framework for multi-agent orchestration. One runTeam() call from goal to result — the framework decomposes it into tasks, resolves dependencies, and runs agents in parallel.
+- [ao-cli](https://github.com/launchapp-dev/ao-cli) Animus turns a single YAML file into an autonomous software delivery pipeline.
 - [HolyClaude](https://github.com/CoderLuii/HolyClaude) AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
 - [OpenSwarm](https://github.com/unohee/OpenSwarm) OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
+- [swarmclaw](https://github.com/swarmclawai/swarmclaw) SwarmClaw is a self-hosted AI runtime for OpenClaw and multi-agent work. It helps you run autonomous agents and orchestrators with heartbeats, schedules, delegation, memory, runtime skills, and reviewed conversation-to-skill learning across OpenClaw gateways and other providers.
 - [automata](https://github.com/sentientwave/automata) Agent swarming organization system
 - [termcanvas](https://github.com/blueberrycongee/termcanvas) An infinite canvas desktop app for visually managing terminals
 - [nexus](https://github.com/PermaShipAI/nexus) An open-source multi-agent AI system that adds judgement, verification, and initiative to AI-assisted software development.
@@ -649,6 +662,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/fengshao1227/ccg-workflow Claude + Codex + Gemini 多模型协作系统
 - https://github.com/catlog22/Claude-Code-Workflow JSON-driven multi-agent cadence-team development framework with intelligent CLI orchestration (Gemini/Qwen/Codex), context-first architecture, and automated workflow execution
 - https://github.com/rohitg00/pro-workflow
+- https://github.com/mindfold-ai/Trellis 给 AI 立规矩的开源框架
 - https://github.com/tobihagemann/turbo A composable dev process for Claude Code, packaged as modular skills. Each skill encodes a dev workflow so you can run it instead of prompting from scratch. Battle-tested with the Opus model.
 - https://github.com/fabro-sh/fabro The open source dark software factory for expert engineers.
 - https://github.com/hotjp/long-run-agent LRA - AI Agent长任务超稳定执行框架 ⚡ 轻量 | pip一键安装｜突破上下文限制 📌 7种状态管理 
@@ -836,14 +850,15 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [CoDeck](https://github.com/falanke/CoDeck) Visualize your codebase. Track your progress while vibe coding.
 - https://github.com/adithya-s-k/GitVizz
 - https://github.com/ind-igo/cx Semantic code navigation for AI agents
+- [codedb](https://github.com/justrach/codedb) Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
+- [axon](https://github.com/harshkedia177/axon) Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers
+- [mnemosyne](https://github.com/castnettech/mnemosyne)
 
-## Doc && Knowledge Graph
+## Doc
 - https://github.com/YishenTu/claudian An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 - https://github.com/hkcanan/katmer-code Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support
-- https://github.com/robert-mcdermott/ai-knowledge-graph AI Powered Knowledge Graph Generator
 - https://github.com/rjzxui/obsidian-vault-cli Manage and automate Obsidian vaults from the command line with 100+ commands and direct file access for efficient workflows.
 - https://github.com/oscarhenrycollins/obsidianclaw
-- https://github.com/obra/knowledge-graph Query and traverse an Obsidian vault as a knowledge graph. Semantic search, path finding, community detection — all local. Claude Code plugin included.
 - https://github.com/RamXX/zettelvault Transform a messy Obsidian vault into clean PARA + Zettelkasten structure using LLMs.
 - https://github.com/oscampo/obsidian-neural-composer
 - https://github.com/Lapis0x0/obsidian-yolo Agent-native AI assistant for Obsidian — chat, write, knowledge base, and orchestration, all in one place.
@@ -856,10 +871,6 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [notebook-navigator](https://github.com/johansan/notebook-navigator)
 - https://github.com/otaleghani/kiln Turn your Obsidian vault into a high-performance website with zero config. Supports interactive Canvas, Mermaid, LaTeX, and Wikilinks out of the box. Single binary, blazing fast, HTMX-powered navigation, and 1:1 feature parity with Obsidian.
 - https://github.com/glowingjade/obsidian-smart-composer -[forks](https://github.com/glowingjade/obsidian-smart-composer/discussions/496)
-- https://github.com/wagner-niklas/Alfred Alfred: An open-source Data Assistant for domain adoption, powered by agent skills, semantic knowledge graphs and relational data.
-- [arscontexta](https://github.com/agenticnotetaking/arscontexta) A Claude Code plugin that generates complete knowledge systems from conversation
-- [turbovault](https://github.com/Epistates/turbovault) Markdown and OFM SDK w/ MCP server that transforms your Obsidian vault into an intelligent knowledge system
-- [LLM Knowledge Bases](https://x.com/karpathy/status/2039805659525644595)
 - [obsidian-mind](https://github.com/breferrari/obsidian-mind) An Obsidian vault template for engineers who use Claude Code as a thinking partner
 - [enzyme-skill](https://github.com/jshph/enzyme-skill) best 
 - [graphiti](https://github.com/getzep/graphiti) Build Temporal Context Graphs for AI Agents
@@ -867,8 +878,38 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [Cognisync](https://github.com/shrijacked/Cognisync) Filesystem-first framework for LLM-maintained knowledge bases
 - [napkin](https://github.com/Michaelliv/napkin) Knowledge system for agents. Local-first, file-based, progressively disclosed.
 - [claw-brain](https://github.com/Lanzelot1/claw-brain) A fork-and-use template for building your own agent brain - a knowledge management system powered by Claude Code, with slash commands, structured data validation, and a git-first workflow
-- [klore](https://github.com/vbarsoum1/klore) LLM Knowledge Compiler — raw sources in, living knowledge base out
-- [obsidian_vault_pipeline](https://github.com/fakechris/obsidian_vault_pipeline) Obsidian Vault Pipeline - 全自动知识管理流水线
+- [icm](https://github.com/rtk-ai/icm) ICM 为您的 AI 智能体提供真正的记忆——不是笔记工具，不是上下文管理器，而是真正的记忆
+
+## Knowledge Graph
+- [LLM Knowledge Bases](https://x.com/karpathy/status/2039805659525644595)
+- https://github.com/robert-mcdermott/ai-knowledge-graph AI Powered Knowledge Graph Generator
+- https://github.com/obra/knowledge-graph Query and traverse an Obsidian vault as a knowledge graph. Semantic search, path finding, community detection — all local. Claude Code plugin included.
+- https://github.com/wagner-niklas/Alfred Alfred: An open-source Data Assistant for domain adoption, powered by agent skills, semantic knowledge graphs and relational data.
+- [arscontexta](https://github.com/agenticnotetaking/arscontexta) A Claude Code plugin that generates complete knowledge systems from conversation
+- [dkg-v9](https://github.com/OriginTrail/dkg-v9) Give your AI agents the ultimate memory that survives the session.
+- [turbovault](https://github.com/Epistates/turbovault) Markdown and OFM SDK w/ MCP server that transforms your Obsidian vault into an intelligent knowledge system
+
+## LLM-WIKI
+- [knowledge-base-server](https://github.com/willynikes2/knowledge-base-server) Make every AI agent you use smarter. Persistent memory with SQLite FTS5, MCP server, Obsidian sync, and self-learning intelligence pipeline.
+- [My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) A team of 8+ AI agents and 13 specialized skills that manage your Obsidian vault so your brain doesn't have to.
+- [pal](https://github.com/agno-agi/pal) Pal is a Personal Agent that Learns how you work by building a compounding knowledge base
+- [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [graphify](https://github.com/safishamsi/graphify) 一个面向 AI 编码助手的技能。 在 Claude Code、Codex、OpenCode 或 OpenClaw 中输入 /graphify，它会读取你的文件、构建知识图谱，并把原本不明显的结构关系还给你。更快理解代码库，找到架构决策背后的“为什么”。
+- [obsidian_vault_pipeline](https://github.com/fakechris/obsidian_vault_pipeline) A automatic pipeline that processing obsidian vault by llm from pinbord, obsidian Clipper etc.
+- [Thoth](https://github.com/siddsachar/Thoth) Thoth is a local-first AI assistant built for personal AI sovereignty 
+- [memex](https://github.com/memex-lab/memex) A local-first, AI-native personal knowledge management app built with Flutter. Capture thoughts through text, photos, and voice
+- [obsidian-llm-wiki](https://github.com/2233admin/obsidian-llm-wiki) Let your AI read, search, and build on your Obsidian notes.
+- [knowledge-graph](https://github.com/ayushjj/knowledge-graph) Personal AI knowledge graph — 133+ curated insights across AI product building and mental models, connected via wikilinks. Built with Claude Code.
+- [llm-wiki](https://github.com/nvk/llm-wiki) A Claude Code plugin for building LLM-compiled knowledge bases. Ingest sources, compile interconnected markdown articles, query, lint, research, and generate outputs — all from Claude Code. Optionally view in Obsidian.
+- [llmwiki](https://github.com/lucasastorian/llmwiki) Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
+- [sage-wiki](https://github.com/xoai/sage-wiki) An implementation of Andrej Karpathy's idea for an LLM-compiled personal knowledge base. Some lessons learned after building sage-wiki here.
+- [llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) A personal knowledge base that builds and maintains itself.A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
+- [llm-wiki-skill](https://github.com/sdyckjq-lab/llm-wiki-skill) 把碎片化的信息变成持续积累、互相链接的知识库。你只需要提供素材，agent 会把链接、文件和文本整理成 wiki 页面。
+- [llm-wiki-compiler](https://github.com/atomicmemory/llm-wiki-compiler) The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
+- [llm-knowledge-base](https://github.com/hoadoan1997/llm-knowledge-base) LLM-powered personal knowledge base — raw articles → compiled wiki → Q&A + outputs. Claude writes, you curate.
+- [llm-wiki-compiler](https://github.com/vbarsoum1/llm-wiki-compiler) Compile documents into a living Obsidian wiki. Any AI agent. Based on Karpathy's LLM Wiki pattern.
+- [claude-knowledge-vault](https://github.com/psypeal/claude-knowledge-vault) A local, LLM-powered knowledge base plugin for Claude Code. Collect from academic databases
+
 ### WorkFlow
 - https://github.com/inngest/inngest
  
@@ -983,6 +1024,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustrating setup required.
 - https://github.com/OpenBMB/ChatDev ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - https://github.com/import-ai/omnibox OmniBox (小黑) is a simple, cross-platform, all-in-one AI knowledge hub. All you need to do is collect, then ask.
+- https://github.com/angshuman/cortex Drop in your questions, tasks, and ideas. Cortex researches, reasons through them, and keeps everything organized — privately on your machine.
 
 ## API-Transit
 - https://www.helpaio.com/transit
@@ -1040,3 +1082,9 @@ m
 
 ## Fast-Search
 - [fff](https://github.com/dmtrKovalenko/fff.nvim?) The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- [agrep](https://github.com/csehammad/agrep) Agent-first search: natural-language queries, domain-aware ranking, and JSONL output for code, legal, docs, and logs.
+
+## Filesystem 
+- https://github.com/ZeroZ-lab/vkfs Unix-like filesystem commands over vector databases, built for AI agents
+## Virtual Machine
+- [rvm](https://github.com/ruvnet/rvm) RVM — The Virtual Machine Built for the Agentic Age, in Rust.
