@@ -193,6 +193,7 @@
 - https://github.com/YGYOOO/WorldX
 - https://github.com/leigest519/OpenGame OpenGame: Open Agentic Coding for Games
 - https://github.com/Donchitos/Claude-Code-Game-Studios
+- https://github.com/0x0funky/agent-sprite-forge Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts
 
 ## Unity
 - https://github.com/nasimali5/mcpup
@@ -356,10 +357,12 @@
 
 ## Memory
 - [m_flow](https://github.com/FlowElement-ai/m_flow) Retrieval through reasoning and association — M-flow operates like a cognitive memory system.
+- [graymatter](https://github.com/angelnicolasc/graymatter) Three lines of code to give your AI agents persistent memory and cut token usage by 90%.
 - [sirchmunk](https://github.com/modelscope/sirchmunk)  从原始数据到自我进化的智能，实时进行。
 - [agent-memory](https://github.com/neo4j-labs/agent-memory) A graph-native memory system for AI agents and context graphs. Store conversations, build knowledge graphs, and let your agents learn from their own reasoning — all backed by Neo4j. 
 - [mempalace](https://github.com/milla-jovovich/mempalace) The highest-scoring AI memory system ever benchmarked. And it's free.
 - https://github.com/AGI-is-going-to-arrive/Memory-Palace-Openclaw
+- https://github.com/avasol/galadriel-public
 - [mempal](https://github.com/ZhangHanDong/mempal) AI Agent Memory
 - [create-context-graph](https://github.com/neo4j-labs/create-context-graph) 创建上下文图将引导您完成交互式向导，并生成完整的项目：
 - [muninndb](https://muninndb.com/) Your AI is brilliant. Its memory is broken. MuninnDB gives it total recall — nothing deleted, the right memory always first, associations built automatically from usage patterns alone.
@@ -465,6 +468,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/VoltAgent/awesome-codex-subagents/
 - https://github.com/tuannvm/codex-mcp-server MCP server wrapper for OpenAI Codex CLI that enables Claude Code to leverage Codex's AI capabilities directly.
 - https://github.com/congwa/codex-autoresearch codex 永动机，避免codex执行一个长任务总是自动停止的问题
+- https://github.com/Git-on-my-level/codex-autorunner 只需制定一次计划，然后让您最喜欢的程序员在您睡觉时埋头处理工单——遇到问题时，他们会在 Telegram 或 Discord 上联系您。
 ## claude-code
 - https://github.com/Yeachan-Heo/oh-my-claudecode
 - https://github.com/hesreallyhim/awesome-claude-code
@@ -585,7 +589,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://learn.shareai.run/
 - [面向 AI Agent 入门者的教学项目](https://github.com/Mr-Q526/Agent-Observability-Demo)
 - [hello-agents](https://github.com/datawhalechina/hello-agents) 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-- https://github.com/lukilabs/craft-agents-oss/ Craft Agents is a tool we built so that we (at craft.do) can work effectively with agents
+
 
 ## Hermes-Agent
 - https://hermesatlas.com/#curated-lists
@@ -726,6 +730,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [orc](https://github.com/spencermarx/orc) - Hierarchical multi-agent orchestrator that coordinates AI coding agents through planning, task decomposition, isolated worktrees, and review pipelines.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.
 - [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
+- [companies](https://github.com/paperclipai/companies) Deploy an entire AI workforce in minutes — 16 pre-built companies, 440+ specialized agents, and 500+ battle-tested skills. From security auditors to game studios, from scientific research labs to full-stack dev shops. Plug in, power up, ship.
 - [shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation. Supports Claude Code, OpenCode, Pi Agent and more.
 - [skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
 - [swarm-protocol](https://github.com/phuryn/swarm-protocol) - Headless coordination layer exposed as MCP server: claim work, detect file conflicts, heartbeat, and hand off tasks across agent sessions.
@@ -752,6 +757,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [acpx](https://github.com/openclaw/acpx) Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 - [imclaw](https://github.com/smallnest/imclaw) acp skill for openclaw, claude cc, codex, gemini cli, pi and others
 - [agent-mailer](https://github.com/stelee410/agent-mailer) AMP (Agent Mailer Protocol) is an async mailbox system for AI agents. Instead of chaining tools, writing DAGs, or building RPC glue — agents just send messages to each other. Works with Claude Code, Codex, Cursor, OpenClaw and any custom agents. Designed for real-world, long-running, iterative coding workflows
+- [agentic-inbox](https://github.com/cloudflare/agentic-inbox) A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 - [tingly-box](https://github.com/tingly-dev/tingly-box)
 - [xurl](https://github.com/Xuanwo/xurl) xURL: Client for AI Agents URLs
 - [octogent](https://github.com/hesamsheikh/octogent) A thin orchestration dashboard over Claude Code for managing context, automation, and developer headspace. You need tentacles
@@ -797,7 +803,8 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/ruvnet/ruflo The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 - [openagents](https://github.com/openagents-org/openagents) One workspace where all your AI agents collaborate. Open source. No account required.
 - [CORAL](https://github.com/Human-Agent-Society/CORAL) CORAL 是一个强大而轻量级的基础设施，用于多智能体自主进化，专为自主研究而构建。
-
+- [jcode](https://github.com/1jehuang/jcode) Coding Agent Harness
+- https://github.com/agnt-gg/agnt The Complete AI Agent Operating System
 ## Platform
 - [magic](https://github.com/dtyq/magic) Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 - https://github.com/FullAgent/fulling Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra.
@@ -1144,6 +1151,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/Cocoon-AI/architecture-diagram-generator Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 - [Infographic](https://github.com/antvis/Infographic/blob/main/README.zh-CN.md)
 - https://github.com/ZeroZ-lab/cc-design High-fidelity HTML design and prototype guidance skill for AI agents
+- https://github.com/vthinkxie/illustrated-explainer-spec Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page.
 
 ## AI-Native
 - https://github.com/badlogic/pi-mono AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -1188,7 +1196,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [novyx](https://github.com/novyxlabs/novyx-mcp) Persistent memory for AI agents. 64 MCP tools for remember, recall, rollback, audit, knowledge graph, governed actions, context spaces, and execution tracing. pip install novyx-mcp
 - https://github.com/iOfficeAI/AionUi/
 - https://github.com/fengzhizi715/OpenVitamin 本地优先的 AI 平台，统一承载模型推理、图片生成、工作流编排与智能体能力组合。
-- https://agents.craft.do/
+- https://github.com/lukilabs/craft-agents-oss/ Craft Agents is a tool we built so that we (at craft.do) can work effectively with agents
 
 ## API-Transit
 - https://proxycc.cc/ 中转站导航
@@ -1221,6 +1229,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/cytostack/openwolf Sharper context. Fewer tokens. Open-source middleware for Claude Code.
 - https://github.com/chanreyes042-cyber/ClawRouter Route requests to the most cost-effective model with ClawRouter—one wallet, over 30 models, no API keys needed
 - [Caveman](https://github.com/JuliusBrussee/caveman) why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
 
 ## Feishu
 - https://github.com/larksuite/openclaw-lark
@@ -1274,3 +1283,7 @@ m
 - [pen-design](https://github.com/nexu-io/open-design) Claude Design 的开源替代品。 本地优先、可部署到 Vercel、每一层都 BYOK —— 你机器上已经装好的 coding agent（Claude Code、Codex、Cursor Agent、Gemini CLI、OpenCode、Qwen）就是设计引擎，由 19 个可组合 Skills 和 71 套品牌级 Design System 驱动。
 ## Medical 
 - https://github.com/FreedomIntelligence/Awesome-AI4Med
+
+## RLM
+- https://github.com/alexzhang13/rlm General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
+- https://github.com/yologdev/yoagent yoagent is a simple, effective agent loop with tool execution and event streaming in Rust.
