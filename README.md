@@ -1558,6 +1558,7 @@ Table of Contents
 - http://zh.esotericsoftware.com/spine-unity
 - https://github.com/gindemit/unity-rlottie
 - https://github.com/gilzoide/unity-lottie-player
+- https://github.com/OpenVGLab/OmniLottie
 - https://github.com/leetful/u.movin
 - [SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) Skia For Unity with skottie animations
 - https://github.com/wieslawsoltes/Svg.Skia
@@ -1800,7 +1801,9 @@ Table of Contents
 * [DracoUnity](https://github.com/atteneder/DracoUnity) Unity package that integrates the Draco 3D data compression library within Unity.
 ## Data
 #### Metadata/Excel/Schema/Proto
+- https://github.com/Nimblesite/typeDiagram
 - https://gravitino.apache.org/
+- https://github.com/yuyixiaoxiang/electron_excel_merge
 - [table-export](https://github.com/821869798/table-export)
 - [xresloader](https://github.com/xresloader/xresloader)
 - [luban](https://github.com/focus-creative-games/luban)luban是一个相当完备的游戏配置解决方案，同时也可以用作通用型对象生成与缓存方案
@@ -2080,9 +2083,14 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/feiyun0112/Gradio.Net
 - https://github.com/rothgar/awesome-tuis
 - https://tui.studio/ A Figma-like visual editor for TUI applications. Drag-and-drop components, edit properties in real-time
+- https://github.com/Aniket-508/termcn
+- https://github.com/longbridge/gpui-component
+- https://github.com/XenoAtom/XenoAtom.Terminal.UI
+- https://wterm.dev/react
 - https://getfresh.dev/
 - https://nicegui.io/
 - https://ratatui.rs/
+- https://github.com/cledouarec/sara stands for Solution Architecture Requirement for Alignment.
 - https://github.com/EnhancedJax/Bagels
 - https://github.com/tekugo/zeichenwerk Go console user interface library based on tcell
 - https://github.com/andes90/collabmd Realtime collaboration for markdown folders, diagrams, and git-backed docs.
@@ -4869,6 +4877,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/MikePopoloski/StringFormatter Zero-allocation string formatting for .NET. 
 - [stringHelper](https://github.com/Dogwei/Swifter.Json/blob/db6c0be4fa2bfac5583d5bce7b475a2d618e7d74/Swifter.Core/Tools/String/StringHelper.cs) unsafe zero alloc string from [swifter](https://github.com/Dogwei/Swifter.Core)
 - [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) ZeroLog is a zero-allocation .NET logging library
+- https://github.com/XenoAtom/XenoAtom.Logging
 - https://github.com/Misaka-Mikoto-Tech/MutableString
 - https://github.com/linkdotnet/StringBuilder
 - https://github.com/augustoproiete/NaturalStringExtensions
@@ -6341,6 +6350,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/
 - https://evanw.github.io/float-toy/ 浮点数内存结构
 - https://learn-english.dev/ 程序员 常用英语
+- https://github.com/iamcheyan/fudoki 日语学习
 - https://github.com/nusr/hacker-laws-zh   程序员应该知道的原则
 - http://binaryconvert.com 专门做二进制转换的网站
 - [这样讲原码、反码、补码，帮学妹解决困扰了三天的问题](https://mp.weixin.qq.com/s/vKZleAIMivOxJ_kEB1uSqw)
@@ -6394,7 +6404,8 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/typst/typst
 - https://github.com/HugoBlox/theme-academic-cv
 - https://github.com/shanleiguang/vRain
-  
+- https://github.com/tw93/kami Good content deserves good paper.
+   
 ## web-server
 - https://github.com/antonmedv/gitmal
 
