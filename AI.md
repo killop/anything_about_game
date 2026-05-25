@@ -535,6 +535,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study) 深入Claude Code源码，学习目前最好的agent实现
 
 ## Agent-Inspector
+- https://github.com/ip2a/memorph 在不同的编程助手之间无损切换会话
 - https://github.com/jianshuo/ccglass See exactly what your coding agent sends to the model.
 - https://github.com/simple10/agents-observe Real-time observability dashboard for Claude Code agents.
 - https://github.com/vicarious11/agenttop htop for AI coding agents. Monitor every token, dollar, and session across Claude Code, Cursor, Kiro, Codex, and Copilot — from a single dashboard.
@@ -890,6 +891,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [feishu-codex-bridge](https://github.com/henryjing96/feishu-codex-bridge) 通过飞书私聊、群聊和话题远程操作本地 Codex CLI，支持会话恢复、流式卡片更新、图片输入和权限模式切换的开源 bridge。
 - [feishu-bridge](https://github.com/feir/feishu-bridge) 在飞书中远程操控 Claude Code CLI — 同时让 AI Agent 拥有飞书全平台操作能力。
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
+- [Lucarne](https://github.com/tuchg/Lucarne/) Agents 在本地电脑上跑，人可以放下电脑；微信 / Telegram 随时同步关键进展,Agents 完成、卡住、需要你时，Lucarne 会在手机上叫你。
 
 ## Platform
 - [magic](https://github.com/dtyq/magic) Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
@@ -922,6 +924,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/HarleyCoops/Math-To-Manim
 
 ## Books
+- [inferloop](https://inferloop.dev/) 工程师写给工程师的 AI Infra & Agent 工程深度内容。
 - https://github.com/alchaincyf/obsidian-ai-orange-book
 - https://github.com/changyeyu/LLM-RL-Visualized
 - https://github.com/ginobefun/agentic-design-patterns-cn
@@ -1478,3 +1481,6 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 
 ## Distributed-Agent-Runtime
 - [ax](https://github.com/google/ax) Google's open source distributed agent runtime
+
+## Software-Architecture
+- https://github.com/study8677/awesome-architecture
