@@ -870,7 +870,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [companies](https://github.com/paperclipai/companies) Deploy an entire AI workforce in minutes — 16 pre-built companies, 440+ specialized agents, and 500+ battle-tested skills. From security auditors to game studios, from scientific research labs to full-stack dev shops. Plug in, power up, ship.
 - [cccc](https://github.com/ChesterRa/cccc)  Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
 - [Maestro](https://github.com/RunMaestro/Maestro) Agent Orchestration Command Center
-- [cc-connect](https://github.com/chenhg5/cc-connect) Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms
+
 - [claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
 - [ruflo](https://github.com/ruvnet/ruflo) The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 - [openagents](https://github.com/openagents-org/openagents) One workspace where all your AI agents collaborate. Open source. No account required.
@@ -881,6 +881,15 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [mate](https://github.com/antiv/mate) Production-ready multi-agent orchestration engine built on Google ADK. Database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, RBAC.
 - [zano](https://github.com/EryouHao/zano) Zano lets you spin up persistent AI agents that live in chat channels alongside your team. Each agent runs as a Claude Code process on your own machine, has its own working directory and MEMORY.md, and communicates over chat, DMs, threads, and a built-in task board 
 - [tessera](https://github.com/horang-labs/tessera) Tessera is an open-source workspace that turns AI coding agents into a visual command center for parallel software work.
+
+## Agent-Bridge
+- [cc-connect](https://github.com/chenhg5/cc-connect) Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms
+- [feishu-claude-code-bridge](https://github.com/zarazhangrui/feishu-claude-code-bridge) Bot that bridges Feishu/Lark messenger with a local Claude Code CLI — streaming cards, per-chat sessions, multiple workspaces
+- [codex-remote-feishu](https://github.com/kxn/codex-remote-feishu) Yet another codex remote in feishu
+- [feishu-codex-bridge](https://github.com/QQQingyu/feishu-codex-bridge) Run local Codex CLI from Feishu/Lark chat, with sessions, attachments, and background service support.
+- [feishu-codex-bridge](https://github.com/henryjing96/feishu-codex-bridge) 通过飞书私聊、群聊和话题远程操作本地 Codex CLI，支持会话恢复、流式卡片更新、图片输入和权限模式切换的开源 bridge。
+- [feishu-bridge](https://github.com/feir/feishu-bridge) 在飞书中远程操控 Claude Code CLI — 同时让 AI Agent 拥有飞书全平台操作能力。
+- [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
 
 ## Platform
 - [magic](https://github.com/dtyq/magic) Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
@@ -1207,7 +1216,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [picoclaw](https://github.com/sipeed/picoclaw) - Ultra-efficient AI assistant.
 - [rho](https://github.com/mikeyobrien/rho) - An AI agent that stays running, remembers across sessions, and checks in on its own.
 - [rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory.
-- [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
+
 - [zclaw](https://github.com/tnm/zclaw) - The smallest possible AI personal assistant for ESP32.
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure.
 - https://github.com/machinae/awesome-claws
