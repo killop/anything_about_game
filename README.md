@@ -1079,6 +1079,7 @@ Table of Contents
  - https://github.com/prefrontalcortex/DomeTools
  - https://github.com/YUANZHUO-BNU/metahuman_overview
  - https://github.com/Lingotion/lingotion-thespeon-unity Lingotion Thespeon is an on-device AI engine designed to generate real-time character acting and voiceovers
+ - https://github.com/datascale-ai/opentalking 面向实时对话的开源数字人产线：LLM、TTS、WebRTC、角色音色与可插拔模型后端
 ##### Unity 官方教程及开发者经验分享：
 1. 《Enemies》制作秘诀 https://www.bilibili.com/video/BV1zS4y1P7jC/
 2. Unity China HairFX 毛发系统使用说明 https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial  
@@ -3301,6 +3302,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/irlanrobson/bounce
 - https://github.com/Scrawk/CyclonePhysicsEngine
 - https://github.com/LemonMontage420/TORSION-Community-Edition
+- [ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)
 #### Physics BOOKS
 - [Physics for Game Programmers](https://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X)
 - [Physics Modeling for Game Programmers](https://www.amazon.com/Physics-Modeling-Programmers-David-Conger/dp/1592000932/)
@@ -5689,6 +5691,7 @@ Showing off the power of shader properties in Unity
 - [quill-framework](https://github.com/DamiTheHuman/quill-framework) A 2D sonic framework in unity
 - [soft2d-for-unity](https://github.com/taichi-dev/soft2d-for-unity)
 - [GiLight2D](https://github.com/NullTale/GiLight2D) 2D Raytracing for Unity Urp
+- [top-down-game-template](https://assetstore.unity.com/packages/templates/systems/p3d-survivors-engine-top-down-game-template-307699)
 
 #### Camera
 - https://github.com/gilzoide/unity-camera-fov-fit

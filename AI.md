@@ -69,7 +69,8 @@
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 
 ### Audio
-
+- [voicebox](https://github.com/jamiepine/voicebox) Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own.
+The full voice I/O stack, running locally on your machine.
 - [bark](https://github.com/suno-ai/bark)  Text-Prompted Generative Audio Model
 - https://github.com/jianchang512/ChatTTS-ui
 - https://github.com/panyanyany/Awesome-ChatTTS
@@ -199,7 +200,8 @@
 
 ## Unity
 - https://github.com/Glade-tool/glade-mcp-unity
-- https://github.com/r1n7aro/Locus Locus for Unity is an open-source AI Agent for Unity projects.
+- [Locus](https://github.com/r1n7aro/Locus) Locus for Unity is an open-source AI Agent for Unity projects.
+- [Strada.Brain](https://github.com/okandemirel/Strada.Brain) AI-Powered Development Agent for Unity / Strada.Core Projects
 - https://github.com/ninkjin/Claude-Code-Terminal-for-Unity
 - https://github.com/nasimali5/mcpup
 - https://github.com/Arodoid/UnityMCP
@@ -212,6 +214,7 @@
 - https://github.com/hatayama/uLoopMCP
 - https://github.com/Besty0728/Unity-Skills
 - https://github.com/akiojin/unity-cli
+- https://github.com/yucchiy/UniCli
 - https://github.com/youngwoocho02/unity-cli
 - https://github.com/hatayama/unity-cli-loop
 - https://github.com/stavrosdidakis/Unity-ComfyUI
@@ -437,7 +440,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/OpenBMB/UltraRAG/
 - https://github.com/apecloud/ApeRAG
 - https://github.com/HKUDS/RAG-Anything
-
+- [arkon](https://github.com/nduckmink/arkon) Arkon 为企业提供集中控制，方便其管理员工如何使用任何 AI 客户端。管理员可以通过单一门户管理资源、访问策略和工作区上下文
 
 ### Local-LLM
 - https://github.com/vllm-project/vllm
@@ -532,6 +535,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study) 深入Claude Code源码，学习目前最好的agent实现
 
 ## Agent-Inspector
+- https://github.com/jianshuo/ccglass See exactly what your coding agent sends to the model.
 - https://github.com/simple10/agents-observe Real-time observability dashboard for Claude Code agents.
 - https://github.com/vicarious11/agenttop htop for AI coding agents. Monitor every token, dollar, and session across Claude Code, Cursor, Kiro, Codex, and Copilot — from a single dashboard.
 - https://github.com/kangraemin/claude-inspector See what Claude Code actually sends to the API.
@@ -562,8 +566,6 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/mgechev/skills-best-practices Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.
 - https://github.com/ynulihao/AgentSkillOS
 - https://github.com/zjunlp/SkillNet 
-- https://github.com/tripleyak/SkillForge
-- https://github.com/Yuzc-001/skill-router 一层低存在感的 skill 运行时，用来降低 skill-heavy agent 环境里的选择浪费。
 - https://github.com/shiqichen17/SkillCraft
 - https://github.com/Narwhal-Lab/MagicSkills/
 - https://github.com/foryourhealth111-pixel/Vibe-Skills An integrated AI capability stack with 340 skills, MCP entry points, agent workflows, and governed execution for planning, coding, research, and automation.
@@ -585,7 +587,10 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/MiniMax-AI/skills
 - https://github.com/lijigang/ljg-skills ljg 自定义技能集。
 
-
+## Skill-Rutor
+- [skill-router](https://github.com/Yuzc-001/skill-router) 一层低存在感的 skill 运行时，用来降低 skill-heavy agent 环境里的选择浪费
+- [SkillForge](https://github.com/tripleyak/SkillForge) Intelligent skill router and creator for Claude Code and Codex. Analyzes any input to recommend existing skills, improve them, or create new ones from scratch.
+- [SkillTree](https://github.com/maipianworni/SkillTree) 为 AI coding agent（Claude Code / Codex CLI 等）打造的 Skill 分层路由树生成器。
 ## Agent-Config
 - https://github.com/mcpware/claude-code-organizer One dashboard to see everything Claude Code loads into context
 - https://github.com/doccker/cc-use-exp保留你熟悉的 CLI/IDE，让 Claude Code、Gemini CLI、Codex、Cursor 开箱即用按费力度从低到高，用最少操作获得最大帮助
@@ -643,6 +648,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/open-gitagent/gitagent
 
 ## Evolving
+- [openevolve](https://github.com/algorithmicsuperintelligence/openevolve) Open-source implementation of AlphaEvolve
 - [EvoScientist](https://github.com/EvoScientist/EvoScientist) EvoScientist 旨在通过构建自我进化的 AI 科学家来驱动 Vibe Research——让 AI 自主探索、生成洞见并持续迭代优化
 - [GenericAgent](https://github.com/lsdefine/GenericAgent) Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 - [autocontext](https://github.com/greyhaven-ai/autocontext) a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
@@ -711,6 +717,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/gsd-build/get-shit-done
 - https://github.com/mindfold-ai/Trellis
 - https://github.com/EveryInc/compound-engineering-plugin/
+- [comet](https://github.com/rpamis/comet) Comet: OpenSpec + Superpowers dual-star development workflow
 
 ## Agent-Loop
 - https://github.com/subsy/ralph-tui
@@ -797,6 +804,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 ## Multi-Agent Swarms
 - [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) Agent CLI 聚合和团队
 - [hive](https://github.com/tt-a1i/hive) Browser-native hive-mind for CLI coding agents — Claude Code, Codex, Gemini, and OpenCode collaborate as real PTY processes via a team protocol.
+- [MagesticAI](https://github.com/dataseeek/MagesticAI) SDD (Spec-Driven Development) — a cloud and web-based AI task management and agent orchestration platform powered by LLMs
 - [claw-empire](https://github.com/GreenSheep01201/claw-empire) Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
 - [jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) 您的随叫随到人工智能管家——让智能触手可及
@@ -937,6 +945,9 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/semgrep/semgrep 支持多种语言的轻量级静态分析。查找具有类似源代码模式的错误变体。
 - https://github.com/mainline-org/mainline Git-native memory for coding agents. Repo memory before the diff.
 - [roborev](https://github.com/roborev-dev/roborev) Continuous code review for AI coding agents. roborev runs in the background, reviews every commit as agents write code, and surfaces issues in seconds -- before they compound. Pull code reviews into your agentic loop while context is fresh.
+- [clawpatch](https://github.com/openclaw/clawpatch) Review code. Patch bugs. Land PRs.
+- [eng-practices](https://github.com/google/eng-practices) Google Engineering Practices Documentation
+- [code-review-skill](https://github.com/awesome-skills/code-review-skill) A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 
 ## Translate
 - [AiNiee](https://github.com/NEKOparapa/AiNiee)一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本
@@ -944,6 +955,12 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 ## OCR
 - https://github.com/datalab-to/chandra OCR model that handles complex tables, forms, handwriting with full layout.
 - [DeekSeek-OCR](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API) A powerful OCR solution that converts PDF documents to Markdown format using DeepSeek-OCR with FastAPI backend. This project provides both a batch processing script and a REST API for flexible document conversion.
+
+## Extract-Data
+- [mineru](https://github.com/opendatalab/mineru)  Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+- [knowhereto](https://knowhereto.ai/) Transform unstructured documents into clean, structured data.
+- [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
 
 ## GPT-Research
 - https://github.com/setls/HacxGPT Advanced Adversarial AI Framework — a research-oriented system exploring the boundaries of autonomous reasoning and secure language model behavior.
@@ -1016,8 +1033,11 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/colbymchenry/codegraph Supercharge Claude Code with Semantic Code Intelligence
 - https://github.com/coffeejones/gitvision 对任何 GitHub 仓库进行结构分析。找出存在风险、重复或未经测试的代码。
 - [codefire-app](https://github.com/websitebutlers/codefire-app) Persistent memory for AI coding agents
-- https://github.com/MinishLab/semble Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- [semble](https://github.com/MinishLab/semble) Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- [graphify](https://github.com/safishamsi/graphify) 一个面向 AI 编码助手的技能。 在 Claude Code、Codex、OpenCode 或 OpenClaw 中输入 /graphify，它会读取你的文件、构建知识图谱，并把原本不明显的结构关系还给你。更快理解代码库，找到架构决策背后的“为什么”。
+- [graphify-dotnet](https://github.com/elbruno/graphify-dotnet) A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and Microsoft.Extensions.AI
 ## Doc
+- https://github.com/oleeskild/obsidian-digital-garden
 - https://github.com/YishenTu/claudian An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 - https://github.com/hkcanan/katmer-code Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support
 - https://github.com/rjzxui/obsidian-vault-cli Manage and automate Obsidian vaults from the command line with 100+ commands and direct file access for efficient workflows.
@@ -1040,7 +1060,8 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [claw-brain](https://github.com/Lanzelot1/claw-brain) A fork-and-use template for building your own agent brain - a knowledge management system powered by Claude Code, with slash commands, structured data validation, and a git-first workflow
 - [icm](https://github.com/rtk-ai/icm) ICM 为您的 AI 智能体提供真正的记忆——不是笔记工具，不是上下文管理器，而是真正的记忆
 
-## Knowledge Graph
+## Knowledge-Graph
+- [activegraph](https://github.com/yoheinakajima/activegraph) An event-sourced reactive graph runtime for long-running, auditable, agentic systems. 
 - [byterover](https://github.com/campfirein/byterover-cli) ByteRover CLI (brv) - The portable memory layer for autonomous coding agents (formerly Cipher)
 - [Cognisync](https://github.com/shrijacked/Cognisync) Filesystem-first framework for LLM-maintained knowledge bases
 - [napkin](https://github.com/Michaelliv/napkin) Knowledge system for agents. Local-first, file-based, progressively disclosed.
@@ -1065,8 +1086,6 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) A team of 8+ AI agents and 13 specialized skills that manage your Obsidian vault so your brain doesn't have to.
 - [pal](https://github.com/agno-agi/pal) Pal is a Personal Agent that Learns how you work by building a compounding knowledge base
 - [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) Agentic AI Infrastructure for magnifying HUMAN capabilities.
-- [graphify](https://github.com/safishamsi/graphify) 一个面向 AI 编码助手的技能。 在 Claude Code、Codex、OpenCode 或 OpenClaw 中输入 /graphify，它会读取你的文件、构建知识图谱，并把原本不明显的结构关系还给你。更快理解代码库，找到架构决策背后的“为什么”。
-- [graphify-dotnet](https://github.com/elbruno/graphify-dotnet) A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and Microsoft.Extensions.AI
 - [obsidian_vault_pipeline](https://github.com/fakechris/obsidian_vault_pipeline) A automatic pipeline that processing obsidian vault by llm from pinbord, obsidian Clipper etc.
 - [Thoth](https://github.com/siddsachar/Thoth) Thoth is a local-first AI assistant built for personal AI sovereignty 
 - [memex](https://github.com/memex-lab/memex) A local-first, AI-native personal knowledge management app built with Flutter. Capture thoughts through text, photos, and voice
@@ -1080,7 +1099,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [llm-knowledge-base](https://github.com/hoadoan1997/llm-knowledge-base) LLM-powered personal knowledge base — raw articles → compiled wiki → Q&A + outputs. Claude writes, you curate.
 - [llm-wiki-compiler](https://github.com/vbarsoum1/llm-wiki-compiler) Compile documents into a living Obsidian wiki. Any AI agent. Based on Karpathy's LLM Wiki pattern.
 - [claude-knowledge-vault](https://github.com/psypeal/claude-knowledge-vault) A local, LLM-powered knowledge base plugin for Claude Code. Collect from academic databases
-- [arkon](https://github.com/nduckmink/arkon) Arkon 为企业提供集中控制，方便其管理员工如何使用任何 AI 客户端。管理员可以通过单一门户管理资源、访问策略和工作区上下文
+
 
 ### WorkFlow
 - https://github.com/inngest/inngest
@@ -1102,6 +1121,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/fake-skate/html2uuitk unity
 - https://github.com/StarrDream/HTML-to-UGUI-Baker unity
 - https://github.com/bobbyz1x2c3/layer-designer/ 将 UI 设计拆解为可独立使用的透明图层，支持从需求到交付的完整工作流。
+- [gsap-skills](https://github.com/greensock/gsap-skills) Official AI skills for GSAP (GreenSock Animation Platform)
  
 ## WEB-UI
 - https://saaslandingpage.com/
@@ -1314,6 +1334,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/comet-ml/opik-openclaw
 - https://www.comet.com/docs/opik/
 - https://github.com/Tracer-Cloud/opensre
+- https://github.com/derisk-ai/OpenDerisk/
 
 ## semantic-layer
 - https://github.com/Hawksight-AI/semantica Semantica 🧠 — A framework for building semantic layers, context graphs, and decision intelligence systems with explainability and provenance.
@@ -1323,8 +1344,9 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/hugohe3/ppt-master
 - https://github.com/Anionex/banana-slides ppt
 - https://github.com/NyxTides/ppt-image-first
+- https://github.com/zarazhangrui/beautiful-html-templates
 - https://github.com/1weiho/open-slide
-
+- [Paper2Any](https://github.com/OpenDCAI/Paper2Any) Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides.
 ## Time-Series-Foundation-Model
 - https://github.com/google-research/timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting
 
@@ -1372,6 +1394,9 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [design-md-chrome](https://github.com/bergside/design-md-chrome) Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
 - [ai-design](https://agentskillshub.top/best/ai-design/) Design intelligence skills for AI coding agents — UI generation, design systems, prototyping, mockup-to-code via Google Stitch, Claude Design, and more.
 - [MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) 开源 MCP 服务器 — 把 AI 图像和视频生成原生接入到你的 AI 编程工具
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) An out-of-box UI solution for enterprise applications as a React boilerplate.
+- [qiaomu-artist-style](https://github.com/joeseesun/qiaomu-artist-style) 用同一句提示词，看 383 位画家风格的差异。
+- [qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design) 一句话生成大师级海报、书籍封面、专辑封面和各类设计作品
 
 ## Medical  
 - https://github.com/FreedomIntelligence/Awesome-AI4Med 
@@ -1411,6 +1436,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 ## Sandbox
 - [zeroboot](https://github.com/zerobootdev/zeroboot) Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [superserve](https://github.com/superserve-ai/superserve) Persistent and secure sandboxes for AI Agents, powered by Firecracker microVMs.
+- [OpenSandbox](https://github.com/alibaba/OpenSandbox) Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
 ## Writing
 - [SoftwareCopyright](https://github.com/Fokkyp/SoftwareCopyright-Skill) 这是一个用于生成中文软件著作权申请资料的 Codex Skill 开源仓库。
@@ -1423,3 +1449,23 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 
 ## Mathematical Modeling
 -  https://github.com/usail-hkust/LLM-MM-Agent MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem
+
+## CAD
+- https://github.com/earthtojake/text-to-cad 一套用于计算机辅助设计、机器人和硬件设计的代理技能
+- [cad-power-animations](https://github.com/gordensun/cad-power-animations) About
+Parametric build123d CAD models with mechanical-power animations, deployed as a static three.js viewer to GitHub Pages.
+- [CADAM](https://github.com/Adam-CAD/CADAM) CADAM is the open source text-to-CAD web application
+## Agent-Lanaguage
+- [zerolang](https://zerolang.ai/) The programming language for agents
+
+## World2Agent
+- [world2agent](https://github.com/machinepulse-ai/world2agent) World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.
+
+## Algorithms
+- [algo-sensei](https://github.com/karanb192/algo-sensei) Your AI-powered LeetCode
+
+## AI-Rent-Human
+- [rentahuman](https://rentahuman.ai/)
+
+## Distributed-Agent-Runtime
+- [ax](https://github.com/google/ax) Google's open source distributed agent runtime
