@@ -959,9 +959,8 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 ## Code-Review
 - [adamsreview](https://github.com/adamjgmiller/adamsreview)Multi-lens code review pipeline for Claude Code: deep review (Claude or Codex), auto-fix loop, interactive walkthrough, external-finding injection.
 - https://github.com/Factory-AI/cursed-plugins Enterprise-grade codebase analysis toolkit for modern software teams
-- https://github.com/lintsinghua/XCodeReviewer
-- https://d.aigclink.ai/OpenAI-Aardvark-GPT-5-29a9857c0f478078b391d41096db2067
 - https://github.com/lintsinghua/DeepAudit
+- https://d.aigclink.ai/OpenAI-Aardvark-GPT-5-29a9857c0f478078b391d41096db2067
 - https://github.com/Iski08/dotclaude/
 - https://github.com/peteromallet/desloppify
 - https://github.com/tirth8205/code-review-graph
