@@ -1175,7 +1175,7 @@ Table of Contents
 - https://assetstore.unity.com/packages/tools/utilities/autotiles-3d-tilemap-level-editor-205724
 - https://github.com/aleverdes/unity-top-down-vision
  
-#### Design
+## Design
 - https://www.zcool.com.cn
 - https://www.gtn9.com/index.aspx
 - https://www.behance.net/
@@ -2094,6 +2094,8 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://getfresh.dev/
 - https://nicegui.io/
 - https://ratatui.rs/
+- https://github.com/jake-stewart/tuie
+- https://github.com/Simon-He95/vue-tui
 - https://github.com/cledouarec/sara stands for Solution Architecture Requirement for Alignment.
 - https://github.com/EnhancedJax/Bagels
 - https://github.com/tekugo/zeichenwerk Go console user interface library based on tcell
@@ -2481,6 +2483,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 ## Massive-Crowds
 - [large-scale-combat-system-rts-sieges-329415](https://assetstore.unity.com/packages/templates/systems/large-scale-combat-system-329415)
 - [enemy-masses-massive-crowds](https://assetstore.unity.com/packages/tools/game-toolkits/enemy-masses-massive-crowds-1-click-enemy-ai-rts-formations-cont-351712)
+
 #### PCG
 - https://www.bilibili.com/read/cv22614836/ 
 - https://github.com/Nebukam/PCGExtendedToolkit
@@ -3203,6 +3206,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [墨子数学研究所](https://space.bilibili.com/427564152)
 
 #### Unity-Transform
+- [聊聊四元数与万向锁及其实际意义](https://www.yuque.com/yunyoujun/blog/quaternion-and-spatial-rotation)
 - [Unity 和 Unreal 渲染中的坐标变换和跨平台兼容](https://zhuanlan.zhihu.com/p/590584851)
 - [矩阵变换的本质 --- 欧拉角与矩阵与万向锁问题](https://zhuanlan.zhihu.com/p/394141773)
 - [视图变换和投影变换矩阵的原理及推导，以及OpenGL，DirectX和Unity的对应矩阵](https://zhuanlan.zhihu.com/p/362713511)
@@ -4774,6 +4778,7 @@ Showing off the power of shader properties in Unity
 - https://www.scaler.com/topics/data-structures/
 - https://github.com/krahets/hello-algo	
 - https://github.com/WTFAcademy/WTF-zk
+- https://github.com/cp-algorithms/cp-algorithms
 	
 #### Article
 - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
@@ -5431,6 +5436,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/andydbc/unity-shadergraph-sandbox
 - https://github.com/Zallist/unity-universal-shadergraph-extensions
 - https://github.com/gilescoope/shader-graph-nodes
+- https://github.com/qiezi-228/SayCheese_Modular_UnityShaderLibrary_SupportVFXGraph 一套为 Unity URP 与 VFX 工作流打造的模块化 Shader Graph 框架，专为实时特效制作而设计。
 - https://github.com/johanhelsing/UniSdf?
 #### Memory/GC
 - https://github.com/SergeyTeplyakov/ObjectLayoutInspector
