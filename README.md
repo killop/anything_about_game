@@ -564,6 +564,7 @@ Table of Contents
 - https://github.com/rustlang-cn/rust-weekly
 ## Person/Social/Blogs
 #### Collection
+- [buyixiao](https://meet-blog.buyixiao.xyz/)
 - [游戏及相关CG行业知识分享大V全整合](https://www.bilibili.com/read/cv6617959?share_medium=android&share_source=qq&bbid=JkchRyEWJhAmHi0bKx15GloXXmYinfoc&ts=1593720545066)
 - [中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list)
 - [blogsilove](https://pema.dev/2022/07/29/blogsilove/)
