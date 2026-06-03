@@ -276,7 +276,7 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/orneryd/NornicDB NornicDB is a high-performance graph + vector database built for AI agents and knowledge systems. It speaks Neo4j's (Bolt + Cypher) and qdrant's (gRPC) languages so you can use Nornic with zero code changes, while adding intelligent features including a graphql endpoint, air-gapped embeddings, GPU accelerated search, and other intelligent features
 - https://github.com/yichuan-w/LEANN The smallest vector index in the world. RAG Everything with LEANN!
 - https://github.com/namidb/namidb NamiDB is a graph database engine built around object storage
-
+- [helix-db](https://github.com/HelixDB/helix-db) HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI
 ### Jupyter
 - https://github.com/datalayer/jupyter-mcp-server
 
@@ -380,22 +380,22 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/BerriAI/litellm
 
 ## Memory
+- https://github.com/IAAR-Shanghai/Awesome-AI-Memory 
 - https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents
 - [memoir](https://github.com/zhangfengcdt/memoir) Hierarchical Memory with Git-Like Version Control
-- https://github.com/MarchLiu/hypatia "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel
+- [hypatia](https://github.com/MarchLiu/hypatia) "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel
 - [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) Open-source memory backend for AI agents — REST API, MCP, OAuth, CLI, dashboard. One self-hosted service, every transport. Agents store decisions, share causal knowledge graphs, and retrieve context in 5ms — without cloud lock-in or API costs.
 - [m_flow](https://github.com/FlowElement-ai/m_flow) Retrieval through reasoning and association — M-flow operates like a cognitive memory system.
 - [graymatter](https://github.com/angelnicolasc/graymatter) Three lines of code to give your AI agents persistent memory and cut token usage by 90%.
 - [sirchmunk](https://github.com/modelscope/sirchmunk)  从原始数据到自我进化的智能，实时进行。
 - [agent-memory](https://github.com/neo4j-labs/agent-memory) A graph-native memory system for AI agents and context graphs. Store conversations, build knowledge graphs, and let your agents learn from their own reasoning — all backed by Neo4j. 
 - [mempalace](https://github.com/milla-jovovich/mempalace) The highest-scoring AI memory system ever benchmarked. And it's free.
-- https://github.com/AGI-is-going-to-arrive/Memory-Palace-Openclaw
+- [Memory-Palace-Openclaw](https://github.com/AGI-is-going-to-arrive/Memory-Palace-Openclaw)
 - https://github.com/avasol/galadriel-public
 - [mempal](https://github.com/ZhangHanDong/mempal) AI Agent Memory
 - [create-context-graph](https://github.com/neo4j-labs/create-context-graph) 创建上下文图将引导您完成交互式向导，并生成完整的项目：
 - [muninndb](https://muninndb.com/) Your AI is brilliant. Its memory is broken. MuninnDB gives it total recall — nothing deleted, the right memory always first, associations built automatically from usage patterns alone.
-- https://github.com/IAAR-Shanghai/Awesome-AI-Memory 
-- https://github.com/supermemoryai/supermemory
+- [supermemory](https://github.com/supermemoryai/supermemory)
 - https://github.com/denda188/ClawIntelligentMemory 智能记忆系统 3.3 是一个基于 PARA 架构的三层记忆管理系统,集成了智能检查点,语义搜索,自动分类和两级摘要功能
 - https://github.com/aayoawoyemi/Ori-Mnemos Local-first persistent agentic memory powered by Recursive Memory Harness (RMH). Open source must win.
 - [gigabrain](https://github.com/legendaryvibecoder/gigabrain) Gigabrain is a local-first memory stack for OpenClaw agents, Codex App, Codex CLI, Claude Code, and Claude Desktop. It converts conversations and native notes into durable, queryable memory, then injects the right context before each prompt so agents stay consistent across sessions.
@@ -419,7 +419,6 @@ The full voice I/O stack, running locally on your machine.
 - [mem.net](https://github.com/TianqiZhang/mem.net) About
 File-first memory infrastructure for AI agents, built with .NET 8 and Azure backends
 - https://github.com/jzOcb/ai-agent-memory File-based memory system for AI Agents with automatic TTL, LLM compression, and multi-agent sharing
-- https://github.com/kreuzberg-dev/kreuzberg
 - https://github.com/memovai/memov
 - https://github.com/EverMind-AI/EverMemOS/
 - https://github.com/devflowinc/trieve All-in-one platform for search, recommendations, RAG, and analytics offered via API
@@ -429,16 +428,10 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://docs.ragas.io/en/latest/concepts/
 - https://www.evidentlyai.com/llm-evaluation-benchmarks-datasets
 - https://github.com/BAI-LAB/MemoryOS
-- [helix-db](https://github.com/HelixDB/helix-db) HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI
-- [graph-rag-agent](https://github.com/1517005260/graph-rag-agent) 拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架|
 - https://github.com/MemTensor/MemOS
 - https://rag.deeptoai.com/
-- https://www.zdoc.app/zh/cocoindex-io/cocoindex
-
-- https://github.com/Tencent/WeKnora WeKnora（维娜拉） 是一款基于大语言模型（LLM）的文档理解与语义检索框架，专为结构复杂、内容异构的文档场景而打造。
 - https://github.com/jzOcb/openclaw-memory-management/ AI Agent 记忆管理系统：P0/P1/P2 优先级 + 自动归档，Token 降 78%
 - https://github.com/VectifyAI/PageIndex PageIndex: Document Index for Vectorless, Reasoning-based RAG
-- https://github.com/tobi/qmd mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - https://github.com/toby-bridges/epro-memory LLM-powered agent memory plugin with 6-category classification and L0/L1/L2 tiered structure
 - https://github.com/zilliztech/memsearch A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 - https://github.com/0xK3vin/MegaMemory Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer
@@ -449,11 +442,13 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [写了 1 个月、拆了100+ 篇文档后：我们终于让 4-Agent AI 装上记忆操作系统](https://x.com/servasyy_ai/status/2034078130919665749)
 
 ## Rag
+- [graph-rag-agent](https://github.com/1517005260/graph-rag-agent) 拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架|
 - https://github.com/mordang7/ContextKeep About Infinite Long-Term Memory for AI Agents (MCP Server)
 - https://github.com/OpenBMB/UltraRAG/
 - https://github.com/apecloud/ApeRAG
 - https://github.com/HKUDS/RAG-Anything
 - [arkon](https://github.com/nduckmink/arkon) Arkon 为企业提供集中控制，方便其管理员工如何使用任何 AI 客户端。管理员可以通过单一门户管理资源、访问策略和工作区上下文
+- https://github.com/tobi/qmd mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 
 ### Local-LLM
 - https://github.com/vllm-project/vllm
@@ -1006,6 +1001,8 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [omniparse](https://github.com/adithya-s-k/omniparse) OmniParse is a platform that ingests and parses any unstructured data into structured, actionable data optimized for GenAI (LLM) applications. Whether you are working with documents, tables, images, videos, audio files, or web pages, OmniParse prepares your data to be clean, structured, and ready for AI applications such as RAG, fine-tuning, and more
 - https://github.com/Eventual-Inc/Daft High-Performance Data Engine for AI and Multimodal Workloads
 - https://github.com/run-llama/liteparse A fast, helpful, and open-source document parser
+- https://github.com/kreuzberg-dev/kreuzberg
+
 ## GPT-Research
 - https://github.com/setls/HacxGPT Advanced Adversarial AI Framework — a research-oriented system exploring the boundaries of autonomous reasoning and secure language model behavior.
 
@@ -1081,6 +1078,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [graphify](https://github.com/safishamsi/graphify) 一个面向 AI 编码助手的技能。 在 Claude Code、Codex、OpenCode 或 OpenClaw 中输入 /graphify，它会读取你的文件、构建知识图谱，并把原本不明显的结构关系还给你。更快理解代码库，找到架构决策背后的“为什么”。
 - [graphify-dotnet](https://github.com/elbruno/graphify-dotnet) A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and Microsoft.Extensions.AI
 - [CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) Interactive architecture diagrams for codebases
+- https://www.zdoc.app/zh/cocoindex-io/cocoindex
 ## Doc
 - https://github.com/oleeskild/obsidian-digital-garden
 - https://github.com/YishenTu/claudian An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
@@ -1106,6 +1104,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [icm](https://github.com/rtk-ai/icm) ICM 为您的 AI 智能体提供真正的记忆——不是笔记工具，不是上下文管理器，而是真正的记忆
 
 ## Knowledge-Graph
+- https://github.com/Tencent/WeKnora WeKnora（维娜拉） 是一款基于大语言模型（LLM）的文档理解与语义检索框架，专为结构复杂、内容异构的文档场景而打造。
 - [ArcRift ](https://github.com/Eshaan-Nair/ArcRift) Your AI forgets everything between sessions. ArcRift fixes that
 - [activegraph](https://github.com/yoheinakajima/activegraph) An event-sourced reactive graph runtime for long-running, auditable, agentic systems. 
 - [byterover](https://github.com/campfirein/byterover-cli) ByteRover CLI (brv) - The portable memory layer for autonomous coding agents (formerly Cipher)
