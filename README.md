@@ -2835,14 +2835,16 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [sisk](https://sisk.project-principium.dev/) Sisk is an lightweight web framework designed for fast and robust development, which allows you to take the full control of what you want to do.
 - https://github.com/cloudflare/pingora
 - [davinci](https://github.com/shamsdev/davinci) An esay-to-use image downloading and caching library for Unity
+
 ## GameEngine Design
-#### Collection
+### Collection
+- [gameenginetracker](https://gameenginetracker.com/) resources list of game-engine topics
 - https://ossinsight.io/collections/game-engine/
 - https://github.com/stevinz/awesome-game-engine-dev
 - https://github.com/aloisdeniel/awesome-monogame
 - https://github.com/redorav/public_source_engines
 - https://github.com/raysan5/custom_game_engines
-#### Article/Course
+### Article/Course
 - https://isetta.io/resources/
 - https://ourmachinery.com/
 - https://enginearchitecture.org/
@@ -2853,10 +2855,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://zhuanlan.zhihu.com/p/36765725 -- 天涯明月刀
 - https://zhuanlan.zhihu.com/p/68575577 -- 游戏引擎随笔
 - https://zhuanlan.zhihu.com/p/20311224 -- 文件摘要的方式管理资源 
-#### GUI
+
+### GUI
 - https://github.com/DaveGreen-Games/ShapeEngine?
 - https://www.raylib.com/
-#### 2D Engines and Frameworks
+### 2D Engines and Frameworks
 - [sbox-public](https://github.com/Facepunch/sbox-public)
 - [Ambient](https://github.com/AmbientRun/Ambient) The multiplayer game engine
 - [galacean](https://github.com/galacean/engine) A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
@@ -2940,7 +2943,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games.
 
 
-#### 3D Engines and Frameworks
+### 3D Engines and Frameworks
 - [sbox](https://github.com/Facepunch/sbox-public)  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 * [Xultaik](https://github.com/FaberSanZ/Xultaik?)
 * [kaiju](https://github.com/KaijuEngine/kaiju)
@@ -3037,7 +3040,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [WolfEngine](https://github.com/WolfEngine/Wolf.Engine) The Wolf is a comprehensive set of C/C++ open source libraries for realtime rendering, realtime streaming and game developing
 - [source-engine](https://github.com/nillerusr/source-engine) Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
 
-#### Skinned-MeshRender
+## Skinned-MeshRender
 - [skinned-mesh](https://assetstore.unity.com/packages/tools/animation/ica-skinned-mesh-283380)
 
 ## Creative Code
@@ -3052,8 +3055,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://ciphrd.com/
 - https://github.com/IxxyXR/polyhydra-upm
 - https://github.com/keenanwoodall/Sketch
+
 ## 并发执行和多线程
-#### CPP
+### CPP
 *   https://github.com/rigtorp/awesome-lockfree
 *   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
 *   Bolt：针对GPU进行优化的C++模板库。[官网](https://github.com/HSA-Libraries/Bolt)
@@ -3068,7 +3072,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 *   TBB Threading Building Blocks (TBB) lets you easily write parallel C++ programs that take full advantage of multicore performance, that are portable, composable and have future-proof scalability.[官网](https://github.com/oneapi-src/oneTBB)
 *   [fiber-job-system](https://github.com/Freeeaky/fiber-job-system) This library offers a multi-threaded job-system, powered by fibers.
 
-#### C 
+### C 
 *   cchan：一个线程间通信通道构建的小型库。公共领域。[官网](http://repo.hu/projects/cchan/)
 *   ck：并发原语，安全内存回收机制和非阻塞数据结构。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/concurrencykit/ck)
 *   mill：用 C 写成的 Go 风格并发。[X11](https://directory.fsf.org/wiki/License:X11)[官网](http://libmill.org/)
@@ -5781,6 +5785,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/ehakram/FrameRateBooster
 - https://github.com/gilzoide/unity-update-manager
 #### Code-Reload&&Unity-Editor-Compiler
+- [unity-auto-statics-cleanup-generator](https://github.com/alexisstrat/unity-auto-statics-cleanup-generator) Source Generator for cleaning up static fields when Entering/Exiting Play Mode in Unity
 - [unity-domain-reload-helper](https://github.com/joshcamas/unity-domain-reload-helper)
 - [UnityScriptHotReload](https://github.com/Misaka-Mikoto-Tech/UnityScriptHotReload)
 - https://github.com/handzlikchris/FastScriptReload
