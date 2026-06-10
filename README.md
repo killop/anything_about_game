@@ -1562,6 +1562,7 @@ Table of Contents
 - https://github.com/gilzoide/unity-lottie-player
 - https://github.com/OpenVGLab/OmniLottie
 - https://github.com/SwaggyMacro/LottieViewConvert
+- [lottie](https://github.com/diffusionstudio/lottie) Open-source skill and harness for generating production ready Lottie animations with codex/claude code
 - https://github.com/leetful/u.movin
 - [SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) Skia For Unity with skottie animations
 - https://github.com/wieslawsoltes/Svg.Skia

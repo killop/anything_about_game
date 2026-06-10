@@ -1,4 +1,5 @@
 ## News
+- [AI信息差](https://xcnw0q17x9sa.feishu.cn/docx/YxA4dezo4op1hbxMzRFcUBasnZf)
 - [repo_posts](https://tom-doerr.github.io/repo_posts/)
 - [何夕2077个人站](https://hex2077.dev/)
 - [aihot](https://aihot.virxact.com/)
@@ -235,6 +236,9 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/liyingsong99/AIBridge
 - https://github.com/TomLeeLive/openclaw-unity-plugin
 
+## Computer Graphic
+- [RenderDocMCP](https://github.com/halby24/RenderDocMCP)
+- [renderdoc-for-vscode](https://github.com/Kirkice/renderdoc-for-vscode) Inspect, analyze, and debug GPU captures — without leaving your editor.
 ## Shader
 - https://shaders.com/
 - https://github.com/KULEEEE/Claude-Code-For-Unity-Shader
@@ -277,6 +281,9 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/yichuan-w/LEANN The smallest vector index in the world. RAG Everything with LEANN!
 - https://github.com/namidb/namidb NamiDB is a graph database engine built around object storage
 - [helix-db](https://github.com/HelixDB/helix-db) HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI
+- [turbovec](https://github.com/RyanCodrai/turbovec) A vector index built on TurboQuant, written in Rust with Python bindings
+- [s4](https://github.com/abyo-software/s4) GPU-accelerated transparent compression S3-compatible storage gateway. Drop-in replacement for AWS S3 endpoints; cuts your S3 bill 50-80% with no app changes (Rust, nvCOMP, zstd).
+
 ### Jupyter
 - https://github.com/datalayer/jupyter-mcp-server
 
@@ -331,6 +338,7 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/lupantech/AgentFlow
 - https://github.com/crewAIInc/crewAI
 - [pydantic-ai](https://github.com/pydantic/pydantic-ai) Pydantic AI is a Python agent framework designed to help you quickly, confidently, and painlessly build production grade applications and workflows with Generative AI.
+- [all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.
 - https://github.com/agno-agi/agno
 - https://github.com/Tokfinity/InfCode
 - https://github.com/Intelligent-Internet/ii-agent
@@ -382,6 +390,9 @@ The full voice I/O stack, running locally on your machine.
 ## Memory
 - https://github.com/IAAR-Shanghai/Awesome-AI-Memory 
 - https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents
+- [yantrikos](https://github.com/yantrikos/) YantrikDB — The Cognitive Memory Database for AI Agents
+- [PaperGuru-Benchmark](https://github.com/PaperGuru-AI/PaperGuru-Benchmark) Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB
+- https://github.com/moorcheh-ai/memanto/
 - [memoir](https://github.com/zhangfengcdt/memoir) Hierarchical Memory with Git-Like Version Control
 - [hypatia](https://github.com/MarchLiu/hypatia) "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel
 - [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) Open-source memory backend for AI agents — REST API, MCP, OAuth, CLI, dashboard. One self-hosted service, every transport. Agents store decisions, share causal knowledge graphs, and retrieve context in 5ms — without cloud lock-in or API costs.
@@ -400,6 +411,8 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/aayoawoyemi/Ori-Mnemos Local-first persistent agentic memory powered by Recursive Memory Harness (RMH). Open source must win.
 - [gigabrain](https://github.com/legendaryvibecoder/gigabrain) Gigabrain is a local-first memory stack for OpenClaw agents, Codex App, Codex CLI, Claude Code, and Claude Desktop. It converts conversations and native notes into durable, queryable memory, then injects the right context before each prompt so agents stay consistent across sessions.
 - [graph-memory](https://github.com/adoresever/graph-memory) Openclaw记忆插件Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse
+- [agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) Make your agents learn from experience. Now available as a hosted solution at kayba.ai
+- [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - https://github.com/win4r/memory-lancedb-pro
 - https://github.com/sopaco/cortex-mem The production-ready cognitive foundation for autonomous systems such as OpenClaw and Embodied-AI. For memory management, from extraction and search to automated optimization, with SKILL, CLI, API, MCP, and insights dashboard out-of-the-box.
 - [hindsight](https://github.com/vectorize-io/hindsight) Hindsight: Agent Memory That Learn
@@ -449,6 +462,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/HKUDS/RAG-Anything
 - [arkon](https://github.com/nduckmink/arkon) Arkon 为企业提供集中控制，方便其管理员工如何使用任何 AI 客户端。管理员可以通过单一门户管理资源、访问策略和工作区上下文
 - https://github.com/tobi/qmd mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+- [agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) Build a modular Agentic RAG system with LangGraph, conversation memory, and human-in-the-loop query clarification
 
 ### Local-LLM
 - https://github.com/vllm-project/vllm
@@ -471,7 +485,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/SpectrAI-Initiative/InnoClaw A self-hostable AI research workspace for grounded chat, paper study, scientific skills, and research execution.
 - https://github.com/uditgoenka/autoresearch Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - https://github.com/sakanaai/ai-scientist-v2 The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
-
+- https://github.com/evo-hq/evo A plugin for your agentic framework that optimizes code through experiments
 
 ### Benchmark
 - https://www.tbench.ai/
@@ -487,6 +501,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://www.top3d.ai/
 
 ## Codex
+- [CodexGuide](https://github.com/freestylefly/CodexGuide) CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南
 - https://github.com/Yeachan-Heo/oh-my-codex Your codex is not alone. Add hooks, agent teams, HUDs, and so much more 
 - https://github.com/stellarlinkco/codex The open source coding agent. openai anthropic gemini
 - https://linux.do/t/topic/1785189 codex子代理配置
@@ -509,7 +524,6 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/claude-did-this/claude-hub
 - https://github.com/apstenku123/claude-code-reverse
 - https://github.com/AndyMik90/Auto-Claude
-- https://github.com/EveryInc/compound-engineering-plugin
 - https://github.com/Dev-GOM/claude-code-marketplace
 - https://github.com/affaan-m/everything-claude-code
 - https://github.com/supermemoryai/claude-supermemory
@@ -569,6 +583,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [agentic-stack](https://github.com/codejunkie99/agentic-stack) A system tray app for macOS and Windows that tracks Claude Code, Codex, and OpenCode token usage, cost, and activity in real time — with a built-in leaderboard, chat, and webhook alerts.
 
 ## Skill
+- [SkillClaw](https://github.com/AMAP-ML/SkillClaw) Let Skills Evolve Collectively with Agentic Evolver
 - https://github.com/Teaonly/SKILL.mk SKILL.mk — A Makefile-Format SKILL Document
 - https://github.com/ciembor/agent-rules-books AGENTS.md rules / skills for Codex, Cursor, Claude Code, distilled from classic software engineering books about refactoring, architecture, DDD and code quality.
 - https://github.com/davidliuk/graph-of-skills Dependency-Aware Structural Retrieval for Massive Agent Skills
@@ -618,11 +633,13 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/miniLV/Plexus About
 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；
 
-## AI-Coding-Agent 
+## Coding-Agent
+- [ouroboros](https://github.com/razzant/ouroboros)  self-creating AI agent. Born Feb 16, 2026.
 - https://github.com/lyming99/wenzagent WenzAgent 是一个纯 Dart 实现的 AI Agent 管理框架，提供完整的 Agent 生命周期管理、局域网设备发现与通信、远程过程调用（RPC）以及可扩展的技能系统。无需原生依赖，可跨平台运行。
-- - [jcode](https://github.com/1jehuang/jcode) Coding Agent Harness
+- [jcode](https://github.com/1jehuang/jcode) Coding Agent Harness
+- https://github.com/huiyu9144/Huiyu-Pi
 - https://www.codebuff.com/
-- https://github.com/gi-dellav/zerostack
+- https://github.com/gi-dellav/zerostack Minimal coding agent written in Rust, inspired by pi and opencode
 - https://github.com/vinhnx/vtcode VT Code - semantic AI coding agent
 - https://github.com/antinomyhq/forge
 - https://github.com/gsd-build/GSD-2
@@ -671,7 +688,6 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [autocontext](https://github.com/greyhaven-ai/autocontext) a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [dspy-agent-skills](https://github.com/intertwine/dspy-agent-skills) Production-grade DSPy 3.2.x agent skills + validated end-to-end examples for Claude Code and Codex CLI — fundamentals, evaluation, GEPA, BetterTogether, and RLM.
 - [EvoForge](https://github.com/haizelabs/EvoForge)EvoForge: Evolving Agent Harness Populations
-- [SkillClaw](https://github.com/AMAP-ML/SkillClaw) Let Skills Evolve Collectively with Agentic Evolver
 - [future-agi](https://github.com/future-agi/future-agi) Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [EvoSkill](https://github.com/sentient-agi/EvoSkill?tab=readme-ov-file) EvoSkill — An open-source framework that automatically discovers and synthesizes reusable agent skills from failed trajectories to improve coding agent performance.
 - [autoagent](https://github.com/kevinrgu/autoagent) autonomous harness engineering
@@ -826,6 +842,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 
 ## Multi-Agent Swarms
 - [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) Agent CLI 聚合和团队
+- [crew44](https://github.com/getcrew44/crew44) Crew44 turns the AI agents you already run into coordinated teams. Specialists sit in one workspace, hand off the baton, and accumulate skills with every run. Everything stays on your machine.
 - [hive](https://github.com/tt-a1i/hive) Browser-native hive-mind for CLI coding agents — Claude Code, Codex, Gemini, and OpenCode collaborate as real PTY processes via a team protocol.
 - [MagesticAI](https://github.com/dataseeek/MagesticAI) SDD (Spec-Driven Development) — a cloud and web-based AI task management and agent orchestration platform powered by LLMs
 - [claw-empire](https://github.com/GreenSheep01201/claw-empire) Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents
@@ -866,6 +883,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/SethGammon/Citadel Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.
 - https://github.com/kaanozhan/Frame Platform for agentic - vibecoders who use claude code and codex cli
 - https://github.com/0xNyk/lacp Local Agent Control Plane (LACP): Claude/Codex control-plane for memory, retrieval gates, and telemetry
+- [wesight](https://github.com/freestylefly/wesight/) WeSight 是一个开源桌面 AI Agent 控制台
 - [tingly-box](https://github.com/tingly-dev/tingly-box)
 - [octogent](https://github.com/hesamsheikh/octogent) A thin orchestration dashboard over Claude Code for managing context, automation, and developer headspace. You need tentacles
 - [octoally](https://github.com/ai-genius-automations/octoally) The dashboard for Claude Code & OpenAI Codex. Launch, monitor, and manage AI coding sessions with RuFlo multi-agent orchestration — all from one place.
@@ -890,6 +908,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [relaydeck](https://github.com/relaydeck/relaydeck) micro-agent orchestrator for local agents
 
 ## Multi-Agent-Best
+- [wayland](https://github.com/FerroxLabs/wayland) Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.
 - [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
 - [companies](https://github.com/paperclipai/companies) Deploy an entire AI workforce in minutes — 16 pre-built companies, 440+ specialized agents, and 500+ battle-tested skills. From security auditors to game studios, from scientific research labs to full-stack dev shops. Plug in, power up, ship.
 - [cccc](https://github.com/ChesterRa/cccc)  Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
@@ -917,6 +936,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
 - [Lucarne](https://github.com/tuchg/Lucarne/) Agents 在本地电脑上跑，人可以放下电脑；微信 / Telegram 随时同步关键进展,Agents 完成、卡住、需要你时，Lucarne 会在手机上叫你。
 - [golutra](https://github.com/golutra/golutra) Multi-agent AI orchestration platform
+- [lark-coding-agent-bridge)](https://github.com/zarazhangrui/lark-coding-agent-bridge) Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision 小任务用单 agent 就够了；一旦任务需要规划、并行实现、审查、测试和交接，多 agents 的价值就变成：把角色、上下文、模型和执行过程拆开管理。CCB 的重点是把多个真实 CLI agent 放进同一个可见终端工作台。
 
 ## Platform
 - [magic](https://github.com/dtyq/magic) Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
@@ -928,6 +948,11 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/InsForge/InsForge InsForge is a backend development platform built for AI coding agents and AI code editors.
 - [PilotDeck](https://github.com/OpenBMB/PilotDeck) Task-oriented AI Agent productivity platform
 - [synapse-ai](https://github.com/synapseorch-ai/synapse-ai) Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs.
+- [dotcraft](https://github.com/DotHarness/dotcraft/) DotCraft 是一个 .NET 10 / C# Agent Harness。它围绕真实项目目录组织 AI 工作流，让多个入口共享同一套会话核心、配置、技能、工具、任务和可观测能力。
+- [Shannon](https://github.com/Kocoro-lab/Shannon) A production-oriented multi-agent orchestration framework.
+- [voltagent](https://github.com/VoltAgent/voltagent/) 基于开源 TypeScript AI Agent 框架的 AI Agent 工程平台 可视化工作流
+- [vigils](https://github.com/duncatzat/vigils/) A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.
+
 ## Ai-Studio
 - https://github.com/Lianues/AIStudioBuildCopy
 
@@ -979,7 +1004,6 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://d.aigclink.ai/OpenAI-Aardvark-GPT-5-29a9857c0f478078b391d41096db2067
 - https://github.com/Iski08/dotclaude/
 - https://github.com/peteromallet/desloppify
-- https://github.com/tirth8205/code-review-graph
 - https://github.com/semgrep/semgrep 支持多种语言的轻量级静态分析。查找具有类似源代码模式的错误变体。
 - https://github.com/mainline-org/mainline Git-native memory for coding agents. Repo memory before the diff.
 - [roborev](https://github.com/roborev-dev/roborev) Continuous code review for AI coding agents. roborev runs in the background, reviews every commit as agents write code, and surfaces issues in seconds -- before they compound. Pull code reviews into your agentic loop while context is fresh.
@@ -987,6 +1011,8 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [eng-practices](https://github.com/google/eng-practices) Google Engineering Practices Documentation
 - [code-review-skill](https://github.com/awesome-skills/code-review-skill) A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - [open-code-review](https://github.com/alibaba/open-code-review) Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+- [code_review_agent](https://github.com/huoji120/code_review_agent) 超级黑暗代码审计agent
+
 ## Translate
 - [AiNiee](https://github.com/NEKOparapa/AiNiee)一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本
 
@@ -1053,10 +1079,10 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/Cranot/roam-code Architectural intelligence layer for AI coding agents. Structural graph, architecture governance, multi-agent orchestration, vulnerability mapping. 139 commands, 101 MCP tools, 26 languages, 100% local.
 - https://github.com/cocoindex-io
 - https://github.com/cocoindex-io/cocoindex-code
-- https://github.com/tirth8205/code-review-graph
+- [code-review-graph](https://github.com/tirth8205/code-review-graph) Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - https://github.com/hsingjui/ContextWeaver
 - https://kit.cased.com/
-- https://github.com/giancarloerra/socraticode Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Claude Plugin or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, and DB/API/infra knowledge. Benchmark: 61% less tokens, 84% fewer calls, 37x faster than standard AI grep.
+- [socraticode](https://github.com/giancarloerra/socraticode) Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Claude Plugin or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, and DB/API/infra knowledge. Benchmark: 61% less tokens, 84% fewer calls, 37x faster than standard AI grep.
 - https://github.com/DeusData/codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 64 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - https://github.com/Lum1104/Understand-Anything Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
 - https://github.com/semgrep/semgrep Semgrep 是一款快速、开源的静态分析工具，能够搜索代码、查找错误并强制执行安全防护措施和编码规范。Semgrep 支持 30 多种编程语言 ，可以在 IDE 中运行，作为提交前检查，也可以集成到 CI/CD 工作流程中。
@@ -1079,8 +1105,13 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [graphify-dotnet](https://github.com/elbruno/graphify-dotnet) A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and Microsoft.Extensions.AI
 - [CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) Interactive architecture diagrams for codebases
 - https://www.zdoc.app/zh/cocoindex-io/cocoindex
+- [carto](https://github.com/theanshsonkar/carto/) Structural intelligence for AI coding tools. Gives AI architectural context, blast radius analysis, domains, routes, and codebase impact awareness.
+- [CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) Open-source framework for holistic, structured repository-level documentation across multilingual codebases
+- [codeflow](https://github.com/braedonsaunders/codeflow) Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
+- [cga](https://github.com/nascousa/cga) CGA, aka Context Graph Agent, is a local-first graph context service that gives AI coding agents focused code evidence instead of dumping whole files or broad search results into prompts.
 ## Doc
 - https://github.com/oleeskild/obsidian-digital-garden
+- https://github.com/benmaster82/Kwipu/ A local Graph RAG system that turns your markdown notes into a queryable knowledge graph. Ask questions in natural language and get answers that connect information across multiple files.
 - https://github.com/YishenTu/claudian An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 - https://github.com/hkcanan/katmer-code Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support
 - https://github.com/rjzxui/obsidian-vault-cli Manage and automate Obsidian vaults from the command line with 100+ commands and direct file access for efficient workflows.
@@ -1195,6 +1226,9 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 
 ## Misson-Control
 - [Fusion](https://github.com/Runfusion/Fusion) From rough idea to production code — automatically.
+- [litellm-agent-platform](https://github.com/LiteLLM-Labs/litellm-agent-platform) Self-hosted agent builder - Build agents on top of OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents.
+- [ordinus](https://github.com/muratgur/ordinus) Your local-first command center for working with AI agents like a real team.
+- [rudder](https://github.com/Undertone0809/rudder) Agents that think, build, play, and learn from real work.
 - https://github.com/steveyegge/beads
 - [kanbots](https://github.com/leodavinci1/kanbots) Local collaboration interface for working on a kanban board where each task is either a Claude Code or Codex agent.
 - [openkanban](https://github.com/techdufus/openkanban) - TUI kanban board for orchestrating AI coding agents.
@@ -1226,6 +1260,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [adhdev](https://github.com/vilmire/adhdev) ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 
 ## Personal-Assistants
+- [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) Personal AI, On Personal Devices
 - [agentwasp](https://github.com/agentwasp/agentwasp) A serious runtime. Built to operate.
 - [huginn](https://github.com/huginn/huginn) Create agents that monitor and act on your behalf. Your agents are standing by!
 - [BitFun](https://github.com/GCWing/BitFun) BitFun 是一个桌面级 Agent 运行时（Local Agent Runtime），同时也是一套开箱即用的桌面 Agent 应用。 [skill tree](https://blog.csdn.net/2501_92808144/article/details/160992039)
@@ -1330,6 +1365,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://lobehub.com/
 
 ## API-Transit
+- https://github.com/physics-dimension/PriceAI AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 - https://proxycc.cc/ 中转站导航
 - https://relaypulse.top/ AI中转站导航
 - https://www.helpaio.com/transit AI 中转站导航
@@ -1378,14 +1414,15 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/larksuite/cli
 - https://github.com/EthanQC/feishu-user-plugin
 
-## AI-SRE 
+## SRE 
 - https://github.com/comet-ml/opik-openclaw
 - https://www.comet.com/docs/opik/
 - https://github.com/Tracer-Cloud/opensre
 - https://github.com/derisk-ai/OpenDerisk/
 - https://github.com/monoscope-tech/monoscope Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
 - https://github.com/jc2255/log-collect-ai-analytics
-
+- [superlog](https://github.com/superloglabs/superlog) Superlog is an open-source agentic telemetry system. It ingests traces, logs, and metrics, groups noisy signals into incidents, and watches your infra while you sleep.
+- [ongrid](https://github.com/ongridio/ongrid) An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack or Telegram.
 ## semantic-layer
 - https://github.com/Hawksight-AI/semantica Semantica 🧠 — A framework for building semantic layers, context graphs, and decision intelligence systems with explainability and provenance.
 
@@ -1411,6 +1448,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 
 ## LLM
 - https://github.com/jingyaogong/minimind 2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
+- https://github.com/p-e-w/heretic Fully automatic censorship removal for language models
 
 ## Agent-Remote
 - https://github.com/happier-dev/happier Open-source mobile, web, and desktop companion for AI coding agents
@@ -1458,6 +1496,10 @@ https://github.com/ConardLi/garden-skills
 - https://saaslandingpage.com/
 - [Developer Portfolios](https://6e87v.hatchboxapp.com/) A curated collection of 1742 developer portfolios
 - https://www.pencil.dev/
+- [html-video](https://github.com/nexu-io/html-video)
+- [lottie](https://github.com/diffusionstudio/lottie) Open-source skill and harness for generating production ready Lottie animations with codex/claude code
+- [zhongguo-traditional-color](https://github.com/nevertoday/zhongguo-traditional-colors/) 中华传统色演示、色卡浏览与颜色知识科普开源项目
+- [web-designer-plugin](https://github.com/MickeyAlton33/web-designer-plugin) Award-winning web design skill for Claude Code. 48 patterns from 38 top websites. Stop generating generic AI frontends.
 
 ## Medical  
 - https://github.com/FreedomIntelligence/Awesome-AI4Med 
@@ -1493,6 +1535,8 @@ https://github.com/ConardLi/garden-skills
 - [aetherviz-master](https://github.com/andyhuo520/aetherviz-master) AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页
 - [ChatTutor](https://github.com/HugeCatLab/ChatTutor)是一款人工智能教师，具备使用电子白板的功能。
 - [flipbook-app](https://github.com/imcuttle/flipbook-app/) 在生成的图片上任意位置长按。后端会推断你点的是什么、必要时联网搜索资料、 生成一张子图并把它链回来。一本可以"点出来"的可探索画册 —— 一次一个点击。
+- [edulab](https://github.com/wy51ai/edulab) A collection of education skills that turn academic problems into interactive lesson web pages
+- [gh-edu-solid-geometry](https://skills.yangsir.net/skill/gh-edu-solid-geometry) 此技能能将立体几何题目转化为交互式 3D 网页，包含题面、分步解析和可旋转缩放的 3D 模型
 
 ## AI-Diagnostic
 - [iFixAi](https://github.com/ifixai-ai/iFixAi) The open-source diagnostic for AI misalignment. 
@@ -1510,6 +1554,7 @@ https://github.com/ConardLi/garden-skills
 
 ## Writing
 - [SoftwareCopyright](https://github.com/Fokkyp/SoftwareCopyright-Skill) 这是一个用于生成中文软件著作权申请资料的 Codex Skill 开源仓库。
+- [general-readme-skill](https://github.com/KieranGao/general-readme-skill) Generate Professional & Beautified README Files For Any Project Using AI Assistants Skill.
 
 ## LLM-Rutor
 - https://github.com/opensquilla/opensquilla OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
@@ -1549,3 +1594,12 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 
 ## AI-Physical 
 - [genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) Genesis World is a simulation platform for physical AI developments.
+
+## NoteBook
+- https://github.com/lfnovo/open-notebook
+
+## Agents-Security
+- https://github.com/sutaoyu/awesome-ai-security-agents
+
+## GENesis-AGI
+- [GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) Personal AGI that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being tol
