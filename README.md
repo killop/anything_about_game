@@ -1148,6 +1148,7 @@ Table of Contents
 - https://machinations.io/  
 
 #### Tile
+- [Sprite Fusion](https://www.spritefusion.com/) - Free, web-based 2D tilemap editor with export to Unity, Godot, and more.
 - [smart-lighting-2d-112535](https://assetstore.unity.com/packages/tools/particles-effects/smart-lighting-2d-112535)
 - https://github.com/NullTale/LutLight2D
 - https://www.tilesetter.org/
