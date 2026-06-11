@@ -210,7 +210,6 @@ The full voice I/O stack, running locally on your machine.
 - [Locus](https://github.com/r1n7aro/Locus) Locus for Unity is an open-source AI Agent for Unity projects.
 - [Strada.Brain](https://github.com/okandemirel/Strada.Brain) AI-Powered Development Agent for Unity / Strada.Core Projects
 - https://github.com/ninkjin/Claude-Code-Terminal-for-Unity
-- https://github.com/nasimali5/mcpup
 - https://github.com/Arodoid/UnityMCP
 - https://github.com/CoderGamester/mcp-unity
 - https://github.com/justinpbarnett/unity-mcp
