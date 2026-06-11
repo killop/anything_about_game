@@ -577,6 +577,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/soulduse/ai-token-monitor
 - [codeburn](https://github.com/getagentseal/codeburn) See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 - [claude-tap](https://github.com/liaohch3/claude-tap) claude-tap 是给 AI 编程 agent 用的本地代理和 trace 查看器。把 CLI 通过它启动，就能看到真实 API 流量：system prompt、对话历史、工具 schema、工具调用、流式响应、token 用量和请求 diff。
+- [Inspector](https://github.com/TokenRollAI/Inspector) Claude API 请求与 SSE 解剖台 —— 一个纯前端、零依赖的离线解析工具。
 
 ## Common-Agent
 - https://github.com/agentsmd/agents.md
@@ -1109,6 +1110,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [codeflow](https://github.com/braedonsaunders/codeflow) Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
 - [cga](https://github.com/nascousa/cga) CGA, aka Context Graph Agent, is a local-first graph context service that gives AI coding agents focused code evidence instead of dumping whole files or broad search results into prompts.
+
 ## Doc
 - https://github.com/oleeskild/obsidian-digital-garden
 - https://github.com/benmaster82/Kwipu/ A local Graph RAG system that turns your markdown notes into a queryable knowledge graph. Ask questions in natural language and get answers that connect information across multiple files.
@@ -1475,6 +1477,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 
 ## Design
 - [awesome-design-skills](https://github.com/bergside/awesome-design-skills) List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
+- [ui-skills](https://www.ui-skills.com/skills/) Skills for Design Engineers
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [open-codesign](https://github.com/OpenCoworkAI/open-codesign) Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
 - [pen-design](https://github.com/nexu-io/open-design) Claude Design 的开源替代品。 本地优先、可部署到 Vercel、每一层都 BYOK —— 你机器上已经装好的 coding agent（Claude Code、Codex、Cursor Agent、Gemini CLI、OpenCode、Qwen）就是设计引擎，由 19 个可组合 Skills 和 71 套品牌级 Design System 驱动。
