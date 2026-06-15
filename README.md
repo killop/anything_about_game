@@ -2943,6 +2943,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 * [Tilengine](http://www.tilengine.org/) - C Engine with wrappers for C#, Python and Java :o2:
 * [Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games.
+* [VNovels](https://vnovels.com) - A browser-based visual novel maker and platform: build branching, choice-based stories in a visual graph and scene editor with an AI story assistant, generate backgrounds, character art, music and SFX with AI, and publish playable visual novels. No coding required.
 
 
 ### 3D Engines and Frameworks
