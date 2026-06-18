@@ -1198,6 +1198,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 
 ## AI-UI
 - https://github.com/maxbogo/awesome-ai-tools-for-ui Curated list of awesome AI tools to build beautiful UI/UX.
+- [Roblox GUI Maker](https://robloxguimaker.dev/) AI-assisted Roblox Studio ScreenGui, HUD/menu layout, and Lua UI starter-code planning tool.
 - https://github.com/CopilotKit/CopilotKit
 - https://github.com/TranHoaiHung/figma-ui-mcp use Claude (or any MCP client) to draw UI directly in Figma, and read existing designs back as structured data or code.
 - https://github.com/BIT-DataLab/Edit-Banana
