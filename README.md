@@ -2032,6 +2032,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 -  [linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 ## Version-Control
 - https://git-truck.github.io/git-truck/GitTruckTeaser
+- https://github.com/GoldenZqqq/GitPulse
 - https://github.com/Chronos778/git-rewind
 - https://github.com/FlaShG/GitMerge-for-Unity
 - https://github.com/skanmera/ExcelMerge
@@ -6353,6 +6354,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 ## Unity-Games&&OpenSource-Games
 - https://github.com/bobeff/open-source-games
 - https://github.com/liuhaopen/UnityMMO
+- https://github.com/Likon69/HonorBuddy-2.0.0.5999-WoW-4.3.4
 - https://github.com/hutian23/ETScript 基于ET7复刻《苍翼混沌效应》《街头霸王6》战斗系统
 - [Unity-Hyper-FPS-FrameWork-](https://github.com/InboraStudio/Unity-Hyper-FPS-FrameWork-Open-Source-)
 - https://github.com/freezy/VisualPinball.Engine
