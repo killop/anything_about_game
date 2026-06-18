@@ -1539,6 +1539,7 @@ https://github.com/ConardLi/garden-skills
 - https://github.com/moeru-ai/airi Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.
 - [pipecat](https://github.com/pipecat-ai/pipecat) 用于语音和多模态对话人工智能的开源框架
 - [ChatdollKit](https://github.com/uezo/ChatdollKit) 3D virtual assistant SDK that enables you to make your 3D model into a voice-enabled chatbot
+- [CoPet](https://github.com/ChanceYu/CoPet) A desktop pet that reacts in real time to your AI agents — Claude Code, Codex, Antigravity, OpenCode, Cursor, Copilot, Gemini.
 
 ## Verison-Control
 - https://git-truck.github.io/git-truck/GitTruckTeaser Git Truck allows you to get an understanding of how your repository is structured, where there has been the most activity at different points in time, and who worked on which parts of the code base.
@@ -1627,6 +1628,6 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 ## GENesis-AGI
 - [GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) Personal AGI that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being tol
 
-
 ## 3DGS
 - [spark](https://github.com/sparkjsdev/spark)  An advanced 3D Gaussian Splatting renderer for THREE.js
+
