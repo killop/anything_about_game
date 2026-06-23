@@ -170,6 +170,7 @@ The full voice I/O stack, running locally on your machine.
 - [ParanoiaSkills](https://github.com/DY-2026/ParanoiaSkills) 把游戏设计工作流做成可安装、可验证、可迁移的 Agent Skill 包
 ## 2D-Game
 - https://github.com/0x0funky/agent-sprite-forge Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts
+- https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator
 
 ## Unity
 - https://github.com/FunplayAI/funplay-unity-mcp
@@ -250,6 +251,7 @@ The full voice I/O stack, running locally on your machine.
 - [turbovec](https://github.com/RyanCodrai/turbovec) A vector index built on TurboQuant, written in Rust with Python bindings
 - [s4](https://github.com/abyo-software/s4) GPU-accelerated transparent compression S3-compatible storage gateway. Drop-in replacement for AWS S3 endpoints; cuts your S3 bill 50-80% with no app changes (Rust, nvCOMP, zstd).
 - [seekdb](https://github.com/oceanbase/seekdb/) The AI-native state store for agents. MySQL-compatible, embedded or server, hybrid vector + full-text search, COW sandboxes
+- [zvec](https://github.com/alibaba/zvec)
 ### Jupyter
 - https://github.com/datalayer/jupyter-mcp-server
 
@@ -605,6 +607,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 
 ## Coding-Agent
 - [ouroboros](https://github.com/razzant/ouroboros)  self-creating AI agent. Born Feb 16, 2026.
+- [](https://github.com/Maka-Agent/maka-agent)
 - https://github.com/lyming99/wenzagent WenzAgent 是一个纯 Dart 实现的 AI Agent 管理框架，提供完整的 Agent 生命周期管理、局域网设备发现与通信、远程过程调用（RPC）以及可扩展的技能系统。无需原生依赖，可跨平台运行。
 - [jcode](https://github.com/1jehuang/jcode) Coding Agent Harness 
 - https://github.com/konghayao/peri  Rust-built coding agent — fast, lean, Claude Code compatible, any LLM.
@@ -682,6 +685,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [724-office](https://github.com/wangziqi06/724-office) 7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.
 
 ## Harness 
+- [deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南
 - [Natural-Language Agent Harnesses](https://arxiv.org/html/2603.25723v1)
 - [learn-harness-engineering](https://walkinglabs.github.io/learn-harness-engineering/zh)
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) OpenHarness delivers core lightweight agent infrastructure: tool-use, skills, memory, and multi-agent coordination.
@@ -765,6 +769,7 @@ Claude Code Workflow 原理研究(抓包后分析)
 
 ## Agent-Loop
 - https://github.com/alchaincyf/loop-engineering-orange-book
+- https://github.com/fainir/most-capable-agent-system-prompt Most Capable Agent System Prompt
 - https://github.com/subsy/ralph-tui
 - https://github.com/snwfdhmp/awesome-ralph
 - https://github.com/mikeyobrien/ralph-orchestrator
@@ -919,6 +924,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [OnePagent](https://github.com/sligter/OnePagent)  One Page Agent.The browser-native workbench that lives in One Page.
 
 ## Multi-Agent-Best
+- [AIPass](https://github.com/AIOSAI/AIPass) Persistent Agent Workspace — AI agents that remember, collaborate, and never start from zero.
 - [omnigent](https://github.com/omnigent-ai/omnigent) Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [polynoia](https://github.com/JuneQQQ/polynoia/blob/main/README.zh-CN.md) Polynoia 是一个面向 Agentic Software Development 的 IM 形态多 Agent 协作平台。 它不把每个编码 Agent 隔离成一个终端会话,而是给它们一个共享工作区、聊天式协调层, 以及从想法 → 文件 → 预览 → 提交的可审查路径。
 - [wayland](https://github.com/FerroxLabs/wayland) Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.
@@ -966,6 +972,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [Shannon](https://github.com/Kocoro-lab/Shannon) A production-oriented multi-agent orchestration framework.
 - [voltagent](https://github.com/VoltAgent/voltagent/) 基于开源 TypeScript AI Agent 框架的 AI Agent 工程平台 可视化工作流
 - [vigils](https://github.com/duncatzat/vigils/) A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.
+- [Yuxi](https://github.com/xerrors/Yuxi) 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。
 
 ## Ai-Studio
 - https://github.com/Lianues/AIStudioBuildCopy
@@ -1197,6 +1204,8 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - https://github.com/inngest/inngest
 
 ## AI-UI
+- [cowart](https://github.com/zhongerxin/cowart) Cowart 是一个面向 Codex 的本地无限画布插件。
+- [AI-Canvas](https://github.com/binghe1980/AI-Canvas) AI Canvas 是一个 Codex 插件 marketplace。它让 Codex 可以打开本地无限画布，生成图片，读取你在画布上的箭头、文字、圈选标注，并把修改后的新版本自动放到旧图右侧。
 - https://github.com/maxbogo/awesome-ai-tools-for-ui Curated list of awesome AI tools to build beautiful UI/UX.
 - [Roblox GUI Maker](https://robloxguimaker.dev/) AI-assisted Roblox Studio ScreenGui, HUD/menu layout, and Lua UI starter-code planning tool.
 - https://github.com/CopilotKit/CopilotKit
@@ -1452,9 +1461,11 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/hugohe3/ppt-master
 - https://github.com/GordenSun/GordenPPTSkill
 - https://github.com/Anionex/banana-slides ppt
+- https://github.com/LearnPrompt/humanize-ppt
 - https://github.com/NyxTides/ppt-image-first
 - https://github.com/zarazhangrui/beautiful-html-templates
 - https://github.com/1weiho/open-slide
+- https://github.com/gitbrent/PptxGenJS
 - https://github.com/zarazhangrui/frontend-slides
 - https://github.com/sanqiufong/slides-from-anything
 - [Paper2Any](https://github.com/OpenDCAI/Paper2Any) Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides.
