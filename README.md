@@ -1118,6 +1118,7 @@ Table of Contents
 - [Halfedge mesh handler on Unity](https://github.com/komietty/unity-halfedge)
 - [RuntimeMeshSimplification](https://github.com/simplestargame/RuntimeMeshSimplification)
 - [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes meshes smaller and faster to render 
+- [](https://assetstore.unity.com/packages/tools/utilities/bt-opticache-x-aaa-level-asset-loading-stutter-elimination-frame-369890)
 - [polygon-cruncher](https://www.mootools.com/en/software/polygon-cruncher)
 - https://github.com/m-schuetz/SimLOD
 - [mirage-versatile-impostor-system](https://assetstore.unity.com/packages/tools/utilities/mirage-versatile-impostor-system-261094)
@@ -1910,6 +1911,7 @@ Table of Contents
 * [ST3GG](https://github.com/elder-plinius/ST3GG) 水印
 #### Archive-Format
 - https://github.com/bilibili/UnityBVA
+- https://github.com/EpicGames/lore
 - https://github.com/emperorofmars/stf-unity
 - [FF16Tools](https://github.com/Nenkai/FF16Tools) Tools for Final Fantasy XVI / 16.
 - [UAssetAPI](https://github.com/atenfyr/UAssetAPI) A low-level .NET library for reading and writing Unreal Engine 4 game assets
@@ -2036,6 +2038,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/GoldenZqqq/GitPulse
 - https://github.com/Chronos778/git-rewind
 - https://github.com/FlaShG/GitMerge-for-Unity
+- https://github.com/EpicGames/lore
 - https://github.com/skanmera/ExcelMerge
 - https://github.com/821869798/excel_merge
 - [ExcelDiff_MergeTool](https://github.com/kokichi88/ExcelDiff_MergeTool)
@@ -2101,6 +2104,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://ratatui.rs/
 - https://github.com/jake-stewart/tuie
 - https://github.com/Simon-He95/vue-tui
+- https://github.com/farukcan/ratatui-unity
 - https://github.com/cledouarec/sara stands for Solution Architecture Requirement for Alignment.
 - https://github.com/EnhancedJax/Bagels
 - https://github.com/tekugo/zeichenwerk Go console user interface library based on tcell
@@ -4224,9 +4228,6 @@ Showing off the power of shader properties in Unity
 - https://github.com/AkiKurisu/IllusionRP
 - https://github.com/Delt06/aaaa-rp
 - https://github.com/ahd2/AHD2-TODSystem
-- https://github.com/aras-p/UnityGaussianSplatting
-- https://github.com/cvg/resplat ReSplat: Learning Recurrent Gaussian Splatting
-- https://github.com/wuyize25/gsplat-unity
 - https://github.com/StressLevelZero
 - https://github.com/alelievr/HDRP-Mobile
 - https://github.com/Valax321/RadishRenderPipeline
