@@ -2042,6 +2042,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/skanmera/ExcelMerge
 - https://github.com/821869798/excel_merge
 - [ExcelDiff_MergeTool](https://github.com/kokichi88/ExcelDiff_MergeTool)
+- [mergesight](https://discussions.unity.com/t/mergesight-visual-unity-asset-review-and-merge-tool-for-git-and-other-vcs-workflows/1722629)
 - https://ugit.qq.com/en/
 - https://github.com/NibbleByte/UnityWiseGit
 - https://github.com/kekyo/GitReader
@@ -3635,6 +3636,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 * [SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) SALVIA is the rasterizer based software renderer. The goal of SALVIA is capacity of Direct3D 10+.
 #### 3rd-Binding
 - https://github.com/Devsh-Graphics-Programming/Nabla
+- https://github.com/wieslawsoltes/ProGPU
 - [Zenith.NET](https://github.com/qian-o/Zenith.NET/) [blog](https://www.cnblogs.com/xymfblogs/p/19443277)
 - [EmberGL](https://github.com/EmberGL-org/EmberGL) EmberGL (Ember Graphics Library) is a low-level open source graphics library
 - [igl](https://github.com/facebook/igl) Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
@@ -4127,6 +4129,7 @@ Showing off the power of shader properties in Unity
 
 ##### URP/SPR/HDRP Course
 - [MeasuredMaterialLibraryURP](https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP)
+- [anime-shader](https://assetstore.unity.com/packages/vfx/shaders/zlz-anime-shader-354900)
 - [shaderacademy](https://shaderacademy.com/) 
 - [URP管线的自学HLSL之路](https://www.bilibili.com/read/cv6382907)
 - [译 URP shader coding教程](https://zhuanlan.zhihu.com/p/138818637)
