@@ -1193,6 +1193,8 @@ Table of Contents
 - https://weblate.org/zh-hans/ 自动化翻译
 ## Texture
 #### PIX-Texture
+- [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - Generate, animate, edit, and export game-ready pixel art assets from text prompts.
+- [Sprite Fusion Pixel Snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - Free and open-source tool that cleans AI-generated pixel art by restoring a consistent pixel grid and quantized color palette.
 - [pixelover](https://deakcor.itch.io/pixelover)
 - [spritemate](http://www.spritemate.com/)
 - [pixelatorapp](http://pixelatorapp.com/) Pixelator is a smart software to convert images into pixel art sprites and cover arts. With Pixelator you can use any source picture to easily generate Pixelated graphics for games or posters.
