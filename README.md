@@ -2495,7 +2495,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 ## Massive-Crowds
 - [large-scale-combat-system-rts-sieges-329415](https://assetstore.unity.com/packages/templates/systems/large-scale-combat-system-329415)
 - [enemy-masses-massive-crowds](https://assetstore.unity.com/packages/tools/game-toolkits/enemy-masses-massive-crowds-1-click-enemy-ai-rts-formations-cont-351712)
-
+- [enemy-masses-professional](https://assetstore.unity.com/packages/tools/game-toolkits/enemy-masses-professional-massive-crowds-1-click-enemy-ai-rts-fo-371542)
 #### PCG
 - https://www.bilibili.com/read/cv22614836/ 
 - https://github.com/Nebukam/PCGExtendedToolkit
@@ -2956,6 +2956,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 
 ### 3D Engines and Frameworks
+- [carbonengine](https://github.com/orgs/carbonengine/) Open-source technology for persistent sandbox worlds - Powering EVE Online & EVE Frontier
 - [sbox](https://github.com/Facepunch/sbox-public)  s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 * [Xultaik](https://github.com/FaberSanZ/Xultaik?)
 * [kaiju](https://github.com/KaijuEngine/kaiju)
@@ -3168,6 +3169,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [manim](https://github.com/ManimCommunity/manim)
 - [Shadershop](http://tobyschachman.com/Shadershop/editor/)
 - [wolframalpha](https://www.wolframalpha.com)
+- [DesmosBezierRenderer](https://github.com/zhulin025/DesmosBezierRenderer) 
 - [geogebra](https://www.geogebra.org/)
 - [graphtoy](https://iquilezles.org/apps/graphtoy/index.html)
 - https://www.mathcha.io/
@@ -3848,6 +3850,7 @@ instrumentation, switch-contexts, sampling, GPU counters.
 - [urpplus](https://assetstore.unity.com/packages/vfx/shaders/urpplus-215494)
 - [omnishade-mobile-optimized-shader](https://assetstore.unity.com/packages/vfx/shaders/omnishade-mobile-optimized-shader-213594)
 - [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) unity Uber shader for Particle System
+- https://my.feishu.cn/wiki/BcmDwYEn6iaYl2kBDhhcLryTnRb NB特效框架开发
 - [shaders-impossible-geom](https://github.com/daniel-ilett/shaders-impossible-geom) A shader project for Unity URP featuring impossible geometry shaders like those seen in the game Antichamber.
 - [Anisotropy-Shader](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP)
 - https://github.com/eangulee/UnityShader

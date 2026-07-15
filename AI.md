@@ -67,6 +67,10 @@ The full voice I/O stack, running locally on your machine.
 - [Kimodo Unity Bridge ](https://www.bilibili.com/video/BV1HG7361Env/) [KimodoUnityBridge](https://github.com/OneYoungMean/KimodoUnityBridge)
 - [motionbricks](https://nvlabs.github.io/motionbricks/)
 
+
+## Blender
+- [mixar-app](https://github.com/Mixar-AI/mixar-app) Mixar is an AI-powered 3D content creation tool built as a custom fork of Blender 5.0. 
+
 ### Video
 - [runwayml-gen2](https://research.runwayml.com/gen2)
 
@@ -90,7 +94,8 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/Comfy-Org/comfy-cli
 - https://github.com/aiaiaikkk/ComfyUI-Curve
 - https://github.com/ShiroEirin/comfyui-good-anima
-
+- [ComfyUI_VNCCS](https://github.com/AHEKOT/ComfyUI_VNCCS) Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.
+- [DVStudio](https://github.com/412845222/DVStudio) DVStudio 是面向 AI 创作者的一站式资产管理与工作流编排工具。从文本描述到图片生成，从视频处理到 3D 场景布局，让创作者专注于创意表达。
 ## ML
 
 - https://github.com/Balint-H/mj-unity-tutorial?
@@ -176,7 +181,7 @@ The full voice I/O stack, running locally on your machine.
 ## 2D-Game
 - https://github.com/0x0funky/agent-sprite-forge Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts
 - https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator
-
+- https://github.com/Hugo-Dz/spritefusion-pixel-snapper
 ## Unity
 - https://github.com/AlexeyPerov/Unity-Open-MCP
 - https://github.com/FunplayAI/funplay-unity-mcp
@@ -454,6 +459,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/derisk-ai/OpenDerisk
 
 ## AutoResearch
+- [Light-skills](https://github.com/Light0305/Light-skills) 面向科研、竞赛与创新项目的 AI 全流程技能包
+- [OpenAI4S](https://github.com/PKU-YuanGroup/OpenAI4S) 9.9 元豆包API复刻 Claude Science
 - https://github.com/ruc-datalab/DeepAnalyze
 - https://github.com/yibie/awesome-autoresearch
 - https://github.com/burtenshaw/multiautoresearch autonomous open source ai lab
@@ -568,6 +575,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 
 ## Skill
 - [SkillClaw](https://github.com/AMAP-ML/SkillClaw) Let Skills Evolve Collectively with Agentic Evolver
+- [SkillX](https://github.com/zjunlp/SkillX) SkillX: Automatically Constructing Skill Knowledge Bases for Agents
 - https://github.com/Teaonly/SKILL.mk SKILL.mk — A Makefile-Format SKILL Document
 - https://github.com/ciembor/agent-rules-books AGENTS.md rules / skills for Codex, Cursor, Claude Code, distilled from classic software engineering books about refactoring, architecture, DDD and code quality.
 - https://github.com/davidliuk/graph-of-skills Dependency-Aware Structural Retrieval for Massive Agent Skills
@@ -620,6 +628,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 
 ## Coding-Agent
 - [CodeAlta](https://github.com/CodeAlta/CodeAlta) Your efficient agentic AI coding CLI assistant
+- [dao-code](https://github.com/tigicion/dao-code) A terminal coding agent built around cost, experience, and availability — squeezing the most capability and the lowest cost out of the high-value DeepSeek V4.
 - https://github.com/agentforce314/clawcodex Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!
 - https://github.com/CopilotKit/OpenTag OpenTag: an open-source alternative to Claude in Slack
 - [ORG2](https://github.com/yorgai/ORG2) Open-source Cursor-style agent IDE — but built for reviewability and control. Built-in rust harness; supports 10+ CLIs.
@@ -629,7 +638,6 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/lyming99/wenzagent WenzAgent 是一个纯 Dart 实现的 AI Agent 管理框架，提供完整的 Agent 生命周期管理、局域网设备发现与通信、远程过程调用（RPC）以及可扩展的技能系统。无需原生依赖，可跨平台运行。
 - [jcode](https://github.com/1jehuang/jcode) Coding Agent Harness 
 - https://github.com/konghayao/peri  Rust-built coding agent — fast, lean, Claude Code compatible, any LLM.
-- https://github.com/huiyu9144/Huiyu-Pi
 - https://www.codebuff.com/
 - https://github.com/gi-dellav/zerostack Minimal coding agent written in Rust, inspired by pi and opencode
 - https://github.com/vinhnx/vtcode VT Code - semantic AI coding agent
@@ -672,6 +680,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/open-gitagent/gitagent
 
 ## Evolving
+- [GEA](https://github.com/UCSB-AI/GEA) Group Evolving Agents: Open-Ended Self-Improvement via Experience Sharing
 - [Skill_MAS](https://github.com/linhh29/Skill_MAS) Evolving Meta-Skill for Automatic Multi-Agent Systems
 - [SelfEvolvingAI](https://github.com/primaxlab/SelfEvolvingAI) SelfEvolvingAI - 70模块自我进化AI系统 | Self-evolving AI with 70
 - [EvolveR](https://github.com/KnowledgeXLab/EvolveR) Self‑Evolving LLM Agents through an Experience‑Driven Lifecycle
@@ -877,11 +886,13 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [mails](https://github.com/chekusu/mails) email for agents. Built for AI agents that need to send, receive, and understand emails programmatically
 - [xurl](https://github.com/Xuanwo/xurl) xURL: Client for AI Agents URLs
 - [Avernet](https://github.com/inclusionAI/Avernet) Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.
+- [Cotal](https://github.com/Cotal-AI/Cotal) The open standard for agent coordination
 ## Agent-Canvas
 - [termcanvas](https://github.com/blueberrycongee/termcanvas) An infinite canvas desktop app for visually managing terminals 
 - [cate](https://github.com/0-AI-UG/cate) An infinite zoomable canvas for coding — editor, terminal, and browser panels in a spatial workspace.
-
+- [lemma-platform](https://github.com/lemma-work/lemma-platform) The open-source workspace where humans and AI agents work as one team.
 ## Multi-Agent Swarms
+- [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) 这是一个基于 TypeScript 的 AI 代理编排框架，支持动态工作流。请描述目标，而非图：协调器在运行时规划任务 DAG，并将其运行在任何 LLM（Claude、ChatGPT、Gemini、DeepSeek 或本地模型）上。
 - [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) Agent CLI 聚合和团队
 - [claude_code_bridge](https://github.com/bfly123/claude_code_bridge) - Real-time multi-AI collaboration.
 - [crew44](https://github.com/getcrew44/crew44) Crew44 turns the AI agents you already run into coordinated teams. Specialists sit in one workspace, hand off the baton, and accumulate skills with every run. Everything stays on your machine.
@@ -952,8 +963,10 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [OnePagent](https://github.com/sligter/OnePagent)  One Page Agent.The browser-native workbench that lives in One Page.
 
 ## Multi-Agent-Best
+- [mco](https://github.com/mco-org/mco) [Successor: Hive — https://hivehq.dev] Original neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code. New work continues in Hive.
 - [mobius](https://github.com/nutshellai-tech/mobius) The first self-evolving open-source Agent OS
 One system to connect your team, AI agents, devices, and compute
+- [Foundry](https://github.com/axislab-top/Foundry) Transform any idea into a running AI-powered company
 - [agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
 - [bitdance-agenthub](https://github.com/lizyoko9/bitdance-agenthub/) AgentHub 是一个 local-first 的多 Agent 协作工作空间，把 AI 协作做成 IM 群聊式的体验。
 - [AIPass](https://github.com/AIOSAI/AIPass) Persistent Agent Workspace — AI agents that remember, collaborate, and never start from zero.
@@ -962,6 +975,8 @@ One system to connect your team, AI agents, devices, and compute
 - [wayland](https://github.com/FerroxLabs/wayland) Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.
 - [trinity](https://github.com/Abilityai/trinity) Sovereign infrastructure for autonomous AI agents. Claude Code lets you create assistants - Trinity turns them into autonomous employees that run 24/7, remember, and coordinate. Apache 2.0, self-hosted or managed.
 - [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
+- [OpenOPC](https://github.com/HKUDS/OpenOPC) OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown
+- [alook](https://github.com/alookai/alook) The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.
 - [companies](https://github.com/paperclipai/companies) Deploy an entire AI workforce in minutes — 16 pre-built companies, 440+ specialized agents, and 500+ battle-tested skills. From security auditors to game studios, from scientific research labs to full-stack dev shops. Plug in, power up, ship.
 - [cccc](https://github.com/ChesterRa/cccc)  Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
 - [Maestro](https://github.com/RunMaestro/Maestro) Agent Orchestration Command Center
@@ -991,12 +1006,14 @@ One system to connect your team, AI agents, devices, and compute
 - [lark-coding-agent-bridge)](https://github.com/zarazhangrui/lark-coding-agent-bridge) Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision 小任务用单 agent 就够了；一旦任务需要规划、并行实现、审查、测试和交接，多 agents 的价值就变成：把角色、上下文、模型和执行过程拆开管理。CCB 的重点是把多个真实 CLI agent 放进同一个可见终端工作台。
 
 ## Platform
+- [openocta](https://github.com/openocta/openocta) OpenOcta 八爪鱼 是中国首个开源的个人桌面级 AI 智能体，国产开源智能体，开源工作伙伴。电脑端双击安装，一个运行在你自己电脑上、由你完全掌控的 Agent，用自然语言即可实现电脑办公、IT运维、推广运营、经营分析、软件测试。
 - [OpenTag](https://github.com/CopilotKit/OpenTag) OpenTag: an open-source alternative to Claude in Slack
 - [open-swe](https://github.com/langchain-ai/open-swe) Open-source framework for building your org's internal coding agent.
 - [magic](https://github.com/dtyq/magic) Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 - [agents-cli](https://github.com/google/agents-cli/) The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 - https://github.com/FullAgent/fulling Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra.
 - https://github.com/agentscope-ai/agentscope AgentScope 是一款企业级开箱即用的智能体框架，提供灵活的核心抽象以适配不断进化的模型能力，并原生支持模型微调。
+- [astron-agent](https://github.com/iflytek/astron-agent) Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 - https://github.com/lioensky/VCPToolBox 强大的AI-API-工具交互范式AGI社群系统
 - https://github.com/latitude-dev/latitude-llm Latitude is an open-source platform for building and operating LLM features in production.
 - https://github.com/enricoros/big-AGI
@@ -1015,11 +1032,11 @@ One system to connect your team, AI agents, devices, and compute
 
 ## LLM
 - https://github.com/liguodongiot/llm-resource
+- https://sebastianraschka.com/llm-architecture-gallery
 - https://github.com/liguodongiot/ai-system
 - https://github.com/datawhalechina/happy-llm
 - https://github.com/LMCache/LMCache
 
-##
 ### awesome-llm-apps
 - https://github.com/Shubhamsaboo/awesome-llm-apps
 
@@ -1265,7 +1282,11 @@ One system to connect your team, AI agents, devices, and compute
 - https://github.com/vidiptvashist/UX2UI-Image-to-Code-Generator-Modifier
 - https://github.com/fake-skate/html2uuitk unity
 - https://github.com/StarrDream/HTML-to-UGUI-Baker unity
+- https://github.com/jixinhaoqi/HtmlToUGUI
+- https://github.com/jixinhaoqi/HtmlToUIToolKit
+- https://github.com/Djiaxiong/AITOUGUI
 - https://github.com/bobbyz1x2c3/layer-designer/ 将 UI 设计拆解为可独立使用的透明图层，支持从需求到交付的完整工作流。
+- [PromptUGUI](https://github.com/Heerozh/PromptUGUI) A solution that enables Unity uGUI development through LLM.
 - https://github.com/XuToWei/Image-To-UI 
 - [gsap-skills](https://github.com/greensock/gsap-skills) Official AI skills for GSAP (GreenSock Animation Platform)
 - https://research.nvidia.com/labs/lpr/locate-anything/
@@ -1280,7 +1301,7 @@ One system to connect your team, AI agents, devices, and compute
 - [Improving GUI Element Detection with a Refined YOLO11-Based Approach](https://dl.acm.org/doi/10.1145/3766671.3766693)
 - [Detect UI Elements Using Computer Vision: How I Trained YOLOv8 to Detect Mobile UI Elements Using the VNIS Dataset](https://medium.com/@eslamelmishtawy/how-i-trained-yolov8-to-detect-mobile-ui-elements-using-the-vnis-dataset-f7f4b582fc09)
 - [Targie-The-Similar-Videos-Images-Finder](https://github.com/LiruiYu33/Targie-The-Similar-Videos-Images-Finder/) Try Targie — native macOS app that finds duplicate and visually similar videos & images. Free & open source
-
+- [rebucca](https://gitee.com/Vanishi/rebucca) Rebucca · 多路视频接入与智能布控分析平台。支持 GB28181 / RTSP 等协议、YOLO 等小模型检测、OpenAI 兼容大模型复核、多边形布控区域与带截图的结构化报警。
 ## OpenClaw
 - https://github.com/VoltAgent/awesome-openclaw-skills
 - https://github.com/mergisi/awesome-openclaw-agents
@@ -1385,7 +1406,6 @@ One system to connect your team, AI agents, devices, and compute
 
 ## Visual-Enhance
 - https://github.com/apple/embedding-atlas Embedding Atlas is a tool that provides interactive visualizations for large embeddings. 
-- [motion-skills](https://github.com/iart-ai/motion-skills) 50 open-source skills that teach your AI coding agent to make motion graphics, animation
 - https://github.com/graphistry/pygraphistry PyGraphistry: Leverage the power of graphs & GPUs to visualize, analyze, and scale your data
 - https://github.com/nicobailon/visual-explainer
 - https://github.com/ChristopherLyon/graphrag-workbench
@@ -1413,7 +1433,8 @@ One system to connect your team, AI agents, devices, and compute
 - https://github.com/nicobailon/pi-messenger
 - https://github.com/Michaelliv/pi-dynamic-workflows
 - https://github.com/LCorleone/pi-desktop
-
+- https://github.com/shixin-guo/picot
+- https://github.com/huiyu9144/Huiyu-Pi
 
 ## AutoTest
 - https://midscenejs.com/
@@ -1442,7 +1463,8 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/lukilabs/craft-agents-oss/ Craft Agents is a tool we built so that we (at craft.do) can work effectively with agents
 - https://lobehub.com/
 - https://github.com/mattermost/mattermost  
-
+- [laap-AGI](https://github.com/lorryjovens-hub/laap-AGI) LAAP AGI——面向数字生命体的零 LLM 认知架构。Rust PSI 核心，运行频率 2000Hz，QRE 量子推理，情景记忆，规则引擎。超过 25 个模块，全部采用本地推理。
+- [BaiLongma](https://github.com/xiaoyuanda666-ship-it/BaiLongma) Bailongma 是一个持续运行的桌面 AI Agent 项目。它不是一次问答结束就退出的聊天程序，而是由主循环驱动：有用户消息时优先处理，空闲时按节奏继续整理记忆、检查任务、刷新上下文，并把状态实时推送到 Brain UI。
 ## API-Transit
 - https://github.com/physics-dimension/PriceAI AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 - https://proxycc.cc/ 中转站导航
@@ -1562,6 +1584,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 
 ## Design
 - [awesome-design-skills](https://github.com/bergside/awesome-design-skills) List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
+- [motion-skills](https://github.com/iart-ai/motion-skills) 50 open-source skills that teach your AI coding agent to make motion graphics, animation
 - [emilkowalski](https://github.com/emilkowalski/skills) For designers and engineers to help them build better user interfaces.
 - [ui-skills](https://www.ui-skills.com/skills/) Skills for Design Engineers
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
@@ -1589,7 +1612,8 @@ https://github.com/ConardLi/garden-skills
 - [lottie](https://github.com/diffusionstudio/lottie) Open-source skill and harness for generating production ready Lottie animations with codex/claude code
 - [zhongguo-traditional-color](https://github.com/nevertoday/zhongguo-traditional-colors/) 中华传统色演示、色卡浏览与颜色知识科普开源项目
 - [web-designer-plugin](https://github.com/MickeyAlton33/web-designer-plugin) Award-winning web design skill for Claude Code. 48 patterns from 38 top websites. Stop generating generic AI frontends.
-
+- [MengTo](https://github.com/MengTo/Skills) A curated collection of agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents to build rich user interfaces, frontend systems, agent loops, automations, and reusable workflows.
+- [hallmark](https://github.com/Nutlope/hallmark) A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.
 ## Medical  
 - https://github.com/FreedomIntelligence/Awesome-AI4Med 
 - https://github.com/Biohub/esm 蛋白质生物学的世界模型
@@ -1602,6 +1626,7 @@ https://github.com/ConardLi/garden-skills
 - [phantom-motion](https://github.com/pixelxzen/phantom-motion) Phantom Motion 是一个极其硬核的交互式动态视觉叙事生成器。
 
 ## digital-human&&Live2d
+- [human](https://github.com/vladmandic/human) Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction, Gaze Tracking, Gesture Recognition
 - [Cyrene-Agent](https://github.com/Playa-0v0/Cyrene-Agent) Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory.
 - https://github.com/Open-LLM-VTuber/Open-LLM-VTuber Open-LLM-VTuber 是一款独特的语音交互 AI 伴侣，它不仅支持实时语音对话和视觉感知，还配备了生动的 Live2D 形象。所有功能都可以在你的电脑上完全离线运行！
 - https://github.com/moeru-ai/airi Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.
@@ -1611,6 +1636,7 @@ https://github.com/ConardLi/garden-skills
 - [CyberVerse](https://github.com/Lynpoint/CyberVerse) CyberVerse is an open-source real-time digital-human Agent framework
 - https://github.com/YeJe-cpu/talk-to-fengge
 - https://github.com/freemocap/freemocap
+- https://github.com/xszyou/fay fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 
 ## Verison-Control
 - https://git-truck.github.io/git-truck/GitTruckTeaser Git Truck allows you to get an understanding of how your repository is structured, where there has been the most activity at different points in time, and who worked on which parts of the code base.
@@ -1702,9 +1728,20 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 
 ## 3DGS
 - https://github.com/MrNeRF/awesome-3D-gaussian-splatting
+- https://github.com/manycoretech/aholo-viewer
 - https://github.com/wuyize25/gsplat-unity
 - [spark](https://github.com/sparkjsdev/spark)  An advanced 3D Gaussian Splatting renderer for THREE.js
 - https://github.com/aras-p/UnityGaussianSplatting
 - https://github.com/cvg/resplat ReSplat: Learning Recurrent Gaussian Splatting
 - https://www.simulacrum.dk/Shop#unity-gsplat-editor
 - https://github.com/HiFi-Human/DynGsplat-unity
+
+## GameEngine
+- https://github.com/Playgama Playgama is a global game distributor that handles all matters related to game placement, moderation, and borderless payments.
+
+## Agent-Runtime
+- [colibri](https://github.com/JustVugg/colibri) Tiny engine, immense model. Run GLM-5.2 (744B-parameter MoE) on a consumer machine with ~25 GB of RAM — in pure C, with zero dependencies, by streaming experts from disk. 
+
+## Music
+- [Mineradio](https://github.com/XxHuberrr/Mineradio)
+- [sonic-topography](https://github.com/yin-yizhen/sonic-topography)
