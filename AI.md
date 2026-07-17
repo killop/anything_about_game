@@ -79,7 +79,7 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/PicoTrex/Awesome-Nano-Banana-images
 - https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation
 - https://github.com/gemini-cli-extensions/nanobanana
-- https://voyager.nagi.fun/
+- https://voyager.nagi.fun/ 
 
 ## ComfyUI
 - https://www.comfyorg.cn/
@@ -373,6 +373,7 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/IAAR-Shanghai/Awesome-AI-Memory 
 - https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents
 - https://github.com/carsteneu/ai-memory-comparison
+- https://github.com/vshulcz/deja-vu
 - [nemos](https://github.com/mmlong818/nemos) Multi-persona AI companions that actually remember you — built on a standalone memory engine (layered · MoE routing · contradiction invalidation). Noncommercial.
 - [yantrikos](https://github.com/yantrikos/) YantrikDB — The Cognitive Memory Database for AI Agents
 - [PaperGuru-Benchmark](https://github.com/PaperGuru-AI/PaperGuru-Benchmark) Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB
@@ -496,6 +497,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/tuannvm/codex-mcp-server MCP server wrapper for OpenAI Codex CLI that enables Claude Code to leverage Codex's AI capabilities directly.
 - https://github.com/congwa/codex-autoresearch codex 永动机，避免codex执行一个长任务总是自动停止的问题
 - https://github.com/Git-on-my-level/codex-autorunner 只需制定一次计划，然后让您最喜欢的程序员在您睡觉时埋头处理工单——遇到问题时，他们会在 Telegram 或 Discord 上联系您。
+- [让Codex回复短一点](https://x.com/hiheimu/status/2077721449226457339)
 
 ## claude-code
 - [claudish](https://github.com/MadAppGang/claudish) Use your existing AI subscriptions with Claude Code. Works with Anthropic Max, Gemini Advanced, ChatGPT Plus/Codex, Kimi, GLM, OllamaCloud — plus 580+ models via OpenRouter and local models for complete privacy.
@@ -627,6 +629,9 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/Brightwing-Systems-LLC/mcp-manager
 
 ## Coding-Agent
+- [grok-build](https://github.com/xai-org/grok-build) SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- [Grok Build 源码拆解](https://xiangyangqiaomu.feishu.cn/docx/OAoYdiZ1eoc2HTxmmZ3clWIPnLf) 
+- [AI Coding Agent 架构解剖：从 Grok Build 源码看终端智能体的设计与实现](https://zhanghandong.github.io/grok-build/)
 - [CodeAlta](https://github.com/CodeAlta/CodeAlta) Your efficient agentic AI coding CLI assistant
 - [dao-code](https://github.com/tigicion/dao-code) A terminal coding agent built around cost, experience, and availability — squeezing the most capability and the lowest cost out of the high-value DeepSeek V4.
 - https://github.com/agentforce314/clawcodex Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!
@@ -653,6 +658,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://learn.shareai.run/
 - [面向 AI Agent 入门者的教学项目](https://github.com/Mr-Q526/Agent-Observability-Demo)
 - [hello-agents](https://github.com/datawhalechina/hello-agents) 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+
 
 
 ## Hermes-Agent
@@ -814,6 +820,7 @@ Claude Code Workflow 原理研究(抓包后分析)
 
 ## Parallel Agent Runners
 - [rmux](https://github.com/Helvesec/rmux/) Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
+- [freebuddy](https://github.com/maojindao55/freebuddy) A desktop workbench for local coding agents. 
 - [terax-ai](https://github.com/crynta/terax-ai) Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 - [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui/) CC GUI 客户端（专为开发者打造的VibeCoding平台）
 - [nezha](https://github.com/hanshuaikang/nezha) Run multiple AI coding agents across projects (Claude Code and Codex)
@@ -1006,6 +1013,7 @@ One system to connect your team, AI agents, devices, and compute
 - [lark-coding-agent-bridge)](https://github.com/zarazhangrui/lark-coding-agent-bridge) Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision 小任务用单 agent 就够了；一旦任务需要规划、并行实现、审查、测试和交接，多 agents 的价值就变成：把角色、上下文、模型和执行过程拆开管理。CCB 的重点是把多个真实 CLI agent 放进同一个可见终端工作台。
 
 ## Platform
+- [StaffDeck](https://github.com/OpenBMB/StaffDeck) StaffDeck是一套面向企业的数字员工构建与管理平台，帮助专业员工将工作经验、业务流程和判断标准固化为可以持续工作的数字员工，接手重复性任务，并将个人能力沉淀为可复用、可迭代、可追溯的组织资产
 - [openocta](https://github.com/openocta/openocta) OpenOcta 八爪鱼 是中国首个开源的个人桌面级 AI 智能体，国产开源智能体，开源工作伙伴。电脑端双击安装，一个运行在你自己电脑上、由你完全掌控的 Agent，用自然语言即可实现电脑办公、IT运维、推广运营、经营分析、软件测试。
 - [OpenTag](https://github.com/CopilotKit/OpenTag) OpenTag: an open-source alternative to Claude in Slack
 - [open-swe](https://github.com/langchain-ai/open-swe) Open-source framework for building your org's internal coding agent.
@@ -1233,6 +1241,7 @@ One system to connect your team, AI agents, devices, and compute
 
 ## LLM-WIKI
 - [llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler)
+- [shiji-kb](https://github.com/baojie/shiji-kb)
 - [llm-wiki-skill](https://github.com/sdyckjq-lab/llm-wiki-skill) 基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！
 - [iwe](https://github.com/iwe-org/iwe) Markdown memory system for you and your AI agent
 - [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
@@ -1285,11 +1294,10 @@ One system to connect your team, AI agents, devices, and compute
 - https://github.com/jixinhaoqi/HtmlToUGUI
 - https://github.com/jixinhaoqi/HtmlToUIToolKit
 - https://github.com/Djiaxiong/AITOUGUI
+- https://github.com/bruceyoung3306-lgtm/image2-ui-asset-slicer
 - https://github.com/bobbyz1x2c3/layer-designer/ 将 UI 设计拆解为可独立使用的透明图层，支持从需求到交付的完整工作流。
 - [PromptUGUI](https://github.com/Heerozh/PromptUGUI) A solution that enables Unity uGUI development through LLM.
 - https://github.com/XuToWei/Image-To-UI 
-- [gsap-skills](https://github.com/greensock/gsap-skills) Official AI skills for GSAP (GreenSock Animation Platform)
-- https://research.nvidia.com/labs/lpr/locate-anything/
 - https://x.com/RainbowYuhui/status/2059586371959001436
 
 ## Image-Model
@@ -1302,6 +1310,7 @@ One system to connect your team, AI agents, devices, and compute
 - [Detect UI Elements Using Computer Vision: How I Trained YOLOv8 to Detect Mobile UI Elements Using the VNIS Dataset](https://medium.com/@eslamelmishtawy/how-i-trained-yolov8-to-detect-mobile-ui-elements-using-the-vnis-dataset-f7f4b582fc09)
 - [Targie-The-Similar-Videos-Images-Finder](https://github.com/LiruiYu33/Targie-The-Similar-Videos-Images-Finder/) Try Targie — native macOS app that finds duplicate and visually similar videos & images. Free & open source
 - [rebucca](https://gitee.com/Vanishi/rebucca) Rebucca · 多路视频接入与智能布控分析平台。支持 GB28181 / RTSP 等协议、YOLO 等小模型检测、OpenAI 兼容大模型复核、多边形布控区域与带截图的结构化报警。
+- https://research.nvidia.com/labs/lpr/locate-anything/
 ## OpenClaw
 - https://github.com/VoltAgent/awesome-openclaw-skills
 - https://github.com/mergisi/awesome-openclaw-agents
@@ -1479,6 +1488,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://aistupidlevel.info/ 大模型质量
 - https://codexradar.com/ 大模型质量
 - https://codexapis.com/ 上游的中转站
+- https://api.khaix.net/    
 
 ## API-Transit-CodeFramework
 - https://github.com/Wei-Shaw/sub2api
@@ -1585,6 +1595,8 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 ## Design
 - [awesome-design-skills](https://github.com/bergside/awesome-design-skills) List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [motion-skills](https://github.com/iart-ai/motion-skills) 50 open-source skills that teach your AI coding agent to make motion graphics, animation
+- [gsap-skills](https://github.com/greensock/gsap-skills) Official AI skills for GSAP (GreenSock Animation Platform)
+- [motion-design-skill](https://github.com/LottieFiles/motion-design-skill) Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI
 - [emilkowalski](https://github.com/emilkowalski/skills) For designers and engineers to help them build better user interfaces.
 - [ui-skills](https://www.ui-skills.com/skills/) Skills for Design Engineers
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
@@ -1614,6 +1626,9 @@ https://github.com/ConardLi/garden-skills
 - [web-designer-plugin](https://github.com/MickeyAlton33/web-designer-plugin) Award-winning web design skill for Claude Code. 48 patterns from 38 top websites. Stop generating generic AI frontends.
 - [MengTo](https://github.com/MengTo/Skills) A curated collection of agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents to build rich user interfaces, frontend systems, agent loops, automations, and reusable workflows.
 - [hallmark](https://github.com/Nutlope/hallmark) A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.
+- [learnui](https://github.com/joeseesun/learnui)  What’s this UI element called
+- [vibe-designing](https://alibaba-cloud-design.github.io/vibe-designing-playbook/)
+- [toolcraft](https://toolcraft.sh/) Toolcraft is an open-source starter kit and UI library for building custom design apps with AI . 
 ## Medical  
 - https://github.com/FreedomIntelligence/Awesome-AI4Med 
 - https://github.com/Biohub/esm 蛋白质生物学的世界模型
@@ -1722,6 +1737,8 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 
 ## Agents-Security
 - https://github.com/sutaoyu/awesome-ai-security-agents
+- https://github.com/yynxxxxx/Codex-X
+- https://github.com/gmh5225/awesome-game-security
 
 ## GENesis-AGI
 - [GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) Personal AGI that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being tol

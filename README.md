@@ -5655,6 +5655,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/SlipperSoar/SSRichText
 - [health-bars](https://assetstore.unity.com/packages/vfx/shaders/gimme-instanced-health-bars-259079)  
 #### Font/Text
+- https://github.com/LightSideKittens/UniText
 - [Harfbuzz native plugin for use in Latios Framework](https://github.com/Dreaming381/HarfbuzzUnity)
 - [TextMeshDOTS](https://github.com/Fribur/TextMeshDOTS)
 - https://github.com/wuxiongbin/uHyperText 
