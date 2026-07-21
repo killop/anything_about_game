@@ -89,13 +89,15 @@ The full voice I/O stack, running locally on your machine.
 - https://github.com/cubiq/ComfyUI_IPAdapter_plus
 - https://github.com/TJ16th/comfyUI_TJ_NormalLighting
 - https://github.com/liusida/top-100-comfyui
-- https://github.com/kijai/ComfyUI-DynamiCrafterWrapper
+- https://github.com/kijai/ComfyUI-DynamiCrafterWrapper#
 - https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
 - https://github.com/Comfy-Org/comfy-cli
 - https://github.com/aiaiaikkk/ComfyUI-Curve
 - https://github.com/ShiroEirin/comfyui-good-anima
 - [ComfyUI_VNCCS](https://github.com/AHEKOT/ComfyUI_VNCCS) Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.
+- [ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG) 这是一个功能强大的 ComfyUI 自定义节点，专为高级图像背景移除和物体、人脸、服装及时尚元素的精确分割而设计。该工具利用了多种模型，包括 RMBG-2.0、INSPYRENET、BEN、BEN2、BiRefNet、SDMatte 模型、SAM、SAM2 和 GroundingDINO，同时还集成了实时背景替换和增强边缘检测的新功能，从而提高了精度。
 - [DVStudio](https://github.com/412845222/DVStudio) DVStudio 是面向 AI 创作者的一站式资产管理与工作流编排工具。从文本描述到图片生成，从视频处理到 3D 场景布局，让创作者专注于创意表达。
+
 ## ML
 
 - https://github.com/Balint-H/mj-unity-tutorial?
@@ -461,6 +463,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 
 ## AutoResearch
 - [Light-skills](https://github.com/Light0305/Light-skills) 面向科研、竞赛与创新项目的 AI 全流程技能包
+- [AcademicForge](https://github.com/momozi1996/AcademicForge) 面向 Claude Code / OpenCode / Codex 的学术 Skill 选配与安装平台
+- [PaperSpine](https://github.com/WUBING2023/PaperSpine) PaperSpine is a motivation-driven skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.
 - [OpenAI4S](https://github.com/PKU-YuanGroup/OpenAI4S) 9.9 元豆包API复刻 Claude Science
 - https://github.com/ruc-datalab/DeepAnalyze
 - https://github.com/yibie/awesome-autoresearch
@@ -632,7 +636,11 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [grok-build](https://github.com/xai-org/grok-build) SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [Grok Build 源码拆解](https://xiangyangqiaomu.feishu.cn/docx/OAoYdiZ1eoc2HTxmmZ3clWIPnLf) 
 - [AI Coding Agent 架构解剖：从 Grok Build 源码看终端智能体的设计与实现](https://zhanghandong.github.io/grok-build/)
+- [ai-agent-book](https://github.com/bojieli/ai-agent-book) 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- [momo-code](https://github.com/momozi1996/momo-code) About
+MOMO CODE — AI coding agent that evolves with you
 - [CodeAlta](https://github.com/CodeAlta/CodeAlta) Your efficient agentic AI coding CLI assistant
+- [metis](https://github.com/Wholiver/metis) Metis 是一个终端优先的 AI 编程智能体。它不只让模型执行命令和修改代码，还围绕编码任务补上搜索、长期经验复用、过程恢复和完成验证，让同一个模型获得更可靠的上下文与执行闭环
 - [dao-code](https://github.com/tigicion/dao-code) A terminal coding agent built around cost, experience, and availability — squeezing the most capability and the lowest cost out of the high-value DeepSeek V4.
 - https://github.com/agentforce314/clawcodex Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!
 - https://github.com/CopilotKit/OpenTag OpenTag: an open-source alternative to Claude in Slack
@@ -1002,6 +1010,7 @@ One system to connect your team, AI agents, devices, and compute
 
 ## Agent-Bridge
 - [cc-connect](https://github.com/chenhg5/cc-connect) Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms
+- [codex-remote-connection-adapter](https://github.com/stevenleep/codex-remote-connection-adapter)
 - [feishu-claude-code-bridge](https://github.com/zarazhangrui/feishu-claude-code-bridge) Bot that bridges Feishu/Lark messenger with a local Claude Code CLI — streaming cards, per-chat sessions, multiple workspaces
 - [codex-remote-feishu](https://github.com/kxn/codex-remote-feishu) Yet another codex remote in feishu
 - [feishu-codex-bridge](https://github.com/QQQingyu/feishu-codex-bridge) Run local Codex CLI from Feishu/Lark chat, with sessions, attachments, and background service support.
@@ -1110,6 +1119,7 @@ One system to connect your team, AI agents, devices, and compute
 - https://github.com/Eventual-Inc/Daft High-Performance Data Engine for AI and Multimodal Workloads
 - https://github.com/run-llama/liteparse A fast, helpful, and open-source document parser
 - https://github.com/kreuzberg-dev/kreuzberg
+- [GoldPan](https://github.com/ptai-eng/GoldPan) The ultimate privacy-first, multimodal data extraction and Local RAG workspace. Transform PDFs, Images, Audio, YouTube, and dynamic Web pages into AI-ready Markdown with 100% local vector storage.
 
 ## GPT-Research
 - https://github.com/setls/HacxGPT Advanced Adversarial AI Framework — a research-oriented system exploring the boundaries of autonomous reasoning and secure language model behavior.
@@ -1414,6 +1424,7 @@ One system to connect your team, AI agents, devices, and compute
 - [openagentd](https://github.com/lthoangg/openagentd) Your on-machine multi-agent system. A long-running local service with a web cockpit, persistent memory, and a team of agents that coordinate to get real work done
 
 ## Visual-Enhance
+- https://github.com/cytoscape/cytoscape Cytoscape: an open source platform for network analysis and visualization
 - https://github.com/apple/embedding-atlas Embedding Atlas is a tool that provides interactive visualizations for large embeddings. 
 - https://github.com/graphistry/pygraphistry PyGraphistry: Leverage the power of graphs & GPUs to visualize, analyze, and scale your data
 - https://github.com/nicobailon/visual-explainer
@@ -1567,7 +1578,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 ## LLM
 - https://github.com/jingyaogong/minimind 2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
 - https://github.com/p-e-w/heretic Fully automatic censorship removal for language models
-
+- https://github.com/kvcache-ai/ktransformers A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 ## Agent-Remote
 - https://github.com/happier-dev/happier Open-source mobile, web, and desktop companion for AI coding agents
 - https://github.com/lunel-dev/lunel ai powered mobile ide and cloud development platform
@@ -1614,7 +1625,8 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) An out-of-box UI solution for enterprise applications as a React boilerplate.
 - [qiaomu-artist-style](https://github.com/joeseesun/qiaomu-artist-style) 用同一句提示词，看 383 位画家风格的差异。
 - [qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design) 一句话生成大师级海报、书籍封面、专辑封面和各类设计作品
-https://github.com/ConardLi/garden-skills
+- [learnui.qiaomu.ai.sites](https://learnui.qiaomu.ai/sites/)
+- https://github.com/ConardLi/garden-skills
 - [garden-skills](https://github.com/ConardLi/garden-skills) ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - https://saaslandingpage.com/
@@ -1661,7 +1673,7 @@ https://github.com/ConardLi/garden-skills
 - https://github.com/StarRocks/mcp-server-starrocks
 - https://github.com/googleapis/mcp-toolbox MCP Toolbox for Databases is an open source MCP server for databases.
 - https://github.com/mindsdb/mindsdb AI Data Vault - A query engine for AI Agents to securely query data from any datasource
-
+- https://github.com/Canner/WrenAI
 
 ## VFS
 - https://www.strukto.ai/mirage
@@ -1696,9 +1708,6 @@ https://github.com/ConardLi/garden-skills
 - https://github.com/opensquilla/opensquilla OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
 - https://github.com/inngest/agent-kit/ AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
 
-## Reverse
-- https://github.com/saileaxh/iida-mcp
-- https://github.com/llnl/OGhidra
 
 ## Mathematical Modeling
 -  https://github.com/usail-hkust/LLM-MM-Agent MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem
@@ -1737,9 +1746,13 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 
 ## Agents-Security
 - https://github.com/sutaoyu/awesome-ai-security-agents
+
+## Reverse
+- https://github.com/saileaxh/iida-mcp
+- https://github.com/llnl/OGhidra
 - https://github.com/yynxxxxx/Codex-X
 - https://github.com/gmh5225/awesome-game-security
-
+- https://github.com/elder-plinius/G0DM0D3
 ## GENesis-AGI
 - [GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) Personal AGI that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being tol
 
