@@ -463,6 +463,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 
 ## AutoResearch
 - [Light-skills](https://github.com/Light0305/Light-skills) 面向科研、竞赛与创新项目的 AI 全流程技能包
+- [rw-research-skill](https://github.com/rolandwonglonam/rw-research-skill) Twelve standalone research workflow skills for questions, literature, evidence, design, writing, and submission.
 - [AcademicForge](https://github.com/momozi1996/AcademicForge) 面向 Claude Code / OpenCode / Codex 的学术 Skill 选配与安装平台
 - [PaperSpine](https://github.com/WUBING2023/PaperSpine) PaperSpine is a motivation-driven skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.
 - [OpenAI4S](https://github.com/PKU-YuanGroup/OpenAI4S) 9.9 元豆包API复刻 Claude Science
@@ -574,6 +575,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [codeburn](https://github.com/getagentseal/codeburn) See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 - [claude-tap](https://github.com/liaohch3/claude-tap) claude-tap 是给 AI 编程 agent 用的本地代理和 trace 查看器。把 CLI 通过它启动，就能看到真实 API 流量：system prompt、对话历史、工具 schema、工具调用、流式响应、token 用量和请求 diff。
 - [Inspector](https://github.com/TokenRollAI/Inspector) Claude API 请求与 SSE 解剖台 —— 一个纯前端、零依赖的离线解析工具。
+- [TokenUsageInsights](https://github.com/doggy8088/TokenUsageInsights) Token 戰情室
 
 ## Common-Agent
 - https://github.com/agentsmd/agents.md
@@ -638,8 +640,9 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [AI Coding Agent 架构解剖：从 Grok Build 源码看终端智能体的设计与实现](https://zhanghandong.github.io/grok-build/)
 - [ai-agent-book](https://github.com/bojieli/ai-agent-book) 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [codex-notebook](https://www.luochang.ink/codex-notebook/) 讲解 Codex 工程背后的 15 个核心设计决策
-- [momo-code](https://github.com/momozi1996/momo-code) About
-MOMO CODE — AI coding agent that evolves with you
+- [dg-ai-notes](https://github.com/buchidonggua/dg-ai-notes) Pi-Agent SDK 深度教程
+- [momo-code](https://github.com/momozi1996/momo-code) MOMO CODE — AI coding agent that evolves with you
+- [https://github.com/usepr/eva](https://github.com/usepr/eva) 单文件智能体
 - [CodeAlta](https://github.com/CodeAlta/CodeAlta) Your efficient agentic AI coding CLI assistant
 - [metis](https://github.com/Wholiver/metis) Metis 是一个终端优先的 AI 编程智能体。它不只让模型执行命令和修改代码，还围绕编码任务补上搜索、长期经验复用、过程恢复和完成验证，让同一个模型获得更可靠的上下文与执行闭环
 - [dao-code](https://github.com/tigicion/dao-code) A terminal coding agent built around cost, experience, and availability — squeezing the most capability and the lowest cost out of the high-value DeepSeek V4.
@@ -829,7 +832,6 @@ Claude Code Workflow 原理研究(抓包后分析)
 
 ## Parallel Agent Runners
 - [rmux](https://github.com/Helvesec/rmux/) Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
-- [freebuddy](https://github.com/maojindao55/freebuddy) A desktop workbench for local coding agents. 
 - [terax-ai](https://github.com/crynta/terax-ai) Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 - [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui/) CC GUI 客户端（专为开发者打造的VibeCoding平台）
 - [nezha](https://github.com/hanshuaikang/nezha) Run multiple AI coding agents across projects (Claude Code and Codex)
@@ -909,6 +911,11 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [lemma-platform](https://github.com/lemma-work/lemma-platform) The open-source workspace where humans and AI agents work as one team.
 ## Multi-Agent Swarms
 - [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) 这是一个基于 TypeScript 的 AI 代理编排框架，支持动态工作流。请描述目标，而非图：协调器在运行时规划任务 DAG，并将其运行在任何 LLM（Claude、ChatGPT、Gemini、DeepSeek 或本地模型）上。
+- [freebuddy](https://github.com/maojindao55/freebuddy) A desktop workbench for local coding agents. 
+- [buzz](https://github.com/block/buzz) Buzz is a self-hostable workspace where humans and AI agents share the same rooms.
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot) AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative
+- [homerail](https://github.com/xiaotianfotos/homerail) Voice-first local agent orchestration runtime for auditable DAG workflows.
+- [Reina-Agent](https://github.com/Reina-Agent) 桌面 AI 智能体 —— 多智能体协作、MCP 与 Skills、自带模型
 - [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) Agent CLI 聚合和团队
 - [claude_code_bridge](https://github.com/bfly123/claude_code_bridge) - Real-time multi-AI collaboration.
 - [crew44](https://github.com/getcrew44/crew44) Crew44 turns the AI agents you already run into coordinated teams. Specialists sit in one workspace, hand off the baton, and accumulate skills with every run. Everything stays on your machine.
@@ -1484,7 +1491,6 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/lukilabs/craft-agents-oss/ Craft Agents is a tool we built so that we (at craft.do) can work effectively with agents
 - https://lobehub.com/
 - https://github.com/mattermost/mattermost  
-- [laap-AGI](https://github.com/lorryjovens-hub/laap-AGI) LAAP AGI——面向数字生命体的零 LLM 认知架构。Rust PSI 核心，运行频率 2000Hz，QRE 量子推理，情景记忆，规则引擎。超过 25 个模块，全部采用本地推理。
 - [BaiLongma](https://github.com/xiaoyuanda666-ship-it/BaiLongma) Bailongma 是一个持续运行的桌面 AI Agent 项目。它不是一次问答结束就退出的聊天程序，而是由主循环驱动：有用户消息时优先处理，空闲时按节奏继续整理记忆、检查任务、刷新上下文，并把状态实时推送到 Brain UI。
 ## API-Transit
 - https://github.com/physics-dimension/PriceAI AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
@@ -1665,7 +1671,8 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/YeJe-cpu/talk-to-fengge
 - https://github.com/freemocap/freemocap
 - https://github.com/xszyou/fay fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
-
+- [laap-AGI](https://github.com/lorryjovens-hub/laap-AGI) LAAP AGI——面向数字生命体的零 LLM 认知架构。Rust PSI 核心，运行频率 2000Hz，QRE 量子推理，情景记忆，规则引擎。超过 25 个模块，全部采用本地推理。
+- [ackem](https://github.com/JasonLiu0826/ackem) Ackem · A.C.K.E.M — 保持情感记忆的自主伙伴
 ## Verison-Control
 - https://git-truck.github.io/git-truck/GitTruckTeaser Git Truck allows you to get an understanding of how your repository is structured, where there has been the most activity at different points in time, and who worked on which parts of the code base.
 - https://github.com/Chronos778/git-rewind An AI-powered CLI tool that instantly tells you where you left off in your Git repository.
