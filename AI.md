@@ -637,6 +637,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [Grok Build 源码拆解](https://xiangyangqiaomu.feishu.cn/docx/OAoYdiZ1eoc2HTxmmZ3clWIPnLf) 
 - [AI Coding Agent 架构解剖：从 Grok Build 源码看终端智能体的设计与实现](https://zhanghandong.github.io/grok-build/)
 - [ai-agent-book](https://github.com/bojieli/ai-agent-book) 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- [codex-notebook](https://www.luochang.ink/codex-notebook/) 讲解 Codex 工程背后的 15 个核心设计决策
 - [momo-code](https://github.com/momozi1996/momo-code) About
 MOMO CODE — AI coding agent that evolves with you
 - [CodeAlta](https://github.com/CodeAlta/CodeAlta) Your efficient agentic AI coding CLI assistant
