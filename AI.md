@@ -884,6 +884,7 @@ Claude Code Workflow 原理研究(抓包后分析)
 
 ## Parallel Agent Runners
 - [rmux](https://github.com/Helvesec/rmux/) Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
+- [CLI-Manager](https://github.com/dark-hxx/CLI-Manager) A multi-project AI CLI workspace for local terminals, SSH hosts, and mobile-assisted workflows
 - [terax-ai](https://github.com/crynta/terax-ai) Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 - [nezha](https://github.com/hanshuaikang/nezha) Run multiple AI coding agents across projects (Claude Code and Codex)
 - [AITerm](https://github.com/zzyong24/AITerm) AITerm 是一款基于 Electron + Vue 3 构建的多终端管理器，将终端、代码编辑器、Git 操作和文件浏览整合进一个工作区。支持跨端状态同步，重启后自动还原终端会话和编辑器状态。
@@ -1378,6 +1379,7 @@ Finds behavioral bugs that linters, type checkers, and unstructured review miss.
 - https://github.com/inngest/inngest
 
 ## AI-UI
+- https://github.com/JongLeePc/gpt-image2-layered-psd
 - https://github.com/maxbogo/awesome-ai-tools-for-ui Curated list of awesome AI tools to build beautiful UI/UX.
 - [Roblox GUI Maker](https://robloxguimaker.dev/) AI-assisted Roblox Studio ScreenGui, HUD/menu layout, and Lua UI starter-code planning tool.
 - https://github.com/CopilotKit/CopilotKit
@@ -1410,6 +1412,8 @@ Finds behavioral bugs that linters, type checkers, and unstructured review miss.
 - [AI-Canvas](https://github.com/binghe1980/AI-Canvas) AI Canvas 是一个 Codex 插件 marketplace。它让 Codex 可以打开本地无限画布，生成图片，读取你在画布上的箭头、文字、圈选标注，并把修改后的新版本自动放到旧图右侧。
 - [cowart](https://github.com/zhongerxin/cowart) Cowart 是一个面向 Codex 的本地无限画布插件。
 - [nova-image-studio](https://github.com/tianjiangqiji/nova-image-studio) 自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务
+- https://github.com/CookSleep/gpt_image_playground
+- https://github.com/MeowFree/GPT2Image-Pro
 ### Figma
 - [figkit](https://github.com/ProdaZhang/figkit/) 一次 Figma 捕获，六个可运行的输出 - HTML / Unity / Godot / Unreal / Cocos + 语义 UI-DSL，由一个像素级忠实的 IR 编译而成，并声明了交互。
 - https://github.com/awdr74100/figwright
@@ -1803,6 +1807,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [edulab](https://github.com/wy51ai/edulab) A collection of education skills that turn academic problems into interactive lesson web pages
 - [gh-edu-solid-geometry](https://skills.yangsir.net/skill/gh-edu-solid-geometry) 此技能能将立体几何题目转化为交互式 3D 网页，包含题面、分步解析和可旋转缩放的 3D 模型
 - [animated-voiceover](https://github.com/s1dashu/animated-voiceover/blob/main/README_CN.md)
+- https://github.com/liangdabiao/edulab
 ## AI-Diagnostic
 - [iFixAi](https://github.com/ifixai-ai/iFixAi) The open-source diagnostic for AI misalignment. 
 - [langfuse](https://github.com/langfuse/langfuse)  Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
