@@ -473,7 +473,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 ## Devops
 - https://github.com/derisk-ai/OpenDerisk
 
-## AutoResearch
+## Research
+- [researchstudio](https://github.com/microsoft/researchstudio) ResearchStudio 是一套涵盖整个研究生命周期的技能集合——从初步的研究方向到最终发表的论文
 - [hyperresearch](https://github.com/jordan-gibbs/hyperresearch)  the Most Powerful Deep Research Harness
 - [Light-skills](https://github.com/Light0305/Light-skills) 面向科研、竞赛与创新项目的 AI 全流程技能包
 - [rw-research-skill](https://github.com/rolandwonglonam/rw-research-skill) Twelve standalone research workflow skills for questions, literature, evidence, design, writing, and submission.
@@ -692,6 +693,25 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [面向 AI Agent 入门者的教学项目](https://github.com/Mr-Q526/Agent-Observability-Demo)
 - [hello-agents](https://github.com/datawhalechina/hello-agents) 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
+## PI
+- [PiDeck](https://github.com/ayuayue/PiDeck) PiDeck 是一个开源的桌面工作台，用于在本地项目目录中统一管理 pi Agent 会话，并支持导入 Codex、Claude 本地会话以便统一浏览和恢复。支持多项目工作区、会话历史、Git 集成、内置终端、模型配置和插件管理，基于 Electron 构建。
+- [对Pi Code Agent生态的整理](https://linux.do/t/topic/2504439)
+- https://github.com/badlogic/pi-mono AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- https://github.com/qualisero/awesome-pi-agent
+- [Pi Coding Agent 最全面指南（完美支持/goal）](https://x.com/wquguru/status/2056235143623495975)
+- [pi-livecraft](https://github.com/sebastienservouze/pi-livecraft)
+- [how-pi-agent-works](https://github.com/cellinlab/how-pi-agent-works) Pi Agent 原理与实现：从零到一实现一个 AI Agent
+- https://github.com/nicobailon/pi-subagents
+- https://github.com/nicobailon/pi-interactive-shell
+- https://github.com/Michaelliv/pi-generative-ui
+- https://github.com/nicobailon/pi-messenger
+- https://github.com/Michaelliv/pi-dynamic-workflows
+- https://github.com/LCorleone/pi-desktop
+- https://github.com/shixin-guo/picot
+- https://github.com/huiyu9144/Huiyu-Pi
+
+## DeepSeek
+- https://github.com/esengine/DeepSeek-Reasonix
 
 
 ## Hermes-Agent
@@ -951,6 +971,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [qm](https://github.com/yc-software/qm) Multiplayer agent harness for work
 - [commonly](https://github.com/Team-Commonly/commonly) Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.
 - [Codeg](https://github.com/xintaofei/codeg) Codeg (Code Generation) is an enterprise-grade multi-agent coding workspace. It unifies local AI coding agents (Claude Code, Codex CLI, OpenCode, Gemini CLI, OpenClaw, etc.) in one desktop app with session aggregation, parallel git worktree development, MCP/Skills management, and integrated Git/file/terminal workflows.
+- [StaffDeck](https://github.com/OpenBMB/StaffDeck) StaffDeck是一套面向企业的数字员工构建与管理平台，帮助专业员工将工作经验、业务流程和判断标准固化为可以持续工作的数字员工，接手重复性任务，并将个人能力沉淀为可复用、可迭代、可追溯的组织资产
 - [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui/) CC GUI 客户端（专为开发者打造的VibeCoding平台）
 ## Domain-Agent-Swarm
 - [codexloom](https://github.com/yan5xu/codexloom) A working environment for long-running Codex Agents.
@@ -1079,8 +1100,6 @@ One system to connect your team, AI agents, devices, and compute
 
 ## Platform
 - [Fluxon](https://github.com/Tele-AI/Fluxon) One unified distributed system for high performance RPC, KV Cache, Message Queue, and File & Object Acceleration
-- [StaffDeck](https://github.com/OpenBMB/StaffDeck) StaffDeck是一套面向企业的数字员工构建与管理平台，帮助专业员工将工作经验、业务流程和判断标准固化为可以持续工作的数字员工，接手重复性任务，并将个人能力沉淀为可复用、可迭代、可追溯的组织资产
-- [openocta](https://github.com/openocta/openocta) OpenOcta 八爪鱼 是中国首个开源的个人桌面级 AI 智能体，国产开源智能体，开源工作伙伴。电脑端双击安装，一个运行在你自己电脑上、由你完全掌控的 Agent，用自然语言即可实现电脑办公、IT运维、推广运营、经营分析、软件测试。
 - [OpenTag](https://github.com/CopilotKit/OpenTag) OpenTag: an open-source alternative to Claude in Slack
 - [open-swe](https://github.com/langchain-ai/open-swe) Open-source framework for building your org's internal coding agent.
 - [magic](https://github.com/dtyq/magic) Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
@@ -1182,6 +1201,7 @@ Finds behavioral bugs that linters, type checkers, and unstructured review miss.
 - https://github.com/kreuzberg-dev/kreuzberg
 - [GoldPan](https://github.com/ptai-eng/GoldPan) The ultimate privacy-first, multimodal data extraction and Local RAG workspace. Transform PDFs, Images, Audio, YouTube, and dynamic Web pages into AI-ready Markdown with 100% local vector storage.
 - https://github.com/microsoft/markitdown/
+- [pdf-inspector](https://github.com/firecrawl/pdf-inspector) Fast Rust library for PDF inspection, classification, and text extraction.
 
 ## GPT-Research
 - https://github.com/setls/HacxGPT Advanced Adversarial AI Framework — a research-oriented system exploring the boundaries of autonomous reasoning and secure language model behavior.
@@ -1461,7 +1481,7 @@ Finds behavioral bugs that linters, type checkers, and unstructured review miss.
 - [adhdev](https://github.com/vilmire/adhdev) ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 
 ## Personal-Assistants
-- [PiDeck](https://github.com/ayuayue/PiDeck) PiDeck 是一个开源的桌面工作台，用于在本地项目目录中统一管理 pi Agent 会话，并支持导入 Codex、Claude 本地会话以便统一浏览和恢复。支持多项目工作区、会话历史、Git 集成、内置终端、模型配置和插件管理，基于 Electron 构建。
+- [openocta](https://github.com/openocta/openocta) OpenOcta 八爪鱼 是中国首个开源的个人桌面级 AI 智能体，国产开源智能体，开源工作伙伴。电脑端双击安装，一个运行在你自己电脑上、由你完全掌控的 Agent，用自然语言即可实现电脑办公、IT运维、推广运营、经营分析、软件测试。
 - [openhanako](https://github.com/liliMozi/openhanako) HanaAgent 是一个更加易用的 AI agent，有记忆，有性格，会主动行动，还能多 Agent 在你的电脑上一同工作。
 - [Kun](https://github.com/KunAgent/Kun) Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.
 - [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) Personal AI, On Personal Devices
@@ -1544,21 +1564,7 @@ Finds behavioral bugs that linters, type checkers, and unstructured review miss.
 - [drawio-scientific-illustrator](https://github.com/icebird1998/drawio-scientific-illustrator) Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.
 - [drawio-skills](https://github.com/bahayonghang/drawio-skills) drawio skills for cc,codex
 
-## PI
-- [对Pi Code Agent生态的整理](https://linux.do/t/topic/2504439)
-- https://github.com/badlogic/pi-mono AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-- https://github.com/qualisero/awesome-pi-agent
-- [Pi Coding Agent 最全面指南（完美支持/goal）](https://x.com/wquguru/status/2056235143623495975)
-- [pi-livecraft](https://github.com/sebastienservouze/pi-livecraft)
-- [how-pi-agent-works](https://github.com/cellinlab/how-pi-agent-works) Pi Agent 原理与实现：从零到一实现一个 AI Agent
-- https://github.com/nicobailon/pi-subagents
-- https://github.com/nicobailon/pi-interactive-shell
-- https://github.com/Michaelliv/pi-generative-ui
-- https://github.com/nicobailon/pi-messenger
-- https://github.com/Michaelliv/pi-dynamic-workflows
-- https://github.com/LCorleone/pi-desktop
-- https://github.com/shixin-guo/picot
-- https://github.com/huiyu9144/Huiyu-Pi
+
 
 ## AutoTest
 - https://midscenejs.com/
@@ -1863,6 +1869,7 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 
 ## Reverse
 - https://github.com/FuDie0915/Super-Instruct-Codex-5.6
+- https://github.com/Jia-Ethan/codex-keysmith
 - https://github.com/zhaoxuya520/reverse-skill/
 - https://github.com/saileaxh/iida-mcp
 - https://github.com/llnl/OGhidra
@@ -1907,3 +1914,8 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 
 ## Customer
 - [chatwoot](https://github.com/chatwoot/chatwoot) The modern customer support platform
+
+## issue racker
+- https://github.com/opf/openproject
+- https://github.com/makeplane/plane
+- https://github.com/usekaneo/kaneo
