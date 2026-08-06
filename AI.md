@@ -968,18 +968,23 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 ## Orchestration 
 - [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) 这是一个基于 TypeScript 的 AI 代理编排框架，支持动态工作流。请描述目标，而非图：协调器在运行时规划任务 DAG，并将其运行在任何 LLM（Claude、ChatGPT、Gemini、DeepSeek 或本地模型）上。
 
-## IM-Agent-Swarm
+## IM-Agent-Swarm&&Control-Plane
 - [buzz](https://github.com/block/buzz) Buzz is a self-hostable workspace where humans and AI agents share the same rooms.
 - [qm](https://github.com/yc-software/qm) Multiplayer agent harness for work
 - [commonly](https://github.com/Team-Commonly/commonly) Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.
+- [polynoia](https://github.com/JuneQQQ/polynoia/blob/main/README.zh-CN.md) Polynoia 是一个面向 Agentic Software Development 的 IM 形态多 Agent 协作平台。 它不把每个编码 Agent 隔离成一个终端会话,而是给它们一个共享工作区、聊天式协调层, 以及从想法 → 文件 → 预览 → 提交的可审查路径。
 - [Codeg](https://github.com/xintaofei/codeg) Codeg (Code Generation) is an enterprise-grade multi-agent coding workspace. It unifies local AI coding agents (Claude Code, Codex CLI, OpenCode, Gemini CLI, OpenClaw, etc.) in one desktop app with session aggregation, parallel git worktree development, MCP/Skills management, and integrated Git/file/terminal workflows.
+- [wayland](https://github.com/FerroxLabs/wayland) Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.
 - [StaffDeck](https://github.com/OpenBMB/StaffDeck) StaffDeck是一套面向企业的数字员工构建与管理平台，帮助专业员工将工作经验、业务流程和判断标准固化为可以持续工作的数字员工，接手重复性任务，并将个人能力沉淀为可复用、可迭代、可追溯的组织资产
+- [mobius](https://github.com/nutshellai-tech/mobius) The first self-evolving open-source Agent OS
+One system to connect your team, AI agents, devices, and compute
 - [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui/) CC GUI 客户端（专为开发者打造的VibeCoding平台）
 - [zano](https://github.com/EryouHao/zano) Zano lets you spin up persistent AI agents that live in chat channels alongside your team. Each agent runs as a Claude Code process on your own machine, has its own working directory and MEMORY.md, and communicates over chat, DMs, threads, and a built-in task board 
 - [openagents](https://github.com/openagents-org/openagents) One workspace where all your AI agents collaborate. Open source. No account required.
 - [agent-teams-ai](https://github.com/777genius/agent-teams-ai) You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
 - [Maestro](https://github.com/RunMaestro/Maestro) Agent Orchestration Command Center
 - [cccc](https://github.com/ChesterRa/cccc)  Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
+- [bitdance-agenthub](https://github.com/lizyoko9/bitdance-agenthub/) AgentHub 是一个 local-first 的多 Agent 协作工作空间，把 AI 协作做成 IM 群聊式的体验。
 
 ## Domain-Agent-Swarm
 - [codexloom](https://github.com/yan5xu/codexloom) A working environment for long-running Codex Agents.
@@ -1063,22 +1068,16 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [loopx](https://github.com/huangruiteng/loopx) The local control plane for long-running AI agent work.
 - [agentswarms](https://github.com/AgentSwarms-fyi/agentswarms) Deploy your own agentic AI & business-intelligence platform
 - [mco](https://github.com/mco-org/mco) [Successor: Hive — https://hivehq.dev] Original neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code. New work continues in Hive.
-- [mobius](https://github.com/nutshellai-tech/mobius) The first self-evolving open-source Agent OS
-One system to connect your team, AI agents, devices, and compute
 - [Foundry](https://github.com/axislab-top/Foundry) Transform any idea into a running AI-powered company
 - [agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
-- [bitdance-agenthub](https://github.com/lizyoko9/bitdance-agenthub/) AgentHub 是一个 local-first 的多 Agent 协作工作空间，把 AI 协作做成 IM 群聊式的体验。
 - [AIPass](https://github.com/AIOSAI/AIPass) Persistent Agent Workspace — AI agents that remember, collaborate, and never start from zero.
-- [omnigent](https://github.com/omnigent-ai/omnigent) Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [polynoia](https://github.com/JuneQQQ/polynoia/blob/main/README.zh-CN.md) Polynoia 是一个面向 Agentic Software Development 的 IM 形态多 Agent 协作平台。 它不把每个编码 Agent 隔离成一个终端会话,而是给它们一个共享工作区、聊天式协调层, 以及从想法 → 文件 → 预览 → 提交的可审查路径。
-- [wayland](https://github.com/FerroxLabs/wayland) Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.
+- [omnigent](https://github.com/omnigent-ai/omnigent) Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.\
 - [trinity](https://github.com/Abilityai/trinity) Sovereign infrastructure for autonomous AI agents. Claude Code lets you create assistants - Trinity turns them into autonomous employees that run 24/7, remember, and coordinate. Apache 2.0, self-hosted or managed.
 - [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
 - [HiveWard](https://github.com/Chaunyzhang/HiveWard/) 把 OpenClaw、Claude Code、Codex、Google CLI、Cursor CLI、OpenCode、Hermes 组织成一家可调度、可审批、可复盘的 Agent Company。
 - [OpenOPC](https://github.com/HKUDS/OpenOPC) OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown
 - [alook](https://github.com/alookai/alook) The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.
 - [companies](https://github.com/paperclipai/companies) Deploy an entire AI workforce in minutes — 16 pre-built companies, 440+ specialized agents, and 500+ battle-tested skills. From security auditors to game studios, from scientific research labs to full-stack dev shops. Plug in, power up, ship.
-
 - [ruflo](https://github.com/ruvnet/ruflo) The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 - [agnt](https://github.com/agnt-gg/agnt) The Complete AI Agent Operating System
 - https://github.com/simstudioai/sim Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
