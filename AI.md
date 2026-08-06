@@ -474,6 +474,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/derisk-ai/OpenDerisk
 
 ## Research
+- [CORAL](https://github.com/Human-Agent-Society/CORAL) CORAL 是一个强大而轻量级的基础设施，用于多智能体自主进化，专为自主研究而构建。
 - [researchstudio](https://github.com/microsoft/researchstudio) ResearchStudio 是一套涵盖整个研究生命周期的技能集合——从初步的研究方向到最终发表的论文
 - [hyperresearch](https://github.com/jordan-gibbs/hyperresearch)  the Most Powerful Deep Research Harness
 - [Light-skills](https://github.com/Light0305/Light-skills) 面向科研、竞赛与创新项目的 AI 全流程技能包
@@ -974,6 +975,12 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [Codeg](https://github.com/xintaofei/codeg) Codeg (Code Generation) is an enterprise-grade multi-agent coding workspace. It unifies local AI coding agents (Claude Code, Codex CLI, OpenCode, Gemini CLI, OpenClaw, etc.) in one desktop app with session aggregation, parallel git worktree development, MCP/Skills management, and integrated Git/file/terminal workflows.
 - [StaffDeck](https://github.com/OpenBMB/StaffDeck) StaffDeck是一套面向企业的数字员工构建与管理平台，帮助专业员工将工作经验、业务流程和判断标准固化为可以持续工作的数字员工，接手重复性任务，并将个人能力沉淀为可复用、可迭代、可追溯的组织资产
 - [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui/) CC GUI 客户端（专为开发者打造的VibeCoding平台）
+- [zano](https://github.com/EryouHao/zano) Zano lets you spin up persistent AI agents that live in chat channels alongside your team. Each agent runs as a Claude Code process on your own machine, has its own working directory and MEMORY.md, and communicates over chat, DMs, threads, and a built-in task board 
+- [openagents](https://github.com/openagents-org/openagents) One workspace where all your AI agents collaborate. Open source. No account required.
+- [agent-teams-ai](https://github.com/777genius/agent-teams-ai) You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
+- [Maestro](https://github.com/RunMaestro/Maestro) Agent Orchestration Command Center
+- [cccc](https://github.com/ChesterRa/cccc)  Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
+
 ## Domain-Agent-Swarm
 - [codexloom](https://github.com/yan5xu/codexloom) A working environment for long-running Codex Agents.
 
@@ -1071,18 +1078,12 @@ One system to connect your team, AI agents, devices, and compute
 - [OpenOPC](https://github.com/HKUDS/OpenOPC) OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown
 - [alook](https://github.com/alookai/alook) The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.
 - [companies](https://github.com/paperclipai/companies) Deploy an entire AI workforce in minutes — 16 pre-built companies, 440+ specialized agents, and 500+ battle-tested skills. From security auditors to game studios, from scientific research labs to full-stack dev shops. Plug in, power up, ship.
-- [cccc](https://github.com/ChesterRa/cccc)  Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
-- [Maestro](https://github.com/RunMaestro/Maestro) Agent Orchestration Command Center
 
-- [claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
 - [ruflo](https://github.com/ruvnet/ruflo) The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-- [openagents](https://github.com/openagents-org/openagents) One workspace where all your AI agents collaborate. Open source. No account required.
-- [CORAL](https://github.com/Human-Agent-Society/CORAL) CORAL 是一个强大而轻量级的基础设施，用于多智能体自主进化，专为自主研究而构建。
 - [agnt](https://github.com/agnt-gg/agnt) The Complete AI Agent Operating System
 - https://github.com/simstudioai/sim Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [evonic](https://github.com/anvie/evonic) Evonic is an agentic AI framework for designing, building, and orchestrating intelligent agents from concept to production. It empowers you to define every aspect of an agent — its model, tools, knowledge base, channels, and skills — and compose them into multi-agent systems that operate autonomously across distributed environments.
 - [mate](https://github.com/antiv/mate) Production-ready multi-agent orchestration engine built on Google ADK. Database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, RBAC.
-- [zano](https://github.com/EryouHao/zano) Zano lets you spin up persistent AI agents that live in chat channels alongside your team. Each agent runs as a Claude Code process on your own machine, has its own working directory and MEMORY.md, and communicates over chat, DMs, threads, and a built-in task board 
 - [tessera](https://github.com/horang-labs/tessera) Tessera is an open-source workspace that turns AI coding agents into a visual command center for parallel software work.
 - [bernstein](https://github.com/sipyourdrink-ltd/bernstein) Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more)
 
