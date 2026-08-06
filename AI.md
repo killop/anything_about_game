@@ -1203,7 +1203,7 @@ Finds behavioral bugs that linters, type checkers, and unstructured review miss.
 - [GoldPan](https://github.com/ptai-eng/GoldPan) The ultimate privacy-first, multimodal data extraction and Local RAG workspace. Transform PDFs, Images, Audio, YouTube, and dynamic Web pages into AI-ready Markdown with 100% local vector storage.
 - https://github.com/microsoft/markitdown/
 - [pdf-inspector](https://github.com/firecrawl/pdf-inspector) Fast Rust library for PDF inspection, classification, and text extraction.
-
+- https://github.com/firecrawl/anydoc
 ## GPT-Research
 - https://github.com/setls/HacxGPT Advanced Adversarial AI Framework — a research-oriented system exploring the boundaries of autonomous reasoning and secure language model behavior.
 
