@@ -5275,7 +5275,7 @@ Showing off the power of shader properties in Unity
 - [Addler](https://github.com/Haruma-K/Addler) Preloading, Pooling, Lifetime Management for Unity Addressable Asset System.
 #### Unity-Framework
 - https://github.com/ProgramForFun/Icy
-- [GameFrameX](https://github.com/AlianBlank/GameFrameX) 前后端一体化，带后台管理系统，支持webgl和微信小游戏
+- [GameFrameX](https://github.com/GameFrameX/GameFrameX) 跨引擎游戏框架：Unity/Godot 客户端 + Actor 模型 .NET 服务器，前后端一体化，双端热更新
 - https://github.com/AkiKurisu/AkiFramewor
 - https://github.com/fancyhub/UnityLibs
 - https://github.com/firleaves/GameEntity
