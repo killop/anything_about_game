@@ -16,7 +16,7 @@ https://github.com/Dominic789654/awesome-deepseek-harness
 
 ## Author&&provider
 - [dockyard-dsh](https://github.com/AITabby/dockyard-dsh) A macOS-only native account-pool and provider plugin for DeepSeek Harness.
-
+- https://github.com/V1ki/dsh-plugin-subscriptions
 ## Vision-Enhance
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit/blob/main/README.zh.md) 更强大的视觉工具箱——给 DeepSeek Harness 里的纯文本模型装上眼睛：图片问答、长图 OCR、前端 UI 还原、GUI 视觉任务，一套视觉工具箱和一个 Skill。
 - [dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) 在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations
@@ -26,9 +26,12 @@ https://github.com/Dominic789654/awesome-deepseek-harness
 - [laobos-agent-studio](https://github.com/Modole/laobos-agent-studio)  劳博士：基于 DeepSeek Harness 的本地 Agent 桌面客户端（仅限非商业用途）
 - [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案
 - [deepseek-harness-gui](https://github.com/oodzchen/deepseek-harness-gui) 这是一个 dsh bundle 插件，用于在原生 Glimpse 窗口中打开现有的 dsh Web GUI。插件刻意保持轻量：不会重复实现聊天功能，也不会引入第二套 RPC 桥接——窗口只是直接打开已绑定的本地 Web 服务
+- https://github.com/yukiykchen/deepseek-harness-mobile
 ## Memory
 - [dsh-noema](https://github.com/ZSeven-W/dsh-noema) Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
 
+## TUI
+- https://github.com/huiliyi37/dsh-tianshu-tui
 ## Workflow
 - [iPolloWork](https://github.com/Devin-AXIS/iPolloWork) 这是一种新一代的、可随时获取的人工智能工作空间
 - [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) 本地运行的 AI 桌面办公助手，灵感来自 Claude Code 的 Cowork 模式。 
@@ -46,3 +49,5 @@ https://github.com/Dominic789654/awesome-deepseek-harness
 
 ## office
 - https://github.com/dream-num/dsh-univer-office/
+- https://github.com/baserow/baserow
+

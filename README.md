@@ -1655,6 +1655,8 @@ Table of Contents
 
 ## Scenes
 #### Terrain
+- https://github.com/louis-e/arnis Generate any location from the real world in Minecraft with a high level of detail.
+- https://github.com/vibe-stack/super-terrain A browser-first, partitioned mesh-terrain editor inspired by Unreal Engine 5.8's Mesh Terrain architecture.
 - http://www.world-machine.com/
 - https://www.world-creator.com/
 - [Gaia](https://assetstore.unity.com/packages/tools/terrain/gaia-pro-terrain-scene-generator-155852) UnityPlugin
@@ -3325,6 +3327,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - https://github.com/seep/JoltPhysicsUnity
 - https://github.com/godot-jolt/godot-jolt
 - [BetterPhysics](https://github.com/SadnessMonday/BetterPhysics) Physics improvement suite for Unity
+- [box3d-unity](https://github.com/Suvitruf/box3d-unity) Box3d Physics bindings for Unity
 - https://github.com/irlanrobson/bounce
 - https://github.com/Scrawk/CyclonePhysicsEngine
 - https://github.com/LemonMontage420/TORSION-Community-Edition
@@ -4932,10 +4935,12 @@ Showing off the power of shader properties in Unity
 - https://docs.unity3d.com/Packages/com.unity.logging@1.4/manual/index.html
 - https://github.com/Elfinik/burst-trace
 - https://github.com/Tencent/BqLog
+- https://gitee.com/netcasewqs/MiniLog
 - https://github.com/pamburus/hl
  
 #### Collection
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
+* [EasyECS](https://github.com/ZHOURUIH/EasyECS) EasyECS 是一个面向 Unity/C# 的高性能数据容器方案。
 * https://github.com/kuronekoyang/UnsafeArrayBuffer
 * [UnsafeCollections](https://github.com/fholm/UnsafeCollections/)  - Native Collection Types for Unity
 * https://github.com/Molth/NativeCollections/ best for you
@@ -5479,6 +5484,7 @@ Showing off the power of shader properties in Unity
 - [理解 C# 中的各类指针](https://www.cnblogs.com/eventhorizon/p/18873400)
 - [理解 .NET 结构体字段的内存布局](https://www.cnblogs.com/eventhorizon/p/18913041)
 #### Asyn-Await
+- https://github.com/sebas77/Svelto.Tasks
 - https://www.albahari.com/threading
 - https://www.zhihu.com/question/554133167/answer/2690808608
 - https://github.com/timcassell/ProtoPromise
@@ -5651,7 +5657,8 @@ Showing off the power of shader properties in Unity
  
 #### UI-System
 - https://www.pangui.io/
-
+- https://github.com/BlenMiner/NowUI
+- 
 ### HUD
 - https://github.com/alsostone/com.stone.hud
 - https://github.com/506638093/RichText 头顶血条 
