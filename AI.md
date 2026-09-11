@@ -491,6 +491,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 
 ## Research
 - [OpenResearch](https://github.com/alphaXiv/OpenResearch) Run parallel research agents with any model
+- - [SoL-Pi](https://github.com/NVlabs/SoL-Pi) SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) AI Agents That Do Real Researc
 - [CORAL](https://github.com/Human-Agent-Society/CORAL) CORAL 是一个强大而轻量级的基础设施，用于多智能体自主进化，专为自主研究而构建。
 - [researchstudio](https://github.com/microsoft/researchstudio) ResearchStudio 是一套涵盖整个研究生命周期的技能集合——从初步的研究方向到最终发表的论文
@@ -1009,6 +1010,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [Cotal](https://github.com/Cotal-AI/Cotal) The open standard for agent coordination
 - [Confer](https://github.com/hyhmrright/Confer) A protocol and platform for AI Agents to talk with each other on behalf of their owners
 - [hcom](https://github.com/aannoo/hcom) - Hook your AI coding agents together so they can message, watch, and spawn each other across terminals.
+- [ultracontext](https://github.com/ultracontext/ultracontext) Open Source Context infrastructure for AI agents. Auto-capture and share your agents' context everywhere.
   
 ## Agent-Canvas
 - [termcanvas](https://github.com/blueberrycongee/termcanvas) An infinite canvas desktop app for visually managing terminals 
@@ -1050,7 +1052,6 @@ One system to connect your team, AI agents, devices, and compute
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot) AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative
 - [Orkas](https://github.com/Orkas-AI/Orkas)  Orkas 是一个开源、本地优先的 AI 工作团队。一个超强指挥官会协调多个专业智能体，共同完成复杂工作
 - [codexloom](https://github.com/yan5xu/codexloom) A working environment for long-running Codex Agents.
-- [OpenMausBot](https://github.com/milind-soni/OpenMausBot) Your own team of AI bots, in a chat app.
 - [rakazo](https://github.com/elie222/rakazo) rakazo
 - [opc-nexus](https://github.com/h4dex/opc-nexus)  开源的企业版的数字员工工作台
 - [ordinus](https://github.com/muratgur/ordinus) Your local-first command center for working with AI agents like a real team.
@@ -1059,9 +1060,10 @@ One system to connect your team, AI agents, devices, and compute
 - [agentchat-hermes](https://github.com/agentchatme/agentchat-hermes) AgentChat platform plugin for Nous Research's Hermes Agent runtime — peer-to-peer messaging for autonomous agents over WebSocket. Bundles the agent etiquette skill.
 - [openbot](https://github.com/CopilotKit/openbot) Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+- [gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) Open Source Alternative to Grok Bot with a virtual machine that bots can use
 - [botdirectory](https://github.com/elie222/botdirectory.ai) Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.aiTA
-- [Gold-Band](https://github.com/diodeme/Gold-Band/) 本地优先的 AI Agent 桌面客户端直接对话、固定工作流与 AI 动态编排，统一管理本地 Coding Agent
+- [Gold-Band](https://github.com/diodeme/Gold-Band/) 本地优先的 AI Agent 桌面客户端直接对话、固定工作流与 AI 动态编排，统一管理本地 Coding Agentni
 - [Lody](https://github.com/LodyAI/Lody) 为团队正在使用的 Coding Agents 提供一个共享工作空间。
 - [ccteam](https://github.com/firstintent/ccteam) 把你在用的编程 agent 编成一支团队,跨厂商跨机器派活,Telegram/飞书/网页统一指挥。
 - [fastclaw](https://github.com/fastclaw-ai/fastclaw) Multi-Agent Framework
@@ -1075,6 +1077,7 @@ One system to connect your team, AI agents, devices, and compute
 - [wemux](https://wemux.ai/) The AI-Native Organization OS
 - [yao](https://github.com/YaoApp/yao) All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [omnigent](https://github.com/omnigent-ai/omnigent) Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+- [Wake](https://github.com/iAmCorey/Wake) All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.
 
 
 ## IM
@@ -1471,6 +1474,7 @@ Programming Books v0.5
 - https://github.com/datavane/tis
 - https://gitee.com/jamie0828/OpenOntologyRelease
 - https://github.com/fabio-rovai/open-ontologies
+  
 ## LLM-WIKI 
 - [MindForge](https://github.com/Suddennebbus/MindForge) 一款基于Karpathy LLM-Wiki，会思考、探索、规划、生长的知识铸造平台。把分散的论文、报告与经验，铸造成结构化、可连接、可演进、可对话的知识网络，指导你做研究、找创新、搞创作、生灵感。本地部署，数据不出域，隐私安全。
 - [llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler)
@@ -1704,6 +1708,7 @@ Programming Books v0.5
 - https://github.com/davialabs/davia Interactive, editable docs designed for coding agents
 - https://github.com/Unclecheng-li/AI_Animation 本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。
 - https://github.com/Cocoon-AI/architecture-diagram-generator Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
+- [diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [Infographic](https://github.com/antvis/Infographic/blob/main/README.zh-CN.md)
 - https://github.com/ZeroZ-lab/cc-design High-fidelity HTML design and prototype guidance skill for AI agents
 - https://github.com/vthinkxie/illustrated-explainer-spec Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page.
