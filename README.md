@@ -2391,6 +2391,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 #### Security
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 ## Serialization
+- https://github.com/apache/fory
 - https://github.com/Levchenkov/NetCode
 - https://github.com/rikimaru0345/Ceras
 - https://github.com/Cysharp/MemoryPack [ppt](https://speakerdeck.com/neuecc/cedec-2023-modanhaipahuomansuc-number-2023-edition)
@@ -2649,8 +2650,10 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - https://github.com/dotnet/project-system
 - https://github.com/LdotJdot/TDSContent
 - https://github.com/aki-null/epsilon-script
+
 ## Authorization
 - https://github.com/osohq/oso oso is an open source policy engine for authorization that’s embedded in your application 
+- https://github.com/goauthentik/authentik
 - https://github.com/casbin/Casbin.NET
 
 ## NetWork
@@ -3959,6 +3962,7 @@ Showing off the power of shader properties in Unity
 ####  imposters
 - [amplify-impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-119877)
 #### Physically-Based-Render
+- https://github.com/armory3d/armorpaint Graphics Creation Tools
 - https://academysoftwarefoundation.github.io/OpenPBR
 - https://blog.selfshadow.com/publications/
 - https://github.com/neil3d/awesome-pbr
