@@ -13,6 +13,7 @@ https://github.com/Dominic789654/awesome-deepseek-harness
 - [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) AgentTeams plugin for DeepSeek Harness
 ## IM-Bridge
 - [dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) 让 QQ Bot 接入 DeepSeek Harness（dsh）的官方插件
+- https://github.com/xmanrui/dsh-im
 
 ## Author&&provider
 - [dockyard-dsh](https://github.com/AITabby/dockyard-dsh) A macOS-only native account-pool and provider plugin for DeepSeek Harness.
@@ -51,3 +52,8 @@ https://github.com/Dominic789654/awesome-deepseek-harness
 - https://github.com/dream-num/dsh-univer-office/
 - https://github.com/baserow/baserow
 
+## bundle
+- https://github.com/lencx/Minke/blob/main/README.zh-CN.md
+
+## Platform
+- https://github.com/himovo/movo Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
