@@ -1601,7 +1601,8 @@ Programming Books v0.5
 - [nova-image-studio](https://github.com/tianjiangqiji/nova-image-studio) 自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务
 - https://github.com/CookSleep/gpt_image_playground
 - https://github.com/MeowFree/GPT2Image-Pro
-- 
+- https://github.com/LYL1015/JarvisHub
+
 ### Figma
 - [figkit](https://github.com/ProdaZhang/figkit/) 一次 Figma 捕获，六个可运行的输出 - HTML / Unity / Godot / Unreal / Cocos + 语义 UI-DSL，由一个像素级忠实的 IR 编译而成，并声明了交互。
 - https://github.com/awdr74100/figwright
@@ -1763,6 +1764,8 @@ Programming Books v0.5
 - https://github.com/GiMi-Xiaomi/gimi-illustration-skill
 - https://github.com/okooo5km/5km-littlebox-illustrations
 - https://github.com/helloianneo/ian-xiaohei-illustrations
+
+
 ## Drawio
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) AI驱动的图表创建工具 - 对话、绘制、可视化,上传现有图表或图像，让AI自动复制和增强
 - [drawio-skill](https://github.com/Agents365-ai/drawio-skill) Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 36 tools: codebase/CI/infra-to-diagram, image→editable diagram, mind maps, build-up animation, exec-view compression, click-through runbooks, PR diff bot. Vision self-check, 10,000+ shapes. Exports PNG/SVG/PDF/JPG.
@@ -1833,6 +1836,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/yyjeqhc/webcodex
 
 ## WebFetch
+- [browser](https://github.com/lightpanda-io/browser) Lightpanda: the headless browser designed for AI and automation
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill) Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 - [browser-use](https://github.com/browser-use/browser-use) Make websites accessible for AI agents. Automate tasks online with ease.
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 
@@ -1980,6 +1984,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [learnui](https://github.com/joeseesun/learnui)  What’s this UI element called
 - [vibe-designing](https://alibaba-cloud-design.github.io/vibe-designing-playbook/)
 - [toolcraft](https://toolcraft.sh/) Toolcraft is an open-source starter kit and UI library for building custom design apps with AI . 
+
 ## Medical  
 - https://github.com/FreedomIntelligence/Awesome-AI4Med 
 - https://github.com/Biohub/esm 蛋白质生物学的世界模型
@@ -1991,6 +1996,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
   
 ## Media Engine
 - [phantom-motion](https://github.com/pixelxzen/phantom-motion) Phantom Motion 是一个极其硬核的交互式动态视觉叙事生成器。
+- https://github.com/liyupi/ai-desktop-outfit-video
 
 ## digital-human&&Live2d
 - [Duix-Avatar](https://github.com/duixcom/Duix-Avatar)  Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.

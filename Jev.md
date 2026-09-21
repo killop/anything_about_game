@@ -1,5 +1,9 @@
-
+## Collection
+- [jevable](https://jevable.com/)
+- [awesome-jev](https://github.com/hellogumbo/awesome-jev)
+- [awesome-jev-projects](https://logicrw.github.io/awesome-jev-projects/)
   
+
 ## Start here
 
 - [Introduction](https://docs.typesafe.ai/introduction) — What Jev is, how System One models differ from text-generation models, and the Choice, Score, and Noul primitives.
@@ -52,6 +56,10 @@
 
 Community projects are independent unless their repository says otherwise. Read the code, licenses, data-handling notes, and evaluation caveats before using them in a consequential system.
 
+
+### Tutor
+- [flaviocopes](https://flaviocopes.com/jev/) Learn how Jev turns text into typed choices, scores, and probabilities, with JavaScript examples, practical patterns, limits, and real use cases
+
 ### Client libraries and integrations
 
 - [Advocaat](https://github.com/pithings/advocaat) — Small TypeScript client with ergonomic tagged helpers for typed chances, choices, and scores.
@@ -69,6 +77,7 @@ Community projects are independent unless their repository says otherwise. Read 
 
 ### Agent, developer tooling and harness
 
+- [hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills/) Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)
 - [Bicameral](https://github.com/AbdelStark/bicameral) — Pi coding harness where an LLM writes while Jev supplies typed reflexes for policy, loop detection, and review; explicitly not a sandbox.
 - [Every](https://github.com/sufianetaouil/every) — Semantic code search CLI that asks a yes/no question of every function and ranks the resulting probabilities.
 - [Jev MCP](https://github.com/blakestone-x/jev-mcp) — Python MCP server exposing classify, score, check, match, and screen tools to MCP-compatible agents.
@@ -90,6 +99,9 @@ Community projects are independent unless their repository says otherwise. Read 
 ## Code-Review
 - [Jev Review](https://github.com/devagrawal09/jev-review) — Staged code-review workflow and local dashboard that follows structured signals through focused Jev calls.
 - [jev-review](https://github.com/NiazMorshed2007/jev-review) Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.
+
+## How-To-Use-Jev-Skill
+- [building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) This repo holds an agent skill for writing and improving programs that call Jev, TypeSafe's System One model
 ### Browser agents
 
 - [Jev Browser](https://github.com/vlad-terin/jev-browser) — Agent skill and runtime that lets Jev select browser actions inside a continuous observation-action-verification loop.
@@ -112,8 +124,8 @@ Community projects are independent unless their repository says otherwise. Read 
 - [Jev Judge vs Dimension Scores](https://agentjournal.dev/blog/llm-judge-vs-feature-extraction/) — Independent measurement on three classification tasks: one direct Jev question per row against 12–14 Jev-scored dimensions with locally fitted weights, 5,477 test rows and 34.1M input tokens for $1.43; decomposition reached 0.9076 against 0.8373 on Japanese NLI but flagged about 25× more hard benign rows as attacks, and four repair attempts failed, on dimensions the author wrote himself.
 - [Jev Rerank Bench](https://github.com/anessbelbati/jev-rerank-bench) — Reranking comparison with raw provider responses, scoring code, dataset-level results, uncertainty intervals, and documented limitations.
 - [Jev Spam Eval](https://github.com/bitnovus/jev-spam-eval) — Exploratory zero-shot spam study against trained TF-IDF baselines, including results and explicit post-hoc-tuning caveats.
-- [TypeSafe AI Benchmark](https://github.com/iammrduncan/typesafe-ai-benchmark) — Side-by-side Jev and Qwen-on-Cerebras comparison with raw exports, cost accounting, methodology, and task-specific limitations.
 
+ 
 ### Showcases and field notes
 
 - [Browser Use + Jev](https://x.com/gregpr07/status/2100411066966749359) — Gregor Zunic's real-time flight-search demo and short description of the dynamic DOM action space.
@@ -125,9 +137,18 @@ Community projects are independent unless their repository says otherwise. Read 
 
 ### Jev-Like-Decisions-Engine
 
+- [nimble](https://github.com/bespokelabsai/nimble) Local typed decisions, contrastive data curation, and model evaluation.
+- [laya](https://huggingface.co/convaiinnovations/laya) Multilingual, non-autoregressive System 1 decision model
 - [NanoJev](https://github.com/TianyuCodings/NanoJev) A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.
 - [OpenJev](https://github.com/TheoLeeCJ/openjev) — Independent open-model research baseline for direct typed option scoring; it reproduces the interface pattern, not Jev's undisclosed model or training.
 - [openvons](https://github.com/genai-craft/openvons) a decision layer that answers finite choices with probabilities
+- [openjev](https://github.com/razorback16/openjev) [localjev](https://github.com/githubnext/localjev) Jev uses a typed decision API rather than an OpenAI chat API. OpenJev implements the Jev wire protocol and obtains probabilities with a special one-step DiffusionGemma structured read.
+- [kev](https://github.com/jaredpalmer/kev) Jev-inspired decision model. Typed questions in, calibrated probabilities out, one forward pass.
+
+### Benchmark
+- [jev-models](https://benchmarkheaven.com/jev-models) JevBench is Benchmark Heaven's own benchmark for Jev-class decision models: state and a bounded rubric in, a typed answer out.
+- [screensaver-acquisitions](https://screensaver-acquisitions-modular-unexpected.trycloudflare.com/)
+- [TypeSafe AI Benchmark](https://github.com/iammrduncan/typesafe-ai-benchmark) — Side-by-side Jev and Qwen-on-Cerebras comparison with raw exports, cost accounting, methodology, and task-specific limitations.
 
 ### Compute-Use and Mobile-Use
 - [mobile-jev](https://github.com/droidrun/mobile-jev) One goal. A real Android phone. Jev makes the decisions.
