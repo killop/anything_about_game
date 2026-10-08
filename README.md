@@ -2501,6 +2501,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 - [large-scale-combat-system-rts-sieges-329415](https://assetstore.unity.com/packages/templates/systems/large-scale-combat-system-329415)
 - [enemy-masses-massive-crowds](https://assetstore.unity.com/packages/tools/game-toolkits/enemy-masses-massive-crowds-1-click-enemy-ai-rts-formations-cont-351712)
 - [enemy-masses-professional](https://assetstore.unity.com/packages/tools/game-toolkits/enemy-masses-professional-massive-crowds-1-click-enemy-ai-rts-fo-371542)
+- [enemy-masses-standard-massive-crowds](https://assetstore.unity.com/packages/tools/game-toolkits/enemy-masses-standard-massive-crowds-rts-formations-for-gpu-inst-351712)
 #### PCG
 - https://www.bilibili.com/read/cv22614836/ 
 - https://github.com/Nebukam/PCGExtendedToolkit

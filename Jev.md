@@ -1,8 +1,13 @@
 ## Collection
+- [jev.openchamber](https://jev.openchamber.dev/)
 - [jevable](https://jevable.com/)
 - [awesome-jev](https://github.com/hellogumbo/awesome-jev)
 - [awesome-jev-projects](https://logicrw.github.io/awesome-jev-projects/)
+- [awesome-jev](https://github.com/heyjunpenn/awesome-jev) A verified, community-maintained catalog of 530 open-source projects built with Jev.
   
+
+ ## Tutor
+ - [flaviocopes](https://flaviocopes.com/jev/)  A deep dive into Jev, TypeSafe's System One model
 
 ## Start here
 
@@ -95,6 +100,8 @@ Community projects are independent unless their repository says otherwise. Read 
 - [safer-with-jev](https://github.com/andrelandgraf/safer-with-jev) Neon Function proxy for the Neon AI Gateway with TypeSafe Jev routing.
 - [CC](https://github.com/GhalebDweikat/CC) A calibrated context sieve for Claude Code: every tool result is judged by a System One model before it enters context.
 - [blink](https://github.com/ellipsis-dev/blink) Codebase search powered by Jev from
+- [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+- [stanley-code](https://github.com/devagrawal09/stanley-code) Bounded TypeSafe Jev workflows for coding agents.
 
 ## Code-Review
 - [Jev Review](https://github.com/devagrawal09/jev-review) — Staged code-review workflow and local dashboard that follows structured signals through focused Jev calls.
@@ -102,6 +109,7 @@ Community projects are independent unless their repository says otherwise. Read 
 
 ## How-To-Use-Jev-Skill
 - [building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) This repo holds an agent skill for writing and improving programs that call Jev, TypeSafe's System One model
+- [jev-skill](https://github.com/wuyoscar/jev-skill/) Jev 负责选择、分类和评分，Agent 负责提供证据和执行。 这里有 57 个项目与资料入口、5 个技能、108 个场景，以及 14 组已记录的输入输出。
 ### Browser agents
 
 - [Jev Browser](https://github.com/vlad-terin/jev-browser) — Agent skill and runtime that lets Jev select browser actions inside a continuous observation-action-verification loop.
@@ -159,3 +167,7 @@ Cua provides open-source desktop automation, isolated cloud desktops, local macO
 
 ## Video
 - [jevmeter](https://github.com/ChetasLua/jevmeter) Put a live Jev (TypeSafe) meter on any video: every sentence scored, rendered as a 16:9 edit
+
+## Orchestrator
+- https://github.com/Chuf-H/jev-tree
+- https://github.com/composio-community/jev-orchestrator/
