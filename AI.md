@@ -180,6 +180,9 @@ The full voice I/O stack, running locally on your machine.
 - https://portkey.ai/mcp-servers
 - https://www.blockmcp.ai/
 
+### Web Search
+- [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) 远程 MCP 服务，提供网页搜索和内容提取，可用于查找游戏引擎文档、图形技术资料；连接地址：`https://search.parallel.ai/mcp`。轻量使用免费，无需账号或 API Key，匿名搜索使用 Fast 模式。
+
 ### Framework
 - https://github.com/PederHP/mcpdotnet
 - https://github.com/modelcontextprotocol/csharp-sdk
