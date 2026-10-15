@@ -274,6 +274,7 @@ The full voice I/O stack, running locally on your machine.
 ### Code Analyser
 
 - https://github.com/davidkingzyb/SCAST
+- [Sem](https://github.com/Ataraxy-Labs/sem) 本地代码结构分析工具，通过 CLI 和 MCP 提供实体搜索、调用关系、影响分析和结构化差异；可用于辅助 AI 阅读和检查游戏项目源码，不替代游戏引擎运行时测试。
 
 ### Computer
 - https://github.com/ashwwwin/automation-mcp
