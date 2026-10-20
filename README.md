@@ -1207,6 +1207,7 @@ Table of Contents
 - [GrafX2](http://pulkomandy.tk/projects/GrafX2)
 - [GraphicsGale](https://graphicsgale.com/us/)
 #### Normal-Map
+- [Sprite Fusion Sprite Normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - Free and open-source tool that generates normal maps from pixel art sprites and animations.
 - [NormalMap AI](https://normalmap.ai/) - Free browser-based normal map and PBR texture generator with local WebGL processing and real-time 3D preview.
 - [cpetry](https://cpetry.github.io/NormalMap-Online/)
 - [crazybump](http://crazybump.com/mac/)  
