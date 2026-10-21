@@ -5248,6 +5248,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/crazyshader/GameDev
 - https://www.zhihu.com/search?q=renderdoc%20unity&range=3m&type=content
 #### AssetBundle
+- [UnityPy](https://github.com/K0lb3/UnityPy)
 - [UnityDataTools](https://github.com/Unity-Technologies/UnityDataTools)
 - https://github.com/XD-MHLOO/Osintgraph
 - [Locus-Bundle-System](https://github.com/locus84/Locus-Bundle-System) Simple Unity Addressables Alternative That Supports Synchronized API 
@@ -6497,6 +6498,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://github.com/memstechtips/Winhance
 - https://github.com/pranshuparmar/witr
 ## Interest is the best teacher 
+- https://github.com/eternity4719/HowToLiveBetter
 - https://github.com/alaskasquirrel/Chinese-Podcasts
 - https://youquhome.com/ 
 - https://github.com/geekan/HowToLiveLonger

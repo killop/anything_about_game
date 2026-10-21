@@ -200,6 +200,7 @@ The full voice I/O stack, running locally on your machine.
 - [GameDesignOS](https://github.com/DY-2026/GameDesignOS) Local-first OS for AI-assisted game design: turn AI-agent sessions into decisions, evidence, experiments, proposals, and durable project memory.
 
 ## Game-Design
+-  [ohmygame](https://github.com/WhiteTowerAI/ohmygame) Your own one-person game studio. Everything you need to make games with AI, in one app. Bring your own key
 - https://the-infinite-build.openai.chatgpt.site/ 如何将小说改成游戏
 - https://github.com/worldwonderer/novel-to-game 将任何小说蒸馏为可玩的游戏
 - [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) Turn a single Claude Code session into a full game development studio.
@@ -256,12 +257,15 @@ The full voice I/O stack, running locally on your machine.
 - https://shaders.com/
 - https://github.com/KULEEEE/Claude-Code-For-Unity-Shader
 - [Web-Shader-Extractor-Shader-Skill](https://www.notion.so/Web-Shader-Extractor-Shader-Skill-330a885827c3817c8195d5bf558a3e49) 一个 AI Agent Skill，从网页中提取 WebGL / Canvas / Shader 视觉特效代码，反混淆后移植为独立可运行的原生 JS 项目。
- 
+- https://github.com/shader-effects-inc/shaders
+- https://www.gss-lang.dev
+  
 ## ai spine 动画：
 - https://zhuanlan.zhihu.com/p/1986639531613632439
 - https://github.com/CognotEngine/amberpipeline
 - https://x.com/CognotEngine
 - https://github.com/tsunehimatoi/psd2live
+- https://github.com/shinshin86/mesh-avatar-studio
 
 ### NetWork
 
@@ -409,6 +413,7 @@ The full voice I/O stack, running locally on your machine.
 - [catchup](https://github.com/wilbeibi/catchup) Local-first CLI for coding-agent context handoff. Transfer and resume sessions across Claude Code, Codex, Cursor, Cline, Kimi, Antigravity, OpenCode, and Pi Agent.
 - [jiaojie-skill](https://github.com/Jordanwei1/jiaojie-skill) 交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.
 - https://github.com/akitaonrails/ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- [Orbital](https://github.com/zqiren/Orbital) Context is yours. Agents are replaceable.
  
 ## Memory
 - [amfs](https://github.com/raia-live/amfs) AMFS — Agent Memory File System
@@ -663,7 +668,9 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - https://github.com/agentsmd/agents.md
 - [agentic-stack](https://github.com/codejunkie99/agentic-stack) A system tray app for macOS and Windows that tracks Claude Code, Codex, and OpenCode token usage, cost, and activity in real time — with a built-in leaderboard, chat, and webhook alerts.
 
-## Skill
+## Skill 
+- [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) An agent skill. Ask a hard question, get a page you can actually read instead of a wall of text.
+The model writes about 1/8 of the tokens it would need to hand-write the HTML.
 - https://github.com/HKUDS/OpenSpace OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving
 - [SkillClaw](https://github.com/AMAP-ML/SkillClaw) Let Skills Evolve Collectively with Agentic Evolver
 - [SkillX](https://github.com/zjunlp/SkillX) SkillX: Automatically Constructing Skill Knowledge Bases for Agents
@@ -874,6 +881,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [agent-infra-foundation](https://github.com/agent-infra-foundation)
 - https://github.com/weijt606/ai-agent-map
 - [autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill) 你需要给出明确的目标、约束条件和成功标准
+- [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness/) 只需向 Claude Code、Codex、OpenCode 或 DeepSeek Harness 给出一次目标，即可让它跨桌面 App 与终端持续工作数十个小时。
 
 ## Context
 - [magic-context](https://github.com/cortexkit/magic-context) Unbounded context. Memory that manages itself. One session, for life
@@ -1110,6 +1118,7 @@ One system to connect your team, AI agents, devices, and compute
 - [openbot](https://github.com/CopilotKit/openbot) Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 - [zapfast](https://github.com/crmne/zapfast)
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+- [DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot)
 - [gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) Open Source Alternative to Grok Bot with a virtual machine that bots can use
 - [botdirectory](https://github.com/elie222/botdirectory.ai) Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.aiTA
@@ -1136,7 +1145,11 @@ One system to connect your team, AI agents, devices, and compute
 - [Memoh](https://github.com/felinics/Memoh) Memoh 是一个开源的多智能体平台。每个 Agent 都有一台自己的云端电脑 — 独立的 Workspace，配有文件系统、桌面、浏览器、网络和长期记忆。你的 Agent 全天候在线，即使关上笔记本也不会停。[analysis](https://czyt.tech/post/memoh-source-code-analysis/)
 - [ai-employees](https://github.com/markfulton/ai-employees) Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Code and 10 other harnesses. They drive your browser the way you do and improve every run. You own the files.
 - [rovai-ai](https://github.com/murray17/rovai-ai) 组建一支会一起成长的 Agent 队伍。
-
+- [Captain_Who](https://github.com/Tiga001/Captain_Who) Captain Who brings conversations, local files, terminals, and a browser into one workspace
+- [douchat](https://github.com/thinkany-ai/douchat) Bring your models and agents together in one workspace.
+- [ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
+- [yobiru](https://github.com/chekusu/yobiru) Let your agents talk: messages, data, files and wake-ups over Tailscale.
+- [touri](https://github.com/touri-ai/touri) touri: open-source desktop app for AI agent bots (Codex, Claude, OpenCode) with isolated VMs, browser and computer use.
 
 ## IM
 - https://github.com/HuLaSpark/HuLa 一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS
@@ -1416,6 +1429,7 @@ Programming Books v0.5
  
 ### Codebase
 - [birdview](https://github.com/Qiuner/birdview/) 用 Birdview 来改变开发的流程！真正地从关注代码到关注架构！解决 AI coding 的黑盒！
+- [aoci-code](https://github.com/aoci-spec/aoci-code) A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP server + CLI in Go: a governed repository index of code knowledge that gives Claude Code, Codex, Cursor, and opencode long-term context, memory, and code intelligence
 - [gortex](https://github.com/zzet/gortex) High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local.
 - [ContextOS](https://github.com/yubinbin32-ops/ContextOS) An MCP server that cuts 90%+ token waste for Codex & Claude Code. Stop context window explosions via surgical AST editing and persistent codebase architecture
 - https://github.com/microsoft/skills/blob/main/.github/plugins/deep-wiki/
@@ -1619,6 +1633,7 @@ Programming Books v0.5
 
 ## AI-3d
 - https://github.com/alchaincyf/3d-vibe-coding-handbook
+- https://x.com/Saccc_c/status/2110694725640474759
 - [awesome-astra-blender-characters](https://github.com/icesixgod/awesome-astra-blender-characters)
 - [blender-mcp](https://github.com/ahujasid/blender-mcp)
 - [blender-mcp](https://github.com/bpy-dev/blender-mcp)
@@ -1630,6 +1645,8 @@ Programming Books v0.5
 - https://github.com/RareSense/Nova3D
 - https://github.com/Ariescar/anyCreature
 - https://github.com/viettranx/3dviz-pro-max
+- https://xishuxishu.github.io/uniforge3d-project/
+- https://x.com/Saccc_c/status/2110694725640474759
 
 ## Canvas
 - https://github.com/Justin-sky/ai-art-engine
@@ -1819,10 +1836,12 @@ Programming Books v0.5
 - [corsair](https://github.com/corsairdev/corsair) Connect your users to their app
 - 
 ## AutoTest
+- https://github.com/vxcontrol/pentagi
 - https://github.com/google/artemis/
 - https://github.com/hashfunction/MarkuprPlus
 - https://midscenejs.com/
 - https://github.com/TurixAI/TuriX-CUA
+- https://github.com/trycua/cua
 - https://si.inc/posts/fdm1/
 - https://github.com/OminousIndustries/PhoneDriver
 - https://github.com/X-PLUG/MobileAgent
@@ -1877,6 +1896,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/icebear0828/codex-proxy
 - https://github.com/miuuyy/codex-chatgpt-web
 - https://github.com/yyjeqhc/webcodex
+- https://github.com/Pluviobyte/dot2api
 
 ## WebFetch
 - [browser](https://github.com/lightpanda-io/browser) Lightpanda: the headless browser designed for AI and automation
@@ -1984,6 +2004,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 
 ## Design
 - [EditHere](https://github.com/Inginnng/EditHere)
+- [getartcraft.com](https://getartcraft.com/) adobe
 - [Editable-Design](https://github.com/yejy53/Editable-Design) Agent-driven creation of editable, tastefully crafted visual artifacts.
 - [jakubkrehel-skill](https://github.com/jakubkrehel/skills) A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface.
 - [threeui](https://github.com/MengTo/threeui) Open-source ThreeUI Community catalog with live interactive components and complete Community source.
@@ -2016,6 +2037,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) An out-of-box UI solution for enterprise applications as a React boilerplate.
 - [qiaomu-artist-style](https://github.com/joeseesun/qiaomu-artist-style) 用同一句提示词，看 383 位画家风格的差异。
 - [qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design) 一句话生成大师级海报、书籍封面、专辑封面和各类设计作品
+- [smy-seedance-storyboard](https://github.com/liangdabiao/smy-seedance-storyboard)
 - [learnui.qiaomu.ai.sites](https://learnui.qiaomu.ai/sites/)
 - https://github.com/ConardLi/garden-skills
 - [garden-skills](https://github.com/ConardLi/garden-skills) ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
@@ -2106,6 +2128,8 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [OpenShell](https://github.com/NVIDIA/OpenShell) OpenShell is the safe, private runtime for autonomous AI agents
 - [NoKV](https://github.com/NoKV-Lab/NoKV) NoKV keeps declared inputs, code, outputs, logs, and lineage alive when an agent sandbox disappears. It publishes immutable S3-compatible artifact bytes through a path-native, transactional metadata control plane; it does not pretend to restore process memory, a model session, or a VM.
 - [Memoh](https://github.com/felinics/Memoh) Memoh 是一个开源的多智能体平台。每个 Agent 都有一台自己的云端电脑 — 独立的 Workspace，配有文件系统、桌面、浏览器、网络和长期记忆。你的 Agent 全天候在线，即使关上笔记本也不会停
+- [lcu](https://github.com/amontlabs/lcu) Codex computer use, decoupled from the app, for usage inside any harness.
+- [space](https://github.com/perplexityai/space) Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.
 ## Writing
 - [SoftwareCopyright](https://github.com/Fokkyp/SoftwareCopyright-Skill) 这是一个用于生成中文软件著作权申请资料的 Codex Skill 开源仓库。
 - [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复
@@ -2159,6 +2183,7 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 - https://github.com/sutaoyu/awesome-ai-security-agents
 
 ## Reverse
+- https://github.com/Zfinix/eleven
 - https://github.com/NationalSecurityAgency/ghidra
 - https://github.com/FuDie0915/Super-Instruct-Codex-5.6
 - https://github.com/Jia-Ethan/codex-keysmith
