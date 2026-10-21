@@ -182,6 +182,7 @@ The full voice I/O stack, running locally on your machine.
 
 ### Web Search
 - [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) 远程 MCP 服务，提供网页搜索和内容提取，可用于查找游戏引擎文档、图形技术资料；连接地址：`https://search.parallel.ai/mcp`。轻量使用免费，无需账号或 API Key，匿名搜索使用 Fast 模式。
+- [Keenable MCP](https://docs.keenable.ai/mcp-server) 远程 MCP 服务，提供 `search_web_pages` 网页搜索和 `fetch_page_content` 内容提取，搜索支持 `site` 参数限定站点，如只搜 Unity、Unreal 引擎文档；连接地址：`https://api.keenable.ai/mcp`。无需账号或 API Key 即可使用。
 
 ### Framework
 - https://github.com/PederHP/mcpdotnet
