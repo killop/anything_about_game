@@ -5374,6 +5374,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Inspiaaa/UnityHFSM
 - https://github.com/Enzx/NxGraph NxGraph is a zero-allocation runtime, high-performance finite state machine (FSM) framework for .NET 8+, designed for scenarios where execution speed, memory efficiency, and runtime safety are critical.
 - https://github.com/Yuan-ManX/ai-game-development-tools
+- https://respawnstack.com
 - https://github.com/baponkar/zombie-ai
 #### LLM-GAME-AI
 - https://github.com/KsanaDock/Microverse
