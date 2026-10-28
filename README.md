@@ -2567,6 +2567,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 #### C#
 - https://github.com/svermeulen/trecs A high-performance Entity Component System framework for Unity, designed for deterministic simulation, recording/playback, and Burst/Jobs integration.
 - [EasyCS](https://github.com/Watcher3056/EasyCS) EasyCS 是一个易于使用且灵活的 Unity 框架，采用数据驱动的实体与角色-组件方法。它将 Unity 的经典面向对象与强大的数据导向模式相结合，而无需强制进行完整的 ECS 范式转变或思维转变。更聪明地构建，而不是更费力
+- https://ecs.xgamedev.net/
 - [Frent](https://github.com/itsBuggingMe/Frent) A high performance component oriented take on ECS.
 - [massive-ecs](https://github.com/nilpunch/massive-ecs) Prediction-rollback netcode has very stable nature, and is mainly used in fast paced online multiplayer games, such as Overwatch and Rocket League.
 - [DragonECS](https://github.com/DCFApixels/DragonECS) C# Entity Component System framework

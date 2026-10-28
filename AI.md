@@ -1499,6 +1499,7 @@ Programming Books v0.5
 - [Serena](https://github.com/oraios/serena) A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent
   
 ## Doc
+- https://github.com/refactoringhq/tolaria
 - https://github.com/Michael-OvO/obsidian-knowledge-agent
 - https://github.com/oleeskild/obsidian-digital-garden
 - https://github.com/benmaster82/Kwipu/ A local Graph RAG system that turns your markdown notes into a queryable knowledge graph. Ask questions in natural language and get answers that connect information across multiple files.
@@ -1647,7 +1648,9 @@ Programming Books v0.5
 - https://github.com/viettranx/3dviz-pro-max
 - https://xishuxishu.github.io/uniforge3d-project/
 - https://x.com/Saccc_c/status/2110694725640474759
-
+- https://github.com/hi3d-official/Hi3Dv1.0
+  
+  
 ## Canvas
 - https://github.com/Justin-sky/ai-art-engine
 - https://github.com/ddcat-ai/open-ai-canvas
@@ -1995,6 +1998,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 ## Filesystem 
 - https://github.com/ZeroZ-lab/vkfs Unix-like filesystem commands over vector databases, built for AI agents
 - https://github.com/Ephemeral-AI-Lab/layerfs LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. 
+- https://github.com/Mossab28/avp
 
 ## Virtual Machine
 - [rvm](https://github.com/ruvnet/rvm) RVM — The Virtual Machine Built for the Agentic Age, in Rust.
@@ -2058,6 +2062,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 ## Medical  
 - https://github.com/FreedomIntelligence/Awesome-AI4Med 
 - https://github.com/Biohub/esm 蛋白质生物学的世界模型
+- https://github.com/Garinmckayl/anima
 
 ## RLM
 - https://github.com/alexzhang13/rlm General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
@@ -2184,6 +2189,7 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 
 ## Reverse
 - https://github.com/Zfinix/eleven
+- https://github.com/ZiChuanLan/pi-purge
 - https://github.com/NationalSecurityAgency/ghidra
 - https://github.com/FuDie0915/Super-Instruct-Codex-5.6
 - https://github.com/Jia-Ethan/codex-keysmith

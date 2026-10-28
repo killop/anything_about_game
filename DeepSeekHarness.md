@@ -1,7 +1,7 @@
 ## Awesome-list
 - https://www.dsh.so/
 - https://github.com/XiaomingX/awesome-deepseek-harness
-https://github.com/Dominic789654/awesome-deepseek-harness
+- https://github.com/Dominic789654/awesome-deepseek-harness
 - https://findharness.com/
 
 
@@ -23,6 +23,8 @@ https://github.com/Dominic789654/awesome-deepseek-harness
 - [dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) 在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations
 - [agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片
 - [dsh-vision-router](https://github.com/ysr666/dsh-vision-router)  Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.
+- https://github.com/liguobao/ds-harness-remote/
+  
 ## Desktop
 - [laobos-agent-studio](https://github.com/Modole/laobos-agent-studio)  劳博士：基于 DeepSeek Harness 的本地 Agent 桌面客户端（仅限非商业用途）
 - [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案
