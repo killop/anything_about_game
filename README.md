@@ -978,6 +978,7 @@ Table of Contents
 - https://github.com/man572142/Bro_Audio
 - https://github.com/CyberAgentGameEntertainment/AudioConductor
 - https://github.com/Yunasawa/YNL-Audio
+- [Online Tone Generator](https://theaudiostuff.com/tools/signal-generator/) Free browser tone, noise and sweep generator (sine, square, triangle, saw; white, pink, brown noise) with WAV export, no signup. 免费在线音频信号发生器，可导出 WAV。
 #### Music-Tool/Editor
 - https://www.image-line.com/
 - https://www.goldwave.com
