@@ -1639,6 +1639,7 @@ Programming Books v0.5
 - [blender-mcp](https://github.com/ahujasid/blender-mcp)
 - [blender-mcp](https://github.com/bpy-dev/blender-mcp)
 - [design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo
+- [3D-Agent](https://3d-agent.com/blender-ai) Paid desktop AI agent for Blender: quad-topology modeling, materials, lighting, animation and rendering from prompts, AI retopology of generated meshes, a Roblox Studio connector, and a local MCP server for Claude Code, Cursor and Codex.
 - [gpt6](https://gpt6.youware.app/) Playable worlds. Thoughtful prototypes. Discover what people are building, explore how it works, and start your next creation.
 - [gpt-6-astra-3d-character-workflow](https://www.tripo3d.ai/zh/blog/gpt-6-astra-3d-character-workflow)
 - https://github.com/achimala/dream-loop
