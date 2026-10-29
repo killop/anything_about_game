@@ -964,6 +964,7 @@ Table of Contents
 - [miles](http://www.radgametools.com/miles.htm)
 - [criware](http://www.criware.cn/)
 - [artlist](https://artlist.io/)
+- [Soundza](https://soundza.com/) Free sound effects, music loops and ambience (WAV/MP3), free for commercial use with no attribution needed. REST API and MCP server for search and download, or generate new sound effects from a prompt.
 - [SFXMint](https://sfxmint.com/) CC0 game and UI sound effects (AI-generated or procedurally synthesized), WAV/MP3 downloads without signup, no-key API and MCP. CC0 游戏/UI 音效库，免注册下载
 - [DailySounds](https://dailysounds.org/?ref=aboutgame) Free sound effects for games (UI clicks, footsteps, doors, impacts, ambience, horror), MP3/WAV/OGG downloads without signup, commercial use allowed, credit optional. 免费游戏音效库，免注册下载 MP3/WAV/OGG，可商用，署名可选
 - [native-audio](https://assetstore.unity.com/packages/tools/audio/native-audio-107067) unity-plugin
