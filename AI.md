@@ -417,6 +417,7 @@ The full voice I/O stack, running locally on your machine.
  
 ## Memory
 - [amfs](https://github.com/raia-live/amfs) AMFS — Agent Memory File System
+- https://github.com/pamin-labs/PaminMemory
 - https://github.com/alibaizhanov/mengram Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
 - [agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) The cross-harness self-improving memory layer for AI agents.
 - [T-Mem](https://github.com/Sherlockwz/T-Mem)
@@ -727,6 +728,7 @@ The model writes about 1/8 of the tokens it would need to hand-write the HTML.
 
 ## Coding-Agent
 - [unreal-agent](https://github.com/unreallabsai/unreal-agent) Async-first agent harness
+- [mixdog](https://github.com/tribgames/mixdog) Open-source desktop coding agent where a lead model plans and cheaper models handle search, edits and review.
 - [JIT](https://github.com/bingreeky/JIT) Scaling Harness Intelligence via Just-in-Time Harness Evolution
 - [labs-OO-Agents](https://github.com/nvidia-nemo/labs-OO-Agents) NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents.
 - [trueforge](https://github.com/truefoundry/trueforge/) The open-source agent harness - the runtime layer that turns an LLM into a working agent.
@@ -1048,6 +1050,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - An RTS-style workspace for managing AI coding agents.
 - [EnsoAI](https://github.com/j3n5en/EnsoAI) Unleash parallel intelligence within a single project.
+- [thinkrail](https://github.com/JetBrains/thinkrail) ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow.
 
 ## Agent2Agent
 - [acpx](https://github.com/openclaw/acpx) Headless CLI client for stateful Agent Client Protocol (ACP) sessions
@@ -1063,6 +1066,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [hcom](https://github.com/aannoo/hcom) - Hook your AI coding agents together so they can message, watch, and spawn each other across terminals.
 - [ultracontext](https://github.com/ultracontext/ultracontext) Open Source Context infrastructure for AI agents. Auto-capture and share your agents' context everywhere.
 - [EnvoyMesh](https://github.com/allenpeng0705/EnvoyMesh) EnvoyMesh — Secure P2P Agentic Mesh
+- [multi-agent-repo-protocol](https://github.com/Soda-null/multi-agent-repo-protocol/)
   
 ## Agent-Canvas
 - [termcanvas](https://github.com/blueberrycongee/termcanvas) An infinite canvas desktop app for visually managing terminals 
@@ -1085,6 +1089,7 @@ Each step is explicit, each output is structured, and every run is repeatable.
 - [GVS5H](https://github.com/slee-persis/GVS5H) GVS5H: Five Qwen3.8-27B Models Match Claude Fable 5 on LiveCodeBench Hard | Fable 5 Level Coding for a Fifth the Price - or on a Single GPU
 - https://www.cnblogs.com/Qiniu-developer/p/22543566
 - [Agent-Bridge](https://github.com/FeiZhuLulu/Agent-Bridge) Agent Bridge is a connector that links various local agents, enabling users to coordinate multiple other agents simply by interacting with a single powerful agent. It currently supports Codex as the coordinator to direct Antigravity CLI, Grok Build, and DeepSeek Harness. Support for additional agents will be rolled out soon.
+- [muha](https://github.com/Gao-Gossssip/muha) TypeScript SDK，将已有编码 Agent 接入脚本和应用。 你选择 Harness 与模型，用代码串联任务；Muha 统一执行控制，保留原生能力
 
 
 ## IM-Agent-Swarm&&Control-Plane
@@ -1100,6 +1105,7 @@ Each step is explicit, each output is structured, and every run is repeatable.
 One system to connect your team, AI agents, devices, and compute
 - [desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui/) CC GUI 客户端（专为开发者打造的VibeCoding平台）
 - [zano](https://github.com/EryouHao/zano) Zano lets you spin up persistent AI agents that live in chat channels alongside your team. Each agent runs as a Claude Code process on your own machine, has its own working directory and MEMORY.md, and communicates over chat, DMs, threads, and a built-in task board 
+话话UI 图集这些小图 的ab的分法 你需要转变为程序化的脚本的，这个分法支持吗？ 分完了大约多少？
 - [openagents](https://github.com/openagents-org/openagents) One workspace where all your AI agents collaborate. Open source. No account required.
 - [agent-teams-ai](https://github.com/777genius/agent-teams-ai) You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
 - [Maestro](https://github.com/RunMaestro/Maestro) Agent Orchestration Command Center
@@ -1122,6 +1128,7 @@ One system to connect your team, AI agents, devices, and compute
 - [gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) Open Source Alternative to Grok Bot with a virtual machine that bots can use
 - [botdirectory](https://github.com/elie222/botdirectory.ai) Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.aiTA
+- [grok-bot-analysis](https://github.com/oceanz0312/grok-bot-analysis)
 - [Gold-Band](https://github.com/diodeme/Gold-Band/) 本地优先的 AI Agent 桌面客户端直接对话、固定工作流与 AI 动态编排，统一管理本地 Coding Agentni
 - [Lody](https://github.com/LodyAI/Lody) 为团队正在使用的 Coding Agents 提供一个共享工作空间。
 - [ccteam](https://github.com/firstintent/ccteam) 把你在用的编程 agent 编成一支团队,跨厂商跨机器派活,Telegram/飞书/网页统一指挥。
@@ -1150,6 +1157,7 @@ One system to connect your team, AI agents, devices, and compute
 - [ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
 - [yobiru](https://github.com/chekusu/yobiru) Let your agents talk: messages, data, files and wake-ups over Tailscale.
 - [touri](https://github.com/touri-ai/touri) touri: open-source desktop app for AI agent bots (Codex, Claude, OpenCode) with isolated VMs, browser and computer use.
+- [openbot](https://github.com/nightly-labs/openbot) A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 
 ## IM
 - https://github.com/HuLaSpark/HuLa 一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS
@@ -1376,7 +1384,7 @@ Programming Books v0.5
 ## OCR
 - https://github.com/datalab-to/chandra OCR model that handles complex tables, forms, handwriting with full layout.
 - [DeekSeek-OCR](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API) A powerful OCR solution that converts PDF documents to Markdown format using DeepSeek-OCR with FastAPI backend. This project provides both a batch processing script and a REST API for flexible document conversion.
-
+- https://huggingface.co/baidu/Unlimited-OCR-2
 ## Extract-Data
 - [receipt-ocr](https://github.com/bhimrazy/receipt-ocr) An efficient OCR engine for receipt image processing.
 - [mineru](https://github.com/opendatalab/mineru)  Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
@@ -1402,7 +1410,8 @@ Programming Books v0.5
 ## Paper
 - https://github.com/YuhangChen1/Paper2All
 - https://github.com/dr-dumpling/paper-search-cli
-- [Agentero](https://github.com/poco-ai/Agentero) Code base of 'PAPER2WEB: LET’S MAKE YOUR PAPER ALIVE!' integrating the other work package throughout the entire "paper2present" process
+- [Agentero](https://github.com/poco-ai/Agentero) Code base of 'PAPER2WEB: LET’S MAKE YOUR PAPER ALIVE!' integrating the other work package throughout the entire "paper2present" process'
+- [Oleafly](https://github.com/Oleafly/Oleafly) Oleafly 是一款功能强大的编辑器，用于以 LaTeX、Typst 和 Markdown 撰写研究论文和学位论文。一个项目的源文件、PDF、引文、图形、检查和 Git 历史都集中在一处。与合作者实时写作，让项目在多台电脑之间保持同步，并把 Claude Code、Codex 或你喜欢的任何模型带进项目。
 
 ## Knowledge-Learn
 - https://rushiwowen.co/chat 佛教
@@ -1651,7 +1660,7 @@ Programming Books v0.5
 - https://x.com/Saccc_c/status/2110694725640474759
 - https://github.com/hi3d-official/Hi3Dv1.0
   
-  
+
 ## Canvas
 - https://github.com/Justin-sky/ai-art-engine
 - https://github.com/ddcat-ai/open-ai-canvas
