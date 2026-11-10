@@ -1896,9 +1896,11 @@ Table of Contents
 * [O-Z-Unity-Protector](https://github.com/MonarchSolutions/O-Z-Unity-Protector)
 * [GameShield](https://github.com/DevsDaddy/GameShield) GameShield - An open-source solution to protect your Unity-based games. Anti-cheat, time-control, data ecnryption and memory protection and other security modules for your games.
 * [RemoteNET](https://github.com/theXappy/RemoteNET) Examine, create and interact with remote objects in other .NET processes.
+
  #### Unity-AssetBundle
 * [AssetsTools](https://github.com/nesrak1/AssetsTools.NET) 
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
+* [ShaderRipper](https://github.com/StArraySharp/ShaderRipper) 从 Unity 游戏数据中提取 Shader，重建为可读的 ShaderLab + HLSLPROGRAM。纯 C#，运行资源全部内嵌，下载即用。
 * [AssetRipper](https://github.com/AssetRipper/AssetRipper) GUI Application to work with engine assets, asset bundles, and serialized files
 * [UAAE](https://github.com/Igor55x/UAAE) Unity .assets and AssetBundle editor
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
@@ -6516,6 +6518,7 @@ This tool not only lists ShaderCompiles, but also automatically creates ShaderVa
 - https://www.animatedknots.com 如何系绳子-关键时候救你一命
 - http://www.iqsuperman.net/ IQ 超人
 - https://www.allhistory.com 全历史
+- https://deanchen.me/jiangshan-map
 - https://new.shuge.org/ 博物馆
 - https://www.die.net/earth/ 白天和黑夜实时预览
 - https://humanbenchmark.com/ 脑力benckmark

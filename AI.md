@@ -83,7 +83,8 @@ The full voice I/O stack, running locally on your machine.
 - [HandCastAbilityThreeJS](https://github.com/achrefelouafi/HandCastAbilityThreeJS) A skillshot VFX sandbox built with Three.js, Vite and hand-written GLSL
 - [mesh-create](https://gameanimation.info/mesh-create/#)
 - [threejs-particle-fluids](https://dgreenheck.github.io/threejs-particle-fluids)
-
+- [pixelfx](https://github.com/patch-gg/pixelfx) 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+- [effekseer-vfx-skill](https://github.com/kanaworksai-hue/effekseer-vfx-skill)
 ## Blender
 - [mixar-app](https://github.com/Mixar-AI/mixar-app) Mixar is an AI-powered 3D content creation tool built as a custom fork of Blender 5.0. 
 
@@ -419,8 +420,10 @@ The full voice I/O stack, running locally on your machine.
 - [Orbital](https://github.com/zqiren/Orbital) Context is yours. Agents are replaceable.
  
 ## Memory
+- https://github.com/oceanbase/powercontext
 - [amfs](https://github.com/raia-live/amfs) AMFS — Agent Memory File System
 - https://github.com/pamin-labs/PaminMemory
+- [obelisk](https://github.com/tommy0103/obelisk/) 你的 Claude Code、Codex、GitHub Copilot、DeepSeek Harness、Hermes Agent、Kiro、Kimi Code、OMP、OpenCode、Pi、ZCode 历史会话——agent 快速查询，你浏览它们
 - https://github.com/alibaizhanov/mengram Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
 - [agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) The cross-harness self-improving memory layer for AI agents.
 - [T-Mem](https://github.com/Sherlockwz/T-Mem)
@@ -808,6 +811,7 @@ The model writes about 1/8 of the tokens it would need to hand-write the HTML.
 - https://x.com/xiaomovps/status/2092887927672205740
 - https://github.com/kikyous/pi-remote/
 - https://github.com/vastsa/PI-Desktop/
+- https://github.com/HazAT/ultimate
 
 
 ## Hermes-Agent
@@ -836,8 +840,10 @@ The model writes about 1/8 of the tokens it would need to hand-write the HTML.
 - https://github.com/adoin/git-Agent
 - https://github.com/pacifio/atlas
   
-## Evolving
+## RSI
+- [awesome-rsi](https://github.com/lobehub/awesome-rsi)
 - [exo](https://github.com/exoharness/exo) Exo 是一种代理+控制架构，具有完全递归的特性，能够在运行时安全地编辑自身的各个方面，从而更好地完成你的任务。
+- [FlashRSI](https://github.com/RUC-NLPIR/FlashRSI) A Unified Framework for Efficient RSI Research
 - [LLM4AD_Next](https://github.com/Optima-CityU/LLM4AD_Next) From problem description to runnable evolutionary algorithm search — in one command.
 - [yoyo-evolve](https://github.com/yologdev/yoyo-evolve)
 - [GEA](https://github.com/UCSB-AI/GEA) Group Evolving Agents: Open-Ended Self-Improvement via Experience Sharing
@@ -1095,7 +1101,8 @@ Each step is explicit, each output is structured, and every run is repeatable.
 - [muha](https://github.com/Gao-Gossssip/muha) TypeScript SDK，将已有编码 Agent 接入脚本和应用。 你选择 Harness 与模型，用代码串联任务；Muha 统一执行控制，保留原生能力
 
 
-## IM-Agent-Swarm&&Control-Plane
+## IM-Agent-Swarm&&Control-Plane&&Bot
+- [my-tierroom](https://my-tierroom.party/)
 - [buzz](https://github.com/block/buzz) Buzz is a self-hostable workspace where humans and AI agents share the same rooms.
 - [qm](https://github.com/yc-software/qm) Multiplayer agent harness for work
 - [covan](https://github.com/covan-ai/covan) A shared AI agent for your team. Everyone trains it together; everyone talks to it privately. Self-hostable, AGPL-3.0.
@@ -1161,7 +1168,11 @@ One system to connect your team, AI agents, devices, and compute
 - [yobiru](https://github.com/chekusu/yobiru) Let your agents talk: messages, data, files and wake-ups over Tailscale.
 - [touri](https://github.com/touri-ai/touri) touri: open-source desktop app for AI agent bots (Codex, Claude, OpenCode) with isolated VMs, browser and computer use.
 - [openbot](https://github.com/nightly-labs/openbot) A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-
+- [Lexora](https://github.com/useLexora/Lexora)
+- [deepseek-bot](https://github.com/rlaope/deepseek-bot)
+- [noop](https://github.com/huacnlee/noop) Your own AI team, so your day can be a no-op.
+- [PiBot](https://github.com/FireSpoonYZ/PiBot) Self-hosted multi-device AI assistant powered by Pi, with Windows, Linux and Android clients.
+- [hob](https://github.com/FFatTiger/hob)
 ## IM
 - https://github.com/HuLaSpark/HuLa 一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS
 - [linyu-client](https://github.com/linyu-im/linyu-client) 林语（Linyu）致力于打造简单可部署、可自托管的开源即时通讯方案
@@ -1579,6 +1590,7 @@ Programming Books v0.5
 - [semantica](https://github.com/semantica-agi/semantica) Graph-Native Infrastructure for Context and Accountable AI Systems
 - [utopia](https://github.com/deeplethe/utopia) World's first open-source enterprise world model.
 - [EvoOntology](https://github.com/ruc-datalab/EvoOntology) 面向 Data Agent 的自进化 Ontology Layer
+- https://github.com/fabio-rovai/open-ontologies
   
 ## LLM-WIKI 
 - [MindForge](https://github.com/Suddennebbus/MindForge) 一款基于Karpathy LLM-Wiki，会思考、探索、规划、生长的知识铸造平台。把分散的论文、报告与经验，铸造成结构化、可连接、可演进、可对话的知识网络，指导你做研究、找创新、搞创作、生灵感。本地部署，数据不出域，隐私安全。
@@ -1662,12 +1674,17 @@ Programming Books v0.5
 - https://xishuxishu.github.io/uniforge3d-project/
 - https://x.com/Saccc_c/status/2110694725640474759
 - https://github.com/hi3d-official/Hi3Dv1.0
+- https://github.com/CXP-2024/cxp-character-forge
+- https://github.com/hyz317/HairDeck
+- https://x.com/0xKense1/status/2118717647357395170
+- https://github.com/gokayfem/image-to-sculpt
   
 
 ## Canvas
 - https://github.com/Justin-sky/ai-art-engine
 - https://github.com/ddcat-ai/open-ai-canvas
 - https://github.com/basketikun/infinite-canvas
+- https://github.com/zaylora/video-canvas
 - https://github.com/tigerowo/infinite-canvas
 - [AI-Canvas](https://github.com/binghe1980/AI-Canvas) AI Canvas 是一个 Codex 插件 marketplace。它让 Codex 可以打开本地无限画布，生成图片，读取你在画布上的箭头、文字、圈选标注，并把修改后的新版本自动放到旧图右侧。
 - [cowart](https://github.com/zhongerxin/cowart) Cowart 是一个面向 Codex 的本地无限画布插件。
@@ -1884,6 +1901,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://lobehub.com/
 - https://github.com/mattermost/mattermost  
 - [BaiLongma](https://github.com/xiaoyuanda666-ship-it/BaiLongma) Bailongma 是一个持续运行的桌面 AI Agent 项目。它不是一次问答结束就退出的聊天程序，而是由主循环驱动：有用户消息时优先处理，空闲时按节奏继续整理记忆、检查任务、刷新上下文，并把状态实时推送到 Brain UI。
+
 ## API-Transit
 - https://github.com/physics-dimension/PriceAI AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 - https://proxycc.cc/ 中转站导航
@@ -1900,7 +1918,8 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://codexapis.com/ 上游的中转站
 - https://api.khaix.net/    
 - https://usemagpie.ai/
-
+- https://realapipricing.com/
+- 
 ## API-Transit-CodeFramework
 - https://github.com/router-for-me/CLIProxyAPI/
 - https://github.com/jlcodes99/cockpit-tools
@@ -2020,7 +2039,9 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - https://github.com/steipete/summarize
 
 ## Design
+- [astryx](https://github.com/meta/astryx) An open source design system that's fully customizable and agent ready
 - [EditHere](https://github.com/Inginnng/EditHere)
+- [openclaudeui](https://openclaudeui.com/)
 - [getartcraft.com](https://getartcraft.com/) adobe
 - [Editable-Design](https://github.com/yejy53/Editable-Design) Agent-driven creation of editable, tastefully crafted visual artifacts.
 - [jakubkrehel-skill](https://github.com/jakubkrehel/skills) A collection of agent skills that cover UI, typography, colors, accessibility, layout, product writing and help you build a great interface.
@@ -2148,6 +2169,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [Memoh](https://github.com/felinics/Memoh) Memoh 是一个开源的多智能体平台。每个 Agent 都有一台自己的云端电脑 — 独立的 Workspace，配有文件系统、桌面、浏览器、网络和长期记忆。你的 Agent 全天候在线，即使关上笔记本也不会停
 - [lcu](https://github.com/amontlabs/lcu) Codex computer use, decoupled from the app, for usage inside any harness.
 - [space](https://github.com/perplexityai/space) Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.
+- 
 ## Writing
 - [SoftwareCopyright](https://github.com/Fokkyp/SoftwareCopyright-Skill) 这是一个用于生成中文软件著作权申请资料的 Codex Skill 开源仓库。
 - [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复
@@ -2201,6 +2223,7 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 - https://github.com/sutaoyu/awesome-ai-security-agents
 
 ## Reverse
+- https://github.com/morluto/awesome-reverse-engineering
 - https://github.com/Zfinix/eleven
 - https://github.com/ZiChuanLan/pi-purge
 - https://github.com/NationalSecurityAgency/ghidra
@@ -2217,7 +2240,9 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 - https://github.com/elder-plinius/G0DM0D3
 - https://github.com/duty1g/x64dbg-mcp-server
 - https://github.com/MG1937/ASC
-- https://github.com/rehan-remade/universal-modder
+- https://github.com/rehan-remade/universal-modde
+- [agent-purge](https://github.com/ZiChuanLan/agent-purge)
+- https://github.com/Minglink/dsh-jailbreak-workflow
 
 ## GENesis-AGI
 - [GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) Personal AGI that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being tol
