@@ -1,93 +1,144 @@
-- https://github.com/LLMQuant/quant-wiki
-- https://github.com/sngyai/Sequoia-X
-- https://github.com/shy3130/tick-stock-panel
-- https://github.com/vnpy/vnpy - 基于Python的开源量化交易平台开发框架
-- https://github.com/brokermr810/QuantDinger AI-driven, local-first quantitative trading platform for research, backtesting and live execution. Python-native, privacy-first, open source.
-- https://github.com/OpenBB-finance/OpenBBTerminal - OpenBB
-- https://github.com/UFund-Me/Qbot
-- https://github.com/shiyu-coder/Kronos
-- https://github.com/QuantConnect/Lean
-- https://github.com/ArvinLovegood/go-stock
-- https://github.com/dennisyang1986/opensqt_market_maker
-- https://github.com/ZhuLinsen/daily_stock_analysis
-- https://github.com/HKUSTDial/DeepEar
-- [tradecat](https://github.com/tukuaiai/tradecat) 交易猫；tradecat；全市场量化交易数据平台
-- [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment
-- https://github.com/AI4Finance-Foundation/FinRobot
-- https://github.com/nautechsystems/nautilus_trader
-- https://github.com/dennisyang1986/opensqt_market_maker
-- https://github.com/virattt/ai-hedge-fund An AI Hedge Fund Team
-- [hummingbot](https://github.com/hummingbot/hummingbot) Open source software that helps you create and deploy high-frequency crypto trading bots
-- https://github.com/The-R4V3N/Nexus
-- https://github.com/star23/Day1Global-Skills 科技股财报深度分析 Skill
-- https://github.com/Nunchi-trade/agent-cli Autonomous Trading Agent for Hyperliquid
-- https://github.com/RKiding/Awesome-finance-skills A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
-- https://github.com/himself65/finance-skills A collection of agent skills for financial analysis and trading
-- https://github.com/chrisworsey55/atlas-gic ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch
-- https://github.com/Noah-Wu66/Vectaix-AI Open-Source AI Workspace — Multi-Model, Multi-Expert, One Platform.
-- https://github.com/ericosiu/ai-marketing-skills Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation
-- https://github.com/HKUDS/Vibe-Trading "Vibe-Trading: Your Personal Trading Agent"
-- [Longbridge CLI](https://open.longbridge.com/docs/cli/)
-- https://github.com/wbh604/UZI-Skill 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股
-- https://github.com/wbh604/fund-guy-skill
-- https://github.com/wbh604/UZI-Skill
-- [vibe-investing](https://github.com/gameworkerkim/vibe-investing) 它涵盖了人工智能投资精选（Vibe Investing）、市场分析专栏和两种人工智能交易工具（Harness Quant v2 + Earnings Momentum Agent），并涉及美国纳斯达克、标准普尔 500 指数和加密货币投资。
-- https://github.com/rmbell09-lang/tradesight
-- https://github.com/run-bigpig/jcp 韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析
-- https://www.gurufocus.com/
-- https://github.com/hugo2046/QuantsPlaybook
-- https://github.com/simonlin1212/a-stock-data
-- https://github.com/PlaceNL2026/best-of-algorithmic-trading A ranked list of open-source algorithmic trading projects—bots, frameworks, APIs, indicators, books, courses, and communities—kept up to date on a regular schedule.
-- https://github.com/ScottZt/jin-ce-zhi-suan 基于唐朝的三省六部制度建立的量化系统，分权协同、风控闭环、强化回测与执行
-- https://github.com/AlphaGBM/skills Real-data options intelligence for AI agents — 29 Skills for Claude Code, Cursor & beyond
-- https://github.com/xbtlin/ai-berkshire AI 
-- https://github.com/MobiusQuant/Gendangzou-skil
-- https://github.com/shy3130/tick-stock-panel
-- https://github.com/rufeng0411/Nova-TradingAgent
-- https://github.com/OpenByteInc/QuantDinger
-- https://github.com/gxcuit/DiviWish
+## 目录
 
+- [资讯与学习资源](#资讯与学习资源)
+  - [Wiki 与知识库](#wiki-与知识库)
+  - [Awesome Lists](#awesome-lists)
+  - [金工研报](#金工研报)
+  - [Blog 与研究站点](#blog-与研究站点)
+- [量化交易平台与框架](#量化交易平台与框架)
+  - [综合平台](#综合平台)
+  - [加密货币交易](#加密货币交易)
+  - [做市与高频](#做市与高频)
+- [行情数据与分析](#行情数据与分析)
+  - [看盘与工作台](#看盘与工作台)
+  - [Data](#data)
+  - [选股与分析](#选股与分析)
+  - [时序基础模型](#时序基础模型)
+- [金融 Agent Skills](#金融-agent-skills)
+- [AI-Trader](#ai-trader)
+  - [交易与投研 Agent](#交易与投研-agent)
+  - [多智能体框架](#多智能体框架)
+  - [Alpha Arena 与 nof1](#alpha-arena-与-nof1)
+- [PolyMarket 预测市场](#polymarket-预测市场)
 
-## PolyMarket 
-- https://github.com/WrBug/PolyHermes
-- https://github.com/cyl19970726/poly-sdk/
-- https://poly123.xyz/
-- https://www.coldvision.xyz/
-- https://polyvotecat.vercel.app/
-- https://github.com/HKUDS/FutureShow
-- https://www.polycopytrade.net/
-- https://github.com/Open-Trader/opentrader self-hosted cryptocurrency trading bot,
-- https://github.com/alsk1992/CloddsBot
-- https://github.com/ShiyuCheng2018/polily
+## 资讯与学习资源
+
+### Wiki 与知识库
+- [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki)：致力于量化知识的开源与汉化，打破国内外量化金融行业信息差
+
+### Awesome Lists
+- [PlaceNL2026/best-of-algorithmic-trading](https://github.com/PlaceNL2026/best-of-algorithmic-trading)：A ranked list of open-source algorithmic trading projects—bots, frameworks, APIs, indicators, books, courses, and communities—kept up to date on a regular schedule.
+
+### 金工研报
+- [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook)：量化研究-券商金工研报复现
+
+### Blog 与研究站点
+- [GuruFocus](https://www.gurufocus.com/)：网页链接（未能获取简介）
+- [策引 - 系统化投资分析平台](https://www.myinvestpilot.com/)：策引是一个系统化投资分析平台，提供策略回测、组合跟踪、市场监控、公开实验与 AI 复盘等能力
+
+## 量化交易平台与框架
+
+### 综合平台
+- [vnpy/vnpy](https://github.com/vnpy/vnpy)：基于Python的开源量化交易平台开发框架
+- [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger)：AI-driven, local-first quantitative trading platform for research, backtesting and live execution. Python-native, privacy-first, open source.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)：OpenBB。面向分析师、量化与 AI Agent 的开放数据平台
+- [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)：AI 自动量化交易机器人（完全本地部署）
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean)：QuantConnect 推出的 Lean 算法交易引擎（Python、C#）
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)：FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)：生产级 Rust 原生交易引擎，采用确定性事件驱动架构
+- [ScottZt/jin-ce-zhi-suan](https://github.com/ScottZt/jin-ce-zhi-suan)：基于唐朝的三省六部制度建立的量化系统，分权协同、风控闭环、强化回测与执行
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger)：开源自托管的智能体交易操作系统，覆盖 AI 研究、策略、因子发现、回测与模拟/实盘执行、风控与监控
+- [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger/)：开源自托管的智能体交易操作系统，覆盖 AI 研究、策略、因子发现、回测与模拟/实盘执行、风控与监控
+
+### 加密货币交易
+- [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader)：self-hosted cryptocurrency trading bot,
+- [OctoBot](https://www.octobot.cloud/features)：OctoBot Cloud 功能页（页面需登录，未能获取公开简介）
+- [Freqtrade 中文文档](https://freqtrade-zh.zdoc.app/)：Freqtrade 是一个用 Python 编写的免费开源加密货币交易机器人，支持所有主要交易所，并可通过 Telegram 或内置的 Web 界面进行控制
+
+### 做市与高频
+- [dennisyang1986/opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)：高性能、低延迟的加密货币做市商系统，专注于永续合约
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)：Open source software that helps you create and deploy high-frequency crypto trading bots
+
+## 行情数据与分析
+
+### 看盘与工作台
+- [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel)：自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台
+- [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock)：AI 赋能的股票分析/选股工具，支持 A 股、港股、美股，数据全部保留在本地
+- [tukuaiai/tradecat](https://github.com/tukuaiai/tradecat)：交易猫；tradecat；全市场量化交易数据平台
+- [Longbridge CLI](https://open.longbridge.com/docs/cli/)：长桥 AI 原生命令行工具，覆盖 Longbridge OpenAPI 全部接口（130+ 命令），可获取实时行情等
+- [rmbell09-lang/tradesight](https://github.com/rmbell09-lang/tradesight)：自托管的 Python 策略研究与 Alpaca 模拟交易工具，含对账与证据门控，实盘执行默认关闭
+
+### Data
+- [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)：A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告等
+- [dennisyang1986/getk](https://github.com/dennisyang1986/getk)：基于长桥证券接口（LongPort OpenAPI）的抓取工具，可按配置批量抓取指定股票在指定日期的数据
+
+### 选股与分析
+- [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X)：A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送
+- [HKUSTDial/DeepEar](https://github.com/HKUSTDial/DeepEar)：DeepEar ｜ 顺风耳，一个用于深度研究与金融信号追踪的开源框架
+- [gxcuit/DiviWish](https://github.com/gxcuit/DiviWish)：息望，每一笔股息都是未来的希望
+
+### 时序基础模型
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)：面向金融市场语言的基础模型
+
+## 金融 Agent Skills
+- [star23/Day1Global-Skills](https://github.com/star23/Day1Global-Skills)：科技股财报深度分析 Skill
+- [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills)：A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills
+- [himself65/finance-skills](https://github.com/himself65/finance-skills)：A collection of agent skills for financial analysis and trading
+- [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills)：Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation
+- [wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill)：冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股
+- [wbh604/fund-guy-skill](https://github.com/wbh604/fund-guy-skill)：糟糕，我被基佬包围了！那么这个时候就有人要问了，主播主播，有没有什么简单好用的基佬筛选办法？有的兄弟，有的，快来看看jilaoskill吧！
+- [AlphaGBM/skills](https://github.com/AlphaGBM/skills)：Real-data options intelligence for AI agents — 29 Skills for Claude Code, Cursor & beyond
+- [MobiusQuant/Gendangzou-skil](https://github.com/MobiusQuant/Gendangzou-skil)：GitHub 仓库（未能获取简介）
+
 ## AI-Trader
-- https://github.com/NoFxAiOS/nofx
-- https://github.com/kukapay/awesome-alpha-arena
-- https://github.com/terryso/nof1-tracker
-- https://github.com/SnowingFox/open-nof1.ai
-- https://github.com/195440/nof1.ai
-- https://github.com/Ninot1Quyi/Open-Nof1
-- https://github.com/chadyi/AITradeGame
-- [nof1.ai Alpha Arena 提示词工程逆向分析](https://gist.github.com/wquguru/7d268099b8c04b7e5b6ad6fae922ae83)
-- https://github.com/wquguru/nof0
-- https://github.com/weiuou/nof1-analysis
-- https://github.com/HKUDS/AI-Trader
-- https://github.com/ValueCell-ai/valuecell
-- https://github.com/charliedream1/ai_quant_trade
-- https://github.com/TauricResearch/TradingAgents
-- https://github.com/hsliuping/TradingAgents-CN/ 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-- https://github.com/moondevonyt/moon-dev-ai-agents
-- https://github.com/24mlight/A_Share_investment_Agent
-- https://www.octobot.cloud/features
-- https://github.com/virattt/dexter
-- https://github.com/Gajesh2007/ai-trading-agent
-- https://github.com/kukapay/alpha-arena-mcp
-- https://github.com/Y-Research-SBU/QuantAgent/
-- https://github.com/oficcejo/aiagents-stock
-- https://github.com/brokermr810/QuantDinger/
-- https://freqtrade-zh.zdoc.app/
 
-## Data
-- https://github.com/dennisyang1986/getk
+### 交易与投研 Agent
+- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)：面向金融应用的开源 AI Agent 平台，基于大语言模型
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)：An AI Hedge Fund Team
+- [The-R4V3N/Nexus](https://github.com/The-R4V3N/Nexus)：自我进化的市场分析 AI，会在每次会话中改写规则与系统提示
+- [Nunchi-trade/agent-cli](https://github.com/Nunchi-trade/agent-cli)：Autonomous Trading Agent for Hyperliquid
+- [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic)：ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch
+- [Noah-Wu66/Vectaix-AI](https://github.com/Noah-Wu66/Vectaix-AI)：Open-Source AI Workspace — Multi-Model, Multi-Expert, One Platform.
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)："Vibe-Trading: Your Personal Trading Agent"
+- [gameworkerkim/vibe-investing](https://github.com/gameworkerkim/vibe-investing)：它涵盖了人工智能投资精选（Vibe Investing）、市场分析专栏和两种人工智能交易工具（Harness Quant v2 + Earnings Momentum Agent），并涉及美国纳斯达克、标准普尔 500 指数和加密货币投资。
+- [run-bigpig/jcp](https://github.com/run-bigpig/jcp)：韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析
+- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)：AI。AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)：面向美股、商品、外汇和加密货币的 AI 交易终端助手
+- [charliedream1/ai_quant_trade](https://github.com/charliedream1/ai_quant_trade)：股票AI操盘手：一站式学习、模拟、实盘平台
+- [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents)：GitHub 仓库（未能获取简介）
+- [virattt/dexter](https://github.com/virattt/dexter)：用于深度金融研究的自主 Agent
+- [Gajesh2007/ai-trading-agent](https://github.com/Gajesh2007/ai-trading-agent)：运行在 Hyperliquid 上的 AI 交易 Agent
 
-## Blog
-- https://www.myinvestpilot.com/
+### 多智能体框架
+- [rufeng0411/Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent)：自托管的 A 股多智能体研究台：15 Agent 辩论、可选 Level-2 盘口、K 线工作台与信号转译
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)：AI-Trader：完全自动化的 Agent 原生交易
+- [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell)：社区驱动的金融多智能体平台
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)：TradingAgents：基于多智能体 LLM 的金融交易框架
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN/)：基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+- [24mlight/A_Share_investment_Agent](https://github.com/24mlight/A_Share_investment_Agent)：GitHub 仓库（作者未填写简介）
+- [Y-Research-SBU/QuantAgent](https://github.com/Y-Research-SBU/QuantAgent/)：QuantHarness 官方仓库
+- [oficcejo/aiagents-stock](https://github.com/oficcejo/aiagents-stock)：复合多AI智能体股票团队分析盯盘系统，模拟证券分析师团队，适合大陆A股
+
+### Alpha Arena 与 nof1
+- [kukapay/awesome-alpha-arena](https://github.com/kukapay/awesome-alpha-arena)：精选的 Alpha Arena（nof1.ai）相关开源项目、框架、实验与文章合集
+- [terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)：用于跟踪 nof1.ai AI Agent 交易信号并自动执行币安期货交易的命令行工具
+- [SnowingFox/open-nof1.ai](https://github.com/SnowingFox/open-nof1.ai)：开源的实盘 AI 交易平台
+- [195440/nof1.ai](https://github.com/195440/nof1.ai)：Open nof1.ai，自主 AI 交易系统
+- [Ninot1Quyi/Open-Nof1](https://github.com/Ninot1Quyi/Open-Nof1)：开源且自由的加密货币交易、测试和竞争
+- [chadyi/AITradeGame](https://github.com/chadyi/AITradeGame)：GitHub 仓库（作者未填写简介）
+- [nof1.ai Alpha Arena 提示词工程逆向分析](https://gist.github.com/wquguru/7d268099b8c04b7e5b6ad6fae922ae83)：GitHub Gist：nof1-prompt.md
+- [wquguru/nof0](https://github.com/wquguru/nof0)：开源 AI 交易竞技场，完整复现 NOF1 Alpha Arena，用于运行和比较 LLM Agent
+- [weiuou/nof1-analysis](https://github.com/weiuou/nof1-analysis)：对于nof1.ai的一些分析
+- [kukapay/alpha-arena-mcp](https://github.com/kukapay/alpha-arena-mcp)：为 AI Agent 提供 Hyperliquid 账户数据、永续合约市场上下文和交易工具的 MCP 服务器
+
+## PolyMarket 预测市场
+- [WrBug/PolyHermes](https://github.com/WrBug/PolyHermes)：功能强大的 Polymarket 预测市场跟单交易系统，支持自动化跟单、多账户管理、实时订单推送和统计
+- [cyl19970726/poly-sdk](https://github.com/cyl19970726/poly-sdk/)：GitHub 仓库（作者未填写简介）
+- [Poly123 - Polymarket 工具 & 分析](https://poly123.xyz/)：最佳预测市场工具列表。完整交易机器人、分析网站、鲸鱼追踪、API、仪表板、警报和DeFi应用目录，适用于交易者
+- [coldvision pro](https://www.coldvision.xyz/)：面向预测市场的终端工具
+- [polyvotecat.vercel.app](https://polyvotecat.vercel.app/)：网页链接（未能获取简介）
+- [HKUDS/FutureShow](https://github.com/HKUDS/FutureShow)：FutureShow：AI 能否预测未来？面向真实世界的实时预测
+- [Polymarket Copy Trade - Poly Syncer](https://www.polycopytrade.net/)：Polymarket 自动跟单工具，可镜像盈利钱包并查看实时排行榜
+- [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)：开源 AI 交易 Agent，可在 Polymarket、Kalshi、Binance、Hyperliquid 等 1000+ 市场自主扫描、下单与风控
+- [ShiyuCheng2018/polily](https://github.com/ShiyuCheng2018/polily)：可用的 Polymarket 监控 Agent
