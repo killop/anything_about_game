@@ -937,6 +937,7 @@ Table of Contents
 - [Classic-Sponza](https://github.com/Unity-Technologies/Classic-Sponza) Unity remaster of the classic Sponza scene.
 - [objaverse.allenai](https://objaverse.allenai.org/) Objaverse is a Massive Dataset with 800K+ Annotated 3D Objects
 - [animation-library](https://github.com/readyplayerme/animation-library)
+- [Gridwright Studio](https://gridwright.store/) - Pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, with free samples and free tool editions; full library by subscription.
 
 ## Game-Design-Tool
 #### Collection

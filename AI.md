@@ -212,6 +212,7 @@ The full voice I/O stack, running locally on your machine.
 - [ParanoiaSkills](https://github.com/DY-2026/ParanoiaSkills) 把游戏设计工作流做成可安装、可验证、可迁移的 Agent Skill 包
 ## 2D-Game
 - https://github.com/0x0funky/agent-sprite-forge Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts
+- [Pixelbolt](https://github.com/skulitom/Pixelbolt) Pixel art for AI agents: MCP server, CLI and agent skill that turn editable JSON recipes into sprites, sprite sheets, tiles, effects and short animations (PNG, atlas, APNG, GIF). Local, no API key, MIT.
 - https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator
 - https://github.com/Hugo-Dz/spritefusion-pixel-snapper
 - [FrameRonin](https://github.com/systemchester/FrameRonin) 视频转序列帧 · 抠图 
