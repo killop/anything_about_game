@@ -938,6 +938,7 @@ Table of Contents
 - [objaverse.allenai](https://objaverse.allenai.org/) Objaverse is a Massive Dataset with 800K+ Annotated 3D Objects
 - [animation-library](https://github.com/readyplayerme/animation-library)
 - [Gridwright Studio](https://gridwright.store/) - Pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, with free samples and free tool editions; full library by subscription.
+- [CSAF Core Systems Asset Factory](https://csaf.itch.io/) itch.io catalogue of game assets: tilesets, sprite packs, sound effects, music, UI kits, PSX low poly 3D characters and engine plugins, with free samplers (made with AI assisted tools, disclosed on every page)
 
 ## Game-Design-Tool
 #### Collection
