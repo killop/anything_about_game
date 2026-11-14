@@ -200,7 +200,7 @@
 - [papers](https://sophon.at/papers)：Trending research and the full catalog - each paper linked to the benchmarks, methods, and models it introduces.
 - [repo_posts](https://tom-doerr.github.io/repo_posts/)：从开源前沿发现的优质仓库合集
 - [何夕2077个人站](https://hex2077.dev/)：何夕2077每天精选值得关注的AI资讯，每周解读重要趋势，分享实用工具与实践。
-- [aihot](https://aihot.virxact.com/)：AIHOT 由数字生命卡兹克出品，每天从全网挑出真正值得看的 AI 动态：AI 写中文摘要、打分筛掉水文，每天发布…
+- [aihot](https://aihot.news/)：AIHOT 由数字生命卡兹克出品，每天从全网挑出真正值得看的 AI 动态：AI 写中文摘要、打分筛掉水文，每天发布…
 - [bestblogs](https://www.bestblogs.dev/)：付费
 - [rss-folo](https://app.folo.is/)：订阅工具
 - [papers](https://huggingface.co/papers)：AK 每日精选的 AI 研究论文
