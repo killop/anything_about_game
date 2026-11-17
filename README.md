@@ -1204,6 +1204,7 @@ Table of Contents
 - [pixelover](https://deakcor.itch.io/pixelover)
 - [spritemate](http://www.spritemate.com/)
 - [pixelatorapp](http://pixelatorapp.com/) Pixelator is a smart software to convert images into pixel art sprites and cover arts. With Pixelator you can use any source picture to easily generate Pixelated graphics for games or posters.
+- [PixelArtHive Pixel Art Upscaler](https://pixelarthive.com/pixel-art-upscaler) - Free browser tool for scaling pixel-art sprites at whole-number sizes without blur; images are processed locally.
 - [PiskelApp](https://www.piskelapp.com/) Piskel is a free online editor for animated sprites & pixel art
 - [ProMotion](https://www.cosmigo.com/) pro motion is a pixel drawing and animation software designed similar to the famous Amiga Deluxe Paint (DPaint). Ideal for artists working on detailed and pixel precise graphics as required for mobile games and portable game consoles. It also suites well to create light weight graphics for web games.
 - [pixenapp](https://pixenapp.com/) Pixen is a professional pixel art editor designed for working with low-resolution raster art, such as those 8-bit sprites found in old-school video games. Pixen packs all the tools pixel artists need in an intuitive, native interface including support for high zoom levels, animation editing, color palettes, and a lot more.
