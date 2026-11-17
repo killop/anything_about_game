@@ -727,6 +727,7 @@ The full voice I/O stack, running locally on your machine.
 - [API Relay Audit — page moved](https://toby-bridges.github.io/api-relay-audit/)：AI API 中转站安全审计
 - [Claude 中转站检测 - 掺假降智真假甄别 - CCTest](https://cctest.ai/zh)：大模型检测
 - [禾维 AI | 2026 AI 中转站推荐、排名与测评 + API 真假检测](https://hvoy.ai/)：挑选靠谱的中转站
+- [Folkbench | AI API 中转站排行榜与检测](https://folkbench.com/)：中转站延迟、稳定性和价格，以及在线检测（排序含合作档位和运营加权，部分数据为展示样本）
 - [DeRouter — AI Subscription Marketplace](https://derouter.network/)：区块链中转
 - [AI Benchmarks, Degradation Tracker & Smart Router](https://aistupidlevel.info/)：大模型质量
 - [Codex雷达站 codexradar.com](https://codexradar.com/)：大模型质量
