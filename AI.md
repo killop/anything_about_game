@@ -1275,6 +1275,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [imrj05/orbit](https://github.com/imrj05/orbit)：pi 编程 Agent 的原生桌面工作台：Rust + GPUI 聊天式界面，通过 stdio 对接 pi CLI
 - [disler/durable-pi](https://github.com/disler/durable-pi)：Durable Pi 试验场与 Agent 网络：持久、跨设备的 Agent，提供 Web 与终端客户端
 - [mavam/pi-agents](https://github.com/mavam/pi-agents)：为 Pi 提供持久、具名的 Agent：委派任务、组成图并观察它们工作
+- [nicobailon/pi-better](https://github.com/nicobailon/pi-better) /better rewrites your prompt with Felix Rieseberg's "Depth" prompt, using your real code and files, and puts it in your input box
 
 ### Git-Agent
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)：A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.
@@ -2149,7 +2150,7 @@ One system to connect your team, AI agents, devices, and compute
 - [nuphos/nuphos](https://github.com/nuphos/nuphos)：面向团队的开源 Grok Bot 替代：用已有 Claude Code 或 Codex 订阅运行常驻 Bot，全员可加入对话
 - [theopenbee/openbee](https://github.com/theopenbee/openbee)：把已有的 Claude Code、Codex 或 pi 变成一组常驻工作的 Agent 团队
 - [MixGeekers/dscord](https://github.com/MixGeekers/dscord)：可自托管的聊天协作空间（实验性）：在群里与 Bot 讨论、交办整理资料和写文档，Bot 可跨机器并互相委派
-
+- [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.
 ### WorkRoom
 - [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D)：Hermes3D：基于 Hermes Agent 的开源 3D 引擎，用于游戏、仿真与高性能 3D 应用
 - [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail)：AI 编程 Agent 的本地可观测性：实时地图展示每个 Agent 在做什么
