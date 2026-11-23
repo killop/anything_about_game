@@ -2152,6 +2152,7 @@ One system to connect your team, AI agents, devices, and compute
 - [theopenbee/openbee](https://github.com/theopenbee/openbee)：把已有的 Claude Code、Codex 或 pi 变成一组常驻工作的 Agent 团队
 - [MixGeekers/dscord](https://github.com/MixGeekers/dscord)：可自托管的聊天协作空间（实验性）：在群里与 Bot 讨论、交办整理资料和写文档，Bot 可跨机器并互相委派
 - [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.
+- [5dive-ai/5dive](https://github.com/5dive-ai/5dive)：开源 Grok Bot 替代：在自己的服务器上把 Claude Code、Codex、Grok 组成按角色常驻的 AI 团队，共享任务看板、互相审查，用手机管理
 ### WorkRoom
 - [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D)：Hermes3D：基于 Hermes Agent 的开源 3D 引擎，用于游戏、仿真与高性能 3D 应用
 - [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail)：AI 编程 Agent 的本地可观测性：实时地图展示每个 Agent 在做什么
