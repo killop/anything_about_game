@@ -2211,6 +2211,7 @@ One system to connect your team, AI agents, devices, and compute
 - [DueGin/orca-ensemble](https://github.com/DueGin/orca-ensemble)：Orca 的智能体团队插件：由协调器与成员在共享任务板或委派模式下协作，带实时数据流面板、团队编辑器和运行报告
 - [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents)：免费开源、本地优先的 Agent 工作台与任务系统：可接入多种 Runtime 和订阅，带定时任务、飞书/钉钉/Telegram 通道，并能用 AgentNet 把多台电脑组成私有任务网络
 - [gmpetrov/brigade](https://github.com/gmpetrov/brigade)：开源、可自托管的 Grok Bot 替代：用已有的 Claude Code 或 Codex 订阅运行一组有职责的 AI 同事，可写代码、做客服和营销，需你拍板的决策会汇总到手机上
+- [5dive-ai/5dive](https://github.com/5dive-ai/5dive)：开源 Grok Bot 替代：在自己的服务器上把 Claude Code、Codex、Grok 组成按角色常驻的 AI 团队，共享任务看板、互相审查，用手机管理
 ### WorkRoom
 - [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D)：Hermes3D：基于 Hermes Agent 的开源 3D 引擎，用于游戏、仿真与高性能 3D 应用
 - [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail)：AI 编程 Agent 的本地可观测性：实时地图展示每个 Agent 在做什么

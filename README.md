@@ -1135,6 +1135,7 @@ Table of Contents
 - [sphere_generator](https://github.com/matheusamazonas/sphere_generator)
 - [ComfyUI-mesh-simplifier](https://github.com/roundyyy/ComfyUI-mesh-simplifier?) A custom node for ComfyUI that implements mesh simplification (decimation) with texture preservation using PyMeshLab
 - [LODOptimizer](https://github.com/roundyyy/LODOptimizer) LOD Optimizer is a Unity Editor tool designed to optimize the Last Level of Detail (LOD) by creating texture atlases, significantly reducing draw calls for distant objects 
+- [Polygon Reducer](https://mint.gg/polygon-reducer) Free in-browser mesh simplifier (decimation) for GLB/OBJ/STL models, no signup, files stay local.
 #### Mipmap
 - [texel-inspector](https://assetstore.unity.com/packages/tools/utilities/texel-inspector-176174)  The Texel Inspector unity plugin
 #### List-of-game-middleware
