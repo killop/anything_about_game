@@ -67,6 +67,7 @@
 - [tukuaiai/tradecat](https://github.com/tukuaiai/tradecat)：交易猫；tradecat；全市场量化交易数据平台
 - [Longbridge CLI](https://open.longbridge.com/docs/cli/)：长桥 AI 原生命令行工具，覆盖 Longbridge OpenAPI 全部接口（130+ 命令），可获取实时行情等
 - [rmbell09-lang/tradesight](https://github.com/rmbell09-lang/tradesight)：自托管的 Python 策略研究与 Alpaca 模拟交易工具，含对账与证据门控，实盘执行默认关闭
+- [JustinGongjj/chan-structure-workstation](https://github.com/JustinGongjj/chan-structure-workstation)：零依赖的缠论结构引擎与多市场交易工作站：覆盖 A 股、港股、美股、加密货币等，带图表教学标注和可安装的手机 PWA
 
 ### Data
 - [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)：A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告等

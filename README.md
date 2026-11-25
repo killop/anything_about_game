@@ -2974,6 +2974,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Tilengine](http://www.tilengine.org/) - C Engine with wrappers for C#, Python and Java :o2:
 * [Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games.
 * [VNovels](https://vnovels.com) - A browser-based visual novel maker. Build branching, choice-based stories in a visual scene and graph editor, with an AI assistant that helps write scenes and generate backgrounds, characters, music and sound. No coding needed.
+* [WebGAL](https://github.com/OpenWebGAL/WebGAL) - A brand new web Visual Novel engine. 全新的网页端视觉小说引擎 :o2:
+* [Frostfire Forge](https://github.com/Frostfire-Interactive/Frostfire-Forge) - 2D MMO engine that runs in the browser. Build maps, quests, items and spells in editors inside the game. Built on Bun and WebTransport. 运行在浏览器里的 2D MMO 引擎，可在游戏内编辑器中制作地图、任务、物品和法术 :o2:
 
 
 ### 3D Engines and Frameworks

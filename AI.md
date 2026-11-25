@@ -255,6 +255,7 @@
 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)：100+ 开源免费的 AI Agent、Agent Skill 与 RAG 应用示例
 - [Agent Use Cases](https://agentusecases.ai/)：持续收录人们用 AI Agent 实际在做的事的目录，可找灵感决定构建或委派什么
+- [Muse 实战案例库](https://jaxxchen003.github.io/muse-use-cases/)：Meta 个人 AI 智能体 Muse 的真实高价值玩法合集，收录 X / Reddit / IG / FB / Threads 上的真实用户分享，每日更新
 
 ### Books & Courses
 - [inferloop](https://inferloop.dev/)：工程师写给工程师的 AI Infra & Agent 工程深度内容。
@@ -295,6 +296,7 @@
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground)：支持 GPT Image、Gemini（Nano Banana）和 Grok 的图片生成与编辑工具.
 - [MeowFree/GPT2Image-Pro](https://github.com/MeowFree/GPT2Image-Pro)：链接已失效（GitHub 返回 404，可能已删除、改名或设为私有）
 - [LYL1015/JarvisHub](https://github.com/LYL1015/JarvisHub)：JarvisHub：面向画布原生多模态创意 Agent 的开放 Harness
+- [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas)：用 GPU 在无限画布上绘制成千上万个实时 DOM 节点：编辑器可选择、移动和缩放，可运行着色器与转场，AI Agent 能读取并指向它们
 
 ### Figma
 - [ProdaZhang/figkit](https://github.com/ProdaZhang/figkit/)：一次 Figma 捕获，六个可运行的输出 - HTML / Unity / Godot / Unreal / Cocos + 语义 UI-DSL，由一个像素级忠实的 IR 编译而成，并声明了交互。
@@ -332,6 +334,7 @@
 - [XuToWei/Image-To-UI](https://github.com/XuToWei/Image-To-UI)：Image-to-UI Codex Skill：把游戏 UI 截图和切图转换为 ui_structure.json
 - [@RainbowYuhui 的帖子](https://x.com/RainbowYuhui/status/2059586371959001436)：MRT（CVPR 2026）：让图像生成输出分层结果，支持文本/图像/图层到图层
 - [关于一个 AI 拼 UI 的方案](https://zhuanlan.zhihu.com/p/2063263905963579316)：知乎专栏文章
+- [assistant-ui/tool-ui](https://github.com/assistant-ui/tool-ui)：用于 AI 界面的 UI 组件：把工具调用从原始 JSON 变成可交互的审批、表单、表格、图表和媒体卡片，采用 shadcn/ui 的复制粘贴模式
 
 ### UI2Code
 - [@WebPAI（GitHub 主页）](https://github.com/WebPAI)：AI 驱动的 Web 开发组织（WebPAI）
@@ -397,6 +400,7 @@
 - [Designeer](https://www.designeer.xyz/)：设计参考、可复用资源、实用工具与设计师/开发者作品集导航
 - [ZSeven-W/codex-openpencil](https://github.com/ZSeven-W/codex-openpencil)：OpenPencil 的 Codex 插件：Rust/WASM 交互画布，用提示词创建可编辑的 UI 设计文件
 - [kgoedecke/doop](https://github.com/kgoedecke/doop)：开源的 Paper.design 替代：人与 AI Agent 实时共同设计的多人画布，内置 MCP
+- [Awwwards Sites of the Month](https://www.awwwards.com/websites/sites_of_the_month/)：Awwwards 每月站点奖（Site of the Month）精选，汇集全球网页设计与开发的获奖作品，供设计灵感参考
 
 ### Logo
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator)：基于 Flux（Together AI）的免费开源 Logo 生成器
@@ -421,11 +425,13 @@
 - [runwayml-gen2](https://research.runwayml.com/gen2)：Runway Gen-2：多模态 AI 视频生成模型，支持文生视频、风格化等 8 种模式
 - [liyue-aigc/female-outfit-director](https://github.com/liyue-aigc/female-outfit-director)：女性多套穿搭拼贴首帧与卡点换装视频导演 Skill.
 - [threerocks/sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video)：从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音
+- [nexu-io/openmotion](https://github.com/nexu-io/openmotion)：开源的 Claude Motion 与剪映（CapCut）替代：把参考视频变成可编辑、套用品牌素材的动态图形，导出适配 YouTube、Shorts、Reels、TikTok 的 MP4
 
 ### Code2Video
 - [showlab/Code2Video](https://github.com/showlab/Code2Video)：通过代码生成视频（ICML 2026）
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim)：从文本和图片生成数学与物理动画及学习笔记（Manim）
 - [academa-labs/manimgx](https://github.com/academa-labs/manimgx)：面向 Agent 的动画引擎：沿用 Manim Python API、Rust GPU 内核，极速生成数学与 3D 视频
+- [ChetasLua/crimson-loong](https://github.com/ChetasLua/crimson-loong)：赤龍：用单个 HTML 文件实现的 90 秒巨龙短片，基于 Three.js，以代码生成网格、纹理和音乐，无外部素材
 
 ### Media Engine
 - [pixelxzen/phantom-motion](https://github.com/pixelxzen/phantom-motion)：Phantom Motion 是一个极其硬核的交互式动态视觉叙事生成器。
@@ -466,6 +472,8 @@ The full voice I/O stack, running locally on your machine.
 - [MaxLiu22/Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig)：把视频中的人体动作重定向到 Adobe Mixamo 绑定的 3D 角色
 - [patch-gg/anymove](https://github.com/patch-gg/anymove)：从一段 AI 视频为任意生物做动作捕捉：单帧双相机、DINOv2 关节点，拟合绑定并输出 GLB
 - [blendi-remade/prompt2rig](https://github.com/blendi-remade/prompt2rig)：输入动作描述即可让绑定角色表演：快速视频模型 + GVHMR + 实时 Mixamo 重定向
+- [toyxyz/toyxyz-motion-ai-tool](https://github.com/toyxyz/toyxyz-motion-ai-tool)：在 Blender 中使用 Kimodo、ARDY 和 MotionBricks 生成、编辑并导出 SOMA 动作
+- [NVlabs/GEM-X](https://github.com/NVlabs/GEM-X)：NVIDIA 开源的单目全身 3D 人体姿态估计：基于 SOMA 体模，从图像或视频估计身体姿态、手部姿态和时序身体运动，并可重定向到 Unitree G1
 
 ### Spine-Animation
 - [知乎专栏文章](https://zhuanlan.zhihu.com/p/1986639531613632439)：知乎专栏文章
@@ -493,8 +501,19 @@ The full voice I/O stack, running locally on your machine.
 - [JasonLiu0826/ackem](https://github.com/JasonLiu0826/ackem)：Ackem · A.C.K.E.M — 保持情感记忆的自主伙伴
 - [winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public)：一款以本地化为先导的智能体 PKM，可帮助您根据自身情况做出更好的决策。
 - [liliMozi/openhanako](https://github.com/liliMozi/openhanako)：HanaAgent 是一个更加易用的 AI agent，有记忆，有性格，会主动行动，还能多 Agent 在你的电脑上一同工作。
-- [garycaogan/ai-live-avatar](https://github.com/garycaogan/ai-live-avatar)：AI 实时直播间：Vidu S2 实时数字人、弹幕过滤调度、衣柜换装与 OBS 叠层
+- [garycaogan/gary-ai-live-avatar](https://github.com/garycaogan/gary-ai-live-avatar)：AI 实时直播间：Vidu S2 实时数字人、弹幕过滤调度、衣柜换装与 OBS 叠层（角色资产不含）
 - [livliv-dev/player](https://github.com/livliv-dev/player)：轻量的 Web 2.5D 角色播放器，支持口型同步与摄像头面部跟踪
+- [zeekk0/OpenAmika](https://github.com/zeekk0/OpenAmika)：开源 AI 陪伴角色，结合 Live2D 形象、实时语音与长期记忆，支持 OpenRouter 或 Ollama
+- [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair)：用于构建 Neuro-sama 风格 AI VTuber 和 AI 角色的 TypeScript 工具包，支持聊天、语音、记忆与实时观众互动
+- [TREE-Ind/MetahumanMaker](https://github.com/TREE-Ind/MetahumanMaker)：面向艺术家和 AI Agent 的 Blender 插件：从照片或网格拟合可编辑 MetaHuman 角色，修复皮肤细节，并可导入 Unreal Engine
+- [suzuran0y/Live2D-LLM-Chat](https://github.com/suzuran0y/Live2D-LLM-Chat)：Live2D + ASR + LLM + TTS 的实时对话项目：虚拟角色识别语音、生成回复并驱动口型，支持本地部署或云端推理
+- [chyinan/Kokoro-Engine](https://github.com/chyinan/Kokoro-Engine)：跨平台虚拟角色沉浸式交互引擎：将 Live2D、LLM、TTS、STT 集成在同一运行时，支持角色卡、本地优先记忆，以及 MOD 与 MCP 扩展
+- [hsuehly/xiaoyu](https://github.com/hsuehly/xiaoyu)：基于 Flutter 的开源数字人陪伴 App，支持 iOS 与 Android，接入 Vidu，实现实时语音、视频互动与快捷动作
+- [cyber-xiaoya/cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live)：赛博小雅直播版：基于 Vidu S2 的组件版数字人，开源 AGPL-3.0，覆盖舞台页、本地桥和弹幕/歌单/录播全链路
+- [hyperlogue/catchlight](https://github.com/hyperlogue/catchlight)：实时 2.5D 角色动画工具栈：通过变形 2D 部件模拟 3D 运动，提供浏览器演示、本地编辑器，以及可供 Agent 共同编辑的会话
+- [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber)：Luna AI 虚拟主播：可用 Live2D、VTube Studio、UE5 等形象，直连 B 站、抖音、快手、视频号、YouTube、Twitch、TikTok 弹幕，支持 TTS、变声和循环播文案
+- [HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)：阿里通义团队开源的实时数字人对话框架：模块化接入 ASR、LLM、TTS 和多种形象（LiteAvatar、LAM、MuseTalk、FlashHead），适合客服、展厅讲解和陪聊
+- [@xiangxiang103 的帖子](https://x.com/xiangxiang103/status/2125427384254120269)：整理了 6 个可自建 AI 主播的开源项目（赛博小雅、LiveTalking、Open-LLM-VTuber、AI-Vtuber、OpenAvatarChat、Gary AI 直播间），覆盖弹幕、换装、点歌、卖货和陪聊
 
 ### AI-3D
 - [alchaincyf/3d-vibe-coding-handbook](https://github.com/alchaincyf/3d-vibe-coding-handbook)：《3D Vibe Coding 手册》配套仓库：书的 HTML 版、demo 源码、工具脚本与资源包索引
@@ -530,6 +549,7 @@ The full voice I/O stack, running locally on your machine.
 - [Shop — Simulacrum Inc](https://www.simulacrum.dk/Shop#unity-gsplat-editor)：Simulacrum 商店页：Unity 高斯泼溅（Gsplat）编辑器
 - [HiFi-Human/DynGsplat-unity](https://github.com/HiFi-Human/DynGsplat-unity)：Unity 中渲染与播放动态高斯泼溅序列的插件包
 - [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)：Spirula Studio trains 3D Gaussian Splatting models – from raw photo/video to splat to textured mesh
+- [siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio)：像素风高斯泼溅的雕刻、动画与仿真工具包：把有向距离实体烘焙成 splat，并让它们运动、反应、破碎和生长
 
 ### Texture
 - [DCFApixels/WhimTex](https://github.com/DCFApixels/WhimTex)：WhimTex：Unity 精灵与纹理编辑器，支持快速修图、VFX 遮罩、程序噪声与分层绘制
@@ -556,6 +576,14 @@ The full voice I/O stack, running locally on your machine.
 - [genex-games/genex-desktop](https://github.com/genex-games/genex-desktop)：AI 游戏开发桌面应用：用 Unreal、Unity、Godot 或浏览器做游戏，Agent 自动配置引擎、构建并试玩
 - [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio)：一句话描述小游戏，在 DeepSeek Harness 侧边栏试玩，可换 AI 美术并一键发布到 GitHub Pages 或 Cloudflare
 - [lovisdotio/video-to-game](https://github.com/lovisdotio/video-to-game)：教编程 Agent 把游戏实录视频做成可在浏览器游玩的游戏（视觉、镜头、机制，Three.js）
+- [higgsfield-ai/skills · higgsfield-websites](https://github.com/higgsfield-ai/skills/tree/main/higgsfield-websites)：生成游戏素材并搭建、部署浏览器游戏（已合并原 higgsfield-game-generation）
+- [github/awesome-copilot · game-engine](https://github.com/github/awesome-copilot/tree/main/skills/game-engine)：游戏循环、物理碰撞与 2D/3D 渲染等引擎底层 Skill
+- [Jeffallan/claude-skills · game-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/game-developer)：Unity/Unreal 玩法开发与性能优化 Skill
+- [rivet-dev/skills · multiplayer-game（历史版）](https://github.com/rivet-dev/skills/blob/ba5d3db3d7489cfc6190fd0de45b96e3787e1ea3/multiplayer-game/SKILL.md)：玩家匹配、房间与实时状态同步；主分支已移除，此为历史提交，依赖需自行核对
+- [openai/skills · develop-web-game（历史版）](https://github.com/openai/skills/blob/0ed635aad23fb73b98f75e0f99f407ffcaeba4ea/skills/.curated/develop-web-game/SKILL.md)：让 Codex 边写边测网页游戏：看截图、查报错、修 Bug；已从 OpenAI curated 目录移除，此为历史提交
+- [AIGeeksGroup/Code2Games](https://github.com/AIGeeksGroup/Code2Games)：让编程 Agent 生成可玩的游戏世界（Code2Games 论文项目）
+- [GrinZero/open-game-studio](https://github.com/GrinZero/open-game-studio)：面向 Codex 的本地游戏制作工作台：把参考、文档、媒体和 3D 资产放到可视化画布上，支持不可变资产、角色制作流程和 MCP Apps
+- [@FiniYang 的帖子](https://x.com/FiniYang/status/2124708834593952084)：从一张赵云立绘用 AI 手搓 3D 动作游戏《暗黑三国》的全流程教程：公开从单图绑骨到双端试玩的提示词，附首章试玩
 
 ### Game-Design
 - [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame)：Your own one-person game studio. Everything you need to make games with AI, in one app. Bring your own key
@@ -564,6 +592,10 @@ The full voice I/O stack, running locally on your machine.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)：Turn a single Claude Code session into a full game development studio.
 - [chaohong-ai/ai-game-studio](https://github.com/chaohong-ai/ai-game-studio)：游戏创作平台，开发小白可以通过提示词创作完成度比较高的游戏。.
 - [DY-2026/ParanoiaSkills](https://github.com/DY-2026/ParanoiaSkills)：把游戏设计工作流做成可安装、可验证、可迁移的 Agent Skill 包
+- [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill)：基于樱井政博游戏制作系列 257 期正片字幕整理的游戏制作 Agent Skill，非官方、日语内容
+- [omer-metin/skills-for-antigravity · game-ui-design](https://github.com/omer-metin/skills-for-antigravity/tree/main/skills/game-ui-design)：菜单、血条、背包等游戏界面设计 Skill
+- [pluginagentmarketplace/custom-plugin-game-developer · game-design-theory](https://github.com/pluginagentmarketplace/custom-plugin-game-developer/tree/main/skills/game-design-theory)：玩法、难度与奖励设计 Skill，解决“能跑但不好玩”
+- [gamedev-skills/awesome-gamedev-agent-skills · game-feel](https://github.com/gamedev-skills/awesome-gamedev-agent-skills/tree/main/skills/disciplines/game-feel)：打击反馈、屏幕震动、音效等游戏手感 Skill
 
 ### 2D-Game
 - [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)：Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts
@@ -839,6 +871,8 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [@servasyy_ai 的帖子](https://x.com/servasyy_ai/status/2034078130919665749)：写了 1 个月、拆了100+ 篇文档后：我们终于让 4-Agent AI 装上记忆操作系统
 - [@leo_xiaolei 的帖子](https://x.com/leo_xiaolei/status/2120190829864301000)：首次公开 Claude 记忆的组成部分和架构
 - [Riley-Coyote/mnemos-mcp](https://github.com/Riley-Coyote/mnemos-mcp)：给 Agent 自身的连续性记忆 MCP：用 Agent 自己的话写在本机，每次会话以同一身份醒来
+- [Sibyl-Labs/Sibyl-Memory](https://github.com/Sibyl-Labs/Sibyl-Memory)：面向 AI Agent 的文件式持久长期记忆，提供 SDK、CLI、MCP 服务、Hermes 适配器和 LangGraph BaseStore，无需向量数据库或 embedding
+- [ClickHouse/loom](https://github.com/ClickHouse/loom/blob/main/i18n/zh-CN/README.md)：开源、可自托管的 MCP 服务器，为 AI Agent 提供共享长期记忆、文档搜索和代码索引，记忆会指向相关文件与符号，并在 Agent 编辑它们时浮现
 
 ### RAG
 - [Marktechpost/Token-Saver](https://github.com/Marktechpost/Token-Saver)：pdf rag
@@ -1128,6 +1162,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs)：开箱即用的 Agent Harness
 - [inclusionAI/AEnvironment](https://github.com/inclusionAI/AEnvironment)：面向 Agentic AI 开发的标准化环境基础设施
 - [wangziqi06/724-office](https://github.com/wangziqi06/724-office)：7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production
+- [LofiSu/dsh-super-agent](https://github.com/LofiSu/dsh-super-agent)：仿 DeepSeek Super-agent 风格的开源多 Agent 框架（非 DeepSeek 官方）：薄 harness 的异步 ReAct 运行时，上层有 Router/Worker、触发器、线程、评估、工单和 Watchdog
 
 ### Common-Agent
 - [kortix-ai/suna](https://github.com/kortix-ai/suna)：Kortix CompanyOS：开源公司操作系统，多人协作 AI Agent，公司即代码
@@ -1180,6 +1215,7 @@ File-first memory infrastructure for AI agents, built with .NET 8 and Azure back
 - [@oneworks-ai（GitHub 主页）](https://github.com/oneworks-ai)：One Works（万可）是一个开源 AI 工作空间，核心是可扩展插件体系和标准化配置体系。它统一管理 agents、工具、适配器、会话和本地运行数据，覆盖桌面端、Web、VS Code 与 CLI，让团队一次配置，在所有入口复用同一套 AI 工作流。
 - [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos)：开源自托管的企业 AI Agent 平台：共享对话、RAG、Skill、真实浏览器与 MCP，可设预算与审批
 - [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS)：Kortix CompanyOS：开源公司操作系统，多人协作 AI Agent，公司即代码，可在自有或官方基础设施上运行
+- [hikariming/dsh-ee](https://github.com/hikariming/dsh-ee)：面向 DeepSeek Harness（DSH）的自托管企业平台：接入企业系统与知识，构建经审核、带权限的 AI 微应用
 
 ### Ai-Studio
 - [Lianues/AIStudioBuildCopy](https://github.com/Lianues/AIStudioBuildCopy)：基于 Gemini 的 Web 交互式 IDE，可用自然语言让 AI 读写项目文件
@@ -1332,6 +1368,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 
 ### Distributed-Agent-Runtime
 - [google/ax](https://github.com/google/ax)：Google's open source distributed agent runtime
+- [vicotrbb/cubebot](https://github.com/vicotrbb/cubebot)：面向持久化、可协作 AI Agent 的 Kubernetes 原生运行时
 
 ### AI-Meta
 - [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)：用 LLM 和决策模型从文档中提取结构化数据与洞察
@@ -1389,6 +1426,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)：《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)：开源的本地代码解释器
+- [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer)：开源、可自托管的 Devin 替代：在 Slack 里把任务交给 @Computer，它在独立电脑上工作，团队可观看和引导，最终以 Pull Request 交付
 
 ### Claude-Code
 - [MadAppGang/claudish](https://github.com/MadAppGang/claudish)：Use your existing AI subscriptions with Claude Code. Works with Anthropic Max, Gemini Advanced, ChatGPT Plus/Codex, Kimi, GLM, OllamaCloud — plus 580+ models via OpenRouter and local models for complete privacy.
@@ -1467,6 +1505,7 @@ Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustra
 ### Code-Ide
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc)：向 IDE 暴露 llms.txt 用于开发
 - [gersteinlab/LocAgent](https://github.com/gersteinlab/LocAgent)：LocAgent：图引导的代码定位 Agent 框架（ACL 2025）
+- [lucas9801/solo](https://github.com/lucas9801/solo)：基于 Zed 的终端优先 AI 编程 agent 编辑器：终端占满窗口跑 Claude Code、Codex 等，代码编辑器从右侧打开，支持 agent 状态显示、按项目分工作区、按轮审阅和回滚
 
 ### Codebase
 - [Qiuner/birdview](https://github.com/Qiuner/birdview/)：用 Birdview 来改变开发的流程！真正地从关注代码到关注架构！解决 AI coding 的黑盒！
@@ -1565,6 +1604,7 @@ Programming Books v0.5
 - [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill)：A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review)：Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - [huoji120/code_review_agent](https://github.com/huoji120/code_review_agent)：超级黑暗代码审计agent
+- [kodustech/kodus-ai](https://github.com/kodustech/kodus-ai)：开源、可自托管的 AI 代码审查：用自己的 LLM，在 GitHub、GitLab、Bitbucket、Azure DevOps 和 Forgejo 的 PR 里做审查
 
 ### Board-Agent
 - [chen-985211/cleancode](https://github.com/chen-985211/cleancode)：编排 Claude Code、Codex 等 CLI Agent 的开源画布：并行运行、委派任务、构建可复用工作流
@@ -1641,6 +1681,7 @@ The model writes about 1/8 of the tokens it would need to hand-write the HTML.
 - [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)：MiniMax 官方开发 Skill：为编程 Agent 提供前端、全栈、移动端、Shader 开发指导
 - [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills)：ljg 自定义技能集。
 - [lala-lzw/ai-profile](https://github.com/lala-lzw/ai-profile)：Android 真机 GPU 性能采样 Agent Skill：sdpcli 计数器、桌面工作台、FPS 与离线报告
+- [cruzedevelopment/use-ui-libraries](https://github.com/cruzedevelopment/use-ui-libraries)：Claude Code Skill：让 Claude 优先使用现有的 UI 组件库、设计系统和组件注册表，而不是从零手写组件
 
 ### Skill-Router
 - [Yuzc-001/skill-router](https://github.com/Yuzc-001/skill-router)：一层低存在感的 skill 运行时，用来降低 skill-heavy agent 环境里的选择浪费
@@ -1668,6 +1709,8 @@ The model writes about 1/8 of the tokens it would need to hand-write the HTML.
 - [@jakevin7 的帖子](https://x.com/jakevin7/status/2115310271095005304)：在 DeepSeek Harness 中发现 OAR（Open Agent Runtime），用统一 TS API 驱动多种编程 Agent 并做子 Agent
 - [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)：链接已失效（GitHub 返回 404，可能已删除、改名或设为私有）
 - [aa1143/NamiDSH](https://github.com/aa1143/NamiDSH)：对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent
+- [botiverse/oar](https://github.com/botiverse/oar)：OAR（Open Agent Runtime）：与具体 harness 无关的编程接口，用同一套 TypeScript API 驱动 Claude Code、Codex、DeepSeek Harness、Pi 等多种编程 Agent
+- [mileson/open-vibecoding](https://github.com/mileson/open-vibecoding)：面向 Vibe Coding 的能力增强型协作框架（Harness），让编码 Agent 从理解需求到交付验证，按任务选用产品、设计、研发和测试能力，过程看得见、可审查、可学习、可进化
 
 ### Context-Engineering
 - [cortexkit/magic-context](https://github.com/cortexkit/magic-context)：Unbounded context. Memory that manages itself. One session, for life
@@ -1756,6 +1799,8 @@ Claude Code Workflow 原理研究(抓包后分析)
 - [shuxueshuxue/Spexcode](https://github.com/shuxueshuxue/Spexcode/)：SpexCode 在你的 git 仓库里维护一棵带版本的 spec 树,把每个 spec 和它管辖的代码链接起来,并运行一个会话管理器
  
 - [inngest/inngest](https://github.com/inngest/inngest)：Inngest：领先的工作流编排平台，可在 Serverless、服务器或边缘运行有状态步骤函数和 AI 工作流
+- [@_avichawla 的帖子](https://x.com/_avichawla/status/2122244582675296558)：介绍 Swamp：将重复的 Skill 固化为可复用工作流，由代码控制步骤、仅在需要判断时调用模型，并记录每次运行
+- [Mola-maker/mstack](https://github.com/Mola-maker/mstack)：Mola-maker 的个人 agent 工作流技能栈：把 superpowers、gstack、pstack、oh-my-claudecode 四套 skill 去重合并成 17 个互不重叠的 skill，一个 `/go` 命令串起想、计划、实现、验证、审查到提 PR
 
 ### Agent-Loop
 - [alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)：别再问我什么是 Loop Engineering — 橙皮书系列。
@@ -1787,12 +1832,13 @@ Claude Code Workflow 原理研究(抓包后分析)
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)：让编程 Agent 别把答案埋起来的 Skill，输出对 ADHD 友好
 - [juyterman1000/entroly](https://github.com/juyterman1000/entroly)：可逆、可审计的 AI 上下文压缩，每次压缩都能字节级恢复，本地优先
 - [Makson179/Bello](https://github.com/Makson179/Bello)：让编程 Agent 用量提升 3 倍、质量不变：支持多 Agent、混用模型、并行互检，减少不必要的模型调用
+- [Liuzedooong/SparseReading](https://github.com/Liuzedooong/SparseReading)：让 AI Agent 从多种信息源中选择性读取重要内容，减少不必要的上下文与 token 消耗
 
 ## 多智能体与编排 Multi-Agent
 
 ### Multi-Agent Swarms
 - [xiaotianfotos/homerail](https://github.com/xiaotianfotos/homerail)：Voice-first local agent orchestration runtime for auditable DAG workflows.
-- [google/sam](https://github.com/google/sam)：SAM Sovereign Agent Mesh
+- [google/agentmesh](https://github.com/google/agentmesh)：面向 AI Agent 的私有网络：节点可发布工具与模型、发现并调用其他节点的服务，身份可验证，默认不可达，支持直连或经中继穿越 NAT
 - [division-sh/swarm](https://github.com/division-sh/swarm)：The operating system for autonomous multi-agent systems.
 - [@Reina-Agent（GitHub 主页）](https://github.com/Reina-Agent)：桌面 AI 智能体 —— 多智能体协作、MCP 与 Skills、自带模型
 - [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge)：Agent CLI 聚合和团队
@@ -1886,6 +1932,7 @@ Claude Code Workflow 原理研究(抓包后分析)
 - [microsoft/Agensh](https://github.com/microsoft/Agensh)：去中心化、可扩展的多智能体 Harness
 - [clawboo/clawboo](https://github.com/clawboo/clawboo)：开源的 AI Agent 团队工作室：部署营销/开发/研究小队并实时观看委派协作，一条命令自托管
 - [ai-timon/timon](https://github.com/ai-timon/timon/)：本机运行的 AI Agent 团队：编排器把任务分给编码、审查、合并等角色，基于已有 CLI 订阅，重要操作先询问
+- [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm/blob/main/README.zh-CN.md)：统一多个 Agent、打破上下文壁垒的协作工具，让不同 Agent 共同完成任务
 
 ### Orchestration
 - [Pipelex/pipelex](https://github.com/Pipelex/pipelex)：A method is a reusable, typed AI procedure — declared in a .mthds file and executed by Pipelex.
@@ -1975,6 +2022,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [j3n5en/EnsoAI](https://github.com/j3n5en/EnsoAI)：Unleash parallel intelligence within a single project.
 - [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)：ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow.
 - [junghan0611/entwurf](https://github.com/junghan0611/entwurf)：在 Herdr 或 tmux 中打开可见的并列 AI 会话，按 garden id 重开、发消息或退役，各 Harness 保持独立运行时
+- [anton-abyzov/specwithcode](https://github.com/anton-abyzov/specwithcode)：免费开源桌面应用：可在本机并排运行 Claude Code、Codex、Copilot 等编程 Agent，其中一个额度用尽时，另一个可接着同一条线程继续做
 
 ### Agent2Agent
 - [openclaw/acpx](https://github.com/openclaw/acpx)：Headless CLI client for stateful Agent Client Protocol (ACP) sessions
@@ -1995,6 +2043,8 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) Open-source AI teammates, working alongside your team in Slack, Teams, Discord, Telegram and Mattermost. Self-host it or run it on Switch Cloud Coming soon, with any agent and any model.
 - [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
 - [agentworkforce/relay](https://github.com/agentworkforce/relay)：开源工具包，为团队提供编程 Agent 协作基础设施：共享频道、把 GitHub/Slack 等作为虚拟文件系统、共享会话与可强制执行的工作流
+- [CryogenicPlanet/chirp](https://github.com/CryogenicPlanet/chirp)：可自托管的留言板：人与 Claude、Codex 等 Agent 通过持久话题、提及、光标和 HTTP 接入来协同工作
+- [plannotator/talkto](https://github.com/plannotator/talkto)：面向 AI Agent 的留言板：Agent 可加入服务器、在频道发帖并私信，也可邀请团队的 Agent 一起协作
 
 ### Agent-Bridge
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)：Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms
@@ -2070,6 +2120,7 @@ Ghostty-inspired terminals, a built-in file editor, and git tracking keep every 
 - [vilmire/adhdev](https://github.com/vilmire/adhdev)：ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)：Multi-session AI coding terminal manager - autonomously orchestrate Claude, Codex, Gemini, OpenCode, Cursor
 - [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade)：Brigade Stack：在任意位置运行编程 Agent 并统一记录工作，支持共享任务、认领、验证凭据、交接及 MCP/Skill 同步
+- [klarkxy/ds-dot](https://github.com/klarkxy/ds-dot)：Dorothy（dot）：DeepSeek Harness（DSH）的常驻协调插件，管理工作区、派发并跟进会话任务，处理审批、提醒并汇报结果
 
 ### IM-Agent-Swarm && Control-Plane && Bot
 - [my-tierroom](https://my-tierroom.party/)：对比各类 AI Agent 的功能、应用、记忆与价格，帮你找到合适的 Agent
@@ -2152,6 +2203,14 @@ One system to connect your team, AI agents, devices, and compute
 - [theopenbee/openbee](https://github.com/theopenbee/openbee)：把已有的 Claude Code、Codex 或 pi 变成一组常驻工作的 Agent 团队
 - [MixGeekers/dscord](https://github.com/MixGeekers/dscord)：可自托管的聊天协作空间（实验性）：在群里与 Bot 讨论、交办整理资料和写文档，Bot 可跨机器并互相委派
 - [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.
+- [@savvy_luvvvv 的帖子](https://x.com/savvy_luvvvv/status/2122368850259833145)：分享 Grok Bot 多智能体团队的七步运营实践，涵盖角色分工、文件交接、审批边界与自动化用量管理
+- [davidondrej/superbot](https://github.com/davidondrej/superbot)：开源、可自托管的 Grok Bot 替代：一组有名字、职责、记忆和真实电脑的 AI Bot，部署在自己的 VPS 上，跑在 Claude Code、Codex 或 Pi 上，支持 routine 和 Bot 间协作
+- [stablyai/orca](https://github.com/stablyai/orca)：用自己的 Claude Code、Grok、Agy、Codex 等订阅运行一组 Bot：可在桌面、手机和远程运行时上使用，支持从 Slack 等下发任务并在 Orca 里审查
+- [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)：开源、本地优先的桌面 AI Agent 团队：基于 pi，支持多智能体群聊、电脑操作、浏览器、MCP、routine 和审批，覆盖 macOS、Windows、Linux 和 Android
+- [acowork/acowork](https://github.com/acowork/acowork)：人与 AI Agent 一起交付工作的多智能体协作平台：多用户、分布式、带统一控制面，人和 Agent 共享同一套聊天、项目与文档，可单机或组集群运行
+- [DueGin/orca-ensemble](https://github.com/DueGin/orca-ensemble)：Orca 的智能体团队插件：由协调器与成员在共享任务板或委派模式下协作，带实时数据流面板、团队编辑器和运行报告
+- [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents)：免费开源、本地优先的 Agent 工作台与任务系统：可接入多种 Runtime 和订阅，带定时任务、飞书/钉钉/Telegram 通道，并能用 AgentNet 把多台电脑组成私有任务网络
+- [gmpetrov/brigade](https://github.com/gmpetrov/brigade)：开源、可自托管的 Grok Bot 替代：用已有的 Claude Code 或 Codex 订阅运行一组有职责的 AI 同事，可写代码、做客服和营销，需你拍板的决策会汇总到手机上
 ### WorkRoom
 - [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D)：Hermes3D：基于 Hermes Agent 的开源 3D 引擎，用于游戏、仿真与高性能 3D 应用
 - [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail)：AI 编程 Agent 的本地可观测性：实时地图展示每个 Agent 在做什么
@@ -2347,6 +2406,10 @@ One system to connect your team, AI agents, devices, and compute
 - [Blackman99/deskfolk](https://github.com/Blackman99/deskfolk)：开源的 Grok Bot/Muse/Dots 替代，兼 Codex/Claude GUI，强调更好的 UI 与性能
 - [rerun-build/rerun](https://github.com/rerun-build/rerun)：可自托管的 AI 同事（AGPL-3.0），替你执行工作
 - [eigent-ai/eigent · README_CN.md](https://github.com/eigent-ai/eigent/blob/main/README_CN.md)：Eigent：开源的 Cowork 桌面应用，作为 Claude Cowork 与 Codex 的本地免费替代
+- [n8n-io/nod](https://github.com/n8n-io/nod)：n8n 推出的开源个人 Agent，自带电脑操作能力，可处理发票、通话准备与网站事务；在本机运行并自选模型，行动前请求确认
+- [simplexai-labs/linger](https://github.com/simplexai-labs/linger)：完全跑在本地电脑上的开源个人 Agent：通过模型与 harness 协同设计，在 12 GB 显卡上运行 125B 级模型，零 token 费用，带记忆、主动提醒、多 Agent 团队和浏览器操作
+- [QwenPaw](https://qwenpaw.agentscope.io/)：可在自己环境中运行的个人 AI 助手，支持本地或云端部署，通过钉钉、飞书、微信、Discord、Telegram 多通道访问，并可用 Skill 扩展
+- [qybaihe/botark](https://github.com/qybaihe/botark)：把 Grok Bot、ChatGPT Dot、Meta Muse、Hark、Hermes 等个人 AI Agent 收进同一个 macOS 和 Windows 原生桌面工作台，也可在协作室里让它们接力共创
 
 ### Bot
 - [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot)：麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
@@ -2358,6 +2421,8 @@ One system to connect your team, AI agents, devices, and compute
 - [linyu-im/linyu-client](https://github.com/linyu-im/linyu-client)：林语（Linyu）致力于打造简单可部署、可自托管的开源即时通讯方案
 - [crmne/zapfast](https://github.com/crmne/zapfast)：ZapFast: a fast, native WhatsApp client in Rust and egui
 - [NYLLON-SOFTWARE/ember-cloudflare](https://github.com/NYLLON-SOFTWARE/ember-cloudflare)：开源的类 Slack/Campfire 聊天应用，可一键部署到 Cloudflare
+- [wangrongding/SuperHive](https://github.com/wangrongding/SuperHive)：开源的多人、多 Agent 协作空间：人类在浏览器、飞书或微信里聊天，Codex、Claude Code、Copilot 等在各自电脑上接入同一房间，可自托管到本机或云服务器
+- [trina-app/trina-ax](https://github.com/trina-app/trina-ax)：自托管的团队 Claude Code 与 Codex：一次配置后全员可用，集中公司文件、团队 Skill、MCP 和共享 AI 会话，并按个人文件夹权限控制访问
 
 ### Feishu
 - [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark)：飞书官方出品的 OpenClaw 飞书/Lark Channel 插件.
@@ -2532,6 +2597,7 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 - [filip-michalsky/SalesGPT](https://github.com/filip-michalsky/SalesGPT)：SalesGPT：上下文感知的 AI 销售 Agent，自动化销售外联
 - [beiyege-01（天工开帧）](https://github.com/beiyege-01)：GitHub 用户主页（显示名：天工开帧），公开 13 个仓库
 - [xevrion/hatchzip](https://github.com/xevrion/hatchzip)：免费开源解压工具，支持 ZIP/7z/RAR/tar 及分卷，原地解压（Windows/macOS/Linux）
+- [@Greta0086 的帖子](https://x.com/Greta0086/status/2123819193061839252)：介绍 49 美元即可成为哈萨克斯坦电子居民，可拿到电子身份证、eSIM 和银行卡
 
 ### Digest
 - [steipete/summarize](https://github.com/steipete/summarize)：输入任意网址、YouTube、播客或文件即可获得摘要（CLI 与 Chrome 扩展）
@@ -2541,6 +2607,7 @@ Parametric build123d CAD models with mechanical-power animations, deployed as a 
 
 ### Money
 - [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)：ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
+- [hzm0321/real-time-fund](https://github.com/hzm0321/real-time-fund)：基金实时估值查看工具
 
 ### AI-Rent-Human
 - [rentahuman](https://rentahuman.ai/)：在线雇佣真人完成现实任务的市场（78.7 万+ 档案）
